@@ -1,0 +1,29 @@
+--- 
+layout: post
+title: Garfagnana
+series: 
+  name: Tuscany
+  index: 37
+redirects: 
+- /node/585
+- /personal/travel/tuscany/garfagnana
+tags: 
+- Tuscany
+description: As we came out of the mountains, we settled into an area called the Garfagnana. This is where I want my Italian home. It was serene, luscious, the homes were beautiful, and we were close to Lucca for shopping.
+---
+<p>As we came out of the mountains, we settled into an area called the Garfagnana. This is where I want my Italian home. It was serene, luscious, the homes were beautiful, and we were close to Lucca for shopping.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Serchio River" target="_blank" href="/files/photos/tuscany/garfagnana_serchio.jpg">
+    <img class="journalPhoto" alt="The Serchio River" src="/files/photos/tuscany/garfagnana_serchio.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">The Serchio River</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A medieval bridge known as &quot;The Devil's Bridge&quot; for its odd shape" target="_blank" href="/files/photos/tuscany/garfagnana_devilsbridge.jpg">
+    <img class="journalPhoto" alt="A medieval bridge known as &quot;The Devil's Bridge&quot; for its odd shape" src="/files/photos/tuscany/garfagnana_devilsbridge.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">A medieval bridge known as "The Devil's Bridge" for its odd shape</div>
+</div>
+<p>After this area, we went to some villas in the area, but we decided to come back to the is area for dinner and ate along the river.</p>

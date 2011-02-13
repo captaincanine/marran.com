@@ -1,0 +1,40 @@
+--- 
+layout: post
+title: The Cruelest Daddy in the World
+redirects: 
+- /node/387
+- /personal/blog/gogo/cruelest-daddy-world
+tags: 
+- Gogo
+images: 
+- thumbnail: http://farm4.static.flickr.com/3144/2298692069_66c6844967_m.jpg
+  fullsize: http://farm4.static.flickr.com/3144/2298692069_66c6844967_b.jpg
+- thumbnail: http://farm4.static.flickr.com/3033/2298691301_77e085a25c_m.jpg
+  fullsize: http://farm4.static.flickr.com/3033/2298691301_77e085a25c_b.jpg
+description: It's been about 8 weeks now since Gogo had surgery for her floating patella. About three times over the course of her recovery, someone suggested I consider getting hydrotherapy for her. We live just 5 blocks from a canine hydrotherapy place in the city (http://www.thedogrun-nyc.com/), so I took it as a sign from God that Gogo should have hydrotherapy.
+---
+It's been about 8 weeks now since Gogo had surgery for her floating patella. About three times over the course of her recovery, someone suggested I consider getting hydrotherapy for her. We live just 5 blocks from a canine hydrotherapy place in the city (<a target="_blank" href="http://www.thedogrun-nyc.com/">http://www.thedogrun-nyc.com/</a>), so I took it as a sign from God that Gogo should have hydrotherapy.
+
+I had been resisting because I know how much Gogo hates water. She doesn't like going out in the rain, she doesn't like going out when it's still from having rained recently, she doesn't like walking on a sidewalk that's been recently hosed down. I couldn't imagine anything crueler than to make Gogo have knee surgery and then make her swim during her recovery. But so be it, it would be for her own good, and that's part of being a good parent, right?
+
+We went for our first session this past week. I asked the girl at the front if they're okay with dogs that <strong>despise</strong> water and she said that the therapists get the dogs acclimated in about 5 minutes. I have been watching "The Dog Whisperer", so I can believe in canine behavior miracles.
+
+After the morning walk, I put Oz in the bedroom by himself and took Gogo for a walk. She was ecstatic to be walking with just the two of us. She would often look up at me with a huge smile to say "I'm so glad we're rid of that other one!" As soon as I walked up to the door of the hydrotherapy place, she started pulling to go home. I don't know what she was reacting to, it could have been the fact that she knew it was a day care place from the smell, or she could smell the water, or any number of things. We went in and I sat down on a bench next to the pool while Gogo growled at the other dogs (there were about 20 other dogs there for daycare - none of them swimming). I got to see the therapist with another dog before our appointment. It happily and lazily paddled in the water with not a care in the world.
+
+We got "John" for the first session. I've since talked to dog store owners in the neighborhood and they all seem to know John or at least have heard of him. John's process of getting Gogo acclimated to water was to pick her up (she ran from him), and take her in the pool and let go. Gogo absolutely panicked. She paddled furiously towards me. She struggled to keep her head up. John grabbed her waist so that she couldn't make any progress but had to continue swimming to stay afloat. Here are some pictures:
+
+{{ "http://farm4.static.flickr.com/3144/2298692069_66c6844967_b.jpg" | format_photo }}
+
+{{ "http://farm4.static.flickr.com/3144/2298692069_66c6844967_b.jpg" | format_photo }}
+
+She kept paddling with no end in sight. She kept staring up at me with pleading and terror-stricken eyes. Every five minutes, he would lift up her torso so that she could pant and catch her breath. He also stretched out her hind legs at the same time. After a short break, it was back in the water for more swimming. Time has never felt like it crawled along at a slower pace.
+
+I have to admit that I wanted to leave. I didn't want to be witness to Gogo clearly having a horrible time. I smiled and encouraged her and tried to let her know that this was all perfectly normal. (Somewhere in the back of my mind, I have memories of mother doing the same to me, but I must have done a good job repressing them because none spring to mind immediately)
+
+I noticed at the beginning that Gogo was not really using her hind legs. She would move them only an inch or two. I think that's part of the reason he was stretching out her hind legs during swimming. Sure enough, by the end of the session, she was using more of her back legs (though still not normal). And she eventually got used to swimming. I wouldn't say she enjoyed it, but she at least looked calmer:
+
+{{ "http://farm4.static.flickr.com/3144/2298692069_66c6844967_b.jpg" | format_photo }}
+
+We went two days later and had a different therapist. This one was a female. Gogo was happier because this meant that she was much more manipulable. Gogo spent much more time in "recovery" mode - a.k.a. being held in the arms of the therapist. She twice pretended that she was getting used to swimming by swimming circles around the therapist. The therapist would praise Gogo for her good swimming, Gogo would gradually increase the distance between her and the therapist, and would then bolt for the stairs to leave the pool.
+
+I'm hoping to see a big change in another couple of weeks. Hoestly, it seems like she was walking a little straighter after the first session, so I'm pretty hopeful. They say that only about 1% of the dogs never quite enjoy swimming. I'm pretty sure Gogo is one of those, but I'm willing to suspend disbelief.

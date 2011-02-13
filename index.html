@@ -1,0 +1,173 @@
+---
+layout: default_front
+title: Keith Marran
+---
+
+<div class="home-top clearfix">
+
+	<div class="left">
+		<div class="keith">Keith</div>
+		<div class="marran">Marran</div>
+		<div class="lives">Lives</div>
+		<div class="the-rest">in New York City with his Spousal Equivalent, David, and his offspring equivalents, Gogo and Oz.</div>
+	</div>
+
+	<div class="right">
+
+		<div class="box">
+			<div class="box-header">
+				<div class="box-header-left box-title">
+					This is what he's thinking...
+				</div>
+				<div class="box-header-right"></div>
+			</div>
+			<div class="box-middle">
+				<div class="box-middle-left">
+					<div id="feed"></div>
+					<div class="social-links">Find Keith on <a href="http://www.facebook.com/marran" title="Keith on Facebook" target="_blank"><img src="/images/icons/hand_drawn_facebook.png" alt="Keith on Facebook" /></a> or <a href="http://twitter.com/#!/CaptainCanine" title="Keith on Twitter" target="_blank"><img src="/images/icons/hand_drawn_twitter.png" alt="Keith on Twitter" /></a> or <a href="http://www.flickr.com/people/keith-marran/" title="Keith on Flickr" target="_blank"><img src="/images/icons/hand_drawn_flickr.png" alt="Keith on Flickr" /></a></div>
+				</div>
+				<div class="box-middle-right"></div>
+			</div>
+			<div class="box-footer">
+				<div class="box-footer-left"></div>
+				<div class="box-footer-right"></div>
+			</div>
+		</div>
+
+	</div>
+
+</div>
+
+<div class="home-bottom clearfix">
+
+	<div class="left">
+		
+		<div class="box">
+			<div class="box-header">
+				<div class="box-header-left clearfix">
+					<div class="box-title title">The Latest Entry</div>
+					<div class="meta">{{ site.latest_blogs[0].date | time_ago }}{{ site.latest_blogs[0].tags | tag_links }}</div>
+				</div>
+				<div class="box-header-right"></div>
+			</div>
+			<div class="box-middle">
+				<div class="box-middle-left">
+				
+					<div class="teaser-feature">
+						<div class="title"><a href="{{ site.latest_blogs[0].url }}" title="{{ site.latest_blogs[0].title }}">{{ site.latest_blogs[0].title }}</a></div>
+						{% if (site.latest_blogs[0].images) %}<div class="image"><a href="{{ site.latest_blogs[0].url }}" title="{{ site.latest_blogs[0].title }}"><img src="{{ site.latest_blogs[0].images[0] | format_main_image }}" /></a></div>{% endif %}
+						<div class="description">{{ site.latest_blogs[0].description }}</div>
+						<div class="read-more"><a href="{{ site.latest_blogs[0].url }}" title="{{ site.latest_blogs[0].title }}">There's more? Yes! Let's go. »</a></div>
+					</div>
+					
+					{% for post in site.latest_blogs limit:3 offset:1 %}
+					
+					<div class="teaser clearfix">
+						{% if (post.images) %}<div class="image"><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.images[0] | format_teaser_image }}" /></a></div>{% endif %}
+						<div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
+						<div class="meta"><span class="timeago">{{ post.date | time_ago }}</span>{{ post.tags | tag_links }}</div>
+						<div class="description">{{ post.description }}</div>
+						<div class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">Get the whole story... »</a></div>
+					</div>
+					
+					{% endfor %}
+									
+				</div>
+				<div class="box-middle-right"></div>
+			</div>
+			<div class="box-footer">
+				<div class="box-footer-left"></div>
+				<div class="box-footer-right"></div>
+			</div>
+		</div>
+
+		<div class="more-content"><a href="/blog" title="More blog entries">See more blog entries <span class="huge">☞</span></a></div>
+
+		<div class="teaser tag-cloud">
+
+			<div class="box">
+				<div class="box-header">
+					<div class="box-header-left clearfix">
+						<div class="box-title title">It's a giant tag cloud!</div>
+					</div>
+					<div class="box-header-right"></div>
+				</div>
+				<div class="box-middle">
+					<div class="box-middle-left">
+					
+						{{ site.tags | tag_cloud }}
+										
+					</div>
+					<div class="box-middle-right"></div>
+				</div>
+				<div class="box-footer">
+					<div class="box-footer-left"></div>
+					<div class="box-footer-right"></div>
+				</div>
+			</div>
+
+		</div>
+		
+	</div>
+
+	<div class="right">
+		
+		<div class="teaser">
+		
+			<div class="and-keith">and Keith</div>
+			<div class="does"><a href="/recipes">cooks</a></div>
+	
+			<div class="box">
+				<div class="box-header">
+					<div class="box-header-left box-title title"><a href="{{ site.latest_recipes[0].url }}" title="{{ site.latest_recipes[0].title }}">{{ site.latest_recipes[0].title }}</a></div>
+					<div class="box-header-right"></div>
+				</div>
+				<div class="box-middle">
+					<div class="box-middle-left">
+						{% if (site.latest_recipes[0].image) %}<div class="image"><a href="{{ site.latest_recipes[0].url }}" title="{{ site.latest_recipes[0].title }}"><img src="{{ site.latest_recipes[0].image }}" /></a></div>{% endif %}
+						<div class="description">{{ site.latest_recipes[0].description }}</div>
+						<div class="read-more"><a href="{{ site.latest_recipes[0].url }}" title="{{ site.latest_recipes[0].title }}">Mmmm! Let's read the recipe! »</a></div>
+					</div>
+					<div class="box-middle-right"></div>
+				</div>
+				<div class="box-footer">
+					<div class="box-footer-left"></div>
+					<div class="box-footer-right"></div>
+				</div>
+			</div>
+	
+			<div class="more-content"><a href="/recipes" title="More recipes">See more recipes <span class="huge">☞</span></a></div>
+
+		</div>
+		
+		<div class="teaser">
+	
+			<div class="and-keith">and he</div>
+			<div class="does"><a href="travel">travels</a></div>
+	
+			<div class="box">
+				<div class="box-header">
+					<div class="box-header-left box-title title"><a href="{{ site.latest_travel.url }}" title="{{ site.latest_travel.title }}">{{ site.latest_travel.title }}</a></div>
+					<div class="box-header-right"></div>
+				</div>
+				<div class="box-middle">
+					<div class="box-middle-left">
+						{% if (site.latest_travel.image) %}<div class="image"><a href="{{ site.latest_travel.url }}" title="{{ site.latest_travel.title }}"><img src="{{ site.latest_travel.image }}" /></a></div>{% endif %}
+						<div class="description">{{ site.latest_travel.description }}</div>
+						<div class="read-more"><a href="{{ site.latest_travel.url }}" title="{{ site.latest_travel.title }}">Sounds fun, let's go! »</a></div>
+					</div>
+					<div class="box-middle-right"></div>
+				</div>
+				<div class="box-footer">
+					<div class="box-footer-left"></div>
+					<div class="box-footer-right"></div>
+				</div>
+			</div>
+	
+			<div class="more-content"><a href="/travel" title="More travel">See more travel <span class="huge">☞</span></a></div>
+
+		</div>
+
+	</div>
+
+</div>

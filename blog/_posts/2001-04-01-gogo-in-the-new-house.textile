@@ -1,0 +1,43 @@
+--- 
+layout: post
+title: Gogo In the New House
+redirects: 
+- /node/531
+- /personal/blog/gogo/gogo-new-house
+tags: 
+- Gogo
+description: So then we moved into the new house. She spent a lot of time riding in my gym bag (finally a good use for it) on trips to and from the new house.
+---
+<p>So then we moved into the new house. She spent a lot of time riding in my gym bag (finally a good use for it) on trips to and from the new house.</p>
+<!--break-->
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Her head isn't as big as it seems in this picture." target="_blank" href="/files/photos/gogo/big_head.jpg">
+    <img class="journalPhoto" alt="Her head isn't as big as it seems in this picture." src="/files/photos/gogo/big_head.jpg" width="300" height="342">
+  </a>
+  
+  <div class="journalCaption">Her head isn't as big as it seems in this picture.</div>
+</div>
+
+<p>There's a small room on the second floor that we had declared Gogo's Room. It faces the street, so I figured, when she got older, she could sleep on a chair in the room and look out the window at people passing by. How quaint. Of course all she did in her room was scream and rip up the carpet. A man across the street left notes about how much she cries and was concerned about her well-being. He talked to our dog-walker, Melanie, one day and threatened to report us to the ASPCA. She explained that Gogo has her own room, bigger than a lot of other people's rooms in Manhattan. I did meet him one day, and I think he was disappointed to find out that I wasn't an ogre.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Gogo chewing something. Imagine that." target="_blank" href="/files/photos/gogo/chewing.jpg">
+    <img class="journalPhoto" alt="Gogo chewing something. Imagine that." src="/files/photos/gogo/chewing.jpg" width="256" height="225">
+  </a>
+  
+  <div class="journalCaption">Gogo chewing something. Imagine that.</div>
+</div>
+<p>It was also around this time that I took Gogo to a puppy playgroup. It was sponsored by my vet for puppies under the age of 16 weeks, since puppies that young shouldn't be out on the street or going to the dog run. Everyone had their sweet little fluff balls with them. I figured that Gogo came from such a big family, that she would have no problems socializing. She sat on my lap and wouldn't move. If a puppy came up to us, she would growl and bare her teeth. Eventually, she stepped off my lap and everyone said, "Oh good, she's coming out of her shell!" They soon regretted her new found confidence as she began systematically bullying every dog there. She would run up and pounce on other puppies, corner them and nip at them, knock them over - anything to prove her superiority. Now add to this new Gogo sounds - snarling, barking, growling; when they do sound effects in movies for vicious dogs, it doesn't sound this frightening. I tried to smile and say the typical bad owner phrase - "She's usually not like this." And to be honest, she wasn't</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Gogo helping out with the housecleaning." target="_blank" href="/files/photos/gogo/dust_pan.jpg">
+    <img class="journalPhoto" alt="Gogo helping out with the housecleaning." src="/files/photos/gogo/dust_pan.jpg" width="400" height="257">
+  </a>
+  
+  <div class="journalCaption">Gogo helping out with the housecleaning.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Girls and their shoes." target="_blank" href="/files/photos/gogo/shoes.jpg">
+    <img class="journalPhoto" alt="Girls and their shoes." src="/files/photos/gogo/shoes.jpg" width="350" height="210">
+  </a>
+  
+  <div class="journalCaption">Girls and their shoes.</div>
+</div>

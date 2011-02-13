@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Chiapas!
+series: 
+  name: Chiapas!
+  index: 12
+redirects: 
+- /node/599
+- /personal/travel/mexico/chiapas
+tags: 
+- Mexico
+description: David and I scheduled to take a tour with Maya Sites (http://www.mayasites.com) through the southern area of Mexico for the fall of 2005. Unfortunately, David took a trip of his own on 23rd street and broke his foot weeks before our vacation. So we postponed that trip and re-scheduled it with the same company for their "Festivals of the Highland Rainforest Maya". And I'm so glad that David broke his foot because this trip that we took instead was amazing!
+---
+David and I scheduled to take a tour with Maya Sites (http://www.mayasites.com) through the southern area of Mexico for the fall of 2005. Unfortunately, David took a trip of his own on 23rd street and broke his foot weeks before our vacation. So we postponed that trip and re-scheduled it with the same company for their "Festivals of the Highland Rainforest Maya". And I'm so glad that David broke his foot because this trip that we took instead was amazing!

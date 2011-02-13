@@ -1,0 +1,50 @@
+--- 
+layout: post
+title: The Church of the Holy Sepulchre
+series: 
+  name: Israel
+  index: 28
+redirects: 
+- /node/595
+- /personal/travel/israel/church-holy-sepulchre
+tags: 
+- Israel
+description: "Out of everything we saw on the trip, the Church of the Holy Sepulchre was by far my favorite. I went there three times: with David on our first day, with our tour guide Jaliel on the second day (and he took us some areas that we never would have found on our own), and at the end of our second day to visit the inside of Christ's Tomb. I could talk on and on about the church, but you should just go there and see it for yourself."
+---
+<p>Out of everything we saw on the trip, the Church of the Holy Sepulchre was by far my favorite. I went there three times: with David on our first day, with our tour guide Jaliel on the second day (and he took us some areas that we never would have found on our own), and at the end of our second day to visit the inside of Christ's Tomb. I could talk on and on about the church, but you should just go there and see it for yourself. It is divided up by six different denominations: the Greek Orthodox, the Armenians, the Franciscans, the Ethiopians, the Christian Arabs, and I think the Syrians have a section in there too. I forget.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Entrance" target="_blank" href="/files/photos/israel/holysepulchre-entrance.jpg">
+    <img class="journalPhoto" alt="The Entrance" src="/files/photos/israel/holysepulchre-entrance.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">The Entrance</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The steps that lead to Golgotha." target="_blank" href="/files/photos/israel/holysepulchre-1.jpg">
+    <img class="journalPhoto" alt="The steps that lead to Golgotha." src="/files/photos/israel/holysepulchre-1.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">The steps that lead to Golgotha.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Stone of Unction where Christ's body was annointed and wrapped." target="_blank" href="/files/photos/israel/holysepulchre-rock.jpg">
+    <img class="journalPhoto" alt="The Stone of Unction where Christ's body was annointed and wrapped." src="/files/photos/israel/holysepulchre-rock.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">The Stone of Unction where Christ's body was annointed and wrapped.</div>
+</div>
+<p>I have to admit that I had a bit of a freak out when we first went to the church. It's hard to describe. I've grown up hearing and reading all these stories and all of a sudden I was staring at the hole in Golgotha where Christ's crucifix went and it stopped being some faraway story. I've written several sentences just now that I've deleted and decided that one's reaction to this church is very personal. I'm not going to describe what I felt, but I will say that it moved me very deeply every time I went. These pictures pale in comparison to what it's like experiencing the real thing.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Golgotha" target="_blank" href="/files/photos/israel/holyspeulchre-golgotha.jpg">
+    <img class="journalPhoto" alt="Golgotha" src="/files/photos/israel/holyspeulchre-golgotha.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">Golgotha</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The entrance to Christ's Tomb. It's only big enough for 3 or 4 people, so there's a line to get in." target="_blank" href="/files/photos/israel/holyspeulchre-chiststomb.jpg">
+    <img class="journalPhoto" alt="The entrance to Christ's Tomb. It's only big enough for 3 or 4 people, so there's a line to get in." src="/files/photos/israel/holyspeulchre-chiststomb.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">The entrance to Christ's Tomb. It's only big enough for 3 or 4 people, so there's a line to get in.</div>
+</div>

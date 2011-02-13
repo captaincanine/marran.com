@@ -1,0 +1,47 @@
+--- 
+layout: post
+title: "My Nephew, Lorenz \xC2\xBB A Trip to California"
+redirects: 
+- /node/545
+- /personal/blog/lorenz/my-nephew-lorenz-trip-california
+tags: 
+- Lorenz
+- Yuba City
+description: Lorenz and Sis recently went to Yuba City, California for Aunt Beth's 50th Birthday party. I believe that most everyone of the Everett clan was there, so it was a chance for Lorenz to see what he's in store for him. And also for Sis to see her relatives and probably get teased for being short. Unfortunately, I wasn't there, so I don't have the full scoop. But Mom sent me these pictures of Lorenz. And the other big unfortunate is that there is a great picture of Lorenz with a huge smile, but the photo came out blurry.
+---
+<p><para para_guid="e049e9dc-0f17-417e-8425-50c06d4107dc" sequence="135">Lorenz and Sis recently went to Yuba City, California for Aunt Beth's 50th Birthday party. I believe that most everyone of the Everett clan was there, so it was a chance for Lorenz to see what he's in store for him. And also for Sis to see her relatives and probably get teased for being short. Unfortunately, I wasn't there, so I don't have the full scoop. But Mom sent me these pictures of Lorenz. And the other big unfortunate is that there is a great picture of Lorenz with a huge smile, but the photo came out blurry. He's about 6 or 7 weeks old in these photos.</para></p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Here's a picture of Lorenz all sprawled out in his Pooh Slippers." target="_blank" href="/files/photos/lorenz/Pooh%20Slippers.JPG">
+    <img class="journalPhoto" alt="Here's a picture of Lorenz all sprawled out in his Pooh Slippers." src="/files/photos/lorenz/Pooh%20Slippers.JPG" width="400" height="266">
+  </a>
+  
+  <div class="journalCaption">Here's a picture of Lorenz all sprawled out in his Pooh Slippers.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Aunt Beth with Lorenz" target="_blank" href="/files/photos/lorenz/Aunt%20Beth%20and%20Lorenz.JPG">
+    <img class="journalPhoto" alt="Aunt Beth with Lorenz" src="/files/photos/lorenz/Aunt%20Beth%20and%20Lorenz.JPG" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption">Aunt Beth with Lorenz</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Aunt Catherine with Lorenz" target="_blank" href="/files/photos/lorenz/Aunt%20Catherine%20and%20Lorenz.JPG">
+    <img class="journalPhoto" alt="Aunt Catherine with Lorenz" src="/files/photos/lorenz/Aunt%20Catherine%20and%20Lorenz.JPG" width="266" height="400">
+  </a>
+  
+  <div class="journalCaption">Aunt Catherine with Lorenz</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="I think he's doing a Popeye imitation in this photo." target="_blank" href="/files/photos/lorenz/Lorenz%20Popeye.JPG">
+    <img class="journalPhoto" alt="I think he's doing a Popeye imitation in this photo." src="/files/photos/lorenz/Lorenz%20Popeye.JPG" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption">I think he's doing a Popeye imitation in this photo.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Is he wearing some line of prison clothes for babies?" target="_blank" href="/files/photos/lorenz/Lorenz%20Striped.jpg">
+    <img class="journalPhoto" alt="Is he wearing some line of prison clothes for babies?" src="/files/photos/lorenz/Lorenz%20Striped.jpg" width="400">
+  </a>
+  
+  <div class="journalCaption">Is he wearing some line of prison clothes for babies?</div>
+</div>

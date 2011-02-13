@@ -1,0 +1,149 @@
+--- 
+layout: post
+title: The Master Bedroom
+series: 
+  name: The House Tour
+  index: 96
+redirects: 
+- /node/519
+- /personal/house/post-renovation/master-bedroom
+tags: 
+- post-renovation
+- master bedroom
+description: First, I need to remind myself what the bedroom looked like before. It's one of those things that the memory of the bedroom disappeared about a day after we tore it apart.
+---
+<p>First, I need to remind myself what the bedroom looked like before. It's one of those things that the memory of the bedroom disappeared about a day after we tore it apart.</p>
+<p>The master bedroom was one of the last great rooms in the house that still projected "women's dormitory". It had the industrial grey carpeting, a tiny door frame, and the outline of flourescent lights on the ceiling. Despite all these reasons to renovate, I think the main reason we renovated was because Gogo just did not want to be house-trained in this room. The carpet had so many layers of old carpet, carpet padding, and carpet squares that anything spilled on the floor got permanently absorbed into the floor.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Remember this. The closet goes through a transformation" target="_blank" href="/files/photos/renovation/bedroom/old_closet.jpg">
+    <img class="journalPhoto" alt="Remember this. The closet goes through a transformation" src="/files/photos/renovation/bedroom/old_closet.jpg" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">Remember this. The closet goes through a transformation</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/old_bed.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/old_bed.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The fire place has a formica top to it. Formica!" target="_blank" href="/files/photos/renovation/bedroom/old_fireplace.jpg">
+    <img class="journalPhoto" alt="The fire place has a formica top to it. Formica!" src="/files/photos/renovation/bedroom/old_fireplace.jpg" width="300" height="400">
+  </a>
+  
+  <div class="journalCaption">The fire place has a formica top to it. Formica!</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/old_south.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/old_south.jpg" width="300" height="400">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/old_south2.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/old_south2.jpg" width="400" height="350">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>So now let's take a look at what it looked like during demolition...</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Drywall waiting for a home." target="_blank" href="/files/photos/renovation/bedroom/progress_drywall.jpg">
+    <img class="journalPhoto" alt="Drywall waiting for a home." src="/files/photos/renovation/bedroom/progress_drywall.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption">Drywall waiting for a home.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Plastic and dust everywhere." target="_blank" href="/files/photos/renovation/bedroom/progress_drywall2.jpg">
+    <img class="journalPhoto" alt="Plastic and dust everywhere." src="/files/photos/renovation/bedroom/progress_drywall2.jpg" width="300" height="400">
+  </a>
+  
+  <div class="journalCaption">Plastic and dust everywhere.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="We also put in duct work for central air on the top two floors." target="_blank" href="/files/photos/renovation/bedroom/progress_ducts.jpg">
+    <img class="journalPhoto" alt="We also put in duct work for central air on the top two floors." src="/files/photos/renovation/bedroom/progress_ducts.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption">We also put in duct work for central air on the top two floors.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="No more bedroom" target="_blank" href="/files/photos/renovation/bedroom/progress_gutted1.jpg">
+    <img class="journalPhoto" alt="No more bedroom" src="/files/photos/renovation/bedroom/progress_gutted1.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption">No more bedroom</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/progress_gutted2.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/progress_gutted2.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/progress_nowalls.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/progress_nowalls.jpg" width="500" height="375">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/progress_nowalls_hall.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/progress_nowalls_hall.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="This is the ceiling of the secret closet - ripped out for the central air." target="_blank" href="/files/photos/renovation/bedroom/progress_secret_closet.jpg">
+    <img class="journalPhoto" alt="This is the ceiling of the secret closet - ripped out for the central air." src="/files/photos/renovation/bedroom/progress_secret_closet.jpg" width="300" height="400">
+  </a>
+  
+  <div class="journalCaption">This is the ceiling of the secret closet - ripped out for the central air.</div>
+</div>
+<p>And now here's the finished product!</p>
+<p>The floor is brand new. We put in wide-plank knotty pine and stained it very dark.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/new_whole.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/new_whole.jpg" width="400" height="533">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>The wallpaper is from</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/new_fireplace.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/new_fireplace.jpg" width="600" height="450">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>This is the armoire that David brought back from London.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/new_armoire.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/new_armoire.jpg" width="600" height="450">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/new_armoire_open.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/new_armoire_open.jpg" width="400" height="534">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>And here's the new closet.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/bedroom/new_closet.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/bedroom/new_closet.jpg" width="300" height="400">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>UPDATE: okay. So, I didn't really want to leave the top floor bedroom. It was cozy, it was simple, and it was closer to my X-Men bathroom. I was worried that the new master bedroom was a little too fancy.</p>

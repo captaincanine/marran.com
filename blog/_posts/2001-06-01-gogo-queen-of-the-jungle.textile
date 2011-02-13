@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: "Gogo: Queen of the Jungle"
+redirects: 
+- /node/532
+- /personal/blog/gogo/gogo-queen-jungle
+tags: 
+- Gogo
+description: During the summer of the first renovation, Gogo's favorite spot to hang out was in the backyard. It happened once that she figured out how to get loose from the top floor and wandered through a construction zone down three flights of stairs to hang out in the backyard. From then on, we asked the guys on the ground floor if they would mind just keeping an eye on her in the backyard.
+---
+During the summer of the first renovation, Gogo's favorite spot to hang out was in the backyard. It happened once that she figured out how to get loose from the top floor and wandered through a construction zone down three flights of stairs to hang out in the backyard. From then on, we asked the guys on the ground floor if they would mind just keeping an eye on her in the backyard.
+<!--break-->
+
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Gogo has clearly claimed the backyard has her territory.." target="_blank" href="/files/photos/gogo/in_the_wild_1.jpg">
+    <img class="journalPhoto" alt="Gogo has clearly claimed the backyard has her territory.." src="/files/photos/gogo/in_the_wild_1.jpg" width="350" height="350">
+  </a>
+  
+  <div class="journalCaption">Gogo has clearly claimed the backyard has her territory..</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Actually, the whole house is her territory." target="_blank" href="/files/photos/gogo/in_the_wild_2.jpg">
+    <img class="journalPhoto" alt="Actually, the whole house is her territory." src="/files/photos/gogo/in_the_wild_2.jpg" width="350" height="350">
+  </a>
+  
+  <div class="journalCaption">Actually, the whole house is her territory.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Gogo hanging out on the patio." target="_blank" href="/files/photos/gogo/patio_bone.jpg">
+    <img class="journalPhoto" alt="Gogo hanging out on the patio." src="/files/photos/gogo/patio_bone.jpg" width="350" height="328">
+  </a>
+  
+  <div class="journalCaption">Gogo hanging out on the patio.</div>
+</div>

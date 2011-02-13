@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: A Month in Africa
+series: 
+  name: A Month in Africa
+  index: 101
+redirects: 
+- /node/655
+- /personal/travel/africa/month-africa
+tags: 
+- Africa
+images: 
+- thumbnail: http://farm4.static.flickr.com/3359/3484280196_ce3f848765_m.jpg
+  fullsize: http://farm4.static.flickr.com/3359/3484280196_ce3f848765_b.jpg
+description: Did David and I really go to Africa? Were we really gone for 3.5 weeks? It all feels like an ethereal dream at this point.
+---
+Did David and I really go to Africa? Were we really gone for 3.5 weeks? It all feels like an ethereal dream at this point. 
+
+This first time that I remember seriously thinking about what Africa may be like was at the Oregon Shakespeare Festival. I was watching "Road to Mecca" by Athol Fugard. Two women were talking about South Africa and the landscape that one woman had traveled to visit the other. She referred to the land as "God's Country". I had heard that phrase many times before and I had always interprested it as meaning "a land so beautiful that it was loved by God." In the play, they clarify what they mean by that phrase - a land that was untouched by humanity and incapable of being affected by humanity. As I'm writing about my impressions about a play that I saw over 20 years ago I realize that I could be completely mangling the play. I hope you understand my point anyway.
+
+My other serious consideration of Africa was from reading "The Poisonwood Bible". Unfortunately, I didn't like the book (can't remember why anymore). But it did leave me with an impression that Africa lumbers on with its own rules. It doen't give you, a westerner or an individual, a second thought. I vividly remember the images of the missionaries trying to build American crops in the Congo. When they finally figure out how to work against the floods and the ants and grow crops, the African bees show no interesting in pollinating the strange new plants. 
+
+All of this is true. And if you don't really understand what I'm talking about with my vague writing, I urge you to go to Africa. Follow an elephant on foot. Track a lion. Hang out with the Maasai. You'll see what I'm talking about.
+
+<p align="center">[flickr-photo:id=3484280196,size=-]</p>

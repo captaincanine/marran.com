@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: Acre
+series: 
+  name: A Trip to Israel
+  index: 86
+redirects: 
+- /node/638
+- /personal/travel/israel/acre
+photoset: 72157608768003324
+tags: 
+- Israel
+images: 
+- thumbnail: http://farm4.static.flickr.com/3005/3013112291_cd5a90dd60_m.jpg
+  fullsize: http://farm4.static.flickr.com/3005/3013112291_cd5a90dd60_b.jpg
+description: "The main event of our tour was [w:Acre, Israel]. It's an ancient city several layers deep. Like many of the sites in Israel, it's had many different rules at different times: Greeks & Romans, Arabs, Crusaders, Ottomans, etc. The British used it as a prison for a while. There are several layers to the city, meaning that underneath the main city, they discovered a temple. And underneath that temple that discovered an older temple. They are still digging and finding more levels underneath what they've already found."
+---
+The main event of our tour was [w:Acre, Israel]. It's an ancient city several layers deep. Like many of the sites in Israel, it's had many different rules at different times: Greeks & Romans, Arabs, Crusaders, Ottomans, etc. The British used it as a prison for a while. There are several layers to the city, meaning that underneath the main city, they discovered a temple. And underneath that temple that discovered an older temple. They are still digging and finding more levels underneath what they've already found. 
+
+Some of the pictures include a view of Knight's Hall. There's evidence that the French ruled during the building of it because there's a fleur-de-lis engraved into a column. 
+
+Off of the Knight's Hall is a small passage that was originally built for royalty to escape the fortress. The passage gets steadily smaller until it empties out into the graveyard. It all felt very "Da Vinci Code". 
+
+After touring the ruins, we stopped into a shop that sold copper and silver plates. The designs were quite impressive - better than the usual gift shop fare. They didn't want me taking photos, though.
+
+We passed by a mosque on the way out, but we didn't go in.
+
+<!-- [flickr-photoset:id=72157608768003324] -->

@@ -1,0 +1,28 @@
+--- 
+layout: post
+title: Green Tea Chocolates!
+redirects: 
+- /node/400
+- /personal/blog/chocolate/green-tea-chocolates
+tags: 
+- food
+- chocolate
+- recipes
+images: 
+- thumbnail: http://farm3.static.flickr.com/2406/2300521934_584532b5c8_m.jpg
+  fullsize: http://farm3.static.flickr.com/2406/2300521934_5bbd4dd14b_o.jpg
+description: For some reason, I decided that I wanted to make chocolates this year to give out to friends and co-workers. I've done some small experiments over the past couple of years with molded chocolates. They turned out reasonably well. But what I really wanted to do was to use chocolate transfer sheets to create designs on the tops of the chocolates. Transfer sheets are essentially colored chocolate printed onto acetate in a particular design. When you put melted chocolate on the transfer sheet, it transfers from the sheet to the chocolate.
+---
+For some reason, I decided that I wanted to make chocolates this year to give out to friends and co-workers. I've done some small experiments over the past couple of years with molded chocolates. They turned out reasonably well. But what I <strong>really </strong>wanted to do was to use chocolate transfer sheets to create designs on the tops of the chocolates. Transfer sheets are essentially colored chocolate printed onto acetate in a particular design. When you put melted chocolate on the transfer sheet, it transfers from the sheet to the chocolate.
+
+Next up was to decide on flavors. I got the idea of doing different flavors representing different parts of the world. I brainstormed with some people to come up with the following list:
+
+<blockquote><a rel="nofollow" target="_blank" href="http://spreadsheets.google.com/ccc?key=pVD2fWJVXvHmhdP2RUVo3MQ">http://spreadsheets.google.com/ccc?key=pVD2fWJVXvHmhdP2RUVo3MQ</a></blockquote>
+
+So now I'm testing the difficult recipes in preparation for the final production. The first difficult one was "Green Tea". I went to an Asian grocery store and got powdered green tea. Here's a picture of how they turned out:
+
+{{ "http://farm3.static.flickr.com/2406/2300521934_5bbd4dd14b_o.jpg" | format_photo }}
+
+And I must say, they taste great. I was worried that I put in too much powdered green tea, but the outside of the white chocolate blends nicely with the filling. It's excellent.
+
+I think my next test will be the Brazillian - passion fruit and guava. I can't decide if I should make a white chocolate based filling like I did with the green tea or whether I should try a fondant filling.

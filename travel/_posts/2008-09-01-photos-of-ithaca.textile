@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Photos of Ithaca
+redirects: 
+- /node/527
+- /personal/blog/family/photos-ithaca
+photoset: 72157607037779364
+tags: 
+- family
+- Ithaca, NY
+images: 
+- thumbnail: http://farm4.static.flickr.com/3105/2813720239_485d2c5539_m.jpg
+  fullsize: http://farm4.static.flickr.com/3105/2813720239_485d2c5539_b.jpg
+description: I posted my photos from my first trip to Ithaca.There are a lot of pictures of taking Lorenz out on his tricycle. Then photos of his day care - Namaste Montessori. And finally, pictures form a trip that David, Sis and I took to Lucifer Falls.
+---
+I posted my photos from my first trip to Ithaca.
+
+There are a lot of pictures of taking Lorenz out on his tricycle. Then photos of his day care - Namaste Montessori. And finally, pictures form a trip that David, Sis and I took to Lucifer Falls.
+<!--break-->
+<!-- [flickr-photoset:id=72157607037779364] -->

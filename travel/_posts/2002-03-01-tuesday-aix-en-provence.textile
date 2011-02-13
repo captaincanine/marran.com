@@ -1,0 +1,39 @@
+--- 
+layout: post
+title: "Tuesday: Aix en Provence"
+series: 
+  name: Travel to the South of France
+  index: 56
+redirects: 
+- /node/565
+- /personal/travel/provence/tuesday-aix-en-provence
+tags: 
+- Provence
+description: We got a relatively early start this morning. David was anxious to get out of the "Miami Beach" atmosphere of Nice and on to the provincial setting of Provence. We picked up a rented car and with David as the navigator and myself as the driver, we went to Aix-en-Provence. I think it took us around two hours. After we checked into the hotel, we went for a brief walking tour. Almost every town in Provence has an office of tourism with maps of the town, things to do, etc. After getting a lot of maps and a pass to all of the
+---
+<p>We got a relatively early start this morning. David was anxious to get out of the "Miami 
+Beach" atmosphere of Nice and on to the provincial setting of Provence. We picked up a 
+rented car and with David as the navigator and myself as the driver, we went to Aix-en-
+Provence. I think it took us around two hours. After we checked into the hotel, we went 
+for a brief walking tour. Almost every town in Provence has an office of tourism with 
+maps of the town, things to do, etc. After getting a lot of maps and a pass to all of the 
+museums, went for a walk around the town. Aix has a beautiful old city, so we wandered 
+the medieval streets and went into a few small museums. It is also known as the city of a 
+thousand fountains. We turned out to be rather tired, so after some touring, we went back 
+to the hotel room and took a nap. For dinner, we ate outside in a public square. A lot of 
+the cafes and restaurants are only big enough for the kitchen and the staff and the seating 
+is outside.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The main fountain of Aix" target="_blank" href="/files/photos/provence/aix_fountain.jpg">
+    <img class="journalPhoto" alt="The main fountain of Aix" src="/files/photos/provence/aix_fountain.jpg" height="450" width="600">
+  </a>
+  
+  <div class="journalCaption">The main fountain of Aix</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Hotel de Ville (city hall)" target="_blank" href="/files/photos/provence/aix_hotel_de_ville.jpg">
+    <img class="journalPhoto" alt="The Hotel de Ville (city hall)" src="/files/photos/provence/aix_hotel_de_ville.jpg" height="533" width="400">
+  </a>
+  
+  <div class="journalCaption">The Hotel de Ville (city hall)</div>
+</div>

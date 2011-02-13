@@ -1,0 +1,21 @@
+--- 
+layout: post
+title: My Tired Feet
+redirects: 
+- /node/432
+- /personal/blog/dancing/my-tired-feet
+tags: 
+- dancing
+- swing
+images: 
+- http://img.youtube.com/vi/oFqsz6lms1g/0.jpg
+description: I guess I have to face the fact that I'm not going to have my new site up any time soon. At this point, I think hitting January 15th would be a tough deadline.
+---
+I guess I have to face the fact that I'm not going to have my new site up any time soon. At this point, I think hitting January 15th would be a tough deadline.
+<!--break-->
+
+So in the meantime, here's a video of our latest dance performance. Yours truly is the one shaking the finger at the dancer playing the little girl in the beginning. Then I re-emerge later.
+
+This was a great performance. I had a lot of fun because there's a bit more acting, the choreography was not quite as demanding, and it had a creepy Halloween theme to it.
+
+{{ "http://www.youtube.com/embed/oFqsz6lms1g" | format_youtube }}

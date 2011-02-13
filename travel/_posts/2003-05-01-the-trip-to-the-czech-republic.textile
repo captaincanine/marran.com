@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: The Trip to the Czech Republic
+series: 
+  name: Long Weekend in Prague
+  index: 50
+redirects: 
+- /node/571
+- /personal/travel/prague/trip-czech-republic
+tags: 
+- Prague
+description: Our first day in Prague was really two. We left the house a little late, and than found out that we were dealing with rain, holiday weekend, and Friday afternoon traffic. We got to the airport as they were boarding the flight - in fact, it was mostly full when we got there. So we got two middle seats. For an over night flight. Yay. However, the flight to Zurich went relatively quickly. we had a five hour layover in Zurich, and we saw something about day rooms. So we decided to check them out. They were very white, sterile rooms with a communal toilet and Shower down the hall.
+---
+<p>Our first day in Prague was really two. We left the house a little late, and than found out that we were dealing with rain, holiday weekend, and Friday afternoon traffic. We got to the airport as they were boarding the flight - in fact, it was mostly full when we got there. So we got two middle seats. For an over night flight. Yay. However, the flight to Zurich went relatively quickly. we had a five hour layover in Zurich, and we saw something about day rooms. So we decided to check them out. They were very white, sterile rooms with a communal toilet and Shower down the hall. We were so dead tired, we decided to rent one. And it turns out they made quite a difference. Waking up was sheer torture, but once I was up, I felt distinctly better. Also, the shower felt fantastic.</p>
+<p>The Swiss Air flight was a wonderful welcome to Europe. They served a fantastic smoked ham and herb cheese sandwich followed by Swiss chocolates. I looked at David and commented on the food in Europe. He said, "Low fat. What's that?"</p>
+
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A Long Layover" target="_blank" href="/files/photos/prague/dayroom.jpg">
+    <img class="journalPhoto" alt="A Long Layover" src="/files/photos/prague/dayroom.jpg" height="375" width="500">
+  </a>
+  
+  <div class="journalCaption">A Long Layover</div>
+</div>

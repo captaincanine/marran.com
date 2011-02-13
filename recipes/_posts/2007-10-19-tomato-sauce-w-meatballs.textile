@@ -1,0 +1,44 @@
+--- 
+layout: recipe
+title: Tomato Sauce w/Meatballs
+ingredients: 
+- pasta
+redirects: 
+- /node/470
+- /personal/recipes/main-ingredient/pasta/tomato-sauce-wmeatballs
+dish: main dishes
+description: The old family puh-sgetti and meatballs recipe. What kind of Italian would I be if I didn't have this on my site?
+---
+The old family puh-sgetti and meatballs recipe. What kind of Italian would I be if I didn't have this on my site?
+<!--break-->
+Servings: Feed 4 happily
+
+<strong>The Sauce</strong>
+
+1 medium onion chopped
+1 clove garlic (minced)
+1 tablespoon oil
+56 oz cans crushed tomatoes
+1 small can tomato paste
+1 teaspoon salt
+½ teaspoon black pepper
+1 bay leaf
+¼ teaspoon red pepper flakes
+½ cup fresh basil, chopped
+
+Heat the olive in a skillet or sautee pan. Add the chopped onion. Cook until the onions turn clear, about 5 to 7 minutes. Add the garlic and cook just until fragrant, about 1 to 2 minutes. Be careful to not let the garlic brown. Add the tomato paste and cook another minute. Add the crushed tomatoes and bring everything to a light boil.
+
+If you have a slow cooker, put the tomato/onion mixture in the slow cooker and add the remaining ingredients. Otherwise, add the remaining ingredients and turn the heat to the lowest possible setting. Cook for as long as you can, at least two hours, stirring occasionally.
+
+<strong>The Meatballs</strong>
+
+1 lb ground meat (you may want to use half hamburger and half sausage)
+1 egg
+1 cup breadcrumbs
+2 tablespoons parsley
+1 clove garlic (minced)
+½ teaspoon oregano
+½ teaspoon salt
+½ teaspoon black pepper
+
+Form the meat into small balls. Brown the meatballs in olive oil. Add them to the tomato sauce and simmer. The longer, the better.

@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: I've Got Kitsch on the Brain
+redirects: 
+- /node/675
+- /personal/blog/music/ive-got-kitsch-brain
+tags: 
+- music
+images: 
+- thumbnail: http://farm5.static.flickr.com/4035/4268504273_139d4773dc_m.jpg
+  fullsize: http://farm5.static.flickr.com/4035/4268504273_6cb7242ba4_o.jpg
+description: Around 12-15 years ago, I discovered a mix tape that belonged to a friend of mine. The tape was called "Schlock Around the Clock" and it was a revelation. I don't think I recognized any of the music on it. It juxtaposed The Cramps with Eartha Kitt. It had movie clips spliced into the songs. I listened to it non-stop and it kicked off years of musical obsessions and CD hunting.
+---
+Around 12-15 years ago, I discovered a mix tape that belonged to a friend of mine. The tape was called "Schlock Around the Clock" and it was a revelation. I don't think I recognized any of the music on it. It juxtaposed The Cramps with Eartha Kitt. It had movie clips spliced into the songs. I listened to it non-stop and it kicked off years of musical obsessions and CD hunting. 
+
+I attempted to make my own version on CD. The first one is called "I've Got Kitsch on the Brain". It contains a handful of songs from the original mix tape and at least one of the movie trailers. It took me forever to track down the original trailer soundtrack from "Astro-Zombies". And I never found a digital copy of "Hot Dog Rock & Roll". I threw in some songs that just about everyone has heard to balance it all out.
+
+I had some qualms about placing this on the internet. Yes, people used to make mix tapes for their friends all the time and no one thought anything of it. So what's the big deal if the mix tape is now in digital format? And what's the big deal if I can now immediately distribute this to ALL my friends instead of just some? To help me justify my guilt, why don't you throw some money at some of the artists on iTunes or Amazon? After all, we could probably all stand to beef up our Sergio Mendes collection. 
+
+And finally, this music doesn't work well out of context. It's meant to be listened form start to finish - not randomly. And be sure that the files are marked for gapless playback. There are lots of fade ins and fade outs that don't work if there's a gap in playback.
+
+Happy listening.
+
+<div class="download-box">
+  <div class="icon">
+    <a href="http://www.marran.com/files/music-cds/I've%20Got%20Kitsch%20on%20the%20Brain.zip" target="_blank"></a>
+  </div>
+  <div class="title">
+    <a href="http://www.marran.com/files/music-cds/I've%20Got%20Kitsch%20on%20the%20Brain.zip" target="_blank">Download "I've Got Kitsch on the Brain"</a>
+  </div>
+  <div class="details">
+    76.6MB
+  </div>
+</div>

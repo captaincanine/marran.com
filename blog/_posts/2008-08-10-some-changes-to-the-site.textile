@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Some changes to the site...
+redirects: 
+- /node/471
+- /personal/blog/technology/some-changes-site
+tags: 
+- website
+- technology
+description: I've been steadily making changes to the site. This weekend I had some time to really go to town. It seems like I really didn't do all that much - I don't know where the time goes when I program. I suppose it's because I use my own site as a test ground for changes, so when I work on something, I may spend hours going down a path that I realize was not the right way to go. I chalk it all up to learning experiences.
+---
+I've been steadily making changes to the site. This weekend I had some time to really go to town. It seems like I really didn't do all that much - I don't know where the time goes when I program. I suppose it's because I use my own site as a test ground for changes, so when I work on something, I may spend hours going down a path that I realize was not the right way to go. I chalk it all up to learning experiences.
+<!--break-->
+
+Anyway, here's the list of recent additions:
+<ul>
+<li>Add a twitter feed. This makes it easy for me to send little snippets about my day to the site.
+<li>Add a search box to every page.
+<li>Changed the definitions for recipes so I can more easily migrate content from my old site over.
+<li>Added boxes on the right for "Recipes by Dish" and "Recipes by Ingredient".
+<li>Added a "similar posts" box.
+<li>Cleaned up some layout and display issues.
+<li>Optimized the URLs for search engines
+<li>Installed sitemaps and submitted them to the major search engines
+</ul>
+
+Now that I wrote that all down, it does some like a lot for one weekend.

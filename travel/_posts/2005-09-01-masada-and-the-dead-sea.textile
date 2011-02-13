@@ -1,0 +1,60 @@
+--- 
+layout: post
+title: Masada & the Dead Sea
+series: 
+  name: Israel
+  index: 30
+redirects: 
+- /node/592
+- /personal/travel/israel/masada-dead-sea
+tags: 
+- Israel
+description: My second full day in Israel, I was on my own for the day again, so I signed up for another tour. This one was to Masada and the Dead Sea. There were seven tourists on this trip.
+---
+<p>My second full day in Israel, I was on my own for the day again, so I signed up for another tour. This one was to Masada and the Dead Sea. There were seven tourists on this trip.</p>
+<p>Masada is a mountain-top fortress built by King Herod around the 2nd century BC. It was also the final stronghold of the Jews of the Zealot sect who were the last remaining Jews in Israel against the Romans. This fortress was under siege for 2 years before the Romans were able to breach the walls. When the Romans arrived, they found that all but a couple of the inhabitants had committed suicide. This is where the phrase "better to die free than live a slave" came from. They suppose that the only survivors were left to tell the story of Masada because they were old women they would not be of use as slaves.</p>
+<p>The fortress is 1300 feet up a pretty steep cliff. To get to the top, you could either hike up a snake trail (it takes about an hour) or take a cable car. Either way, it's not good for people afraid of heights. I hadn't really figured that part out until it was too late. But I smiled and didn't look down and was on top of the mountain in no time. The trip was fascinating and I couldn't possibly go into all the details of things we learned on the trip.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A view from the top of the Dead Sea" target="_blank" href="/files/photos/israel/masada-dead-sea.jpg">
+    <img class="journalPhoto" alt="A view from the top of the Dead Sea" src="/files/photos/israel/masada-dead-sea.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">A view from the top of the Dead Sea</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A shot of the grainery in Masada" target="_blank" href="/files/photos/israel/masada-cable.jpg">
+    <img class="journalPhoto" alt="A shot of the grainery in Masada" src="/files/photos/israel/masada-cable.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">A shot of the grainery in Masada</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Some of the original mosaic" target="_blank" href="/files/photos/israel/masada-mosaic-1.jpg">
+    <img class="journalPhoto" alt="Some of the original mosaic" src="/files/photos/israel/masada-mosaic-1.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">Some of the original mosaic</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="More mosaic" target="_blank" href="/files/photos/israel/masada-mosaic-2.jpg">
+    <img class="journalPhoto" alt="More mosaic" src="/files/photos/israel/masada-mosaic-2.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">More mosaic</div>
+</div>
+<p>After Masada, we stopped for lunch and then went to the Dead Sea. It's called the Dead Sea because it's so full of salt and minerals that nothing can live in it. It's supposed to have healing powers and be great for your skin. You can splash around in the mud, but I skipped that and just went to the water. Our tour guide gave us a HUGE list of things to be afraid of about the Dead Sea: if you swallow any of the water, you could die; if the water gets in your eyes, it stings TERRIBLY; because you're so bouyant, it's difficult to move around in the water and you may PANIC and swallow water. At one point, I did get water in my eyes and it didn't sting THAT badly. And I did swallow some water and became paranoid that I was going to pass out later, but nothing happened. Mainly, I just floated around in the water. It was very relaxing and my skin did feel great afterwards. Also, in my dream I had before coming to Israel, we had visited the Dead Sea. Once I saw it in person, I realized it related to the dream.</p>
+<p>On the way home, we stopped to take pictures of the caves where they found the Dead Sea Scrolls. I'm not going to try to describe their significance here. We also saw a few bedouin camps along the way. They are small tribes of people that live in the desert without many (if any) modern conveniences. And we saw a real Canaan Dog at one of the camps. Unfortunately, I was too slow with the camera to get a picture.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Caves of Qumran: Where they found the Dead Sea Scrolls" target="_blank" href="/files/photos/israel/masada-deadseascrolls.jpg">
+    <img class="journalPhoto" alt="Caves of Qumran: Where they found the Dead Sea Scrolls" src="/files/photos/israel/masada-deadseascrolls.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">Caves of Qumran: Where they found the Dead Sea Scrolls</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A Bedouin Camp" target="_blank" href="/files/photos/israel/masada-bedouin.jpg">
+    <img class="journalPhoto" alt="A Bedouin Camp" src="/files/photos/israel/masada-bedouin.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">A Bedouin Camp</div>
+</div>

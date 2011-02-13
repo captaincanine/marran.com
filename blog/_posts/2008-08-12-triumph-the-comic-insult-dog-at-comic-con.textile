@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Triumph the Comic Insult Dog at Comic-Con
+redirects: 
+- /node/502
+- /personal/blog/comedy/triumph-comic-insult-dog-comic-con
+tags: 
+- comedy
+- comic books
+images: 
+- thumbnail: http://farm2.static.flickr.com/1264/1293889649_c50d9aeab7_m.jpg
+  fullsize: http://farm2.static.flickr.com/1264/1293889649_c50d9aeab7.jpg
+description: Aah...Triumph the Insult Comic Dog. He needs no introduction other than to say that if you are easily offended (or under age 13) you probably shouldn't watch this.
+---
+Aah...Triumph the Insult Comic Dog. He needs no introduction other than to say that if you are easily offended (or under age 13) you probably shouldn't watch this.
+<!--break-->
+
+<object width="512" height="296"><param name="movie" value="http://www.hulu.com/embed/dxals6CIUDVpvrlhSiJiOg"></param><embed src="http://www.hulu.com/embed/dxals6CIUDVpvrlhSiJiOg" type="application/x-shockwave-flash"  width="512" height="296"></embed></object>

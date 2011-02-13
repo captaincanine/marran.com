@@ -1,0 +1,38 @@
+--- 
+layout: recipe
+title: Chocolate Genoise
+ingredients: 
+- cake
+- chocolate
+redirects: 
+- /node/492
+- /personal/recipes/dish/desserts/chocolate-genoise
+dish: desserts
+description: This versatile French sponge cake may be used in any number of ways - usually it is filled and frosted or rolled.
+---
+This versatile French sponge cake may be used in any number of ways - usually it is filled and frosted or rolled.
+<!--break-->
+Servings: Makes 1 round layer, 9 or 10 inches in diameter by 2 inches deep
+
+⅓ cup cake flour
+⅓ cup cornstarch
+¼ cup alkalized (Dutch process) cocoa powder
+3 large eggs plus 3 large egg yolks
+¾ cup sugar
+Pinch salt
+
+One 9 or 10 x 2-inch round layer pan, or a 9-inch springform pan, buttered and the bottom lined with a disk of parchment or wax paper.
+
+Set a rack at the middle level of the oven and preheat to 350°.
+
+Sift together the cake flour, cornstarch, and cocoa through a fine?meshed strainer over a piece of wax paper to break up any small lumps in the cocoa. Set sifted ingredients aside with the strainer.
+
+Whisk together the eggs, yolks, sugar, and salt in the bowl of an electric mixer. Place the bowl over a pan of simmering water and continue whisking gently until the mixture is lukewarm, about 100°. This should take only a minute or two.
+
+Whip with the electric mixer on high speed until the mixture is cooled and increased in volume, about 3 to 4 minutes.
+
+Remove bowl from mixer and sift in dry ingredients, in three additions, gently folding each third in with a rubber spatula. Pour the batter into the prepared pan and spread the top even with a spatula.
+
+Bake the layer about 30 minutes, until it is well risen and the center is firm to the touch.
+
+If necessary, loosen the layer from the side of the pan with a small knife or spatula and invert the cake onto a rack. Place another rack on the cake and invert again. Remove the top rack, so that the layer cools right side up, still on the paper.

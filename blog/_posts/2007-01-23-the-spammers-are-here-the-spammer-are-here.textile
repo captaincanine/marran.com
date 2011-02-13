@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: The Spammers Are Here! The Spammer Are Here!
+redirects: 
+- /node/407
+- /personal/blog/spam/spammers-are-here-spammer-are-here
+tags: 
+- spam
+description: I occasionally bemoan the fact that my website is not more popular. God knows why. Do I feel like I should be getting the attention of people that I'll never meet? I have fantasies that I'll someday get a comment from someone I don't know - something along the lines of:We've never met, but I ran across your blog a few months ago and I've been reading every day since. I just want to let you know that you have one of the most interesting blogs I've ever seen.
+---
+I occasionally bemoan the fact that my website is not more popular. God knows why. Do I feel like I should be getting the attention of people that I'll never meet? I have fantasies that I'll someday get a comment from someone I don't know - something along the lines of:
+<blockquote>We've never met, but I ran across your blog a few months ago and I've been reading every day since. I just want to let you know that you have one of the most interesting blogs I've ever seen.</blockquote>
+The fantasy sort of goes along the lines of a typical New York fantasy, that as you pass by a production team filming a movie, that you hear the director shout "That man over there is PERFECT for our film! Someone get him a script!"
+
+Well, I can say that I'm one step closer to my blog dream: at least the spammers have found me.
+
+I have a plug-in on my blog called <a target="_blank" href="http://akismet.com/">Akismet</a> which stops spammers from putting comments in your blog like links to Viagra or cheap loans. For months, not even the spammers bothered with me. But with the new year, I've all of a sudden been discovered by them. Akismet has kept them out, but it's nice to now that I'm gaining some level of popularity.

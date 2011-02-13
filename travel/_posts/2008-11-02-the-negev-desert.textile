@@ -1,0 +1,30 @@
+--- 
+layout: post
+title: The Negev Desert
+series: 
+  name: A Trip to Israel
+  index: 83
+redirects: 
+- /node/631
+- /personal/travel/israel/negev-desert
+photoset: 72157608273594683
+tags: 
+- Israel
+images: 
+- thumbnail: http://farm4.static.flickr.com/3273/2963684055_5eaefbdac5_m.jpg
+  fullsize: http://farm4.static.flickr.com/3273/2963684055_5eaefbdac5_b.jpg
+description: After getting acclimated to Israel, we left the Ein Gedi Kibbutz and headed to Be'er Sheva. It's a major city located in the Negev Desert. David drove us up the cliffs of the Dead Sea to the desert. It was a bit of a culture shock. There were large stretches of barrenness with an occasional Bedouin village. I was not a fan of the Negev desert on our first day.
+---
+After getting acclimated to Israel, we left the Ein Gedi Kibbutz and headed to Be'er Sheva. It's a major city located in the Negev Desert. David drove us up the cliffs of the Dead Sea to the desert. It was a bit of a culture shock. There were large stretches of barrenness with an occasional Bedouin village. I was not a fan of the Negev desert on our first day.
+
+We checked into our hotel in Be'er Sheva, relaxed a bit, and got ready for dinner. We went to a suburb to have dinner with Yoram Shapira, chairman of the hospital in Be'er Sheva. His backyard had a great garden with all sorts of fruit bearing plants. The patio was covered by an arbor with grapes that he uses to make his own wine. We got a tour of the basement where we saw his process for making wine - every step entirely by hand.
+
+The next day, he took us around some areas of the Negev Desert. What I had originally thought was a barren landscape came alive. Yoram showed us how they had created areas of the desert to collect rainwater (there are only a couple of inches of rain per year) and build small groves of trees. They had imported various types of trees that could survive the arid landscape.
+
+Our first stop was Ein Avdat National Park. It's a wadi (a canyon formed by a spring) near the home of [w:Ben Gurion], who David had described as the George Washington of Israel. We walked through the canyon to the source of the river (which was very small). Along the way, we saw many Ibex. They were not shy around humans at all. We got very close and if we came up on any on the path, they did not stop what they were doing.
+
+After our canyon visit, we went to [w:Mitzpe Ramon] - the site of the largest crater in Israel. It's hard to capture the expanse of the crater in a photo. My wide angle lens couldn't take it all in - and you still don't get a sense of how deep the crater is.
+
+I felt like the day was a great introduction to the Negev. I could myself returning someday. And honestly, even though it was extremely hot, it didn't bother me really. I guess I got used to wearing a hat and drinking a lot of water.
+
+<!-- [flickr-photoset:id=72157608273594683] -->

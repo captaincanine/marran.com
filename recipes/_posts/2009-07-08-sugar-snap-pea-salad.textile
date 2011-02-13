@@ -1,0 +1,34 @@
+--- 
+layout: recipe
+title: Sugar Snap Pea Salad
+ingredients: 
+- radishes
+- peas
+redirects: 
+- /node/668
+- /personal/recipes/dish/salads/sugar-snap-pea-salad
+dish: salads
+description: Our CSA has resulted in me having to learn a bunch of new recipes. Last week, we got 2 pounds of sugar snap peas. I've never really used sugar snap peas, so I did a web search and found the following recipe. It makes a great salad and is almost entirely raw - which is always a benefit. And I munch on the sugar snap peas as I make the salad. They are surprisingly munchable.
+---
+Our CSA has resulted in me having to learn a bunch of new recipes. Last week, we got 2 pounds of sugar snap peas. I've never really used sugar snap peas, so I did a web search and found the following recipe. It makes a great salad and is almost entirely raw - which is always a benefit. And I munch on the sugar snap peas as I make the salad. They are surprisingly munchable.<!--break-->
+
+<ul>
+<li>3/4 cup sliced radishes
+<li>4 ounces sugar snap peas, sliced (about 1 1/4 cups)
+<li>4 ounces ricotta salata, crumbled (about 1 cup)
+<li>1/2 bunch mint leaves, torn (about 1/3 cup)
+<li>1 clove garlic, minced
+<li>Pinch kosher salt, more to taste
+<li>1 tablespoon freshly squeezed lemon juice
+<li>1 teaspoon balsamic vinegar
+<li>3 tablespoons extra virgin olive oil
+<li>Freshly ground black pepper to taste.
+</ul>
+
+In a large bowl, toss together the radishes, peas, ricotta and mint.
+
+Using a knife or a mortar and pestle, make a paste of the garlic and salt. Place in a small bowl and add the lemon juice and balsamic vinegar and stir well to combine. Drizzle in the olive oil, stirring constantly, and add pepper to taste.
+
+Pour dressing over salad and toss well to combine. Taste and add more salt and pepper if necessary.
+
+This story is from The New York Times: http://www.nytimes.com/2009/06/17/dining/171arex.html?_r=1

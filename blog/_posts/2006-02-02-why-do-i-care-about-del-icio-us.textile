@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: Why do I care about del.icio.us?
+redirects: 
+- /node/362
+- /business/blog/taxonomy/why-do-i-care-about-del-icio-us
+tags: 
+- blog
+- taxonomy
+description: If you browse the web, I'm sure you've heard about del.icio.us. It's a site for maintaining links on the web. Like most of the sites out there that claim to be the hottest new technology, I shrugged my shoulders, said "meh", and forgot about it. Clever URL, but I don't need it.
+---
+If you browse the web, I'm sure you've heard about <a target="_blank" title="del.icio.us" href="http://del.icio.us">del.icio.us</a>. It's a site for maintaining links on the web. Like most of the sites out there that claim to be the hottest new technology, I shrugged my shoulders, said "meh", and forgot about it. Clever URL, but I don't need it.
+
+The other day I was switching from my kitchen PC to my office and realized that I had lost a URL that I had bookmarked. Okay, I could see the advantage of having my bookmarks someplace central. So I set up an account on del.icio.us and converted my bookmarks. I was blown away. The product itself is great - not amazing. They've thought through a very simple, clean interface. The impressive part is to realize that you are participating in a world-wide effort to classify the web. The product gets really amazing as you "tag" your links. No more folders - just tags.
+
+At first I was having a hard time coming up with a tagging scheme. I was taking my best guess at coming up with tags, but I wasn't entirely sure if I was naming them something useful. Then I started getting to some URLs that I shared with other people. If your URLs are in other people's account, you can see how other people have tagged them. You immediately plug yourself into a global organization scheme. It's really quite ingenious. Not to mention fast and efficient.
+
+There are other great little things about the interface. For instance, no complicated tree structure for your tags. Instead, you can view your tags in a list or as a cloud. The cloud view is really cool and honestly helpful.
+
+So then I started thinking about how this applied to various projects I had creating intranets at companies. I'm still sorting through my thoughts and wondering if it's a valid comparison. In intranet projects, there's usually some sort of problem coming up with a common language. Companies often complain that there is no central language - their keywords are a complicated mix of synonyms and double-meanings. There is an effort - and usually one person at the core of it - that comes up with a taxonomy that the system is built around. The tagging effort is never left to individual users of the system for the following reasons:
+<ul>
+	<li>Individual users can't be trusted to do any tagging whatsoever</li>
+	<li>The taxonomy is too nuanced and complex for the users to understand</li>
+	<li>Individuals will muddy the taxonomy</li>
+</ul>
+Well, seeing del.icio.us in action proves all of that wrong. If the general public can agree on a list of keywords to describe any page on the internet, maybe a company's taxonomy is not as subtle and convoluted as they'd like to admit? Maybe users are not as helpless and/or destructive as previously thought? Maybe it isn't worth maintaining a taxonomy so complicated that the average user can't automatically tag content?
+
+A user would use the global taxonomy rather than create their own special language for things because it's in their best interest to do so. By adhering to the global taxonomy, you make it easier to find related content - both for yourself and the other people that use those tags.
+
+In fact - why WOULD you trust all keyword tagging to be done by someone else? You know what a piece of content means to you - you should be able to use your own subset of keywords to describe that content. When I was tagging my own URLs, I would generally only use a subset of all the recommended keywords. My own set of tags has many to me, while also being applicable to other people with interests in those tags.
+
+I don't think del.icio.us applies to all intranet metadata efforts. However, I've seen months spent on projects to come up with taxonomies that were frought with problems: the taxonomy was too confusing; items were either too broad or too detailed; it didn't address the needs of an individual; it was too cumbersome to maintain. There's a lot to learn from this system and they've solved many problems very elegantly. The real benefit is the trust and power that it gives its user to make a rich and meaningful experience.

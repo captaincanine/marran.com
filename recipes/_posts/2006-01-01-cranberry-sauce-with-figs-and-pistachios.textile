@@ -1,0 +1,33 @@
+--- 
+layout: recipe
+title: Cranberry Sauce with Figs and Pistachios
+ingredients: 
+- berries
+- figs
+redirects: 
+- /node/476
+- /personal/recipes/dish/side-dishes/cranberry-sauce-figs-and-pistachios
+dish: side dishes
+---
+<!--break-->
+
+
+Servings: Serves 12
+6 cups or 24 oz of whole cranberries
+3 cups sugar
+2 medium oranges, unpeeled, chopped, and seeded
+½ cup fine chopped onion
+¼ cup raisins
+¼ cup toasted shelled pistachios
+8 dried figs, chopped
+3 tablespoons fine chopped fresh ginger
+1 teaspoon salt
+1 teaspoon cinnamon
+1 teaspoon cayenne pepper
+1 teaspoon dried mustard
+
+Cook all ingredients in a large, uncovered, non-reactive pot over medium heat until all the sugar has dissolved.
+
+Cover the pot and cook on high for additional 3 minutes.
+
+Let cool. Serve at room temperature.

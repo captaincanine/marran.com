@@ -1,0 +1,22 @@
+--- 
+layout: post
+title: Why There Are No Updates
+redirects: 
+- /node/431
+- /personal/blog/hosting/why-there-are-no-updates
+tags: 
+- website
+- hosting
+description: Normally, you can chalk up my lack of recent blog entries to laziness. Well...maybe that's too harsh. Distractions is perhaps a better word. Anyway, I have a reason this time.I had written a nice long blog entry about a movie that I had been hunting down on DVD for a long time. It took me about a half hour to write. I click "post" and the browser-busy icon kept spinning. After several minutes, the server timed out and I lost all my work.
+---
+Normally, you can chalk up my lack of recent blog entries to laziness. Well...maybe that's too harsh. Distractions is perhaps a better word. Anyway, I have a reason this time.
+
+I had written a nice long blog entry about a movie that I had been hunting down on DVD for a long time. It took me about a half hour to write. I click "post" and the browser-busy icon kept spinning. After several minutes, the server timed out and I lost all my work.
+
+Unfortunately, this is not the first time this has happened. My blog software is Wordpress, which is pretty good, but it's PHP running on Windows. My hosting company hasn't quite worked out the kinks and unfortunately the server hangs from time to time. You would think I would finally get in the habit of writing posts in a separate application so as not to lose any work. Alas, no.
+
+So when I lost that entry, I vowed to re-do my site and put it on a Linux server. The new site is going to be pretty great. It will be divided into three separate sections: Business, Personal, and Creative. The content of the current site will be moved into the "Personal" section.
+
+To make sure that I don't take forever, I'm telling everyone that <strong>the new site will be live by August 15th</strong>! Be sure to come back on the 15th for the new site. There will still be a lot under construction, I'm sure, but at least the current site will be completely migrated.
+
+See you back here soon!

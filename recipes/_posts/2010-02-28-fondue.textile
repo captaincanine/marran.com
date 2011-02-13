@@ -1,0 +1,31 @@
+--- 
+layout: recipe
+title: Fondue
+ingredients: 
+- cheese
+redirects: 
+- /node/682
+- /personal/recipes/dish/main-dishes/fondue
+dish: main dishes
+description: Ah... fondue. It has the reputation of being hopelessly 70's. David recently received a fondue set for his birthday. How we had gone all this time without a fondue set is beyond me. I've made fondue twice with it now, and the second round was so good, that I had to tell myself to not get into a fondue frenzy - it was going to start doing damage to my waistline.I get my cheeses from Artisanal. You can order some of them from Fresh Direct. And Whole Foods has a pretty good selection as well. Maybe one of these days I will wander down to Murray's Cheeses for a selection.
+---
+Ah... fondue. It has the reputation of being hopelessly 70's. David recently received a fondue set for his birthday. How we had gone all this time without a fondue set is beyond me. I've made fondue twice with it now, and the second round was so good, that I had to tell myself to not get into a fondue frenzy - it was going to start doing damage to my waistline.
+
+I get my cheeses from Artisanal. You can order some of them from Fresh Direct. And Whole Foods has a pretty good selection as well. Maybe one of these days I will wander down to Murray's Cheeses for a selection. I think it's good to be a little experimental with the cheese selection.
+
+<ul>
+<li>Coarse salt and freshly ground pepper, 1 clove garlic
+<li>1 cup white wine
+<li>2 teaspoons freshly squeezed lemon juice
+<li>6 ounces Gruyère cheese, grated
+<li>6 ounces Emmental cheese, grated
+<li>6 ounces Appenzell cheese, grated
+<li>6 ounces Jarlsberg (or Hoch Ybrig or Beaufort if you can get it) cheese, grated
+<li>4 teaspoons cornstarch
+<li>Crusty bread, cubed, for serving
+<li>Boiled fingerling potatoes, cauliflower, broccoli, or mushrooms, for serving (optional)
+</ul>
+
+Sprinkle fondue pot or a 2-quart saucepan with salt. Vigorously rub the inside of the pot with garlic; and discard. Add the wine and lemon juice, and bring to a boil over medium heat.
+
+In a medium bowl, stir to combine the cheeses and cornstarch. While whisking constantly, add the cheese mixture in four additions. Be sure each addition is completely melted before adding the next addition. Once all of the cheese has been added, cook for 1 minute more. Season with salt and pepper. Remove from heat, and serve immediately with bread, potatoes, or vegetables, as desired.

@@ -1,0 +1,46 @@
+--- 
+layout: post
+title: Dramatic Prairie Dog - Where Have I Been?
+redirects: 
+- /node/435
+- /personal/blog/animals/dramatic-prairie-dog-where-have-i-been
+tags: 
+- animals
+- comedy
+images: 
+- http://img.youtube.com/vi/jHjFxJVeCQs/0.jpg
+description: "I happened to be served up the following video, which is by definition \"cute\", and I highly recommend it. However, what it led me to was the Dramatic Prairie Dog phenomenon. It's a simple shot of a prairie dog from a Japanese kid's show, but someone added a dramatic flourish of music. Here's the original video:"
+---
+I happened to be served up the following video, which is by definition "cute", and I highly recommend it. However, what it led me to was the Dramatic Prairie Dog phenomenon. It's a simple shot of a prairie dog from a Japanese kid's show, but someone added a dramatic flourish of music. Here's the original video:
+
+<!--break-->
+
+{{ "http://www.youtube.com/embed/jHjFxJVeCQs" | format_youtube }}
+
+
+
+And here are some of my favorite remixes:
+
+
+
+{{ "http://www.youtube.com/embed/jHjFxJVeCQs" | format_youtube }}
+
+
+
+{{ "http://www.youtube.com/embed/jHjFxJVeCQs" | format_youtube }}
+
+
+
+{{ "http://www.youtube.com/embed/jHjFxJVeCQs" | format_youtube }}
+
+
+
+{{ "http://www.youtube.com/embed/jHjFxJVeCQs" | format_youtube }}
+
+
+
+The original video:
+
+
+
+{{ "http://www.youtube.com/embed/jHjFxJVeCQs" | format_youtube }}

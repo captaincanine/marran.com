@@ -1,0 +1,50 @@
+--- 
+layout: post
+title: Lucca
+series: 
+  name: Tuscany
+  index: 39
+redirects: 
+- /node/582
+- /personal/travel/tuscany/lucca
+tags: 
+- Tuscany
+description: I feel repetitive saying that this Lucca is a beautiful, medieval town. All of these towns have their own personality and should be experienced. This town has a cosmoploitan heart to it. Once we hit the main area, we found that it was full of small streets with shops galore.
+---
+<p>I feel repetitive saying that this Lucca is a beautiful, medieval town. All of these towns have their own personality and should be experienced. This town has a cosmoploitan heart to it. Once we hit the main area, we found that it was full of small streets with shops galore.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The main church in town" target="_blank" href="/files/photos/tuscany/lucca_cathedral_3.jpg">
+    <img class="journalPhoto" alt="The main church in town" src="/files/photos/tuscany/lucca_cathedral_3.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">The main church in town</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The main church in town" target="_blank" href="/files/photos/tuscany/lucca_cathedral.jpg">
+    <img class="journalPhoto" alt="The main church in town" src="/files/photos/tuscany/lucca_cathedral.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">The main church in town</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Artwork in the church" target="_blank" href="/files/photos/tuscany/lucca_cathedral2.jpg">
+    <img class="journalPhoto" alt="Artwork in the church" src="/files/photos/tuscany/lucca_cathedral2.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">Artwork in the church</div>
+</div>
+<p>Lucca is the birthplace of opera composer Giacomo Puccini (he wrote Madama Butterfly, La Boheme, and Turandot for all you cultural heathens). The had a museum of his house which was more interesting than one would imagine. David bought a first print of a score there.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A statue of Puccini" target="_blank" href="/files/photos/tuscany/lucca_puccini.jpg">
+    <img class="journalPhoto" alt="A statue of Puccini" src="/files/photos/tuscany/lucca_puccini.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">A statue of Puccini</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Puccini's Piano" target="_blank" href="/files/photos/tuscany/lucca_puccini_piano.jpg">
+    <img class="journalPhoto" alt="Puccini's Piano" src="/files/photos/tuscany/lucca_puccini_piano.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">Puccini's Piano</div>
+</div>

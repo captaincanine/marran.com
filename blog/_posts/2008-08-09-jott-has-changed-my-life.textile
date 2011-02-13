@@ -1,0 +1,41 @@
+--- 
+layout: post
+title: Jott Has Changed My Life
+redirects: 
+- /node/469
+- /personal/blog/iphone/jott-has-changed-my-life
+tags: 
+- technology
+- iPhone
+images: 
+- thumbnail: http://farm1.static.flickr.com/190/468232088_a5c42f91e8_m.jpg
+  fullsize: http://farm1.static.flickr.com/190/468232088_7b23b15e58_o.png
+description: You can expect to start seeing some entries on really cool iPhone apps. The latest and greatest one is Jott (http://jott.com). It's a lot more than an iPhone app, but that's how I discovered it.
+---
+You can expect to start seeing some entries on really cool iPhone apps. The latest and greatest one is Jott (http://jott.com). It's a lot more than an iPhone app, but that's how I discovered it.
+<!--break-->
+I had started using the built-in "Notes" application for the iPhone. When I tried to transfer the notes I had taken to my computer, I discovered that you couldn't. Apple hadn't built that yet. Grrr. So I started looking for a new application for taking simple notes.
+
+Jott seemed to fit the bill and had some sort of voice recording feature, so I downloaded it and started playing around. It turns out that it's a lot more than just taking notes. It's a speech-to-text application, but instead of loading a ton of software on your computer and bogging down your system, it sends the piece of recording to its servers, translates, and sends you back the results. It keeps their applications small and lightweight.
+
+I tested it out and it was pretty accurate. When I decided to really push it by speaking however I felt like, it started having problems. It's definitely best to speak clearly and a little slowly. If you come across a word that you think it wouldn't know (like a proper noun), you can say the word and then spell it out. It figures out what you're doing and spells the word correctly. 
+
+Now comes the cool part. They have a toll free number that you can call. From that number, you can do more than just take notes. You can send a text message to someone, you can send an email to someone, you can add items to any type of list you can think of, you can add events to your Google calendar, and much more. It's incredible. 
+
+I set up a "To Do" list for myself. David uses it all the time if there's something he wants me to take care of. He calls the number, it asks "What would you like to Jott?" 
+
+He says "To Do List"
+
+It says "Okay"
+
+And then he says something like "Call Kaback K-A-B-A-C-K to schedule repair of air conditioner".
+
+Within 10 minutes, it shows up on my iPhone's to-do list.
+
+I also set up a list for groceries. So if there's something I need to get, I call the number, say "Grocery" and then the name of the item. When I go shopping, I have the list on my iPhone and can check off items as I shop. It's pretty cool.
+
+They also have a website so I can easily type lists of items if I want - as opposed to calling the number.
+
+We've used it for our shared Google Calendar. David set up a day that we are going to Philadelphia to visit his family. I called the toll free number, said "Casa de Gogo" (which is the name of our shared Google calendar), and said "August 31st, Reich R-E-I-C-H Pool Party". Done.
+
+You can send email as well through Jott, but so far I haven't done that. There are some things that require a personal touch.

@@ -1,0 +1,27 @@
+--- 
+layout: recipe
+title: " Mashed Potatoes with Parsnips and Garlic"
+ingredients: 
+- potatoes
+redirects: 
+- /node/480
+- /personal/recipes/dish/side-dishes/mashed-potatoes-parsnips-and-garlic
+dish: side dishes
+---
+<!--break-->
+Servings: Serves 6-8
+
+5 medium Russet or Yukon Gold potatoes, peeled and, cut in 1-inch cubes
+3 medium parsnips, peeled and cut in 1-inch cubes
+1 cup milk
+4 tablespoons unsalted butter
+1 clove garlic, minced (optional)
+½ teaspoon nutmeg
+1½ teaspoons salt
+freshly ground pepper to taste
+
+In a large pot place the parsnips and potatoes and enough cold water to cover. Bring to a boil, lower the heat, and simmer, covered, until vegetables are just tender, about 15 minutes. Place in a colander and drain well.
+
+Mash the vegetables with a potato masher, ricer, or food mill.
+
+Reheat and gradually whisk in the milk and butter (and if using, the minced garlic). Season with nutmeg, salt and pepper.

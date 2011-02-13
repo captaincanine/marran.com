@@ -1,0 +1,50 @@
+--- 
+layout: post
+title: Arab Markets
+series: 
+  name: Israel
+  index: 27
+redirects: 
+- /node/594
+- /personal/travel/israel/arab-markets
+tags: 
+- Israel
+description: Jerusalem is more than just the land of religious epiphanies. It is also full of the most cut-throat market owners I've ever seen. The shop keepers will do anything to get you in their store. You are constantly hounded as you walk down the streets of Jerusalem. They will even stand in front of you as your walking so that you can't pass quickly. We knew enough to ignore them, but they had some sneaky tactics. Several times we would ignore them and keep walking, and they would shout "excuse me!" after us as if to say, "how could you be so rude as to ignore me!"
+---
+<p>Jerusalem is more than just the land of religious epiphanies. It is also full of the most cut-throat market owners I've ever seen. The shop keepers will do anything to get you in their store. You are constantly hounded as you walk down the streets of Jerusalem. They will even stand in front of you as your walking so that you can't pass quickly. We knew enough to ignore them, but they had some sneaky tactics. Several times we would ignore them and keep walking, and they would shout "excuse me!" after us as if to say, "how could you be so rude as to ignore me!"</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A street in the Christian Quarter" target="_blank" href="/files/photos/israel/market-1.jpg">
+    <img class="journalPhoto" alt="A street in the Christian Quarter" src="/files/photos/israel/market-1.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">A street in the Christian Quarter</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Another street in the Christian Quarter" target="_blank" href="/files/photos/israel/market-2.jpg">
+    <img class="journalPhoto" alt="Another street in the Christian Quarter" src="/files/photos/israel/market-2.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">Another street in the Christian Quarter</div>
+</div>
+<p>At one point, David and I stopped for turkish coffee and baklava. At that point, we asked someone for directions to the Church of the Holy Sepulchre. They boy that we asked turned out to plague us the entire trip. I came to dread seeing him. He was very helpful, but we ended up in his father's shop, which was actually pretty good. We did most of our souvenir shopping there. However, whenever he saw us for the rest of the trip, he would come over to us (or just me if I was alone), offer to buy us tea, and try to get us to go to his father's shop.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="We stumbled into a square looking for turkish coffee" target="_blank" href="/files/photos/israel/market-david.jpg">
+    <img class="journalPhoto" alt="We stumbled into a square looking for turkish coffee" src="/files/photos/israel/market-david.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">We stumbled into a square looking for turkish coffee</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A view of where we stopped" target="_blank" href="/files/photos/israel/market-coffeebreak.jpg">
+    <img class="journalPhoto" alt="A view of where we stopped" src="/files/photos/israel/market-coffeebreak.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">A view of where we stopped</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The shop owners that we made very happy. The kid that found us is in the center." target="_blank" href="/files/photos/israel/market-petracaves.jpg">
+    <img class="journalPhoto" alt="The shop owners that we made very happy. The kid that found us is in the center." src="/files/photos/israel/market-petracaves.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">The shop owners that we made very happy. The kid that found us is in the center.</div>
+</div>

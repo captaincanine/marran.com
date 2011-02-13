@@ -1,0 +1,13 @@
+--- 
+layout: post
+title: Lecture Musical
+redirects: 
+- /node/423
+- /personal/blog/comedy/lecture-musical
+tags: 
+- comedy
+description: This video needs no introduction. Make sure you have the sound at a moderate level.http://www.prangstgrup.com/lecturemusical/
+---
+This video needs no introduction. Make sure you have the sound at a moderate level.
+
+<a target="_blank" href="http://www.prangstgrup.com/lecturemusical/ ">http://www.prangstgrup.com/lecturemusical/ </a>

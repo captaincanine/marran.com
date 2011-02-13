@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Go Wig Out!
+redirects: 
+- /node/632
+- /personal/blog/nyc/go-wig-out
+tags: 
+- NYC
+- theater
+description: If you live in NYC, you should go see Wig Out! at The Vineyard Theater.
+---
+If you live in NYC, you should go see <a href="http://www.vineyardtheatre.org/show-wig-out.htm" target="_blank">Wig Out!</a> at The Vineyard Theater.
+
+It's a hard show to describe. It helps if you've seen the movie Paris is Burning, since that's kind of the source material. It's essentially a fictional account of a "family" of drag queens competing at a ball in Harlem. There's dancing, singing, performance art, snappy dialogue, high drama, and lots of fantastic drag outfits. And this are not your silly, campy drag queens. These are your hard-code, tough-as-nails, steal-your-credit-card-so-they-can-buy-a-versace-outfit drag queens.
+
+It's playing until November 16th. It's been extended twice. I hope it gets extended again. It's the sort of show that should reach a wider audience.
+

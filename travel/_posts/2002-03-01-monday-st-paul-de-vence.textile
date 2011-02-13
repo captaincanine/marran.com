@@ -1,0 +1,65 @@
+--- 
+layout: post
+title: "Monday: St. Paul de Vence"
+series: 
+  name: Travel to the South of France
+  index: 57
+redirects: 
+- /node/564
+- /personal/travel/provence/monday-st-paul-de-vence
+tags: 
+- Provence
+description: "I used to think that Santorini was the ideal honeymoon location: I'm now convinced that \rthe ideal spot is St. Paul de Vence. It's a small walled city that is inland from the rest of \rthe Cote D'Azur coastal resorts, high on a hill. The streets are winding and confusing, but \rthe only thing to do is wander around and look at shops. It was primarily art galleries, but \rwe also found some cloth shops, candy shops, spice shops, and a fantastic shop that had \rall sorts of homemade liqueurs. We sampled and bought fig, blueberry, and red peach \rliqueurs."
+---
+<p>I used to think that Santorini was the ideal honeymoon location: I'm now convinced that 
+the ideal spot is St. Paul de Vence. It's a small walled city that is inland from the rest of 
+the Cote D'Azur coastal resorts, high on a hill. The streets are winding and confusing, but 
+the only thing to do is wander around and look at shops. It was primarily art galleries, but 
+we also found some cloth shops, candy shops, spice shops, and a fantastic shop that had 
+all sorts of homemade liqueurs. We sampled and bought fig, blueberry, and red peach 
+liqueurs.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Approaching St. Paul de Vence" target="_blank" href="/files/photos/provence/st_paul_distance.jpg">
+    <img class="journalPhoto" alt="Approaching St. Paul de Vence" src="/files/photos/provence/st_paul_distance.jpg" height="300" width="400">
+  </a>
+  
+  <div class="journalCaption">Approaching St. Paul de Vence</div>
+</div>
+<p>We spent a half hour walking to the Fondation Maeght and discovered that it had just 
+closed for lunch. We looked at the artwork on the grounds, decided it looked too much 
+like a 1960's suburban synagogue, and walked back to St. Paul de Vence for lunch. We 
+did a little more touring of the town, including a stop for crepes, and then headed back to 
+the city.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Liquors Extraordinaire" target="_blank" href="/files/photos/provence/st_paul_liquors.jpg">
+    <img class="journalPhoto" alt="Liquors Extraordinaire" src="/files/photos/provence/st_paul_liquors.jpg" height="300" width="400">
+  </a>
+  
+  <div class="journalCaption">Liquors Extraordinaire</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The entrance into St. Paul de Vence" target="_blank" href="/files/photos/provence/st_paul_entrance.jpg">
+    <img class="journalPhoto" alt="The entrance into St. Paul de Vence" src="/files/photos/provence/st_paul_entrance.jpg" height="400" width="300">
+  </a>
+  
+  <div class="journalCaption">The entrance into St. Paul de Vence</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Crepes Outside" target="_blank" href="/files/photos/provence/st_paul_crepes.jpg">
+    <img class="journalPhoto" alt="Crepes Outside" src="/files/photos/provence/st_paul_crepes.jpg" height="300" width="400">
+  </a>
+  
+  <div class="journalCaption">Crepes Outside</div>
+</div>
+<p>For dinner, we went to L'Auberge de Acropolis, which is a very local restaurant off the 
+beaten path. No one in the restaurant spoke anything but French. The owner was very 
+frustrated that he could not communicate with us, as he was extremely sociable with 
+everyone else. We had a very good food translation section in one of our guidebooks, so 
+we knew more or less what we were ordering. There was a man eating alone next to us 
+that also only spoke French, trying to make pleasant conversation. We told him we were 
+from New York City. At one point it sounding like he said "Boosh" (as in G. W.) and 
+made hand signals that led us to believe that he was offering condolences for the World 
+Trade Center attack. He gave as some of his grappas, an extremely potent grape liqueur, 
+and we toasted his hospitality, using most of David's twelve words of French vocabulary. 
+The owner's lovable german shepherd sat in the corner and came over once for some 
+affection.  Or was it to lick the food off my hand?</p>

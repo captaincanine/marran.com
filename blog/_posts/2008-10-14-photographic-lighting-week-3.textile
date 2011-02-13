@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: "Photographic Lighting: Week 3"
+redirects: 
+- /node/628
+- /personal/blog/photography/photographic-lighting-week-3
+photoset: 72157608034377309
+tags: 
+- food
+- NYC
+- photography
+- learning
+images: 
+- thumbnail: http://farm4.static.flickr.com/3016/2942620584_6d7b40dfe5_m.jpg
+  fullsize: http://farm4.static.flickr.com/3016/2942620584_6d7b40dfe5_b.jpg
+description: The third week of photography lighting class, we worked on beauty lighting. We set up two stations with a tripod and a strobe light. We later added umbrellas to the mix to see how that affected things.
+---
+The third week of photography lighting class, we worked on beauty lighting. We set up two stations with a tripod and a strobe light. We later added umbrellas to the mix to see how that affected things.
+
+The teacher really made the class this week. Our group was having fun taking photos, checking the exposures, etc. We had all adopted the habit of counting 3..2..1 before taking the picture. The instructor came over and said "Something is very wrong here! Can anyone tell me what it is?" We all shrugged in silence. He said "This light is at eye level. It's boring! I want excitement! Drama!" and he moved the light up. He told us to stop counting down. He grabbed someone's camera and started making banter with the subject, taking various photos. He basically infused a whole bunch of adventure into our rather boring photo session. After he left to go back to the other group, we got continually more creative. Standing on seats, crazy poses, and playing with reflectors. He came back later to infuse some more creative chaos later.
+
+I've included my favorites of the portraits that I took.
+
+I've also included my favorites from my homework. I wanted to explore photographing food. I had done some research and several people suggested not getting fancy with lighting food. Natural light is generally best. I went a photographic store and bought a light reflector (for capturing as much natural light as possible) and I went to The Cupcake Cafe to get a small cake as a subject. I took these photos at noon, to try to get as much natural light as possible. Unfortunately, my subject started sweating half-way through the session. Still, I like the photos. Half of the photos use the reflector and half just use the single light source of the sun.
+
+<!-- [flickr-photoset:id=72157608034377309] -->

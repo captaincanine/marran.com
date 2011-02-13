@@ -1,0 +1,22 @@
+--- 
+layout: recipe
+title: Pea Soup
+ingredients: 
+- peas
+redirects: 
+- /node/473
+- /personal/recipes/main-ingredient/peas/pea-soup
+dish: soups
+---
+<!--break-->
+<div class="recipeIngredient">2 tablespoons butter</div>
+  <div class="recipeIngredient">1 onion (chopped)</div>
+  <div class="recipeIngredient">200 grams goose breast (chopped)</div>
+  <div class="recipeIngredient">2 - 3 stalks celery (chopped)</div>
+  <div class="recipeIngredient">500 grams whole peas</div>
+  <div class="recipeIngredient">4 cups water or broth</div>
+  <div class="recipeIngredient">1 cup cream (optional)</div>
+
+  <p>Add the celery, peas, and broth. Boil for 20 minutes.</p>
+  <p>Puree the soup until it is smooth but still has bits of whole peas and celery.</p>
+  <p>Add the cream and serve.</p>

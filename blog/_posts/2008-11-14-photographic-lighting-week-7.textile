@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: "Photographic Lighting: Week 7"
+redirects: 
+- /node/637
+- /personal/blog/photography/photographic-lighting-week-7
+photoset: 72157608986500259
+tags: 
+- photography
+- learning
+images: 
+- thumbnail: http://farm4.static.flickr.com/3034/3025254017_4129b227de_m.jpg
+  fullsize: http://farm4.static.flickr.com/3034/3025254017_4129b227de_b.jpg
+description: This week, our assignment for class was to photograph food. He gave us the general guideline of using natural light in the background and a reflector in the front to capture the light. I think I did pretty well at getting the subject to really pop with the reflector. I took some shots without the reflector for comparison and they came out a little too contrast-y - and not in a good way. The reflector gave the food a nice glow to it.
+---
+This week, our assignment for class was to photograph food. He gave us the general guideline of using natural light in the background and a reflector in the front to capture the light. I think I did pretty well at getting the subject to really pop with the reflector. I took some shots without the reflector for comparison and they came out a little too contrast-y - and not in a good way. The reflector gave the food a nice glow to it.
+<!--break-->
+Martha Stewart Magazine, here I come.
+
+<!-- [flickr-photoset:id=72157608986500259] -->

@@ -1,0 +1,97 @@
+--- 
+layout: post
+title: "San Crist\xC3\xB3bal"
+series: 
+  name: Chiapas!
+  index: 15
+redirects: 
+- /node/607
+- /personal/travel/mexico/san-crist-bal
+tags: 
+- Mexico
+description: "We spent two and a half days in San Crist\xC3\xB3bal. It's a beautiful town to sit back and relax. The people couldn't be nicer and it's a blend of local culture and Western tourism. David and I had a great time just stroliing around the city. It's one of those places that didn't really get good until we exhausted all the major tourist destinations and just wandered around."
+---
+<p>We spent two and a half days in San Cristóbal. It's a beautiful town to sit back and relax. The people couldn't be nicer and it's a blend of local culture and Western tourism. David and I had a great time just stroliing around the city. It's one of those places that didn't really get good until we exhausted all the major tourist destinations and just wandered around.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The street that we would walk down from Na Bolom to the center of town." target="_blank" href="/files/photos/chiapas/sancristobal-street.jpg">
+    <img class="journalPhoto" alt="The street that we would walk down from Na Bolom to the center of town." src="/files/photos/chiapas/sancristobal-street.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">The street that we would walk down from Na Bolom to the center of town.</div>
+</div>
+<p>We loved the banners in the street and looked around for places to buy them. We went into at least 10 different stores asking for those banners and had the exact same story every time. David would ask for "banners" in Spanish ("banderas"). The clerk would look at him confused. David would describe them in Spanish. Eventually, they would understand what he was saying. Once they understood, David would ask them what they called them and they would nod that he was correct and say "banderas". No one ever carried them, but they always said that a paper store closer to the zocalo (town square). We tried what felt like every paper store in town and never had any luck. I later found them on 8th Avenue in New York just up the street from us.</p>
+<p>One of David's favorite things to do in a Mexican city is to check out the local market. There's no possible way to capture everything that you see there - people holding onto a group of live chickens by the feet haggling over price, the fresh produce, the kids, etc. I was aware that we were in an area where they did not always appreciate photgraphs, so I took it easy. We ended up asking one man for a photo and paying him. David and I were on our own. We later found out that the rest of our group could not find anyone to consent to a photograph in the markets.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A man selling all sorts of grains in the market." target="_blank" href="/files/photos/chiapas/sancristobal-grain.jpg">
+    <img class="journalPhoto" alt="A man selling all sorts of grains in the market." src="/files/photos/chiapas/sancristobal-grain.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">A man selling all sorts of grains in the market.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="This market stall had all sorts of local herbs and plants for medicinal purposes. They each had a name and a list of symptoms they cure. We noticed that many of them were listed as a cure for diarrhea." target="_blank" href="/files/photos/chiapas/sancristobal-medicines.jpg">
+    <img class="journalPhoto" alt="This market stall had all sorts of local herbs and plants for medicinal purposes. They each had a name and a list of symptoms they cure. We noticed that many of them were listed as a cure for diarrhea." src="/files/photos/chiapas/sancristobal-medicines.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">This market stall had all sorts of local herbs and plants for medicinal purposes. They each had a name and a list of symptoms they cure. We noticed that many of them were listed as a cure for diarrhea.</div>
+</div>
+<p>San Cristobal has beautiful churches. Unfortunately, the one really beautiful facade was under repair and surrounded in scaffolding. Oh well. Something to go back for. The interiors were beautiful as well, but often very dark.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="One of the main churches on the zocalo" target="_blank" href="/files/photos/chiapas/sancristobal-church-1.jpg">
+    <img class="journalPhoto" alt="One of the main churches on the zocalo" src="/files/photos/chiapas/sancristobal-church-1.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">One of the main churches on the zocalo</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A beautiful interior of Santa Domingo" target="_blank" href="/files/photos/chiapas/sancristobal-insidechurch.jpg">
+    <img class="journalPhoto" alt="A beautiful interior of Santa Domingo" src="/files/photos/chiapas/sancristobal-insidechurch.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">A beautiful interior of Santa Domingo</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A striking statue of one of the 12 stations of the cross" target="_blank" href="/files/photos/chiapas/sancristobal-christ.jpg">
+    <img class="journalPhoto" alt="A striking statue of one of the 12 stations of the cross" src="/files/photos/chiapas/sancristobal-christ.jpg" height="400" width="266">
+  </a>
+  
+  <div class="journalCaption">A striking statue of one of the 12 stations of the cross</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A beautiful statue of the Virgin Mother unlike any I've ever seen." target="_blank" href="/files/photos/chiapas/sancristobal-saint.jpg">
+    <img class="journalPhoto" alt="A beautiful statue of the Virgin Mother unlike any I've ever seen." src="/files/photos/chiapas/sancristobal-saint.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">A beautiful statue of the Virgin Mother unlike any I've ever seen.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="This beautiful church wasn't even on the guide book map - we found it by accident." target="_blank" href="/files/photos/chiapas/sancristobal-bluechurch.jpg">
+    <img class="journalPhoto" alt="This beautiful church wasn't even on the guide book map - we found it by accident." src="/files/photos/chiapas/sancristobal-bluechurch.jpg" height="400" width="266">
+  </a>
+  
+  <div class="journalCaption">This beautiful church wasn't even on the guide book map - we found it by accident.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The interior of the church." target="_blank" href="/files/photos/chiapas/sancristobal-bluechurchinterior.jpg">
+    <img class="journalPhoto" alt="The interior of the church." src="/files/photos/chiapas/sancristobal-bluechurchinterior.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">The interior of the church.</div>
+</div>
+<p>Despite the pictures of the local spots, San Cristóbal is surprisingly "Western". There were great restaurants, hip hotels, streets without cars and lined with tourist trap shops, more internet cafes than you can shake a stick at, and good cafes. We found a great little dessert shop that we stopped at more than once after dinner to share a slice of cake.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="For a country not known for great desserts, this place was pretty fantastic." target="_blank" href="/files/photos/chiapas/sancristobal-desserts.jpg">
+    <img class="journalPhoto" alt="For a country not known for great desserts, this place was pretty fantastic." src="/files/photos/chiapas/sancristobal-desserts.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">For a country not known for great desserts, this place was pretty fantastic.</div>
+</div>
+<p>Speaking of food stories, we went one night to a small steakhouse. I had been feeling not so great and was probably dehydrated. We ordered something simple - sopa azteca and a New York strip steak. David and I commented at how cheap the food is in Mexico. The food arrived, we ate. The waiter came back asking us what we wanted next. We said just the check. He left confused. Then the owner came over to our table to ask if everything was okay and why we didn't want to order more. We eventually realized that it was an "all you can eat" steakhouse and we were supposed to keep ordering more steak. We had severely under-estimated how good of a bargain our dinner was. Since we were full and had not been feeling so well, we assured them that the food was delicious but that we filled up and would take the check.</p>
+<p>And, of course, it wouldn't be a trip abroad unless you ran across some New Yorkers. The day that we went to San Juan Chamula, we met the famle half of a couple that has a house right behind Casa Na Bolom where we were staying. Our last full day in San Cristobal, we went over to their house for coffee. We also met Chip there, the guide that had taken us to the mayor's house in San Juan Chamula. They are a couple that lives in New York most of the year, but vacation San Cristóbal and the Adirondacks. Small world!</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A beautiful convent garden that has been converted into a cultural center" target="_blank" href="/files/photos/chiapas/sancristobal-conventgarden.jpg">
+    <img class="journalPhoto" alt="A beautiful convent garden that has been converted into a cultural center" src="/files/photos/chiapas/sancristobal-conventgarden.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">A beautiful convent garden that has been converted into a cultural center</div>
+</div>

@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: London & Kent
+series: 
+  name: London & Kent
+  index: 3
+redirects: 
+- /node/610
+- /personal/travel/england/london-kent
+tags: 
+- England
+description: For some reason, David became concerned that he wasn't going to make platinum this year. He always operates under the assumption that he doesn't travel much. We planned a short week in London as an easy way to rack up some miles and figured we could see some shows, visit the countryside and bum around London.
+---
+For some reason, David became concerned that he wasn't going to make platinum this year. He always operates under the assumption that he doesn't travel much. We planned a short week in London as an easy way to rack up some miles and figured we could see some shows, visit the countryside and bum around London.

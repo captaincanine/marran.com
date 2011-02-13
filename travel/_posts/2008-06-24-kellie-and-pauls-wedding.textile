@@ -1,0 +1,29 @@
+--- 
+layout: post
+title: Kellie & Paul's Wedding
+series: 
+  name: A Trip to Yuba City for Kellie & Paul's Wedding
+  index: 77
+redirects: 
+- /node/453
+- /personal/blog/family/kellie-pauls-wedding
+photoset: 72157605725782373
+tags: 
+- family
+- Yuba City
+images: 
+- thumbnail: http://farm4.static.flickr.com/3054/2594512243_9a65118ebb_m.jpg
+  fullsize: http://farm4.static.flickr.com/3054/2594512243_9a65118ebb_b.jpg
+description: "And now for the big event: Kellie & Paul's Wedding!\r\rThe big debate leading up to the wedding was \"Who's Wearing a Tie?\". Well, shockingly few men wore a tie. Or not so shocking, considering the Everetts. I was one of the few wearing a tie. I had a nice linen suit for summer events, so I figured it would be silly not to wear it to an event in Yuba City. And I wasn't going to schlep a suit all the way to California and not wear the whole enchilada."
+---
+And now for the big event: Kellie & Paul's Wedding!
+
+The big debate leading up to the wedding was "Who's Wearing a Tie?". Well, shockingly few men wore a tie. Or not so shocking, considering the Everetts. I was one of the few wearing a tie. I had a nice linen suit for summer events, so I figured it would be silly not to wear it to an event in Yuba City. And I wasn't going to schlep a suit all the way to California and not wear the whole enchilada. 
+
+I guess I looked the part of a New Yorker, because several people said to me "Coming to Yuba City from New York must be a big culture shock!" Did I have a wide-eyed blank stare of fear and confusion? I hope not. 
+
+The wedding was beautiful. And thankfully the ceremony was not overly long because linen suits do not "breathe" as much as advertised and it was a typical Yuba City day of pounding sun with not a cloud in the sky.
+
+It was a great reception. There's never quite enough time to connect with cousins and catch-up. I keep thinking there will come a day when I'll finally get to sit down and hear what people have been doing with their lives, but before you know it, another 5-10 years have passed by.
+
+<!-- [flickr-photoset:id=72157605725782373] -->

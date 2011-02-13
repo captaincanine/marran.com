@@ -1,0 +1,41 @@
+--- 
+layout: post
+title: The Yard
+redirects: 
+- /node/515
+- /personal/house/pre-renovation/yard
+tags: 
+- pre-renovation
+- backyard
+description: Here's our backyard. We still haven't figured out what to do with it. This is Gogo's favorite part of the house. She loves it back here.
+---
+<p>Here's our backyard. We still haven't figured out what to do with it. This is Gogo's favorite part of the house. She loves it back here.</p>
+<!--break-->
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The stairs from the first floor kitchen." target="_blank" href="/files/photos/mission_home/yard.back_stairs.JPG">
+    <img class="journalPhoto" alt="The stairs from the first floor kitchen." src="/files/photos/mission_home/yard.back_stairs.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">The stairs from the first floor kitchen.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The back of the house." target="_blank" href="/files/photos/mission_home/outside.bottom.JPG">
+    <img class="journalPhoto" alt="The back of the house." src="/files/photos/mission_home/outside.bottom.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">The back of the house.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="More of the back of the house." target="_blank" href="/files/photos/mission_home/outside.top.JPG">
+    <img class="journalPhoto" alt="More of the back of the house." src="/files/photos/mission_home/outside.top.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">More of the back of the house.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The back yard. You can barely make out ceramic daisies embedded into the concrete. We haven't figured out what we're doing with this, either. I found a Morrocan tile store that I'd like to use to cover the concrete. Or we may deck over the concrete. We'll have to consult Gogo." target="_blank" href="/files/photos/mission_home/yard.whole.JPG">
+    <img class="journalPhoto" alt="The back yard. You can barely make out ceramic daisies embedded into the concrete. We haven't figured out what we're doing with this, either. I found a Morrocan tile store that I'd like to use to cover the concrete. Or we may deck over the concrete. We'll have to consult Gogo." src="/files/photos/mission_home/yard.whole.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The back yard. You can barely make out ceramic daisies embedded into the concrete. We haven't figured out what we're doing with this, either. I found a Morrocan tile store that I'd like to use to cover the concrete. Or we may deck over the concrete. We'll have to consult Gogo.</div>
+</div>

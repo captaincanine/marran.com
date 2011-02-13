@@ -1,0 +1,37 @@
+--- 
+layout: recipe
+title: Angel Food Cake
+ingredients: 
+- cake
+redirects: 
+- /node/489
+- /personal/recipes/dish/desserts/angel-food-cake
+dish: desserts
+description: I've tried several recipes and this is the one to follow. You can't go wrong. And yes, it's worth the effort to make it from scratch and not use a cake mix.
+---
+I've tried several recipes and this is the one to follow. You can't go wrong. And yes, it's worth the effort to make it from scratch and not use a cake mix.
+<!--break-->
+
+1½ cups egg whites (11 to 12)
+1½ cups sifted confectioner's sugar
+1 cup sifted cake flour
+¼ teaspoon salt
+1½ teaspoons cream of tartar
+1 cup granulated sugar
+1 teaspoon vanilla extract
+
+About 1 hour before baking the cake, place the cold egg whites in the bowl of a mixer. Bring the eggs to approximately 60º.
+
+Preheat the oven to 350º. Have a clean, ungreased, 10 inch tube pan.
+
+Sift the confectioner's sugar, sifted cake flour, and salt onto a piece of waxed paper.
+
+Whip the egg whites on low speed until foamy. Add the cream of tartar and increase the speed to medium. Whip just until soft peaks form. Continue whipping and gradually add the granulated sugar in a steady stream until the egg whites thicken and form soft, droopy white peaks. Add the vanilla.
+
+Sprinkle one quarter of the flour mixture over the whites, and with a rubber spatula, fold into the whites. Repeat this process three more times. Gently pour the batter into the tube pan.
+
+Bake until the top is golden and springs back gently when pressed and a toothpick inserted in the center comes out clean: 40 to 45 minutes.
+
+Invert the cake onto the neck of a bottle or funnel. Cool completely in the pan - 2 to 3 hours.
+
+To remove the cake, run a knife through the inside of the pan to loosen the cake from the edges. Invert the cake onto a plate and remove the bottom.

@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Aunt Beth's Garden & Greenhouse
+redirects: 
+- /node/457
+- /personal/blog/family/aunt-beths-garden-greenhouse
+photoset: 72157605854532621
+tags: 
+- family
+- garden
+- Yuba City
+images: 
+- thumbnail: http://farm4.static.flickr.com/3212/2616311157_dbc981c454_m.jpg
+  fullsize: http://farm4.static.flickr.com/3212/2616311157_dbc981c454_b.jpg
+description: On recent trip to Yuba City, CA, I took some time to take photos of Aunt Beth's garden and greenhouse. I should say - take photos of a small fraction of her garden and greenhouse. There are lots of vegetables, herbs, and fruit trees there - unfortunately, I was there a bit early in the season before the plants had a chance to get going. I was still able to get some good shots.
+---
+On recent trip to Yuba City, CA, I took some time to take photos of Aunt Beth's garden and greenhouse. I should say - take photos of a small fraction of her garden and greenhouse. There are lots of vegetables, herbs, and fruit trees there - unfortunately, I was there a bit early in the season before the plants had a chance to get going. I was still able to get some good shots.
+
+The orchid greenhouse is amazing. Aunt Beth told me that there was very little in bloom this time of year. What I saw was still enough to amaze me. It seemed that every time I turned around, there was another orchid bloom that I had missed. Each one was more strange and wonderful than the last.
+
+I have no idea what kind any of these are, so they are all labeled generically.
+
+<!-- [flickr-photoset:id=72157605854532621] -->

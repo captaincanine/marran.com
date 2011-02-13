@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: The Baha'i Temple Gardens
+series: 
+  name: A Trip to Israel
+  index: 85
+redirects: 
+- /node/635
+- /personal/travel/israel/bahai-temple-gardens
+photoset: 72157608309578352
+tags: 
+- Israel
+- religion
+images: 
+- thumbnail: http://farm4.static.flickr.com/3008/2968253812_32e9f39fe5_m.jpg
+  fullsize: http://farm4.static.flickr.com/3008/2968253812_32e9f39fe5_b.jpg
+description: Our second stop on my organized tour was to the [w:Baha'i] Temple Gardens in Haifa. I thought we were going to have more time in Haifa - which is considered by many to the most beautiful city in Israel. We only had about twenty minutes, which was disappointing. They droves us to the top of the gardens, let us out to take pictures, then we drove off to the next stop. Bummer - but at least I was able to see some of the gardens.
+---
+Our second stop on my organized tour was to the [w:Baha'i] Temple Gardens in Haifa. I thought we were going to have more time in Haifa - which is considered by many to the most beautiful city in Israel. We only had about twenty minutes, which was disappointing. They droves us to the top of the gardens, let us out to take pictures, then we drove off to the next stop. Bummer - but at least I was able to see some of the gardens.
+
+One of the major tenets of the Baha'i Faith is on making things that are beautiful. The gardens are meticulous and well manicured. You are only allowed in the gardens if you are a member of the faith. Hence, all of these shots are taken from roughly the same - at the top overlooking the wall of the garden.
+
+Someday, I hope to see more of the garden.
+
+<!-- [flickr-photoset:id=72157608309578352] -->

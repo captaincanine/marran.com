@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Photos from Class 4
+redirects: 
+- /node/506
+- /personal/blog/nyc/photos-class-4
+photoset: 72157605987133450
+tags: 
+- NYC
+- photography
+images: 
+- thumbnail: http://farm4.static.flickr.com/3064/2639174142_ca0ee2dfae_m.jpg
+  fullsize: http://farm4.static.flickr.com/3064/2639174142_ca0ee2dfae_b.jpg
+description: For our final class, we went mostly indoors. We went to the apartment of one of the class members for some experiments in indoor portrait work and then some night shots from her balcony.I didn't come up with any great shots from this class, though I took the most photos from this class out of any of the others. Especially with the night shots, it was hard to determine how the shot was going to turn out. So there was a lot of trial and error.
+---
+For our final class, we went mostly indoors. We went to the apartment of one of the class members for some experiments in indoor portrait work and then some night shots from her balcony.
+
+I didn't come up with any great shots from this class, though I took the most photos from this class out of any of the others. Especially with the night shots, it was hard to determine how the shot was going to turn out. So there was a lot of trial and error.
+<!--break-->
+<!-- [flickr-photoset:id=72157605987133450] -->

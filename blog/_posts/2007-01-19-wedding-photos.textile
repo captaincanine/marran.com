@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Wedding Photos?!
+redirects: 
+- /node/405
+- /personal/blog/celebrations/wedding-photos
+tags: 
+- celebrations
+images: 
+- thumbnail: http://farm4.static.flickr.com/3264/2298340900_f83104f662_m.jpg
+  fullsize: http://farm4.static.flickr.com/3264/2298340900_f83104f662_b.jpg
+description: You know how you have those things that you think "I should really do that thing" and you just never get around to it. And eventually that thing reaches some ridiculously late point of completion. And your procrastination almost becomes fascinating to watch. You begin to wonder "will I ever accomplish that task?"
+---
+You know how you have those things that you think "I should really do that thing" and you just never get around to it. And eventually that thing reaches some ridiculously late point of completion. And your procrastination almost becomes fascinating to watch. You begin to wonder "will I ever accomplish that task?"
+
+Well...our wedding photos have been sitting in the library for almost 4 years now. We had a set of proofs and all the negatives. For some reason, the black and white proofs were very washed out. The photographer insisted that it was the proofs - not the negatives that were washed out. Anyway, I knew that I wanted to get digital copies of everything, so I had a task on my to-do list for years that said "wedding photos" - meaning that I should scan the proofs and post the photos. I did one page one day and realized that it was going to takes hours and hours of tedious scanning to transfer the proofs to digital copies. I tried all sorts of mantras to motivate myself: "A journey of a thousand miles begins with one step." Nothing worked.
+
+I finally just took the negatives to a photo store and had them transferred to CD. It was expensive, but at least it was done. So I posted the photos to a Flickr set. You can view them here: 
+
+<a href="http://www.flickr.com/photos/keith-marran/sets/72157604003202037/" target="_blank">Keith & David's Commitment Ceremony</a>

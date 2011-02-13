@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: My Folding Bicycle
+redirects: 
+- /node/548
+- /personal/blog/nyc/my-folding-bicycle
+tags: 
+- NYC
+- exercise
+images: 
+- thumbnail: http://farm4.static.flickr.com/3269/2884641221_7bab28dff8_m.jpg
+  fullsize: http://farm4.static.flickr.com/3269/2884641221_9e38f76a84_o.jpg
+description: I came from Israel with many goals. One of them was to lose my extra weight. It's gotta go. Another goal was to enjoy more of NYC. I was definitely in a day-to-day rut. So I decided that one of the things that I could do to combat both of those was to ride a bicycle around town more often. I talked to my friend Jeff about starting to trade out days at the gym with long bike rides. We could bike along the water-front, we could bike to new neighborhoods, etc.
+---
+I came from Israel with many goals. One of them was to lose my extra weight. It's gotta go. Another goal was to enjoy more of NYC. I was definitely in a day-to-day rut. So I decided that one of the things that I could do to combat both of those was to ride a bicycle around town more often. I talked to my friend Jeff about starting to trade out days at the gym with long bike rides. We could bike along the water-front, we could bike to new neighborhoods, etc. 
+
+Jeff has a folding bike and loved it. I decided to get one, too, so that I could keep it in the entryway for easy access. I fell in love with it almost instantaneously. Since it's a folding bike, I can take it on the subway with me. We could go to Brooklyn and bicycle around Prospect Park or Ocean Bay or wherever. And folds down small enough to fit underneath our coat rack.
+
+{{ "http://farm4.static.flickr.com/3269/2884641221_9e38f76a84_o.jpg" | format_photo }}

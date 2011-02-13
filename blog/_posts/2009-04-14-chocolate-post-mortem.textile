@@ -1,0 +1,55 @@
+--- 
+layout: post
+title: Chocolate Post-Mortem
+redirects: 
+- /node/651
+- /personal/blog/food/chocolate-post-mortem
+tags: 
+- food
+images: 
+- thumbnail: http://farm4.static.flickr.com/3647/3441991412_fc53feff78_m.jpg
+  fullsize: http://farm4.static.flickr.com/3647/3441991412_fc53feff78_b.jpg
+description: This was my third year making holiday-time chocolates for friends, family, and co-workers. This year Mom helped me hit a record of 1080 individual pieces of chocolate. Every year I learn a lot about the process and I'm convinced I'll remember it all the following year. And every year I start the process with the same set of questions and frustrations. So this year I'm writing down everything I learned over the process for notes to next year.
+---
+This was my third year making holiday-time chocolates for friends, family, and co-workers. This year Mom helped me hit a record of 1080 individual pieces of chocolate. Every year I learn a lot about the process and I'm convinced I'll remember it all the following year. And every year I start the process with the same set of questions and frustrations. So this year I'm writing down everything I learned over the process for notes to next year.<!--break-->
+
+To start off, here are the finished chocolates: 
+
+[flickr-photo:id=3441991412,size=m,align=c]
+
+The flavors are:
+
+<ul>
+
+<li><strong>American</strong> - Peanut butter in milk chocolate
+<li><strong>German</strong> - Cherry and almond cream in dark chocolate
+<li><strong>Turkish</strong> - Pistachio and spices in dark chocolate
+<li><strong>Brazil</strong> - Passion fruit & guava fondant in white chocolate
+<li><strong>Colombian</strong> - Orange and coffee in white chocolate
+<li><strong>English</strong> - Milk chocolate caramel in dark chocolate
+<li><strong>Mexican</strong> - Cinnamon & pepper milk chocolate in dark chocolate
+<li><strong>Indian</strong> - Masala chocolate in milk chocolate
+
+</ul>
+
+The good news is that all the flavors were great. I usually change the flavors around a bit every year, but think I've found my permanent list. I wouldn't mind finding another flavor for Asia, but I don't know who I would bump from the current list.
+
+Now on to lessons learned: 
+
+<ul>
+
+<li>With my new chocolate temperer, I had to determine the temperatures myself. The milk chocolate was too runny and some of the batches were slightly out of temper by the end. It went into the molds a little too thin. Next year, my final temperature for milk chocolate should be a bit cooler than what the package recommended. And let it dry in the molds a bit more than last year.
+
+<li>In contrast to the milk chocolate, the dark chocolate was very thick when it went into the molds. This led to the German chocolates being "the disaster batch". On the dark chocolate, keep the resting temperature of the chocolate a little on the high side and get it into the molds quickly. And when you dump the partially melted chocolate out of the molds, you have to really bang the dark chocolate out.
+
+<li>For the German batch, the idea of chopping up sour cherries and putting them in the chocolates was a big headache and didn't work. In the future, put the cherries directly into the cream and pipe it in.
+
+<li>The big enemy for molded chocolates is air bubbles. One option is to paint the inside of molds first, before pouring the chocolate in. That's very time-consuming. I was able to keep the air bubbles to a minimum if I keep the mold tilted while I pour the chocolate. And pour at the top of the mold so that the chocolate drips down into the crevices. Give everything a very vigorous shake to work bubbles to the top. Pour more chocolate if necessary. Then wipe it all clean with an offset spatula. That should take care of air bubbles. Don't be afraid to bang the mold of chocolates.
+
+<li>For the fondants, use the recipes on my spreadsheet. Don't look for a different recipe. The passion fruit didn't set up at first and took a lot of work to come together.
+
+<li>For fillings that are dependent on white chocolate, melt a bunch of white chocolate first, then add flavoring until you get the right consistency. Don't add melted chocolate to flavoring. It takes forever to know if you have the right consistency.
+
+</ul>
+
+That's all I can remember. Let's hope that this all makes sense in December when I do it again.

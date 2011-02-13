@@ -1,0 +1,29 @@
+--- 
+layout: post
+title: At Beth & Charlie's
+series: 
+  name: A Trip to Yuba City for Kellie & Paul's Wedding
+  index: 80
+redirects: 
+- /node/450
+- /personal/blog/family/beth-charlies
+photoset: 72157605725774371
+tags: 
+- family
+- Yuba City
+images: 
+- thumbnail: http://farm4.static.flickr.com/3065/2594490555_337ab0ded0_m.jpg
+  fullsize: http://farm4.static.flickr.com/3065/2594490555_337ab0ded0_b.jpg
+description: "For most of the rest of the week, we stayed at Aunt Beth's & Uncle Charlie's. \r\rUncle Charlie has spent most of his life working at John Deere. Hence, there is a LOT of John Deere paraphernalia around the house.\r\rCharlie took Lorenz on a ride on a \"gator\". For you city folk, it's a four-wheeled utility vehicle made by (whom else) John Deere. Here's more information: http://www.deere.com/en_US/ProductCatalog/GC/category/GC_UV.html. Lorenz went NUTS getting to ride in this. Just about the only two words that he said crystal clear the whole weekend were \"marshmallow\" and \"gator\"."
+---
+For most of the rest of the week, we stayed at Aunt Beth's & Uncle Charlie's. 
+
+Uncle Charlie has spent most of his life working at John Deere. Hence, there is a LOT of John Deere paraphernalia around the house.
+
+Charlie took Lorenz on a ride on a "gator". For you city folk, it's a four-wheeled utility vehicle made by (whom else) John Deere. Here's more information: http://www.deere.com/en_US/ProductCatalog/GC/category/GC_UV.html. Lorenz went NUTS getting to ride in this. Just about the only two words that he said crystal clear the whole weekend were "marshmallow" and "gator". 
+
+And Lorenz wasn't the only one. Beth and Charlie's dog Coda was ecstatic for the ride. And Aunt Catherine's glee is quite visible as well. Charlie seems to be the only keeping his cool.
+
+You may also notice the fetching pink swimsuit with a frilly skirt and multi-colored daisies. It was the only life vest that Lorenz. He didn't mind wearing it. We'll see if he retro-actively minds having worn it when these pictures are shown to future prom dates. Thank god for the internet - these photos may be here for a long time!
+
+<!-- [flickr-photoset:id=72157605725774371] -->

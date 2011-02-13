@@ -1,0 +1,59 @@
+--- 
+layout: post
+title: "Trip to Oregon: Day at Lincoln Beach"
+redirects: 
+- /node/542
+- /personal/blog/family/trip-oregon-day-lincoln-beach
+tags: 
+- family
+- Oregon
+description: One of my goals during my unemployment was to get back to Oregon for a visit. And if I was going to get everything I could out of Oregon, that meant a trip to the coast.
+---
+<p>One of my goals during my unemployment was to get back to Oregon for a visit. And if I was going to get everything I could out of Oregon, that meant a trip to the coast.</p>
+<!--break-->
+
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Dad and I along the beach" target="_blank" href="/files/photos/oregon/images/dad_keith_beach.jpg">
+    <img class="journalPhoto" alt="Dad and I along the beach" src="/files/photos/oregon/images/dad_keith_beach.jpg" width="500" height="377">
+  </a>
+  
+  <div class="journalCaption">Dad and I along the beach</div>
+</div>
+<p>Mom, Dad, and I left after lunch and took a lazy drive to Lincoln City. We were hoping to stop at the Sea Gypsy motel and walk along where they fly kites, but it must not have been windy enough because we didn't see any kites. Instead, we went to the Salishan lodge and walked a nature trail to the beach. Unlike the East Coast, the Oregon coast is not a mob scene. There were a few people here and there that would pass by - some savouring the introspection that comes with a walk on the pacific coast and others gleefully saying hello, excited by the good fortune of the weather. Unlike most days on the Oregon coast, there was barely a cloud in the sky. There was a mildly cool breeze blowing off the ocean. In the distance, we saw a helicopter inspecting some boat off the coast.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Mom and I along the beach" target="_blank" href="/files/photos/oregon/images/mom_keith.jpg">
+    <img class="journalPhoto" alt="Mom and I along the beach" src="/files/photos/oregon/images/mom_keith.jpg" width="500" height="377">
+  </a>
+  
+  <div class="journalCaption">Mom and I along the beach</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Just me" target="_blank" href="/files/photos/oregon/images/keith_beach.jpg">
+    <img class="journalPhoto" alt="Just me" src="/files/photos/oregon/images/keith_beach.jpg" width="500" height="377">
+  </a>
+  
+  <div class="journalCaption">Just me</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Mom putting on her shoes" target="_blank" href="/files/photos/oregon/images/mom_shoes.jpg">
+    <img class="journalPhoto" alt="Mom putting on her shoes" src="/files/photos/oregon/images/mom_shoes.jpg" width="500" height="377">
+  </a>
+  
+  <div class="journalCaption">Mom putting on her shoes</div>
+</div>
+<p>After a stroll along the beach, we went up to Charlene's for a drink. She has a brand new house in Salishan - very serene and picturesque. There was a squirrel taking full advantage of the bird feeder on her porch. He munched on sunflower seeds the entire time we were there. Next, I went to Michael's house (also in Salishan) to check out his home theater. Unfortunately, we didn't have time to see anything in action, but I got some good advice when it's time for me to build my home theater.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A squirrel on Charlene's patio" target="_blank" href="/files/photos/oregon/images/squirrel.jpg">
+    <img class="journalPhoto" alt="A squirrel on Charlene's patio" src="/files/photos/oregon/images/squirrel.jpg" width="500" height="377">
+  </a>
+  
+  <div class="journalCaption">A squirrel on Charlene's patio</div>
+</div>
+<p>For dinner, we met at the Bay House on the ocean. The food was great and we caught a fantastic sunset over the water.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="At the Bay House" target="_blank" href="/files/photos/oregon/images/restaurant.jpg">
+    <img class="journalPhoto" alt="At the Bay House" src="/files/photos/oregon/images/restaurant.jpg" width="500" height="377">
+  </a>
+  
+  <div class="journalCaption">At the Bay House</div>
+</div>

@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Photos from Class 3
+redirects: 
+- /node/505
+- /personal/blog/nyc/photos-class-3
+photoset: 72157605991898097
+tags: 
+- NYC
+- photography
+images: 
+- thumbnail: http://farm4.static.flickr.com/3158/2638326137_f452138bda_m.jpg
+  fullsize: http://farm4.static.flickr.com/3158/2638326137_f452138bda_b.jpg
+description: This week was tough. We had a guest teacher - someone whose name I can't remember. He is a famous street photographer. He gave us his general philosophy about photography and especially street photography. For instance, he suggested that once we feel like we have the shot, step into it the shot by taking a step 1 - 2 feet forward. It makes a big difference. All of a sudden, you feel close to your subject.
+---
+This week was tough. We had a guest teacher - someone whose name I can't remember. He is a famous street photographer. He gave us his general philosophy about photography and especially street photography. For instance, he suggested that once we feel like we have the shot, step into it the shot by taking a step 1 - 2 feet forward. It makes a big difference. All of a sudden, you feel close to your subject.
+
+Then we went to Times Square to take street shots. I found a young couple making out and decided to take a shot, I had everything ready, then decided to take a big step forward. All of a sudden they stopped making out a looked at me like I was crazy. I hadn't gauged the distance between us very well and I was standing literally right next to them. I couldn't take a shot. I sheepishly left.
+
+At another point, I was trying to take a purposely blurry shot of people passing in front of a theater. I was calmly waiting with the camera up to my face for enough people to pass. It seemed like fewer and fewer people were passing by. Then I lowered my camera and realized that tourists had lined up outside of my shot thinking they didn't want to interrupt my photo. I said "thank you" and everyone started passing by again. This time I waited with my camera down, and when enough people were passing by, I quickly got my shot.
+
+It's really hard to take photos in Times Square. There's just too much activity to single out something. I thought I had taken some good photos, but when I got back home I found that most of them were unusable.
+
+There's also one photo of some lighting experiments we did in class.
+
+<!-- [flickr-photoset:id=72157605991898097] -->

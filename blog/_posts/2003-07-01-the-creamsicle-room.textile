@@ -1,0 +1,112 @@
+--- 
+layout: post
+title: The Creamsicle Room
+series: 
+  name: The House Tour
+  index: 94
+redirects: 
+- /node/517
+- /personal/house/post-renovation/creamsicle-room
+tags: 
+- post-renovation
+description: When we first renovated the living room, we had picked out a color called "milquetoast" that was very plain beige on the swatch. By the time we got to painting the living room, we were exhausted with renovations. The painters first got paints that were the same number from a different paint manufatcurer. It came out very dark olive green. David came home and said, "wrong, wrong, wrong!" The next day he came home and they had painted a panel with the rigth color, but on the wall it came out very peachy. I didn't say anything because I figured David would tell them the color was wrong.
+---
+<p>When we first renovated the living room, we had picked out a color called "milquetoast" that was very plain beige on the swatch. By the time we got to painting the living room, we were exhausted with renovations. The painters first got paints that were the same number from a different paint manufatcurer. It came out very dark olive green. David came home and said, "wrong, wrong, wrong!" The next day he came home and they had painted a panel with the rigth color, but on the wall it came out very peachy. I didn't say anything because I figured David would tell them the color was wrong. However, the color was right and David was too tired to pick a new color. So our living room became "The Creamsicle Room".</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/old_dining_table.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/old_dining_table.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Gogo poses in front of the hole in the wall that will be the fireplace." target="_blank" href="/files/photos/renovation/living_room/old_gogo_fireplace.jpg">
+    <img class="journalPhoto" alt="Gogo poses in front of the hole in the wall that will be the fireplace." src="/files/photos/renovation/living_room/old_gogo_fireplace.jpg" width="400" height="407">
+  </a>
+  
+  <div class="journalCaption">Gogo poses in front of the hole in the wall that will be the fireplace.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/old_living_room.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/old_living_room.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/old_piano.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/old_piano.jpg" width="300" height="400">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/old_windows.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/old_windows.jpg" width="300" height="400">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>Whenever we told people that we weren't sure that the color worked, the response was always "Oh, no, it works great for this room. Don't change anything." When we put in the fireplace we had to repaint and we decided that enough was enough. As soon as we started telling people that we were repainting, the response was always, "Good. This peachy-orange doesn't work."</p>
+<p>Here are some pictures with the new paint job.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/piano.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/piano.jpg" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/west_wall.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/west_wall.jpg" width="250" height="333">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/ne_corner.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/ne_corner.jpg" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/north_wall.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/north_wall.jpg" width="250" height="333">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/nw_corner.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/nw_corner.jpg" width="250" height="333">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>You can see a close-up of the floor in this picture.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/floor.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/floor.jpg" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>In this is the new centerpiece of the room...the fireplace. It's from the same time period of the house taken from another Manhattan townhouse.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/living_room/fireplace.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/fireplace.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>Take a tour of the living room.</p>
+<div style="margin-top: 1em; margin-bottom: 1em;">
+  <script language="JavaScript">
+QT_WriteOBJECT_XHTML (
+	"/renovation/living_room/living_room_hi.mov", "320", "256", "",
+	"autoplay","false",
+	"target", "myself"
+);
+</script>
+</div>

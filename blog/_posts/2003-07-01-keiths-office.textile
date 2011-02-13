@@ -1,0 +1,29 @@
+--- 
+layout: post
+title: Keith's Office
+series: 
+  name: The House Tour
+  index: 100
+redirects: 
+- /node/521
+- /personal/house/post-renovation/keiths-office
+tags: 
+- post-renovation
+description: Keith's Office (aka The Anti-David Room) has been done in a 70's/Blaxploitation theme. I found some fantastic vintage wallpaper on the internet, a lamp from E-Bay, and pulled out the Pam Grier movie posters that David had never let me hang on the wall.
+---
+<p>Keith's Office (aka The Anti-David Room) has been done in a 70's/Blaxploitation theme. I found some fantastic vintage wallpaper on the internet, a lamp from E-Bay, and pulled out the Pam Grier movie posters that David had never let me hang on the wall.</p>
+<!--break-->
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A shot of Gogo amongst the pieces that will soon be the room." target="_blank" href="/files/photos/renovation/office/swanky.jpg">
+    <img class="journalPhoto" alt="A shot of Gogo amongst the pieces that will soon be the room." src="/files/photos/renovation/office/swanky.jpg" width="600" height="543">
+  </a>
+  
+  <div class="journalCaption">A shot of Gogo amongst the pieces that will soon be the room.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Gogo enjoying the shag carpet in the finished room. No furniture yet." target="_blank" href="/files/photos/renovation/gogo-carpet.jpg">
+    <img class="journalPhoto" alt="Gogo enjoying the shag carpet in the finished room. No furniture yet." src="/files/photos/renovation/gogo-carpet.jpg" width="450" height="600">
+  </a>
+  
+  <div class="journalCaption">Gogo enjoying the shag carpet in the finished room. No furniture yet.</div>
+</div>

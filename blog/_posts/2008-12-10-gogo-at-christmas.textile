@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Gogo at Christmas
+redirects: 
+- /node/641
+- /personal/blog/gogo/gogo-christmas
+tags: 
+- Gogo
+images: 
+- thumbnail: http://farm4.static.flickr.com/3168/3098559841_01617be113_m.jpg
+  fullsize: http://farm4.static.flickr.com/3168/3098559841_1446702c29_o.jpg
+description: "I had been looking for this photo to show Mom while she was in town and I didn't have it handy. But now here it is: Gogo at Christmas. This was done a few years ago when David and I went to St John and left Gogo at a kennel. They dressed her up in a Christmas collar and somehow convinced her to smile for the camera. Though I don't approve of dressing up dogs for photos, this will go down as one of my favorite Gogo photos."
+---
+I had been looking for this photo to show Mom while she was in town and I didn't have it handy. But now here it is: Gogo at Christmas. This was done a few years ago when David and I went to St John and left Gogo at a kennel. They dressed her up in a Christmas collar and somehow convinced her to smile for the camera. Though I don't approve of dressing up dogs for photos, this will go down as one of my favorite Gogo photos.
+<!--break-->
+
+[flickr-photo:id=3098559841,a=center]

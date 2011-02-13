@@ -1,0 +1,11 @@
+--- 
+layout: post
+title: So many ways to stay connected
+redirects: 
+- /node/684
+- /so-many-ways-stay-connected
+tags: 
+- technology
+description: "I&#39;m putting together an exit strategy for Facebook. I love the fact that I&#39;m contact with smart, fun people that I rarely get to see. Unfortunately, the constant privacy concerns are...concerning me. I tried Twitter for many months, but the 140 character limit really gets to me sometimes. And I have been unable to get TweetDeck truly integrated into my weekly routine, so Twitter has fallen by the wayside. I tried Tumblr, which I ay still fall back on, but it updates Facebook in an odd way.\xC2\xA0 So now I&#39;m trying Posterous."
+---
+<div class='posterous_autopost'>I&#39;m putting together an exit strategy for Facebook. I love the fact that I&#39;m contact with smart, fun people that I rarely get to see. Unfortunately, the constant privacy concerns are...concerning me. I tried Twitter for many months, but the 140 character limit really gets to me sometimes. And I have been unable to get TweetDeck truly integrated into my weekly routine, so Twitter has fallen by the wayside. I tried Tumblr, which I ay still fall back on, but it updates Facebook in an odd way.  <p /><div>So now I&#39;m trying Posterous. Which is designed to be the ultimate tool for updating your various feeds everywhere. We&#39;ll see if it&#39;s a decent payoff.</div></div>

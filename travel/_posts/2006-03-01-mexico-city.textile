@@ -1,0 +1,33 @@
+--- 
+layout: post
+title: Mexico City
+series: 
+  name: Chiapas!
+  index: 13
+redirects: 
+- /node/609
+- /personal/travel/mexico/mexico-city
+tags: 
+- Mexico
+description: Aaah. Mexico City. More importantly, The Four Seasons Hotel. Rustic charm is nice, but a private and clean bathroom is a rare thing in a third world country. David and I arrived quite tired and there was a line to check in at the Four Seasons. I overheard some conversation that there was renovation going on during the day on the 6th floor, so I was prepared to not accept a room on the 5th, 6th, or 7th floors. When we got to the front desk, the clerk was taking a very long time to find a room. It was several minutes of watching her type into a keyboard and click her mouse repeatedly.
+---
+<p>Aaah. Mexico City. More importantly, The Four Seasons Hotel. Rustic charm is nice, but a private and clean bathroom is a rare thing in a third world country. David and I arrived quite tired and there was a line to check in at the Four Seasons. I overheard some conversation that there was renovation going on during the day on the 6th floor, so I was prepared to not accept a room on the 5th, 6th, or 7th floors. When we got to the front desk, the clerk was taking a very long time to find a room. It was several minutes of watching her type into a keyboard and click her mouse repeatedly. She called over the manager and they clicked and stared at their screens for a while. I began to worry that they were going to downgrade us on the room, so I said "Is there a problem?" - which was intended to sound inquisitive and reassuring but David insists came out like acid. The manager said there was no problem and within a minute said that they had upgraded us to a nicer room on the 8th floor. Woo-hoo!</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The room was huge. It took us forever to figure out how to work the remote control - it was JUST THAT FANCY." target="_blank" href="/files/photos/chiapas/mexicocity-room.jpg">
+    <img class="journalPhoto" alt="The room was huge. It took us forever to figure out how to work the remote control - it was JUST THAT FANCY." src="/files/photos/chiapas/mexicocity-room.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">The room was huge. It took us forever to figure out how to work the remote control - it was JUST THAT FANCY.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The view of the courtyard from the 8th floor." target="_blank" href="/files/photos/chiapas/mexicocity-courtyard.jpg">
+    <img class="journalPhoto" alt="The view of the courtyard from the 8th floor." src="/files/photos/chiapas/mexicocity-courtyard.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">The view of the courtyard from the 8th floor.</div>
+</div>
+<p>We were quite tired, so we ordered room service and hung out in the room the first night. The next day, we went to the antiques market. I started having my usual reaction to Mexico City - weak, bleary, short of breath, and unable to focus. I lasted a while at the market, but evenutally headed back to the room. We got a hand-painted offering box for the kitchen and David ended up getting about a dozen or so ex votos.</p>
+<p>I have to admit that a lot of my visit to Mexico City is a poor-air-quality blur. We went to a couple of antique stores looking for more ex votos. We found out that they are easy to replicate and hard to authenticate, so most dealers don't carry them. Which is fine by us. They're cheap and look nice, so what's the big deal if they're replicas?</p>
+<p>We had a wonderful evening with Pastor Luna, a colleague's of David that lives in Mexico City, and his wife, Anna Laura. They took us to a wonderful Italian restaurant in the hip and trendy part of town.</p>
+<p>Our last full day in Mexico City, we went to the Franz Mayer Museum and took our time walking back to the hotel part of the way. We finally ate at a VIPS (remember from our first night) and it was all I dreamed it would be. The thing that always strikes me about Mexico City is that so many of the neighborhoods clearly had their big day once upon a time. We drove through a couple of pretty rundown neighborhoods that had fantastic architecture. I kept thinking that if there's ever an economic boom in Mexico, that Mexico City will be one of the most sought after cities in the world. </p>
+<p>So, an incredible trip over all, but I was so happy at the thought of going back home, having a regular old salad and letting my digestive system recover. I suppose it's good that Mexico is only for true travelers. It seems so rare these days to go some place that is truly unspoiled. </p>

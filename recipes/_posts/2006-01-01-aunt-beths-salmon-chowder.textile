@@ -1,0 +1,31 @@
+--- 
+layout: recipe
+title: Aunt Beth's Salmon Chowder
+ingredients: 
+- salmon
+redirects: 
+- /node/472
+- /personal/recipes/dish/soups/aunt-beths-salmon-chowder
+dish: soups
+description: Aunt Beth got this recipe from a restaturant in Alaska when her and her husband, Charlie, went for an Alaskan cruise. She made it for an Everett family gathering and it's hearty enough to serve as the main course.
+---
+  <p>
+    <i>Aunt Beth got this recipe from a restaturant in Alaska when her and her husband, Charlie, went for an Alaskan cruise. She made it for an Everett family gathering and it's hearty enough to serve as the main course.</i></p>
+<!--break-->
+  <div class="recipeIngredient">2 cups diced and peeled potatoes</div>
+  <div class="recipeIngredient">1½ cup mixed vegetables</div>
+  <div class="recipeIngredient">1 large onion, chopped</div>
+  <div class="recipeIngredient">1 stalk celery</div>
+  <div class="recipeIngredient">2 cloves garlic</div>
+  <div class="recipeIngredient">¼ teaspoon celery seed</div>
+  <div class="recipeIngredient">2 cups water (or clam juice)</div>
+  <div class="recipeIngredient">3 tablespoons butter</div>
+  <div class="recipeIngredient">3 tablespoons flour</div>
+  <div class="recipeIngredient">1 teaspoon salt</div>
+  <div class="recipeIngredient">¼ teaspoon pepper</div>
+  <div class="recipeIngredient">2 cups milk</div>
+  <div class="recipeIngredient">2 cups cubed cooked salmon</div>
+
+  <p>In a dutch oven or similar soup pot, combine the potatoes, vegetables, opion, celery seed and water. Bring to a boil. Reduce the heat and let simmer covered for 20 minutes or until the vegetables are tender.</p>
+  <p>In a medium-sized saucepan, melt the butter. Stir in the flour, salt and pepper and stir until smooth. Gradually add the milk. Bring to a boil, stirring constantly. Cook and stir for 2 additional minutes or until the mixture is thickened.</p>
+  <p>Add the salmon and the milky mixture to the veggie soup base. Heat thoroughly. Serve warm.</p>

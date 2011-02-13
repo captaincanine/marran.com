@@ -1,0 +1,36 @@
+--- 
+layout: post
+title: Villahermosa
+series: 
+  name: Chiapas!
+  index: 22
+redirects: 
+- /node/600
+- /personal/travel/mexico/villahermosa
+tags: 
+- Mexico
+description: Our flight went from La Guardia in New York, to Mexico City, and then to Villahermosa. We left a lot of time in Mexico City since we had to go through customs. For some reason, we got through customs RIDICULOUSLY quickly and we were left with a long layover in the Mexico City airport. Unfortunately, it's not the best airport to get stuck in. Now that I know it a bit better, I would have found the one upscale area and spent some time shopping. We didn't know better at the time, though, and so we just hung out in the main waiting area. Time seemed to pass at an all-time slow.
+---
+<p>Our flight went from La Guardia in New York, to Mexico City, and then to Villahermosa. We left a lot of time in Mexico City since we had to go through customs. For some reason, we got through customs RIDICULOUSLY quickly and we were left with a long layover in the Mexico City airport. Unfortunately, it's not the best airport to get stuck in. Now that I know it a bit better, I would have found the one upscale area and spent some time shopping. We didn't know better at the time, though, and so we just hung out in the main waiting area. Time seemed to pass at an all-time slow. It didn't help that we had gotten up at something like 4 in the morning and the airport was not air conditioned. There's nothing like being tired, hot, and wearing warm clothes because you jsut left a place that's still in winter. We were also somewhat lucky to make the connection to Villahermosa. We had been listening carefully and heard the gate being called about 15 minutes prior to our flight taking off. We never saw a gate being posted on the electronic boards throughout the airport - even when we arrived at the gate. I think the locals that take that flight all the time know the gate. Anyway, the flight there was pleasant and uneventful.</p>
+<p>We checked into our hotel and unwound. Our hotel was next to the Hyatt and I believe were the only two upscale hotels in that area. There's not much to see in Villahermosa other than the Olmec heads. We asked at the hotel for a good place for dinner. They (and the guidebook) suggested VIPS. I had a vague recollection of a VIPS in northern California. I thought they were more in the category of a Denny's than a nice restaurant. David double-checked and said something along the lines of "Are you sure it's a good restuarant?" The person at the hotel smiled and ensured us that it was a good restaurant. It turns out that I was right. Vips is a Mexican Denny's. We had to do some shopping first for bottled water and bug repellant, so we passed VIPS. We ended up eating a Sanbourne's which we suspect was better than VIPS - but who can tell. It was probably a toss-up.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Our hotel had a nice lobby - including a Mayan-inspired mural that covered one wall." target="_blank" href="/files/photos/chiapas/villahermosa-lobby.jpg">
+    <img class="journalPhoto" alt="Our hotel had a nice lobby - including a Mayan-inspired mural that covered one wall." src="/files/photos/chiapas/villahermosa-lobby.jpg" height="400" width="600">
+  </a>
+  
+  <div class="journalCaption">Our hotel had a nice lobby - including a Mayan-inspired mural that covered one wall.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="This is the courtyard where our room was located. I didn't know the person in the shot until later. Her name is Kelly and she was part of our tour group. You have no idea how good it feels to see this in the middle of a New York winter." target="_blank" href="/files/photos/chiapas/villahermosa-courtyard.jpg">
+    <img class="journalPhoto" alt="This is the courtyard where our room was located. I didn't know the person in the shot until later. Her name is Kelly and she was part of our tour group. You have no idea how good it feels to see this in the middle of a New York winter." src="/files/photos/chiapas/villahermosa-courtyard.jpg" height="400" width="266">
+  </a>
+  
+  <div class="journalCaption">This is the courtyard where our room was located. I didn't know the person in the shot until later. Her name is Kelly and she was part of our tour group. You have no idea how good it feels to see this in the middle of a New York winter.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="David relaxing in the hotel room after a long day of air travel." target="_blank" href="/files/photos/chiapas/villahermosa-david.jpg">
+    <img class="journalPhoto" alt="David relaxing in the hotel room after a long day of air travel." src="/files/photos/chiapas/villahermosa-david.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">David relaxing in the hotel room after a long day of air travel.</div>
+</div>

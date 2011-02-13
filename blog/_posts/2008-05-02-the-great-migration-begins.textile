@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: The Great Migration Begins!
+redirects: 
+- /node/445
+- /personal/blog/technocrat/great-migration-begins
+tags: 
+- technology
+description: How many years have I had my old site? I think it's been at least 8 years. It's been time for an overhaul for a while now, but the task was much bigger than I could have imagined. I did a quick page count of my site and found several hundred pages that had to be migrated. Some of them I could migrate automatically, but the vast majority would have to be ported over by hand.
+---
+How many years have I had my old site? I think it's been at least 8 years. It's been time for an overhaul for a while now, but the task was much bigger than I could have imagined. I did a quick page count of my site and found several hundred pages that had to be migrated. Some of them I could migrate automatically, but the vast majority would have to be ported over by hand.
+<!--break-->
+
+This was mainly due to the fact that I had significantly upgraded much of the technology. I wasn't just copy and pasting text over, I was moving pictures to my flickr account so that it easily went into an automated slide-show, I was re-tagging content, recipes were being put it into a database so that you could easily double or quadruple amounts, etc.
+
+So not all of the content is over yet. Everything that was once under "blog" is moved over. In some cases, I enhanced the blog entry (especially where photos were involved). I've only moved over one recipe so far. My next goal is to finish moving over recipes.
+
+And then on to everything under "photos" in my old site. Yuck. I'm not looking forward to that.
+
+The benefit will be a new look and feel, the ability to add comments to any page, enhanced keyword tags, spam-blocking, cool new slide shows, forward-to-a-friend, search-engine-optimized pages, and eventually a section of business and creative work.
+
+I hope you like the site! Let me know what you think or if you find a bug by leaving a comment.
+

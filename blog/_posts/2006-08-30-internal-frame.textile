@@ -1,0 +1,49 @@
+--- 
+layout: post
+title: Internal Frame
+redirects: 
+- /node/396
+- /personal/blog/diet/internal-frame
+tags: 
+- health
+- diet
+- NLP
+description: "Over the past year or so, I've been making a fair number of changes to my diet: eating healthier, trying to eat a greater variety of foods, not baking extravagant desserts, and eating less red meat and more fish. Although I felt better, I didn't lose any weight."
+---
+Over the past year or so, I've been making a fair number of changes to my diet: eating healthier, trying to eat a greater variety of foods, not baking extravagant desserts, and eating less red meat and more fish. Although I felt better, I didn't lose any weight.
+
+For exercise, I had been taking swing dance lessons, but not really at a level that would cause a major aerobic revolution. I had been staying away from exercise machines because they're boring and I always have a joint ache somewhere in my legs after all of that repetitive movement. I had also been taking yoga once or twice a week.
+
+The past few weeks, I all of a sudden hit a big revolution. At the suggestion of my coach, I started lifting weights. I have had a personal trainer on and off - some good and some not so good. I once had the same personal trainer for about two years. Although I gained a lot of weight in muscle, I never lost as much fat as I wanted. My appetite would go through the roof after a workout. I'd feel like I literally couldn't eat enough. Plus, I never really liked going to the gym with my trainer. It was hard! I felt as if I was always on the border of getting an injury and I was constantly sore and stiff. To counteract all of that, my coach (who was a dancer and also practices Feldenkrais) gave me some activities to do to warm up my joints to avoid an injury. He also gave me a solid plan for working out that:
+<ul>
+	<li>Does not require hours a day at the gym</li>
+	<li>Involves only three weeks of intense work outs followed by 9 weeks of maintenance</li>
+	<li>Gives me a framework for what to accomplish and leaves room for some creativity so I don't get bored.</li>
+</ul>
+We also did some NLP work to help me get the best results from a workout.
+
+I was quite surprised how quickly the changes took place. Within a couple of weeks, I could feel the difference and was getting compliments. However, the runaway appetite problem re-emerged. Which launched me on to my big discovery: portion control.
+
+My coach had been talking about portion control for a while, but he really brought it home to me with a discussion of "internal frame" vs. "external frame" vs. "false internal frame". Let me try to summarize.
+
+An "internal frame" is when you have your own set of standards, criteria, guidelines, processes, etc. on a particular subject. An "external frame" is when you find those things through an outside source - like a subject matter expert. And a "false internal frame" is when you think you have an inner set of standards, but really it's coming from somewhere else.
+
+There are a lot of different ways that I could compare this to my personal experience. I think baking makes a good analogy. I spent many years putting myself through my own little "baking school". For instance, learning how to make croissants. The only thing I had in terms of an internal frame was that I knew how my own perfect croissant should taste, feel, and look like - but I didn't know anything about ingredients or technique. It took a few tries before I could internalize that process enough to say "I know how to make croissants". Now I have those skills and standards and I'm not looking for someone else to show me how to do it. Another good example is when I went through a macaroon phase last year. I made macaroons incessantly and tested about 10 different recipes. I made my own adjustments to the recipes, I learned how to make the recipes work with ingredients I knew I could easily get and with my own kitchen equipment. I now "know" how to make macaroons and I know how to judge whether they turn out well.
+
+This also applies to computer programming. I "know" when I've written something sloppy and when I've written something solid and I have the skills to get me there. For a while, I didn't, so I read books and took advice from mentors until I could internalize that process.
+
+So when it comes to eating, I see now where I hit a lot of limitations in diet. First of all, there's so much "diet" information out there that's just a list of foods to eat to lose weight without any regard for a maintainable and healthy way of eating (such as the Atkins or Scarsdale type diet books). I could never really internalize what I learned from those sorts of diets because they weren't anything that resulted in day-to-day food strategies.
+
+Secondly, I have a lot of "false internal frames" about diet. I think they're part of my own process, but really, they come from some outside source. For instance, I went to pick up fish for David and me recently. I almost always say to the fish monger "2 of your larger steaks" or "2 good sized steaks". And my thinking behind that was always, "David and I are men and larger than average, so we should be eating larger portions." When I saw that thought for what it was - an false internal - I ordered one steak and split it in two after I cooked it. It still ended up being too much food, but not by much.
+
+I should say that this discussion came after I had spent a couple of months checking in with myself as I was eating. I was no longer aiming for "full", I was aiming for "not hungry" or "sated". It's amazing how much sooner one can feel satisfied with food when you stop aiming for "full". The combination of my own empirical research and discussion of "internal frame" completely transformed my diet. All of a sudden, I was in charge of my diet. I know what I should be doing and take as much care with it as I would if I were programming or baking. I know how much I should be eating. There was no more guess work or feelings of guilt or doubt. Even if I have dessert, I never have enough food to cause a lot of damage. And the weird thing is, I don't feel like I'm depriving myself at all.
+
+So the new rules are:
+<ul>
+	<li>Decide on the correct portion before you start eating</li>
+	<li>Eat fresh veggies and salads first (they help you fill up)</li>
+	<li>Eat only until you're no longer hungry</li>
+	<li>If the part of you that wants to over eat seems to be winning the battle, envision everything else on the plate as animal fat (because that's what it will become)</li>
+	<li>When you get hungry again, eat!</li>
+</ul>
+So far, clothes are much looser, but the scale hasn't gone down. That's to be expected because I'm gaining muscle from lifting weights. I'm trying to patiently wait for the day that someone that doens't know I've been trying to lose weight looks at me and says "oh my god, you look great"!

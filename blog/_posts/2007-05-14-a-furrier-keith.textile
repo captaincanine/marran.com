@@ -1,0 +1,16 @@
+--- 
+layout: post
+title: A Furrier Keith
+redirects: 
+- /node/428
+- /personal/blog/oz/furrier-keith
+tags: 
+- Oz
+images: 
+- thumbnail: http://farm3.static.flickr.com/2402/2203123084_74f3ce899e_m.jpg
+  fullsize: http://farm3.static.flickr.com/2402/2203123084_74f3ce899e_z.jpg?zz=1
+description: David was taking a nap this weekend. He looked over at my side of the bed and Oz was in my exact position - head on the pillow, stretched out on the bed. He was being David's "Keith Substitute". So he took a picture with his cell phone.
+---
+David was taking a nap this weekend. He looked over at my side of the bed and Oz was in my exact position - head on the pillow, stretched out on the bed. He was being David's "Keith Substitute". So he took a picture with his cell phone.
+<!--break-->
+{{ "http://farm3.static.flickr.com/2402/2203123084_74f3ce899e_z.jpg?zz=1" | format_photo }}

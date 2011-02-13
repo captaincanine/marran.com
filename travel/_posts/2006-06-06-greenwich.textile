@@ -1,0 +1,75 @@
+--- 
+layout: post
+title: Greenwich
+series: 
+  name: London & Kent
+  index: 10
+redirects: 
+- /node/615
+- /personal/travel/england/greenwich
+tags: 
+- England
+description: The Thames boat ride stopped in Greenwich where we disembarked. Greenwich is a small community with cafes, shops, an antiques market, the Royal Observatory, and a whole bunch of other things. You can visit this website for more information.We didn't do half of the things listed there.
+---
+<p><para para_guid="894bd671-030e-42cf-8048-f987deabb04c">The Thames boat ride stopped in Greenwich where we disembarked. Greenwich is a small community with cafes, shops, an antiques market, the Royal Observatory, and a whole bunch of other things. You can visit this <a href="http://www.greenwichwhs.org.uk/places/index.asp">website</a> for more information.</para></p>
+<p><para para_guid="2dd0fb97-6197-4e9b-9aa9-dada402c93fa">We didn't do half of the things listed there. </para></p>
+<p><para para_guid="113b4d92-a016-4ad9-9019-13b4df2afcc6">We started off by having lunch because it was around 2:30 and we were starving. We went to a place serving very English food and had a good lunch. While we were there some obnoxious older American gentleman came in, demanded attention, and then was talking to his guests about how hard it is to find polite people in the U.K. Ugh.</para></p>
+<p><para para_guid="71ac3746-abd0-43a8-8e27-23e01d43b120">After lunch, we headed to the antiques market. I've learned that "antiques market" in Britain really means "flea market". There really wasn't anything of interest there.</para></p>
+<p><para para_guid="728d5690-d8da-4631-8004-2667c90fbe2f">Our plan was to visit the Christopher Wren buildings in the Old Royal Naval College and then work our way up the hill to the Royal Observatory. </para></p>
+<p><para para_guid="890720bd-9c03-4439-a38e-ae7b0f317d85">Our first stop was the Painted Hall. It's called that because the walls and pillars are flat but painted to look ornate. It was, indeed, very impressive.</para></p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Entrance of the Painted Hall" target="_blank" href="/files/photos/london/greenwich-paintedroom1.jpg">
+    <img class="journalPhoto" alt="The Entrance of the Painted Hall" src="/files/photos/london/greenwich-paintedroom1.jpg" height="400" width="266">
+  </a>
+  
+  <div class="journalCaption">The Entrance of the Painted Hall</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Main Room of the Painted Hall" target="_blank" href="/files/photos/london/greenwich-paintedroom2.jpg">
+    <img class="journalPhoto" alt="The Main Room of the Painted Hall" src="/files/photos/london/greenwich-paintedroom2.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">The Main Room of the Painted Hall</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="They set out mirrors so that you can examine the ceiling without straining your neck" target="_blank" href="/files/photos/london/greenwich-paintedroom3.jpg">
+    <img class="journalPhoto" alt="They set out mirrors so that you can examine the ceiling without straining your neck" src="/files/photos/london/greenwich-paintedroom3.jpg" height="400" width="266">
+  </a>
+  
+  <div class="journalCaption">They set out mirrors so that you can examine the ceiling without straining your neck</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A Section of Ceiling of the Painted Hall" target="_blank" href="/files/photos/london/greenwich-paintedroomceiling.jpg">
+    <img class="journalPhoto" alt="A Section of Ceiling of the Painted Hall" src="/files/photos/london/greenwich-paintedroomceiling.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">A Section of Ceiling of the Painted Hall</div>
+</div>
+<p><para para_guid="f64a17f1-e951-4f93-b406-d0974498a121">After the Painted Hall, we went across the courtyard to the Chapel, also designed by Christopher Wren. It's the plaster work that's impressive here. I don't know if it's really captured in this picture.</para></p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Christopher Wren's Chapel" target="_blank" href="/files/photos/london/greenwich-chapel.jpg">
+    <img class="journalPhoto" alt="Christopher Wren's Chapel" src="/files/photos/london/greenwich-chapel.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">Christopher Wren's Chapel</div>
+</div>
+<p><para para_guid="6ca7a10a-b28c-4fa5-bac7-a458e36ee29e">After that we started heading up to Royal Observatory. When people refer to "Greenwich Mean Time", this is the place they're referring to. You can stand on a line and have one foot in the eastern hemisphere and one foot in the western hemisphere. In the picture below, you can see The Queen's House in the center and just above to the right is the Royal Observatory. The walk there is a bit steep at the very end, but through a park that was full of people enjoying their Sunday afternoon.</para></p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Looking Towards the Queen's House" target="_blank" href="/files/photos/london/greenwich-grounds.jpg">
+    <img class="journalPhoto" alt="Looking Towards the Queen's House" src="/files/photos/london/greenwich-grounds.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">Looking Towards the Queen's House</div>
+</div>
+<p><para para_guid="839fad58-b3c8-48a3-90d2-87fefb8f3a9c">It was hard to get a picture at the observatory because it was fairly crowded. You can just barely make out central London in the distance. I tried taking some pictures but none came out too well.</para></p>
+<p><para para_guid="313f464b-ef97-4397-a547-c8ab46aa6f45">There was an interesting museum at the observatory featuring many old clocks with the guts exposed. And visiting the observatory itself was fascinating.</para></p>
+<p><para para_guid="d87b9164-aa57-400f-bc29-d9a8b2e8e5c4">After that, we walked back down to the town. We had spotted an antique map store. I dropped off David and went to get an iced coffee. On my travails, I went back to the main pier. There were many street performers - most of whom did not seem to be asking for money at all. Next to where I sat came two people dressed like colorful 1950's shysters with a peep show box. They played music and encouraged people to come up and take a look in the peep show box. The man was saying harmless but lewd things about what you'd see if you looked. Both children and adults were smiling and laughing after they looked, so I decided to get in line and have a look myself. It was a gyrating puppet of an old woman with tassels on her breasts and tiny underwear. </para></p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A Peepshow at the Pier" target="_blank" href="/files/photos/london/greenwich-peepshow.jpg">
+    <img class="journalPhoto" alt="A Peepshow at the Pier" src="/files/photos/london/greenwich-peepshow.jpg" height="266" width="400">
+  </a>
+  
+  <div class="journalCaption">A Peepshow at the Pier</div>
+</div>
+<p><para para_guid="d0a6424d-5a2f-4f95-b474-398faa7f3033">Upon going back to find David, I found the much better open market in Greenwich. David bought a map, I took him through the market, and we took the train home.</para></p>
+<p><para para_guid="4eff2c68-fb2e-41d3-b019-9da94672e176">Dinner that night was a Malaysian restaurant in the neighborhood of the hotel.</para></p>

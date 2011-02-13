@@ -1,0 +1,69 @@
+--- 
+layout: post
+title: When I Met Gogo
+redirects: 
+- /node/530
+- /personal/blog/gogo/when-i-met-gogo
+tags: 
+- Gogo
+description: Little Gogo was born on January 9th. Her mom's name is Lucy. My mom's name is Lucy. Do you feel some cosmic force at hand? I do, too.
+---
+<p>Little Gogo was born on January 9th. Her mom's name is Lucy. My mom's name is Lucy. Do you feel some cosmic force at hand? I do, too.</p>
+<!--break-->
+
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="This photo was taken by Renee on the day I picked Gogo up." target="_blank" href="/files/photos/gogo/greeting.jpg">
+    <img class="journalPhoto" alt="This photo was taken by Renee on the day I picked Gogo up." src="/files/photos/gogo/greeting.jpg" width="640" >
+  </a>
+  
+  <div class="journalCaption">This photo was taken by Renee on the day I picked Gogo up.</div>
+</div>
+
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/gogo/day_one_booda_bear.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/gogo/day_one_booda_bear.jpg" width="350" height="382">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>My sister drove with me out to Renee's to pick Gogo up. The ride back was fairly uneventful. When we left, Gogo started shivering for a while, but eventually calmed down. No crying. Sis is very good at comforting puppies.</p>
+<p>We got home and David was there packing. We all played with Gogo and she seemed quite happy. Lots of frolicking.</p>
+<p>The second day we had her, I thought I'd get her used to her crate and put her in while I went to take a shower. There was a little crying. No problem. Never let a crying dog out of a crate. The crying turned into screaming. This is difficult, but I'll be strong. The screaming turned into sounds I never heard come out of a dog before. It was the sound of a dog losing its mind. At its height, it turned into the sound of a hyena. Out of sheer panic and torture from having to hear those sounds, I let her out of her crate. Gogo wins.</p>
+<p>The rest of that week, when I would leave for work, I would begin to hear her cry as I left. However, a couple of times I came home a few hours later and she was still crying. It happened once that a friend of ours was at the apartment packing and happened to call me at work. I could barely hear him from the sounds of Gogo in the background. I ran right over and she just seemed out of her mind with grief.</p>
+<p>These pictures of from that first week with Gogo and the last week in our old apartment.</p>
+<p>The one time Gogo's crying has worked to an advantage is the first night we tried to have her sleep in her crate. The crying started. The crying turned to screaming. Eventually, David said "I know I'm going to regret this for the next fourteen years, but..." and let Gogo out and put her on our bed. And she's been hogging the bed ever since.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/gogo/day_one_david.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/gogo/day_one_david.jpg" width="441" height="429">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/gogo/day_one_sis.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/gogo/day_one_sis.jpg" width="262" height="321">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/gogo/lap_dog.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/gogo/lap_dog.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/gogo/tug_of_war.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/gogo/tug_of_war.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/gogo/ten_weeks.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/gogo/ten_weeks.jpg" width="361" height="272">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>

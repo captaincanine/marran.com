@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: Google Analytics (not really) Hacks
+redirects: 
+- /node/414
+- /business/blog/analytics/google-analytics-not-really-hacks
+tags: 
+- blog
+- analytics
+- google
+description: I've been using Google Analytics for myself for quite a while. I generally put it into all the sites I build for clients.Since it's driven by JavaScript calls, I figured that there had to be hacks so that you could report on more than just which pages were being visited. Theoretically, you could see if people were getting confused by a particular button, a form entry, anything. I did a search for "Google Analytics Hacks". I found what I was looking for, except it wasn't called a hack. The information I wanted is in the Google Analytics support section. That was easy.
+---
+I've been using Google Analytics for myself for quite a while. I generally put it into all the sites I build for clients.
+
+Since it's driven by JavaScript calls, I figured that there had to be hacks so that you could report on more than just which pages were being visited. Theoretically, you could see if people were getting confused by a particular button, a form entry, anything. I did a search for "Google Analytics Hacks". I found what I was looking for, except it wasn't called a hack. The information I wanted is in the Google Analytics support section. That was easy.
+
+The information that I was looking for is right here: <a target="_blank" href="http://www.google.com/support/analytics/bin/answer.py?answer=27229&topic=2978">http://www.google.com/support/analytics/bin/answer.py?answer=27229&topic=2978</a>.
+
+Unfortunately, I don't really have any need for this on any of my sites now, but it's good to know it's there.

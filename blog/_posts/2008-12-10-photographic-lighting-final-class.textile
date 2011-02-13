@@ -1,0 +1,38 @@
+--- 
+layout: post
+title: "Photographic Lighting: Final Class"
+redirects: 
+- /node/640
+- /personal/blog/photography/photographic-lighting-final-class
+photoset: 72157610695054292
+tags: 
+- photography
+- NYC
+- learning
+images: 
+- thumbnail: http://farm4.static.flickr.com/3159/3081131464_73b25e4800_m.jpg
+  fullsize: http://farm4.static.flickr.com/3159/3081131464_73b25e4800_b.jpg
+description: "We had our final photography lighting class. The assignment was quite open ended: \r\r\rEVOKE AN EMOTION\r \rIt is now time to take all that you have learned up to this point and put it together into strong evocative images. Images that show you can control the mood and voice in your lighting technique.\r\r\rNo pressure."
+---
+We had our final photography lighting class. The assignment was quite open ended: 
+
+<blockquote>
+EVOKE AN EMOTION
+ 
+It is now time to take all that you have learned up to this point and put it together into strong evocative images. Images that show you can control the mood and voice in your lighting technique.
+</blockquote>
+
+No pressure. 
+
+I went through many iterations of ideas for images. I had to immediately rule out spontaneous photos since that's not really about lighting. I had to think of images that were pre-meditated and planned. I had a few ideas here and there, but nothing that stuck. I went to see Slumdog Millionaire and fell totally in love with it. Every single shot was breathtaking and felt quite "real". However, it left me even more frozen as what to do.
+
+In the end, I tried to recreate an idea I had while trying to fall asleep in Amsterdam. I thought of someone being visited by hypnagogic images of figures while unable to fall asleep.
+
+I invited some friends over for dinner and the photo shoot, rented some lights, bought some animal masks, and we had a good time. I honestly could not tell if the photos were interesting or weird in a sort of bad-undergraduate way. In the end I was quite happy with them. They certainly stood out as different, which counts for a lot, I think. And the teacher really liked them. So Mission Accomplished.
+
+For the rest of the class, we focused on taking shots of products - meaning wine, fruit, and cheese. 
+
+Also in the set are some photos I had taken in the previous class.
+
+<!-- [flickr-photoset:id=72157610695054292] -->
+

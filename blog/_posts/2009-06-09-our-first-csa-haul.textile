@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: Our First CSA Haul
+redirects: 
+- /node/659
+- /personal/blog/food/our-first-csa-haul
+tags: 
+- food
+- NYC
+images: 
+- thumbnail: http://farm4.static.flickr.com/3391/3611284691_603c43aabb_m.jpg
+  fullsize: http://farm4.static.flickr.com/3391/3611284691_603c43aabb_b.jpg
+description: This year, David and I signed up for a CSA - which stands for "Community Supported Agriculture". It's a way for those of us living in New York City to get a weekly supply of organic and locally grown veggies every week. The share is roughly $450 and lasts for 24 weeks. We also signed up for a fruit share, which starts later in the year.
+---
+This year, David and I signed up for a CSA - which stands for "Community Supported Agriculture". It's a way for those of us living in New York City to get a weekly supply of organic and locally grown veggies every week. The share is roughly $450 and lasts for 24 weeks. We also signed up for a fruit share, which starts later in the year.
+
+I really had no idea what to expect, except what I heard from a friend that had participated in a CSA last year. We signed up with a CSA for the West Village. Their pickup locations is less than a block away. Their farm is <a href="http://www.stoneledgefarmny.org/" target="_blank">Stone Ledge Farm"</a> and they are an organic farm.
+
+This week was almost all leafy green vegetables - which is what I was hoping for. I don't recognize some of the items. I'm assuming that I can eat most - if not all - of the foods raw. Here's the whole list:
+
+<ul>
+<li>RHUBARB-1 bunch-very tart perennial that is only available for a short time in the spring.
+<li>RED LEAF LETTUCE (Red Tide)-1 head
+<li>MIZUNA-1 bunch (Green with serrated leaves. Good in salads or lightly cooked)
+<li>ARUGULA-1 bunch
+<li>BOK CHOI-1 head (white, crunchy stems, dark green leaves)
+<li>CHINESE CABBAGE (Rubicon)-2 heads (described in the seed catalog as “sweet, tangy, juicy and delicious”) This makes a great fresh slaw or used in stir fry.
+<li>RADISHES-1 bunch
+<li>SAGE with Flowers-1 bunch. The flowers are beautiful on the sage which grows as a perennial. Strip the leaves and use with any poultry dish. Enjoy the flowers as a bonus.
+</ul>
+
+As my friend said, it's sort of like an episode of Iron Chef - you never know what you're getting from week to week. The fun of it is coming up with something once you know the ingredients.
+
+{{ "http://farm4.static.flickr.com/3391/3611284691_603c43aabb_b.jpg" | format_photo }}

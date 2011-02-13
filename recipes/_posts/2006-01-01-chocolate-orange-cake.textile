@@ -1,0 +1,54 @@
+--- 
+layout: recipe
+title: Chocolate Orange Cake
+ingredients: 
+- cake
+- chocolate
+redirects: 
+- /node/493
+- /personal/recipes/dish/desserts/chocolate-orange-cake
+dish: desserts
+description: This rich mixture of chocolate cake and two different kinds of ganache is a perfect party dessert. But beware, it's very rich, so serve in small portions.
+---
+This rich mixture of chocolate cake and two different kinds of ganache is a perfect party dessert. But beware, it's very rich, so serve in small portions.
+<!--break-->
+Servings: Makes one 9-inch three-layer cake, about 12 servings
+
+<strong>Orange Syrup</strong>
+
+¼ cup sugar
+⅓ cup water
+¼ cup orange liqueur
+
+For the syrup, combine the sugar and water, bring to a boil and cool. Stir in the liqueur.
+
+<strong>Ganache Filling</strong>
+
+1 ¼ cups heavy whipping cream
+16 ounces semisweet chocolate, cut into ¼-inch pieces
+2 tablespoons (¼ stick) unsalted butter
+2 tablespoons light corn syrup
+
+To make the ganache filling, bring the cream to a boil, then remove from heat. Add the chocolate, allow to stand 2 minutes, whisk in the butter and corn syrup until smooth. Cool until thickened.
+
+<strong>Orange Filling</strong>
+
+⅓ cup orange marmalade
+1 tablespoon orange liqueur
+
+To make the orange filling, stir the marmalade and the liqueur together.
+
+<strong>Ganache Glaze</strong>
+
+1 cup heavy whipping cream
+8 ounces semisweet chocolate, cut into ½ inch pieces
+
+To make the glaze, bring the cream to a boil, then remove from the heat. Add the chocolate, allow to stand 2 minutes, then whisk until smooth. Strain into a bowl and cool to room temperature.
+
+<strong>Assemble the cake</strong>
+
+One 9-inch round Chocolate Genoise, baked and cooled
+
+To assemble, slice cake into three horizontal layers and place one on a cardboard or springform base. Sprinkle layer with syrup and spread with half the orange filling. Spread with a third of the ganache filling. Repeat with remaining layers, syrup, marmalade, and ganache filling. Spread the outside of the cake with the remaining ganache but reserve enough to pipe some rosettes on the outside of the cake. Chill cake to set.
+
+Place the chilled cake on a rack over a roasting pan and pour the glaze over it, starting in center of cake and pouring outward in larger and larger circles to the edge, ending at top edge. Let the glaze run down and cover the sides of the cake. Allow to stand about 5 minutes to set glaze. Use a pastry bag fitted with a small star tip to pipe rosettes around top edge of cake. To keep the glaze shiny, avoid refrigerating the cake.

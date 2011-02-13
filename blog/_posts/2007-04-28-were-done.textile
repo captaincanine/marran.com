@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: "We\xE2\x80\x99re Done?!"
+redirects: 
+- /node/425
+- /personal/blog/dancing/we-re-done
+tags: 
+- dancing
+- swing
+images: 
+- http://img.youtube.com/vi/s9rcheMwvrA/0.jpg
+description: Well, the Charleston performances have come and gone. I had a blast. It was very well received.It's sad that I feel like I was just getting it down solidly by the last performance.And I lost 3 pounds in the last two weeks alone with all of the rehearsal. Why don't more people dance for exercise? I get better results and have a lot more fun than any exercise machine.This video was posted less than 24 hours after our performance at Frim Fram. No one knows who recorded it or who posted it.
+---
+Well, the Charleston performances have come and gone. I had a blast. It was very well received.
+
+It's sad that I feel like I was just getting it down solidly by the last performance.
+
+And I lost 3 pounds in the last two weeks alone with all of the rehearsal. Why don't more people dance for exercise? I get better results and have a lot more fun than any exercise machine.
+
+This video was posted less than 24 hours after our performance at Frim Fram. No one knows who recorded it or who posted it.
+<!--break-->
+
+{{ "http://www.youtube.com/embed/s9rcheMwvrA" | format_youtube }}

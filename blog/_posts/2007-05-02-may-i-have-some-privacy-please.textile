@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: May I Have Some Privacy, Please
+redirects: 
+- /node/427
+- /personal/blog/dancing/may-i-have-some-privacy-please
+tags: 
+- dancing
+- swing
+images: 
+- http://img.youtube.com/vi/cMZ_LpI0-xY/0.jpg
+description: As it turns out, there were two people making videos of our Charleston performance at Frim Fram. No one in our troupe knows who took these or how they got posted on YouTube. It's kinda creepy. Am I being filmed right now without my permission? Probably.
+---
+As it turns out, there were two people making videos of our Charleston performance at Frim Fram. No one in our troupe knows who took these or how they got posted on YouTube. It's kinda creepy. Am I being filmed right now without my permission? Probably.
+<!--break-->
+Anyway, this one has a slightly better angle to see the whole dance routine.
+
+{{ "http://www.youtube.com/embed/cMZ_LpI0-xY" | format_youtube }}

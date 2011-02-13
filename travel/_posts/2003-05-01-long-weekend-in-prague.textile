@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: Long Weekend in Prague
+series: 
+  name: Long Weekend in Prague
+  index: 44
+redirects: 
+- /node/577
+- /personal/travel/prague/long-weekend-prague
+tags: 
+- Prague
+description: When I was at marchFIRST, David asked if I would join him on a trip to Prague. I said yes at the time, but then a major project at work was scheduled to go live near the time of our trip, so I backed out. Then marchFIRST went bankrupt. I vowed never to pass up a vacation for work again. Well, Century 21 scheduled a project to go live within a month of my trip, and I said "screw it, I'm going!"
+---
+<p>When I was at marchFIRST, David asked if I would join him on a trip to Prague. I said yes at the time, but then a major project at work was scheduled to go live near the time of our trip, so I backed out. Then marchFIRST went bankrupt. I vowed never to pass up a vacation for work again. Well, Century 21 scheduled a project to go live within a month of my trip, and I said "screw it, I'm going!"</p>

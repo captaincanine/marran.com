@@ -1,0 +1,42 @@
+--- 
+layout: post
+title: Outside View
+series: 
+  name: The House Tour
+  index: 75
+redirects: 
+- /node/509
+- /personal/house/pre-renovation/outside-view
+tags: 
+- pre-renovation
+description: So here we are. 218 W 15th St. Formerly the Bowery Mission Women's Home. To our east is a Catholic nursery. To our west is a building similar to ours, but broken into a million tiny apartments. David said that during the demolition, several people stopped by and said how happy they were to know that the house was being used as a family residence again. I guess those Bowery Mission Women were not the best neighbors.
+---
+<p>So here we are. 218 W 15th St. Formerly the Bowery Mission Women's Home. To our east is a Catholic nursery. To our west is a building similar to ours, but broken into a million tiny apartments. David said that during the demolition, several people stopped by and said how happy they were to know that the house was being used as a family residence again. I guess those Bowery Mission Women were not the best neighbors.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The view of the front of the house from across the street." target="_blank" href="/files/photos/mission_home/outside.facade.JPG">
+    <img class="journalPhoto" alt="The view of the front of the house from across the street." src="/files/photos/mission_home/outside.facade.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">The view of the front of the house from across the street.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The view of the front of the house from the same side of the street." target="_blank" href="/files/photos/mission_home/outside.entrance.JPG">
+    <img class="journalPhoto" alt="The view of the front of the house from the same side of the street." src="/files/photos/mission_home/outside.entrance.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The view of the front of the house from the same side of the street.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The entrance at the top of the stoop to the top three floors." target="_blank" href="/files/photos/mission_home/outside.doorframe.JPG">
+    <img class="journalPhoto" alt="The entrance at the top of the stoop to the top three floors." src="/files/photos/mission_home/outside.doorframe.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">The entrance at the top of the stoop to the top three floors.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The entrance underneath the stoop to the ground floor." target="_blank" href="/files/photos/mission_home/outside.ground.JPG">
+    <img class="journalPhoto" alt="The entrance underneath the stoop to the ground floor." src="/files/photos/mission_home/outside.ground.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The entrance underneath the stoop to the ground floor.</div>
+</div>

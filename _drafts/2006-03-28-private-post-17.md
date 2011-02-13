@@ -1,0 +1,8 @@
+--- 
+layout: post
+title: "Private: Post #17"
+created: 1143547019
+---
+Two sets of dreams last night, all around the theme of terrorism. The first dream was set in a high school type setting. Someone was going to blow up a school or office. I vaguely remember thinking that they were trying to get Jason from D&P to set off the bomb, and I felt better knowing that he wouldn't give in to demands. However, they tortured him and he gave in. For some reason it was going to be up to me to set off the bomb. I think Jason was coming after me to force it to go off. I felt better knowing that I was in control and that there was nothing that Jason could do to force me to set off the bomb.
+
+The second dream was a bit more military. At one point, I was in a video game like setting and trying to figure out how to defeat this tought guy in hand-to-hand combat. I had a small cell phone device that could throw blows or spells at him. I think he morphed into my teacher at one point and the dream finished with me being a disciple of his. Me and several others were going to be in some sort of performance, but everyone was concerned that we were going to be attacked by terrorists. Once again, it was going to be up to me to diffuse the situation and I was confident that I would take care of it.

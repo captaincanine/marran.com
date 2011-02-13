@@ -1,0 +1,48 @@
+--- 
+layout: post
+title: On My Own in Prague
+series: 
+  name: Long Weekend in Prague
+  index: 46
+redirects: 
+- /node/575
+- /personal/travel/prague/my-own-prague
+tags: 
+- Prague
+description: David was at conferences most of today, so I did some exploring on my own. I started off near the Prague Castle to check out some of the "Little Quarter". My first attempt at reading the map resulted in a wrong turn. Once I re adjusted, I was fine for the rest of my excursion.
+---
+<p>David was at conferences most of today, so I did some exploring on my own. I started off near the Prague Castle to check out some of the "Little Quarter". My first attempt at reading the map resulted in a wrong turn. Once I re adjusted, I was fine for the rest of my excursion.</p>
+<p>My first stop was at Wallenstein Palace. It is essentially a senate house with large public gardens. It was full of statues, frescoes, and had a little area that housed some owls. There was also this very large, bizarre wall called "The Grotesguery" that's made to look like limestone stallactites. It did look like that, but I couldn't figure out what the points was.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Wallenstein Palace" target="_blank" href="/files/photos/prague/wallenstein_fountain.jpg">
+    <img class="journalPhoto" alt="Wallenstein Palace" src="/files/photos/prague/wallenstein_fountain.jpg" height="466" width="600">
+  </a>
+  
+  <div class="journalCaption">Wallenstein Palace</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="More of Wallenstein Palace" target="_blank" href="/files/photos/prague/wallenstein_gardens.jpg">
+    <img class="journalPhoto" alt="More of Wallenstein Palace" src="/files/photos/prague/wallenstein_gardens.jpg" height="450" width="600">
+  </a>
+  
+  <div class="journalCaption">More of Wallenstein Palace</div>
+</div>
+<p>After the palace gardens, I wandered around the neighborhood and ended up by the Church of St. Nicholas. Once again, I was not prepared for how majestic the churches would be in Prague. The picture here does not do it justice. I should have taken more pictures, but I always feel tacky taking pictures of a church. Well, I feel tacky taking pictures all the time. So in this picture, compare the size of the people to the size of the church. Along the altars are giant white marble statues of saints and patrons of the church.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Church of St Nicholas" target="_blank" href="/files/photos/prague/st_nicholas.jpg">
+    <img class="journalPhoto" alt="The Church of St Nicholas" src="/files/photos/prague/st_nicholas.jpg" height="667" width="500">
+  </a>
+  
+  <div class="journalCaption">The Church of St Nicholas</div>
+</div>
+<p>I came back down to the river and walked along Kampa Park which is a park along the river. It's not known for anything in particular except that it's relaxing and pleasant and off the tourist path somewhat. I sat on a bench and enjoyed looking at the locals enjoy a tranquility in life that you just don't see in the U.S.</p>
+<p>I went back to the Old Town via the Charles Bridge. I took a picture of people rubbing a stature for good luck. The statue has two brass reliefs: one of a man and his dog and one of a saint leaping off a bridge. People had started touching the falling saint for good luck and at some point, I assume after the lines for touching the saint got to be too much, people decided that touching the dog was good luck too. So now both the saint and the dog are shiny from everyone touching them.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The goodluck charm on the Charles Bridge" target="_blank" href="/files/photos/prague/charles_bridge_goodluck.jpg">
+    <img class="journalPhoto" alt="The goodluck charm on the Charles Bridge" src="/files/photos/prague/charles_bridge_goodluck.jpg" height="511" width="400">
+  </a>
+  
+  <div class="journalCaption">The goodluck charm on the Charles Bridge</div>
+</div>
+<p>On the way back to the hotel, I stopped by the river, made a wish, and threw a coin into the river. I'll let you know if it comes true.</p>
+<p>For dinner that night, David and I went to a small restuarant behind a convent. It was partially outside and the night was perfect for semi-outside dining. I have to admit that the heavy eastern european food was starting to get to me at this point. We stumbled back to the subway after dinner, going through side streets and trying to walk off the heavy food. We saw nuns in the convent fixing up their rooms. We listened to the sounds of classical music in people's apartments.</p>

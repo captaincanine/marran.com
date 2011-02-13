@@ -1,0 +1,99 @@
+--- 
+layout: post
+title: The Third Floor
+series: 
+  name: The House Tour
+  index: 90
+redirects: 
+- /node/514
+- /personal/house/pre-renovation/third-floor
+tags: 
+- pre-renovation
+description: The third and most confusing floor. It was split into a million rooms when it was a dormitory. We've taken down many of the walls.
+---
+<p>The third and most confusing floor. It was split into a million rooms when it was a dormitory. We've taken down many of the walls.</p>
+<!--break-->
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The bathroom. Once again, the stalls are gone. A jacuzzi bath will eventually go here." target="_blank" href="/files/photos/mission_home/third.bathroom.JPG">
+    <img class="journalPhoto" alt="The bathroom. Once again, the stalls are gone. A jacuzzi bath will eventually go here." src="/files/photos/mission_home/third.bathroom.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">The bathroom. Once again, the stalls are gone. A jacuzzi bath will eventually go here.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="One of the many bedrooms. This one faces the back. You can see what the floor is originally. The verdict is still out as to what we're doing with the floors. Right now it's getting industrial carpet." target="_blank" href="/files/photos/mission_home/third.bedroom1.JPG">
+    <img class="journalPhoto" alt="One of the many bedrooms. This one faces the back. You can see what the floor is originally. The verdict is still out as to what we're doing with the floors. Right now it's getting industrial carpet." src="/files/photos/mission_home/third.bedroom1.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">One of the many bedrooms. This one faces the back. You can see what the floor is originally. The verdict is still out as to what we're doing with the floors. Right now it's getting industrial carpet.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="This room and the one next to it are becoming the temporary kitchen. It will eventually become the Turkish room." target="_blank" href="/files/photos/mission_home/third.bedroom2.JPG">
+    <img class="journalPhoto" alt="This room and the one next to it are becoming the temporary kitchen. It will eventually become the Turkish room." src="/files/photos/mission_home/third.bedroom2.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">This room and the one next to it are becoming the temporary kitchen. It will eventually become the Turkish room.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The room above Gogo's room. We aren't quite sure what to do with this room." target="_blank" href="/files/photos/mission_home/third.bedroom3.JPG">
+    <img class="journalPhoto" alt="The room above Gogo's room. We aren't quite sure what to do with this room." src="/files/photos/mission_home/third.bedroom3.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">The room above Gogo's room. We aren't quite sure what to do with this room.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="This room and the one next to it will become the guest bedroom." target="_blank" href="/files/photos/mission_home/third.bedroom4.JPG">
+    <img class="journalPhoto" alt="This room and the one next to it will become the guest bedroom." src="/files/photos/mission_home/third.bedroom4.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">This room and the one next to it will become the guest bedroom.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Yet another bedroom." target="_blank" href="/files/photos/mission_home/third.bedroom5.JPG">
+    <img class="journalPhoto" alt="Yet another bedroom." src="/files/photos/mission_home/third.bedroom5.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">Yet another bedroom.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="More of bedroom number five." target="_blank" href="/files/photos/mission_home/third.bedroom5_back.JPG">
+    <img class="journalPhoto" alt="More of bedroom number five." src="/files/photos/mission_home/third.bedroom5_back.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">More of bedroom number five.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The sixth and most glamorous room. No windows. What did they use it for? It will be our storage/linen closet. (And maybe a dark room someday when I take up photography.)" target="_blank" href="/files/photos/mission_home/third.dark_room.JPG">
+    <img class="journalPhoto" alt="The sixth and most glamorous room. No windows. What did they use it for? It will be our storage/linen closet. (And maybe a dark room someday when I take up photography.)" src="/files/photos/mission_home/third.dark_room.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The sixth and most glamorous room. No windows. What did they use it for? It will be our storage/linen closet. (And maybe a dark room someday when I take up photography.)</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The view from the front." target="_blank" href="/files/photos/mission_home/third.front_view.JPG">
+    <img class="journalPhoto" alt="The view from the front." src="/files/photos/mission_home/third.front_view.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The view from the front.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The view to the rear." target="_blank" href="/files/photos/mission_home/third.rear_view.JPG">
+    <img class="journalPhoto" alt="The view to the rear." src="/files/photos/mission_home/third.rear_view.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The view to the rear.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The former and future skylight. It's right above the center of the stairwell, so light will reach all the way down." target="_blank" href="/files/photos/mission_home/third.future_skylight.JPG">
+    <img class="journalPhoto" alt="The former and future skylight. It's right above the center of the stairwell, so light will reach all the way down." src="/files/photos/mission_home/third.future_skylight.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The former and future skylight. It's right above the center of the stairwell, so light will reach all the way down.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="And stairs taking you all the way back down." target="_blank" href="/files/photos/mission_home/third.stairs.JPG">
+    <img class="journalPhoto" alt="And stairs taking you all the way back down." src="/files/photos/mission_home/third.stairs.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">And stairs taking you all the way back down.</div>
+</div>

@@ -1,0 +1,35 @@
+--- 
+layout: recipe
+title: Lemonade
+ingredients: 
+- lemon
+redirects: 
+- /node/500
+- /personal/recipes/dish/beverages/lemonade
+dish: beverages
+description: Today's the day that I got all the recipes moved over from my old site to my new site. So let's celebrate by adding a new recipe!This summer I've been getting into homemade lemonade. It's really easy to make and is significantly healthier than anything you could buy. And you can make a million variations, so I've had fun experimenting.
+---
+Today's the day that I got all the recipes moved over from my old site to my new site. So let's celebrate by adding a new recipe!
+
+This summer I've been getting into homemade lemonade. It's really easy to make and is significantly healthier than anything you could buy. And you can make a million variations, so I've had fun experimenting.
+<!--break-->
+
+8 lemons
+1 cup sugar
+1 cup water
+2 liters unflavored seltzer
+mint leaves
+
+Take 2 of the lemons and using a vegetable peeler, peel off the zest in thick strips. Place it in a small saucepan with the sugar and water. Bring everything to a boil. Let it boil for about a minute, then turn off the heat and let the syrup marinate while you juice the lemons. The syrup will turn a little yellow and the zest will turn slightly translucent.
+
+In a large pitcher, juice all the lemons including the two you zested.
+
+Take the zest out of the syrup and pour it into the pitcher. Pour the two liters of seltzer water into the pitcher and give everything a quick stir.
+
+When you serve, but a couple of sprigs of mint in the bottom of the glass and pour the lemonade over the top.
+
+I've made a few variations: I used a grapefruit in place of two of the lemons. I've replaced two lemons with 4 limes. I've put a couple of star anise seeds in the syrup to marinate. They were all successes, but the simple lemonade is the best.
+
+For a party, I put a splash of citron vodka in the bottom of the glass before pouring in the lemonade.
+
+It's all good.

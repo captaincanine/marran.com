@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Rosh Hanikra
+series: 
+  name: A Trip to Israel
+  index: 87
+redirects: 
+- /node/639
+- /personal/travel/israel/rosh-hanikra
+photoset: 72157608768814104
+tags: 
+- Israel
+images: 
+- thumbnail: http://farm4.static.flickr.com/3204/3013279641_e7618f5d3b_m.jpg
+  fullsize: http://farm4.static.flickr.com/3204/3013279641_e7618f5d3b_b.jpg
+description: "Our final stop on our day tour is a locale at the very northern tip of Israel: the [w:Rosh HaNikra grottoes]. You take a small tram down the side of a cliff to get to the grottoes. The cliffs are a beautiful white chalk and the Mediterranean feeds into the grottoes, making for great tourist photos."
+---
+Our final stop on our day tour is a locale at the very northern tip of Israel: the [w:Rosh HaNikra grottoes]. You take a small tram down the side of a cliff to get to the grottoes. The cliffs are a beautiful white chalk and the Mediterranean feeds into the grottoes, making for great tourist photos. <!--break-->
+
+Rosh Hanikra was the site where Israeli and Lebanese officials negotiated and concluded an armistice in 1949 which ended the Lebanese-Israeli component of the 1948 War of Israeli Independence.
+
+You're essentially at the border of Lebanon. So I took a photo.
+
+<!-- [flickr-photoset:id=72157608768814104] -->

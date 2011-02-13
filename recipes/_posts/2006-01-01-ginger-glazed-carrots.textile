@@ -1,0 +1,23 @@
+--- 
+layout: recipe
+title: Ginger Glazed Carrots
+ingredients: 
+- carrots
+redirects: 
+- /node/478
+- /personal/recipes/main-ingredient/carrots/ginger-glazed-carrots
+dish: side dishes
+---
+<!--break-->
+Servings: Serves 8
+
+2 pounds carrots, peeled and cut into 1/4-inch thick rounds
+¼ cup (1/2 stick) butter
+1 cup freshly squeezed orange juice
+2 tablespoons sugar
+1½ tablespoons grated peeled fresh ginger
+2 tablespoons chopped parsley
+
+Place the carrots, orange juice, butter sugar and ginger in a large skillet over medium-high heat. Bring to a boil, cover and cook 3 minutes.
+
+Uncover and simmer until liquid glazes carrots, about 10 minutes. Season to taste with salt and pepper. Sprinkle with chopped parsley.

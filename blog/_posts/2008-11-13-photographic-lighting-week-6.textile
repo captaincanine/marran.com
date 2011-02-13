@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "Photographic Lighting: Week 6"
+redirects: 
+- /node/636
+- /personal/blog/photography/photographic-lighting-week-6
+photoset: 72157608987088715
+tags: 
+- photography
+- NYC
+- learning
+images: 
+- thumbnail: http://farm4.static.flickr.com/3201/3025313837_401594ea80_m.jpg
+  fullsize: http://farm4.static.flickr.com/3201/3025313837_401594ea80_b.jpg
+description: I'm a bit behind on my posts about photography class. Week 6 was all about black and white photography. I was hoping to bring in some male nudes, but all of my friends were shockingly prudish! I'm trying to figure out if that's because in the age of the internet, people just don't want someone to take nude photos of them. Or perhaps none of my friends trust me. Or perhaps the younger generation just isn't as comfortable stripping for art. Hmmm...
+---
+I'm a bit behind on my posts about photography class. Week 6 was all about black and white photography. I was hoping to bring in some male nudes, but all of my friends were shockingly prudish! I'm trying to figure out if that's because in the age of the internet, people just don't want someone to take nude photos of them. Or perhaps none of my friends trust me. Or perhaps the younger generation just isn't as comfortable stripping for art. Hmmm...
+
+So instead I went to [w:Abingdon Square] in New York City. People had donated several carved pumpkins to the square for Halloween. They made great subjects.
+
+I also finally learned to use my new on-camera flash successfully. It's wireless, so I was using one hand to hold and angle the flash. I exposed the camera without the flash first, to get a very underexposed shot of the background, then used the flash to make the pumpkin take the focus. I think the effect worked.
+
+Since I was shooting RAW, I converted the images to black and white using Aperture. They have a tool called "Monochrome Mixer" that helps you convert images to black and white. You can assign each RGB value a different percentage of the total black and white. So, for instance, if you want the green values to be more dominant, you would mix the image to weigh the green values more heavily in the black and white image. This allowed me to make sure the pumpkins stood out more, by mixing the image for an "orange" filter.
+
+<!-- [flickr-photoset:id=72157608987088715] -->

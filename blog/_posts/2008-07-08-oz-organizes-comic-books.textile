@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Oz Organizes Comic Books
+redirects: 
+- /node/458
+- /personal/blog/comic-books/oz-organizes-comic-books
+tags: 
+- comic books
+- Oz
+images: 
+- thumbnail: http://farm4.static.flickr.com/3199/2650327607_62733510f6_m.jpg
+  fullsize: http://farm4.static.flickr.com/3199/2650327607_62733510f6_b.jpg
+description: "I've been having a hard time lately with a few comic book series. I've been obsessed with Batman lately - it's one of the best comic series I've read in years. I was talking to a friend saying that I was enjoying it, but that it was hard to follow. He summarized his favorite parts of the story and it was all new territory to me. I had no idea what he was talking about. Then I went back and noticed that i was missing about 3 issues over the past year. That's a lot.\r\rI looked at another series that I like called \"The Twelve\" and it was a similar story: missing issues."
+---
+I've been having a hard time lately with a few comic book series. I've been obsessed with Batman lately - it's one of the best comic series I've read in years. I was talking to a friend saying that I was enjoying it, but that it was hard to follow. He summarized his favorite parts of the story and it was all new territory to me. I had no idea what he was talking about. Then I went back and noticed that i was missing about 3 issues over the past year. That's a lot.
+
+I looked at another series that I like called "The Twelve" and it was a similar story: missing issues.
+
+So I decided it was time to organize my comic books again. There are stacks of books all over the house. When I look for a missing issue, I have to go into 4 different rooms to look through stacks. 
+
+I went to the comic store and got some boxes, bags, and boards. I figured that 100 should be enough. As I went through the stacks to organize them, I realized that I hadn't organized my comic books since the series "52" ran - which was about two years ago. They had a comic book a week for one whole year. That series alone was 52 issues. I probably had about 200 - 300 comic books to bag, board, and organize. Yuck.
+
+So today's goal changed into "let's at least organize and stack the comic books and then figure out what to do". I made it that far and stood up to take a break. Oz either liked the warm spot that I left on the rug or felt like he needed some attention, because he grabbed my spot as soon as I got up. Here's a photo of him.
+
+Awww...
+
+{{ "http://farm4.static.flickr.com/3199/2650327607_62733510f6_b.jpg" | format_photo }}

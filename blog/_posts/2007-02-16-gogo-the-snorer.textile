@@ -1,0 +1,17 @@
+--- 
+layout: post
+title: Gogo the Snorer
+redirects: 
+- /node/408
+- /personal/blog/gogo/gogo-snorer
+tags: 
+- Gogo
+images: 
+- thumbnail: http://farm3.static.flickr.com/2337/2298676803_803789d036_m.jpg
+  fullsize: http://farm3.static.flickr.com/2337/2298676803_33c65d554e_o.jpg
+description: I never knew that dogs could snore so loudly. I'm in the kitchen watching TV. At one point, the sound got a little soft. Not silent, just soft. I heard the gentle sound of snoring. It was Gogo who was in the other room, underneath the piano, curled up asleep. I thought snoring was just for dogs with shortened snouts - like pugs or bulldogs. I'll have to go wake her up and tell he how cute she is.
+---
+I never knew that dogs could snore so loudly. I'm in the kitchen watching TV. At one point, the sound got a little soft. Not silent, just soft. I heard the gentle sound of snoring. It was Gogo who was in the other room, underneath the piano, curled up asleep. I thought snoring was just for dogs with shortened snouts - like pugs or bulldogs. I'll have to go wake her up and tell he how cute she is.
+<!--break-->
+
+{{ "http://farm3.static.flickr.com/2337/2298676803_33c65d554e_o.jpg" | format_photo }}

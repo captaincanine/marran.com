@@ -1,0 +1,48 @@
+--- 
+layout: post
+title: Gogo the Moray Eel
+redirects: 
+- /node/534
+- /personal/blog/gogo/gogo-moray-eel
+tags: 
+- Gogo
+description: I recently went into our bedroom looking for Gogo. She was nowhere in sight. As I looked around for her, I heard a thump and saw a paw quickly flash out from under the bed. Gogo was having a grand time doing her impression of a moray eel. I grabbed the camera and documented her performance.
+---
+<p>I recently went into our bedroom looking for Gogo. She was nowhere in sight. As I looked around for her, I heard a thump and saw a paw quickly flash out from under the bed. Gogo was having a grand time doing her impression of a moray eel. I grabbed the camera and documented her performance.</p>
+<!--break-->
+
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The deadly moray eel emerges from its home." target="_blank" href="/files/photos/gogo/eel/lurking.jpg">
+    <img class="journalPhoto" alt="The deadly moray eel emerges from its home." src="/files/photos/gogo/eel/lurking.jpg" width="400" height="193">
+  </a>
+  
+  <div class="journalCaption">The deadly moray eel emerges from its home.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="We can see the head of the deadly moray eel." target="_blank" href="/files/photos/gogo/eel/emerging.jpg">
+    <img class="journalPhoto" alt="We can see the head of the deadly moray eel." src="/files/photos/gogo/eel/emerging.jpg" width="400" height="188">
+  </a>
+  
+  <div class="journalCaption">We can see the head of the deadly moray eel.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Our fearless explorer tries to coax the deadly moray eel out of its home." target="_blank" href="/files/photos/gogo/eel/coax.jpg">
+    <img class="journalPhoto" alt="Our fearless explorer tries to coax the deadly moray eel out of its home." src="/files/photos/gogo/eel/coax.jpg" width="400" height="175">
+  </a>
+  
+  <div class="journalCaption">Our fearless explorer tries to coax the deadly moray eel out of its home.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The deadly moray approaches it helpless victim, preparing for an attack!" target="_blank" href="/files/photos/gogo/eel/pouncing.jpg">
+    <img class="journalPhoto" alt="The deadly moray approaches it helpless victim, preparing for an attack!" src="/files/photos/gogo/eel/pouncing.jpg" width="400" height="192">
+  </a>
+  
+  <div class="journalCaption">The deadly moray approaches it helpless victim, preparing for an attack!</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The deadly moray eel viciously chews on its prey." target="_blank" href="/files/photos/gogo/eel/jaws.jpg">
+    <img class="journalPhoto" alt="The deadly moray eel viciously chews on its prey." src="/files/photos/gogo/eel/jaws.jpg" width="400" height="218">
+  </a>
+  
+  <div class="journalCaption">The deadly moray eel viciously chews on its prey.</div>
+</div>

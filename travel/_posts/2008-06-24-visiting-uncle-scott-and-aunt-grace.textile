@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Visiting Uncle Scott and Aunt Grace
+series: 
+  name: A Trip to Yuba City for Kellie & Paul's Wedding
+  index: 79
+redirects: 
+- /node/451
+- /personal/blog/family/visiting-uncle-scott-and-aunt-grace
+photoset: 72157605720025524
+tags: 
+- family
+- Yuba City
+images: 
+- thumbnail: http://farm4.static.flickr.com/3170/2594497073_29c9443632_m.jpg
+  fullsize: http://farm4.static.flickr.com/3170/2594497073_29c9443632_b.jpg
+description: Sis and I got a chance to visit Uncle Scott (from my father's side) and his wife, Grace, while we were there. This is only the second time I've seen him in the past ten years.They took us for a drive through the Buttes (my first time driving through them) to a restaurant/bar on the Sacramento river called "Lovey's". It was a great location that had it been anywhere else in the world, would have been packed with boats and swimmers. Thank god there are still places like Sutter County in the world.
+---
+Sis and I got a chance to visit Uncle Scott (from my father's side) and his wife, Grace, while we were there. This is only the second time I've seen him in the past ten years.
+
+They took us for a drive through the Buttes (my first time driving through them) to a restaurant/bar on the Sacramento river called "Lovey's". It was a great location that had it been anywhere else in the world, would have been packed with boats and swimmers. Thank god there are still places like Sutter County in the world. 
+
+We had a great visit and got to get a picture in as long as it somehow featured Scott's boat.
+
+<!-- [flickr-photoset:id=72157605720025524] -->

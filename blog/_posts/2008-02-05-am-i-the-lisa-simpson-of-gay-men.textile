@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Am I the Lisa Simpson of Gay Men?
+redirects: 
+- /node/438
+- /personal/blog/television/am-i-lisa-simpson-gay-men
+tags: 
+- television
+images: 
+- http://img.youtube.com/vi/BbvPzdX-UwI/0.jpg
+description: One of the hardest things about getting older is that you can't tell if you're turning into a grumpy old crank or if you're just starting to notice how irritating the world actually is.I just saw this commercial on Comedy Central. I found it offensive on so many levels. The most obvious and irritating thing about the commercial is that they equate meeting people with picking out clothes. They might as well be advertising crystal meth.And I love the guy that they picked for "smart". I think I must have very different standards for what constitutes "smart".
+---
+One of the hardest things about getting older is that you can't tell if you're turning into a grumpy old crank or if you're just starting to notice how irritating the world actually is.
+
+I just saw this commercial on Comedy Central. I found it offensive on so many levels. The most obvious and irritating thing about the commercial is that they equate meeting people with picking out clothes. They might as well be advertising crystal meth.
+
+And I love the guy that they picked for "smart". I think I must have very different standards for what constitutes "smart".
+<!--break-->
+
+{{ "http://www.youtube.com/embed/BbvPzdX-UwI" | format_youtube }}

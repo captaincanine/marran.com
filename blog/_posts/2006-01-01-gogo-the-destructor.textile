@@ -1,0 +1,20 @@
+--- 
+layout: post
+title: Gogo the Destructor
+redirects: 
+- /node/539
+- /personal/blog/gogo/gogo-destructor
+tags: 
+- Gogo
+description: Gogo spent the morning destroying a stuffed animal in the Bollywood room. The room was completely dark. We turned on the light and saw nothing but white fluffy carnage.
+---
+<p>Gogo spent the morning destroying a stuffed animal in the Bollywood room. The room was completely dark. We turned on the light and saw nothing but white fluffy carnage.</p>
+<!--break-->
+
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/gogo/PICT0001.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/gogo/PICT0001.jpg" width="600" height="399">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>

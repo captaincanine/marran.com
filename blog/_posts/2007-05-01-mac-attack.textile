@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: Mac Attack
+redirects: 
+- /node/426
+- /personal/blog/mac-os/mac-attack
+tags: 
+- mac os
+- open source
+- unix
+description: I wish I were a stronger man. I wish I had more resolve. I wish I didn't get obsessed with buying the latest something and then spend my time pining away for it.
+---
+I wish I were a stronger man. I wish I had more resolve. I wish I didn't get obsessed with buying the latest <em>something</em> and then spend my time pining away for it.
+
+Somehow, a few weeks ago, I got obsessed with getting a Macintosh. I think it started with my interest in going open source. As I read programming manuals, I began to notice that the installation instructions for Mac were very brief. Many of them said - "If you have Mac OS X, this software is already on your machine". I had experimented with putting Linux on my machine, but when I saw how limited the software options were, I ran screaming. No Photoshop? No Illustrator? No iTunes?
+
+Then it dawned on me...now that Mac OS X is built on top of Unix, you get all the benefits of open source development, with commercial software options and a really cool OS.
+
+This started a period where I noticed everything that bugged me about my PC. I started to notice how poor my video and audio playback was on my PC. I would wait forever for the hard drive to finish spinning before the computer would come to life. A couple of weekends ago I tried to set up Drupal (open source content management system) on my home machine. I spent a better part of the weekend and couldn't make it work. It drove me crazy.
+
+At that point, I was completely decided to get a Mac. It was just a matter of time. I felt like a consumate addict - every morning I told myself that today was really not the best day to get a Mac. Just be patient. Rise above your desires. You still can get everything done that you need to get done. None of it was working.
+
+Eventually I got the call from my pseudo-employer that they would reimburse me for a Mac and the associated software I would need to get. Needless to say, I was off to the store to get my new Mac.
+
+I got a 15", MacBook Pro. I spent extra for the faster processor, more memory, and bigger hard drive. I spent almost as much money on the software as I did on the hardware. By the time I got home, I was giddy with anticipation. I hate to admit it, but the Mac exceeded my expectations. I must have said "that is soooo cool" to myself three times in the first 15 minutes. Some of the cool factors are:
+<ul>
+	<li>I was trying to figure out where to plug the power cord in, when it leapt out of my hand and into its socket. Why? It's magnetic! All you have to do is get close to the slot! That way if someone trips over the power cord, the cord slips out of its slot without bringing the laptop crashing down.</li>
+	<li>As part of the setup, it takes a picture of you to use with your profile.</li>
+	<li>It automatically finds a nearby wireless connection during startup. It was downloading software updates in no time.</li>
+</ul>
+Within 30 minutes, I started to get feel like that Mac snobbery descend upon me. I had become part of the computer elite. I envisioned that all Mac users would someday settle our own planet like a Star Trek colony of peace-loving, creative, intellectuals.
+
+It's sad that Macs will probably never break the barrier of market share. I think it will always remain a niche product. Maybe that's not so bad. But I feel bad for all those people out there that are missing out on a super cool computing experience.
+
+And by the way, remember how I spent a weekend trying to get Drupal up and running on my Windows machine and gave up? I had it up and running within an hour on my new Mac.
+
+Aaahhhhh....

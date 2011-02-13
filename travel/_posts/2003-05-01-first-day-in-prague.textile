@@ -1,0 +1,80 @@
+--- 
+layout: post
+title: First Day in Prague
+series: 
+  name: Long Weekend in Prague
+  index: 49
+redirects: 
+- /node/572
+- /personal/travel/prague/first-day-prague
+tags: 
+- Prague
+description: We took a cab to the hotel. The driver reminded me of Kornblum from "Kavalier &amp; Clay." the hotel was nice and didn't have one of those funny "shelf" toilets that I see in Eastern Europe. We unpacked and decided to head to the "Old Town." lt took us about 20 minutes and two trips to the subway station and back before we were on our way.
+---
+<p>We took a cab to the hotel. The driver reminded me of Kornblum from "Kavalier &amp; Clay." the hotel was nice and didn't have one of those funny "shelf" toilets that I see in Eastern Europe. We unpacked and decided to head to the "Old Town." lt took us about 20 minutes and two trips to the subway station and back before we were on our way.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The first cafe we visited - Namesti Republiky." target="_blank" href="/files/photos/prague/namesti_republiky_int.jpg">
+    <img class="journalPhoto" alt="The first cafe we visited - Namesti Republiky." src="/files/photos/prague/namesti_republiky_int.jpg" height="450" width="600">
+  </a>
+  
+  <div class="journalCaption">The first cafe we visited - Namesti Republiky.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The view from the outside." target="_blank" href="/files/photos/prague/namesti_republiky.jpg">
+    <img class="journalPhoto" alt="The view from the outside." src="/files/photos/prague/namesti_republiky.jpg" height="667" width="500">
+  </a>
+  
+  <div class="journalCaption">The view from the outside.</div>
+</div>
+<p>I have to admit, the first day in Prague was a bit of a blur. We were operating on only a few hours of sleep. The subway took us near the Old Town, and we started walking. There was no great destination in mind. We came across Tulla and her Finnish associates. Tulla was looking vivacious. But her colleagues didn't recognize that we existed. I had a list of cafes in Prague, and so we headed to one on the list. It was a beautiful art deco building. We sat outside, listening to their musicians and had an iced cappucino - which had no ice, but a lot of cream, and some sort of syrup or liquor. We headed over to the old Town Square, checked out the churches and architecture, and waited for the Astrological Clock to chime. As I had read about the various machinations that the clock goes through, it seemed sort of fun or cute, but when I saw it happening, I realized it was quite haunting. The second I saw the apostles start to parade past the open windows, I felt like a kid.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Old Town Square" target="_blank" href="/files/photos/prague/old_square.jpg">
+    <img class="journalPhoto" alt="Old Town Square" src="/files/photos/prague/old_square.jpg" height="450" width="600">
+  </a>
+  
+  <div class="journalCaption">Old Town Square</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Church of Our Lady" target="_blank" href="/files/photos/prague/church_of_our_lady.jpg">
+    <img class="journalPhoto" alt="The Church of Our Lady" src="/files/photos/prague/church_of_our_lady.jpg" height="637" width="500">
+  </a>
+  
+  <div class="journalCaption">The Church of Our Lady</div>
+</div>
+<p>We continued walking down to the river. The river was full of people that had rented row boats. I thought about taking a picture, but I knew I would never translate.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Astrological Clock" target="_blank" href="/files/photos/prague/astrological_clock.jpg">
+    <img class="journalPhoto" alt="The Astrological Clock" src="/files/photos/prague/astrological_clock.jpg" height="700" width="467">
+  </a>
+  
+  <div class="journalCaption">The Astrological Clock</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Eveyone is waiting for the automatons to play." target="_blank" href="/files/photos/prague/astrological_clock_2.jpg">
+    <img class="journalPhoto" alt="Eveyone is waiting for the automatons to play." src="/files/photos/prague/astrological_clock_2.jpg" height="779" width="492">
+  </a>
+  
+  <div class="journalCaption">Eveyone is waiting for the automatons to play.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="U Rotta" target="_blank" href="/files/photos/prague/u_rotta.jpg">
+    <img class="journalPhoto" alt="U Rotta" src="/files/photos/prague/u_rotta.jpg" height="726" width="600">
+  </a>
+  
+  <div class="journalCaption">U Rotta</div>
+</div>
+<p>We walked across the Charles Bridge. I will have to do that again, because the sun was in our eyes and I was quite tired. We found a restaurant that was popular with the locals in the Little Quarter. My meal was big, but David's was enormous. We both had beer. After a heavy meal, beer, and jet lag, we stumbled out of the restaurant drunk and found a cab. We later realized that the cab driver recognized drunk tourists and significantly over charged us.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Charles Bridge" target="_blank" href="/files/photos/prague/charles_bridge_1.jpg">
+    <img class="journalPhoto" alt="Charles Bridge" src="/files/photos/prague/charles_bridge_1.jpg" height="389" width="500">
+  </a>
+  
+  <div class="journalCaption">Charles Bridge</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="More Charles Bridge" target="_blank" href="/files/photos/prague/charles_bridge_2.jpg">
+    <img class="journalPhoto" alt="More Charles Bridge" src="/files/photos/prague/charles_bridge_2.jpg" height="450" width="500">
+  </a>
+  
+  <div class="journalCaption">More Charles Bridge</div>
+</div>

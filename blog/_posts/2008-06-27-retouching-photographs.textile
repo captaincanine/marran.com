@@ -1,0 +1,38 @@
+--- 
+layout: post
+title: Retouching Photographs
+redirects: 
+- /node/456
+- /personal/blog/photography/retouching-photographs
+tags: 
+- photography
+images: 
+- thumbnail: http://farm4.static.flickr.com/3047/2616807428_3b695de746_m.jpg
+  fullsize: http://farm4.static.flickr.com/3047/2616807428_3b695de746_b.jpg
+- thumbnail: http://farm4.static.flickr.com/3006/2616808680_990860c4ab_m.jpg
+  fullsize: http://farm4.static.flickr.com/3006/2616808680_990860c4ab_b.jpg
+description: "I've started playing around with Photoshop to enhance my photos. \r\rI was looking at the wedding photos done by the professional they hired for my cousin's wedding. They were fantastic. You can view them here: Kellie and Paul's Wedding. Her composition is excellent, the pictures are sharp, and she certainly gets a great sense of playfulness from her subjects."
+---
+I've started playing around with Photoshop to enhance my photos. 
+
+I was looking at the wedding photos done by the professional they hired for my cousin's wedding. They were fantastic. You can view them here: <a href="http://artisticimagery.blogspot.com/2008/06/kellie-and-pauls-wedding.html" target="_blank">Kellie and Paul's Wedding</a>. Her composition is excellent, the pictures are sharp, and she certainly gets a great sense of playfulness from her subjects.
+
+There's also a lot of post-processing in her photos. I don't know everything she's doing, but I can that there are adjustments to color and saturation for starters.
+
+I decided to play around with some of my existing photos to see if I could breathe some life into them. 
+
+I experimented with curves, an unsharp mask, and vignetting in Photoshop to alter the image below.
+
+Here's the original (You definitely want to zoom in to the photo. It looks a lot better close-up):
+
+{{ "http://farm4.static.flickr.com/3047/2616807428_3b695de746_b.jpg" | format_photo }}
+
+I went to "curves" in Photoshop and modified the red and green channels to have a slight "s" curve. I left the blue channel as it was. I then applied an unsharp mask to the image. I aimed for a radius of 50 on the unsharp mask and played with the other settings so that it wasn't too severe. Next, I added a filter of an "inner glow" and changed the color to black. That gave it a soft vignette. 
+
+When I look at the after photo, I start thinking that I didn't too that much, but when I go back to the original, I see how washed-out the original now appears.
+
+Here's the final image:
+
+{{ "http://farm4.static.flickr.com/3047/2616807428_3b695de746_b.jpg" | format_photo }}
+
+Let me know what you think.

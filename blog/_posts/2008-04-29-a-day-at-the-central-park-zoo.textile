@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: A Day at the Central Park Zoo
+redirects: 
+- /node/443
+- /personal/blog/jeff/day-central-park-zoo
+photoset: 72157604527943127
+tags: 
+- NYC
+- zoo
+images: 
+- thumbnail: http://farm4.static.flickr.com/3029/2412438314_9a811ec015_m.jpg
+  fullsize: http://farm4.static.flickr.com/3029/2412438314_9a811ec015_b.jpg
+description: Kevin had just started radiation. We wanted to do something special on the weekend. Our plans were to go to the Bronx Zoo, but the weather was not good and neither was Kevin's energy level. So we decided to go to the Central Park Zoo instead. We invited our friends Bob & Larry.
+---
+Kevin had just started radiation. We wanted to do something special on the weekend. Our plans were to go to the Bronx Zoo, but the weather was not good and neither was Kevin's energy level. So we decided to go to the Central Park Zoo instead. We invited our friends Bob & Larry.
+<!--break-->
+
+Jeff happens to know someone that works at the Central Park Zoo, so Nicole got us all in for free, which was nice.
+
+This was my first visit to the Central Park Zoo. It was small, but surprisingly nice. 
+
+This was also the debut of Kevin's blond mohawk. He had decided that if there was a chance that he was going ot lose his hair during radiation, that he was going to go out with a bang.
+
+<!-- [flickr-photoset:id=72157604527943127] -->

@@ -1,0 +1,78 @@
+--- 
+layout: post
+title: The First Floor
+series: 
+  name: The House Tour
+  index: 88
+redirects: 
+- /node/512
+- /personal/house/pre-renovation/first-floor
+tags: 
+- pre-renovation
+description: We're now on the first floor. This is the future home of the dining/living room and the fantastic kitchen.
+---
+<p>We're now on the first floor. This is the future home of the dining/living room and the fantastic kitchen.</p>
+<!--break-->
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The front door entrance to our part of the house." target="_blank" href="/files/photos/mission_home/first.front_entrance.JPG">
+    <img class="journalPhoto" alt="The front door entrance to our part of the house." src="/files/photos/mission_home/first.front_entrance.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The front door entrance to our part of the house.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The view of the street side of the first floor. You can't see in this picture the wrought iron ivy grates on the front windows. You also get no idea how big this room feels (for Manhattan)." target="_blank" href="/files/photos/mission_home/first.front_view.JPG">
+    <img class="journalPhoto" alt="The view of the street side of the first floor. You can't see in this picture the wrought iron ivy grates on the front windows. You also get no idea how big this room feels (for Manhattan)." src="/files/photos/mission_home/first.front_view.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The view of the street side of the first floor. You can't see in this picture the wrought iron ivy grates on the front windows. You also get no idea how big this room feels (for Manhattan).</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The fireplace. David foolishly got rid of the little swirlies." target="_blank" href="/files/photos/mission_home/first.front_fire.JPG">
+    <img class="journalPhoto" alt="The fireplace. David foolishly got rid of the little swirlies." src="/files/photos/mission_home/first.front_fire.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">The fireplace. David foolishly got rid of the little swirlies.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="More of the living room." target="_blank" href="/files/photos/mission_home/first.middle.JPG">
+    <img class="journalPhoto" alt="More of the living room." src="/files/photos/mission_home/first.middle.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">More of the living room.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The kitchen fireplace. Our smaller dining table will go in front of this fireplace. The mantel is solid marble, and someone painted over it!" target="_blank" href="/files/photos/mission_home/first.kitchen_fire.JPG">
+    <img class="journalPhoto" alt="The kitchen fireplace. Our smaller dining table will go in front of this fireplace. The mantel is solid marble, and someone painted over it!" src="/files/photos/mission_home/first.kitchen_fire.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">The kitchen fireplace. Our smaller dining table will go in front of this fireplace. The mantel is solid marble, and someone painted over it!</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="More kitchen. This wall will have fridge, cabinets, sink, etc. The room will have a large island in the center." target="_blank" href="/files/photos/mission_home/first.kitchen.JPG">
+    <img class="journalPhoto" alt="More kitchen. This wall will have fridge, cabinets, sink, etc. The room will have a large island in the center." src="/files/photos/mission_home/first.kitchen.JPG" width="300" height="225">
+  </a>
+  
+  <div class="journalCaption">More kitchen. This wall will have fridge, cabinets, sink, etc. The room will have a large island in the center.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The view of our backyard from the kitchen." target="_blank" href="/files/photos/mission_home/first.rear_view.JPG">
+    <img class="journalPhoto" alt="The view of our backyard from the kitchen." src="/files/photos/mission_home/first.rear_view.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">The view of our backyard from the kitchen.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The hallway leaving the kitchen." target="_blank" href="/files/photos/mission_home/first.hallway.JPG">
+    <img class="journalPhoto" alt="The hallway leaving the kitchen." src="/files/photos/mission_home/first.hallway.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">The hallway leaving the kitchen.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="And up the stairs to the second floor." target="_blank" href="/files/photos/mission_home/first.stairs.JPG">
+    <img class="journalPhoto" alt="And up the stairs to the second floor." src="/files/photos/mission_home/first.stairs.JPG" width="200" height="267">
+  </a>
+  
+  <div class="journalCaption">And up the stairs to the second floor.</div>
+</div>

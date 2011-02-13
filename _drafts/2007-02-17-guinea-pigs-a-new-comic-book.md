@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: "Guinea Pigs: A New Comic Book"
+created: 1171756631
+---
+Sitting on my desk, is a completely finished copy of my first comic book: Guinea Pigs. For a while, I changed the title to "The Four Last Things", but I think there's something fun and weird about "Guinea Pigs", so I'm keeping it for the time being.
+
+It's a horror story about a group of children that were involved in an experiment at an amusement park many years ago. I won't go into a lot of detail about it here.
+
+So it sits on my desk and I'm trying to work up the nerve to put it into a submission package to send to publishers. For some reason, this is the hard part. Actually, getting the comic book drawn, inked, colored and lettered was easy. I hired people to do the drawing and coloring. I did the lettering myself. Now I'm frozen in anticipation of sending it out. How do I package it for editors? Who should I send it out to? Should I include a box of cookies with the submission? Should I follow it up with phone calls to talk to them about it in depth? It feels like I'm just throwing a note in a bottle into the ocean in the hopes that someone stumbles across it.
+
+Well, while I ponder these questions and tasks, I thought I'd post the first few pages of it. The color got a little washed out when I exported the images to JPG. Try to see past that. Here are the first 6 out of 22 action packed pages!
+<table cellspacing="2" cellpadding="0" border="0">
+<tr>
+<td><a target="_blank" href="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-1ai.jpg"><img width="100" alt="Page 1" id="image71" src="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-1ai.jpg" /></a></td>
+<td><a target="_blank" href="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-2ai.jpg"><img width="100" alt="Page 2" id="image72" src="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-2ai.jpg" /></a></td>
+<td><a target="_blank" href="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-3ai.jpg"><img width="100" alt="Page 3" id="image73" src="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-3ai.jpg" /></a></td>
+</tr>
+<tr>
+<td>Page 1</td>
+<td>Page 2</td>
+<td>Page 3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td><a target="_blank" href="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-4ai.jpg"><img width="100" alt="Page 4" id="image74" src="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-4ai.jpg" /></a></td>
+<td><a target="_blank" href="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-5ai.jpg"><img width="100" alt="Page 5" id="image75" src="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-5ai.jpg" /></a></td>
+<td><a target="_blank" href="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-6ai.jpg"><img width="100" alt="Page 6" id="image76" src="http://www.marran.com/wordpress/wp-content/uploads/2007/02/page-6ai.jpg" /></a></td>
+</tr>
+<tr>
+<td>Page 4</td>
+<td>Page 5</td>
+<td>Page 6</td>
+</tr>
+</table>

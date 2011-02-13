@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: "Photographic Lighting: Week 2"
+redirects: 
+- /node/623
+- /personal/blog/photography/photographic-lighting-week-2
+photoset: 72157607828740144
+tags: 
+- comic books
+- NYC
+- photography
+- learning
+images: 
+- thumbnail: http://farm4.static.flickr.com/3247/2922360115_6917ae6426_m.jpg
+  fullsize: http://farm4.static.flickr.com/3247/2922360115_6917ae6426_b.jpg
+description: "The first review of my homework for my photography lighting class went well. He gave me a specific challenge: to photograph objects instead of people. I clearly enjoy photographing people and he wanted us to start working outside of our comfort zone."
+---
+The first review of my homework for my photography lighting class went well. He gave me a specific challenge: to photograph objects instead of people. I clearly enjoy photographing people and he wanted us to start working outside of our comfort zone. 
+<!--break-->
+
+I also decided that I wanted to focus on indoor lighting where I control the light source. There was a person in our class that had done a great series of photographs of a sweet potato under various lighting sources. I wanted to recreate that look.
+
+In trying to decide what object to use, I thought I would try for organic objects. But I have to admit that I was feeling a little uninspired just photographing plain old objects. I wanted to pick an object that was going to be fun. So I went to a comic book store and looked for action figures. I found a Magneto doll that was highly posable. Then I bought a bunch of produce. I thought it would be fun to photograph Magneto relating to produce with stark lighting.
+
+The photos came out pretty closely to what I had envisioned. We'll see how they go over in class.
+
+<!-- [flickr-photoset:id=72157607828740144] -->

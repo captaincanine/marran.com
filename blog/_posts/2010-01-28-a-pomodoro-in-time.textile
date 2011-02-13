@@ -1,0 +1,35 @@
+--- 
+layout: post
+title: A Pomodoro in Time
+redirects: 
+- /node/678
+- /personal/blog/nlp/pomodoro-time
+tags: 
+- NLP
+- self-improvement
+- learning
+images: 
+- thumbnail: http://farm2.static.flickr.com/1069/571859127_df3c81d3bc_m.jpg
+  fullsize: http://farm2.static.flickr.com/1069/571859127_50cf0abfa9_o.jpg
+description: "I just finished reading a book called \"Pomodoro Technique Illustrated\" by Staffan N\xC3\xB6teberg (http://www.amazon.com/Pomodoro-Technique-Illustrated-Really-Minutes/dp/1934356506). I guess it's a little premature to say that it's changed my life, but in my first week of truly implementing the method, I find myself on Thursday and have already accomplished more than I had mentally apportioned to get done for the whole week. A couple of months ago, I had read the free PDF by the original author and decided to test it out, but in typical fashion I sort of did it half-ass."
+---
+I just finished reading a book called "Pomodoro Technique Illustrated" by Staffan Nöteberg (http://www.amazon.com/Pomodoro-Technique-Illustrated-Really-Minutes/dp/1934356506). I guess it's a little premature to say that it's changed my life, but in my first week of truly implementing the method, I find myself on Thursday and have already accomplished more than I had mentally apportioned to get done for the whole week. A couple of months ago, I had read the free PDF by the original author and decided to test it out, but in typical fashion I sort of did it half-ass. This particular book helped me understand much more why the technique works and modifies it somewhat so that it's inline with other time-management and productivity techniques.
+
+For those that don't know the Pomodoro Technique, it's really simple. At it's core, you work in 25 minute increments. You set a timer, work uninterrupted for 25 minutes, then take a break for 5 minutes. You keep doing that and every 4 "pomodori", you take a longer break. And the thing is, you can't break up a pomodoro into smaller pieces. If someone interrupts you for more than a minute or so, you invalidate the entire pomodoro and start over. So you quickly learn the phrase "Respect the Pomodoro". You quickly learn to ignore the growing number of unread messages in your inbox. 
+
+It was founded by an Italian student that felt like he was working all day and not accomplishing anything. In total frustration with his short attention span, he set a timer and said he was going to do one task for 25 minutes - just to see if it was possible.
+
+I have tried to read other productivity books and they always come across a bit too much like a cult manifesto. And the techniques were just too complex. I always subconsciously knew I wasn't going to be able to modify my habits to the point where I would follow the technique. So one of the big benefit of the techinque is that it's simple, and the benefit of this book is that it's short. When you distill the book down to the actual technique, it's just a handful of pages. He spends the majority of the book talking about how our brains work and what they need to operate optimally. He takes a very matter-of-fact approach that is pretty rare among self-help books. 
+
+A few times he talks about the contributing factors to procrastination and he does it in a simple, non-emotional way. I've seen books to help you deal with procrastination where they claim that you essentially need to generate an inner cheerleader - constantly firing you up to ACCOMPLISH THINGS. Nope. Doesn't work in my world. His description and prescription for procrastination fits my particular outlook much more clearly.
+
+When I first read about the Pomodoro Technique, I thought that it was primarily centered around stopping disruptions. And it's definitely that, but I would argue that that's not the reason it works so well. Staffan talks a lot in the book about creating a rhythm for accomplishment. It's almost like you're training your attention span like a professional athlete trains in cycles. You're exercising your ability for productivity. The cycle of 25 minutes on and 5 minutes off puts you into a buzz of focus. 
+
+On software projects, there's always a big push at the end. I'm clear-headed, driven, and I'm crossing everything off my to-do list at a lightning pace. I often thought "I wish I could start every day like this and not just close to the deadline." And I think we tend to convince ourselves that we have to wait for the muse to strike or the adrenaline to kick in before we can really accomplish something substantial. Following the technique allows you to tap into that energy as soon as you set the timer. As soon as I wind up the timer, I feel like I'm on the bonus round of "The $25,000 Pyramid."
+
+And finally, it has shed a big light on my time estimates. When I first read the free PDF, I had no interest in recording my estimates. I just wanted to set the timer and go. After reading Staffan's book, I realized that the time estimates, review and analysis was crucial. It's a real eye-opener to see how I wildly under-estimate certain tasks.
+
+Anyway, I don't want to go on and on or it will sound like I'm evangelizing. I highly recommend the book. You'll start using the Pomodoro Technique for everything: 25 minutes to clean the kitchen. Go. 25 minutes to organize my desk. Go. 
+
+FYI - It took me two pomodori for this blog post. 
+

@@ -1,0 +1,19 @@
+--- 
+layout: post
+title: To Milan and the Lake Region
+series: 
+  name: To Milan and the Lake Region
+  index: 104
+redirects: 
+- /node/660
+- /personal/travel/italy/milan-and-lake-region
+tags: 
+- Italy
+images: 
+- thumbnail: http://farm4.static.flickr.com/3563/3619119189_2723422ae6_m.jpg
+  fullsize: http://farm4.static.flickr.com/3563/3619119189_2723422ae6_b.jpg
+description: Every time we go to Italy, I say that we don't go to Italy enough. Why does it only happen once every few years? We had dinner with one of David's colleagues in Milan that tells us she goes to Rome twice a year. Granted, she's a hell of a lot closer, but still...we should be going ot Italy more. I haven't been to Rome in over 10 years! What's wrong with me?
+---
+Every time we go to Italy, I say that we don't go to Italy enough. Why does it only happen once every few years? We had dinner with one of David's colleagues in Milan that tells us she goes to Rome twice a year. Granted, she's a hell of a lot closer, but still...we should be going ot Italy more. I haven't been to Rome in over 10 years! What's wrong with me?
+<!--break-->
+So even though it was a short trip (only 4 nights), and David would be at a conference a lot of the time, how could I pass up a trip to Milan with David?

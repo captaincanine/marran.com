@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Carbonite - Cheap Online Backup
+redirects: 
+- /node/411
+- /business/blog/backup/carbonite-cheap-online-backup
+tags: 
+- blog
+- backup
+description: Once upon a time, I bought a copy of Winzip. This is before the days that zipping was built into the Windows OS. Occasionally, I get promotional email from them and I'm too lazy to unsubscribe. Well, I'm glad I haven't, because I got an email from them about a new service.The company is called Carbonite, and they perform online backups of your system. They offer $49 a year for unlimited backup space.
+---
+Once upon a time, I bought a copy of Winzip. This is before the days that zipping was built into the Windows OS. Occasionally, I get promotional email from them and I'm too lazy to unsubscribe. Well, I'm glad I haven't, because I got an email from them about a new service.
+
+The company is called <a target="_blank" href="http://www.carbonite.com/">Carbonite</a>, and they perform online backups of your system. They offer $49 a year for unlimited backup space.
+
+I tried the service for free for 15 days. It took almost all of that time to finish backing up all the files, but now they're there. The install didn't take long. It took me a few minutes of reading instructions to figure out how to tell it what to back up. I kept looking for a dialog within the application to specify what to back up, but it's integrated with Window explorer - so you specify it by browsing files. There's a toolbar icon that tells you if it's idle or if it's actively backing up files.
+
+I've had an external hard drive for performing backups, but that doesn't protect me if the house should burn down (knock on all wood present). I have periodically looked for an online backup solution, but could never find one that was worth the price. However, $49 per year is something I'd happily pay for the peace of mind of having files backed up.

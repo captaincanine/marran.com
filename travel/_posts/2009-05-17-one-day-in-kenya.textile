@@ -1,0 +1,32 @@
+--- 
+layout: post
+title: One Day in Kenya
+series: 
+  name: A Month in Africa
+  index: 102
+redirects: 
+- /node/656
+- /personal/travel/africa/one-day-kenya
+photoset: 72157616290715261
+tags: 
+- Africa
+images: 
+- thumbnail: http://farm4.static.flickr.com/3560/3414697116_c69bc9286f_m.jpg
+  fullsize: http://farm4.static.flickr.com/3560/3414697116_c69bc9286f_b.jpg
+description: We had a few very circuitous flights in Africa (to say the least). One of them was getting to Tanzania. We had to find flights that were cheap, get us to Arusha, and would get us miles. So to get us to Arusha, we flew overnight to London Heathrow, spent a few hours, then took a flight to Nairobi, Kenya. We spent two nights in Kenya - though we arrived so late and left so early in the morning that it felt like we were barely there. Also, we were so jet-lagged that we didn't really have much functional time.
+---
+We had a few very circuitous flights in Africa (to say the least). One of them was getting to Tanzania. We had to find flights that were cheap, get us to Arusha, and would get us miles. So to get us to Arusha, we flew overnight to London Heathrow, spent a few hours, then took a flight to Nairobi, Kenya. We spent two nights in Kenya - though we arrived so late and left so early in the morning that it felt like we were barely there. Also, we were so jet-lagged that we didn't really have much functional time.
+
+Still, we got a realtively early start in the morning and got a tour guide to drive us around. He drove us to the Nairobi National Museum, which was a great introduction. Inside, a licensed guide took us around. One of the highlights was a very well-preserved woolly mammoth fossil.
+
+Our next stop was to a giraffe sancutary where you can get close enough to the giraffes to feed them. It turns out, that a couple of the giraffes are shameless beggars and will do anything for food. David got a fair amount of giraffe slobber on him while he was posing for a photo.
+
+While we were having coffee, we talked with a Canadian that had just finished going on safari. She couldn't stop saying wonderful things about her trip. David and I were still wondering exactly what the trip was going to be like. It's not something you can really imagine until you've done it. And I suppose that each trip varies greatly depending on specifically where you go and with whom.
+
+On the way back to the hotel, we got stuck in the famous Nairobi traffic. We passed by some shanty towns (which are called townships in Africa). It's hard to capture how sprawlingly large the townships can be with a photo. We started getting a taste of the crazy culture clashes in Africa. We were driving on a major highway and right along the side, people were herding cattle. And just past that, there were people in business suits walking to work. When we were completely stopped in traffic, there men selling all sorts of items: fans, stickers of animals, medical supplies, etc.
+
+On the way out of Kenya I was expecting a real headache at the airport. It was just the opposite. Everyone was as nice as could be and really quite efficient on getting us ot the gate. The only drawback is that we had quite a wait for our flight because we got there so much ahead of schedule.
+
+We flew from Kenya and on to Tanziania to start the safari.
+
+<!-- [flickr-photoset:id=72157616290715261] -->

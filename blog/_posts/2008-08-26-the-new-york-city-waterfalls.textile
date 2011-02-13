@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: The New York City Waterfalls
+redirects: 
+- /node/526
+- /personal/blog/nyc/new-york-city-waterfalls
+photoset: 72157606972703883
+tags: 
+- NYC
+images: 
+- thumbnail: http://farm4.static.flickr.com/3060/2800602855_7b889c908d_m.jpg
+  fullsize: http://farm4.static.flickr.com/3060/2800602855_7b889c908d_b.jpg
+description: Last weekend was one of those perfect summer days in NYC - blue skies, billowy clouds that show off every last detail, and not too sweltering. Mr. R and Benji were in town, so I asked them if they wanted to go on a short cruise to see the NYC Waterfalls. The answer was yes and David agreed.
+---
+Last weekend was one of those perfect summer days in NYC - blue skies, billowy clouds that show off every last detail, and not too sweltering. Mr. R and Benji were in town, so I asked them if they wanted to go on a short cruise to see the <a href="http://www.nycwaterfalls.org/" target="_blank">NYC Waterfalls</a>. The answer was yes and David agreed.
+
+We headed down to South Street Seaport to get tickets from one of the cruises that leaves from down there. Apparently, we were one of several hundred other people that had the same idea. The lines were long and didn't move. We quickly bagged the idea of the cruise and decided to just look at the waterfalls from afar, which still ended up being a good idea.
+
+I think one's first reaction to the waterfalls is "meh". But the more you look at them, the more it helps you appreciate the fact that New York is an island with all of these great waterways with their own life. The one at the Brooklyn Bridge seemed to be the best because the bridge blocks the wind. The other two that we could see were being blown so strongly that it was more of a mist-producer than a waterfall.
+
+After the viewing we went for ice cream and then to the TKTS booth, where Benji and Mr. R got tickets to The Marriage of Bette and Boo.
+
+<!-- [flickr-photoset:id=72157606972703883] -->

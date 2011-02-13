@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Dogs & Spring
+redirects: 
+- /node/442
+- /personal/blog/gogo/dogs-spring
+photoset: 72157604797069813
+tags: 
+- Oz
+- Gogo
+- house
+images: 
+- thumbnail: http://farm3.static.flickr.com/2033/2447150695_657116af5c_m.jpg
+  fullsize: http://farm3.static.flickr.com/2033/2447150695_657116af5c_b.jpg
+description: Our front yard has been completely re-done this year. In the past year or so, I put some potted flowers on the front steps. It makes a big difference to come home and see some flowers welcoming you.
+---
+Our front yard has been completely re-done this year. In the past year or so, I put some potted flowers on the front steps. It makes a big difference to come home and see some flowers welcoming you. 
+
+I told Benji that he should put some plants in the front yard. So he went all-out and lined the front with boxes and planters, expanded the watering system to take care of the front, and then flooded them with flowers. Our daffodils have been in full force. People have been stopping us on the street to tell us what a wonderful thing we've done for the block. I think people in New York really understand the preciousness of making some natural and beautiful in the midst of all the urbanity.
+
+I took the puppies in the front yard for some nice photos.
+
+<!-- [flickr-photoset:id=72157604797069813] -->

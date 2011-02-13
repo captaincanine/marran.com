@@ -1,0 +1,108 @@
+--- 
+layout: post
+title: The X-Men Bathroom
+series: 
+  name: The House Tour
+  index: 95
+redirects: 
+- /node/518
+- /personal/house/post-renovation/x-men-bathroom
+tags: 
+- post-renovation
+- x-men bathroom
+description: Somehow, somewhere, I got the idea in my head of creating a bathroom that was almost entirely composed of glass mosaic tile. I figured I could take any image, scan, and use photo editing software to transfer the image into a mosaic. David and I spent a couple of months trying to come up with a good image. I eventually decided that comic book panel would make a good image because the colors are bold, the concept is fun, and we wouldn't lose a lot of details in reducing the image quality down.
+---
+<p>Somehow, somewhere, I got the idea in my head of creating a bathroom that was almost entirely composed of glass mosaic tile. I figured I could take any image, scan, and use photo editing software to transfer the image into a mosaic. David and I spent a couple of months trying to come up with a good image. I eventually decided that comic book panel would make a good image because the colors are bold, the concept is fun, and we wouldn't lose a lot of details in reducing the image quality down.</p>
+<p>I started scouring old X-Men comic books that I had when I was younger. I spent some time tracking down old copies on E-Bay and then trying to find an appropriate image. I settled on a panel from the</p>
+<p>Next we had to transfer that image to a workable matrix for laying out the tile. We decided to go with Carter Glass Tile which had a palette of 50 colors. I used those colors to reduce the size of the image down to what we needed to fit the bathroom. There were a lot of conversion and re-measurements. The image below shows the finished product that we used to create the mosaic. The mosaic was built in grids of 15 tiles by 15 tiles. Each square in that image represents approximately 13 inches when assembled.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/sample_image.gif">
+    <img alt="" src="/files/photos/renovation/top_bathroom/sample_image.gif" width="500">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>The other nice thing about Carter Glass tile is that they sold plastic grids so you could build your own mosaics. If we hadn't found that grid, I don't think we would have been able to do the project. The grid is a big plastic waffle of 15 tiles by 15 tiles that you drop the tiles into. Once you have the grid filled, you put contact paper on the tiles and lift the tiles out. That grid then gets labelled and set aside.</p>
+<p>We would zoom into each 15x15 square and then turn on one set of colors at a time, using that to build the grid. The image below shows what it looked like to us on the computer. This section is the square that makes on the right eye of the guy in the center.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/sample_tile.gif">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/sample_tile.gif" width="525" height="333">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>The final image is composed 33,456 tiles. It took us about 3 weeks to make all the panels. Here are some shots of us putting together the panels.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/david_behind.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/david_behind.jpg" width="300" height="188">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/keith_at_work.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/keith_at_work.jpg" width="300" height="219">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/david_profile.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/david_profile.jpg" width="300" height="218">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+
+<p>And this is what it looked like layed out on the floor. Each night we would lay out the day's work as a little reward.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/layout_on_floor.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/layout_on_floor.jpg" width="300" height="236">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<p>Take a tour of the bathroom under construction.</p>
+<p>Take a tour of the bathroom almost finished.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/laundry.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/laundry.jpg" width="240" height="320">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/shower.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/shower.jpg" width="240" height="320">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/se_corner.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/se_corner.jpg" width="240" height="320">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/jacuzzi.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/jacuzzi.jpg" width="320" height="240">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/sw_corner.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/sw_corner.jpg" width="240" height="320">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/renovation/top_bathroom/sink.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/sink.jpg" width="320" height="240">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>

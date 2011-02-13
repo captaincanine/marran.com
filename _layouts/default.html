@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>{{ page.title }} | Keith Marran</title>
+   <meta name="author" content="Keith Marran" />
+   <link href="/atom.xml" rel="alternate" title="Keith Marran" type="application/atom+xml" />
+
+   <!-- Homepage CSS -->
+	<link rel="stylesheet" href="/css/base.css" type="text/css" />
+   <link rel="stylesheet" href="/css/layout.css" type="text/css" />
+   <link rel="stylesheet" href="/css/style.css" type="text/css" />
+   <link rel="stylesheet" type="text/css" href="/js/shadowbox-3.0.3/shadowbox.css">
+
+   <script type="text/javascript" src="/js/porter-stemmer.js"></script>
+   <script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+   <script type="text/javascript" src="/js/site-search.js"></script>
+   <script type="text/javascript" src="/js/shadowbox-3.0.3/shadowbox.js"></script>
+   <script type="text/javascript" src="/js/gallery-helper.js"></script>
+
+	<meta property="og:site_name" content="Keith Marran"/>
+	<meta property="og:title" content="{{ page.title }}"/>
+	{% if (page.description) %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
+	{% if (page.images) %}<meta property="og:image" content="{{ page.images[0] }}"/>{% endif %}
+	
+	<script type="text/javascript">
+		Shadowbox.init({
+			overlayOpacity: '0.9'
+		});
+	</script>
+
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-359180-1']);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+		 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+	
+	</script>
+	
+</head>
+<body>
+
+<div id="middle">
+	<div class="clearheader"></div>
+	<div id="middle-grad-top"></div>
+	<div id="middle-grad-bottom"></div>
+	<div class="page-bounds">
+		{{ content }}
+		<div class="clearfooter"></div>
+	</div>
+</div>
+
+<div id="header">
+
+	<div class="header-top page-bounds">
+		<div id="logo"><a href="/" title="Keith Marran's Home Page"><img src="/images/logo.png" alt="Keith Marran"></a></div>
+		<div id="navigation">
+			<div class="nav-section">
+				<a href="/blog" title="Blog">
+					<div class="nav-title">Blog</div>
+					<div class="nav-subtitle">Keith can think and write at the same time!</div>
+				</a>
+			</div>
+			<div class="nav-section">
+				<a href="/recipes" title="Recipes">
+					<div class="nav-title">Recipes</div>
+					<div class="nav-subtitle">All this and he cooks!</div>
+				</a>
+			</div>
+			<div class="nav-section">
+				<a href="/travel" title="Travel">
+					<div class="nav-title">Travel</div>
+					<div class="nav-subtitle">Does Keith have spilkes or what?</div>
+				</a>
+			</div>
+			<div class="nav-section">
+				<a href="/tech" title="Tech">
+					<div class="nav-title">Tech</div>
+					<div class="nav-subtitle">On occasion, Keith writes neat code.</div>
+				</a>
+			</div>
+		</div>
+	</div>
+	
+	<div id="search-bar">
+		<div class="page-bounds">
+			<div class="left">
+				<!-- AddThis Button BEGIN -->
+				<div class="addthis_toolbox addthis_default_style ">
+				<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d41e38b0a4b3b1e" class="addthis_button_compact">Share&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+				<a class="addthis_button_facebook"></a>
+				<a class="addthis_button_twitter"></a>
+				<a class="addthis_button_delicious"></a>
+				<a class="addthis_button_email"></a>
+				</div>
+				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d41e38b0a4b3b1e"></script>
+				<!-- AddThis Button END -->
+			</div>
+			<div class="right">
+				<form id="search" method="get">
+					<label for="search-text">Search</label>
+					<input type="text" name="search-text" id="search-text">
+				</form>
+			</div>
+		</div>
+		
+	</div>
+</div>
+
+<div id="footer">
+	<div class="page-bounds">
+		<div class="left">
+			® {{ site.time | date:'%Y' }} Keith Marran
+		</div>
+		<div class="right">
+			<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#107;&#101;&#105;&#116;&#104;&#64;&#109;&#97;&#114;&#114;&#97;&#110;&#46;&#99;&#111;&#109;">&#67;&#111;&#110;&#116;&#97;&#99;&#116;&#32;&#75;&#101;&#105;&#116;&#104;</a>
+		</div>
+	</div>
+</div>
+
+</body>
+</html>

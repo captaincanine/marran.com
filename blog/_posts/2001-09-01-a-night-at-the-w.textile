@@ -1,0 +1,65 @@
+--- 
+layout: post
+title: A Night at the W
+redirects: 
+- /node/536
+- /personal/blog/gogo/night-w
+tags: 
+- Gogo
+- renovation
+description: The first night of the fire, we had to stay at a hotel. Luckily, the W Hotel at Union Square accepted dogs.
+---
+<p>The first night of the fire, we had to stay at a hotel. Luckily, the W Hotel at Union Square accepted dogs.</p>
+<!--break-->
+
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Trying to get the little princess to calm down." target="_blank" href="/files/photos/w-hotel/on-the-floor.jpg">
+    <img class="journalPhoto" alt="Trying to get the little princess to calm down." src="/files/photos/w-hotel/on-the-floor.jpg" width="300" height="361">
+  </a>
+  
+  <div class="journalCaption">Trying to get the little princess to calm down.</div>
+</div>
+<p>The was Gogo's first experience with post-modern decorating and she was clearly tantalized by it. As soon as she got into the room, she started running around like a crazy person. I don't know if it had anything to do with the fact that the comforter was down, but when she jumped on the bed, she crouched down and started chewing aimlessly. Go figure.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Gogo distracted from chewing" target="_blank" href="/files/photos/w-hotel/bed-distracted.jpg">
+    <img class="journalPhoto" alt="Gogo distracted from chewing" src="/files/photos/w-hotel/bed-distracted.jpg" width="400" height="322">
+  </a>
+  
+  <div class="journalCaption">Gogo distracted from chewing</div>
+</div>
+<p>She did eventually calm down and the second night we actually felt refreshed when we woke up.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Gogo was suspicious of the mirror. She kept running behind it (it was freestanding and not connected to anything)." target="_blank" href="/files/photos/w-hotel/mirror.jpg">
+    <img class="journalPhoto" alt="Gogo was suspicious of the mirror. She kept running behind it (it was freestanding and not connected to anything)." src="/files/photos/w-hotel/mirror.jpg" width="400" height="187">
+  </a>
+  
+  <div class="journalCaption">Gogo was suspicious of the mirror. She kept running behind it (it was freestanding and not connected to anything).</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Relaxing. And thinking of breakfast." target="_blank" href="/files/photos/w-hotel/reclining.jpg">
+    <img class="journalPhoto" alt="Relaxing. And thinking of breakfast." src="/files/photos/w-hotel/reclining.jpg" width="400" height="245">
+  </a>
+  
+  <div class="journalCaption">Relaxing. And thinking of breakfast.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Gogo sticking her tongue out again" target="_blank" href="/files/photos/w-hotel/tongue.jpg">
+    <img class="journalPhoto" alt="Gogo sticking her tongue out again" src="/files/photos/w-hotel/tongue.jpg" width="400" height="345">
+  </a>
+  
+  <div class="journalCaption">Gogo sticking her tongue out again</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A shot of the room" target="_blank" href="/files/photos/w-hotel/whole-room.jpg">
+    <img class="journalPhoto" alt="A shot of the room" src="/files/photos/w-hotel/whole-room.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption">A shot of the room</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The extra fancy bathrooms at the W" target="_blank" href="/files/photos/w-hotel/bathroom.jpg">
+    <img class="journalPhoto" alt="The extra fancy bathrooms at the W" src="/files/photos/w-hotel/bathroom.jpg" width="400" height="300">
+  </a>
+  
+  <div class="journalCaption">The extra fancy bathrooms at the W</div>
+</div>

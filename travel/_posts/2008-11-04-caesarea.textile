@@ -1,0 +1,26 @@
+--- 
+layout: post
+title: Caesarea
+series: 
+  name: A Trip to Israel
+  index: 84
+redirects: 
+- /node/634
+- /personal/travel/israel/caesarea
+photoset: 72157608283953635
+tags: 
+- Israel
+images: 
+- thumbnail: http://farm4.static.flickr.com/3183/2964673039_f86d99cbc8_m.jpg
+  fullsize: http://farm4.static.flickr.com/3183/2964673039_f86d99cbc8_b.jpg
+description: I had the fortune of going to [w:Caesarea] two days in a row. The first visit was with David and our friend, Idit. She had decided to take us there to see some new films and exhibits that had been installed there and for lunch. She had been married at Caesarea, so it holds a special place in her heart.
+---
+I had the fortune of going to [w:Caesarea] two days in a row. The first visit was with David and our friend, Idit. She had decided to take us there to see some new films and exhibits that had been installed there and for lunch. She had been married at Caesarea, so it holds a special place in her heart.
+
+We saw some of the new exhibits and films about the area. They gave an excellent slice of history about the area and also gave you a sense of how huge the original location must have been. We were commenting after the exhibits how many people had come through and laid claim to the area over the past few thousand years. What's next or Caesarea? Does it stay in Jewish hands from now until forever? Will they have to update the films someday to talk about how the Martians landed there and took it for themselves? It's definitely a location that inspires to think about the passage of time in a grand scale.
+
+Idit treated us to a wonderful lunch on the water, watching fishermen out on the ancient remains of the rampart walls.
+
+The next day, I took a tour from the hotel that went up the western coast of Israel. Our first stop was Caesarea, but we saw a different side. We visited the stadium where a flautist was showing off the incredible acoustics. We saw the arena where they held chariot races. Overall, I don't think we were there more than an hour - and it's a huge site - so I'm glad I had some time during the preceding day to enjoy the site.
+
+<!-- [flickr-photoset:id=72157608283953635] -->

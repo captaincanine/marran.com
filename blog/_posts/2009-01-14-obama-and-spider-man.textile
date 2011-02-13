@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Obama & Spider-Man
+redirects: 
+- /node/649
+- /personal/blog/nyc/obama-sold-out
+tags: 
+- NYC
+- comic books
+images: 
+- thumbnail: http://farm4.static.flickr.com/3083/3197517045_78b840de64_m.jpg
+  fullsize: http://farm4.static.flickr.com/3083/3197517045_57246ddec2_o.jpg
+description: Marvel comics has been doign a great job of creating marketing events over the past year or so - which is good because they haven't focused on creating great comic books. This week, on the cover of "The Amazing Spider-Man", is Barack Obama. For some reason, this is a really big deal. Apparently there's a mini-story in the book involving Spider-Man and Obama. I'm happy for the author, who I think has been one of the more under-rated comic book authors in the past few years. I'm doing him a service by not reading his comics anymore, because whenever I start reading them, they get canceled.
+---
+Marvel comics has been doign a great job of creating marketing events over the past year or so - which is good because they haven't focused on creating great comic books. This week, on the cover of "The Amazing Spider-Man", is Barack Obama. For some reason, this is a really big deal. Apparently there's a mini-story in the book involving Spider-Man and Obama. I'm happy for the author, who I think has been one of the more under-rated comic book authors in the past few years. I'm doing him a service by not reading his comics anymore, because whenever I start reading them, they get canceled. Plus, I'm not that big of a Spider-Man fan.
+
+Anyway, comic book stores have been sold out for over a week and it just got released today. There are all sorts of notices at comic book stores to pre-order and that you are limited to one copy per customer. Maybe someday I'll grumble when I see collector's editions of this issue going for thousands of dollars. But for now, I don't really care.
+
+I keep digressing. This morning I went to my local comic book store. They had only been open an hour and they had already posted a sign on their front door that they were sold out of the Obama issue. And what's even more impressive, is that someone had <em>already</em> put graffiti on the sign. 
+
+I'll let the photo speak for itself. 
+
+New York cracks me up.
+
+{{ "http://farm4.static.flickr.com/3083/3197517045_57246ddec2_o.jpg" | format_photo }}

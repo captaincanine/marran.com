@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Too Many Coffee Shops
+redirects: 
+- /node/629
+- /personal/blog/nyc/too-many-coffee-shops
+tags: 
+- NYC
+- food
+images: 
+- thumbnail: http://farm4.static.flickr.com/3043/2944105369_3c3e3814c2_m.jpg
+  fullsize: http://farm4.static.flickr.com/3043/2944105369_3c3e3814c2_b.jpg
+description: "Many years ago, I complained regular to anyone who would listen about the horrible state of espresso drinks in New York City. You only had a few choices: Starbucks, Your Local Deli, and restaurants. There were a few places in the village or Little Italy where you could maybe get a decent espresso, but you couldn't count on getting the good barrista on any given day - and without a good operator, you can only go so far."
+---
+Many years ago, I complained regular to anyone who would listen about the horrible state of espresso drinks in New York City. You only had a few choices: Starbucks, Your Local Deli, and restaurants. There were a few places in the village or Little Italy where you could maybe get a decent espresso, but you couldn't count on getting the good barrista on any given day - and without a good operator, you can only go so far. 
+
+I was so vocal about it, that someone forwarded me an article about why the espresso will never be good in NYC (the water has low calcium content) and the author's efforts to find a decent cup of espresso. He had the same comments I had - maybe your could find a good one here and there, but eventually the work would be handed off to a newbie barrista and the skill would be lost.
+
+This past week, I noticed that things have changed. The city is turning into Seattle. There are quaint little mom-and-pa coffee places everywhere now. There used to not be any local coffee choices in my neighborhood, now there are two great ones within a couple of blocks: Grumpy's Cafe and Irving Coffee Company. Then, just yesterday, I saw them putting up a new independent coffee place on Greenwich:
+
+{{ "http://farm4.static.flickr.com/3043/2944105369_3c3e3814c2_b.jpg" | format_photo }}
+
+Hallelujah. The Starbuck's locations are dwindling and these independent cafes are on the rise. Finally. Now maybe we can start thinking about adding bookstores back to the city.

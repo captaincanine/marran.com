@@ -1,0 +1,42 @@
+--- 
+layout: recipe
+title: Ultimate Chocolate Chip Cookies
+ingredients: 
+- cookies
+- chocolate
+redirects: 
+- /node/499
+- /personal/recipes/dish/desserts/ultimate-chocolate-chip-cookies
+dish: desserts
+description: Here it is! The truly great chocolate chip cookie recipe. Rumored to me to originally have been the template for the cookies sold by one of those fancy New York Department stores. I can't divulge my source (mainly because I don't remember it), but here it is, pared down to workable size for you to enjoy!
+---
+Here it is! The truly great chocolate chip cookie recipe. Rumored to me to originally have been the template for the cookies sold by one of those fancy New York Department stores. I can't divulge my source (mainly because I don't remember it), but here it is, pared down to workable size for you to enjoy!
+<!--break-->
+In a food processor or blender, combine the following:
+
+2 cup unbleached flour
+2 cups oatmeal
+1 teaspoons baking soda
+1 teaspoons salt
+1 teaspoons baking powder
+
+Process the dry ingredients for 1-2 minutes, or until the oatmeal is ground to a fine powder.
+
+In a mixer, cream the following:
+
+1 cup butter
+1 cup white sugar
+1 cup brown sugar
+
+Add the following and beat on medium high until blended:
+
+2 eggs
+1 tablespoon vanilla
+
+Gradually add the dry ingredients to the batter on low speed. Fold in the following:
+
+12 oz milk chocolate chips (one bag)
+6 oz semi-sweet chocolate chips
+1 cup chopped walnuts (very optional)
+
+Line your baking sheets with parchment paper and drop the cookie dough onto the paper. Bake as usual, at about 350° for roughly 10 minutes depending on the size of your cookies.

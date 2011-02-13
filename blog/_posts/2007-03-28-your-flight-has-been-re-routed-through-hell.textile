@@ -1,0 +1,31 @@
+--- 
+layout: post
+title: Your Flight Has Been Re-routed Through Hell
+redirects: 
+- /node/419
+- /personal/travel/your-flight-has-been-re-routed-through-hell
+tags: 
+- travel
+description: We've all heard the horror stories of people being stuck in airports for days because their flights were delayed. Somehow, it never really sunk in how bad that would be. I guess it was too far removed from my own experience.
+---
+We've all heard the horror stories of people being stuck in airports for days because their flights were delayed. Somehow, it never really sunk in how bad that would be. I guess it was too far removed from my own experience.
+
+Last week I visited my Mom and Dad in Oregon. Mom just had knee replacement surgery, so I went out to be helpful. Unfortunately, I wasn't so helpful because I had a major site launch to finish and the day before I went home, I threw my back out. I guess I had not been too careful in terms of sitting in the office chair with good posture - combined with helping Mom move things around the house. So I went to the Portland airport with a bad back, thinking I would be home soon enough and could see someone to help me fix it. Then the following chain of events happened:
+<ul>
+	<li>The flight was delayed by several hours leaving Portland. I had to connect in Chicago and was worried about missing my connection. They told me that all flights were on hold, so I should make my connection fine.</li>
+	<li>When we got to Chicago, they put us in a holding pattern.</li>
+	<li>Then they said that they couldn't land in Chicago due to weather (it didn't seem bad at all - a few scattered clouds), so they were going to take us to Indianapolis.</li>
+	<li>We landed at Indianapolis and they made us sit on the tarmac for an hour.</li>
+	<li>We got off the plane and stood in line for an hour to get hotel rooms. At this point, it was 1am.</li>
+	<li>I got to the hotel, which I nicknamed "Hotel de Standing Water". It smelled of mold, was remote, and had some sort of weird heated indoor pool area from the 1950s. It had the air of some creepy middle-of-nowhere hotel that you see in horror films. I expected to see someone in a halloween mask holding a machete.</li>
+	<li>Four hours after getting to my room, I got up, showered, and packed.</li>
+	<li>Stood in line for an hour at check-in.</li>
+	<li>Waited at the gate for two hours past the departure time. While this was happening, all of the scheduled flights (including one to Chicago!) left on time.</li>
+	<li>Sat in the plane for another hour. They counted all the passengers 4 times. Apparently they were confused as to how many people were on the flight and couldn't get the computer to agree. At this point, I was trying to console myself that I might not get home and may have to spend another night in a hotel. I was just hoping that it would be Chicago and not Indianapolis.</li>
+	<li>Got to Chicago and, of course, the flight to New York was delayed. But only by an hour!</li>
+</ul>
+By the time I got home, I almost felt like crying - both from relief and because my back was killing me. Thirty hours of lines, airplanes, and carrying luggage is not the best remedy for back problems. I couldn't even stand up straight.
+
+Now when I hear reports that people have been stuck in airports for days, I can't even comprehend what that must be like. It took me about 30 hours to get from Portland, Oregon to NYC and it seemed like an eternity.
+
+I think the lesson to be learned here is to not travel over spring break. I think that was the main problem. The weather was not so bad, but there were so many flights at full capacity that when there was a bit of a delay, all hell broke loose.

@@ -1,0 +1,79 @@
+--- 
+layout: post
+title: Sienna
+series: 
+  name: Tuscany
+  index: 35
+redirects: 
+- /node/587
+- /personal/travel/tuscany/sienna
+tags: 
+- Tuscany
+description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a couple of people told me that they thought Sienna to be one of the most beautiful cities they've ever been to. It certainly ranks quite high. We set today to be almost exclusively dedicated to Sienna. There's a breathtaking cathedral, wonderul shops, local cuisine, and great history.
+---
+<p>Although I'd be hard-pressed to pick a favorite city in Tuscany, a couple of people told me that they thought Sienna to be one of the most beautiful cities they've ever been to. It certainly ranks quite high. We set today to be almost exclusively dedicated to Sienna. There's a breathtaking cathedral, wonderul shops, local cuisine, and great history.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Starting the day off right with a cappucino" target="_blank" href="/files/photos/tuscany/sienna_morning.jpg">
+    <img class="journalPhoto" alt="Starting the day off right with a cappucino" src="/files/photos/tuscany/sienna_morning.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">Starting the day off right with a cappucino</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Sienna is a sister city with Rome, so we saw several images of Romulus and Remus (the supposed founders of Rome) feeding from a wolf. Here are several images of the main square." target="_blank" href="/files/photos/tuscany/sienna_wolf.jpg">
+    <img class="journalPhoto" alt="Sienna is a sister city with Rome, so we saw several images of Romulus and Remus (the supposed founders of Rome) feeding from a wolf. Here are several images of the main square." src="/files/photos/tuscany/sienna_wolf.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">Sienna is a sister city with Rome, so we saw several images of Romulus and Remus (the supposed founders of Rome) feeding from a wolf. Here are several images of the main square.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The main square in Sienna. It's much larger in person. I could only capture about half of it." target="_blank" href="/files/photos/tuscany/sienna_piazza.jpg">
+    <img class="journalPhoto" alt="The main square in Sienna. It's much larger in person. I could only capture about half of it." src="/files/photos/tuscany/sienna_piazza.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">The main square in Sienna. It's much larger in person. I could only capture about half of it.</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Fonte Gaia in the main piazza" target="_blank" href="/files/photos/tuscany/sienna_fonte_gaia.jpg">
+    <img class="journalPhoto" alt="Fonte Gaia in the main piazza" src="/files/photos/tuscany/sienna_fonte_gaia.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">Fonte Gaia in the main piazza</div>
+</div>
+<p>I know I said that the cathedral at Pisa was incredible. Well, the cathedral in Sienna was incredible, too. There's something about Sienna that feels "lived in". In some ways, you could see yourself living in Sienna i na way that you can't imagine yourself in other cities. And on the other hand, there are ways in which you realize that you could never belong to Sienna because it only belongs to its locals.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The exterior of the Duomo" target="_blank" href="/files/photos/tuscany/sienna_duomo_ext.jpg">
+    <img class="journalPhoto" alt="The exterior of the Duomo" src="/files/photos/tuscany/sienna_duomo_ext.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">The exterior of the Duomo</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The interior of the Duomo" target="_blank" href="/files/photos/tuscany/sienna_duomo_int.jpg">
+    <img class="journalPhoto" alt="The interior of the Duomo" src="/files/photos/tuscany/sienna_duomo_int.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">The interior of the Duomo</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Intricate stone work was all over the floor" target="_blank" href="/files/photos/tuscany/sienna_duomo_floor.jpg">
+    <img class="journalPhoto" alt="Intricate stone work was all over the floor" src="/files/photos/tuscany/sienna_duomo_floor.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">Intricate stone work was all over the floor</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A view of the library in the Duomo. Once again, this is a small fraction of the whole room." target="_blank" href="/files/photos/tuscany/sienna_duomo_lib.jpg">
+    <img class="journalPhoto" alt="A view of the library in the Duomo. Once again, this is a small fraction of the whole room." src="/files/photos/tuscany/sienna_duomo_lib.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">A view of the library in the Duomo. Once again, this is a small fraction of the whole room.</div>
+</div>
+<p>This was a good place for tourist tchotchkes. It was also a good place for local food. One of my favorite recipes is a Sienna Tart that I got from one of my first cookbooks. It's based on "panforte" from Sienna. We bought several to give to friends and eat for ourselves. For lunch we ate at a local place. I don't think I mentioned this before, Sienna is very hilly. We got quite a workout walking around this city. You can see how they've levelled the tables and chairs for the outdoor seating in this restaurant.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/tuscany/sienna_lunch.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/tuscany/sienna_lunch.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>

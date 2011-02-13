@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: A New Photography Class
+redirects: 
+- /node/620
+- /personal/blog/photography/new-photography-class
+photoset: 72157607677628649
+tags: 
+- NYC
+- photography
+- learning
+images: 
+- thumbnail: http://farm4.static.flickr.com/3281/2908282238_3244cb13c1_m.jpg
+  fullsize: http://farm4.static.flickr.com/3281/2908282238_3244cb13c1_b.jpg
+description: I came home from Israel with several goals. Most of the fitness goals are well in progress. I had also decided it was time to take a new class. I loved the photography class that I took at NYU, so I looked for a new class along those lines. I narrowed it down to a photographic lighting class and a portrait class. The lighting class seemed to have a more broader application, so I signed up for that.
+---
+I came home from Israel with several goals. Most of the fitness goals are well in progress. I had also decided it was time to take a new class. I loved the photography class that I took at NYU, so I looked for a new class along those lines. I narrowed it down to a photographic lighting class and a portrait class. The lighting class seemed to have a more broader application, so I signed up for that.
+<!--break-->
+
+We've had 2 out of 10 classes. The class is great. 
+
+My previous teacher definitely taught along the lines of "rules" - such as not to go over 800 ISO on the camera. Having those rules definitely helped me understand how to make better photographs and why one would make certain decisions. The new teacher, Don Penny, is the opposite type of teacher. One of the first photos he took in class was at an ISO of 1250. His basic philosophy is to first get the shot. He said there were photographers in the 70's that <em>always</em> shot at a high ISO because they wanted "grain the size of golf balls in their film".
+
+So the class is much more experimental and free-spirited. 
+
+In the first class he showed us a technique for checking our white balance. I had one of those "ah-ha" moments as I have occasionally had a whole batch of photos with a bluish tint that I just couldn't figure out why. Now I know why and how to fix it.
+
+Why set up several lights in the class, took photos of each other, and compared the quality of the light on the subjects. It was amazingly fun and educational. He also knew the rough prices of all the equipment should we decide we're redy to start setting up a studio.
+
+Our first assignment was to take photos in three different lighting situations: in noon-time sun, during the "magic hour" (see <a href="http://en.wikipedia.org/wiki/Golden_hour_(photography)" target="_blank">http://en.wikipedia.org/wiki/Golden_hour_(photography)</a>), and indoors where we control the lighting.
+
+Here's my homework. I actually only showed the 8 best at class, but I posted a slightly larger set on flickr.
+
+<!-- [flickr-photoset:id=72157607677628649] -->

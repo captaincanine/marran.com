@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: Last Day in Milan
+series: 
+  name: To Milan and the Lake Region
+  index: 109
+redirects: 
+- /node/666
+- /personal/travel/italy/last-day-milan
+photoset: 72157619651987564
+tags: 
+- Italy
+images: 
+- thumbnail: http://farm4.static.flickr.com/3627/3619515335_75cb6a4a80_m.jpg
+  fullsize: http://farm4.static.flickr.com/3627/3619515335_75cb6a4a80_b.jpg
+description: "Well, it was the last day in Milan. Part of this trip was an effort to escape the madness of the renovation, and in that sense, the trip was a total winner. I feel like I've \"done\" Milan, though I would never pass up any chance to visit Italy again. But I feel like there was a lot of the surrounding area that I would love to come back and explore: Lake Como and Verona are two biggies. I could imagine spending at least a week, casually bopping from one small town to the next."
+---
+Well, it was the last day in Milan. Part of this trip was an effort to escape the madness of the renovation, and in that sense, the trip was a total winner. I feel like I've "done" Milan, though I would never pass up any chance to visit Italy again. But I feel like there was a lot of the surrounding area that I would love to come back and explore: Lake Como and Verona are two biggies. I could imagine spending at least a week, casually bopping from one small town to the next.
+
+On my last day, I visited Castello Sforzesco. The castle is impressive, though there's not a lot to see. David joined me in the afternoon. I took him to the castle and then we went shopping.
+
+Shopping! Finally!
+
+It is stunning to wander around Milan and look at the fashions. However, I live in New York City. There isn't that much that you can get in Milan that you can't find in NYC. And with the exchange rate, you certainly aren't getting any bargains. And finally, I didn't really connect with anything. There were some things in the Etro store that I liked (I finally made it in), but the stuff that I liked was marked "slim fit" and I didn't even want to bother with the disappointment of how far away from "slim" I am. Widt-wise, the salesman was on par with a street lamp. So I decided to forgo a Milan purchase. However, I did enjoy talking David into getting something nice at the Zegna store.
+
+That evening, we went to dinner with a colleague of David's from Amsterdam. We had a wonderful meal at the highest recommended restaurant in Milan (by the guide book): Trattorio Milanese. It was excellent. The whole meal tasted like it was made by the Italian grandmother I never had. Perhaps it was also the quality of the company.
+
+It turns out that I picked the same restaurant that our friend's wife's department picked, so we got to meet some others from Amsterdam. We got an invitation to visit which I certainly hope will become something more than an idle nicety.
+
+Ah...Milan, I will miss you.
+
+And FYI - not only was it a good break from the renovation, since I've been back, it's been much easier to deal with the renovation, so I think we can say that Milan has <strong>cured</strong> me.
+
+<!-- [flickr-photoset:id=72157619651987564] -->

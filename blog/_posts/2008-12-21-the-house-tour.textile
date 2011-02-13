@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: The House Tour
+series: 
+  name: The House Tour
+  index: 91
+redirects: 
+- /node/642
+- /personal/blog/house/house-tour
+tags: 
+- house
+description: If you want a virtual tour of the house, this is the place to start.When we bought it, it was the Bowery Mission Women's Home. Even though it's been privately owned for 8 years now, we still occasionally get visitors to the house hoping that it's still a mission home. Sad, I know.You can start with the pictures of what the house looked like before we got it, and then move on to the finished product. And one of these days, I'll take new photos of what it looks like now.
+---
+If you want a virtual tour of the house, this is the place to start.
+
+When we bought it, it was the Bowery Mission Women's Home. Even though it's been privately owned for 8 years now, we still occasionally get visitors to the house hoping that it's still a mission home. Sad, I know.
+
+You can start with the pictures of what the house looked like before we got it, and then move on to the finished product. And one of these days, I'll take new photos of what it looks like now.

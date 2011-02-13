@@ -1,0 +1,85 @@
+--- 
+layout: post
+title: "Friday: Cavaillon, Carpentras, and Gordes"
+series: 
+  name: Travel to the South of France
+  index: 53
+redirects: 
+- /node/568
+- /personal/travel/provence/friday-cavaillon-carpentras-and-gordes
+tags: 
+- Provence
+description: Today, there was more touring of Provence. We started off going to Cavaillon to see a cathedral and a synagogue. The cathedral and cloister were beautiful and the synagogue was a highlight. When we arrived, the museum attendant said that in order to see the synagogue (which is one average sized room), we had to get the tour. However, she spoke only French. David said to her in French (in a friendly and joking manner), "You're in a synagogue, we should be able to speak Hebrew." She replied with, "You're
+---
+<p>Today, there was more touring of Provence. We started off going to Cavaillon to see a 
+cathedral and a synagogue. The cathedral and cloister were beautiful and the synagogue 
+was a highlight. When we arrived, the museum attendant said that in order to see the 
+synagogue (which is one average sized room), we had to get the tour. However, she 
+spoke only French. David said to her in French (in a friendly and joking manner), 
+"You're in a synagogue, we should be able to speak Hebrew." She replied with, "You're 
+in France, you should be able to speak French." Anyway, she gave us a 40-minute tour of 
+the synagogue to us and one other woman that was occasionally able to translate. 
+However, David's French turned out to be eerily good, and he was able to communicate 
+excellently. In fact, he translated some of the Hebrew in the synagogue for them. She 
+gave us much more than a tour of the synagogue - she went into great detail about the 
+lives and the history of the Jews throughout all of Provence.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The apse of Ancienne Cathédrale Notre-Dame-et-St-Véran" target="_blank" href="/files/photos/provence/cavaillon.jpg">
+    <img class="journalPhoto" alt="The apse of Ancienne Cathédrale Notre-Dame-et-St-Véran" src="/files/photos/provence/cavaillon.jpg" height="600" width="600">
+  </a>
+  
+  <div class="journalCaption">The apse of Ancienne Cathédrale Notre-Dame-et-St-Véran</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The synagogue at Cavaillon" target="_blank" href="/files/photos/provence/synagogue_1.jpg">
+    <img class="journalPhoto" alt="The synagogue at Cavaillon" src="/files/photos/provence/synagogue_1.jpg" height="800" width="600">
+  </a>
+  
+  <div class="journalCaption">The synagogue at Cavaillon</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="" target="_blank" href="/files/photos/provence/synagogue_2.jpg">
+    <img class="journalPhoto" alt="" src="/files/photos/provence/synagogue_2.jpg" height="450" width="600">
+  </a>
+  
+  <div class="journalCaption"></div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Elijah's Chair" target="_blank" href="/files/photos/provence/synagogue_chair.jpg">
+    <img class="journalPhoto" alt="Elijah's Chair" src="/files/photos/provence/synagogue_chair.jpg" height="534" width="400">
+  </a>
+  
+  <div class="journalCaption">Elijah's Chair</div>
+</div>
+<p>Next was Carpentras, which is known for an excellent Friday market. The whole town is 
+transformed into a giant open market with meats, cheeses, produce, clothes, honey, 
+lavender, etc. We caught the very end of the market and had lunch. I found an excellent 
+patisserie that had canelles, which I've heard of, but have never tried. We bought some 
+things to take with us for later in the afternoon as well as some gifts. There was a 
+beautiful cathedral that we visited before heading on.</p>
+<p>Next was Gordes, which is another ueber-quaint, medieval, walled city high on a hill. 
+They specialize in mortarless fences and houses, but we didn't go for the real tour. We 
+walked around, had our pastries (a real macaroon, a real florentin, and a real canelé), had 
+some coffee, and then headed back to Aix.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A view of Gordes" target="_blank" href="/files/photos/provence/gordes.jpg">
+    <img class="journalPhoto" alt="A view of Gordes" src="/files/photos/provence/gordes.jpg" height="450" width="600">
+  </a>
+  
+  <div class="journalCaption">A view of Gordes</div>
+</div>
+<p>On the way back to Aix we made a brief stop in Lacoste to visit the Marquis de Sade's 
+chateau. It was heavily ruined, but we got a cheap thrill out of being able to say, "We 
+visited the Marquis de Sade's chateau."</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Chateau of the Marquis de Sade" target="_blank" href="/files/photos/provence/marquis_de_sade.jpg">
+    <img class="journalPhoto" alt="The Chateau of the Marquis de Sade" src="/files/photos/provence/marquis_de_sade.jpg" height="450" width="600">
+  </a>
+  
+  <div class="journalCaption">The Chateau of the Marquis de Sade</div>
+</div>
+<p>For dinner, we went to a restaurant that is featured in one of Peter Mayles' books about 
+Provence. It was very homey, rustic-very provincial. David had better luck ordering, his 
+meal was heart-stoppingly good, while mine was only wonderful. We stumbled back to 
+the hotel room drunk-well, not exactly stumbled, but we were giggly and silly. It was 
+our last night in Aix.</p>

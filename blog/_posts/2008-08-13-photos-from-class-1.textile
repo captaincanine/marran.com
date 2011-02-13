@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: Photos from Class 1
+redirects: 
+- /node/503
+- /personal/blog/photography/photos-class-1
+photoset: 72157605986831496
+tags: 
+- NYC
+- photography
+images: 
+- thumbnail: http://farm4.static.flickr.com/3275/2639125988_92c91b121d_m.jpg
+  fullsize: http://farm4.static.flickr.com/3275/2639125988_92c91b121d_b.jpg
+description: It took me a while to post these, but here are photos from our first photo walk. We took a stroll around Grand Central Station and the Chrysler Building. Our instructor, Emmanuel, would give us little assignments - such as "set your shutter speed to 1/250 and give me a reading as to what the aperture should be". On some assignments, he gave us all the settings and just told us to take pictures. That allowed us to see how the settings affected the quality of the photo and also to allow us to focus on composition.
+---
+It took me a while to post these, but here are photos from our first photo walk. We took a stroll around Grand Central Station and the Chrysler Building. Our instructor, Emmanuel, would give us little assignments - such as "set your shutter speed to 1/250 and give me a reading as to what the aperture should be". On some assignments, he gave us all the settings and just told us to take pictures. That allowed us to see how the settings affected the quality of the photo and also to allow us to focus on composition. 
+
+We did one exercise at a construction site. The light was catching the bright yellow equipment in an interesting way, so we tried to capture that quality. A family passed by staring at us in confusion. I heard the wife say "it's a photography class" and the husband responded with "yeah, but what the hell are they taking a picture of?"
+
+At another point, we were right across the street from the Chrysler building. Emmanuel pointed out that the Chrysler building was reflected in the plain building across the street. The class immediately looked away from the Chrysler building and started taking photos of the reflection. A few tourists were completely baffled as to what we were taking pictures of and kept scanning the building for something interesting.
+
+My photos from this session varied wildly from good to awful. I really wasn't happy with any of them when I got home and was dreading the critique at the next class. However, I was happy with the critique I got. I think my expectations were too high for the first class.
+
+<!-- [flickr-photoset:id=72157605986831496] -->

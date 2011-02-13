@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: "Gogo\xE2\x80\x99s 2nd Surgery"
+redirects: 
+- /node/376
+- /personal/blog/gogo/gogo-s-2nd-surgery
+tags: 
+- Oz
+- Gogo
+images: 
+- thumbnail: http://farm4.static.flickr.com/3130/2298710259_4cffd210ce_m.jpg
+  fullsize: http://farm4.static.flickr.com/3130/2298710259_4cffd210ce_b.jpg
+description: For those that don't know, Gogo has floating patellas - which means that her knee caps don't stay where they should. We had one of the knees fixed last September. The recovery was pretty bad (she just laid there and cried the saddest sound in the world for the first two days), but she moved much better afterwards. Well, the other knee started showing signs of problems and her movement started to go down again, so we scheduled to have the other knee done. I took a picture of her inncoently sleeping this morning, unaware that she was scheudled to go in for surgery.
+---
+For those that don't know, Gogo has floating patellas - which means that her knee caps don't stay where they should. We had one of the knees fixed last September. The recovery was pretty bad (she just laid there and cried the saddest sound in the world for the first two days), but she moved much better afterwards. Well, the other knee started showing signs of problems and her movement started to go down again, so we scheduled to have the other knee done. I took a picture of her inncoently sleeping this morning, unaware that she was scheudled to go in for surgery.
+
+{{ "http://farm4.static.flickr.com/3130/2298710259_4cffd210ce_b.jpg" | format_photo }}
+
+She woke up soon after the camera flash started going off and was a little ticked off about it.
+
+{{ "http://farm4.static.flickr.com/3130/2298710259_4cffd210ce_b.jpg" | format_photo }}
+
+She didn't seem too bothered once we got her leash and took her out. And even at the Animal Hospital, she wasn't freaking out like I thought she would be. She did poop as soon as we walked into the hospital, but that was more my fault for not giving her enough time out on the street.
+
+So now I'm at home and Oz and I are whimpering until Gogo gets home. I think Oz is more traumatized than I am by the absence of Gogo. I keep trying to focus on the fact that this will be over soon and she'll be able to run and play more without pain. It's hard to see the forest for the trees right now, though.

@@ -1,0 +1,14 @@
+--- 
+layout: post
+title: The Bowery Mission Women's Home
+series: 
+  name: The House Tour
+  index: 73
+redirects: 
+- /node/511
+- /personal/house/pre-renovation/bowery-mission-womens-home
+tags: 
+- pre-renovation
+description: Here are photos of what our house looked like before we gutted it. I wish I had kept the original photos. These web versions seem quite small now. But alas, I can't find the large versions anywhere.
+---
+Here are photos of what our house looked like before we gutted it. I wish I had kept the original photos. These web versions seem quite small now. But alas, I can't find the large versions anywhere.

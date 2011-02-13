@@ -1,0 +1,27 @@
+--- 
+layout: post
+title: Dream Donuts
+redirects: 
+- /node/418
+- /personal/blog/food/dream-donuts
+tags: 
+- food
+images: 
+- thumbnail: http://farm3.static.flickr.com/2026/1674158220_42a22e1f9b_m.jpg
+  fullsize: http://farm3.static.flickr.com/2026/1674158220_42a22e1f9b.jpg
+description: "I'm always looking for an excuse to make donuts. I love donuts and I think they're highly underrated. I want to really experiment with donuts and make some fun ones.\r\rSo I'm planning a donut tasting party. I want to come up with several different recipes to try out on people. So here's what I'm thinking of:"
+---
+I'm always looking for an excuse to make donuts. I love donuts and I think they're highly underrated. I want to really experiment with donuts and make some fun ones.
+
+So I'm planning a donut tasting party. I want to come up with several different recipes to try out on people. So here's what I'm thinking of:
+<!--break-->
+<ul>
+	<li><strong>Vanilla Donuts</strong> - I'm going to use the family recipe from Grandma Fern</li>
+	<li><strong>Raspberry Donuts</strong> - Same recipe as above, but using raspberry glaze</li>
+	<li><strong>Pistachio Spice</strong> - One of my favorite aspects of donuts is that bread-y, cinnamon, goodness. This recipe will combine middle-eastern spices with pistachios in a cake donut.</li>
+	<li><strong>Chocolate Banana Cream</strong> - I love chocolate and banana together. For this, I'll make a banana cream to inject in the center of the donut and put chocolate glaze on the outside.</li>
+	<li><strong>Tangerine Filled</strong> - I wanted to do one curd-filled recipe. I keep waffling between tangerine and grapefruit. For this, I was going to use a brioche dough for the donut.</li>
+	<li><strong>Strawberry Filled</strong> - Same recipe as above, but using a jam. Strawberry is the classic filling. Maybe I'll use blackberry instead since I think it's an under-rated flavor.</li>
+	<li><strong>Chocolate Cake</strong> - I think I need another cake donut, and I'm missing some chocolate. Maybe I'll make it Mexican chocolate for fun.</li>
+</ul>
+If you have any ideas for flavors, please let me know. I'd love some ideas or feedback on the flavors.

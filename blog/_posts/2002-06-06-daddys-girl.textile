@@ -1,0 +1,34 @@
+--- 
+layout: post
+title: Daddy's Girl
+redirects: 
+- /node/537
+- /personal/blog/gogo/daddys-girl
+tags: 
+- Gogo
+description: There's just no denying that Gogo knows how to show favoritism. Although I'm usually the one that gets attention, Gogo definitely knows how to snuggle up to David and say "I'm a Daddy's Girl!"
+---
+<p>There's just no denying that Gogo knows how to show favoritism. Although I'm usually the one that gets attention, Gogo definitely knows how to snuggle up to David and say "I'm a Daddy's Girl!"</p>
+<!--break-->
+
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The Hard Life" target="_blank" href="/files/photos/gogo/The-Hard-Life.jpg">
+    <img class="journalPhoto" alt="The Hard Life" src="/files/photos/gogo/The-Hard-Life.jpg" width="300" height="400">
+  </a>
+  
+  <div class="journalCaption">The Hard Life</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Snuggling in Bed" target="_blank" href="/files/photos/gogo/daddys_girl-1.JPG">
+    <img class="journalPhoto" alt="Snuggling in Bed" src="/files/photos/gogo/daddys_girl-1.JPG" width="400" height="374">
+  </a>
+  
+  <div class="journalCaption">Snuggling in Bed</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="Kisses" target="_blank" href="/files/photos/gogo/David_%20Kissy_Gogo-1.jpg">
+    <img class="journalPhoto" alt="Kisses" src="/files/photos/gogo/David_%20Kissy_Gogo-1.jpg" width="280" height="400">
+  </a>
+  
+  <div class="journalCaption">Kisses</div>
+</div>

@@ -1,0 +1,30 @@
+--- 
+layout: post
+title: I've Got Kitsch in My Heart
+redirects: 
+- /node/676
+- /personal/blog/music/ive-got-kitsch-my-heart
+tags: 
+- music
+images: 
+- thumbnail: http://farm5.static.flickr.com/4003/4268504359_5053006653_m.jpg
+  fullsize: http://farm5.static.flickr.com/4003/4268504359_cd7819dcee_o.jpg
+description: This was my second attempt at making a CD mix. I really felt like I hit my stride on this one. I borrowed lots of film clips "Beyond the Valley of the Dolls" and "Blood Sucking Freaks". And the music is a bit more focused - clearly hitting more of the late 60's and 70's psychedelia.
+---
+This was my second attempt at making a CD mix. I really felt like I hit my stride on this one. I borrowed lots of film clips "Beyond the Valley of the Dolls" and "Blood Sucking Freaks". And the music is a bit more focused - clearly hitting more of the late 60's and 70's psychedelia.
+<!--break-->
+Once upon a time, I had plans for a third one "I See Kitsch With My Third Eye" that would focus primarily on Bollywood music from the 60's and 70's. We'll see if that ever materializes.
+
+Like my other mixes, this music doesn't work well out of context. It's meant to be listened form start to finish - not randomly. And be sure that the files are marked for gapless playback. There are lots of fade ins and fade outs that don't work if there's a gap in playback.
+
+<div class="download-box">
+  <div class="icon">
+    <a href="http://www.marran.com/files/music-cds/I've%20Got%20Kitsch%20in%20My%20Heart.zip" target="_blank"></a>
+  </div>
+  <div class="title">
+    <a href="http://www.marran.com/files/music-cds/I've%20Got%20Kitsch%20in%20My%20Heart.zip" target="_blank">Download "I've Got Kitsch in My Heart"</a>
+  </div>
+  <div class="details">
+    82.2MB
+  </div>
+</div>

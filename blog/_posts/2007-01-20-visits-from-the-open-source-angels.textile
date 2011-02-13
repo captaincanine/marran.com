@@ -1,0 +1,25 @@
+--- 
+layout: post
+title: Visits from the Open Source Angels
+redirects: 
+- /node/406
+- /business/blog/open-source/visits-open-source-angels
+tags: 
+- blog
+- open source
+- unix
+- ruby on rails
+images: 
+- thumbnail: http://farm1.static.flickr.com/33/56944752_0ddecad0f8_m.jpg
+  fullsize: http://farm1.static.flickr.com/33/56944752_0ddecad0f8_b.jpg
+description: Some angels visited me in a dream and told me to get off my Microsoft high horse. They told me to go to http://www.rubyonrails.com. I think I may have seen the light. I was getting really tired of the .NET framework being either ridiculously high-level with widgets that made your page look and act like a dorky .NET site or ridiculously low-level where you had to write a bunch of code for pretty standard database/middle-tier transactions.
+---
+Some angels visited me in a dream and told me to get off my Microsoft high horse. They told me to go to <a target="_blank" rel="nofollow" href="http://www.rubyonrails.com/">http://www.rubyonrails.com</a>. I think I may have seen the light. I was getting really tired of the .NET framework being either ridiculously high-level with widgets that made your page look and act like a dorky .NET site or ridiculously low-level where you had to write a bunch of code for pretty standard database/middle-tier transactions. In this day and age, why should developers have to hand-write the code for moving simple form data to and from business objects and then to the database? It was all just seeming really tedious. Ruby on Rails (at first glance) does an excellent job of managing all that tedious code so you can write relatively clear, readable logic.
+
+So after getting excited about open-source web development, that led me down the obvious path of full open source-ness: Linux, mySQL, Ruby on Rails. Or perhaps just go buy a Mac which has Ruby on Rails installed already. I started to investigate Linux about a year ago and when I got to the part of the article that said: "the hardest part is tracking down all the Linux drivers for your computer" - I ran screaming. I know that you can get Ruby on Rails and mySQL on Windows, but I did that for PHP and I get an error on my server every time I have to use it.
+
+I was able to create a Virtual PC and installed Linux (I used Ubuntu), mySQL, and Ruby on Rails (this article was indispensable: <a target="_blank" href="http://www.rubyrailways.com/getting-ruby-on-rails-up-and-running-on-ubuntu-dapper/">http://www.rubyrailways.com/getting-ruby-on-rails-up-and-running-on-ubuntu-dapper/</a>). I have yet to make a custom project with it, but it was actually not as hard to get going as I thought. I think I may make a dual boot on my machine. My install of windows is feeling really bloated and sluggish lately. If I really do switch development over to RoR, I may consider getting a Mac for my next machine. The Mac OS has RoR installed by default.
+
+I toyed with learning PHP, but everytime I looked at it, I hated it. It really seems like it's a major step backwards in terms of good development tools, intelligent language, etc. But it turns out that most major interactive web sites are built using PHP these days.
+
+Anyway, I was seriously considering an Apple for my next machine, when I was cured by reading this article: <a target="_blank" href="http://www.russellbeattie.com/notebook/1008631.html">http://www.russellbeattie.com/notebook/1008631.html</a>.

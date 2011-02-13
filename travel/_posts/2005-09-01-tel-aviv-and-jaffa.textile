@@ -1,0 +1,37 @@
+--- 
+layout: post
+title: Tel Aviv & Jaffa
+series: 
+  name: Israel
+  index: 32
+redirects: 
+- /node/590
+- /personal/travel/israel/tel-aviv-jaffa
+tags: 
+- Israel
+description: David and I met in Zurich and flew together to Tel Aviv. He had flown from Australia and I had flown from New York City. Needless to say, there was some jet lag - especially on David's part. The first few days, we were staying in Tel Aviv for a conference. When we got to the hotel, they didn't have a room for us, even though David was an invited guest speaker. The hotel across the street didn't have a room either. After about 2 hours of a cab ride and some mild shouting, we got a room at the Crown Plaza. It was significantly better than the hotel at the conference.
+---
+<p>David and I met in Zurich and flew together to Tel Aviv. He had flown from Australia and I had flown from New York City. Needless to say, there was some jet lag - especially on David's part. The first few days, we were staying in Tel Aviv for a conference. When we got to the hotel, they didn't have a room for us, even though David was an invited guest speaker. The hotel across the street didn't have a room either. After about 2 hours of a cab ride and some mild shouting, we got a room at the Crown Plaza. It was significantly better than the hotel at the conference. We had heard from other people at the conference that the other hotel had air conditioning problems. Our hotel was like a refrigerator. So it turned out to be a blessing in disguise.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A view of the Tel Aviv beach from our hotel room." target="_blank" href="/files/photos/israel/telaviv-hotel-view.jpg">
+    <img class="journalPhoto" alt="A view of the Tel Aviv beach from our hotel room." src="/files/photos/israel/telaviv-hotel-view.jpg" height="225" width="300">
+  </a>
+  
+  <div class="journalCaption">A view of the Tel Aviv beach from our hotel room.</div>
+</div>
+<p>Tel Aviv is a mostly modern city, so there isn't much to see in terms of tourist spots, other than museums and such. However, there's so much to see in the rest of Israel, that I took tours to other parts of the country while David was at the conference.</p>
+<p>The one big exception is Jaffa, which is a small neighborhood at the southern end of Tel Aviv. It's filled with small art galleries and other shops. It's particularly beautiful at night. David got a recommendation to go to a restaurant owned by the Israeli version of Emeril LaGasse. The food was excellent. I'm still dreaming about my dessert which was chocolate-cardamom ice cream with a caramel sauce.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="A street in Jaffa at night" target="_blank" href="/files/photos/israel/telaviv-jaffa-1.jpg">
+    <img class="journalPhoto" alt="A street in Jaffa at night" src="/files/photos/israel/telaviv-jaffa-1.jpg" height="200" width="150">
+  </a>
+  
+  <div class="journalCaption">A street in Jaffa at night</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="An old building in Jaffa" target="_blank" href="/files/photos/israel/telaviv-jaffa-2.jpg">
+    <img class="journalPhoto" alt="An old building in Jaffa" src="/files/photos/israel/telaviv-jaffa-2.jpg" height="150" width="200">
+  </a>
+  
+  <div class="journalCaption">An old building in Jaffa</div>
+</div>

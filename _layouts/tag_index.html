@@ -1,0 +1,42 @@
+---
+layout: default
+---
+
+<div class="tag-index clearfix">
+
+	<div class="left">
+		
+		<div class="box">
+			<div class="box-header">
+				<div class="box-header-left clearfix">
+					<div class="box-title title"><h1>{{ page.title }}</h1></div>
+				</div>
+				<div class="box-header-right"></div>
+			</div>
+			<div class="box-middle">
+				<div class="box-middle-left">				
+
+					{% for post in site.tags[page.tag] %}
+
+					<div class="teaser clearfix">
+						{% if (post.images) %}<div class="image"><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.images[0] | format_teaser_image }}" /></a></div>{% endif %}
+						<div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
+						<div class="meta"><span class="timeago">{{ post.date | time_ago }}</span>{{ post.tags | tag_links }}</div>
+						<div class="description">{{ post.description }}</div>
+						<div class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">Get the whole story... »</a></div>
+					</div>
+
+					{% endfor %}
+
+				</div>
+				<div class="box-middle-right"></div>
+			</div>
+			<div class="box-footer">
+				<div class="box-footer-left"></div>
+				<div class="box-footer-right"></div>
+			</div>
+		</div>
+	
+	</div>
+	
+</div>

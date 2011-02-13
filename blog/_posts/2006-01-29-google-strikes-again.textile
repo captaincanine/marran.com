@@ -1,0 +1,12 @@
+--- 
+layout: post
+title: Google Strikes Again
+redirects: 
+- /node/361
+- /personal/blog/google/google-strikes-again
+tags: 
+- google
+- maps
+description: For years I've been complaining that there are no programs that map public transit systems. It's great - especially travelling abroad - to be able to see where nearby subways are, how to get from one place to another via bus or train, etc. I was poking around Google today and ran across this...(lucky Portland)...http://www.google.com/transit
+---
+For years I've been complaining that there are no programs that map public transit systems. It's great - especially travelling abroad - to be able to see where nearby subways are, how to get from one place to another via bus or train, etc. I was poking around Google today and ran across this...(lucky Portland)...<a title="http://www.google.com/transit " href="http://www.google.com/transit " target="_blank">http://www.google.com/transit </a>

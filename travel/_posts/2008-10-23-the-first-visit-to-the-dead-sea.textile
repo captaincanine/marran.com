@@ -1,0 +1,24 @@
+--- 
+layout: post
+title: The First Visit to the Dead Sea
+series: 
+  name: A Trip to Israel
+  index: 82
+redirects: 
+- /node/630
+- /personal/travel/israel/first-visit-dead-sea
+photoset: 72157608305555236
+tags: 
+- Israel
+images: 
+- thumbnail: http://farm4.static.flickr.com/3005/2967913472_44ec032b48_m.jpg
+  fullsize: http://farm4.static.flickr.com/3005/2967913472_44ec032b48_b.jpg
+description: "While we stayed at Ein Gedi, we took a trip to the spa. The spa had all sorts of treatments that you could get: mud treatments, ayurvedic massages, swedish massages, hot stone therapy, you name it. I got an ayurvedic massage and David got a mud massage. There were plenty of things to do if you didn't want to get a treatment. You could hang out at their big, blue pool; you could take trip down to the Dead Sea and go swimming; you could give yourself a mud treatment; or, you could stay indoors and hang out in the Dead Sea waters (they had piped up the water from the sea)."
+---
+While we stayed at Ein Gedi, we took a trip to the spa. The spa had all sorts of treatments that you could get: mud treatments, ayurvedic massages, swedish massages, hot stone therapy, you name it. I got an ayurvedic massage and David got a mud massage. There were plenty of things to do if you didn't want to get a treatment. You could hang out at their big, blue pool; you could take trip down to the Dead Sea and go swimming; you could give yourself a mud treatment; or, you could stay indoors and hang out in the Dead Sea waters (they had piped up the water from the sea).
+<!--break-->
+David and I took a trip down the Dead Sea itself. It's not something you can do for very long. If you have any open sores, you'll feel them burn a little due to the minerals in the water. David didn't last that long. He said his whole system starts to get agitated by the water. You can see in the photos that the floor of the sea is like walking on solid salt. There's also a photo of a wooden pole that was placed in the water and the culture of minerals that has grown on it.
+
+I didn't take any photos of the spa until the last half hour. I decided to leave my camera in the locker and just experience the spa for a while. But my massage finished a half hour sooner than David's, so I grabbed my camera to take pictures of the water, the lifeguard, and people in mud.
+
+<!-- [flickr-photoset:id=72157608305555236] -->

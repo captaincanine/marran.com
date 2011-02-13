@@ -1,0 +1,41 @@
+--- 
+layout: recipe
+title: Mexican Chocolate Souffle Cakes
+ingredients: 
+- cake
+- chocolate
+- cinnamon
+redirects: 
+- /node/496
+- /personal/recipes/dish/desserts/mexican-chocolate-souffle-cakes
+dish: desserts
+description: "Perhaps the year's most popular dessert: the chocolate souffl\xC3\xA9 cake with a rich molten center. Cinnamon, espresso and vanilla give the cakes a Mexican accent."
+---
+Perhaps the year's most popular dessert: the chocolate soufflé cake with a rich molten center. Cinnamon, espresso and vanilla give the cakes a Mexican accent.
+<!--break-->
+Servings: Makes 6 ramekins
+
+8 ounces semisweet chocolate, chopped
+½ cup (1 stick) unsalted butter, cut into 1-inch pieces
+1½ teaspoons instant espresso powder
+Pinch of salt
+6 large egg yolks
+⅓ cup sugar
+1 teaspoon vanilla extract
+1 teaspoon ground cinnamon
+2 large egg whites
+½ cup chilled whipping cream
+1 cup fresh raspberries
+Mint sprigs (optional)
+
+Butter six 4 1/2-inch-diameter tartlet pans with ¾-inch-high sides and removable bottoms. Place tartlet pans on baking sheet. Stir chocolate and butter in heavy medium saucepan over low heat until melted and smooth. Remove from heat. Add espresso powder and salt; stir to blend well. Cool to lukewarm, stirring occasionally.
+
+Using electric mixer, beat egg yolks, all but 1 tablespoon sugar, vanilla and cinnamon in large bowl until mixture is pale yellow and thick, about 5 minutes. Fold ¼ of egg mixture into chocolate mixture. Fold chocolate mixture into remaining egg mixture.
+
+Beat egg whites in another large bowl until soft peaks form. Add 1 tablespoon sugar; beat just until firm peaks form. Fold into chocolate mixture. Divide batter among prepared pans. Cover; chill at least 1 hour and up to 4 hours.
+
+Beat cream in large bowl until soft peaks form. (Whipped cream can be made 4 hours ahead. Cover and refrigerate.)
+
+Position rack in center of oven and preheat to 400°F. Bake cakes until edges are set and centers are still soft, about 11 minutes. Cool on racks 2 minutes. Run knife around pan sides to loosen cakes. Remove pan sides. Transfer cakes to plates.
+
+Top each cake with dollop of whipped cream. Garnish with raspberries and mint, if desired. Serve cakes warm.

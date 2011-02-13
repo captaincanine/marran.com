@@ -1,0 +1,18 @@
+--- 
+layout: post
+title: Muppet Wedding Music
+redirects: 
+- /node/686
+- /muppet-wedding-music
+tags: 
+- music
+- NYC
+description: I'm at a wedding at the Palace Hotel of Gossip Girl fame. A string quartet played "The Rainbow Connection."
+image: http://images3.wikia.nocookie.net/__cb20090717073042/muppet/images/e/eb/Muppet-Wedding-Cake-Topper.jpg
+tags:
+- muppets
+- weddings
+---
+I'm at a wedding at the Palace Hotel of Gossip Girl fame. A string quartet played "The Rainbow Connection."
+
+Bravo, Wedding Planner.

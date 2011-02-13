@@ -1,0 +1,56 @@
+--- 
+layout: post
+title: "Saturday: St. Maximin and Return to Nice"
+series: 
+  name: Travel to the South of France
+  index: 52
+redirects: 
+- /node/569
+- /personal/travel/provence/saturday-st-maximin-and-return-nice
+tags: 
+- Provence
+description: We had a few outstanding items left in Aix. We had some museums to see still, and I wanted to get my hair cut in France. Since I had asked someone at work to write out directions to a hair stylist in French, I knew they would be disappointed if I didn't come back with a kooky French hairdo. We first went to Atelier Cezanne, which was the artist's painting studio. We visited the Museum Tapisserrie (Tapestry Museum). And then I went to get my hair cut. I was very nervous, but it ended up being no big deal.
+---
+<p>We had a few outstanding items left in Aix. We had some museums to see still, and I 
+wanted to get my hair cut in France. Since I had asked someone at work to write out 
+directions to a hair stylist in French, I knew they would be disappointed if I didn't come 
+back with a kooky French hairdo. We first went to Atelier Cezanne, which was the 
+artist's painting studio. We visited the Museum Tapisserrie (Tapestry Museum). And 
+then I went to get my hair cut. I was very nervous, but it ended up being no big deal. 
+They gave me some magazines and I pointed to a haircut and said, "Like this." It ended 
+up being a very good haircut. I told the stylist (we communicated in broken English) that 
+I would have to return to Aix in six weeks for my next haircut. I don't think he got it.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The altar of St. Maximin la Ste Baume" target="_blank" href="/files/photos/provence/st_maximin_altar.jpg">
+    <img class="journalPhoto" alt="The altar of St. Maximin la Ste Baume" src="/files/photos/provence/st_maximin_altar.jpg" height="800" width="600">
+  </a>
+  
+  <div class="journalCaption">The altar of St. Maximin la Ste Baume</div>
+</div>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The organ that Napolean's younger brother saved" target="_blank" href="/files/photos/provence/st_maximin_organ.jpg">
+    <img class="journalPhoto" alt="The organ that Napolean's younger brother saved" src="/files/photos/provence/st_maximin_organ.jpg" height="800" width="600">
+  </a>
+  
+  <div class="journalCaption">The organ that Napolean's younger brother saved</div>
+</div>
+<p>So then we hit side roads to go back to Nice. We had most of the day ahead of us, so we 
+were still in tour mode. We stopped at a village that was on the way that ended up being a 
+highlight of the trip. The Basilica of St. Maximin turns out to be the traditional burial 
+place of Mary Magdalene. The chapel alone was magnificent - it was very well preserved 
+during the French Revolution because Napoleon's younger brother used it as a storage 
+depot and had the Marseillaise continuously played on the organ. However, the macabre 
+highlight was the crypt where St. Maximin, St. Innocent, and Mary Magdalene were all 
+buried. Mary Magdalene's crypt had a gold bust reliquary with the facemask gone, 
+showing the skull of her remains. I really wanted to take a picture, but it seemed 
+disrespectful.</p>
+<div class="journalPhotoPanel" align="center">
+  <a class="thickbox" title="The view from our hotel room on the last night - Promenade des Anglais" target="_blank" href="/files/photos/provence/last_night.jpg">
+    <img class="journalPhoto" alt="The view from our hotel room on the last night - Promenade des Anglais" src="/files/photos/provence/last_night.jpg" height="300" width="400">
+  </a>
+  
+  <div class="journalCaption">The view from our hotel room on the last night - Promenade des Anglais</div>
+</div>
+<p>Eventually, we ran out of quaint villages and hit the main highway back to Nice. We 
+stayed at a different hotel room that was a little nicer. Our last meal in France was very 
+good, but nothing too different than what we had been having.</p>

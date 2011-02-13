@@ -1,0 +1,23 @@
+--- 
+layout: post
+title: Extras
+redirects: 
+- /node/404
+- /personal/blog/television/extras
+tags: 
+- television
+images: 
+- http://img.youtube.com/vi/Pvo99mAd_MA/0.jpg
+description: For those of you that have never heard of it, "Extras" is a TV show produced by HBO (http://www.hbo.com/extras/). It's co-written, co-directed, and starring Ricky Gervais who was the writer, creator, and star of "The Office".
+---
+For those of you that have never heard of it, "Extras" is a TV show produced by HBO (<a target="_blank" href="http://www.hbo.com/extras/">http://www.hbo.com/extras/</a>). It's co-written, co-directed, and starring Ricky Gervais who was the writer, creator, and star of "The Office".
+
+I have to admit, I saw a few episodes of the original UK production of The Office and never really got into it. It had it's moments, but overall it felt to realistically sad and mundane for me. Perhaps I was just spending too much brain power getting past the accents to process the humor. I tried watching the first episode of "Extras" and found it a little funnier, but you really had to pay attention. For some reason, I kept with it. If I didn't really enjoy an episode, I'd wait a while and watch it again in a couple of weeks. It was usually funnier the second time around.
+
+They just started the second season and the season opener was one of the best episodes of a comedy I've ever seen. Not only did it have several "bust a gut" moments, it was oddly sad and touching without being depressing.
+
+They usually feature at least one major star in each episode playing themselves. The first season had Kate Winslet, Ben Stiller, Patrick Stewart and a bunch of UK stars that I didn't recognize. Episode 8 features David Bowie and he is amazingly funny. I had to watch the episode again the next day because I couldn't get it out of my head.
+
+I highly recommend the show. If you don't immediately get into it, give it a few more tries. You have to actually watch it - not have it in the background while you do something else.
+
+{{ "http://www.youtube.com/embed/Pvo99mAd_MA" | format_youtube }}
