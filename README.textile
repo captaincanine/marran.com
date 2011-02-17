@@ -36,15 +36,13 @@ THE SOFTWARE.
 h2. Site Search
 
 ==
-One of the big limitations I had with Jekyll was trying to implement a site-search. I really didn't want to employ Google Site Search. So I implemented a generator for Jekyll that creates JSON site indexes. I plan on writing more up about this, but for now, take a look at /_plugins/generate_searchindex.rb and /js/site-search.js. 
+One of the big limitations I had with Jekyll was trying to implement a site-search. I really didn't want to employ Google Site Search. So I implemented a generator for Jekyll that creates JSON site indexes. I plan on writing more up about this, but for now, take a look at /plugins/generate_searchindex.rb and /js/site-search.js. 
 ==
 
 h2. Flickr Integration
 
-I have a lot of photos on my site and needed to easily integrate with Flickr. I created a generator for Flickr photosets and a couple of filters for easy formatting. You can check it out at /_plugins/flickr.rb.
+I have a lot of photos on my site and needed to easily integrate with Flickr. I created a generator for Flickr photosets and a couple of filters for easy formatting. You can check it out at /plugins/flickr.rb.
 
 h2. Redirects
 
-==
-I moved my site from Drupal and didn't want to lose all the SEO and have broken links. I used the method laid out by "Matt Di Pasquale":https://github.com/mattdipasquale to create redirect pages. I made a modification in that I created a generator that creates redirect pages if a post has one or more "redirect" items in its YAML data. You can see the code in /_plugins/generate_redirects.rb.
-==
+I moved my site from Drupal and didn't want to lose all the SEO and have broken links. I used the method laid out by "Matt Di Pasquale":https://github.com/mattdipasquale to create redirect pages. I made a modification in that I created a generator that creates redirect pages if a post has one or more "redirect" items in its YAML data. You can see the code in /plugins/generate_redirects.rb.
