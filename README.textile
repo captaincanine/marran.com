@@ -1,8 +1,8 @@
 h1. Marran.com
 
-This directory contains data for my website, "marran.com":[http://www.marran.com].
+This directory contains data for my website, "marran.com":http://www.marran.com.
 
-The site is built with Jekyll because I got tired of using Drupal and wanted something fast, smart, and geeky. I know get to boast that my site is entirely static. Jekyll was created by "Tom Preston-Werner":[http://tom.preston-werner.com/].
+The site is built with Jekyll because I got tired of using Drupal and wanted something fast, smart, and geeky. I know get to boast that my site is entirely static. Jekyll was created by "Tom Preston-Werner":http://tom.preston-werner.com/.
 
 h2. License
 
@@ -35,9 +35,7 @@ THE SOFTWARE.
 
 h2. Site Search
 
-==
 One of the big limitations I had with Jekyll was trying to implement a site-search. I really didn't want to employ Google Site Search. So I implemented a generator for Jekyll that creates JSON site indexes. I plan on writing more up about this, but for now, take a look at /plugins/generate_searchindex.rb and /js/site-search.js. 
-==
 
 h2. Flickr Integration
 
