@@ -1,0 +1,46 @@
+h1. Marran.com
+
+This directory contains data for my website, "marran.com":[http://www.marran.com].
+
+The site is built with Jekyll because I got tired of using Drupal and wanted something fast, smart, and geeky. I know get to boast that my site is entirely static. Jekyll was created by "Tom Preston-Werner":[http://tom.preston-werner.com/].
+
+h2. License
+
+The following directories and their contents are copyrighted by me, Keith Marran, unless otherwise mentioned. You may not reuse anything in them without my permission:
+
+* blog/
+* recipes/
+* travel/
+* images/
+
+Everything else is up for grabs, but please don't blatantly copy the look-and-feel.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+
+h2. Site Search
+
+One of the big limitations I had with Jekyll was trying to implement a site-search. I really didn't want to employ Google Site Search. So I implemented a generator for Jekyll that creates JSON site indexes. I plan on writing more up about this, but for now, take a look at /_plugins/generate_searchindex.rb and /js/site-search.js. 
+
+h2. Flickr Integration
+
+I have a lot of photos on my site and needed to easily integrate with Flickr. I created a generator for Flickr photosets and a couple of filters for easy formatting. You can check it out at /_plugins/flickr.rb.
+
+h2. Redirects
+
+I moved my site from Drupal and didn't want to lose all the SEO and have broken links. I used the method laid out by "Matt Di Pasquale":https://github.com/mattdipasquale to create redirect pages. I made a modification in that I created a generator that creates redirect pages if a post has one or more "redirect" items in its YAML data. You can see the code in /_plugins/generate_redirects.rb.
