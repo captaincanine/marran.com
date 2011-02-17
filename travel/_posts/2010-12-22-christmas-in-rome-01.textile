@@ -1,0 +1,33 @@
+--- 
+layout: post
+title: Arrival in Rome
+series: 
+  name: Christmas in Rome
+  index: 1
+photoset: 72157626063460608
+tags: 
+- Italy
+images: 
+- thumbnail: http://farm6.static.flickr.com/5091/5449403259_63f4955671_m.jpg
+  fullsize: http://farm6.static.flickr.com/5091/5449403259_63f4955671_b.jpg
+description: David was short of making Executive Platinum on American Airlines by just a couple of thousand miles. The end result was a trip to Rome for the week of Christmas, and I could not have been happier.
+---
+David was short of making Executive Platinum on American Airlines by just a couple of thousand miles. He needed to make a trip at the end of the year to push him over the limit to being a privileged customer. I started by offering a couple of ideas that I knew he wasn't so interested in, and then I casually threw out the idea of Christmas in Rome. I didn't push it, I just let it percolate. In a matter of a couple of days, the idea had taken hold.
+
+I tried to get my family to come with us. Mom and Dad didn't want to join us. Sis and Lorenz originally said yes, but they had their own trip to Rome planned for March, so they eventually decided against it as well. So we went our own.
+
+We had our share of travel headaches on this trip. For our flight there, we had a day flight to London, a night at the Heathrow Hilton, and then a morning flight to Rome. That unfortunately coincided with a snow storm in northern Europe. We woke up at 5am to get ready for our flight and saw that our flight had been cancelled. They had not moved us on to any other flights, so David called and asked them what was up. They looked at flights and said "If you can get to JFK in time, there's a flight leaving at 7am that goes to Miami. I can get you from Miami to the Dominican Republic, then a flight to Madrid, then to Rome." 
+
+David and I were so groggy from having just woken up that we didn't think twice about the plan, we ran out of the house and made it to JFK. It wasn't until we landed in the Dominican Republic that we had time to catch our breath from short connection times and the reality of our situation set in. Imagine at any given moment, someone told you that tomorrow morning you would be in the Dominican Republic. You would say "What? Why? That's crazy." That's pretty much how we felt. I found a video on YouTube that shows you what it's like to land in the Dominican Republic.
+
+{{ 'http://www.youtube.com/embed/yJ495phHcCw' | format_youtube }}
+
+Our next flight was an Iberian flight to Madrid. Since David is executive platinum and I'm platinum, they booked us first class seats all the way to Rome. The service to Madrid was amazing. It was what flying used to be like. The stewardesses were perfectly groomed and demure. The food was excellent. It felt like you could throw a football and still not hit the seat in front of you. David recognized some special Spanish sherry on their alcohol cart and made me have a sip. And since it was a long flight, I got a fair amount of sleep on the way to Madrid. 
+
+The rest of the trip to Rome was pretty uneventful. David was starting to have a hard time while we were waiting for our flight in Madrid, but it all happened and we arrived in Rome at about the same time as we were originally scheduled to arrive. I don't quite know how that all worked.
+
+So we got to our hotel, the beautiful "Hotel Cavalieri":http://www.romecavalieri.it/. We took a nap and then decided to walk down the hill for dinner. The hotel is situated behind the Vatican. It was about a 45 minute walk down the hill. After touring St. Peter's Square, we wandered to a street of antique shops - Via dei Coronari. David did a bit of shopping without purchasing. 
+
+Our dinner was excellent. It makes you realize how farcically casual American fine dining has become. All the waiters were in their waiter whites and very attentive. Honestly, I could eat anywhere in Rome (within reason) and be happy, but this restaurant was particularly exceptional. It was a recommendation from one of David's colleagues. I don't know how Italians can find produce bursting with flavor so far out of season. 
+
+After dinner, we got a cab ride back to the hotel. The cabbie was having a hard time finding her way out of the circuitous streets in that part of Rome. 
