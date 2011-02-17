@@ -11,19 +11,19 @@ function showPosts(posts) {
 	for (var i = 0; i < posts.length; i++) {
 	
 		var entry = posts[i];
-		if (entry.from.name == 'Keith Marran' && entry.message != null) {
+		if (entry.from.name == 'Keith Marran') {
 		
 			switch (entry.type) {
 				case 'status':
 					content = '<div class="feed-entry clearfix">';
-					content += '<div class="message">' + entry.message + '</div>';
+					if (entry.message != null) { content += '<div class="message">' + entry.message + '</div>'};
 					content += '<div class="timeago">' + $.timeago(entry.created_time) + '</div>';
 					content += '</div>';
 					$('#feed').append($(content));
 					break;
 				case 'photo':
 					content = '<div class="feed-entry clearfix">';
-					content += '<div class="message">' + entry.message + '</div>';
+					if (entry.message != null) { content += '<div class="message">' + entry.message + '</div>'};
 					content += '<div class="picture"><a href="' + entry.link + '" target="_blank"><img src="' + entry.picture + '" /></a></div>';
 					content += '<div class="timeago">' + $.timeago(entry.created_time) + '</div>';
 					content += '</div>';
@@ -31,7 +31,7 @@ function showPosts(posts) {
 					break;
 				case 'video':
 					content = '<div class="feed-entry clearfix">';
-					content += '<div class="message">' + entry.message + '</div>';
+					if (entry.message != null) { content += '<div class="message">' + entry.message + '</div>'};
 					content += '<div class="feed-video clearfix">';
 					content += '<div class="picture"><a href="' + entry.link + '" target="_blank"><img src="' + entry.picture + '" /></a></div>';
 					content += '<div class="name"><a href="' + entry.link + '" target="_blank">' + entry.name + '</a></div>';
@@ -43,7 +43,7 @@ function showPosts(posts) {
 					break;
 				case 'link':
 					content = '<div class="feed-entry clearfix">';
-					content += '<div class="message">' + entry.message + '</div>';
+					if (entry.message != null) { content += '<div class="message">' + entry.message + '</div>'};
 					content += '<div class="feed-video clearfix">';
 					content += '<div class="picture"><a href="' + entry.link + '" target="_blank"><img src="' + entry.picture + '" /></a></div>';
 					content += '<div class="name"><a href="' + entry.link + '" target="_blank">' + entry.name + '</a></div>';

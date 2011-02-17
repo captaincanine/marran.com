@@ -29,25 +29,25 @@ module Jekyll
   # Jekyll hook - the generate method is called by jekyll, and generates all of the redirect pages.
   class GenerateRedirects < Generator
   
-    safe true
-    priority :low
+		safe true
+		priority :low
 
-    def generate(site)
-
-		site.posts.select{|x| x.data.key? 'redirects' }.each do |p|
-
-			p.data['redirects'].each do |r|
-							
-				redirect = RedirectPage.new(site, site.source, r, p.id)
-				redirect.render(site.layouts, site.site_payload)
-				redirect.write(site.dest)
-				site.pages << redirect
-
-			end
-
+		def generate(site)
+			site.generate_redirects if (site.config['redirects']) 		
 		end
 
-    end
+		def generate_redirects()
+
+			site.posts.select{|x| x.data.key? 'redirects' }.each do |p|
+				p.data['redirects'].each do |r|	
+					redirect = RedirectPage.new(site, site.source, r, p.id)
+					redirect.render(site.layouts, site.site_payload)
+					redirect.write(site.dest)
+					site.pages << redirect			
+				end			
+			end
+			
+		end
 
   end
   

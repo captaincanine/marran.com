@@ -9,8 +9,8 @@ tags:
 - television
 description: The Simpsons have not been as consistently funny as their early years in a long time. But clips like this one prove that they when they're good, there's no beating them.
 ---
-The Simpsons have not been as consistently funny as their early years in a long time. But clips like this one prove that they when they're good, there's no beating them. <!--break-->
+The Simpsons have not been as consistently funny as their early years in a long time. But clips like this one prove that they when they're good, there's no beating them.
 
 This is a preview of this year's "Treehouse of Horror" featuring a segment on voter fraud. I hope it's not prophetic.
 
-[video:url=http://www.youtube.com/watch?v=Dc4Sntl2qt8]
+{{ "http://www.youtube.com/watch?v=Dc4Sntl2qt8" | format_youtube }}

@@ -114,12 +114,13 @@ module Jekyll
   
     
   class SearchGenerator < Generator
-    safe true
-    priority :low
-    
-    def generate(site)
-    	site.write_search_files
-  	end
+
+		safe true
+		priority :low
+				
+		def generate(site)
+			site.write_search_files if (site.config['searchindex']) 
+		end
     	
 	end
 

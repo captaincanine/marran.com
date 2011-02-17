@@ -17,11 +17,12 @@
    <script type="text/javascript" src="/js/site-search.js"></script>
    <script type="text/javascript" src="/js/shadowbox-3.0.3/shadowbox.js"></script>
    <script type="text/javascript" src="/js/gallery-helper.js"></script>
+   <script type="text/javascript" src="/js/link-helper.js"></script>
 
 	<meta property="og:site_name" content="Keith Marran"/>
 	<meta property="og:title" content="{{ page.title }}"/>
 	{% if (page.description) %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
-	{% if (page.images) %}<meta property="og:image" content="{{ page.images[0] }}"/>{% endif %}
+	{% if (page.images) %}<meta property="og:image" content="{{ page.images[0] | format_teaser_image }}"/>{% endif %}
 	
 	<script type="text/javascript">
 		Shadowbox.init({
