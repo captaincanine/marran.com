@@ -1,0 +1,39 @@
+--- 
+layout: post
+title: Ken Russell's The Devils
+tags: 
+- movies
+- offendable
+images: 
+- thumbnail: http://farm2.static.flickr.com/1097/1346989648_f2c7e55938_m.jpg
+  fullsize: http://farm2.static.flickr.com/1097/1346989648_f2c7e55938_z.jpg?zz=1
+description: For some reason, I thought it would be a good idea to stay up and watch Ken Russell's <i>The Devils</i> by myself. I'm sure it gave me some pretty crazy dreams and I'm pretty sure they were disturbing enough for me to block them from my memory. Was it a good movie? Um ... I think so.
+---
+I think it all started from seeing a photo of Oliver Reed as a young man. I didn't know he ever looked young. He always looked like he hatched out of an egg in his mid-thirties looking bullish, weathered and beaten by life. It turns out that was just alcoholism. There are a handful of images of him looking strikingly handsome at a young age. 
+
+{{ 'http://i.telegraph.co.uk/multimedia/archive/01390/oliver_reed_best_1390199c.jpg' | format_photo }}
+
+Anyway...one of the images was a photo of him with Vanessa Redgrave in a movie called _The Devils_. Upon further inspection, it turns out it's an early Ken Russell movie I had never heard of. It's based on a book by Aldous Huxley called _The Devils of Loudon_ which is in turn based on real, historical events in 1634 France in which a priest was burned to death for practicing witchcraft – an accusation brought about by demon-possessed nuns. You can read more about it on Wikipedia on "The Loudun Possessions":http://en.wikipedia.org/wiki/Loudun_possessions.
+
+Sounds pretty awesome, right?
+
+By now, my curiosity was piqued, but what really sealed the deal is that the movie is impossible to find in its original state. It was considered so offensive upon viewing that it was immediately banned. Ken Russell made significant cuts to it just to earn an "X" rating. The movie studio made further cuts to it before it was released. And when the film came to the U.S., further cuts were made to it. All of these cuts were considered lost until 2006 (the film is originally from 1971) when someone located the lost scenes and pieced the movie back to together in its original state.
+
+However, it's still incredibly hard to find the movie. I looked on Netflix which has a pretty good track record for obscure movies. It's not listed. I went to Amazon. The only version they have is the pared-down U.S. version and only on VHS. There's no DVD available. Back in 2008, Warner Bros. said that they would release it in its original state on DVD, but then dropped it from their schedule.
+
+Once I found out I couldn't have it, I became obsessed. I found it on a newsgroup, NZBMatrix, for download. I converted it for my iPad and it had been lurking there ominously for a couple of weeks. So what better time to watch it than when I'm at home alone with David out of town?
+
+First of all, the quality is not great. It's almost as bad as watching a VHS copy. Secondly, although it has the infamous "Rape of Christ" scene, it is missing the scene at the end in which Vanessa Redgrave masturbates with a charred tibia bone. I can't believe I'm saying this, but I could see where the masturbation scene would have added to the end of the movie. 
+
+So ... was it worth it? It's really hard to answer. Right after watching it, I looked for Roger Ebert's review. He reviewed it back in 1971 and while he never says that it's bad, he does not write a favorable review and gives it zero stars. He very satirically applauds Ken Russell for blowing the lid wide open on the corruption of 1600's France. Which is a fair accusation – you can't help but wonder how this sad story applies to modern times. Ebert doesn't address whether it's a good or bad movie, he just points out that it's an extraordinarily unnecessary movie. Yes, we know that horrible injustices and physical tortures took place in the time of the Inquisition. Do we really need to see this all up close and personal? Well, I guess that's a matter of preference.
+
+You could argue that it follow Aristotle's requirements for drama: invoke terror and pity in the audience. When it becomes clear that the last 30 minutes of the movie are just going to be torture scene after torture scene (all very artfully done), you just want it all to be over with. And Ken Russell keeps poking you with the message of "So how unfair life is? So how absolute power corrupts? See how pointlessly cruel these people can be?"
+
+Yes. We see it. It's exhausting. Which I guess is the point of terror and pity - to wring all of the wretchedness out of your system. But it is gratuitous and tedious by the end. After reading the Wikipedia entry on the original possessions of Loudon, I think Russell really missed the boat on the plot and character interactions. He threw out a lot of the intricacies and focused just on hammering the audience with images of bizarreness and cruelty.
+
+To Ken Russell's credit, the film is beautifully shot. The costumes and set design are amazing. There are scenes that will be burned into my memory just by their sheer artistry. So if you're interested in it from an aesthetic viewpoint, it's definitely worth it.
+
+And if you want to see how awful it was to live in mediaeval Europe, than this film is for you.
+
+And if you want to see Vanessa Redgrave masturbate with a charred tibia ... well, I think you'll have to try to catch this at a film festival or special screening.
+
