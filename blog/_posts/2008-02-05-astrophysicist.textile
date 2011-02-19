@@ -13,8 +13,5 @@ images:
 description: "Okay...just to even out my feelings about gay culture from my last post: here are some clips from a very funny drag queen movie: Girls Will Be Girls."
 ---
 Okay...just to even out my feelings about gay culture from my last post: here are some clips from a very funny drag queen movie: Girls Will Be Girls.
-<!--break-->
-
-{{ "http://www.youtube.com/embed/TVI0u12m-Ng" | format_youtube }}
 
 {{ "http://www.youtube.com/embed/TVI0u12m-Ng" | format_youtube }}

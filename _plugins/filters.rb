@@ -9,7 +9,10 @@ module Jekyll
 		end
 		
 		def format_youtube(url)
-			"<iframe title=\"YouTube video player\" width=\"480\" height=\"390\" src=\"#{url}\" frameborder=\"0\" allowfullscreen></iframe>"
+			matches = url.scan /(?:v=|embed\/)([^&]*)/
+			if matches[0] 
+				"<iframe title=\"YouTube video player\" width=\"480\" height=\"390\" src=\"http://www.youtube.com/embed/#{matches[0]}\" frameborder=\"0\" allowfullscreen></iframe>"
+			end
 		end
 		
 		def format_photo(url)

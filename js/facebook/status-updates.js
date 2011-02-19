@@ -11,7 +11,7 @@ function showPosts(posts) {
 	for (var i = 0; i < posts.length; i++) {
 	
 		var entry = posts[i];
-		if (entry.from.name == 'Keith Marran') {
+		if (entry.from.name == 'Keith Marran' && entry.caption != 'ping.fm') {
 		
 			switch (entry.type) {
 				case 'status':
