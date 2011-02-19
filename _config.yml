@@ -13,6 +13,9 @@ pygments:    false
 markdown:    engine
 permalink:   /:categories/:title
 paginate:    20
+#limit_posts: 5
+
+exclude:    ./tasks
 
 redirects:              yes
 
@@ -22,3 +25,4 @@ flickr:                 yes
 flickr_api_key:         d5873a8ac7aca2b68cd2c5314daa9890
 flickr_shared_secret:   adca51085c67435b
 flickr_auth_token:      72157625809066009-b86580f891a5e8e9
+

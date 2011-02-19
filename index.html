@@ -81,7 +81,7 @@ title: Keith Marran
 			</div>
 		</div>
 
-		<div class="more-content"><a href="/blog" title="More blog entries">See more blog entries <span class="huge">☞</span></a></div>
+		<div class="more-content"><a href="/blog" title="More blog entries">See more blog entries »</a></div>
 
 		<div class="teaser tag-cloud">
 
@@ -124,7 +124,7 @@ title: Keith Marran
 				</div>
 				<div class="box-middle">
 					<div class="box-middle-left">
-						{% if (site.latest_recipes[0].image) %}<div class="image"><a href="{{ site.latest_recipes[0].url }}" title="{{ site.latest_recipes[0].title }}"><img src="{{ site.latest_recipes[0].image }}" /></a></div>{% endif %}
+						{% if (site.latest_recipes[0].images) %}<div class="image"><a href="{{ site.latest_recipes[0].url }}" title="{{ site.latest_recipes[0].title }}"><img src="{{ site.latest_recipes[0].images[0] | format_teaser_image }}" /></a></div>{% endif %}
 						<div class="description">{{ site.latest_recipes[0].description }}</div>
 						<div class="read-more"><a href="{{ site.latest_recipes[0].url }}" title="{{ site.latest_recipes[0].title }}">Mmmm! Let's read the recipe! »</a></div>
 					</div>
@@ -136,7 +136,7 @@ title: Keith Marran
 				</div>
 			</div>
 	
-			<div class="more-content"><a href="/recipes" title="More recipes">See more recipes <span class="huge">☞</span></a></div>
+			<div class="more-content"><a href="/recipes" title="More recipes">See more recipes »</a></div>
 
 		</div>
 		
@@ -151,8 +151,8 @@ title: Keith Marran
 					<div class="box-header-right"></div>
 				</div>
 				<div class="box-middle">
-					<div class="box-middle-left">
-						{% if (site.latest_travel.image) %}<div class="image"><a href="{{ site.latest_travel.url }}" title="{{ site.latest_travel.title }}"><img src="{{ site.latest_travel.image }}" /></a></div>{% endif %}
+					<div class="box-middle-left">	
+						{% if (site.latest_travel.images) %}<div class="image"><a href="{{ site.latest_travel.url }}" title="{{ site.latest_travel.title }}"><img src="{{ site.latest_travel.images[0] | format_teaser_image }}" /></a></div>{% endif %}
 						<div class="description">{{ site.latest_travel.description }}</div>
 						<div class="read-more"><a href="{{ site.latest_travel.url }}" title="{{ site.latest_travel.title }}">Sounds fun, let's go! »</a></div>
 					</div>
@@ -164,7 +164,7 @@ title: Keith Marran
 				</div>
 			</div>
 	
-			<div class="more-content"><a href="/travel" title="More travel">See more travel <span class="huge">☞</span></a></div>
+			<div class="more-content"><a href="/travel" title="More travel">See more travel »</a></div>
 
 		</div>
 

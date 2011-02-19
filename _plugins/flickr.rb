@@ -9,10 +9,10 @@ module Jekyll
 		priority :low
 
 		def generate(site)
-			site.generate_photosets if (site.config['flickr']) 
+			generate_photosets(site) if (site.config['flickr']) 
 		end
 		
-		def generate_photosets
+		def generate_photosets(site)
 
 			site.posts.each do |p|
 				if p.data.key? 'photoset'

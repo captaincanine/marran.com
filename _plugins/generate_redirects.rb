@@ -33,10 +33,10 @@ module Jekyll
 		priority :low
 
 		def generate(site)
-			site.generate_redirects if (site.config['redirects']) 		
+			generate_redirects(site) if (site.config['redirects']) 		
 		end
 
-		def generate_redirects()
+		def generate_redirects(site)
 
 			site.posts.select{|x| x.data.key? 'redirects' }.each do |p|
 				p.data['redirects'].each do |r|	

@@ -69,6 +69,9 @@ em					{ font-style: italic; }
 ol					{ padding-left: 12px; }
 ol li				{ margin: 1em; list-style-type: decimal; font-family: 'Ubuntu', sans-serif; font-size: 108%; }
 
+ul					{ padding-left: 12px; }
+ul li				{ margin: 1em; list-style-type: disc; font-family: 'Ubuntu', sans-serif; font-size: 108%; }
+
 
 /* BACKGROUNDS */
 html, body				{ background: #D1C6B8 url('/images/map-background.jpg'); }
