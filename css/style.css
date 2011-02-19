@@ -314,3 +314,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 
 .photo-thumbs .thumbnail	{ width: 100%; }
 
+#dialog		{ background: #fff; height: 100%; }
+#dialog p	{ padding: 16px 16px 0; margin: 0; font-size: 108%; }
+#dialog ul	{ padding: 16px 32px; }
+#dialog a	{ color: #C34E02; }
