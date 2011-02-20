@@ -308,6 +308,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 .more-content a	{ text-decoration: none; font: 138.5% 'Folksolid'; text-transform: uppercase; }
 
 .huge					{ font-size: 2em; line-height: 0.5em; position: relative; top: 6px; }
+p.last				{ margin-bottom: 0; padding-bottom: 8px; }
 
 .tag-cloud .box-middle-left	{ text-align: justify; line-height: 180%; }
 .tag-cloud .box-middle-left a	{ text-decoration: none; }
