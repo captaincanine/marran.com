@@ -120,8 +120,9 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 
 .home-top .feed-entry .message		{ font-size: 14px; }
 .home-top .feed-entry .picture		{ float: left; margin-right: 8px; }
-.home-top .feed-entry .name			{ font-weight: bold; text-decoration: none; }
-.home-top .feed-entry .description	{ color: #999; }
+.home-top .feed-entry .name			{ font-weight: bold; text-decoration: none; line-height: 120%; padding-top: 4px; }
+.home-top .feed-entry .description	{ color: #999; font-size: 93%; line-height: 130%; padding-top: 4px; }
+.home-top .feed-entry .timeago		{ font-size: 93%; line-height: 130%; padding-top: 4px; }
 
 .home-top .timeago		{ color: #999; font-style: italic; }
 .home-top .social-links	{ font: 138.5% 'Folksolid'; color: #2A3B63; text-transform: uppercase;}

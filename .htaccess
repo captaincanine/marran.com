@@ -4,3 +4,4 @@ AddType font/otf .otf
 AddType "application/x-woff" .woff
 
 ErrorDocument 404 /404.html
+ErrorDocument 403 /404.html
