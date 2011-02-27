@@ -200,6 +200,10 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 .series-item .title a	{ text-decoration: none; }
 .series-item .info		{ line-height: 120%; }
 
+.next-box						{ background: #DEDEDE; margin-bottom: 1em; padding: 12px; }
+.next-box .series-title		{ font-family: 'Folksolid'; text-transform: uppercase; font-size: 167%; line-height: 90%; text-decoration: none; margin-bottom: 8px; }
+.next-box .help				{ margin: 4px 0; }
+.next-box .next-link			{ margin: 8px 0 4px; }
 
 /* NAVIGATION */
 

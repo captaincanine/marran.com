@@ -1,3 +1,5 @@
+require 'ruby-debug'
+
 module Jekyll
 
    class Site
@@ -11,8 +13,6 @@ module Jekyll
          self.posts.each do |x|
          
             if x.data.key? 'series'
-            
-               require 'ruby-debug'
             
                if !collections.key? x.data['series']['name']
                   collections[x.data['series']['name']] = Array.new
@@ -35,3 +35,4 @@ module Jekyll
    end
  
 end
+

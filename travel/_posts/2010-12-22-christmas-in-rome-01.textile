@@ -7,6 +7,7 @@ series:
 photoset: 72157626063460608
 tags: 
 - Italy
+- travel headaches
 images: 
 - thumbnail: http://farm6.static.flickr.com/5091/5449403259_63f4955671_m.jpg
   fullsize: http://farm6.static.flickr.com/5091/5449403259_63f4955671_b.jpg

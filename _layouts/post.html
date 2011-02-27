@@ -16,7 +16,11 @@ layout: default
 			<div class="box-middle">
 				<div class="box-middle-left">				
 					{% if (page.images) %}<div class="post-image"><a href="{{ page.images[0] | format_main_image }}" title="{{ page.title }}" rel="shadowbox"><img src="{{ page.images[0] | format_main_image }}" /></a></div>{% endif %}
-					{{ content }}									
+					{{ content }}
+					
+					{% if page.series %}
+						{{ site.series | next_in_series info:page.series }}
+					{% endif %}
 
 					<div id="disqus_thread"></div>
 					<script type="text/javascript">
