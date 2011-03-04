@@ -1,0 +1,63 @@
+--- 
+layout: post
+title: Spider-man Wants Candy
+tags: 
+- theater
+- improv
+- musicals
+- NYC
+images: 
+- http://files.list.co.uk/images/2010/07/27/baby-wants-candy.png
+description: Last weekend I went to see "Baby Wants Candy" - a fully improvised full-band musical. The show was a blast and I'll definitely be going back. But what stuck with me is that most modern musicals have a lot to learn about structure from the improvers.
+---
+For those of you that don't know, "Baby Wants Candy":http://babywantscandy.com/ is a fully-improvised, full band musical. That means that at the top fo the show, someone in the audience shouts out the title of a musical, the actors repeat it for everyone to hear by announcing "Welcome to the opening night...and closing night...of _The Manson Family Follies_" or whatever was just shouted out. All of the music is improvised, the lyrics are written on the spot, the plot and characters form in front of your eyes.
+
+Most people I talk to assume that the musicians have standard numbers that they redo every night. I don't think so. On one song, I heard the pianist go throw some chord changes and the bass player didn't follow along. On the second time through, the bass player was in sync with the pianist. Also, the title of the show that I saw was "Sesame Street Frathouse" and they threw in a lot of "Sesame Street" sounding songs. I doubt they had that handy in their repertoire.
+
+What amazed me most about the show, though, is that they did not fall into any of the usual traps that musicals fall into – especially modern musicals (I'm looking at you, Julie Taymor). The actors instinctively knew how to make the musical format work in a way that most Broadway writers don't. 
+
+So I decided to write up the lessons from "Baby Wants Candy" in the hopes that future musical writers will understand their format a bit better. 
+
+I often point to "Urinetown" as a master class in musical theater structure. There's not a dull moment, the songs feel integrated into the story line, and there are no harsh transitions from dialogue to song. And as it turns out, "Urinetown" started as an improvised musical - though it was worked on and polished over time as opposed to being a one-night-only production. So a lot of my thoughts are based on comparisons to "Urinetown" as well.
+
+h3. Every scene moves the action forward
+
+I know this sounds like writing 101, but I think writers have a problem when they fall too in love with their own characters. They fall so in love with the intricacies of their characters that they assume that everyone else is as in love with them. No. It's not enough to say that a scene is there because a character grows or learns something about themselves. That's boring. There has to be future action based on the events in that scene. I'm amazed that people improvising a scene instinctively know to wrap up the scene with some future plot point - "I'll show them at the big dance!" or "We'll dress as undercover pandas and expose everyone!" (I'm using examples from the show I saw). 
+
+h3. Don't put major plot points in song
+
+I'm really trying to remember a good exception to this rule, and I can't come up with one. Even in the grand act one finale of "Urinetown," the big plot shift in the middle of the song is done in dialog while the orchestra is vamping. It is unsatisfying to have major plot points happening in the middle of a song. They did this in Spider-Man on one of the Green Goblin's big numbers and it ruined the scene. First of all, you can't always hear the lyrics in a musical number, so it's frustrating to feel like you're losing important information. Secondly, songs are "Dionysian in nature and plot points are Apollonian in nature":http://en.wikipedia.org/wiki/Apollonian_and_Dionysian. The desire for the rapture of the song is at odds with the details of the story. 
+
+Once again, I'm trying to find an exception to the rule on this one, but I'm drawing a blank.
+
+For a while, I thought "Angry Inch" in Hedwig was an exception, because that's when you find out exactly how she went from male to "female." But just like my previous example, when I listened to the song I noticed that she stops singing and talks to the audience for the important bits of information. The song remains about an emotional state - not a plot point.
+
+h3. Songs are better when closer to the tension of the scene
+
+In Baby Wants Candy, there was never an awkward moment when they transitioned from dialog to song. How is that possible? I've seen plenty of musicals on Broadway when the transition to song felt as clunky as a giant Victorian clockwork struggling to come to life.
+
+In Baby Wants Candy, the actors always set up the song before it started happening. I think that's mainly due to the fact that the actors would be in the middle of the scene and the pianist (who led the band), would realize that they were ready for a song. So the song was an extension of the scene. I know that sounds super obvious, but you'd be amazed how many other shows get that wrong. And because a musician is sitting there waiting for the right moment to put in a song, he had to wait until the tension of the scene was at its strongest. 
+
+There was a scene in _Spider-man: Turn Off the Dark_ in which the second act villain is re-introduced to the audience. She has her song with her minions and while the costumes and choreography are great, and the song is one of the more memorable songs, the scene falls totally flat because the song doesn't rise out of any tension.
+
+h3. Camp it up
+
+This one is a little trickier, because not everyone necessarily loves the musical formula. However, the improvers had to work very hard to take it too far. Even when they were parodying the musical format, it still felt very "real." 
+
+Maybe that's just me.
+
+I think a lot of modern musical writers are working so hard to be "sophisticated" or "contemporary" that they are throwing out the musical theater formula. Look at the musical numbers on "The Simpsons" or on "South Park" – even when they are ludicrous, they don't _feel_ ludicrous. They just feel like musicals. 
+
+So embrace the formula. It works.
+
+Now that I've thought about this a while, I seem to remember another one of my favorite musicals of recent years _The 25th Annual Putnam County Spelling Bee_ was also a musical that started off with improvisation. I'm starting to wonder if that is the future of writing. When one person is responsible for the script, you run the risk of flat characters that are only there to serve the needs of the playwright. In an improvisation, every actor is responsible for their own characters – and that actor will give the character a through-line and a reason for being on the stage. You end up with a storyline that keeps going to its logical conclusion. You get well-rounded characters instead of just mouthpieces.
+
+My only complaint with "Baby Wants Candy" is that I often was anxious to learn where it was all headed. Because often, no one knew where it was headed. When the script is written, the playwright works much harder to let the audience know that they are in safe hands and to give clues as to where the whole thing is headed. So it's not like single-author works don't have their merit, but I hope that authors can take cues from improv and tighten up character and plot development.
+
+"Baby Wants Candy":http://babywantscandy.com/ is currently running in New York and Chicago. 
+
+I highly advise that you go see it.
+
+
+
+
