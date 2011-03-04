@@ -15,7 +15,7 @@ layout: default
 			</div>
 			<div class="box-middle">
 				<div class="box-middle-left">				
-					{% if (page.images) %}<div class="post-image"><a href="{{ page.images[0] | format_main_image }}" title="{{ page.title }}" rel="shadowbox"><img src="{{ page.images[0] | format_main_image }}" /></a></div>{% endif %}
+					{% if (page.images) %}<div class="post-image"><a href="{{ page.images[0] | format_main_image }}" title="{{ page.title }}" rel="shadowbox" class="popupwindow"><img src="{{ page.images[0] | format_main_image }}" /></a></div>{% endif %}
 					{{ content }}
 					
 					{% if page.series %}
