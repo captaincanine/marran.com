@@ -44,3 +44,19 @@ I have a lot of photos on my site and needed to easily integrate with Flickr. I 
 h2. Redirects
 
 I moved my site from Drupal and didn't want to lose all the SEO and have broken links. I used the method laid out by "Matt Di Pasquale":https://github.com/mattdipasquale to create redirect pages. I made a modification in that I created a generator that creates redirect pages if a post has one or more "redirect" items in its YAML data. You can see the code in ==/_plugins/generate_redirects.rb==.
+
+h2. Paginated Categories
+
+I needed to break my site into basic buckets of content: blog, recipes, travel, and tech. I am using "categories" to break the content into those buckets. I needed the index pages of those categories to be paginated and I needed the index pages to have their own templates. I created a plugin called "CategoryPagination" to do that.
+
+For CategoryPagination to work, the following items need to be true:
+
+* There is a file called "category_index.html" in the _layouts directory
+* In the _config.yml, there needs to be a line that says "pagination: true"
+* There needs to be an "index.html" page with "category: category-name" in the YAML front matter. Be sure to use the actual category name.
+    
+For instance, if you wanted to have a paginated set of pages for all posts in the "recipes" category, place a file called "index.html" in the "recipes" directory. Make sure that in the YAML front matter, there is a line that says "category: recipes".
+
+This plugin is structured so that each category index page can have its own unique landing page. For instance, a page showing all the recipes can be different than the page showing all the blog entries. Subsequent pages (page 2 of the recipes, for example), use the category_index.html template. This is by design. Perhaps someday I'll add a parameter to the index page to specify which template to use for sub-pages.
+
+I have created a custom filter for displaying previous and next links on category pages.

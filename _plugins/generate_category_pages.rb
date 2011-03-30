@@ -1,16 +1,28 @@
 =begin
 
-CategoryPagination allows jekyll sites to have index pages for each category,
-and to break those category indexes into multiple pages.
+CategoryPagination allows jekyll sites to have index pages for each category, and to break those 
+category indexes into multiple pages.
 
 This code belongs in the _plugins directory. 
 
-The following items also need to be true:
+The following items need to be true:
 
 *   There is a file called "category_index.html" in the _layouts directory
 *   In the _config.yml, there needs to be a line that says "pagination: true"
 *   There needs to be an "index.html" page with "category: category-name" in the YAML front matter. 
     Be sure to use the actual category name.
+    
+For instance, if you wanted to have a paginated set of pages for all posts in the "recipes" 
+category, place a file called "index.html" in the "recipes" directory. Make sure that in the 
+YAML front matter, there is a line that says "category: recipes".
+
+This plugin is structured so that each category index page can have its own unique landing page. 
+For instance, a page showing all the recipes can be different than the page showing all the blog
+entries. Subsequent pages (page 2 of the recipes, for example), use the category_index.html 
+template. This is by design. Perhaps someday I'll add a parameter to the index page to specify
+which template to use for sub-pages.
+
+I have created a custom filter for displaying previous and next links on category pages.
 
 =end
 
