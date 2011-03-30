@@ -26,9 +26,11 @@ I have created a custom filter for displaying previous and next links on categor
 
 =end
 
+require 'ruby-debug'
+
 module Jekyll
 
-  class CategoryPagination < Generator
+  class CategoryPages < Generator
   
     safe true
 
@@ -40,42 +42,70 @@ module Jekyll
 
     def paginate(site, page)
     
-      all_posts = site.categories[page.data['category']].sort_by { |p| p.date }
-      all_posts.reverse!
+      # sort categories by descending date of publish
+      category_posts = site.categories[page.data['category']].reverse!
 
-      pages = CategoryPager.calculate_pages(all_posts, site.config['paginate'].to_i)
+      # calculate total number of pages
+      pages = CategoryPager.calculate_pages(category_posts, site.config['paginate'].to_i)
 
+      # iterate over the total number of pages and create a physical page for each
       (1..pages).each do |num_page|
-        pager = CategoryPager.new(site.config, num_page, all_posts, page.data['category'], pages)
+      
+        # the CategoryPager handles the paging and category data
+        pager = CategoryPager.new(site.config, num_page, category_posts, page.data['category'], pages)
+
+        # the first page is the index, so no page needs to be created. However, the subsequent pages need to be generated
         if num_page > 1
-          newpage = CategorySubPage.new(site, site.source, "_layouts", page.data['category'])
+          newpage = CategorySubPage.new(site, site.source, page.data['category'], page.data['category_layout'])
           newpage.pager = pager
           newpage.dir = File.join(page.dir, "/#{page.data['category']}/page#{num_page}")
           site.pages << newpage
         else
           page.pager = pager
         end
+
       end
     end
 
   end
+  
+  class CategoryPager < Pager
 
+    attr_reader :category
+
+    def self.pagination_enabled?(config, page)
+      page.name == 'index.html' && page.data.key?('category') && !config['paginate'].nil?
+    end
+    
+    # same as the base class, but includes the category value
+    def initialize(config, page, all_posts, category, num_pages = nil)
+    	@category = category
+      super config, page, all_posts, num_pages
+    end
+
+    # use the original to_liquid method, but add in category info
+    alias_method :original_to_liquid, :to_liquid
+    def to_liquid
+      x = original_to_liquid
+      x['category'] = @category
+      x
+    end
+    
+  end
+  
   # The CategorySubPage class creates a single category page for the specified tag.
+  # This class exists to specify the layout to use for pages after the first index page
   class CategorySubPage < Page
     
-    # Initializes a new CategorySubPage.
-    #
-    #  +base+         is the String path to the <source>.
-    #  +tag_dir+ is the String path between <source> and the tag folder.
-    #  +tag+     is the tag currently being processed.
-    def initialize(site, base, tag_dir, category)
+    def initialize(site, base, category, layout)
+        
       @site = site
       @base = base
-      @dir  = tag_dir
+      @dir  = category
       @name = 'index.html'
 
       self.process(@name)
-      self.read_yaml(File.join(base, '_layouts'), 'category_index.html')
+      self.read_yaml(File.join(base, '_layouts'), layout || 'category_index.html')
 
       title_prefix             = site.config['cateogry_title_prefix'] || 'Everything in the '
       self.data['title']       = "#{title_prefix}#{category}"
@@ -84,54 +114,6 @@ module Jekyll
     
   end
 
-  class CategoryPager
-
-    attr_reader :page, :per_page, :posts, :total_posts, :total_pages, :previous_page, :next_page, :category
-
-    def self.calculate_pages(all_posts, per_page)
-      num_pages = all_posts.size / per_page.to_i
-      num_pages = num_pages + 1 if all_posts.size % per_page.to_i != 0
-      num_pages
-    end
-
-    def self.pagination_enabled?(config, page)
-      page.name == 'index.html' && page.data.key?('category') && !config['paginate'].nil?
-    end
-
-    def initialize(config, page, all_posts, category, num_pages = nil)
-        
-    	@category = category
-      @page = page
-      @per_page = config['paginate'].to_i
-      @total_pages = num_pages || Pager.calculate_pages(all_posts, @per_page)
-
-      if @page > @total_pages
-        raise RuntimeError, "page number can't be greater than total pages: #{@page} > #{@total_pages}"
-      end
-
-      init = (@page - 1) * @per_page
-      offset = (init + @per_page - 1) >= all_posts.size ? all_posts.size : (init + @per_page - 1)
-
-      @total_posts = all_posts.size
-      @posts = all_posts[init..offset]
-      @previous_page = @page != 1 ? @page - 1 : nil
-      @next_page = @page != @total_pages ? @page + 1 : nil
-
-    end
-
-    def to_liquid
-      {
-        'page' => page,
-        'per_page' => per_page,
-        'posts' => posts,
-        'total_posts' => total_posts,
-        'total_pages' => total_pages,
-        'previous_page' => previous_page,
-        'next_page' => next_page,
-        'category' => category
-      }
-    end
-  end
   
   module Filters
   
