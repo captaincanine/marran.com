@@ -146,21 +146,30 @@
 
 
 /* HTML ELEMENTS */
-body				{ font-family: 'Ubuntu', sans-serif; line-height: 150%; }
+body				{ font-family: 'UbuntuRegular', sans-serif; line-height: 150%; }
 
-p					{ font-family: 'Ubuntu', sans-serif; font-size: 108%; color: #333; margin-bottom: 1em; }
+p					{ font-family: 'UbuntuRegular', sans-serif; font-size: 108%; color: #333; margin-bottom: 1em; }
 h1					{ font: 246.2% 'Folksolid', sans-serif; color: #2A3B63; text-transform: uppercase; }
 
 a					{ color: #2A3B63; }
 
-strong			{ font-weight: 700; }
-em					{ font-style: italic; }
+strong, b		{ font-family: 'UbuntuBold'; font-weight: normal !important; }
+em, i				{ font-family: 'UbuntuItalic'; font-style: normal !important; }
+
+strong em,
+strong i,
+b em,
+b i,
+em strong,
+em b,
+i strong,
+i b         { font-family: 'UbuntuBoldItalic'; }
 
 ol					{ padding-left: 12px; }
-ol li				{ margin: 1em; list-style-type: decimal; font-family: 'Ubuntu', sans-serif; font-size: 108%; }
+ol li				{ margin: 1em; list-style-type: decimal; font-family: 'UbuntuRegular', sans-serif; font-size: 108%; }
 
 ul					{ padding-left: 12px; }
-ul li				{ margin: 1em; list-style-type: disc; font-family: 'Ubuntu', sans-serif; font-size: 108%; }
+ul li				{ margin: 1em; list-style-type: disc; font-family: 'UbuntuRegular', sans-serif; font-size: 108%; }
 
 
 /* BACKGROUNDS */
@@ -232,7 +241,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 
 .home-bottom .box-middle-left .title	{ font-family: 'Folksolid'; text-transform: uppercase; }
 .home-bottom .box-header-left .title	{ float: left; }
-.home-bottom .box-header-left .meta		{ float: right; color: #999; font-family: 'Ubuntu', sans-serif; font-size: 10px; text-transform: none; line-height: 22px; }
+.home-bottom .box-header-left .meta		{ float: right; color: #999; font-family: 'UbuntuRegular', sans-serif; font-size: 10px; text-transform: none; line-height: 22px; }
 .home-bottom .box-header-left .meta	a	{ color: #C34E02; }
 
 
@@ -248,7 +257,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 .post-image img	{ width: 99%; border: 1px solid #333; }
 
 .post h1				{ line-height: 1em; }
-.post .meta			{ font-family: 'Ubuntu', sans-serif; line-height: 120%; text-transform: none; color: #000; font-size: 11px; margin-bottom: 4px; }
+.post .meta			{ font-family: 'UbuntuRegular', sans-serif; line-height: 120%; text-transform: none; color: #000; font-size: 11px; margin-bottom: 4px; }
 .post .meta a		{ color: #C34E02; }
 
 .post h3				{ font-family: 'Folksolid'; font-size: 150%; line-height: 90%; margin: 18px 0px 4px; text-decoration: none; text-transform: uppercase; }
@@ -274,7 +283,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 .tag-index h1			{ font-size: 197%; }
 .tag-index .title		{ font-family: 'Folksolid'; font-size: 182%; text-transform: uppercase; margin-bottom: 4px; }
 .tag-index .title a	{ text-decoration: none; }
-.tag-index .meta		{ color: #999; font-family: 'Ubuntu', sans-serif; font-size: 10px; text-transform: none; line-height: 22px; }
+.tag-index .meta		{ color: #999; font-family: 'UbuntuRegular', sans-serif; font-size: 10px; text-transform: none; line-height: 22px; }
 .tag-index .meta	a	{ color: #C34E02; }
 .tag-index .image		{ width: 240px; float: left; margin: -6px 12px 12px 0; }
 .tag-index .image img	{ width: 100%; border: 1px solid #666; }
@@ -285,7 +294,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 /* SERIES */
 
 .series-box .box-title .title		{ font-family: 'Folksolid'; text-transform: uppercase; font-size: 182%; line-height: 90%; text-decoration: none; margin-bottom: 4px; }
-.series-box .box-title .help		{ font-family: 'Ubuntu', sans-serif; text-transform: none; color: #666; font-size: 11px; line-height: 80%; margin-bottom: 1em; }
+.series-box .box-title .help		{ font-family: 'UbuntuRegular', sans-serif; text-transform: none; color: #666; font-size: 11px; line-height: 80%; margin-bottom: 1em; }
 .series-item				{ margin: 0 0 1em; }
 .series-item.current		{ background: url('/images/red-dot.png') top left no-repeat; padding-left: 32px; }
 .series-item .title		{ font-family: 'Folksolid'; text-transform: uppercase; font-size: 182%; line-height: 90%; color: #666; }
@@ -305,7 +314,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 #navigation a	{ text-decoration: none; }
 .nav-section	{ float: left; width: 134px; }
 .nav-title		{ font-family: 'Folksolid'; text-transform: uppercase; color: #923B02; font-size: 32px; line-height: 32px; }
-.nav-subtitle	{ font-family: 'Ubuntu', sans-serif; line-height: 120%; text-transform: none; color: #000; font-size: 11px; margin-right: 24px; }
+.nav-subtitle	{ font-family: 'UbuntuRegular', sans-serif; line-height: 120%; text-transform: none; color: #000; font-size: 11px; margin-right: 24px; }
 .nav-title {
 	-moz-text-shadow: 2px 2px 0px #fff;
 	-webkit-text-shadow: 2px 2px 0px #fff;
@@ -344,7 +353,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 #search-bar #search-text		{ font-size: 93%; color: #999; }
 #search-bar label					{ font: 138.5% 'Folksolid'; display: block; float: left; padding: 2px 8px 0; }
 #search-results					{ background: #fff; border: 2px solid #2A3B63; position: absolute; right: 0; top: 30px; width: 400px; display: none; color: #333; }
-#search-results .search-entry	{ margin: 12px; font: 93% 'Ubuntu'; text-transform: none;}
+#search-results .search-entry	{ margin: 12px; font: 93% 'UbuntuRegular'; text-transform: none;}
 #search-results .title			{ font: 167% 'Folksolid', sans-serif; color: #2A3B63; text-transform: uppercase; }
 #search-results {
 	-moz-box-shadow: 4px 4px 4px #666;
@@ -364,7 +373,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 .category-index h1			{ font-size: 197%; }
 .category-index .title		{ font-family: 'Folksolid'; font-size: 182%; text-transform: uppercase; margin-bottom: 4px; }
 .category-index .title a	{ text-decoration: none; }
-.category-index .meta		{ color: #999; font-family: 'Ubuntu', sans-serif; text-transform: none; }
+.category-index .meta		{ color: #999; font-family: 'UbuntuRegular', sans-serif; text-transform: none; }
 .category-index .meta a		{ color: #C34E02; }
 .category-index .image		{ width: 240px; float: left; margin: -6px 12px 12px 0; }
 .category-index .image img	{ width: 100%; border: 1px solid #666; }
@@ -393,7 +402,7 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 .teaser-feature .title	{ font-size: 20px; }
 .teaser .image		{ width: 240px; float: left; margin: -6px 12px 12px 0; }
 
-.teaser .meta		{ color: #999; font-family: 'Ubuntu', sans-serif; text-transform: none; }
+.teaser .meta		{ color: #999; font-family: 'UbuntuRegular', sans-serif; text-transform: none; }
 .teaser .meta a	{ color: #C34E02; }
 
 
