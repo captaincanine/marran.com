@@ -1,10 +1,10 @@
 @font-face {
     font-family: 'Folksolid';
-    src: url('Folksolid-webfont.eot');
-    src: url('Folksolid-webfont.eot?iefix') format('eot'),
-         url('Folksolid-webfont.woff') format('woff'),
-         url('Folksolid-webfont.ttf') format('truetype'),
-         url('Folksolid-webfont.svg#webfontTsbwwbUA') format('svg');
+    src: url('/fonts/Folksolid-webfont.eot');
+    src: url('/fonts/Folksolid-webfont.eot?iefix') format('eot'),
+         url('/fonts/Folksolid-webfont.woff') format('woff'),
+         url('/fonts/Folksolid-webfont.ttf') format('truetype'),
+         url('/fonts/Folksolid-webfont.svg#webfontTsbwwbUA') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -12,11 +12,11 @@
 
 @font-face {
     font-family: 'Folksketches';
-    src: url('Folksketches-webfont.eot');
-    src: url('Folksketches-webfont.eot?iefix') format('eot'),
-         url('Folksketches-webfont.woff') format('woff'),
-         url('Folksketches-webfont.ttf') format('truetype'),
-         url('Folksketches-webfont.svg#webfontAd4dtFmY') format('svg');
+    src: url('/fonts/Folksketches-webfont.eot');
+    src: url('/fonts/Folksketches-webfont.eot?iefix') format('eot'),
+         url('/fonts/Folksketches-webfont.woff') format('woff'),
+         url('/fonts/Folksketches-webfont.ttf') format('truetype'),
+         url('/fonts/Folksketches-webfont.svg#webfontAd4dtFmY') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -24,11 +24,11 @@
 
 @font-face {
     font-family: 'Folkoutline';
-    src: url('Folkoutline-webfont.eot');
-    src: url('Folkoutline-webfont.eot?iefix') format('eot'),
-         url('Folkoutline-webfont.woff') format('woff'),
-         url('Folkoutline-webfont.ttf') format('truetype'),
-         url('Folkoutline-webfont.svg#webfont1s8wTkmp') format('svg');
+    src: url('/fonts/Folkoutline-webfont.eot');
+    src: url('/fonts/Folkoutline-webfont.eot?iefix') format('eot'),
+         url('/fonts/Folkoutline-webfont.woff') format('woff'),
+         url('/fonts/Folkoutline-webfont.ttf') format('truetype'),
+         url('/fonts/Folkoutline-webfont.svg#webfont1s8wTkmp') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -36,11 +36,11 @@
 
 @font-face {
     font-family: 'Folkshadow';
-    src: url('Folkshadow-webfont.eot');
-    src: url('Folkshadow-webfont.eot?iefix') format('eot'),
-         url('Folkshadow-webfont.woff') format('woff'),
-         url('Folkshadow-webfont.ttf') format('truetype'),
-         url('Folkshadow-webfont.svg#webfontKN1Y4spF') format('svg');
+    src: url('/fonts/Folkshadow-webfont.eot');
+    src: url('/fonts/Folkshadow-webfont.eot?iefix') format('eot'),
+         url('/fonts/Folkshadow-webfont.woff') format('woff'),
+         url('/fonts/Folkshadow-webfont.ttf') format('truetype'),
+         url('/fonts/Folkshadow-webfont.svg#webfontKN1Y4spF') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -48,11 +48,11 @@
 
 @font-face {
     font-family: 'UbuntuRegular';
-    src: url('Ubuntu-Regular-webfont.eot');
-    src: url('Ubuntu-Regular-webfont.eot?iefix') format('eot'),
-         url('Ubuntu-Regular-webfont.woff') format('woff'),
-         url('Ubuntu-Regular-webfont.ttf') format('truetype'),
-         url('Ubuntu-Regular-webfont.svg#webfontHLBpjp3B') format('svg');
+    src: url('/fonts/Ubuntu-Regular-webfont.eot');
+    src: url('/fonts/Ubuntu-Regular-webfont.eot?iefix') format('eot'),
+         url('/fonts/Ubuntu-Regular-webfont.woff') format('woff'),
+         url('/fonts/Ubuntu-Regular-webfont.ttf') format('truetype'),
+         url('/fonts/Ubuntu-Regular-webfont.svg#webfontHLBpjp3B') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -60,11 +60,11 @@
 
 @font-face {
     font-family: 'UbuntuItalic';
-    src: url('Ubuntu-Italic-webfont.eot');
-    src: url('Ubuntu-Italic-webfont.eot?iefix') format('eot'),
-         url('Ubuntu-Italic-webfont.woff') format('woff'),
-         url('Ubuntu-Italic-webfont.ttf') format('truetype'),
-         url('Ubuntu-Italic-webfont.svg#webfontthRLUYUD') format('svg');
+    src: url('/fonts/Ubuntu-Italic-webfont.eot');
+    src: url('/fonts/Ubuntu-Italic-webfont.eot?iefix') format('eot'),
+         url('/fonts/Ubuntu-Italic-webfont.woff') format('woff'),
+         url('/fonts/Ubuntu-Italic-webfont.ttf') format('truetype'),
+         url('/fonts/Ubuntu-Italic-webfont.svg#webfontthRLUYUD') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -72,11 +72,11 @@
 
 @font-face {
     font-family: 'UbuntuBold';
-    src: url('Ubuntu-Bold-webfont.eot');
-    src: url('Ubuntu-Bold-webfont.eot?iefix') format('eot'),
-         url('Ubuntu-Bold-webfont.woff') format('woff'),
-         url('Ubuntu-Bold-webfont.ttf') format('truetype'),
-         url('Ubuntu-Bold-webfont.svg#webfont1d3fIoP8') format('svg');
+    src: url('/fonts/Ubuntu-Bold-webfont.eot');
+    src: url('/fonts/Ubuntu-Bold-webfont.eot?iefix') format('eot'),
+         url('/fonts/Ubuntu-Bold-webfont.woff') format('woff'),
+         url('/fonts/Ubuntu-Bold-webfont.ttf') format('truetype'),
+         url('/fonts/Ubuntu-Bold-webfont.svg#webfont1d3fIoP8') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -84,11 +84,11 @@
 
 @font-face {
     font-family: 'UbuntuBoldItalic';
-    src: url('Ubuntu-BoldItalic-webfont.eot');
-    src: url('Ubuntu-BoldItalic-webfont.eot?iefix') format('eot'),
-         url('Ubuntu-BoldItalic-webfont.woff') format('woff'),
-         url('Ubuntu-BoldItalic-webfont.ttf') format('truetype'),
-         url('Ubuntu-BoldItalic-webfont.svg#webfontir7CsQCC') format('svg');
+    src: url('/fonts/Ubuntu-BoldItalic-webfont.eot');
+    src: url('/fonts/Ubuntu-BoldItalic-webfont.eot?iefix') format('eot'),
+         url('/fonts/Ubuntu-BoldItalic-webfont.woff') format('woff'),
+         url('/fonts/Ubuntu-BoldItalic-webfont.ttf') format('truetype'),
+         url('/fonts/Ubuntu-BoldItalic-webfont.svg#webfontir7CsQCC') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -96,11 +96,11 @@
 
 @font-face {
     font-family: 'UbuntuLight';
-    src: url('Ubuntu-Light-webfont.eot');
-    src: url('Ubuntu-Light-webfont.eot?iefix') format('eot'),
-         url('Ubuntu-Light-webfont.woff') format('woff'),
-         url('Ubuntu-Light-webfont.ttf') format('truetype'),
-         url('Ubuntu-Light-webfont.svg#webfontRPnMKj6g') format('svg');
+    src: url('/fonts/Ubuntu-Light-webfont.eot');
+    src: url('/fonts/Ubuntu-Light-webfont.eot?iefix') format('eot'),
+         url('/fonts/Ubuntu-Light-webfont.woff') format('woff'),
+         url('/fonts/Ubuntu-Light-webfont.ttf') format('truetype'),
+         url('/fonts/Ubuntu-Light-webfont.svg#webfontRPnMKj6g') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -108,11 +108,11 @@
 
 @font-face {
     font-family: 'UbuntuLightItalic';
-    src: url('Ubuntu-LightItalic-webfont.eot');
-    src: url('Ubuntu-LightItalic-webfont.eot?iefix') format('eot'),
-         url('Ubuntu-LightItalic-webfont.woff') format('woff'),
-         url('Ubuntu-LightItalic-webfont.ttf') format('truetype'),
-         url('Ubuntu-LightItalic-webfont.svg#webfontpehCzxnt') format('svg');
+    src: url('/fonts/Ubuntu-LightItalic-webfont.eot');
+    src: url('/fonts/Ubuntu-LightItalic-webfont.eot?iefix') format('eot'),
+         url('/fonts/Ubuntu-LightItalic-webfont.woff') format('woff'),
+         url('/fonts/Ubuntu-LightItalic-webfont.ttf') format('truetype'),
+         url('/fonts/Ubuntu-LightItalic-webfont.svg#webfontpehCzxnt') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -120,11 +120,11 @@
 
 @font-face {
     font-family: 'UbuntuMedium';
-    src: url('Ubuntu-Medium-webfont.eot');
-    src: url('Ubuntu-Medium-webfont.eot?iefix') format('eot'),
-         url('Ubuntu-Medium-webfont.woff') format('woff'),
-         url('Ubuntu-Medium-webfont.ttf') format('truetype'),
-         url('Ubuntu-Medium-webfont.svg#webfontcsgXxJIo') format('svg');
+    src: url('/fonts/Ubuntu-Medium-webfont.eot');
+    src: url('/fonts/Ubuntu-Medium-webfont.eot?iefix') format('eot'),
+         url('/fonts/Ubuntu-Medium-webfont.woff') format('woff'),
+         url('/fonts/Ubuntu-Medium-webfont.ttf') format('truetype'),
+         url('/fonts/Ubuntu-Medium-webfont.svg#webfontcsgXxJIo') format('svg');
     font-weight: normal;
     font-style: normal;
 
@@ -132,11 +132,11 @@
 
 @font-face {
     font-family: 'UbuntuMediumItalic';
-    src: url('Ubuntu-MediumItalic-webfont.eot');
-    src: url('Ubuntu-MediumItalic-webfont.eot?iefix') format('eot'),
-         url('Ubuntu-MediumItalic-webfont.woff') format('woff'),
-         url('Ubuntu-MediumItalic-webfont.ttf') format('truetype'),
-         url('Ubuntu-MediumItalic-webfont.svg#webfonteCMdxuKx') format('svg');
+    src: url('/fonts/Ubuntu-MediumItalic-webfont.eot');
+    src: url('/fonts/Ubuntu-MediumItalic-webfont.eot?iefix') format('eot'),
+         url('/fonts/Ubuntu-MediumItalic-webfont.woff') format('woff'),
+         url('/fonts/Ubuntu-MediumItalic-webfont.ttf') format('truetype'),
+         url('/fonts/Ubuntu-MediumItalic-webfont.svg#webfonteCMdxuKx') format('svg');
     font-weight: normal;
     font-style: normal;
 

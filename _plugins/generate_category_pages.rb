@@ -1,8 +1,23 @@
+=begin
+
+CategoryPagination allows jekyll sites to have index pages for each category,
+and to break those category indexes into multiple pages.
+
+This code belongs in the _plugins directory. 
+
+The following items also need to be true:
+
+*   There is a file called "category_index.html" in the _layouts directory
+*   In the _config.yml, there needs to be a line that says "pagination: true"
+*   There needs to be an "index.html" page with "category: category-name" in the YAML front matter. 
+    Be sure to use the actual category name.
+
+=end
+
 module Jekyll
 
-	require 'ruby-debug'
-
   class CategoryPagination < Generator
+  
     safe true
 
     def generate(site)
@@ -11,18 +26,6 @@ module Jekyll
       end
     end
 
-    # Paginates the blog's posts. Renders the index.html file into paginated
-    # directories, ie: page2/index.html, page3/index.html, etc and adds more
-    # site-wide data.
-    #   +page+ is the index.html Page that requires pagination
-    #
-    # {"paginator" => { "page" => <Number>,
-    #                   "per_page" => <Number>,
-    #                   "posts" => [<Post>],
-    #                   "total_posts" => <Number>,
-    #                   "total_pages" => <Number>,
-    #                   "previous_page" => <Number>,
-    #                   "next_page" => <Number> }}
     def paginate(site, page)
     
       all_posts = site.categories[page.data['category']].sort_by { |p| p.date }
@@ -45,10 +48,10 @@ module Jekyll
 
   end
 
-  # The TagIndex class creates a single tag page for the specified tag.
+  # The CategorySubPage class creates a single category page for the specified tag.
   class CategorySubPage < Page
     
-    # Initializes a new TagIndex.
+    # Initializes a new CategorySubPage.
     #
     #  +base+         is the String path to the <source>.
     #  +tag_dir+ is the String path between <source> and the tag folder.
@@ -70,6 +73,7 @@ module Jekyll
   end
 
   class CategoryPager
+
     attr_reader :page, :per_page, :posts, :total_posts, :total_pages, :previous_page, :next_page, :category
 
     def self.calculate_pages(all_posts, per_page)
@@ -100,6 +104,7 @@ module Jekyll
       @posts = all_posts[init..offset]
       @previous_page = @page != 1 ? @page - 1 : nil
       @next_page = @page != @total_pages ? @page + 1 : nil
+
     end
 
     def to_liquid
