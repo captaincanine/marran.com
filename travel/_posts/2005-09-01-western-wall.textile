@@ -12,46 +12,89 @@ tags:
 description: The second half of our last full day in Israel was dedicated to the Western Wall. The Western Wall is the only remaining portion of the Temple Mount that King Herod built for the Jews. The Temple Mount was destroyed by the Romans. It is now the location of the muslim Dome of the Rock (where Muhammed left the earth to talk with God), and it is also supposedly the rock where Abraham was commanded to sacrifice Isaac, so you get to see the problems that people have about which group has more claim to the land than someone else.
 ---
 <p>The second half of our last full day in Israel was dedicated to the Western Wall. The Western Wall is the only remaining portion of the Temple Mount that King Herod built for the Jews. The Temple Mount was destroyed by the Romans. It is now the location of the muslim Dome of the Rock (where Muhammed left the earth to talk with God), and it is also supposedly the rock where Abraham was commanded to sacrifice Isaac, so you get to see the problems that people have about which group has more claim to the land than someone else. You almost expect to see a sign posted that says "No more religious epiphanies in this area, please". The Western Wall also functions as an open air synagogue. There are always people praying. I had that look of "easy convert" on my face and was approached twice by people trying to convert me to some particular sect of Judaism. All along the Western Wall, people write prayers on paper, fold them up, and place them in the cracks of the wall. Although it's most prevalent here, I saw this being done as far north as the Sea of Galilee.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Visitors to the Western Wall" target="_blank" href="/files/photos/israel/westernwall-prayers.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Visitors to the Western Wall" target="_blank" href="/files/photos/israel/westernwall-prayers.jpg">
+
     <img class="journalPhoto" alt="Visitors to the Western Wall" src="/files/photos/israel/westernwall-prayers.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">Visitors to the Western Wall</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A close-up of the prayers written in notes in the stone cracks" target="_blank" href="/files/photos/israel/westernwall-notes.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A close-up of the prayers written in notes in the stone cracks" target="_blank" href="/files/photos/israel/westernwall-notes.jpg">
+
     <img class="journalPhoto" alt="A close-up of the prayers written in notes in the stone cracks" src="/files/photos/israel/westernwall-notes.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">A close-up of the prayers written in notes in the stone cracks</div>
+
 </div>
+
 <p>David and I took a tour that takes you underneath the city of Jerusalem and walk all along the Western Wall. Apparently, they have concerts and other events underneath the city in this area.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The very bottom of this pciture is one big stone that is estimated to weight 600 tons!" target="_blank" href="/files/photos/israel/westernwall-stone.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The very bottom of this pciture is one big stone that is estimated to weight 600 tons!" target="_blank" href="/files/photos/israel/westernwall-stone.jpg">
+
     <img class="journalPhoto" alt="The very bottom of this pciture is one big stone that is estimated to weight 600 tons!" src="/files/photos/israel/westernwall-stone.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The very bottom of this pciture is one big stone that is estimated to weight 600 tons!</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David!" target="_blank" href="/files/photos/israel/westernwall-david.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David!" target="_blank" href="/files/photos/israel/westernwall-david.jpg">
+
     <img class="journalPhoto" alt="David!" src="/files/photos/israel/westernwall-david.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">David!</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This picture doesn't really capture the grandeur of the height of the tour." target="_blank" href="/files/photos/israel/westernwall-hall.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This picture doesn't really capture the grandeur of the height of the tour." target="_blank" href="/files/photos/israel/westernwall-hall.JPG">
+
     <img class="journalPhoto" alt="This picture doesn't really capture the grandeur of the height of the tour." src="/files/photos/israel/westernwall-hall.JPG" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">This picture doesn't really capture the grandeur of the height of the tour.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Roman staircase" target="_blank" href="/files/photos/israel/westernwall-roman-stairs.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Roman staircase" target="_blank" href="/files/photos/israel/westernwall-roman-stairs.jpg">
+
     <img class="journalPhoto" alt="A Roman staircase" src="/files/photos/israel/westernwall-roman-stairs.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">A Roman staircase</div>
+
 </div>

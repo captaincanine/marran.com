@@ -10,20 +10,37 @@ tags:
 description: What was quite exciting and novel slowly descended into hell by night. It's extremely disorienting to walk around New York City with absolutely no lights on at all. Even after living through it, I can't imagine New York without lights. David thought I was crazy, but I took a brief walk with Gogo after the sun went down. You could hear people all around, and you could see flashlights, but you couldn't see anyone. Gogo was very unnerved.
 ---
 <p>What was quite exciting and novel slowly descended into hell by night. It's extremely disorienting to walk around New York City with absolutely no lights on at all. Even after living through it, I can't imagine New York without lights. David thought I was crazy, but I took a brief walk with Gogo after the sun went down. You could hear people all around, and you could see flashlights, but you couldn't see anyone. Gogo was very unnerved.</p>
+
 <p>The night was like a Carribean island. People had brought makeshift drums out on to the street to play music and dance. We tried to read by candle light, but it turns out that candle light is pretty inadequate for reading. We spent most of the evening just lying on the sofa and listening to the handheld radio for news. It was unbelieveably hot.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Gogo enjoyed the heat" target="_blank" href="/files/photos/blackout/candlelight_gogo.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo enjoyed the heat" target="_blank" href="/files/photos/blackout/candlelight_gogo.jpg">
+
     <img class="journalPhoto" alt="Gogo enjoyed the heat" src="/files/photos/blackout/candlelight_gogo.jpg" width="300">
+
   </a>
+
   
+
   <div class="journalCaption">Gogo enjoyed the heat</div>
+
 </div>
+
 <p>I went to bad that night expecting to hear the electricity to go on at any minute. I was looking forward to the bright lights, loud radio, and most importantly...THE AIR CONDITIONING! Imagine my disappointment when I woke up at 8 the next morning to the same stultifying heat and humidity in sweat soaked sheets.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Gogo and David snuggle" target="_blank" href="/files/photos/blackout/candlelight_snuggle.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo and David snuggle" target="_blank" href="/files/photos/blackout/candlelight_snuggle.jpg">
+
     <img class="journalPhoto" alt="Gogo and David snuggle" src="/files/photos/blackout/candlelight_snuggle.jpg" width="300">
+
   </a>
+
   
+
   <div class="journalCaption">Gogo and David snuggle</div>
+
 </div>
+
 <p>New York had enjoyed the novelty of the blackout the night before. The thought of a second night of a blackout had everyone pissed and grumpy. Chelsea was one of the last neighborhoods to get their electricity back. David, Gogo, and I were going to go for YET ANOTHER walk when the electricity finally returned. The news had told us not to turn air conditioning on right away. We decided not to follow that advice.</p>

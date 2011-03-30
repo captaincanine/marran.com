@@ -9,30 +9,54 @@ redirects:
 - /personal/travel/provence/saturday-arrival-nice
 tags: 
 - Provence
-description: I can't say that we had the best flight to Nice. We couldn't get seats together on the flight out, but a woman was kind enough to switch with us. We didn't sleep much at all on the flight over, so by the time we got to Heathrow, we were pretty tired. And then our flight kept getting delayed, we got stuck on the runway, and we sat next to this crazy woman that kept shifting every five seconds and was crying (literally) about not being able to sit at the window. Anyway, we got to Nice and had a pleasant taxi ride to the hotel. The
+description: "I can't say that we had the best flight to Nice. We couldn't get seats together on the flight out, but a woman was kind enough to switch with us. We didn't sleep much at all on the flight over, so by the time we got to Heathrow, we were pretty tired. And then our flight kept getting delayed, we got stuck on the runway, and we sat next to this crazy woman that kept shifting every five seconds and was crying (literally) about not being able to sit at the window."
 ---
 <p>I can't say that we had the best flight to Nice. We couldn't get seats together on the flight 
+
 out, but a woman was kind enough to switch with us. We didn't sleep much at all on the 
+
 flight over, so by the time we got to Heathrow, we were pretty tired. And then our flight 
+
 kept getting delayed, we got stuck on the runway, and we sat next to this crazy woman 
+
 that kept shifting every five seconds and was crying (literally) about not being able to sit 
+
 at the window. Anyway, we got to Nice and had a pleasant taxi ride to the hotel. The 
+
 taxis in France are luxurious compared with what we are used to in New York. Pretty 
+
 much as soon as we got settled in the hotel, we took a nap. We woke up around 7pm and 
+
 went for a walk in the old part of Nice (Le Vieux Nice). Finding a restaurant was not 
+
 hard, but finding a restaurant that was not just a pizzeria where we could get served 
+
 relatively quickly turned out to be rather daunting. We ended up ordering pizzas at a 
+
 more formal-looking restaurant and they just got their pizzas from the place next door. I 
+
 guess you could say that we benefited from the service of the friendly waiter and the 
+
 fruity aperitif. After that we went to the ice cream shops to end all ice cream shops. They 
+
 had at least 50 flavors, each one had a little sample atop the mound - for instance, banana 
+
 had a slice of banana on top of the ice cream so you could tell what it was, amaretto had 
+
 an amaretto cookie, etc. They even had savory flavors such as thyme and rosemary. After 
+
 ice cream, we went back to the hotel and I completely zonked out.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A view of the Promenade des Anglais" target="_blank" href="/files/photos/provence/nice_promenade.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the Promenade des Anglais" target="_blank" href="/files/photos/provence/nice_promenade.jpg">
+
     <img class="journalPhoto" alt="A view of the Promenade des Anglais" src="/files/photos/provence/nice_promenade.jpg" height="300" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A view of the Promenade des Anglais</div>
+
 </div>

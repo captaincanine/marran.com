@@ -9,64 +9,122 @@ redirects:
 - /personal/travel/tuscany/last-day-florence
 tags: 
 - Tuscany
-description: We just couldn't get enough of Florence, so we changed our plans somewhat to spend our last day in Florence before getting on the train home. We did a little sightseeing, had gelato at one of the world famous gelato places, and then went to our respective shopping excursions.On our earlier visits, one of the churches, Snata Croce, was closed. We went back and it was open. There are several famous Florentines buried here.
+description: We just couldn't get enough of Florence, so we changed our plans somewhat to spend our last day in Florence before getting on the train home. We did a little sightseeing, had gelato at one of the world famous gelato places, and then went to our respective shopping excursions. On our earlier visits, one of the churches, Snata Croce, was closed. We went back and it was open. There are several famous Florentines buried here.
 ---
 <p>We just couldn't get enough of Florence, so we changed our plans somewhat to spend our last day in Florence before getting on the train home. We did a little sightseeing, had gelato at one of the world famous gelato places, and then went to our respective shopping excursions.</p>
+
 <p>On our earlier visits, one of the churches, Snata Croce, was closed. We went back and it was open. There are several famous Florentines buried here.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A shot of the ceiling" target="_blank" href="/files/photos/tuscany/santacroce_ceiling.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the ceiling" target="_blank" href="/files/photos/tuscany/santacroce_ceiling.jpg">
+
     <img class="journalPhoto" alt="A shot of the ceiling" src="/files/photos/tuscany/santacroce_ceiling.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">A shot of the ceiling</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Galileo's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_galileo.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Galileo's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_galileo.jpg">
+
     <img class="journalPhoto" alt="Galileo's Tomb" src="/files/photos/tuscany/santacroce_galileo.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">Galileo's Tomb</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Michaelangelo's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_michealangelo.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Michaelangelo's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_michealangelo.jpg">
+
     <img class="journalPhoto" alt="Michaelangelo's Tomb" src="/files/photos/tuscany/santacroce_michealangelo.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">Michaelangelo's Tomb</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Machiavelli's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_machiavelli.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Machiavelli's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_machiavelli.jpg">
+
     <img class="journalPhoto" alt="Machiavelli's Tomb" src="/files/photos/tuscany/santacroce_machiavelli.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">Machiavelli's Tomb</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Rossini's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_rossini.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Rossini's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_rossini.jpg">
+
     <img class="journalPhoto" alt="Rossini's Tomb" src="/files/photos/tuscany/santacroce_rossini.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">Rossini's Tomb</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The garden" target="_blank" href="/files/photos/tuscany/santacroce_garden.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The garden" target="_blank" href="/files/photos/tuscany/santacroce_garden.jpg">
+
     <img class="journalPhoto" alt="The garden" src="/files/photos/tuscany/santacroce_garden.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The garden</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A mural" target="_blank" href="/files/photos/tuscany/santacroce_mural1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mural" target="_blank" href="/files/photos/tuscany/santacroce_mural1.jpg">
+
     <img class="journalPhoto" alt="A mural" src="/files/photos/tuscany/santacroce_mural1.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">A mural</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Another mural" target="_blank" href="/files/photos/tuscany/santacroce_mural2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another mural" target="_blank" href="/files/photos/tuscany/santacroce_mural2.jpg">
+
     <img class="journalPhoto" alt="Another mural" src="/files/photos/tuscany/santacroce_mural2.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">Another mural</div>
+
 </div>
+
 <p>Since being back, it's taken me weeks to get over a sadness that I can't start every day with a cappucino and a pastry, staring at rennaisance sculpture and architecture. There are many things here that aren't documented: the Italian Alps, the palace at Florence, the city hall at Sienna, the restuarants we went to, and countless of other details. Everyone deserves as much time in Tuscany as you can muster. Run, don't walk. This was a vacation I will not forget.</p>

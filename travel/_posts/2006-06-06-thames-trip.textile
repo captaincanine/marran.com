@@ -12,78 +12,153 @@ tags:
 description: Our next day in London, David was chomping at the bit to go to Oxford. I told him that there was no way were getting on a train and fighting weekend crowds again. I would be up for a boat ride, but we had a hard time finding a boat trip that would go that far up the Thames.
 ---
 <p><para para_guid="4bfa4743-cd25-480d-9e13-c159a0c320bb">Our next day in London, David was chomping at the bit to go to Oxford. I told him that there was no way were getting on a train and fighting weekend crowds again. I would be up for a boat ride, but we had a hard time finding a boat trip that would go that far up the Thames.</para></p>
+
 <p><para para_guid="66bedf09-1685-4287-aa6a-283504feca98">Instead, we decided to go the opposite direction and catch a boat to Greenwich. I'm still not clear on whether Greenwich is just a neighborhood of London or an outer borough or what. Anyway, it's south east of London and you can get there via boat since it's right on the Thames.</para></p>
+
 <p><para para_guid="f6040556-7686-4fbd-8a5a-333259f019ba">On the way to the ferry station, we passed by Buckingham Palace. There was a big crowd gathering just outside. We asked some people what they were waiting for. The first people we asked said that they saw the crowd and stopped but they didn't know either. Someone eventually told us that it was the Queen's 80th birthday.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The gardens outside Buckingham Palace" target="_blank" href="/files/photos/london/buckingham-garden.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The gardens outside Buckingham Palace" target="_blank" href="/files/photos/london/buckingham-garden.jpg">
+
     <img class="journalPhoto" alt="The gardens outside Buckingham Palace" src="/files/photos/london/buckingham-garden.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The gardens outside Buckingham Palace</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A View of Buckingham Palace from the Front" target="_blank" href="/files/photos/london/buckingham-front.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A View of Buckingham Palace from the Front" target="_blank" href="/files/photos/london/buckingham-front.jpg">
+
     <img class="journalPhoto" alt="A View of Buckingham Palace from the Front" src="/files/photos/london/buckingham-front.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A View of Buckingham Palace from the Front</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Parade for the Queen's Birthday" target="_blank" href="/files/photos/london/buckingham-parade1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Parade for the Queen's Birthday" target="_blank" href="/files/photos/london/buckingham-parade1.jpg">
+
     <img class="journalPhoto" alt="The Parade for the Queen's Birthday" src="/files/photos/london/buckingham-parade1.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The Parade for the Queen's Birthday</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="More of the Parade" target="_blank" href="/files/photos/london/buckingham-parade2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the Parade" target="_blank" href="/files/photos/london/buckingham-parade2.jpg">
+
     <img class="journalPhoto" alt="More of the Parade" src="/files/photos/london/buckingham-parade2.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">More of the Parade</div>
+
 </div>
+
 <p><para para_guid="2adbc2ac-73de-4e5b-8b4f-fddff8a3ca63">We continued to walk through the park and got some interesting shots. From this view, you can see the London Eye and Big Ben poking over the trees in the background.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="From the Park" target="_blank" href="/files/photos/london/buckingham-park.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="From the Park" target="_blank" href="/files/photos/london/buckingham-park.jpg">
+
     <img class="journalPhoto" alt="From the Park" src="/files/photos/london/buckingham-park.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">From the Park</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Some Very Tame Pelicans" target="_blank" href="/files/photos/london/buckingham-pelicans.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Some Very Tame Pelicans" target="_blank" href="/files/photos/london/buckingham-pelicans.jpg">
+
     <img class="journalPhoto" alt="Some Very Tame Pelicans" src="/files/photos/london/buckingham-pelicans.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Some Very Tame Pelicans</div>
+
 </div>
+
 <p><para para_guid="162b5ccd-8ca7-4024-b7c4-77d220bea847">We got to the ferry station just in time to catch a trip down the Thames. Although he claimed he wasn't a licensed tour guide, there was a crew member that was very entertaining and knowledgeable manning a microphone on the tour down the river.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The London Eye" target="_blank" href="/files/photos/london/thames-eye.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The London Eye" target="_blank" href="/files/photos/london/thames-eye.jpg">
+
     <img class="journalPhoto" alt="The London Eye" src="/files/photos/london/thames-eye.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">The London Eye</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The London Tower" target="_blank" href="/files/photos/london/thames-londontower.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The London Tower" target="_blank" href="/files/photos/london/thames-londontower.jpg">
+
     <img class="journalPhoto" alt="The London Tower" src="/files/photos/london/thames-londontower.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The London Tower</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A View of St Paul's from the River" target="_blank" href="/files/photos/london/thames-stpaul.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A View of St Paul's from the River" target="_blank" href="/files/photos/london/thames-stpaul.jpg">
+
     <img class="journalPhoto" alt="A View of St Paul's from the River" src="/files/photos/london/thames-stpaul.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A View of St Paul's from the River</div>
+
 </div>
+
 <p><para para_guid="d4609efd-e82c-4720-b144-e6dbbc57210f">The next photo is pretty much just for my mom. This photo shows a little canal off the Thames. It's the place in the novel "Oliver" where Bill Sykes dies. The movie filmed the scene in that location as well. It's now built up into condos. How sad.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Where They Hung Bill Sykes" target="_blank" href="/files/photos/london/thames-oliver.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Where They Hung Bill Sykes" target="_blank" href="/files/photos/london/thames-oliver.jpg">
+
     <img class="journalPhoto" alt="Where They Hung Bill Sykes" src="/files/photos/london/thames-oliver.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Where They Hung Bill Sykes</div>
+
 </div>

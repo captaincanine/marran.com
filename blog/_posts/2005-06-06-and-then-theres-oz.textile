@@ -17,9 +17,9 @@ description: As fate would have it, in the summer of 2005, we adopted little Isa
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox" class="popupwindow" title="Evan, Renee, Rasta, and Oz on the day they delivered him to NYC" target="_blank" href="/files/photos/gogo/Evan-Renee-in-NYC.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Evan, Renee, Rasta, and Oz on the day they delivered him to NYC" target="_blank" href="/files/photos/gogo/Evan-Renee-in-NYC.jpg">
 
-    <img class="journalPhoto" alt="Evan, Renee, Rasta, and Oz on the day they delivered him to NYC" src="/files/photos/gogo/Evan-Renee-in-NYC.jpg" width="300">
+    <img rel="shadowbox[slideshow]" class="popupwindow" alt="Evan, Renee, Rasta, and Oz on the day they delivered him to NYC" src="/files/photos/gogo/Evan-Renee-in-NYC.jpg" width="300">
 
   </a>
 
@@ -31,9 +31,9 @@ description: As fate would have it, in the summer of 2005, we adopted little Isa
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox" class="popupwindow" title="Oz going counter-surfing" target="_blank" href="/files/photos/gogo/Counter-Surfing.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Oz going counter-surfing" target="_blank" href="/files/photos/gogo/Counter-Surfing.jpg">
 
-    <img class="journalPhoto" alt="Oz going counter-surfing" src="/files/photos/gogo/Counter-Surfing.jpg" width="300">
+    <img rel="shadowbox[slideshow]" class="popupwindow" alt="Oz going counter-surfing" src="/files/photos/gogo/Counter-Surfing.jpg" width="300">
 
   </a>
 
@@ -45,9 +45,9 @@ description: As fate would have it, in the summer of 2005, we adopted little Isa
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox" class="popupwindow" title="Oz Resting" target="_blank" href="/files/photos/gogo/Oz-Resting.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Oz Resting" target="_blank" href="/files/photos/gogo/Oz-Resting.jpg">
 
-    <img class="journalPhoto" alt="Oz Resting" src="/files/photos/gogo/Oz-Resting.jpg" width="400">
+    <img rel="shadowbox[slideshow]" class="popupwindow" alt="Oz Resting" src="/files/photos/gogo/Oz-Resting.jpg" width="400">
 
   </a>
 
@@ -59,9 +59,9 @@ description: As fate would have it, in the summer of 2005, we adopted little Isa
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox" class="popupwindow" title="Oz and Gogo each eating a flossy" target="_blank" href="/files/photos/gogo/Flossy-Time.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Oz and Gogo each eating a flossy" target="_blank" href="/files/photos/gogo/Flossy-Time.jpg">
 
-    <img class="journalPhoto" alt="Oz and Gogo each eating a flossy" src="/files/photos/gogo/Flossy-Time.jpg" width="400">
+    <img rel="shadowbox[slideshow]" class="popupwindow" alt="Oz and Gogo each eating a flossy" src="/files/photos/gogo/Flossy-Time.jpg" width="400">
 
   </a>
 
@@ -73,9 +73,9 @@ description: As fate would have it, in the summer of 2005, we adopted little Isa
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox" class="popupwindow" title="Attack of the Bee Killers" target="_blank" href="/files/photos/gogo/Attack-of-the-Bee-Killers.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Attack of the Bee Killers" target="_blank" href="/files/photos/gogo/Attack-of-the-Bee-Killers.jpg">
 
-    <img class="journalPhoto" alt="Attack of the Bee Killers" src="/files/photos/gogo/Attack-of-the-Bee-Killers.jpg" width="400">
+    <img rel="shadowbox[slideshow]" class="popupwindow" alt="Attack of the Bee Killers" src="/files/photos/gogo/Attack-of-the-Bee-Killers.jpg" width="400">
 
   </a>
 

@@ -12,171 +12,339 @@ tags:
 description: "Today we had an early start. We met at 6:30 to visit all the stops. And it's a good thing, because we had some surprises later on the trip that delayed us for a few hours. We started off with about a 45 minute drive to lunch spot. I forgot to ask for the details of where we were, but looking back at the map now, I think we were at Rio Chancal\xC3\xA1. It was a small tourist stop on the road with excellent homemade breakfasts under a thatched roof. There was a large German tour bus that stopped for breakfast at the same time we did."
 ---
 <p>Today we had an early start. We met at 6:30 to visit all the stops. And it's a good thing, because we had some surprises later on the trip that delayed us for a few hours. We started off with about a 45 minute drive to lunch spot. I forgot to ask for the details of where we were, but looking back at the map now, I think we were at Rio Chancalá. It was a small tourist stop on the road with excellent homemade breakfasts under a thatched roof. There was a large German tour bus that stopped for breakfast at the same time we did.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Breakfast at Rio Chancalá. David is at the left of the table. Although he looks like he's focusing on the conversation, he's really contemplating having another quesadilla." target="_blank" href="/files/photos/chiapas/bonampak-breakfast.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Breakfast at Rio Chancalá. David is at the left of the table. Although he looks like he's focusing on the conversation, he's really contemplating having another quesadilla." target="_blank" href="/files/photos/chiapas/bonampak-breakfast.jpg">
+
     <img class="journalPhoto" alt="Breakfast at Rio Chancalá. David is at the left of the table. Although he looks like he's focusing on the conversation, he's really contemplating having another quesadilla." src="/files/photos/chiapas/bonampak-breakfast.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Breakfast at Rio Chancalá. David is at the left of the table. Although he looks like he's focusing on the conversation, he's really contemplating having another quesadilla.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="We passed a sign warning us that we were entering Zapatista territoy. I was blissfully ignorant of the details of the sign." target="_blank" href="/files/photos/chiapas/bonampak-zapatista.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="We passed a sign warning us that we were entering Zapatista territoy. I was blissfully ignorant of the details of the sign." target="_blank" href="/files/photos/chiapas/bonampak-zapatista.jpg">
+
     <img class="journalPhoto" alt="We passed a sign warning us that we were entering Zapatista territoy. I was blissfully ignorant of the details of the sign." src="/files/photos/chiapas/bonampak-zapatista.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">We passed a sign warning us that we were entering Zapatista territoy. I was blissfully ignorant of the details of the sign.</div>
+
 </div>
+
 <p>After breakfast, we climbed aboard the van, hit the road, and...didn't get very far. 
+
 About 15 minutes into the next section, the traffic all came to a stop. The local Mayans had blocked off the road as a protest to the government. And that is the only road that takes us from where we were to where we wanted to go. In fact, if it hadn't been for the Zapatista revolution, there wouldn't be a road at all because the government paved roads so that they can easily get the military into towns and control the locals. Our van driver went to talk to the locals. Apparently three men had died in a fight over land the day before. The locals had been asking the government to intervene for some time and put down clear ownership of the land. Our van happened to be stopped right in front of a house where they were holding a funeral for one of the deceased. There were women showing up in traditional Mayan dresses, followed by a lot of crying and singing, a small dingy white truck showed up and they loaded a casket onto the truck and drove off. The government made a big show - helicopters flew over head, police rode up, and then the military drove up in riot gear. It didn't make any difference. Each time a new group showed up, it looked like the protesters were going to leave, but they kept their ground. Our tour guide was clearly worried. We found out later that they have sometimes blocked the road for days without letting people through. Eventually they got some positive response from the government and they started letting people through. Our van driver was right, wait a couple hours and they'll let us through as long as we pay 200 pesos. And that's what happened.</p>
+
 <p>So, we were back on the road to Bonampak. We had another hour and a half, I suppose, before we got there. Our tour guide said that the locals at Bonampak were one of the Mayan groups that had mostly given up their Mayan way of life and tried to survive on the tourist industry. Unfortunately, the tourist industry isn't enough to support them. They did not seem to be as healthy as the other Mayan groups that we had encountered up until that point who were poor, undoubtedly, but self-sufficient. The site of Bonampak was quite amazing. The murals are still quite colorful, but had clearly lost a lot of color over the past fifteen years (our tour guide had photos of what they used to look like). Once upon a time, they were covered by a dust that had preserved them, but when the archeologists uncovered the dust, the murals started fading. So run to Bonampak! These murals won't be around for long!</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This is our group having just arrived at the site of Bonampak." target="_blank" href="/files/photos/chiapas/bonampak-site.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is our group having just arrived at the site of Bonampak." target="_blank" href="/files/photos/chiapas/bonampak-site.jpg">
+
     <img class="journalPhoto" alt="This is our group having just arrived at the site of Bonampak." src="/files/photos/chiapas/bonampak-site.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">This is our group having just arrived at the site of Bonampak.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonamapak-mural.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonamapak-mural.jpg">
+
     <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonamapak-mural.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A Room at Bonampak</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-mural-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-mural-1.jpg">
+
     <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonampak-mural-1.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A Room at Bonampak</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This mural depicts a captured and bleeding warrior in the bottom" target="_blank" href="/files/photos/chiapas/bonampak-mural-2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This mural depicts a captured and bleeding warrior in the bottom" target="_blank" href="/files/photos/chiapas/bonampak-mural-2.jpg">
+
     <img class="journalPhoto" alt="This mural depicts a captured and bleeding warrior in the bottom" src="/files/photos/chiapas/bonampak-mural-2.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">This mural depicts a captured and bleeding warrior in the bottom</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-mural-3.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-mural-3.jpg">
+
     <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonampak-mural-3.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A Room at Bonampak</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-mural.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-mural.jpg">
+
     <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonampak-mural.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A Room at Bonampak</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-room.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-room.jpg">
+
     <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonampak-room.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A Room at Bonampak</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="One of the more impressive reliefs." target="_blank" href="/files/photos/chiapas/bonampak-relief.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the more impressive reliefs." target="_blank" href="/files/photos/chiapas/bonampak-relief.jpg">
+
     <img class="journalPhoto" alt="One of the more impressive reliefs." src="/files/photos/chiapas/bonampak-relief.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">One of the more impressive reliefs.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Another very large relief at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-relief-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another very large relief at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-relief-1.jpg">
+
     <img class="journalPhoto" alt="Another very large relief at Bonampak" src="/files/photos/chiapas/bonampak-relief-1.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">Another very large relief at Bonampak</div>
+
 </div>
+
 <p>Next, it was back to the van and an hour drive to Yaxchilán. Since we were late getting to Yaxchilán from the road block, we skipped lunch and grabbed some snacks at a small store before getting on the boats to Yaxchilán. You cannot reach the ruins by car, you have to take a small boat to the ruins. It's about a 45 minute trip up the river.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A shot of the boats to go to Yaxchilán" target="_blank" href="/files/photos/chiapas/yaxchilan-boats.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the boats to go to Yaxchilán" target="_blank" href="/files/photos/chiapas/yaxchilan-boats.jpg">
+
     <img class="journalPhoto" alt="A shot of the boats to go to Yaxchilán" src="/files/photos/chiapas/yaxchilan-boats.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A shot of the boats to go to Yaxchilán</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Our boat driver" target="_blank" href="/files/photos/chiapas/yaxchilan-boatdriver.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our boat driver" target="_blank" href="/files/photos/chiapas/yaxchilan-boatdriver.jpg">
+
     <img class="journalPhoto" alt="Our boat driver" src="/files/photos/chiapas/yaxchilan-boatdriver.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Our boat driver</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The front of our boat" target="_blank" href="/files/photos/chiapas/yaxchilan-boatfront.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front of our boat" target="_blank" href="/files/photos/chiapas/yaxchilan-boatfront.jpg">
+
     <img class="journalPhoto" alt="The front of our boat" src="/files/photos/chiapas/yaxchilan-boatfront.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The front of our boat</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David started singing &quot;Proud Mary&quot; quite loudly (&quot;ROLLING! ROLLING! ROLLING DOWN THE RIV-ER!&quot;) Just kidding. I think I caught him pre-sneeze." target="_blank" href="/files/photos/chiapas/yaxchilan-proudmary.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David started singing &quot;Proud Mary&quot; quite loudly (&quot;ROLLING! ROLLING! ROLLING DOWN THE RIV-ER!&quot;) Just kidding. I think I caught him pre-sneeze." target="_blank" href="/files/photos/chiapas/yaxchilan-proudmary.jpg">
+
     <img class="journalPhoto" alt="David started singing &quot;Proud Mary&quot; quite loudly (&quot;ROLLING! ROLLING! ROLLING DOWN THE RIV-ER!&quot;) Just kidding. I think I caught him pre-sneeze." src="/files/photos/chiapas/yaxchilan-proudmary.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">David started singing "Proud Mary" quite loudly ("ROLLING! ROLLING! ROLLING DOWN THE RIV-ER!") Just kidding. I think I caught him pre-sneeze.</div>
+
 </div>
+
 <p>The ruins at Yaxchilán are impressive. They weren't as monumental as Palenque, but there was some very dramatic sites. Also, since the site is so hard to get to, it's a lot less invaded by tourists. Our first stop was through a temple of the dead - which is a structure to honor the underworld. There wasn't a lot to see because it's primary function was to be completely dark on the inside. Even walking up to it, it felt as if we had walked into a set for an Indiana Jones movie. At the entrance, our guide pointed out some bats hanging from the ceiling. I went in last of our group since I was fiddling with the camera. As I walked in, I heard the guide say "There's a wolf spider on the wall. See that?" I didn't know what a wolf spider looked like, but I didn't really want to find out. I sort of instinctively took a few steps back outside and into the sunlight. I decided that I was being a wimp, so I started to walk back in (it was pitch black inside with the exception of the guide's flashlight). Then I heard our guide say "Wait. Where did it go?" I thought about not going back in. Wolf spiders sound bad enough. Jumping wolf spiders I can do without. I was comforted when I heard the guide say "that's not a very big wolf spider". I started to step back in and heard him say "Now <b>there's</b> a big wolf spider." Okay. We're now plural. And we had reached a large size. The part of me that has no interest in hanging out with large spiders said "Why do you want to hang out in a dark, cramped space with spiders? No thank you. And I stepped back out. Out in the sun, all fears of spiders left. I felt like an idiot. There were old women on our tour with more bravery than me. This was ridiculous. So I started to go back inside. And heard the guide say "See overhead? Those are vampire bats." At that point, I decided I was actually the <b>smart</b> one by hanging back. What do I benefit from hanging out with bats and spiders? I'll pass, thank you. And I happily waited outside for the group to finish. I asked David later how big the big wolf spider was. He said "Well it wasn't only a couple of inches tall." Sensing that he was leaving something out, I asked how long it was. "About this long": and he held up his hands to be about a foot long. I praised the part of my brain that told me to give up on a false sense of masculinity and just stay outside.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Walking up to the Temple of the Dead" target="_blank" href="/files/photos/chiapas/yaxchilan-deadroom.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Walking up to the Temple of the Dead" target="_blank" href="/files/photos/chiapas/yaxchilan-deadroom.jpg">
+
     <img class="journalPhoto" alt="Walking up to the Temple of the Dead" src="/files/photos/chiapas/yaxchilan-deadroom.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Walking up to the Temple of the Dead</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Coming out the other end of the temple" target="_blank" href="/files/photos/chiapas/yaxchilan-deadtemple.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Coming out the other end of the temple" target="_blank" href="/files/photos/chiapas/yaxchilan-deadtemple.jpg">
+
     <img class="journalPhoto" alt="Coming out the other end of the temple" src="/files/photos/chiapas/yaxchilan-deadtemple.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Coming out the other end of the temple</div>
+
 </div>
+
 <p>The tour of Yaxchilán was great. It was one of the highlights of the trip. There are some incredible temples at the top of hills. The reliefs were fascinating. Many of them featured blood-letting rituals. The women would pierce their tongues and run thorny vines through the hole. The king would pierce his foreskin. We also got some time walking through the jungle to some of the largely unexcavated areas of the ruins.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A relief" target="_blank" href="/files/photos/chiapas/yaxchilan-writing.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A relief" target="_blank" href="/files/photos/chiapas/yaxchilan-writing.jpg">
+
     <img class="journalPhoto" alt="A relief" src="/files/photos/chiapas/yaxchilan-writing.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A relief</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Climbing up to the basketball court" target="_blank" href="/files/photos/chiapas/yaxchilan-ballcourt.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Climbing up to the basketball court" target="_blank" href="/files/photos/chiapas/yaxchilan-ballcourt.jpg">
+
     <img class="journalPhoto" alt="Climbing up to the basketball court" src="/files/photos/chiapas/yaxchilan-ballcourt.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Climbing up to the basketball court</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Checking out ruins" target="_blank" href="/files/photos/chiapas/yaxchilan-ruins.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Checking out ruins" target="_blank" href="/files/photos/chiapas/yaxchilan-ruins.jpg">
+
     <img class="journalPhoto" alt="Checking out ruins" src="/files/photos/chiapas/yaxchilan-ruins.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Checking out ruins</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="More ruins" target="_blank" href="/files/photos/chiapas/yaxchilan-temple.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More ruins" target="_blank" href="/files/photos/chiapas/yaxchilan-temple.jpg">
+
     <img class="journalPhoto" alt="More ruins" src="/files/photos/chiapas/yaxchilan-temple.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">More ruins</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="More reliefs" target="_blank" href="/files/photos/chiapas/yaxchilan-relief.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More reliefs" target="_blank" href="/files/photos/chiapas/yaxchilan-relief.jpg">
+
     <img class="journalPhoto" alt="More reliefs" src="/files/photos/chiapas/yaxchilan-relief.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">More reliefs</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A good hike up to the ruins" target="_blank" href="/files/photos/chiapas/yaxchilan-climb.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A good hike up to the ruins" target="_blank" href="/files/photos/chiapas/yaxchilan-climb.jpg">
+
     <img class="journalPhoto" alt="A good hike up to the ruins" src="/files/photos/chiapas/yaxchilan-climb.jpg" height="600" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A good hike up to the ruins</div>
+
 </div>
+
 <p>We walked through the jungle a bit and then took the boats back to main road. Our guide took us to the local cultural center that also acts as a restaurant in the evening. We were in a bit of hurry, because we wanted to get home before it got too dark. Mainly because people and dogs wander along the road. He said that he didn't want to hit any pigs on the way home, but we assumed he was saying "pigs" instead of "dogs" so as not to worry anyone. There were dogs walking all along the road all day. It's a miracle that we didn't hit any (thank God).</p>

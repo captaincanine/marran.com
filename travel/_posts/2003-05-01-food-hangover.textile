@@ -12,59 +12,115 @@ tags:
 description: I'm having a hard time this morning, because I'm having a bit of a food hangover. We went out with friends of David to a place that turned out to be a tourist trap. It's called "U Kalicha" and is based on a popular Czech novel, "The Good Soldier." It was a stereo typical Eastern European event, complete with an accordion player and a tuba player. As soon as they sat us down, they looked at us and said, "Beer?" We said yes and they brought us each the biggest mug of beer I have ever seen. It had to have been at least a liter.
 ---
 <p>I'm having a hard time this morning, because I'm having a bit of a food hangover. We went out with friends of David to a place that turned out to be a tourist trap. It's called "U Kalicha" and is based on a popular Czech novel, "The Good Soldier." It was a stereo typical Eastern European event, complete with an accordion player and a tuba player. As soon as they sat us down, they looked at us and said, "Beer?" We said yes and they brought us each the biggest mug of beer I have ever seen. It had to have been at least a liter. Then, while we were looking over the menus, they came around with Slivovitz and asked it we wanted shots. My stomach lining begged for mercy. I was afraid that dinner was going to be over the top, but it was typical Czech food. We had an appetizer with a lot of pork and cheese, and all the men ordered roast goose and the one female ordered a salad. I think with the combination of food and beer, I have a bit of a food hangover this morning.</p>
+
 <p>So now, let's backtrack to earlier in the day. David made an appearance at the conference after breakfast, while I wrote and read. We headed off to Prague castle first. I got the bright idea of walking through the gardens to enter, which entailed a very hearty trek up the side of a hill. There were may school groups waiting outside the castle. One of the groups was a group of about 20 preteen girls. One of them said hello to us quite loudly. David said hello back. Then all 20 of them said hello to us in unison. The first girl, the ring leader, asked us where we were from. We said "New York" and all 20 girls started screaming with excitement. We figured that they must be from some small German town and were practicing their English.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="On the wall of the castle" target="_blank" href="/files/photos/prague/castle_wall.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="On the wall of the castle" target="_blank" href="/files/photos/prague/castle_wall.jpg">
+
     <img class="journalPhoto" alt="On the wall of the castle" src="/files/photos/prague/castle_wall.jpg" height="377" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">On the wall of the castle</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="One of the palace courtyards" target="_blank" href="/files/photos/prague/palace_courtyard.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the palace courtyards" target="_blank" href="/files/photos/prague/palace_courtyard.jpg">
+
     <img class="journalPhoto" alt="One of the palace courtyards" src="/files/photos/prague/palace_courtyard.jpg" height="450" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">One of the palace courtyards</div>
+
 </div>
+
 <p>So back to the castle. The highlight of the castle is the cathedral. It's enormous and beautiful. I think the only church that I've seen that's more impressive is St. Peter's in Rome - and no one will ever top that one. It is also interesting to note that there were some relatively recent pieces of art as part of the cathedral. Especially beautiful was an art nouveau stained glass window. I always tend to think that its a shame that they can't build modern buildings to be as majestic as they used to be, but this cathedral helped show that something doesn't have to be old to be beautiful.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="St Vitus' Cathedral" target="_blank" href="/files/photos/prague/palace_cathedral.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="St Vitus' Cathedral" target="_blank" href="/files/photos/prague/palace_cathedral.jpg">
+
     <img class="journalPhoto" alt="St Vitus' Cathedral" src="/files/photos/prague/palace_cathedral.jpg" height="470" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">St Vitus' Cathedral</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="An outside mosaic on St Vitus'" target="_blank" href="/files/photos/prague/palace_cathedral_mosaic.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="An outside mosaic on St Vitus'" target="_blank" href="/files/photos/prague/palace_cathedral_mosaic.jpg">
+
     <img class="journalPhoto" alt="An outside mosaic on St Vitus'" src="/files/photos/prague/palace_cathedral_mosaic.jpg" height="446" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">An outside mosaic on St Vitus'</div>
+
 </div>
+
 <p>Next we went on to a palace. There were many great halls and a room where two discs were pushed out of a window - setting off the Thirty Years War. The palace had a few large entrances especially designed for people riding in on horseback.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The main hall of the palace" target="_blank" href="/files/photos/prague/palace_hall.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main hall of the palace" target="_blank" href="/files/photos/prague/palace_hall.jpg">
+
     <img class="journalPhoto" alt="The main hall of the palace" src="/files/photos/prague/palace_hall.jpg" height="450" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">The main hall of the palace</div>
+
 </div>
+
 <p>Next, we ventured on to a small street where Kafka lived for a short while with his sister. The houses were all painted in pastels. It looked too quaint and cheerful for Kafka's residence.</p>
+
 <p>We left the castle and ventured across the river into the Jewish Quarter. We saw the Old-New Synagogue, which is really centuries old and is where the Golum is supposedly still resting. Right around the corner is the Jewish Cemetery. l was quite moved when we got to Rabbi Leow's grave - the rabbi that created the Golum. I've been thinking a lot about Kavalier &amp; Clay.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Jewish Cemetery" target="_blank" href="/files/photos/prague/cemetery_1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Jewish Cemetery" target="_blank" href="/files/photos/prague/cemetery_1.jpg">
+
     <img class="journalPhoto" alt="The Jewish Cemetery" src="/files/photos/prague/cemetery_1.jpg" height="298" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">The Jewish Cemetery</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="More of the Jewish Cemetery" target="_blank" href="/files/photos/prague/cemetery_2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the Jewish Cemetery" target="_blank" href="/files/photos/prague/cemetery_2.jpg">
+
     <img class="journalPhoto" alt="More of the Jewish Cemetery" src="/files/photos/prague/cemetery_2.jpg" height="450" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">More of the Jewish Cemetery</div>
+
 </div>
+
 <p>After the Jewish Quarter, we went in search of an English bookstore. I bought David "I Served the King of England" and we had a coffee. The bookstore and cafe felt very communist era. I imagine that life must have been very quiet for the average person back then - and extremely boring. As it stands now, capitalism has not taken too strong of a foothold here. There are people selling shot glasses and T-shirts with images of Prague, but there's surprisingly little advertising. There is a calm silence that has remained.</p>
+
 <p>After the bookstore, we went back to the hotel for a nap and then on to the dinner that I've already told you about.</p>

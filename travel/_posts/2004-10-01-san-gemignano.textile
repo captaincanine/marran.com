@@ -9,28 +9,50 @@ redirects:
 - /personal/travel/tuscany/san-gemignano
 tags: 
 - Tuscany
-description: After two days of touring Florence, we were ready to hit the road and see more of Tuscany. In general, I found the Tuscans drove quickly, but fairly. Of course, we wouldn't dare driving in the actual towns. Usually, the goal was to park just outside the medieval walls and walk in.San Gemignano is built on a hill and looks like a small mideival Manhattan with towering spires. They had one main church with incredible murals, but one is not allowed to take photographs.
+description: After two days of touring Florence, we were ready to hit the road and see more of Tuscany. In general, I found the Tuscans drove quickly, but fairly. Of course, we wouldn't dare driving in the actual towns. Usually, the goal was to park just outside the medieval walls and walk in. San Gemignano is built on a hill and looks like a small mideival Manhattan with towering spires. They had one main church with incredible murals, but one is not allowed to take photographs.
 ---
 <p>After two days of touring Florence, we were ready to hit the road and see more of Tuscany. In general, I found the Tuscans drove quickly, but fairly. Of course, we wouldn't dare driving in the actual towns. Usually, the goal was to park just outside the medieval walls and walk in.</p>
+
 <p>San Gemignano is built on a hill and looks like a small mideival Manhattan with towering spires. They had one main church with incredible murals, but one is not allowed to take photographs.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The main square" target="_blank" href="/files/photos/tuscany/sangemignano1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main square" target="_blank" href="/files/photos/tuscany/sangemignano1.jpg">
+
     <img class="journalPhoto" alt="The main square" src="/files/photos/tuscany/sangemignano1.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">The main square</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The church" target="_blank" href="/files/photos/tuscany/sangemignano2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The church" target="_blank" href="/files/photos/tuscany/sangemignano2.jpg">
+
     <img class="journalPhoto" alt="The church" src="/files/photos/tuscany/sangemignano2.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The church</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A view from outside the walls of the old city" target="_blank" href="/files/photos/tuscany/sangemignano3.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view from outside the walls of the old city" target="_blank" href="/files/photos/tuscany/sangemignano3.jpg">
+
     <img class="journalPhoto" alt="A view from outside the walls of the old city" src="/files/photos/tuscany/sangemignano3.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">A view from outside the walls of the old city</div>
+
 </div>

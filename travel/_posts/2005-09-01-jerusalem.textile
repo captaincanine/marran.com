@@ -12,124 +12,245 @@ tags:
 description: Our trip to Jerusalem started with a visit to the Model of the Second Temple Period. This gives one a nice perspective on what Jerusalem looked like before the destruction of the temple by the Romans. The model covered all of Jerusalem in 1:25 scale. It helps get a bearing on what one is about to see.
 ---
 <p>Our trip to Jerusalem started with a visit to the Model of the Second Temple Period. This gives one a nice perspective on what Jerusalem looked like before the destruction of the temple by the Romans. The model covered all of Jerusalem in 1:25 scale. It helps get a bearing on what one is about to see.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Model of the Second Temple Period" target="_blank" href="/files/photos/israel/jerusalem-secondtemple.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Model of the Second Temple Period" target="_blank" href="/files/photos/israel/jerusalem-secondtemple.jpg">
+
     <img class="journalPhoto" alt="The Model of the Second Temple Period" src="/files/photos/israel/jerusalem-secondtemple.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The Model of the Second Temple Period</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Model of the Actual Second Temple" target="_blank" href="/files/photos/israel/jerusalem-secondtemple2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Model of the Actual Second Temple" target="_blank" href="/files/photos/israel/jerusalem-secondtemple2.jpg">
+
     <img class="journalPhoto" alt="The Model of the Actual Second Temple" src="/files/photos/israel/jerusalem-secondtemple2.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The Model of the Actual Second Temple</div>
+
 </div>
+
 <p>We checked into our hotel, the David Citadel Hotel. It is gorgeous - one of the nicest hotels I've ever stayed at. Our room overlooked the pool, which I swam in once while we were there. We had a great view of the old city. One night, we woke up at around 10:30pm to the sound of sharp explosions. There was one loud "bang" and then a smattering of more. We assumed that it was gunfire. Then I went to look out our window and saw fireworks. It was part of a sound and light show over David's Citadel.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The view from our room of the pool and David's Citadel" target="_blank" href="/files/photos/israel/jerusalem-hotel-pool.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from our room of the pool and David's Citadel" target="_blank" href="/files/photos/israel/jerusalem-hotel-pool.jpg">
+
     <img class="journalPhoto" alt="The view from our room of the pool and David's Citadel" src="/files/photos/israel/jerusalem-hotel-pool.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">The view from our room of the pool and David's Citadel</div>
+
 </div>
+
 <p>Since our first day in Jerusalem was only a half day, we did sightseeing on our own. We primarily walked around the markets, went to the Church of the Holy Sepulchre, and had Turkish coffee. We were lucky enough to meet a tour guide at the Church of the Holy Sepulchre named Jaliel. He seemed to know what he was talking about, so we decided to sign up with him for a tour the next day. I can't go into everything we saw and learned on the tour. It was amazing. We went to parts of the Via Dolorosa (which traces the 14 stations of the cross) that most other tour groups seemed to miss. We visited an Ethiopian monastery on the roof of the Church of the Holy Sepulchre. And everywhere we went, Jaliel exchanged hellos to the locals whether they were Greek Orthodox fathers or the local Arabs. He was an excellent tour guide.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The old walls of Jerusalem leading to Jaffa Gate" target="_blank" href="/files/photos/israel/jerusalem-oldwalls.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The old walls of Jerusalem leading to Jaffa Gate" target="_blank" href="/files/photos/israel/jerusalem-oldwalls.jpg">
+
     <img class="journalPhoto" alt="The old walls of Jerusalem leading to Jaffa Gate" src="/files/photos/israel/jerusalem-oldwalls.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The old walls of Jerusalem leading to Jaffa Gate</div>
+
 </div>
+
 <p>We started off walking around the walls of the old city into the Mount of Olives. Jaliel pointed out recent excavations along the walls of ancient Roman houses. You could see the changes of the rocks in walls where they had been fortified by different periods, from Roman to Byzantine periods.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Kidron Valley featuring Tower of Absalom and surrounded by Jewish graves" target="_blank" href="/files/photos/israel/jerusalem-absalom.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Kidron Valley featuring Tower of Absalom and surrounded by Jewish graves" target="_blank" href="/files/photos/israel/jerusalem-absalom.jpg">
+
     <img class="journalPhoto" alt="Kidron Valley featuring Tower of Absalom and surrounded by Jewish graves" src="/files/photos/israel/jerusalem-absalom.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">Kidron Valley featuring Tower of Absalom and surrounded by Jewish graves</div>
+
 </div>
+
 <p>The first big stop on our tour was Gethsemane. There's a very beautiful church there called The Church of All Nations that has some of the most fanciful mosaics I've seen in a church. I was hoping to come back to the church later in the trip because it's the kind of place that you could stay for hours meditating, but unfortunately, there was never time to come back. I guess I'll have to wait for another trip to Jerusalem.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Church of All Nations" target="_blank" href="/files/photos/israel/gethsemane-outside.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Church of All Nations" target="_blank" href="/files/photos/israel/gethsemane-outside.jpg">
+
     <img class="journalPhoto" alt="The Church of All Nations" src="/files/photos/israel/gethsemane-outside.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The Church of All Nations</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Garden of Gethsemane" target="_blank" href="/files/photos/israel/gethsemane-garden.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Garden of Gethsemane" target="_blank" href="/files/photos/israel/gethsemane-garden.jpg">
+
     <img class="journalPhoto" alt="The Garden of Gethsemane" src="/files/photos/israel/gethsemane-garden.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The Garden of Gethsemane</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Inside the Church of All Nations. Check out the mosaic of flowers on the ceiling." target="_blank" href="/files/photos/israel/gethsemane-mosaic.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the Church of All Nations. Check out the mosaic of flowers on the ceiling." target="_blank" href="/files/photos/israel/gethsemane-mosaic.jpg">
+
     <img class="journalPhoto" alt="Inside the Church of All Nations. Check out the mosaic of flowers on the ceiling." src="/files/photos/israel/gethsemane-mosaic.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">Inside the Church of All Nations. Check out the mosaic of flowers on the ceiling.</div>
+
 </div>
+
 <p>After Gethsemane, we walked to the Tomb of the Virgin where Mary is buried. Our guide, Jaliel, emphasized this by saying it twice, the actual tomb where the mother of Jesus Christ is buried. For some reason it felt tacky taking a picture of such a holy site, so I didn't. It's a beautiful church, though, and should be experienced. There was a line to walk into the actual tomb which can only fit about 3 people. I was able to see in and that was enough for me.</p>
+
 <p>As we were outside the old city walls, Jaliel pointed out Golden Gate. It is currently bricked over so that no one can use it. The Golden (or Mercy) Gate appears in the legends of all three religions. An early Jewish tradition holds that it is through that gate that the Messiah will enter Jerusalem. According to Christian tradition, Jesus made made his last entry to Jerusalem through the Mercy Gate. The Muslims refer to it as the Gate of Mercy and believe it to be the gate referred to in the Koran, through which the just will pass on the Day of Judgment.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Golden Gate" target="_blank" href="/files/photos/israel/jerusalem-golden-gate.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Golden Gate" target="_blank" href="/files/photos/israel/jerusalem-golden-gate.jpg">
+
     <img class="journalPhoto" alt="The Golden Gate" src="/files/photos/israel/jerusalem-golden-gate.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">The Golden Gate</div>
+
 </div>
+
 <p>After touring outside the old city walls, it was time to cross into Old Jerusalem. We came in via the Lion's Gate in the Muslim quarter. Our tour started at the first station of the Via Dolorosa and went in sequential order. Early on, my camera pooped out, so I don't have most of the pictures from this part of the trip. The Via Dolorosa follows every spot of Christ's steps leading to his crucifixion and burial. It starts with the Ecce Homo Arch where Pontius Pilate is said to have declared "Behold the Man". It actually starts with where he was condemned to death, but that is now a Muslim school.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Monastery of Flagellation (the 2nd Station)" target="_blank" href="/files/photos/israel/jerusalem-viadolorosa-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Monastery of Flagellation (the 2nd Station)" target="_blank" href="/files/photos/israel/jerusalem-viadolorosa-1.jpg">
+
     <img class="journalPhoto" alt="The Monastery of Flagellation (the 2nd Station)" src="/files/photos/israel/jerusalem-viadolorosa-1.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The Monastery of Flagellation (the 2nd Station)</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Garden at the Monastery of Flagellation" target="_blank" href="/files/photos/israel/jerusalem-viadolorosa-3.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Garden at the Monastery of Flagellation" target="_blank" href="/files/photos/israel/jerusalem-viadolorosa-3.jpg">
+
     <img class="journalPhoto" alt="A Garden at the Monastery of Flagellation" src="/files/photos/israel/jerusalem-viadolorosa-3.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">A Garden at the Monastery of Flagellation</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Crown of Thorns Site" target="_blank" href="/files/photos/israel/jerusalem-viadolorosa-2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Crown of Thorns Site" target="_blank" href="/files/photos/israel/jerusalem-viadolorosa-2.jpg">
+
     <img class="journalPhoto" alt="The Crown of Thorns Site" src="/files/photos/israel/jerusalem-viadolorosa-2.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">The Crown of Thorns Site</div>
+
 </div>
+
 <p>It was around this time that my camera went kaput for the day. I was able to salvage it later at the hotel. Anyway, we saw the rest of the Via Dolorosa, Jesus' prison, where he stumbled, etc. We went onto the roof of the Church of the Holy Sepulchre and down through it. There's no way we would have seen even half of the things that we saw without our tour guide. He seemed to know everyone. A couple people on the street told us that we had a very good guide and I agree.</p>
+
 <p>After the tour, we were exhausted. David took a nap and answered email. I went swimming in the hotel pool and read. I was able to get my camera functioning again and took other photos in Jerusalem on other days.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A nice view of Jerusalem in the Muslim Quarter" target="_blank" href="/files/photos/israel/jerusalem-alley.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A nice view of Jerusalem in the Muslim Quarter" target="_blank" href="/files/photos/israel/jerusalem-alley.jpg">
+
     <img class="journalPhoto" alt="A nice view of Jerusalem in the Muslim Quarter" src="/files/photos/israel/jerusalem-alley.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">A nice view of Jerusalem in the Muslim Quarter</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Another pretty shot of Jerusalem" target="_blank" href="/files/photos/israel/jerusalem-unknown.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another pretty shot of Jerusalem" target="_blank" href="/files/photos/israel/jerusalem-unknown.jpg">
+
     <img class="journalPhoto" alt="Another pretty shot of Jerusalem" src="/files/photos/israel/jerusalem-unknown.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">Another pretty shot of Jerusalem</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A mosaic in the Jewish Quarter" target="_blank" href="/files/photos/israel/jerusalem-jewishquarter-mosaic.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mosaic in the Jewish Quarter" target="_blank" href="/files/photos/israel/jerusalem-jewishquarter-mosaic.jpg">
+
     <img class="journalPhoto" alt="A mosaic in the Jewish Quarter" src="/files/photos/israel/jerusalem-jewishquarter-mosaic.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">A mosaic in the Jewish Quarter</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Dome of the Rock and the Western Wall in Jerusalem" target="_blank" href="/files/photos/israel/jerusalem-dome-of-the-rock.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Dome of the Rock and the Western Wall in Jerusalem" target="_blank" href="/files/photos/israel/jerusalem-dome-of-the-rock.jpg">
+
     <img class="journalPhoto" alt="The Dome of the Rock and the Western Wall in Jerusalem" src="/files/photos/israel/jerusalem-dome-of-the-rock.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The Dome of the Rock and the Western Wall in Jerusalem</div>
+
 </div>

@@ -12,154 +12,305 @@ tags:
 description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenque is at an elevation of 80 meters (~260 ft) and San Crist\xC3\xB3bal is at an elevation of 2160 meters (~7000 ft), so we had a ways to go. And it was, of course, a tiny, winding road. Although we were looking forward to getting out of the warm lowlands and head to more temperate weather in the mountians."
 ---
 <p>We left Palenque today and headed to San Cristóbal. Palenque is at an elevation of 80 meters (~260 ft) and San Cristóbal is at an elevation of 2160 meters (~7000 ft), so we had a ways to go. And it was, of course, a tiny, winding road. Although we were looking forward to getting out of the warm lowlands and head to more temperate weather in the mountians.</p>
+
 <p>Our first stop was at a waterfall called Miso Ha. There was nothing particularly cultural or historical to see. The natural beauty of the falls spoke for itself. This is apparently one of the prime locations featured in the movie <a target="_blank" href="http://www.imdb.com/title/tt0093773/locations">Predator</a>.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The view from when you first walk up to the falls" target="_blank" href="/files/photos/chiapas/misoha-panorama.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from when you first walk up to the falls" target="_blank" href="/files/photos/chiapas/misoha-panorama.jpg">
+
     <img class="journalPhoto" alt="The view from when you first walk up to the falls" src="/files/photos/chiapas/misoha-panorama.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">The view from when you first walk up to the falls</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Showing a person in the image gives you an idea of how large the falls are" target="_blank" href="/files/photos/chiapas/misoha-perspective.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Showing a person in the image gives you an idea of how large the falls are" target="_blank" href="/files/photos/chiapas/misoha-perspective.jpg">
+
     <img class="journalPhoto" alt="Showing a person in the image gives you an idea of how large the falls are" src="/files/photos/chiapas/misoha-perspective.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">Showing a person in the image gives you an idea of how large the falls are</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Here's David trying to pretend that he doesn't mind being wet" target="_blank" href="/files/photos/chiapas/misoha-david.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's David trying to pretend that he doesn't mind being wet" target="_blank" href="/files/photos/chiapas/misoha-david.jpg">
+
     <img class="journalPhoto" alt="Here's David trying to pretend that he doesn't mind being wet" src="/files/photos/chiapas/misoha-david.jpg" height="600" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Here's David trying to pretend that he doesn't mind being wet</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/misoha.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/misoha.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/misoha.jpg" height="600" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/misoha-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/misoha-1.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/misoha-1.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/misoha-2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/misoha-2.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/misoha-2.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <p>Our next stop was another set of waterfalls called Aqua Azul. There had been heavy rains the night before, so the falls were stronger than usual. Unfortunately, they were not blue - they were brown. We were reassured that they are normally quite blue. Oh well. We parked at the base and worked our way up the falls.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Base" target="_blank" href="/files/photos/chiapas/aquaazul-base.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Base" target="_blank" href="/files/photos/chiapas/aquaazul-base.jpg">
+
     <img class="journalPhoto" alt="The Base" src="/files/photos/chiapas/aquaazul-base.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">The Base</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David still pretending that the wetness doesn't bother him" target="_blank" href="/files/photos/chiapas/aquaazul-david.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David still pretending that the wetness doesn't bother him" target="_blank" href="/files/photos/chiapas/aquaazul-david.jpg">
+
     <img class="journalPhoto" alt="David still pretending that the wetness doesn't bother him" src="/files/photos/chiapas/aquaazul-david.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">David still pretending that the wetness doesn't bother him</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The next point" target="_blank" href="/files/photos/chiapas/aquaazul-firstpoint.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The next point" target="_blank" href="/files/photos/chiapas/aquaazul-firstpoint.jpg">
+
     <img class="journalPhoto" alt="The next point" src="/files/photos/chiapas/aquaazul-firstpoint.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">The next point</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Keith posing and actually not minding the wet" target="_blank" href="/files/photos/chiapas/aquaazul-keith.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Keith posing and actually not minding the wet" target="_blank" href="/files/photos/chiapas/aquaazul-keith.jpg">
+
     <img class="journalPhoto" alt="Keith posing and actually not minding the wet" src="/files/photos/chiapas/aquaazul-keith.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">Keith posing and actually not minding the wet</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The next point up" target="_blank" href="/files/photos/chiapas/aquaazul-midpoint.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The next point up" target="_blank" href="/files/photos/chiapas/aquaazul-midpoint.jpg">
+
     <img class="journalPhoto" alt="The next point up" src="/files/photos/chiapas/aquaazul-midpoint.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">The next point up</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David preparing to cross a very rickety bridge" target="_blank" href="/files/photos/chiapas/aquaazul-davidbridge.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David preparing to cross a very rickety bridge" target="_blank" href="/files/photos/chiapas/aquaazul-davidbridge.jpg">
+
     <img class="journalPhoto" alt="David preparing to cross a very rickety bridge" src="/files/photos/chiapas/aquaazul-davidbridge.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">David preparing to cross a very rickety bridge</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David crossing to the very tip" target="_blank" href="/files/photos/chiapas/aquaazul-thetip.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David crossing to the very tip" target="_blank" href="/files/photos/chiapas/aquaazul-thetip.jpg">
+
     <img class="journalPhoto" alt="David crossing to the very tip" src="/files/photos/chiapas/aquaazul-thetip.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">David crossing to the very tip</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Incredible View" target="_blank" href="/files/photos/chiapas/aquaazul-bigshot.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Incredible View" target="_blank" href="/files/photos/chiapas/aquaazul-bigshot.jpg">
+
     <img class="journalPhoto" alt="Incredible View" src="/files/photos/chiapas/aquaazul-bigshot.jpg" height="600" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Incredible View</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David crossing back" target="_blank" href="/files/photos/chiapas/aquaazul-davidbridge-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David crossing back" target="_blank" href="/files/photos/chiapas/aquaazul-davidbridge-1.jpg">
+
     <img class="journalPhoto" alt="David crossing back" src="/files/photos/chiapas/aquaazul-davidbridge-1.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">David crossing back</div>
+
 </div>
+
 <p>Our next big stop was a site of ruins on the way to San Cristóbal - Tonina. The ruins are built into a cliff, so there was a lot of climbing. The steps were so steep that it felt as if you were climbing a wall. Tonina is known for having very good reliefs about the capture of warriors and a tribute to the god of the underworld. I decided that I was going to brave the room of the dead - reagardless of spiders. Luckily, there were none.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A shot of the site before the climbing" target="_blank" href="/files/photos/chiapas/tonina-preclimb.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the site before the climbing" target="_blank" href="/files/photos/chiapas/tonina-preclimb.jpg">
+
     <img class="journalPhoto" alt="A shot of the site before the climbing" src="/files/photos/chiapas/tonina-preclimb.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">A shot of the site before the climbing</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Entering the ruins" target="_blank" href="/files/photos/chiapas/tonina-entering.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Entering the ruins" target="_blank" href="/files/photos/chiapas/tonina-entering.jpg">
+
     <img class="journalPhoto" alt="Entering the ruins" src="/files/photos/chiapas/tonina-entering.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Entering the ruins</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Walking into the room of the dead" target="_blank" href="/files/photos/chiapas/tonina-entering-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Walking into the room of the dead" target="_blank" href="/files/photos/chiapas/tonina-entering-1.jpg">
+
     <img class="journalPhoto" alt="Walking into the room of the dead" src="/files/photos/chiapas/tonina-entering-1.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">Walking into the room of the dead</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Reliefs depicting the fate of captives" target="_blank" href="/files/photos/chiapas/tonina-captors.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Reliefs depicting the fate of captives" target="_blank" href="/files/photos/chiapas/tonina-captors.jpg">
+
     <img class="journalPhoto" alt="Reliefs depicting the fate of captives" src="/files/photos/chiapas/tonina-captors.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Reliefs depicting the fate of captives</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The tribute relief of the god of the underworld. Be sure to zoom into this picture to see the skeleton-like god, the upside down heads." target="_blank" href="/files/photos/chiapas/tonina-godofthedead.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The tribute relief of the god of the underworld. Be sure to zoom into this picture to see the skeleton-like god, the upside down heads." target="_blank" href="/files/photos/chiapas/tonina-godofthedead.jpg">
+
     <img class="journalPhoto" alt="The tribute relief of the god of the underworld. Be sure to zoom into this picture to see the skeleton-like god, the upside down heads." src="/files/photos/chiapas/tonina-godofthedead.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The tribute relief of the god of the underworld. Be sure to zoom into this picture to see the skeleton-like god, the upside down heads.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A view from the top. It was actually a pleasant day despite the heavy clouds." target="_blank" href="/files/photos/chiapas/tonina-view-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view from the top. It was actually a pleasant day despite the heavy clouds." target="_blank" href="/files/photos/chiapas/tonina-view-1.jpg">
+
     <img class="journalPhoto" alt="A view from the top. It was actually a pleasant day despite the heavy clouds." src="/files/photos/chiapas/tonina-view-1.jpg" height="400" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">A view from the top. It was actually a pleasant day despite the heavy clouds.</div>
+
 </div>
+
 <p>After the ruins, we stopped at a place for homemade quesadillas and then drove the rest of the way to San Cristóbal. We noticed that most of the signs on the road had large holes in them. We all assumed that they were bullet holes, but our guide pointed out that the government drills holes in them because the locals steal the road signs to cook tortillas on. Drilling holes in them makes them useless as stovetops.</p>

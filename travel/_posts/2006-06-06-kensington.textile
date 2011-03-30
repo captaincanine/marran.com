@@ -9,26 +9,46 @@ redirects:
 - /personal/travel/england/kensington
 tags: 
 - England
-description: The next two days in London were dedicated to shopping. And also to relaxing a bit. We had toured pretty hard, and we were now starting to settle into vacation mode. The first day of shopping, we focused on Kensington. We wanted to do Harvey Nichols, Harrod's, and try to find an antique map store that David had been to a few years ago. We started our journey with a walk through Hyde Park and Kensinton Gardens.
+description: The next two days in London were dedicated to shopping. And also to relaxing a bit. We had toured pretty hard, and we were now starting to settle into vacation mode. The first day of shopping, we focused on Kensington. We wanted to do Harvey Nichols, Harrod's, and try to find an antique map store that David had been to a few years ago. We started our journey with a walk through Hyde Park and Kensinton Gardens.
 ---
 <p><para para_guid="b8ec7e6b-03a1-48c1-a1f0-eadd21f714d9">The next two days in London were dedicated to shopping. And also to relaxing a bit. We had toured pretty hard, and we were now starting to settle into vacation mode. </para></p>
+
 <p><para para_guid="40496401-96a3-45b5-af51-459ef823bacc">The first day of shopping, we focused on Kensington. We wanted to do Harvey Nichols, Harrod's, and try to find an antique map store that David had been to a few years ago. We started our journey with a walk through Hyde Park and Kensinton Gardens.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Peter Pan Statue in Hyde Park" target="_blank" href="/files/photos/london/hydepark-peterpan-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Peter Pan Statue in Hyde Park" target="_blank" href="/files/photos/london/hydepark-peterpan-1.jpg">
+
     <img class="journalPhoto" alt="A Peter Pan Statue in Hyde Park" src="/files/photos/london/hydepark-peterpan-1.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">A Peter Pan Statue in Hyde Park</div>
+
 </div>
+
 <p><para para_guid="dc45b1a4-816b-47c5-96e4-ac308f199c5d">We walked through Harvey Nichols relatively quickly. Several of the floors are dedicated to women's fashion which can be quite dull if you're a male. The men's clothes were in the basement. Little did we know that they were in the middle of a 70% off sale! David and I each got some designer shirts for bargain prices. I was happy. We next went to Harrod's and wandered through confusedly. This is a department store to get lost in.</para></p>
+
 <p><para para_guid="464b27bc-38fd-45cc-9b95-78fc0effec71">Next, I had to find David's map shop. I can't remember how we found it in the first place. I think I was the one that originally saw it on a side street on our first trip to London together. It wasn't too hard to find. I dropped David off and headed back to Harrod's. The had put a "La Duree" (a famous French cafe) in a section of Harrod's and I was set on having coffee and a pastry.</para></p>
+
 <p><para para_guid="7331b662-b6a0-4289-9e06-b87f65bc6fb5">It's a little nerve-wracking going to a fancy French cafe by myself. I certainly was dressed well. I wasn't allowed to take pictures, but <a href="http://www.laduree.com/public_en/maisons/londres_accueil.htm">La Duree</a> has photos on their website. I ordered a cappucino and a pistachio religieuse (a puff pastry filled with pistachio cream and icing on top). It was magnificent. It also gave me the courage to go back to Harvey Nichols and get a fantastic bow-tie and cumberbund set for David that I saw.</para></p>
+
 <p><para para_guid="fb158908-75a4-4a0b-b1b2-05a1cfb45ae8">About an hour later, I got message on my phone that David was ready, so I went to pick him up. We grabbed some lunch (I had a salad to off-set the pastry) and went to the Victoria and Albert Museum. The museum is huge and, as I said, we were more interested in having a relaxing experience at this point. We decided that we would do the India Arts rooms and the Raphael rooms and see how we were doing. Even that was a lot to take in and we were ready to head back to the hotel after that.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Lobby of the Victoria Albert Museum. A mix of history and ultra modern." target="_blank" href="/files/photos/london/hydepark-victoriaalbertmuseum.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Lobby of the Victoria Albert Museum. A mix of history and ultra modern." target="_blank" href="/files/photos/london/hydepark-victoriaalbertmuseum.jpg">
+
     <img class="journalPhoto" alt="The Lobby of the Victoria Albert Museum. A mix of history and ultra modern." src="/files/photos/london/hydepark-victoriaalbertmuseum.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The Lobby of the Victoria Albert Museum. A mix of history and ultra modern.</div>
+
 </div>
+
 <p><para para_guid="d73acffa-09c3-4ed0-8766-b3673e790ad9">After taking a nap and reading at the hotel, we went to our favorite restaurant in London, Sofra, and saw Evita on the West End. I had never seen the show before and enjoyed it much more than I thought I would.</para></p>

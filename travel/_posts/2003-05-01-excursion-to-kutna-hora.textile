@@ -12,63 +12,123 @@ tags:
 description: I had heard a lot of the ossuary at Kutna Hora. So we found an excursion to take us there. The town is an old mining town, which used to act as the mint for the Czech Republic. The town ranks high on the "quant scale"; but unfortunately, our tour guide was not so great. At our first stop, a beautiful church, she simply read from the english text that they give all tourists. She also added extra prepositions to the text and occassionally asked for help with words like "apron". Worse yet, we found out that the tour would not be stopping at the ossuary.
 ---
 <p>I had heard a lot of the ossuary at Kutna Hora. So we found an excursion to take us there. The town is an old mining town, which used to act as the mint for the Czech Republic. The town ranks high on the "quant scale"; but unfortunately, our tour guide was not so great. At our first stop, a beautiful church, she simply read from the english text that they give all tourists. She also added extra prepositions to the text and occassionally asked for help with words like "apron". Worse yet, we found out that the tour would not be stopping at the ossuary. So instead of going back to Prague with the tour, we went to the ossuary on our own. It was a beautiful day and the walk was only a few kilometers.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="St. Barbara's Cathedral in Kutna Hora" target="_blank" href="/files/photos/prague/st_barbara.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="St. Barbara's Cathedral in Kutna Hora" target="_blank" href="/files/photos/prague/st_barbara.jpg">
+
     <img class="journalPhoto" alt="St. Barbara's Cathedral in Kutna Hora" src="/files/photos/prague/st_barbara.jpg" height="761" width="550">
+
   </a>
+
   
+
   <div class="journalCaption">St. Barbara's Cathedral in Kutna Hora</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The walk along the old wall in Kutna Hora" target="_blank" href="/files/photos/prague/kutna_hora_road.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The walk along the old wall in Kutna Hora" target="_blank" href="/files/photos/prague/kutna_hora_road.jpg">
+
     <img class="journalPhoto" alt="The walk along the old wall in Kutna Hora" src="/files/photos/prague/kutna_hora_road.jpg" height="412" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">The walk along the old wall in Kutna Hora</div>
+
 </div>
+
 <p>The ossuary was small, but quite amazing. the pictures do it some justice, but it's better to see it in person. Oddly enough, it did not seem morose. And only macabre from a distance. Up close, it was amazing beautiful. The chandelier has at least one of every bone in the human body.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The ossuary" target="_blank" href="/files/photos/prague/ossuary.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ossuary" target="_blank" href="/files/photos/prague/ossuary.jpg">
+
     <img class="journalPhoto" alt="The ossuary" src="/files/photos/prague/ossuary.jpg" height="577" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">The ossuary</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A stack of bones" target="_blank" href="/files/photos/prague/ossuary_stack.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A stack of bones" target="_blank" href="/files/photos/prague/ossuary_stack.jpg">
+
     <img class="journalPhoto" alt="A stack of bones" src="/files/photos/prague/ossuary_stack.jpg" height="781" width="550">
+
   </a>
+
   
+
   <div class="journalCaption">A stack of bones</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="An urn made of bones" target="_blank" href="/files/photos/prague/ossuary_urn.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="An urn made of bones" target="_blank" href="/files/photos/prague/ossuary_urn.jpg">
+
     <img class="journalPhoto" alt="An urn made of bones" src="/files/photos/prague/ossuary_urn.jpg" height="667" width="500">
+
   </a>
+
   
+
   <div class="journalCaption">An urn made of bones</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A coat of arms" target="_blank" href="/files/photos/prague/ossuary_coat.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A coat of arms" target="_blank" href="/files/photos/prague/ossuary_coat.jpg">
+
     <img class="journalPhoto" alt="A coat of arms" src="/files/photos/prague/ossuary_coat.jpg" height="742" width="450">
+
   </a>
+
   
+
   <div class="journalCaption">A coat of arms</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This is a part of the coat of arms. It's an image of a bird picking out an eye of a Turk to celebrate the defeat of the Turks." target="_blank" href="/files/photos/prague/ossuary_turk.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is a part of the coat of arms. It's an image of a bird picking out an eye of a Turk to celebrate the defeat of the Turks." target="_blank" href="/files/photos/prague/ossuary_turk.jpg">
+
     <img class="journalPhoto" alt="This is a part of the coat of arms. It's an image of a bird picking out an eye of a Turk to celebrate the defeat of the Turks." src="/files/photos/prague/ossuary_turk.jpg" height="527" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">This is a part of the coat of arms. It's an image of a bird picking out an eye of a Turk to celebrate the defeat of the Turks.</div>
+
 </div>
+
 <p>After the ossuary, we walked a little further to the train Station.</p>
+
 <p>We almost didn't realize that we had to transfer trains, but everything worked out well. We went back to the hotel - I relaxed and David went to the meeting for a bit.</p>
+
 <p>For the evening's entertainment, David and guest were invited on a river boat with dinner and music. Granted, it was a bunch of doctors, but it turned out to be a lovely evening. The boat took us from one side of Prague to the other, with two stops in a lock. Looking at Prague at night was magical. There have been many times on the trip so far that I have thought, "So this is what they mean by Bohemia." I've been searching for words to describe it. It's more than just an epicurean lifestyle. That word always mates me think of France, where they take epicurianism very seriously. The Czech enjoyment of the pleasures in life is somehow devoid of hedonism. It's youthful without being immature. And it's entirely unselfconscious. More than Paris, this is a city I can imagine myself staying in - writing in journals, attending concerts, sitting by the banks of the river naively enjoying life.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A chandelier using at least one of every human bone" target="_blank" href="/files/photos/prague/ossuary_chandelier.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A chandelier using at least one of every human bone" target="_blank" href="/files/photos/prague/ossuary_chandelier.jpg">
+
     <img class="journalPhoto" alt="A chandelier using at least one of every human bone" src="/files/photos/prague/ossuary_chandelier.jpg" height="728" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">A chandelier using at least one of every human bone</div>
+
 </div>

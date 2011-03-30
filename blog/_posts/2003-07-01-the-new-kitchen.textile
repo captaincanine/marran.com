@@ -13,86 +13,169 @@ tags:
 description: Shortly after finishing the new kitchen, we saw a commercial for Martha Stewart. We were stunned to realize that we had unknowingly (I swear!) built Martha Stewart's kitchen....except we have a better countertop. But in terms of "look and feel" Martha and ourselves are in agreement. This is either very good or very bad. After spending any amount of time in the kitchen, you will be forced to agree that we nailed it. Especially on a summer day, the doors open to the backyard, everyone hanging around the island without me having to yell, "GET OUT OF MY WAY! I'M COOKING." You will soon forget you are in Manhattan. Let's take a tour through the kitchen with David, shall we?
 ---
 <p>Shortly after finishing the new kitchen, we saw a commercial for Martha Stewart. We were stunned to realize that we had unknowingly (I swear!) built Martha Stewart's kitchen....except we have a better countertop. But in terms of "look and feel" Martha and ourselves are in agreement. This is either very good or very bad. After spending any amount of time in the kitchen, you will be forced to agree that we nailed it. Especially on a summer day, the doors open to the backyard, everyone hanging around the island without me having to yell, "GET OUT OF MY WAY! I'M COOKING." You will soon forget you are in Manhattan. Let's take a tour through the kitchen with David, shall we?</p>
+
 <!--break-->
 
+
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The whole kitchen" target="_blank" href="/files/photos/renovation/kitchen/whole_kitchen_1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The whole kitchen" target="_blank" href="/files/photos/renovation/kitchen/whole_kitchen_1.jpg">
+
     <img class="journalPhoto" alt="The whole kitchen" src="/files/photos/renovation/kitchen/whole_kitchen_1.jpg" width="400" height="300">
+
   </a>
+
   
+
   <div class="journalCaption">The whole kitchen</div>
+
 </div>
 
+
+
 <p>There are two main lighting fixtures in the kitchen. We got both of them at aplace in Soho with hundreds of different lights. You don't buy any individual light, you point out the lights that you like and they make them from scratch for you. That way you can mix and match various styles. For instance, the lighting fixture in the store that matched the one over the island had three lights and we asked for two.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The fridge..." target="_blank" href="/files/photos/renovation/kitchen/fridge.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The fridge..." target="_blank" href="/files/photos/renovation/kitchen/fridge.jpg">
+
     <img class="journalPhoto" alt="The fridge..." src="/files/photos/renovation/kitchen/fridge.jpg" width="300" height="400">
+
   </a>
+
   
+
   <div class="journalCaption">The fridge...</div>
+
 </div>
+
 <p>Appliances were a big deal. We cut corners on some items, but not on the appliances. Since David has more experience with high end appliances, he made a lot of the decisions here. The centerpiece (in my opinion) is the double convection oven. A convection oven has a fan in the back to circulate the hot air so that there are no cold spots in the oven - everything cooks evenly, cakes don't rise in the center, and everything cooks faster. It's kind of a miracle. And now we have two of them. Occassionally, I'll be making a big dinner and think, "I'll prebake the tart crust, then put in the chicken and when the chicken is done, I'll put in the...wait. I have two ovens."</p>
+
 <p>When the kitchen was pretty much finished, I said to David, "I'm sorry that I bulldozed every decision into getting my perfect kitchen." David replied with, "What do you mean? I got everything I wanted." ACtually, the base design came from a kitchen place that we lived next door to when we had an apartment on the east side.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="...and the sink." target="_blank" href="/files/photos/renovation/kitchen/sink.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="...and the sink." target="_blank" href="/files/photos/renovation/kitchen/sink.jpg">
+
     <img class="journalPhoto" alt="...and the sink." src="/files/photos/renovation/kitchen/sink.jpg" width="400" height="300">
+
   </a>
+
   
+
   <div class="journalCaption">...and the sink.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Here's David drinking some iced tea!" target="_blank" href="/files/photos/renovation/kitchen/drinking.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's David drinking some iced tea!" target="_blank" href="/files/photos/renovation/kitchen/drinking.jpg">
+
     <img class="journalPhoto" alt="Here's David drinking some iced tea!" src="/files/photos/renovation/kitchen/drinking.jpg" width="400" height="300">
+
   </a>
+
   
+
   <div class="journalCaption">Here's David drinking some iced tea!</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Here's David enjoying a view of the back yard. He doesn't have to worry about hitting his head on the way out!" target="_blank" href="/files/photos/renovation/kitchen/french_doors.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's David enjoying a view of the back yard. He doesn't have to worry about hitting his head on the way out!" target="_blank" href="/files/photos/renovation/kitchen/french_doors.jpg">
+
     <img class="journalPhoto" alt="Here's David enjoying a view of the back yard. He doesn't have to worry about hitting his head on the way out!" src="/files/photos/renovation/kitchen/french_doors.jpg" width="300" height="400">
+
   </a>
+
   
+
   <div class="journalCaption">Here's David enjoying a view of the back yard. He doesn't have to worry about hitting his head on the way out!</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Here's a shot of the other end of the kitchen." target="_blank" href="/files/photos/renovation/kitchen/eat_in.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's a shot of the other end of the kitchen." target="_blank" href="/files/photos/renovation/kitchen/eat_in.jpg">
+
     <img class="journalPhoto" alt="Here's a shot of the other end of the kitchen." src="/files/photos/renovation/kitchen/eat_in.jpg" width="400" height="300">
+
   </a>
+
   
+
   <div class="journalCaption">Here's a shot of the other end of the kitchen.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Now David is sitting down at the kitchen table." target="_blank" href="/files/photos/renovation/kitchen/david_eat_in.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Now David is sitting down at the kitchen table." target="_blank" href="/files/photos/renovation/kitchen/david_eat_in.jpg">
+
     <img class="journalPhoto" alt="Now David is sitting down at the kitchen table." src="/files/photos/renovation/kitchen/david_eat_in.jpg" width="400" height="300">
+
   </a>
+
   
+
   <div class="journalCaption">Now David is sitting down at the kitchen table.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="He can enjoy the fireplace at the kitchen table. This was previously painted over." target="_blank" href="/files/photos/renovation/kitchen/fireplace.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="He can enjoy the fireplace at the kitchen table. This was previously painted over." target="_blank" href="/files/photos/renovation/kitchen/fireplace.jpg">
+
     <img class="journalPhoto" alt="He can enjoy the fireplace at the kitchen table. This was previously painted over." src="/files/photos/renovation/kitchen/fireplace.jpg" width="400" height="300">
+
   </a>
+
   
+
   <div class="journalCaption">He can enjoy the fireplace at the kitchen table. This was previously painted over.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="And this is a shot of the kitchen island. The pots and pans are in open cabinets underneath the cooktop." target="_blank" href="/files/photos/renovation/kitchen/island.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="And this is a shot of the kitchen island. The pots and pans are in open cabinets underneath the cooktop." target="_blank" href="/files/photos/renovation/kitchen/island.jpg">
+
     <img class="journalPhoto" alt="And this is a shot of the kitchen island. The pots and pans are in open cabinets underneath the cooktop." src="/files/photos/renovation/kitchen/island.jpg" width="400" height="300">
+
   </a>
+
   
+
   <div class="journalCaption">And this is a shot of the kitchen island. The pots and pans are in open cabinets underneath the cooktop.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Double convection ovens. Yum. David's going into the living room." target="_blank" href="/files/photos/renovation/kitchen/ovens.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Double convection ovens. Yum. David's going into the living room." target="_blank" href="/files/photos/renovation/kitchen/ovens.jpg">
+
     <img class="journalPhoto" alt="Double convection ovens. Yum. David's going into the living room." src="/files/photos/renovation/kitchen/ovens.jpg" width="400" height="300">
+
   </a>
+
   
+
   <div class="journalCaption">Double convection ovens. Yum. David's going into the living room.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Let's take one last look at the kitchen before we leave." target="_blank" href="/files/photos/renovation/kitchen/whole_kitchen_2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Let's take one last look at the kitchen before we leave." target="_blank" href="/files/photos/renovation/kitchen/whole_kitchen_2.jpg">
+
     <img class="journalPhoto" alt="Let's take one last look at the kitchen before we leave." src="/files/photos/renovation/kitchen/whole_kitchen_2.jpg" width="400" height="300">
+
   </a>
+
   
+
   <div class="journalCaption">Let's take one last look at the kitchen before we leave.</div>
+
 </div>

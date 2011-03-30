@@ -12,131 +12,259 @@ tags:
 description: David and I got up relatively early to catch a train to go to Canterbury. It felt like we could have slept for days. England has a fantastic train system. You can get pretty much anywhere you need to get to by train and they run on time. The only drawback on taking the trains going south during the summer is that you're getting family beach crowds. We got stuck next to two loud groups on the train, but that didn't stop us from getting a little nap in on the way there.
 ---
 <p><para para_guid="1c643716-64a9-47a5-9d70-0d14a3f8912b">David and I got up relatively early to catch a train to go to Canterbury. It felt like we could have slept for days. England has a fantastic train system. You can get pretty much anywhere you need to get to by train and they run on time. The only drawback on taking the trains going south during the summer is that you're getting family beach crowds. We got stuck next to two loud groups on the train, but that didn't stop us from getting a little nap in on the way there.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David Asleep on the Train" target="_blank" href="/files/photos/london/canterbury-david-sleeping.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David Asleep on the Train" target="_blank" href="/files/photos/london/canterbury-david-sleeping.jpg">
+
     <img class="journalPhoto" alt="David Asleep on the Train" src="/files/photos/london/canterbury-david-sleeping.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">David Asleep on the Train</div>
+
 </div>
+
 <p><para para_guid="8df24de9-f484-4ff8-acc3-ab9b53825544">I was expecting Canterbury to be very similar to York, but it turns out that it's a more modern city. It seemed to be a big destination for teenagers - there were lots of kids hanging out in the park, and lots of families strolling around the shops. We headed right to the cathedral, which is the big attraction.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Gateway Arch to Canterbury Cathedral" target="_blank" href="/files/photos/london/canterbury-arch.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Gateway Arch to Canterbury Cathedral" target="_blank" href="/files/photos/london/canterbury-arch.jpg">
+
     <img class="journalPhoto" alt="The Gateway Arch to Canterbury Cathedral" src="/files/photos/london/canterbury-arch.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">The Gateway Arch to Canterbury Cathedral</div>
+
 </div>
+
 <p><para para_guid="716dc321-2b8b-40fa-b236-1939cab1b589">Past the gateway arch, you get a glimpse of just how large the cathedral is...</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Canterbury Entrance" target="_blank" href="/files/photos/london/canterbury-entrance.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Canterbury Entrance" target="_blank" href="/files/photos/london/canterbury-entrance.jpg">
+
     <img class="journalPhoto" alt="Canterbury Entrance" src="/files/photos/london/canterbury-entrance.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">Canterbury Entrance</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Side View of Canterbury Cathedral. This is still only about half of the full size." target="_blank" href="/files/photos/london/canterbury-sideview.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Side View of Canterbury Cathedral. This is still only about half of the full size." target="_blank" href="/files/photos/london/canterbury-sideview.jpg">
+
     <img class="journalPhoto" alt="A Side View of Canterbury Cathedral. This is still only about half of the full size." src="/files/photos/london/canterbury-sideview.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A Side View of Canterbury Cathedral. This is still only about half of the full size.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="An interesting spire on the outside. Notice the heads along the crest." target="_blank" href="/files/photos/london/canterbury-spire.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="An interesting spire on the outside. Notice the heads along the crest." target="_blank" href="/files/photos/london/canterbury-spire.jpg">
+
     <img class="journalPhoto" alt="An interesting spire on the outside. Notice the heads along the crest." src="/files/photos/london/canterbury-spire.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">An interesting spire on the outside. Notice the heads along the crest.</div>
+
 </div>
+
 <p><para para_guid="45bf80e7-fd2b-4bad-97c7-bc1e231efb15">David got a map of the cathedral and we were on our way inside.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David at the Entrance" target="_blank" href="/files/photos/london/canterbury-david-entrance.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David at the Entrance" target="_blank" href="/files/photos/london/canterbury-david-entrance.jpg">
+
     <img class="journalPhoto" alt="David at the Entrance" src="/files/photos/london/canterbury-david-entrance.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">David at the Entrance</div>
+
 </div>
+
 <p><para para_guid="5e464e90-c66f-4deb-8b75-428a705d3c49">The cathedral is largely known for its stained glass. Unfortunately, a lot of the stained glass was bombed out in World War II. In fact, the only reason that the cathedral is still standing is because the Germans had poor maps of England. The locals in Kent would also light fires out in the middle of nowhere to try to trick the Germans into thinking the targets were in a different place.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The stained glass at the entrance of the cathedral." target="_blank" href="/files/photos/london/canterbury-frontglass.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The stained glass at the entrance of the cathedral." target="_blank" href="/files/photos/london/canterbury-frontglass.jpg">
+
     <img class="journalPhoto" alt="The stained glass at the entrance of the cathedral." src="/files/photos/london/canterbury-frontglass.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">The stained glass at the entrance of the cathedral.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Stained Glass" target="_blank" href="/files/photos/london/canterbury-favoriteglass.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Stained Glass" target="_blank" href="/files/photos/london/canterbury-favoriteglass.jpg">
+
     <img class="journalPhoto" alt="Stained Glass" src="/files/photos/london/canterbury-favoriteglass.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Stained Glass</div>
+
 </div>
+
 <p><para para_guid="9d7f0eeb-6efa-42fc-bb7e-fd5d6c279df6">Once inside, there was nothing to do but wander around and look.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Apse in Canterbury Cathedral" target="_blank" href="/files/photos/london/canterbury-apse.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Apse in Canterbury Cathedral" target="_blank" href="/files/photos/london/canterbury-apse.jpg">
+
     <img class="journalPhoto" alt="The Apse in Canterbury Cathedral" src="/files/photos/london/canterbury-apse.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">The Apse in Canterbury Cathedral</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Tomb of the Black Prine" target="_blank" href="/files/photos/london/canterbury-blackprince.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Tomb of the Black Prine" target="_blank" href="/files/photos/london/canterbury-blackprince.jpg">
+
     <img class="journalPhoto" alt="The Tomb of the Black Prine" src="/files/photos/london/canterbury-blackprince.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The Tomb of the Black Prine</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Stretch of Ceiling in Canterbury Cathedral" target="_blank" href="/files/photos/london/canterbury-ceiling.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Stretch of Ceiling in Canterbury Cathedral" target="_blank" href="/files/photos/london/canterbury-ceiling.jpg">
+
     <img class="journalPhoto" alt="A Stretch of Ceiling in Canterbury Cathedral" src="/files/photos/london/canterbury-ceiling.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A Stretch of Ceiling in Canterbury Cathedral</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A Side Chapel in the Cathedral" target="_blank" href="/files/photos/london/canterbury-chapel.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Side Chapel in the Cathedral" target="_blank" href="/files/photos/london/canterbury-chapel.jpg">
+
     <img class="journalPhoto" alt="A Side Chapel in the Cathedral" src="/files/photos/london/canterbury-chapel.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A Side Chapel in the Cathedral</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A beautiful example of medieval painted word work." target="_blank" href="/files/photos/london/canterbury-tomb.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A beautiful example of medieval painted word work." target="_blank" href="/files/photos/london/canterbury-tomb.jpg">
+
     <img class="journalPhoto" alt="A beautiful example of medieval painted word work." src="/files/photos/london/canterbury-tomb.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A beautiful example of medieval painted word work.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A marble tomb of a king and queen (can't remember who)" target="_blank" href="/files/photos/london/canterbury-marbletomb.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A marble tomb of a king and queen (can't remember who)" target="_blank" href="/files/photos/london/canterbury-marbletomb.jpg">
+
     <img class="journalPhoto" alt="A marble tomb of a king and queen (can't remember who)" src="/files/photos/london/canterbury-marbletomb.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A marble tomb of a king and queen (can't remember who)</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Clock" target="_blank" href="/files/photos/london/canterbury-clock.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Clock" target="_blank" href="/files/photos/london/canterbury-clock.jpg">
+
     <img class="journalPhoto" alt="Clock" src="/files/photos/london/canterbury-clock.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Clock</div>
+
 </div>
+
 <p><para para_guid="719767f2-44f4-442d-8003-0c51e83ebdeb">We wandered around the back. We came across a room called "The Treaty Room". It was the room in which France and England signed the contract to build the chunnel together.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Treaty Room" target="_blank" href="/files/photos/london/canterbury-chunnel.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Treaty Room" target="_blank" href="/files/photos/london/canterbury-chunnel.jpg">
+
     <img class="journalPhoto" alt="The Treaty Room" src="/files/photos/london/canterbury-chunnel.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">The Treaty Room</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The monk's entrance in the back." target="_blank" href="/files/photos/london/canterbury-tower.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The monk's entrance in the back." target="_blank" href="/files/photos/london/canterbury-tower.jpg">
+
     <img class="journalPhoto" alt="The monk's entrance in the back." src="/files/photos/london/canterbury-tower.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">The monk's entrance in the back.</div>
+
 </div>
+
 <p><para para_guid="c41f3e4b-e79c-4cfd-88c4-740cf4577c05">After the cathedral, we went to a place for lunch called "The Custard Tart". It was a tiny little shop in a back alley that was recommended by the guide book. We had a light lunch and grabbed some sweets for later.</para></p>
+
 <p><para para_guid="c1c79e04-8f19-4647-bc65-f82c1b0084f2">For our next stop, we were going to take the train further south to Dover. The man at the ticket window in Canterbury was trying to save us some money on the fair and was taking <em>forever</em> to calculate and sell us a ticket. As we sitting there, our train rolled into the station. We eventually politely asked him to just sell us a simple ticket to Dover and we ran for the train. The conductor held the train a minute to let us on, but we got the sense that they barely ever hold trains for people.</para></p>
+
 <p><para para_guid="8d7e5524-6402-40ce-8323-3c42400c02a4">David and I both fell asleep on the half-hour trip to Dover.</para></p>

@@ -10,25 +10,47 @@ tags:
 description: The next day, we decided to take it easy, make a nice dinner at home, and invite friends over. We started with a look at the grill. I knew we could do much better, so Mom and I went to Home Depot and we got ourselves a new charcoal grill. And of course, there's no sense in throw the same old briquettes on a charcoal grill, so we got a starter chimney and some real wood charcoal. Man, what a difference it all makes in the flavor.
 ---
 <p>The next day, we decided to take it easy, make a nice dinner at home, and invite friends over. We started with a look at the grill. I knew we could do much better, so Mom and I went to Home Depot and we got ourselves a new charcoal grill. And of course, there's no sense in throw the same old briquettes on a charcoal grill, so we got a starter chimney and some real wood charcoal. Man, what a difference it all makes in the flavor.</p>
+
 <!--break-->
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/oregon/new_grill.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/oregon/new_grill.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/oregon/new_grill.JPG" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/oregon/patio.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/oregon/patio.JPG">
+
     <img class="journalPhoto" alt="" src="/files/photos/oregon/patio.jpg" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/oregon/baker_creation.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/oregon/baker_creation.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/oregon/baker_creation.jpg" height="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>

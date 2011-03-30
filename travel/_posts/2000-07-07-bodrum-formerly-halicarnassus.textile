@@ -12,25 +12,47 @@ tags:
 description: Yesterday was our last day in Turkey, and so our last day with Inci. We were joined by a Jim - the southern gentleman we met on the ship. Our first trek was through the Bodrum Castle, which, like many structures around here, started in the ancient world and then changed throughout the ages. They had some particularly interesting exhibits of underwater excavations. And the views throughout the castle were great.
 ---
 <p>Yesterday was our last day in Turkey, and so our last day with Inci. We were joined by a Jim - the southern gentleman we met on the ship. Our first trek was through the Bodrum Castle, which, like many structures around here, started in the ancient world and then changed throughout the ages. They had some particularly interesting exhibits of underwater excavations. And the views throughout the castle were great.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This is the view from the castle at Bodrum. You can see the minaret from the mosque in the castle and the row of red Turkish flags." target="_blank" href="/files/photos/cruise2000/bodrum_turret.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the view from the castle at Bodrum. You can see the minaret from the mosque in the castle and the row of red Turkish flags." target="_blank" href="/files/photos/cruise2000/bodrum_turret.jpg">
+
     <img class="journalPhoto" alt="This is the view from the castle at Bodrum. You can see the minaret from the mosque in the castle and the row of red Turkish flags." src="/files/photos/cruise2000/bodrum_turret.jpg" height="300" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">This is the view from the castle at Bodrum. You can see the minaret from the mosque in the castle and the row of red Turkish flags.</div>
+
 </div>
+
 <p>Before going to the next Site we had a fantastic lunch. The Turkish food is really quite good. Lots of grilled meats and tasty fresh veggies.</p>
+
 <p><b>Seven Wonders of the Ancient World</b>
+
          : 
+
          <a href="http://ce.eng.usf.edu/pharos/wonders/mausoleum.html" target="info">The Mausoleum at Halicarnassus</a>
+
          . Next we went to the remains of the Mausoleum, one of the seven wonders of the ancient world. This is where our word "mausoleum" comes from, although in this context, it was King Maussollos' tomb.
+
       </p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This is our tour guide, Inci, from the castle. In the distance is our ship." target="_blank" href="/files/photos/cruise2000/bodrum_Inci.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is our tour guide, Inci, from the castle. In the distance is our ship." target="_blank" href="/files/photos/cruise2000/bodrum_Inci.jpg">
+
     <img class="journalPhoto" alt="This is our tour guide, Inci, from the castle. In the distance is our ship." src="/files/photos/cruise2000/bodrum_inci.jpg" height="259" width="300">
+
   </a>
+
   
+
   <div class="journalCaption">This is our tour guide, Inci, from the castle. In the distance is our ship.</div>
+
 </div>
+
 <p>After that we did a bit of shopping for knick-knacks and then rented a boat. He took us around to a few bays and then to a special spot called, "The Aquarium." It's supposedly called that because the water is so still and clear. I took a swim in the Aegean and then we went back to the docks.</p>
+
 <p>We said our goodbyes to Inci and went back to the ship for a couple of very strong pina coladas. For dinner, we ate with Jim and Bob and two Brits, Brian and Neil. It was a very enjoyable dinner and we agreed to do the same the next night. We also had the first bits of rocky water, although it was not as bad as we had last year.</p>

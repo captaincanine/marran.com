@@ -12,15 +12,27 @@ tags:
 description: When David and I were first planning our trip to London, I commented that this is the first time we've gone to London without the need to purchase any antiques. His response was "well...there are those side tables in the living room...".
 ---
 <p><para para_guid="a708dee8-8c6c-4b22-b42c-04076ba7c549">When David and I were first planning our trip to London, I commented that this is the first time we've gone to London without the need to purchase any antiques. His response was "well...there are those side tables in the living room...". </para></p>
+
 <p><para para_guid="c566ce3a-7268-4fd1-83ca-165120dd6558">So, our trip to London would not be complete without a visit to The Furniture Caves. It's a collection of about 8 - 10 antique and reproduction stores where we've bought the armoir in the bedroom, a small dresser, a side board in the living room, and a secretary-like bookcase. They've treated us well.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Poor David leaving the Furniture Caves Empty Handed" target="_blank" href="/files/photos/london/furniturecaves.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Poor David leaving the Furniture Caves Empty Handed" target="_blank" href="/files/photos/london/furniturecaves.jpg">
+
     <img class="journalPhoto" alt="Poor David leaving the Furniture Caves Empty Handed" src="/files/photos/london/furniturecaves.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption">Poor David leaving the Furniture Caves Empty Handed</div>
+
 </div>
+
 <p><para para_guid="959176da-eec0-4c55-ad6e-084c6e22e7a5">Unfortunately, on this trip, we came up empty-handed. There just wasn't anything that spoke to us. However, we did visit someone that had some interesting things from India. He gave us a suggestion of where we might be able to find more India imports.</para></p>
+
 <p><para para_guid="508e7d76-49ab-4dc3-9560-d44b62ca0ef1">We took a bus into Chelsea and found the Indian place, but it was all ultra-modern merchandise. What's the point? We checked out anothe antiques market in the area and had a good time walking around Chelsea. We ended up walking into a no-man's-land looking for a lunch place. After many map consultations and a few "I have a good feeling there will be a lunch place down this street", we ended up at Harrod's. We went in and ordered lunch at one of their counters. </para></p>
+
 <p><para para_guid="879f0f7b-159b-4c8c-92d4-5c84fa007304">That afternoon, we took it easy again. We went back to the hotel, read, caught up on email, and napped. </para></p>
+
 <p><para para_guid="1267a5c2-4dec-4072-ba58-726fd2ed572a">That evening we went to see "Sunday in the Park with George". I've seen the version that was taped for PBS plenty of times and am a huge fan. This was the first time seeing it live. I enjoyed it immensely. David, on the other hand...not so much. He was a little bored and lost with it while I was having an apotheosis.</para></p>

@@ -12,60 +12,117 @@ tags:
 description: The second floor. This is really our floor. It has Gogo's room, the family/entertainment room, and master bedroom.
 ---
 <p>The second floor. This is really our floor. It has Gogo's room, the family/entertainment room, and master bedroom.</p>
+
 <!--break-->
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A niche. What do we put here? I vote for a statue of the virgin mother. Please email us with suggestions." target="_blank" href="/files/photos/mission_home/second.niche.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A niche. What do we put here? I vote for a statue of the virgin mother. Please email us with suggestions." target="_blank" href="/files/photos/mission_home/second.niche.JPG">
+
     <img class="journalPhoto" alt="A niche. What do we put here? I vote for a statue of the virgin mother. Please email us with suggestions." src="/files/photos/mission_home/second.niche.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">A niche. What do we put here? I vote for a statue of the virgin mother. Please email us with suggestions.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Gogo's room. She can hang out here during the day and monitor 15th street." target="_blank" href="/files/photos/mission_home/second.gogo.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo's room. She can hang out here during the day and monitor 15th street." target="_blank" href="/files/photos/mission_home/second.gogo.JPG">
+
     <img class="journalPhoto" alt="Gogo's room. She can hang out here during the day and monitor 15th street." src="/files/photos/mission_home/second.gogo.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">Gogo's room. She can hang out here during the day and monitor 15th street.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The view from Gogo's room." target="_blank" href="/files/photos/mission_home/second.gogo_view.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from Gogo's room." target="_blank" href="/files/photos/mission_home/second.gogo_view.JPG">
+
     <img class="journalPhoto" alt="The view from Gogo's room." src="/files/photos/mission_home/second.gogo_view.JPG" width="200" height="267">
+
   </a>
+
   
+
   <div class="journalCaption">The view from Gogo's room.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The family room. This is on the street side of the house." target="_blank" href="/files/photos/mission_home/second.family_back.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The family room. This is on the street side of the house." target="_blank" href="/files/photos/mission_home/second.family_back.JPG">
+
     <img class="journalPhoto" alt="The family room. This is on the street side of the house." src="/files/photos/mission_home/second.family_back.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">The family room. This is on the street side of the house.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The front of the family room." target="_blank" href="/files/photos/mission_home/second.family_front.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front of the family room." target="_blank" href="/files/photos/mission_home/second.family_front.JPG">
+
     <img class="journalPhoto" alt="The front of the family room." src="/files/photos/mission_home/second.family_front.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">The front of the family room.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The master bedroom." target="_blank" href="/files/photos/mission_home/second.bedroom.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The master bedroom." target="_blank" href="/files/photos/mission_home/second.bedroom.JPG">
+
     <img class="journalPhoto" alt="The master bedroom." src="/files/photos/mission_home/second.bedroom.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">The master bedroom.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This bathroom is being split in two - a small powder room accessible from the hallway, and the master bath accessible only from the master bedroom. No more stalls. I wanted to take Monica's advice and leave them there for parties." target="_blank" href="/files/photos/mission_home/second.bathroom.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This bathroom is being split in two - a small powder room accessible from the hallway, and the master bath accessible only from the master bedroom. No more stalls. I wanted to take Monica's advice and leave them there for parties." target="_blank" href="/files/photos/mission_home/second.bathroom.JPG">
+
     <img class="journalPhoto" alt="This bathroom is being split in two - a small powder room accessible from the hallway, and the master bath accessible only from the master bedroom. No more stalls. I wanted to take Monica's advice and leave them there for parties." src="/files/photos/mission_home/second.bathroom.JPG" width="200" height="267">
+
   </a>
+
   
+
   <div class="journalCaption">This bathroom is being split in two - a small powder room accessible from the hallway, and the master bath accessible only from the master bedroom. No more stalls. I wanted to take Monica's advice and leave them there for parties.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="And up to the third and final floor. The payphone is gone. :(" target="_blank" href="/files/photos/mission_home/second.hallway.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="And up to the third and final floor. The payphone is gone. :(" target="_blank" href="/files/photos/mission_home/second.hallway.JPG">
+
     <img class="journalPhoto" alt="And up to the third and final floor. The payphone is gone. :(" src="/files/photos/mission_home/second.hallway.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">And up to the third and final floor. The payphone is gone. :(</div>
+
 </div>

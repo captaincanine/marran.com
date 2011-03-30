@@ -13,65 +13,127 @@ tags:
 description: We've just begun the final renovation. I've started comparing it to childbirth. Everytime we prepare for renovations, I'm all excited about the final work. Then the demolition starts and I think "Was I crazy for looking forward to this? I want this OVER!" And as soon as the renovation is ended, I think "that wasn't so bad. When's the next one?"
 ---
 <p>We've just begun the final renovation. I've started comparing it to childbirth. Everytime we prepare for renovations, I'm all excited about the final work. Then the demolition starts and I think "Was I crazy for looking forward to this? I want this OVER!" And as soon as the renovation is ended, I think "that wasn't so bad. When's the next one?"</p>
+
 <!--break-->
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Plastic everywhere" target="_blank" href="/files/photos/renovation/plastic.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Plastic everywhere" target="_blank" href="/files/photos/renovation/plastic.JPG">
+
     <img class="journalPhoto" alt="Plastic everywhere" src="/files/photos/renovation/plastic.JPG" width="200" height="150">
+
   </a>
+
   
+
   <div class="journalCaption">Plastic everywhere</div>
+
+</div>
+
+
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The site of my future office" target="_blank" href="/files/photos/renovation/future_office.JPG">
+
+    <img class="journalPhoto" alt="The site of my future office" src="/files/photos/renovation/future_office.JPG" width="200" height="150">
+
+  </a>
+
+  
+
+  <div class="journalCaption">The site of my future office</div>
+
 </div>
 
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The site of my future office" target="_blank" href="/files/photos/renovation/future_office.JPG">
-    <img class="journalPhoto" alt="The site of my future office" src="/files/photos/renovation/future_office.JPG" width="200" height="150">
-  </a>
-  
-  <div class="journalCaption">The site of my future office</div>
-</div>
-<div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The new hall closet" target="_blank" href="/files/photos/renovation/new_closet.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The new hall closet" target="_blank" href="/files/photos/renovation/new_closet.JPG">
+
     <img class="journalPhoto" alt="The new hall closet" src="/files/photos/renovation/new_closet.JPG" width="200" height="150">
+
   </a>
+
   
+
   <div class="journalCaption">The new hall closet</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The arch for the screen" target="_blank" href="/files/photos/renovation/screen_arch.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The arch for the screen" target="_blank" href="/files/photos/renovation/screen_arch.JPG">
+
     <img class="journalPhoto" alt="The arch for the screen" src="/files/photos/renovation/screen_arch.JPG" width="200" height="150">
+
   </a>
+
   
+
   <div class="journalCaption">The arch for the screen</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The wall with the windows. So many wires for our high-tech room!" target="_blank" href="/files/photos/renovation/windows.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The wall with the windows. So many wires for our high-tech room!" target="_blank" href="/files/photos/renovation/windows.JPG">
+
     <img class="journalPhoto" alt="The wall with the windows. So many wires for our high-tech room!" src="/files/photos/renovation/windows.JPG" width="200" height="150">
+
   </a>
+
   
+
   <div class="journalCaption">The wall with the windows. So many wires for our high-tech room!</div>
+
 </div>
+
 <p>One of the not so wonderful aspects fo this renovation is that we had to do the demolition in two parts. We did the main demolitionof the two rooms on the second floor, then a week later, we had demolition on the first floor. So basically, about the time that the major dust and trauma of the first demolition was over, we got hit with a second dose. Not fun. And now whenever you come into the house, a little bit of dust and plaster falls on you from above. It's quaint, really.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The downstairs hallway without walls" target="_blank" href="/files/photos/renovation/hallway.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The downstairs hallway without walls" target="_blank" href="/files/photos/renovation/hallway.JPG">
+
     <img class="journalPhoto" alt="The downstairs hallway without walls" src="/files/photos/renovation/hallway.JPG" width="200" height="150">
+
   </a>
+
   
+
   <div class="journalCaption">The downstairs hallway without walls</div>
+
 </div>
+
 <p>Gogo loves the construction for some reason. She always says hello to the guys in the morning and she loves to wander into the construction zone. When they were settting up for the second round of demolition, Gogo and I were still in the bedroom. I was just finishing getting dressed. The workers were taping up all the entrances to minimize the flow of dust into the other rooms. They started to tape up the bedroom, and I heard someone say (do this in your best Brooklyn accent) "Don't tape up that room. Gogo and that guy are still in there.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="More of the first floor hallway" target="_blank" href="/files/photos/renovation/hallway_2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the first floor hallway" target="_blank" href="/files/photos/renovation/hallway_2.jpg">
+
     <img class="journalPhoto" alt="More of the first floor hallway" src="/files/photos/renovation/hallway_2.jpg" width="150" height="200">
+
   </a>
+
   
+
   <div class="journalCaption">More of the first floor hallway</div>
+
 </div>
+
 <div style="margin-top: 1em; margin-bottom: 1em;">
+
   <script language="JavaScript">
+
 QT_WriteOBJECT_XHTML (
+
 	"/files/photos/renovation/bollywood/goodbye.mov", "320", "256", "",
+
 	"autoplay","false",
+
 	"target", "myself"
+
 );
+
 </script>
+
 </div>

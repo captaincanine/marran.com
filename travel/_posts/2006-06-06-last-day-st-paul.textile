@@ -9,34 +9,62 @@ redirects:
 - /personal/travel/england/last-day-st-paul
 tags: 
 - England
-description: We didn't have much time on our last full day. I wanted to do just a little bit of shopping and David wanted to visit St. Paul's Cathedral. We decided that we could easily do both.I had found a store on the internet that sold Indian things and there was a music store that specialized in musicals and soundtracks that were near each other. We took the underground to close to the neighborhood, but left a lot of time for walking. It was a nice day for it.
+description: We didn't have much time on our last full day. I wanted to do just a little bit of shopping and David wanted to visit St. Paul's Cathedral. We decided that we could easily do both. I had found a store on the internet that sold Indian things and there was a music store that specialized in musicals and soundtracks that were near each other. We took the underground to close to the neighborhood, but left a lot of time for walking. It was a nice day for it.
 ---
 <p><para para_guid="d0bb129b-7469-40a1-9063-a7103f1f8896">We didn't have much time on our last full day. I wanted to do just a little bit of shopping and David wanted to visit St. Paul's Cathedral. We decided that we could easily do both.</para></p>
+
 <p><para para_guid="31d49e28-d690-42c1-b8f4-67e580cc39f5">I had found a store on the internet that sold Indian things and there was a music store that specialized in musicals and soundtracks that were near each other. We took the underground to close to the neighborhood, but left a lot of time for walking. It was a nice day for it.</para></p>
+
 <p><para para_guid="1a9c8414-7292-4e0c-b57b-8bbd67c1c566">By pure happenstance, we stumbled across a house that was known for two famous writers: George Bernard Shaw and Virginia Woolf. I took a picture. I wanted to go knock on the door and tell the residents that we expected great literary achievements from anyone that lived here, but David stopped me.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The House that George Bernard Shaw and Virginia Woolf Lived In (at separate times)" target="_blank" href="/files/photos/london/shaw-woolf-house.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The House that George Bernard Shaw and Virginia Woolf Lived In (at separate times)" target="_blank" href="/files/photos/london/shaw-woolf-house.jpg">
+
     <img class="journalPhoto" alt="The House that George Bernard Shaw and Virginia Woolf Lived In (at separate times)" src="/files/photos/london/shaw-woolf-house.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The House that George Bernard Shaw and Virginia Woolf Lived In (at separate times)</div>
+
 </div>
+
 <p><para para_guid="43f81ca3-5107-4d34-95e1-69f6a31821e7">We found the Indian store. Or rather, we found the remnants of it. It had apparently closed the previous December. Oh well. And we made it to the music store but I wasn't feeling too inspired to buy anything. So it was on to St. Paul's.</para></p>
+
 <p><para para_guid="81da59a9-7269-48de-a0f6-79ed384896be">I don't have many pictures of St Paul's because you're not allowed to take pictures once you're inside. However, I found a little section where there were no monitors roaming around and the view was too beautiful to resist taking a picture.</para></p>
+
 <p><para para_guid="c2c7d42f-131d-4a86-b532-a10d34b42e60">I had been to St. Paul's many years ago by myself - on a long layover. I remember being not that impressed. What the hell was up with me that day? It's a beautiful cathedral. I think there must have been some construction or renovation going on to stop my from seeing all of it, because I was mightily impressed going through it with David.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Entrance to St. Pauls" target="_blank" href="/files/photos/london/stpauls-entrance.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Entrance to St. Pauls" target="_blank" href="/files/photos/london/stpauls-entrance.jpg">
+
     <img class="journalPhoto" alt="The Entrance to St. Pauls" src="/files/photos/london/stpauls-entrance.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The Entrance to St. Pauls</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Ceiling of St. Pauls" target="_blank" href="/files/photos/london/stpauls-ceiling.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Ceiling of St. Pauls" target="_blank" href="/files/photos/london/stpauls-ceiling.jpg">
+
     <img class="journalPhoto" alt="The Ceiling of St. Pauls" src="/files/photos/london/stpauls-ceiling.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The Ceiling of St. Pauls</div>
+
 </div>
+
 <p><para para_guid="d48a4442-6a50-44e1-96a5-222fba3eb234">After St. Pauls, we grabbed lunch and sat in the gardens outside the cathedral and ate. It was another beautiful day. We have been blessed with good weather in London.</para></p>
+
 <p><para para_guid="d79ee3bc-8449-4fba-959c-c393ddeb1c20">I was quite surprised how this long weekend in a city that I have visited several times really turned into a great vacation. Every time I go back to London, I enjoy it more.</para></p>

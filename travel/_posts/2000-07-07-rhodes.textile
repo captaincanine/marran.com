@@ -12,28 +12,53 @@ tags:
 description: Today we were at port in Rhodes before we awakened. We had break fast and headed into the city. Rhodes has the reputation of being the Florida of Europe. I think it's specifically the South Beach with a medieval section.
 ---
 <p>Today we were at port in Rhodes before we awakened. We had break fast and headed into the city. Rhodes has the reputation of being the Florida of Europe. I think it's specifically the South Beach with a medieval section.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A picture of the mosaic floor of the synagogue at Rhodes. Most of the walkways in Rhodes were made of small stones - although usually not in this ornate of a pattern." target="_blank" href="/files/photos/cruise2000/rhodes_stones.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A picture of the mosaic floor of the synagogue at Rhodes. Most of the walkways in Rhodes were made of small stones - although usually not in this ornate of a pattern." target="_blank" href="/files/photos/cruise2000/rhodes_stones.jpg">
+
     <img class="journalPhoto" alt="A picture of the mosaic floor of the synagogue at Rhodes. Most of the walkways in Rhodes were made of small stones - although usually not in this ornate of a pattern." src="/files/photos/cruise2000/rhodes_stones.jpg" height="384" width="512">
+
   </a>
+
   
+
   <div class="journalCaption">A picture of the mosaic floor of the synagogue at Rhodes. Most of the walkways in Rhodes were made of small stones - although usually not in this ornate of a pattern.</div>
+
 </div>
+
 <p>We set off to walk into town and a woman that we met on the ship stopped us and asked if we wouldn't mind if she walked with us. She's 82 and was ditched by her daughter. What can you say? So she walked in with us but we wore her out in a half hour.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David under a lime tree in the garden where we had lunch." target="_blank" href="/files/photos/cruise2000/rhodes_lunch.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David under a lime tree in the garden where we had lunch." target="_blank" href="/files/photos/cruise2000/rhodes_lunch.jpg">
+
     <img class="journalPhoto" alt="David under a lime tree in the garden where we had lunch." src="/files/photos/cruise2000/rhodes_lunch.jpg" height="533" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">David under a lime tree in the garden where we had lunch.</div>
+
 </div>
+
 <p>The old City is a medieval town with areas where merchants have setup storefront tourist shops. We walked into the palace, which was restored for Mussolini, but l don't think he ever got a chance to use it. The Italians did a great job on the restoration. Pretty much every room had a fantastic mosaic that had been taken from another location. The Italians are big on recycling, as Benji would say.</p>
+
 <p>We also went to a synagogue and Jewish museum. The Jewish population was quite strong is Rhodes before the Holocaust. And the only ones allowed in the old city used to be Turks and Jews.</p>
+
 <p>Eventually we had to do lunch, and we found a small hole in the wall that was basically just someone's garden. They make only a few dishes a day, and so we had a little of everything. Real Greek Salad tastes much better than the American version. And the garden was lovely. We ate under lime trees.</p>
+
 <p>Since we did not have the task master tour guide, Inci, we went back to the ship for a nap. After getting back to the city, David bought another rug at a place we had passed earlier. I just found out that David only brought one pair of shorts. What was he thinking? The other homosexuals came into the shop when David was bargaining and said hello. They may join us in Bodrum. We took a trip up to the old Clock Bell tower where there was a fantastic view of the city. There was a similar tower in Rab, Croatia with narrow, rickety steps. You just have to take a deep breath and assume that if the structure has survived this long, it will last another fifteen minutes.</p>
+
 <p>For dinner we went to fish restaurant that was recommended by the guy that sold us the rug. Very good food. The walk through the noncommercial area at night was wonderful. With the quiet and the lamps along the narrow cobblestone streets, you really did feel transported to another time.</p>
+
 <p><b>Seven Wonders of the Ancient World</b>
+
          : 
+
          <a href="http://ce.eng.usf.edu/pharos/wonders/colossus.html" target="info">The Colossus of Rhodes</a>
+
          . Of course, nothing is left.
+
       </p>

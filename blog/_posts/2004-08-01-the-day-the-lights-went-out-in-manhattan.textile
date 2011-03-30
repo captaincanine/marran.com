@@ -10,49 +10,95 @@ tags:
 description: In August of 2004, there was a blackout on much of the Eastern seaboard of the United States. We were in Manhattan when it hit. At first it was a bit exciting, but as the evening approached and we realized we'd have to go through a hot August night without even a fan, I lost my taste for this little adventure.
 ---
 In August of 2004, there was a blackout on much of the Eastern seaboard of the United States. We were in Manhattan when it hit. At first it was a bit exciting, but as the evening approached and we realized we'd have to go through a hot August night without even a fan, I lost my taste for this little adventure.
+
 <!--break-->
 
+
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="So many people walking." target="_blank" href="/files/photos/blackout/walking_home_2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="So many people walking." target="_blank" href="/files/photos/blackout/walking_home_2.jpg">
+
     <img class="journalPhoto" alt="So many people walking." src="/files/photos/blackout/walking_home_2.jpg" width="300">
+
   </a>
+
   
+
   <div class="journalCaption">So many people walking.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="There were hundreds of people walking. You can't tell from this picture." target="_blank" href="/files/photos/blackout/walking_home_1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="There were hundreds of people walking. You can't tell from this picture." target="_blank" href="/files/photos/blackout/walking_home_1.jpg">
+
     <img class="journalPhoto" alt="There were hundreds of people walking. You can't tell from this picture." src="/files/photos/blackout/walking_home_1.jpg" width="300" >
+
   </a>
+
   
+
   <div class="journalCaption">There were hundreds of people walking. You can't tell from this picture.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/blackout/walking_home_3.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/blackout/walking_home_3.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/blackout/walking_home_3.jpg" width="300">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <p>Just about every other block, someone would open their car doors and leave their radio on loud enough for other people to hear the news.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/blackout/car_radio_1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/blackout/car_radio_1.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/blackout/car_radio_1.jpg" width="300">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/blackout/car_radio_2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/blackout/car_radio_2.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/blackout/car_radio_2.jpg" width="300">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <p>Here's an interesting note that I found taped to a door. FYI - Queens is a LONG WAY AWAY! (Don't forget to click on the little magifying glass to see the details)</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/blackout/queens.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/blackout/queens.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/blackout/queens.jpg" width="300">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>

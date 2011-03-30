@@ -12,25 +12,47 @@ tags:
 description: After Pisa, we drove up to Carrera (the place with the marble!). Once again, quaint medieval town. Unfortunately, most everything was closed there. We saw some workers carving marble and took a picture. They let us know that that was not cool. Obviously, we looked like tourists, so they weren't too worried, but I did put the camera away.
 ---
 <p>After Pisa, we drove up to Carrera (the place with the marble!). Once again, quaint medieval town. Unfortunately, most everything was closed there. We saw some workers carving marble and took a picture. They let us know that that was not cool. Obviously, we looked like tourists, so they weren't too worried, but I did put the camera away.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A view of the mountainside. That's marble you're seeing on the side - not snow." target="_blank" href="/files/photos/tuscany/carrera.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the mountainside. That's marble you're seeing on the side - not snow." target="_blank" href="/files/photos/tuscany/carrera.jpg">
+
     <img class="journalPhoto" alt="A view of the mountainside. That's marble you're seeing on the side - not snow." src="/files/photos/tuscany/carrera.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">A view of the mountainside. That's marble you're seeing on the side - not snow.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A statue dedicated to workers that died in the marble mines" target="_blank" href="/files/photos/tuscany/carrera_statue.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A statue dedicated to workers that died in the marble mines" target="_blank" href="/files/photos/tuscany/carrera_statue.jpg">
+
     <img class="journalPhoto" alt="A statue dedicated to workers that died in the marble mines" src="/files/photos/tuscany/carrera_statue.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">A statue dedicated to workers that died in the marble mines</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The picture we weren't supposed to take." target="_blank" href="/files/photos/tuscany/carrera_workers.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The picture we weren't supposed to take." target="_blank" href="/files/photos/tuscany/carrera_workers.jpg">
+
     <img class="journalPhoto" alt="The picture we weren't supposed to take." src="/files/photos/tuscany/carrera_workers.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">The picture we weren't supposed to take.</div>
+
 </div>
+
 <p>After Carrera, we took the scenic route to our next stop. That meant driving up and over one of the Italian Alps. The views were fantastic. We didn't take any pictures. The road was dotted with occasional road-side hotels, but for the most part, there was absolutely no one around.</p>

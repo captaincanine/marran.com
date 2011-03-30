@@ -12,14 +12,25 @@ tags:
 description: The last day of the cruise. Getting the bill in the room is a real slap in the face. Although David and l have both said that we're ready to return, it still has been so wonderful that we don't want it to end.
 ---
 <p>The last day of the cruise. Getting the bill in the room is a real slap in the face. Although David and l have both said that we're ready to return, it still has been so wonderful that we don't want it to end.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The main town of Mykonos. David, Brian, Neal and Earl Bobby of Memphis." target="_blank" href="/files/photos/cruise2000/mykonos.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main town of Mykonos. David, Brian, Neal and Earl Bobby of Memphis." target="_blank" href="/files/photos/cruise2000/mykonos.jpg">
+
     <img class="journalPhoto" alt="The main town of Mykonos. David, Brian, Neal and Earl Bobby of Memphis." src="/files/photos/cruise2000/mykonos.jpg" height="240" width="320">
+
   </a>
+
   
+
   <div class="journalCaption">The main town of Mykonos. David, Brian, Neal and Earl Bobby of Memphis.</div>
+
 </div>
+
 <p>So, at dinner we decided to rent or car and head to the naughty, clothing optional, somewhat gay, "Super Paradise" beach. Jim decided hot to go as he has seen plenty of beaches. The location was rather nice and had lots of beach chairs and wooden umbrellas to rent. It was somewhat empty when we got there, but was plenty full by the time we left. It was very mixed and very clothing optional. Fire Island had prepared me well. After a couple of hours at the beach, we went into town for a traditional Greek lunch, and then walked around town. Neil, who had been there 10 years ago, said that it was very run down compared to what it used to be. I have to admit that I was not impressed and after a while everyone was anxious to get back to the ship.</p>
+
 <p>We rested. We showered. We felt better about life.</p>
+
 <p>Pretty much everyone was at the 7:15 debriefing so that they would know how to get off the ship. The captain gave a long speech about the whole trip. The brits taught us a new phrase - they said the captain is a bit of a "Jack the Lad" - meaning that he's a rambunctious boy at heart.</p>
+
 <p>Dinner was once again very pleasant with Jim, Earl Bobby of Memphis (as we were now calling him), Neal, Brian, David and me. After dinner, David and I got to packing.</p>

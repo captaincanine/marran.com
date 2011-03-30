@@ -9,34 +9,62 @@ redirects:
 - /personal/travel/turkey/day-departure-second-day-istanbul
 tags: 
 - Turkey
-description: Today was a lot less hectic. We started off going to          Dolmabahce Palace         , which is a more modern (19th century) palace for the sultan. It was much more along the lines of a typical European palace with chandeliers and grand carpets. The wooden floors were spectacular with their intricate Turkish geometry. There was also a nice art collection throughout the palace.
+description: Today was a lot less hectic. We started off going to Dolmabahce Palace, which is a more modern (19th century) palace for the sultan. It was much more along the lines of a typical European palace with chandeliers and grand carpets. The wooden floors were spectacular with their intricate Turkish geometry. There was also a nice art collection throughout the palace.
 ---
 <p>
+
          Today was a lot less hectic. We started off going to 
+
          <a href="http://www.business-with-turkey.com/tourist-guide/dolmabe.htm" target="info">Dolmabahce Palace</a>
+
          , which is a more modern (19th century) palace for the sultan. It was much more along the lines of a typical European palace with chandeliers and grand carpets. The wooden floors were spectacular with their intricate Turkish geometry. There was also a nice art collection throughout the palace.
+
       </p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The front entrance of the Dolme Bahce." target="_blank" href="/files/photos/cruise2000/dolme_bahci.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front entrance of the Dolme Bahce." target="_blank" href="/files/photos/cruise2000/dolme_bahci.jpg">
+
     <img class="journalPhoto" alt="The front entrance of the Dolme Bahce." src="/files/photos/cruise2000/dolme_bahci.jpg" height="384" width="512">
+
   </a>
+
   
+
   <div class="journalCaption">The front entrance of the Dolme Bahce.</div>
+
 </div>
+
 <p>After that we went on a ferry that took us north up the Bosphorus Straits. The ride was uneventful but relaxing and had a group of musicians playing Turkish music. We went to a local family beach area and had fresh fish for lunch right on the water. This gave us a glimpse of the Black Sea. We got into a cab and headed back to the hotel. Luckily we got in the cab just before rain started, and it stopped right before we arrived.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David and our tour guide, Inci, having Turkish tea on the ferry." target="_blank" href="/files/photos/cruise2000/turkish_coffee.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David and our tour guide, Inci, having Turkish tea on the ferry." target="_blank" href="/files/photos/cruise2000/turkish_coffee.jpg">
+
     <img class="journalPhoto" alt="David and our tour guide, Inci, having Turkish tea on the ferry." src="/files/photos/cruise2000/turkish_coffee.jpg" height="318" width="467">
+
   </a>
+
   
+
   <div class="journalCaption">David and our tour guide, Inci, having Turkish tea on the ferry.</div>
+
 </div>
+
 <p>We gathered up our things and headed to the ship. The ship is quite nice. Similar to last year's, although there's one less cabin deck and less open deck space. They had champagne and mimosas waiting for us when we arrived. All in all, we relaxed and watched the departure from port.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A group of Turkish musicians on the ferry." target="_blank" href="/files/photos/cruise2000/turkish_musicians.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A group of Turkish musicians on the ferry." target="_blank" href="/files/photos/cruise2000/turkish_musicians.jpg">
+
     <img class="journalPhoto" alt="A group of Turkish musicians on the ferry." src="/files/photos/cruise2000/turkish_musicians.jpg" height="282" width="396">
+
   </a>
+
   
+
   <div class="journalCaption">A group of Turkish musicians on the ferry.</div>
+
 </div>
+
 <p>The big surprise is that David presented me with an engagement ring. We laughed and I showed him the ring l got him. This story is too cute.</p>

@@ -9,90 +9,177 @@ tags:
 description: Is this the most flattering picture in the first week of Lorenz' life? No. Is it accurate in that Sis' eyes are closed, Mark looks exhausted, and Lorenz is barely holding off a crying jag with a look of "if you don't feed me in five minutes, I'm having a meltdown"? Yes! Zoom into the photo to get the full effect. I was in Minnesota to capture some moments in Lorenz's first and second week.
 ---
 <p>Is this the most flattering picture in the first week of Lorenz' life? No. Is it accurate in that Sis' eyes are closed, Mark looks exhausted, and Lorenz is barely holding off a crying jag with a look of "if you don't feed me in five minutes, I'm having a meltdown"? Yes! Zoom into the photo to get the full effect. I was in Minnesota to capture some moments in Lorenz's first and second week.</p>
+
 <!--break--?
 
+
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Smile! You have no choice." target="_blank" href="/files/photos/lorenz/PICT0070.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Smile! You have no choice." target="_blank" href="/files/photos/lorenz/PICT0070.jpg">
+
     <img class="journalPhoto" alt="Smile! You have no choice." src="/files/photos/lorenz/PICT0070.jpg" width="300" height="200">
+
   </a>
+
   
+
   <div class="journalCaption">Smile! You have no choice.</div>
+
 </div>
+
+
+
 
 
 <p>First of all, let me say that it is exceedingly cruel to take pictures of such a newborn baby and post them. The poor guy didn't have a lot to say except "feed me". When I first arrived, he was barely opening his eyes. By the time a left, he was starting to look around and recognize me as "Not Mommy". It might have been my imagination, but his wild limb flailing seemed to be more controlled. And of course, he was starting to hold his own head up after just a week and a half! What an incredible baby!</p>
 
+
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/lorenz/PICT0047.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/PICT0047.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/lorenz/PICT0047.jpg" width="300" height="200">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
 
+
+
 <p><para para_guid="f97ab6f6-fc84-479e-9c9b-14ecd79bd7b1" sequence="45">This is a familiar sight. Sis is looking like she just woke up or she's about to fall asleep. Which was pretty much always true. More shocking than seeing my sister as a mother was seeing her awake so damn much of the time! Also, I should note that when I first showed up, the dogs were not allowed on the furniture anymore. After several days of realizing that Sis and Mark would have to enforce that rule, they gave up. This picture came late in the trip when Mel and Eugene were allowed back on the furniture. And speaking of Mel and Eugene, I took some pictures of just them so they wouldn't feel left out.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Eugene with a chew toy." target="_blank" href="/files/photos/lorenz/PICT0044.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Eugene with a chew toy." target="_blank" href="/files/photos/lorenz/PICT0044.JPG">
+
     <img class="journalPhoto" alt="Eugene with a chew toy." src="/files/photos/lorenz/PICT0044.JPG" width="200" height="133">
+
   </a>
+
   
+
   <div class="journalCaption">Eugene with a chew toy.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Mel under the table - one of his favorite spots." target="_blank" href="/files/photos/lorenz/PICT0051.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mel under the table - one of his favorite spots." target="_blank" href="/files/photos/lorenz/PICT0051.jpg">
+
     <img class="journalPhoto" alt="Mel under the table - one of his favorite spots." src="/files/photos/lorenz/PICT0051.jpg" width="200" height="133">
+
   </a>
+
   
+
   <div class="journalCaption">Mel under the table - one of his favorite spots.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Mark holding Mel - the ORIGINAL baby" target="_blank" href="/files/photos/lorenz/PICT0045.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mark holding Mel - the ORIGINAL baby" target="_blank" href="/files/photos/lorenz/PICT0045.jpg">
+
     <img class="journalPhoto" alt="Mark holding Mel - the ORIGINAL baby" src="/files/photos/lorenz/PICT0045.jpg" width="133" height="200">
+
   </a>
+
   
+
   <div class="journalCaption">Mark holding Mel - the ORIGINAL baby</div>
+
 </div>
+
 <p><para para_guid="18c20687-09c2-4abf-99f1-1e5e3093b02d" sequence="73">At this point, you're probably saying to yourself, "I came here for baby pictures. Where are the baby pictures?" Well, they're coming. Unfortunately, only half of the photos that I took actually turned out. David got me a new camera recently and I have to actually learn the fundamentals of photography to really use correctly. So the majority of the baby pictures didn't turn out. Here are some that did.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="In his diaper changing bed. He HATES having his diaper changed." target="_blank" href="/files/photos/lorenz/PICT0042.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="In his diaper changing bed. He HATES having his diaper changed." target="_blank" href="/files/photos/lorenz/PICT0042.JPG">
+
     <img class="journalPhoto" alt="In his diaper changing bed. He HATES having his diaper changed." src="/files/photos/lorenz/PICT0042.JPG" width="200" height="133">
+
   </a>
+
   
+
   <div class="journalCaption">In his diaper changing bed. He HATES having his diaper changed.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Looking sly." target="_blank" href="/files/photos/lorenz/PICT0053.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Looking sly." target="_blank" href="/files/photos/lorenz/PICT0053.jpg">
+
     <img class="journalPhoto" alt="Looking sly." src="/files/photos/lorenz/PICT0053.jpg" width="200" height="133">
+
   </a>
+
   
+
   <div class="journalCaption">Looking sly.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Sleepy" target="_blank" href="/files/photos/lorenz/PICT0057.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Sleepy" target="_blank" href="/files/photos/lorenz/PICT0057.jpg">
+
     <img class="journalPhoto" alt="Sleepy" src="/files/photos/lorenz/PICT0057.jpg" width="200" height="133">
+
   </a>
+
   
+
   <div class="journalCaption">Sleepy</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="In a beautiful hat and sweater knitted by Mary Lou Reich." target="_blank" href="/files/photos/lorenz/PICT0068.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="In a beautiful hat and sweater knitted by Mary Lou Reich." target="_blank" href="/files/photos/lorenz/PICT0068.jpg">
+
     <img class="journalPhoto" alt="In a beautiful hat and sweater knitted by Mary Lou Reich." src="/files/photos/lorenz/PICT0068.jpg" width="133" height="200">
+
   </a>
+
   
+
   <div class="journalCaption">In a beautiful hat and sweater knitted by Mary Lou Reich.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="We took a picture because he looked like all butt." target="_blank" href="/files/photos/lorenz/PICT0075.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="We took a picture because he looked like all butt." target="_blank" href="/files/photos/lorenz/PICT0075.jpg">
+
     <img class="journalPhoto" alt="We took a picture because he looked like all butt." src="/files/photos/lorenz/PICT0075.jpg" width="200" height="133">
+
   </a>
+
   
+
   <div class="journalCaption">We took a picture because he looked like all butt.</div>
+
 </div>
+
 <p><para para_guid="e227ee58-6768-457b-bedf-55ec324f9ca0" sequence="117">And I'm saving the cutest photo for last. Sis and Lorenz often fell asleep on the sofa together. In this photo, they fell asleep 180 degrees from each other.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/lorenz/PICT0073.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/PICT0073.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/lorenz/PICT0073.jpg" width="400" height="284">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>

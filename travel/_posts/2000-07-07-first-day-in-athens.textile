@@ -12,34 +12,65 @@ tags:
 description: Athens is hot. So very hot. Our hotel is a bit of a fleabag. Actually, it's a flea sauna. We're supposed to be here for two nights.
 ---
 <p>Athens is hot. So very hot. Our hotel is a bit of a fleabag. Actually, it's a flea sauna. We're supposed to be here for two nights.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Athens dog." target="_blank" href="/files/photos/cruise2000/athens_dog1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Athens dog." target="_blank" href="/files/photos/cruise2000/athens_dog1.jpg">
+
     <img class="journalPhoto" alt="Athens dog." src="/files/photos/cruise2000/athens_dog1.jpg" height="192" width="300">
+
   </a>
+
   
+
   <div class="journalCaption">Athens dog.</div>
+
 </div>
+
 <p>We figured, "At nine in the morning. How hot could it be?" and went to the Acropolis. It was very hot. We asked around for a guide at the entrance, but luckily there wasn't one. A tour guide would have been added torture.  The Acropolis was grand; we took some pictures, and got the hell out.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Parthenon." target="_blank" href="/files/photos/cruise2000/athens_parthenon.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Parthenon." target="_blank" href="/files/photos/cruise2000/athens_parthenon.jpg">
+
     <img class="journalPhoto" alt="The Parthenon." src="/files/photos/cruise2000/athens_parthenon.jpg" height="300" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The Parthenon.</div>
+
 </div>
+
 <p>Next we walked to the National Museum, which had some very good examples of sculpture and statue. Lunch was much needed, as I was fading pretty hard in the museum, despite a little water break in the cafeteria. We made a stop at an Internet cafe and then headed back to the hotel room.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Another Athens dog. They're everywhere!" target="_blank" href="/files/photos/cruise2000/athens_dog2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another Athens dog. They're everywhere!" target="_blank" href="/files/photos/cruise2000/athens_dog2.jpg">
+
     <img class="journalPhoto" alt="Another Athens dog. They're everywhere!" src="/files/photos/cruise2000/athens_dog2.jpg" height="207" width="300">
+
   </a>
+
   
+
   <div class="journalCaption">Another Athens dog. They're everywhere!</div>
+
 </div>
+
 <p>David announced at the hotel that the heat was too much. We called British Air about going to London early and they said we had a ninety nine percent chance of making the next flight. Well, she was ninety nine percent wrong. We waited on standby for about three and a half hours. The Athens airport is a pit. We went back to the hotel with our tails between our legs and checked back in. For dinner, we went to the Plaka, which is the tourist section with restaurants and shops, and had a great dinner at a place called Diogenes (named after the philosopher). Once again, the heat was getting to David since we were sitting outside along a park. So we went back to the hotel.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="One of the non-Parthenon temples of the Acropolis. I can't remember which one. It was too hot to take notes." target="_blank" href="/files/photos/cruise2000/athens_acropolis.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the non-Parthenon temples of the Acropolis. I can't remember which one. It was too hot to take notes." target="_blank" href="/files/photos/cruise2000/athens_acropolis.jpg">
+
     <img class="journalPhoto" alt="One of the non-Parthenon temples of the Acropolis. I can't remember which one. It was too hot to take notes." src="/files/photos/cruise2000/athens_acropolis.jpg" height="406" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">One of the non-Parthenon temples of the Acropolis. I can't remember which one. It was too hot to take notes.</div>
+
 </div>

@@ -9,48 +9,90 @@ redirects:
 - /personal/travel/turkey/kusadasi
 tags: 
 - Turkey
-description: This stop is merely an excuse to see          Ephesus
+description: This stop is merely an excuse to see Ephesus
 ---
 <p>
+
          This stop is merely an excuse to see 
+
          <a href="http://www.the-eye.com/ephesus.htm" target="info">Ephesus</a>
+
          . We met Inci and got in a car to drive a half hour out of town. Our first stop was the house of Mary the Virgin Mother. It was found from a dying nun in another country that was having visions of talking to Mary. Eventually, someone started taking notes, and later a group of scientists set out to disprove the notes and discovered a monastery with a house that described the nun's description of Mary's house. The house was very small and simple and there was something calm and sacred about the house and the whole area (a monastery was nearby).
+
       </p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The ruins of Ephesus." target="_blank" href="/files/photos/cruise2000/ephesus.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ruins of Ephesus." target="_blank" href="/files/photos/cruise2000/ephesus.jpg">
+
     <img class="journalPhoto" alt="The ruins of Ephesus." src="/files/photos/cruise2000/ephesus.jpg" height="320" width="240">
+
   </a>
+
   
+
   <div class="journalCaption">The ruins of Ephesus.</div>
+
 </div>
+
 <p>After that we headed off to the ruins of Ephesus. I imagine we spent about two and a half hours going through the ruins. Inci was once again full of information. She apparently used to work at the ruins and so took us through some back areas - showing us places that most tourists were not getting to - and explaining how it all fit together. The ruins were far more extensive than Pompeii. The main centerpiece was the library, since the facade of this two-story building remained almost entirely intact. Perhaps the other reason I enjoyed it much more than Pompeii was that we took a tour guide and so got a better layout of the city and how it all fit together. She also showed us the first recorded advertisement, which was an engraving in the main walkway that gave directions to the brothel.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The theater at Ephesus. It is still used for rock/music concerts." target="_blank" href="/files/photos/cruise2000/ephesus_theater.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The theater at Ephesus. It is still used for rock/music concerts." target="_blank" href="/files/photos/cruise2000/ephesus_theater.jpg">
+
     <img class="journalPhoto" alt="The theater at Ephesus. It is still used for rock/music concerts." src="/files/photos/cruise2000/ephesus_theater.jpg" height="240" width="320">
+
   </a>
+
   
+
   <div class="journalCaption">The theater at Ephesus. It is still used for rock/music concerts.</div>
+
 </div>
+
 <p>Next we went to the Basilica of St. John the Baptist. It was mainly in ruins, but she walked us through the layout and how it must have been built. And then the grounds keeper offered to show us his garden of fruits, flowers and vegetables, since they apparently knew each other. In general, the fresh produce in Turkey has been about the best quality I have ever seen.</p>
+
 <p><b>Seven Wonders of the Ancient World</b>
+
          : This was our first stop that contained one of the former ancient wonders of the ancient world - 
+
          <a href="http://ce.eng.usf.edu/pharos/wonders/artemis.html" target="info">The Temple of Artemis at Ephesus</a>
+
          . All that remains now is one pillar.
+
       </p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Hadrian's Arch - one of the ruins of Ephesus." target="_blank" href="/files/photos/cruise2000/hadrians_arch.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Hadrian's Arch - one of the ruins of Ephesus." target="_blank" href="/files/photos/cruise2000/hadrians_arch.jpg">
+
     <img class="journalPhoto" alt="Hadrian's Arch - one of the ruins of Ephesus." src="/files/photos/cruise2000/hadrians_arch.jpg" height="300" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Hadrian's Arch - one of the ruins of Ephesus.</div>
+
 </div>
+
 <p>Our final stop was the museum of Ephesus which had many artifacts taken from the ruins at Ephesus. I must admit that I was very tired by then. There were a couple of great statues, though. The most impressive was a statue of Artemis that looked more Egyptian than anything.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The view of Ephesus from St. John's Basilica." target="_blank" href="/files/photos/cruise2000/ephesus_view.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of Ephesus from St. John's Basilica." target="_blank" href="/files/photos/cruise2000/ephesus_view.jpg">
+
     <img class="journalPhoto" alt="The view of Ephesus from St. John's Basilica." src="/files/photos/cruise2000/ephesus_view.jpg" height="300" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The view of Ephesus from St. John's Basilica.</div>
+
 </div>
+
 <p>We went back to Kusadasi after that and did some shopping. I slept most of the way back. That Inci is a taskmaster - and I had not yet had that first sleep that signals that jet lag is over.</p>
+
 <p>That evening before dinner we spent some time in the lounge talking to Jim, a gentleman who is here with his traveling companion, Bob. And that night after dinner we had the sleep that we'd been waiting for.</p>

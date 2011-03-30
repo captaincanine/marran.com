@@ -12,12 +12,21 @@ tags:
 description: WAAAH! I don't want to leave! Luckily, we had to get up at 2 am to catch a taxi to the airport, so I was too sleepy to get emotional about it. If you've ever thought about going to Israel, then GO! Don't put it off. These pictures are nothing compared to experiencing it firsthand. Now is a good time to go because there aren't a huge amount of tourists.
 ---
 <p>WAAAH! I don't want to leave! Luckily, we had to get up at 2 am to catch a taxi to the airport, so I was too sleepy to get emotional about it. If you've ever thought about going to Israel, then GO! Don't put it off. These pictures are nothing compared to experiencing it firsthand. Now is a good time to go because there aren't a huge amount of tourists.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David checking out" target="_blank" href="/files/photos/israel/jerusalem-hotel-lobby.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David checking out" target="_blank" href="/files/photos/israel/jerusalem-hotel-lobby.jpg">
+
     <img class="journalPhoto" alt="David checking out" src="/files/photos/israel/jerusalem-hotel-lobby.jpg" height="450" width="600">
+
   </a>
+
   
+
   <div class="journalCaption">David checking out</div>
+
 </div>
+
 <p>Getting through the Ben Gurion Airport was relatively painless. We got asked a lot of questions about the nature of our visit. We had to come out to the security guard interviewing us. She eventually asked me, "So. You've been living together for five years and this is your first visit to Israel? What took you so long?" We got into the airline lounge because we were flying business class. David knocked over the glass jar of candy at the front desk and it made a very large crash and shattered into a million pieces. Then I saw a very pushy man trying to be first on the plane and in his rush he tripped over luggage and did one of those slow motion falls where you repeatedly think he's going to catch himself but then eventually fell flat on his face. I was too tired to respond to all of this early morning slapstick, but once the coffee kicked in I was giggling all the way to Zurich about David knocking over the candies and this pushy man losing his dignity in front of everyone.</p>
+
 <p>I can always tell if it's a good trip because I have no jet lag on the way there and I have a lot of jet lag when I come home. This was one of those trips.</p>

@@ -12,96 +12,189 @@ tags:
 description: It turns out that getting in and out of Florence is not so easy. We decided to fly to Rome, take the train to Florence, and then take a cab to our hotel. So, yes, that meant that the first day of travel was kind of hellish. However, the hotel that greeted us at our arrival was WELL worth it! I think it was more than just the jet-lag - our hotel (the Torre di Bellosguardo) felt like a dream. And I don't mean to say that it was idyllic (although it was), it was like a dream when you're in a big house with hallways and stairwells going all different places.
 ---
 <p>It turns out that getting in and out of Florence is not so easy. We decided to fly to Rome, take the train to Florence, and then take a cab to our hotel. So, yes, that meant that the first day of travel was kind of hellish. However, the hotel that greeted us at our arrival was WELL worth it! I think it was more than just the jet-lag - our hotel (the Torre di Bellosguardo) felt like a dream. And I don't mean to say that it was idyllic (although it was), it was like a dream when you're in a big house with hallways and stairwells going all different places. When the porter took us to our room, I got lost. I couldn't find any other hotel rooms! Our room was off of an old banquet hall and there didn't seem to be any other guest rooms off of it. (I did some exploring later in the week and we did find a few more rooms.)</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The entrance to the hotel" target="_blank" href="/files/photos/tuscany/hotel_front.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the hotel" target="_blank" href="/files/photos/tuscany/hotel_front.jpg">
+
     <img class="journalPhoto" alt="The entrance to the Torre di Bellosguardo" src="/files/photos/tuscany/hotel_front.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The entrance to the Torre di Bellosguardo</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The ceiling of a room just off the lobby." target="_blank" href="/files/photos/tuscany/hotel_ceiling.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of a room just off the lobby." target="_blank" href="/files/photos/tuscany/hotel_ceiling.jpg">
+
     <img class="journalPhoto" alt="The ceiling of a room just off the lobby." src="/files/photos/tuscany/hotel_ceiling.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">The ceiling of a room just off the lobby.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="David standing in the hotel entrance." target="_blank" href="/files/photos/tuscany/hotel_doorway.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David standing in the hotel entrance." target="_blank" href="/files/photos/tuscany/hotel_doorway.jpg">
+
     <img class="journalPhoto" alt="David standing in the hotel entrance." src="/files/photos/tuscany/hotel_doorway.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">David standing in the hotel entrance.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A view of the lobby and the parrot that lived there" target="_blank" href="/files/photos/tuscany/hotel_lobby.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the lobby and the parrot that lived there" target="_blank" href="/files/photos/tuscany/hotel_lobby.jpg">
+
     <img class="journalPhoto" alt="A view of the lobby and the parrot that lived there" src="/files/photos/tuscany/hotel_lobby.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">A view of the lobby and the parrot that lived there</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Another view of the lobby...and the parrot" target="_blank" href="/files/photos/tuscany/hotel_lobby2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another view of the lobby...and the parrot" target="_blank" href="/files/photos/tuscany/hotel_lobby2.jpg">
+
     <img class="journalPhoto" alt="Another view of the lobby...and the parrot" src="/files/photos/tuscany/hotel_lobby2.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">Another view of the lobby...and the parrot</div>
+
 </div>
+
 <p>And that takes us to our room. It was magnificent. It's the only hotel room that I've ever missed when I left. Everything was antique - even the artwork on the walls was medieval. We had two windows. Out of one window was an unbelievable view of Florence. Out of the other window was a view of the gardens. We could only hear two sounds really: an occassional church bell from Florence and a braying donkey. The donkey lived on the property. We went looking for him one day, but we never spotted him.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/tuscany/hotel_room.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/tuscany/hotel_room.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/tuscany/hotel_room.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The view of Florence" target="_blank" href="/files/photos/tuscany/hotel_roomview1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of Florence" target="_blank" href="/files/photos/tuscany/hotel_roomview1.jpg">
+
     <img class="journalPhoto" alt="The view of Florence" src="/files/photos/tuscany/hotel_roomview1.jpg" height="200" width="176">
+
   </a>
+
   
+
   <div class="journalCaption">The view of Florence</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The view of the gardens" target="_blank" href="/files/photos/tuscany/hotel_roomview2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of the gardens" target="_blank" href="/files/photos/tuscany/hotel_roomview2.jpg">
+
     <img class="journalPhoto" alt="The view of the gardens" src="/files/photos/tuscany/hotel_roomview2.jpg" height="200" width="122">
+
   </a>
+
   
+
   <div class="journalCaption">The view of the gardens</div>
+
 </div>
+
 <p>One day we took some time to explore the gardens of the property. It took us a while. They grew all their own fruits and vegetables. There were plenty of birds flittering about. There was also a pool, but we were more interested in exploring than hanging out by a pool. Also, October weather was not so hot that we felt the need to cool off by the water.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The tower where our room was as seen from the gardens" target="_blank" href="/files/photos/tuscany/hotel_tower.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The tower where our room was as seen from the gardens" target="_blank" href="/files/photos/tuscany/hotel_tower.jpg">
+
     <img class="journalPhoto" alt="The tower where our room was as seen from the gardens" src="/files/photos/tuscany/hotel_tower.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">The tower where our room was as seen from the gardens</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Touring the gardens" target="_blank" href="/files/photos/tuscany/hotel_gardens1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Touring the gardens" target="_blank" href="/files/photos/tuscany/hotel_gardens1.jpg">
+
     <img class="journalPhoto" alt="Touring the gardens" src="/files/photos/tuscany/hotel_gardens1.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">Touring the gardens</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="More gardens" target="_blank" href="/files/photos/tuscany/hotel_gardens2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More gardens" target="_blank" href="/files/photos/tuscany/hotel_gardens2.jpg">
+
     <img class="journalPhoto" alt="More gardens" src="/files/photos/tuscany/hotel_gardens2.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">More gardens</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="And more gardens" target="_blank" href="/files/photos/tuscany/hotel_gardens3.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="And more gardens" target="_blank" href="/files/photos/tuscany/hotel_gardens3.jpg">
+
     <img class="journalPhoto" alt="And more gardens" src="/files/photos/tuscany/hotel_gardens3.jpg" height="200" width="150">
+
   </a>
+
   
+
   <div class="journalCaption">And more gardens</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A view of misty-morning Florence from the gardens" target="_blank" href="/files/photos/tuscany/hotel_view.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of misty-morning Florence from the gardens" target="_blank" href="/files/photos/tuscany/hotel_view.jpg">
+
     <img class="journalPhoto" alt="A view of misty-morning Florence from the gardens" src="/files/photos/tuscany/hotel_view.jpg" height="150" width="200">
+
   </a>
+
   
+
   <div class="journalCaption">A view of misty-morning Florence from the gardens</div>
+
 </div>

@@ -12,26 +12,49 @@ tags:
 description: We left the air conditioner running on high all night and my sheets were wet with sweat when we woke up. The first thing I did was go to get a bottle of water out of the mini-bar, but it was empty. We are changing hotels. Other people on the boat had mentioned the Sheraton, so it was off to the Sheraton we went.
 ---
 <p>We left the air conditioner running on high all night and my sheets were wet with sweat when we woke up. The first thing I did was go to get a bottle of water out of the mini-bar, but it was empty. We are changing hotels. Other people on the boat had mentioned the Sheraton, so it was off to the Sheraton we went.</p>
+
 <p>The Sheraton was much more luxurious and most importantly - WELL AIR-CONDITIONED! The other big plus about the hotel was that there were other people from the ship staying there. In particular, Pam's group was there and we often ran into them in the lobby. David and I agreed that we want Pam's travel agent from now on.</p>
+
 <p>
+
          We took a trip to the 
+
          <a href="http://www.culture.gr/2/21/211/21101a/e211aa03.html" target="info">Ancient Agora</a>
+
          . This was much more bearable since there were trees and therefore, shade. Actually, the Temple of Hephaistos, while not as large as the Parthenon, was in much better shape. Frankly, we were getting a little "over-ruined" and although it was interesting we weren't spending as much time on this as would if it were at the beginning of the trip.
+
       </p>
+
 <p>We went back to the hotel, ran into some people from the ship, and they recommended an air-conditioned restuarant. When we got there, we ran into Pam's group, so clearly, this was the place to eat. The food was good and a crash was imminent. We went back to the hotel for reading and napping. I took a little stroll around the town before dinner for some pictures and ran into a bead stores, where I picked up some "Turkish Eyes."</p>
+
 <p>For dinner, we asked the hotel for a a simple, nearby recommendation and they sent us to a true Greek diner. The waitstaff looked to be in their seventies and very pleasant - the atmosphere looked to be from the 1950's - and the food was good.</p>
+
 <p>The rest of the trip was uneventful. We were ready to be home. We were on the flight the next morning and spent the whole day in the air.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="One of the busts from the National Archeological Museum." target="_blank" href="/files/photos/cruise2000/athens_hadrian.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the busts from the National Archeological Museum." target="_blank" href="/files/photos/cruise2000/athens_hadrian.jpg">
+
     <img class="journalPhoto" alt="One of the busts from the National Archeological Museum." src="/files/photos/cruise2000/athens_hadrian.jpg" height="400" width="245">
+
   </a>
+
   
+
   <div class="journalCaption">One of the busts from the National Archeological Museum.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A cafe along the Agora. Notice the Acropolis in the distance. It's much more prominent and beautiful in person." target="_blank" href="/files/photos/cruise2000/athens_dinner.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A cafe along the Agora. Notice the Acropolis in the distance. It's much more prominent and beautiful in person." target="_blank" href="/files/photos/cruise2000/athens_dinner.jpg">
+
     <img class="journalPhoto" alt="A cafe along the Agora. Notice the Acropolis in the distance. It's much more prominent and beautiful in person." src="/files/photos/cruise2000/athens_dinner.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">A cafe along the Agora. Notice the Acropolis in the distance. It's much more prominent and beautiful in person.</div>
+
 </div>

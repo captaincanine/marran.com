@@ -13,14 +13,25 @@ tags:
 description: First of all, let me just say that seeing pictures and reading a journal of someone else's trip is like trying to imagine what a meal tastes like by seeing pictures of the food. It doesn't even come close. Especially on a trip to Turkey and Greece - not only do the photos not do justice to the sites, but they do not capture the 99% of everything going on between the photos. To experience the Old City of Rhodes at night, for instance, you have to go there and experience it. So go there and see it because everything on this trip was worth it.
 ---
 <p>First of all, let me just say that seeing pictures and reading a journal of someone else's trip is like trying to imagine what a meal tastes like by seeing pictures of the food. It doesn't even come close. Especially on a trip to Turkey and Greece - not only do the photos not do justice to the sites, but they do not capture the 99% of everything going on between the photos. To experience the Old City of Rhodes at night, for instance, you have to go there and experience it. So go there and see it because everything on this trip was worth it.</p>
+
 <p>One more caveat - I took most of this journal on my palm-top and so there may be glitches in the hand-writing recognition software.</p>
+
 <p>In general, we got very lucky with the weather - we only saw a few clouds in Istanbul and the rest of the trip was clear blue. Although you didn't want to hang out in the hot sun, there was usually a breeze to come through to prevent it from being too much. So, here's the journal...</p>
+
 <p>We're about to take off from JFK. They also let us hang out in the Admiral's club and gave us each 2 drinks. David and I got upgraded but we can't sit together. We thought we could trade seats but we have two middle seats and I'm sitting between two large businessmen that would no way want to give up their aisle for middle seats. Personally, I feel a little petite in these huge new business class seats. I'm looking right now and David doesn't have anyone to his right. We may still get lucky. American Airlines has been good to us.</p>
+
 <p>We didn't get lucky. David says that the woman that didn't move got a bad case of the hiccups as divine retribution. The flight was very calm with excellent service. Hopefully, Heathrow will have a paper showing who won Survivor last night. We are scheduled to land in a half hour.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This will soon be us!" target="_blank" href="/files/photos/cruise2000/ship1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This will soon be us!" target="_blank" href="/files/photos/cruise2000/ship1.jpg">
+
     <img class="journalPhoto" alt="This will soon be us!" src="/files/photos/cruise2000/ship1.jpg" height="259" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">This will soon be us!</div>
+
 </div>

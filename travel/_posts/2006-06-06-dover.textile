@@ -12,40 +12,77 @@ tags:
 description: "Our next stop was Dover to see the castle and the white cliffs. It looked from the map that we could wakl to the castle. However, when we got to Dover we had two obstacles: although we could clearly see the castle from the middle of town, we couldn't figure out how to walk to it; and secondly, it looked like quite a hike up a cliff to get to the castle. We were already pretty tired, so we hired a cab. We learned that our fears were well founded. We never would have found it and the ride was pretty long and steep."
 ---
 <p><para para_guid="17fed581-0b92-4dc4-b493-b9287beffbd0">Our next stop was Dover to see the castle and the white cliffs. It looked from the map that we could wakl to the castle. However, when we got to Dover we had two obstacles: although we could clearly see the castle from the middle of town, we couldn't figure out how to walk to it; and secondly, it looked like quite a hike up a cliff to get to the castle. We were already pretty tired, so we hired a cab. We learned that our fears were well founded. We never would have found it and the ride was pretty long and steep.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Dover Port" target="_blank" href="/files/photos/london/dover-port.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Dover Port" target="_blank" href="/files/photos/london/dover-port.jpg">
+
     <img class="journalPhoto" alt="The Dover Port" src="/files/photos/london/dover-port.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The Dover Port</div>
+
 </div>
+
 <p><para para_guid="f590c87e-944a-47bd-94d6-fe789e0d5f4c">The entrance to the castle was pretty empty. We were concerned that it was closed. We later learned that almost everyone takes a car to Dover Castle and parks on the other side. We must have been one of the few or only visitors to come in through the pedestrian entrance.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Pedestrian Entrance to Dover Castle" target="_blank" href="/files/photos/london/dover-castleentrance.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Pedestrian Entrance to Dover Castle" target="_blank" href="/files/photos/london/dover-castleentrance.jpg">
+
     <img class="journalPhoto" alt="The Pedestrian Entrance to Dover Castle" src="/files/photos/london/dover-castleentrance.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The Pedestrian Entrance to Dover Castle</div>
+
 </div>
+
 <p><para para_guid="8a172c62-8641-41a3-af83-d851848a6473">We definitely wanted to see the Wartime Caves, so we paid ahead for tickets to that. The man at the ticket booth told us to hurry to make the next tour. Our walk took us up to the top of the castle grounds and then back down the other side to the entrance of the caves. We did our best to avoid any sight-seeing so as not to delay our trip. We ended up arriving quite early, so I had some water in the cafe.</para></p>
+
 <p><para para_guid="bcf8c5e8-f5b5-4e4f-97a8-c5befdba9528">The trip through the caves was a lot of fun. The caves are a three level system of underground caverns built into the cliffs. Dover was a major air base during WWII, so they had used the caves for intelligence, living quarters, and makeshift hospital. The tour was conducted by a single individual that would press buttons throughout the caves that would simulate bombs being dropped above us - the lights would flicker, we'd hear thunderous sounds, and the air raid sirens would go off. There was one small girl that took the whole thing very seriously and became quite afraid. You lose all sense of direction in the tunnels.</para></p>
+
 <p><para para_guid="abcd614e-5453-48cc-a1e5-576670ed1f8b">We weren't allowed to take any photos, but there was one stretch without a guide and I quickly pulled out my camera and took a shot without a flash.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The War Rooms" target="_blank" href="/files/photos/london/dover-warroom.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The War Rooms" target="_blank" href="/files/photos/london/dover-warroom.jpg">
+
     <img class="journalPhoto" alt="The War Rooms" src="/files/photos/london/dover-warroom.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">The War Rooms</div>
+
 </div>
+
 <p><para para_guid="239ea511-c0dc-4e98-a574-0469fa244ba6">After the tour of the tunnels, we walked around the castle some more, then got directions on where best to see the cliffs. There's a 3 mile walk along the cliffs, but I was getting pretty tired of walking at this point, and it seemed that we wanted to see the cliffs from below, not walk on them. We decided to walk down to the piers and get a view of them from below - possibly from a tour boat.</para></p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Dover Castle" target="_blank" href="/files/photos/london/dover-castle.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Dover Castle" target="_blank" href="/files/photos/london/dover-castle.jpg">
+
     <img class="journalPhoto" alt="Dover Castle" src="/files/photos/london/dover-castle.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption">Dover Castle</div>
+
 </div>
+
 <p><para para_guid="b6a84cce-8c2e-4fc8-a8f0-62d572becb53">The area along the water was...not the nicest beach I've ever been to. It seemed to be the sort of place where only the locals hung out. We almost made a tour boat, but when I saw that it was packed and full of little kids, I vetoed the idea. We could admire the cliffs from where we were standing.</para></p>
+
 <p><para para_guid="5c145c45-9bde-4bcf-bcab-f2bd422b7dd3">Unfortunately, my camera ran out of battery power, so I couldn't take a photo.</para></p>
+
 <p><para para_guid="823ce02e-fdaf-4e18-9df0-de1fec596740">The walk back to the train station and the wait for the train was long and uneventful. We were glad to be back in London.</para></p>
+
 <p><para para_guid="8b715322-6b76-4a5a-9c58-75f2f3411c07">For dinner, we went to our favorite restaurant in London - a middle eastern restaurant called Özer.</para></p>

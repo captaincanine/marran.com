@@ -8,14 +8,22 @@ tags:
 - google
 - photos
 - picasa
-description: I think I had downloaded Picasa once upon a time, said "that's it?" and uninstalled it. After a very strong recommendation from Sara, I gave it a second chance. It turns out that I didn't know I needed it.It's software to help you organize your photos. That's really all it is. But they've put in every little feature you'll ever need. You can resize, crop, and re-color photos. You can have it make web-ready versions, automatically add it to a blog, create a CD, etc.
+description: I think I had downloaded Picasa once upon a time, said "that's it?" and uninstalled it. After a very strong recommendation from Sara, I gave it a second chance. It turns out that I didn't know I needed it.
 ---
 I think I had downloaded <a href="http://picasa.google.com/index.html">Picasa</a> once upon a time, said "that's it?" and uninstalled it. After a very strong recommendation from Sara, I gave it a second chance. It turns out that I didn't <strong><em>know</em></strong> I needed it.
 
+
+
 It's software to help you organize your photos. That's really all it is. But they've put in every little feature you'll ever need. You can resize, crop, and re-color photos. You can have it make web-ready versions, automatically add it to a blog, create a CD, etc.
+
+
 
 I installed it last night and let it do a scan of my hard drive for photos. First of all, I found photos that I had completely forgotten about. David and I spent a half hour reminiscing on shots of Gogo as a puppy and trips to Mexico. Secondly, I found out that I had been scattering photos all over the place. I thought I had been pretty good, but I found about 6 different folders dedicated to Gogo photos. This morning I finished moving files around, consolidating things, and touched up a few photos.
 
+
+
 I can already see that this is going ot change the way I work with photos. I used to spend a very long time converting camera photos to web-ready versions in preparation to post on my site. Now I'm thinking I'll leave them in their native size from the camera, and do the conversion to web just when I need it.
+
+
 
 I highly recommend <a href="http://picasa.google.com/index.html">Picasa</a>. It's free. It's made by Google.

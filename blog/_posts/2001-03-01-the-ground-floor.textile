@@ -9,91 +9,176 @@ redirects:
 - /personal/house/pre-renovation/ground-floor
 tags: 
 - pre-renovation
-description: There is much confusion as to how the floors are numbered. The architect somewhat decided it for us by calling the first floor the ground floor and the second floor the first floor. This is how it's done in France - and now that we live in such a fancy building, we always have to be aware of how things are done in France.By the way, this is Benji's floor.
+description: There is much confusion as to how the floors are numbered. The architect somewhat decided it for us by calling the first floor the ground floor and the second floor the first floor. This is how it's done in France - and now that we live in such a fancy building, we always have to be aware of how things are done in France. By the way, this is Benji's floor.
 ---
 <p>There is much confusion as to how the floors are numbered. The architect somewhat decided it for us by calling the first floor the ground floor and the second floor the first floor. This is how it's done in France - and now that we live in such a fancy building, we always have to be aware of how things are done in France.</p>
+
 <p>By the way, this is Benji's floor.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A shot of the entrance we just walked through. The EXIT signs are all gone. Presumably because David wants to put up better ones." target="_blank" href="/files/photos/mission_home/ground.front_door.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the entrance we just walked through. The EXIT signs are all gone. Presumably because David wants to put up better ones." target="_blank" href="/files/photos/mission_home/ground.front_door.JPG">
+
     <img class="journalPhoto" alt="A shot of the entrance we just walked through. The EXIT signs are all gone. Presumably because David wants to put up better ones." src="/files/photos/mission_home/ground.front_door.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">A shot of the entrance we just walked through. The EXIT signs are all gone. Presumably because David wants to put up better ones.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The front of the ground floor. The part that faces the street." target="_blank" href="/files/photos/mission_home/ground.front_room.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front of the ground floor. The part that faces the street." target="_blank" href="/files/photos/mission_home/ground.front_room.JPG">
+
     <img class="journalPhoto" alt="The front of the ground floor. The part that faces the street." src="/files/photos/mission_home/ground.front_room.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">The front of the ground floor. The part that faces the street.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="mmmm.....fireplace" target="_blank" href="/files/photos/mission_home/ground.front_room_fire.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="mmmm.....fireplace" target="_blank" href="/files/photos/mission_home/ground.front_room_fire.JPG">
+
     <img class="journalPhoto" alt="mmmm.....fireplace" src="/files/photos/mission_home/ground.front_room_fire.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">mmmm.....fireplace</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="More of the ground floor front room" target="_blank" href="/files/photos/mission_home/ground.front_room_whole.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the ground floor front room" target="_blank" href="/files/photos/mission_home/ground.front_room_whole.JPG">
+
     <img class="journalPhoto" alt="More of the ground floor front room" src="/files/photos/mission_home/ground.front_room_whole.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">More of the ground floor front room</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The kitchen for the ground floor. Some of this has been moved to the top floor for our temp kitchen, the rest has been trashed." target="_blank" href="/files/photos/mission_home/ground.kitchen.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The kitchen for the ground floor. Some of this has been moved to the top floor for our temp kitchen, the rest has been trashed." target="_blank" href="/files/photos/mission_home/ground.kitchen.JPG">
+
     <img class="journalPhoto" alt="The kitchen for the ground floor. Some of this has been moved to the top floor for our temp kitchen, the rest has been trashed." src="/files/photos/mission_home/ground.kitchen.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">The kitchen for the ground floor. Some of this has been moved to the top floor for our temp kitchen, the rest has been trashed.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The world's largest stove. We could have opened up our own diner. The picture doesn't do it justice." target="_blank" href="/files/photos/mission_home/ground.wolf.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The world's largest stove. We could have opened up our own diner. The picture doesn't do it justice." target="_blank" href="/files/photos/mission_home/ground.wolf.JPG">
+
     <img class="journalPhoto" alt="The world's largest stove. We could have opened up our own diner. The picture doesn't do it justice." src="/files/photos/mission_home/ground.wolf.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">The world's largest stove. We could have opened up our own diner. The picture doesn't do it justice.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="mmmm....more fireplace" target="_blank" href="/files/photos/mission_home/ground.back_fire.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="mmmm....more fireplace" target="_blank" href="/files/photos/mission_home/ground.back_fire.JPG">
+
     <img class="journalPhoto" alt="mmmm....more fireplace" src="/files/photos/mission_home/ground.back_fire.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">mmmm....more fireplace</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A beautiful glass door that opens up to the back yard." target="_blank" href="/files/photos/mission_home/ground.back_door.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A beautiful glass door that opens up to the back yard." target="_blank" href="/files/photos/mission_home/ground.back_door.JPG">
+
     <img class="journalPhoto" alt="A beautiful glass door that opens up to the back yard." src="/files/photos/mission_home/ground.back_door.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">A beautiful glass door that opens up to the back yard.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The ground floor bathroom" target="_blank" href="/files/photos/mission_home/ground.bathroom.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ground floor bathroom" target="_blank" href="/files/photos/mission_home/ground.bathroom.JPG">
+
     <img class="journalPhoto" alt="The ground floor bathroom" src="/files/photos/mission_home/ground.bathroom.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">The ground floor bathroom</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The ground floor hallway. This is how you get to the basement." target="_blank" href="/files/photos/mission_home/ground.hallway.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ground floor hallway. This is how you get to the basement." target="_blank" href="/files/photos/mission_home/ground.hallway.JPG">
+
     <img class="journalPhoto" alt="The ground floor hallway. This is how you get to the basement." src="/files/photos/mission_home/ground.hallway.JPG" width="200" height="267">
+
   </a>
+
   
+
   <div class="journalCaption">The ground floor hallway. This is how you get to the basement.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Up the stairs to the first floor." target="_blank" href="/files/photos/mission_home/ground.entrance.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Up the stairs to the first floor." target="_blank" href="/files/photos/mission_home/ground.entrance.JPG">
+
     <img class="journalPhoto" alt="Up the stairs to the first floor." src="/files/photos/mission_home/ground.entrance.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">Up the stairs to the first floor.</div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The Happy Homeowner." target="_blank" href="/files/photos/mission_home/ground.stairs.JPG">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Happy Homeowner." target="_blank" href="/files/photos/mission_home/ground.stairs.JPG">
+
     <img class="journalPhoto" alt="The Happy Homeowner." src="/files/photos/mission_home/ground.stairs.JPG" width="300" height="225">
+
   </a>
+
   
+
   <div class="journalCaption">The Happy Homeowner.</div>
+
 </div>

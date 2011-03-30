@@ -12,66 +12,129 @@ tags:
 description: The hotel is very nice. For breakfast there was a fresh honeycomb dripping honey and next to it, three different types of honey. The food in Turkey is great.
 ---
 <p>The hotel is very nice. For breakfast there was a fresh honeycomb dripping honey and next to it, three different types of honey. The food in Turkey is great.</p>
+
 <p>
+
          I'm finding if hard to describe my first full day in Istanbul. We went to a very old Byzantine church, 
+
          <a href="http://www.patriarchate.org/ecumenical_patriarchate/chapter_4/html/chora.html" target="info">The Chora Church</a>
+
           with beautiful mosaics on the ceilings. Our tour guide was very good and pointed out many of the intricacies of the artwork that I'm sure I would not have noticed otherwise.
+
       </p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This is the base of one of the pillars in the cistern - an upside down sculpture of the head of medusa." target="_blank" href="/files/photos/cruise2000/cistern_medusa.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the base of one of the pillars in the cistern - an upside down sculpture of the head of medusa." target="_blank" href="/files/photos/cruise2000/cistern_medusa.jpg">
+
     <img class="journalPhoto" alt="This is the base of one of the pillars in the cistern - an upside down sculpture of the head of medusa." src="/files/photos/cruise2000/cistern_medusa.jpg" height="340" width="351">
+
   </a>
+
   
+
   <div class="journalCaption">This is the base of one of the pillars in the cistern - an upside down sculpture of the head of medusa.</div>
+
 </div>
+
 <p>
+
          After that we went to a Synagogue. Our Muslim tour guide taught some things to David about Hebrew and Judaism (bima vs. teva - he still insists that he's right). I was fading pretty hard at this point because I didn't sleep too well the night before. We went on to the 
+
          <a href="http://www.patriarchate.org/ecumenical_patriarchate/chapter_4/html/hagia_sophia.html" target="info">Hagia Sophia</a>
+
          , which is a church that was built on top of a Roman basilica, and then was converted to a mosque and is now a museum. If you think that the structure was a bit confused through all of its transformations, you're right. The inner courtyard had the remnants of Christian mosaics and when you walk in there are giant discs hanging from the wall with Arabic writing. Near the front are two large columns whose tops look as if they had fallen off. It turns out that they were giant candles. I can't possibly do this structure justice, so I'll stop here.
+
       </p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Another column in the cistern - this one with a teardrop pattern." target="_blank" href="/files/photos/cruise2000/cistern_teardrop.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another column in the cistern - this one with a teardrop pattern." target="_blank" href="/files/photos/cruise2000/cistern_teardrop.jpg">
+
     <img class="journalPhoto" alt="Another column in the cistern - this one with a teardrop pattern." src="/files/photos/cruise2000/cistern_teardrop.jpg" height="424" width="213">
+
   </a>
+
   
+
   <div class="journalCaption">Another column in the cistern - this one with a teardrop pattern.</div>
+
 </div>
+
 <p>After Hagia Sophia it was more than lunchtime. Inci, our tour guide, seems to know everyone - wherever we go. I suppose she just always takes people along the same routes. Anyway, lunch was great. David and I had the chicken version of gyros and a green salad. Inci explained to us that the Greeks have stolen a lot of Turkish culture and claimed it as their own - gyros being on that list. In Turkey, it's called "doner" meat. I also had my first real Turkish coffee (In Greece, the same thing is called "Greek coffee"). It comes in the size of an espresso cup, but is very thick and muddy. It's also fairly sweet. After lunch I had no problems staying awake.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The entrance to the Blue Mosque." target="_blank" href="/files/photos/cruise2000/blue_mosque.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the Blue Mosque." target="_blank" href="/files/photos/cruise2000/blue_mosque.jpg">
+
     <img class="journalPhoto" alt="The entrance to the Blue Mosque." src="/files/photos/cruise2000/blue_mosque.jpg" height="512" width="333">
+
   </a>
+
   
+
   <div class="journalCaption">The entrance to the Blue Mosque.</div>
+
 </div>
+
 <p>
+
          So, after lunch was the 
+
          <a href="http://www.eng.uml.edu/%7Esheff/iaea_98/topkapi.htm" target="info">Topkapi Palace</a>
+
          . This is a palace built in the 15th century that closely resembles most people's ideas (or at least my ideas) of what Istanbul must look like. It is filled with tiles and complicated geometric patterns. There are an awful lot of jewels and artifacts - such as a gold throne embedded with emeralds. Mohammed's sword was also in this palace.
+
       </p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="I was trying to capture some of the detail from the ceiling of the courtyard of the Blue Mosque." target="_blank" href="/files/photos/cruise2000/blue_mosque_courtyard.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="I was trying to capture some of the detail from the ceiling of the courtyard of the Blue Mosque." target="_blank" href="/files/photos/cruise2000/blue_mosque_courtyard.jpg">
+
     <img class="journalPhoto" alt="I was trying to capture some of the detail from the ceiling of the courtyard of the Blue Mosque." src="/files/photos/cruise2000/blue_mosque_courtyard.jpg" height="384" width="383">
+
   </a>
+
   
+
   <div class="journalCaption">I was trying to capture some of the detail from the ceiling of the courtyard of the Blue Mosque.</div>
+
 </div>
+
 <p>After that was an underground cistern in the style of a large basilica. People can walk around on platforms above the water. Some of the columns were in a special design. It finally dawned on me that I should be taking pictures. We were getting dripped on quite a bit since the whole structure was designed to collect and contain water, so David mandated that we leave.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="This is a composite of three photos of the Blue Mosque. The man you see is praying." target="_blank" href="/files/photos/cruise2000/blue_mosque_prayer.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is a composite of three photos of the Blue Mosque. The man you see is praying." target="_blank" href="/files/photos/cruise2000/blue_mosque_prayer.jpg">
+
     <img class="journalPhoto" alt="This is a composite of three photos of the Blue Mosque. The man you see is praying." src="/files/photos/cruise2000/blue_mosque_prayer.jpg" height="427" width="490">
+
   </a>
+
   
+
   <div class="journalCaption">This is a composite of three photos of the Blue Mosque. The man you see is praying.</div>
+
 </div>
+
 <p>After that we took off our shoes and went into The Blue Mosque, which is Istanbul's premiere mosque. There isn't much to say, other than that it was enormous and exquisitely beautiful. I could spend a week in there taking notes on the various designs and colors. By then I was in high picture mode (not to mention high Turkish coffee mode). Hopefully, the pictures captured some of the beauty.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The ceiling of the Blue Mosque." target="_blank" href="/files/photos/cruise2000/blue_mosque_ceiling.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the Blue Mosque." target="_blank" href="/files/photos/cruise2000/blue_mosque_ceiling.jpg">
+
     <img class="journalPhoto" alt="The ceiling of the Blue Mosque." src="/files/photos/cruise2000/blue_mosque_ceiling.jpg" height="384" width="512">
+
   </a>
+
   
+
   <div class="journalCaption">The ceiling of the Blue Mosque.</div>
+
 </div>
+
 <p>After that was a trip to the Grand Bazaar, which is just what you would imagine it is - a giant market selling rugs, clothes, chessboards, etc. David helped me bargain something down, but eventually I said, "that's fine" and paid for it. Both David and the Inci gave me chastising looks for giving in on the bargaining too early.</p>
+
 <p>Next, we said farewell to the tour guide and went back to the hotel for a nap. It was about 6 o'clock at this point and we were beat. Dinner was at seven, and it was great. We had some sort of sour cherry wine for an aperitif. Dinner was some sort of grilled ground beef with cheese. It's hard to do Middle Eastern food justice with words - it's all in the spices and they are impossible to describe if you've never had them.</p>
+
 <p>After dinner we went to a Turkish bath. Our tour guide gave us a brochure for one that we showed to the cab driver. The driver took us to a different one and when we said it's not the right one, he said, "it's okay" over and over. Since I recognized it from the guidebook, I figured it was still good, so we went in. It turned out we were the only ones there, so we got very good treatment. A Turkish bath consists of sitting in a hot steamy room, getting a vigorous massage, and then getting a loufa-like scrub followed by soap and rinsing. You sit on a marble floor while they scrub you and throw buckets of water on you. It's quite jarring but a lot of fun. Somehow, after an exhausting day and a relaxing massage and bath, David and I had trouble sleeping. Jet lag can be a terrible thing.</p>

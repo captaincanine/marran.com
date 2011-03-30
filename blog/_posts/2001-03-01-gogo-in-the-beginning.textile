@@ -9,48 +9,93 @@ tags:
 description: Shortly after Dorian died, I went on the American Kennel Club website and started poking around. I hadn't even thought of getting another dog. However, I noticed that it eased the pain to look at pictures of other dogs and think that maybe someday, in the future, I would get a new dog. At the time, I felt like I let months pass before I started researching breeds with the intention of another dog. In hindsight, it was more like a week.
 ---
 <p>Shortly after Dorian died, I went on the American Kennel Club website and started poking around. I hadn't even thought of getting another dog. However, I noticed that it eased the pain to look at pictures of other dogs and think that maybe someday, in the future, I would get a new dog. At the time, I felt like I let months pass before I started researching breeds with the intention of another dog. In hindsight, it was more like a week.</p>
+
 <!--break-->
 
+
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Lucy and Her Litter" target="_blank" href="/files/photos/gogo/litter.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lucy and Her Litter" target="_blank" href="/files/photos/gogo/litter.jpg">
+
     <img class="journalPhoto" alt="Lucy and Her Litter" src="/files/photos/gogo/litter.jpg" width="362" height="251">
+
   </a>
+
   
+
   <div class="journalCaption">Lucy and Her Litter</div>
+
 </div>
 
+
+
 <p>David and I had decided that we wanted to get a puppy. And if we were to get a puppy, we would either have to know someone whose dog we liked that was having a litter or we would have to get a breeder. Considering that we wanted to take the new dog to play with kids, we had to know that the dog we were getting was friendly. So I started systematically going through the AKC website and researching breeds.</p>
+
 <p>I can't even remember now what my original attraction was to Canaan Dogs. I suppose it was the easy grooming, the good health records, the "dogly" disposition and the intelligence. So I contacted Parker Flowers (I got his name from the <a href="http://www.cdca.org">CDCA</a> as a contact in Rhode Island) and he suggested I come out to Renee's house to meet her recently born litter and her gang of adult Canaan Dogs.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="As close to a show position as she'll ever get. This was the best of three photos." target="_blank" href="/files/photos/gogo/stacked.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="As close to a show position as she'll ever get. This was the best of three photos." target="_blank" href="/files/photos/gogo/stacked.jpg">
+
     <img class="journalPhoto" alt="As close to a show position as she'll ever get. This was the best of three photos." src="/files/photos/gogo/stacked.jpg" width="400" height="268">
+
   </a>
+
   
+
   <div class="journalCaption">As close to a show position as she'll ever get. This was the best of three photos.</div>
+
 </div>
+
 <p>Renee is a proud owner (most of the time) of many Canaan Dogs. You can check out her whole pack at <a href="http://www.geocities.com/RRenegadeCD/index.htm">Renegade Canaan Dogs</a>. Before I came to Renee's both she and Parker warned me about how aloof Canaan Dogs can be with strangers and that the reaction I get at the beginning is not what they're like once they get used to you.</p>
+
 <p>When I arrived at Renee's, three of her dogs came right up to me to check me out. They said hello and hung around for a little attention. Both Parker and Renee said that this was atypical. Later, when they brought Lucy out, they mentioned that she was hormonal and may act rather strange and aloof. She came up to me wagging her tail and was very affectionate. Once again, not the usual reaction. Luckily, one of Renee's dogs, Oren, did live up to the stand-offish reputation that Parker and Renee promised.</p>
+
 <p>She then brought out all the little furballs. They seemed to have no idea where they were. One of them would be standing in the middle of the room and would start crying for no reason. (I'm pretty sure that was Gogo). Anyway, after meeting the whole gang, the mother, and some other adults, I knew I had stumbled onto to something great, and put a deposit down on a pup.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="Gogo with her sister, Petunia." target="_blank" href="/files/photos/gogo/gogo_and_petunia.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo with her sister, Petunia." target="_blank" href="/files/photos/gogo/gogo_and_petunia.jpg">
+
     <img class="journalPhoto" alt="Gogo with her sister, Petunia." src="/files/photos/gogo/gogo_and_petunia.jpg" width="384" height="256">
+
   </a>
+
   
+
   <div class="journalCaption">Gogo with her sister, Petunia.</div>
+
 </div>
+
 <p>Over the next several weeks, it was a matter of waiting. I was still quite sad about Dorian, and was not ready for a puppy quite yet. David was putting pressure on me to wait, because we were scheduled to get Gogo the week before we moved. Luckily, I had friends that talked me out of waiting. What is a good time to get a new puppy? Always. I thought of it as a wonderful way to break up the monotony of packing and moving. Plus, that was when our apartment was two blocks from my job, and I was hoping for a leg up (so to speak) on housetraining.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/gogo/yawning.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/yawning.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/gogo/yawning.jpg" width="412" height="288">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <p>I did get a chance to drive out to New Jersey to meet the litter again when they were eight weeks old. At this point, we pretty much figured that I was getting Gogo. Renee had taken them all for personality tests and she seemed like the best match for me. I now know that what Renee meant by that was that Gogo was a trouble-maker. I also told Renee that we were probably going to name her Gogo. It didn't fly with Renee. Luckily, Parker was there and thought it was an appropriate name.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The whole clan at eight weeks. Gogo is the left-most puppy." target="_blank" href="/files/photos/gogo/eight_week_litter.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The whole clan at eight weeks. Gogo is the left-most puppy." target="_blank" href="/files/photos/gogo/eight_week_litter.jpg">
+
     <img class="journalPhoto" alt="The whole clan at eight weeks. Gogo is the left-most puppy." src="/files/photos/gogo/eight_week_litter.jpg" width="386" height="362">
+
   </a>
+
   
+
   <div class="journalCaption">The whole clan at eight weeks. Gogo is the left-most puppy.</div>
+
 </div>

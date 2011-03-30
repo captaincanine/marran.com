@@ -13,11 +13,19 @@ tags:
 description: I won't spend too much time talking about the day at sea as all we did was lay in the sun and read. The sea was fantastically calm. Half of the time I didn't even know we were moving.
 ---
 <p>I won't spend too much time talking about the day at sea as all we did was lay in the sun and read. The sea was fantastically calm. Half of the time I didn't even know we were moving.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A picture of our ship." target="_blank" href="/files/photos/cruise2000/ship2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A picture of our ship." target="_blank" href="/files/photos/cruise2000/ship2.jpg">
+
     <img class="journalPhoto" alt="A picture of our ship." src="/files/photos/cruise2000/ship2.jpg" height="245" width="450">
+
   </a>
+
   
+
   <div class="journalCaption">A picture of our ship.</div>
+
 </div>
+
 <p>We did meet someone on the ship - That night we were enjoying the bough of the ship as we sailed into the night and a blond woman carrying a book, a glass of wine, and a cigarette came out to where we were and we got to talking. Her name is Pam and she's here with a large group, many of whom are anesthesiologists. Later in the trip, Pam became an invaluable source of gossip and amusement about a leathery, blond woman who was at least 50% silicone that walked around in a yellow thong bikini. We all had different names for her - Pam called her "Barbie," others on the ship called her "Miss Las Vegas" and David and I simply called her "Boobs." I wish I had a good picture of her, but I could never work up the guts. She and her husband were often in the gym.</p>

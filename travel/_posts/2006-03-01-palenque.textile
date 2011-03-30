@@ -12,141 +12,279 @@ tags:
 description: Today was our first real touring day, although it started off with a long car drive. We got up relateively early to prepare for the trip. A car was picking us up and taking us to Palenque to visit the ruins. We met two of our group - a young woman named Kelly from Washington D.C. and an older woman named Melanie from Sacramento. We made polite conversation, but it ran out quickly considering we didn't really know each other. It was about 2 and a half hours to Palenque. It was good to adjust oneself to the fact that we were in Mexico. That area was particularly lush and green.
 ---
 <p>Today was our first real touring day, although it started off with a long car drive. We got up relateively early to prepare for the trip. A car was picking us up and taking us to Palenque to visit the ruins. We met two of our group - a young woman named Kelly from Washington D.C. and an older woman named Melanie from Sacramento. We made polite conversation, but it ran out quickly considering we didn't really know each other. It was about 2 and a half hours to Palenque. It was good to adjust oneself to the fact that we were in Mexico. That area was particularly lush and green. As we got closer to the ruins, our driver pointed them out from a distance. It was quite exciting to see how large they were from a distance.</p>
+
 <p>There was some initial confusion when we first showed up at Palenque. Apparently, our tour guide had already started walking around the site with the three people that were part of our tour that were already in Palenque. So we met the rest of our group: a British couple named John and Teresa and a former Brit/current Norwegian Mike. They were on a several week tour of most of southern Mexico. This trip landed in the middle of their overall tour.</p>
+
 <p>How to describe Palenque? Well, it's humungous. Not only are the ruins themselves quite large, but it's very extensive. There are also some 1,400 structures identified at Palenque. We only went through the most prominent ones - about eight of them. The tour was very thorough hitting everything from the ancient bathrooms, to how they built the wall, to the carvings. It's silly of me to try to go through every detail that we explored there, so I won't. Here are some photos.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-building.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-building.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-building.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-court.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-court.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-court.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-courtyard.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-courtyard.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-courtyard.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-crocodile.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-crocodile.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-crocodile.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-group.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-group.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-group.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-keithcourtyard.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-keithcourtyard.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-keithcourtyard.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-keyholebuilding.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-keyholebuilding.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-keyholebuilding.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-mothertomb.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-mothertomb.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-mothertomb.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-pakal.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-pakal.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-pakal.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-pakal-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-pakal-1.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-pakal-1.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-palace.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-palace.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-palace.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-palace1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-palace1.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-palace1.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-panorama.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-panorama.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-panorama.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-relief.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-relief.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-relief.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-tomb.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-tomb.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-tomb.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <p>After a few hours of walking the grounds, we went to a place about 15 minutes down the road for lunch. There was a small collection of restaurants and hotels called El Panchán. We ate at a restaurant called "Don Mucho's" and is owned by the brother of our tour guide. We later found out in our guide book that our tour guide's family is something of local royalty.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-lunch.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-lunch.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-lunch.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <p>After lunch there was more exploration of the ruins at Palenque. We got more detail on Pakal's palace, walked through a tomb of an unidentified woman, and then headed off to the museum at Palenque to see some of the items that were taken out of the ruins and preserved. David and I kept hearing this loud occasional roaring from the forest just outside of the ruins. It was occasionally quite loud. It sounded as if someone had a special effects record of a roaring animal - like a jaguar or tiger. We didn't think much of it at the time because it did sound like it was coming from a stereo system, but a few days later at Yaxchilán, we asked someone and they told us that it was howler monkeys. I decided that if a single monkey could make that sound, I didn't want to run into that monkey.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-museum.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-museum.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-museum.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-museum-1.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-museum-1.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-museum-1.jpg" height="266" width="400">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="" target="_blank" href="/files/photos/chiapas/palenque-museum-2.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-museum-2.jpg">
+
     <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-museum-2.jpg" height="400" width="266">
+
   </a>
+
   
+
   <div class="journalCaption"></div>
+
 </div>
+
 <p>After the museum, we checked into our hotel in Palenque where we'd be staying for the next three nights. The hotel was nice enough. We took a walk into the main part of Palenque after settling into the hotel and ate dinner in a restaurant off of the town square - which was hopping at night.</p>

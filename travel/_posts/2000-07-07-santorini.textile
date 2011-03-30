@@ -12,27 +12,51 @@ tags:
 description: It took David and me a while to get into the rhythm of the day. He was a little spacey and draggy and I was crabby and snappy. Mainly because I had to go to an Internet cafe to handle a call from work. After that we rented a car and drove around the island. There were fantastic views all around, but I was not seeing what was so wonderful about the island until we got to the very north end to a town called Eio. This town is mainly at the top of a cliff, with the houses and Villas along the top and working their way halfway down the side.
 ---
 <p>It took David and me a while to get into the rhythm of the day. He was a little spacey and draggy and I was crabby and snappy. Mainly because I had to go to an Internet cafe to handle a call from work. After that we rented a car and drove around the island. There were fantastic views all around, but I was not seeing what was so wonderful about the island until we got to the very north end to a town called Eio. This town is mainly at the top of a cliff, with the houses and Villas along the top and working their way halfway down the side. When you see cigarette ads for people dressed in white linen on a white patio over looking the water, this is the place. We took a long walk down to a thin rocky beach and had an iced coffee with baklava. Iced coffees in the Mediterranean are much creamier and dessert-like than in the U.S.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The view from the restaurant where we had lunch in Santorini." target="_blank" href="/files/photos/cruise2000/santorini_lunch.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from the restaurant where we had lunch in Santorini." target="_blank" href="/files/photos/cruise2000/santorini_lunch.jpg">
+
     <img class="journalPhoto" alt="The view from the restaurant where we had lunch in Santorini." src="/files/photos/cruise2000/santorini_lunch.jpg" height="480" width="360">
+
   </a>
+
   
+
   <div class="journalCaption">The view from the restaurant where we had lunch in Santorini.</div>
+
 </div>
+
 <p>David talked me into hiring a donkey to take us back up the steps. There were a couple of other Americans that did it with us. The owner comes up behind and smacks the last donkey in the rear, so they all go somewhat quickly.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="A church in Santorini." target="_blank" href="/files/photos/cruise2000/santorini_church.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A church in Santorini." target="_blank" href="/files/photos/cruise2000/santorini_church.jpg">
+
     <img class="journalPhoto" alt="A church in Santorini." src="/files/photos/cruise2000/santorini_church.jpg" height="308" width="360">
+
   </a>
+
   
+
   <div class="journalCaption">A church in Santorini.</div>
+
 </div>
+
 <p>We walked around the town a bit more and then went back to the car. After returning the car, we went back to the Internet cafe to finalize the work stuff and return to the ship.</p>
+
 <div class="journalPhotoPanel" align="center">
-  <a class="thickbox" title="The place where we walked down for coffee. This is a typical honeymoon spot." target="_blank" href="/files/photos/cruise2000/sanorini_io.jpg">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The place where we walked down for coffee. This is a typical honeymoon spot." target="_blank" href="/files/photos/cruise2000/sanorini_io.jpg">
+
     <img class="journalPhoto" alt="The place where we walked down for coffee. This is a typical honeymoon spot." src="/files/photos/cruise2000/sanorini_io.jpg" height="480" width="360">
+
   </a>
+
   
+
   <div class="journalCaption">The place where we walked down for coffee. This is a typical honeymoon spot.</div>
+
 </div>
+
 <p>Dinner that evening was a BBQ on the pool deck. Our table Consisted of David and I, the two Brits - Brian and Neil, Jim - the Southern gentleman, and his traveling companion, Bob. We had a wonderful dinner, both in food and in company, looking up to the town of Thira atop the cliff beside us. Jim and Bob eventually went to bed, but the remaining four of us waited until the ship sailed away to see the lights of the villages dotting the top of the island.</p>
