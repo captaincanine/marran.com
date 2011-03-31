@@ -22,7 +22,6 @@ namespace "post" do
     filename = "#{today}-#{slug}.textile"
     path = File.join("#{category}/_posts", filename)
     if File.exist? path; raise RuntimeError.new("Won't clobber #{path}"); end
-    debugger
     File.open(path, 'w') do |file|
       file.write <<-EOS
 ---

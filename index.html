@@ -45,7 +45,7 @@ title: Keith Marran
 			<div class="box-header">
 				<div class="box-header-left clearfix">
 					<div class="box-title title">The Latest Entry</div>
-					<div class="meta">{{ site.latest_blogs[0].date | time_ago }}{{ site.latest_blogs[0].tags | tag_links }}</div>
+					<div class="meta">{{ site.categories['blog'][0].date | time_ago }}{{ site.categories['blog'][0].tags | tag_links }}</div>
 				</div>
 				<div class="box-header-right"></div>
 			</div>
@@ -53,13 +53,13 @@ title: Keith Marran
 				<div class="box-middle-left">
 				
 					<div class="teaser-feature">
-						<div class="title"><a href="{{ site.latest_blogs[0].url }}" title="{{ site.latest_blogs[0].title }}">{{ site.latest_blogs[0].title }}</a></div>
-						{% if (site.latest_blogs[0].images) %}<div class="image"><a href="{{ site.latest_blogs[0].url }}" title="{{ site.latest_blogs[0].title }}"><img src="{{ site.latest_blogs[0].images[0] | format_main_image }}" /></a></div>{% endif %}
-						<div class="description">{{ site.latest_blogs[0].description }}</div>
-						<div class="read-more"><a href="{{ site.latest_blogs[0].url }}" title="{{ site.latest_blogs[0].title }}">There's more? Yes! Let's go. »</a></div>
+						<div class="title"><a href="{{ site.categories['blog'][0].url }}" title="{{ site.categories['blog'][0].title }}">{{ site.categories['blog'][0].title }}</a></div>
+						{% if (site.categories['blog'][0].images) %}<div class="image"><a href="{{ site.categories['blog'][0].url }}" title="{{ site.categories['blog'][0].title }}"><img src="{{ site.categories['blog'][0].images[0] | format_main_image }}" /></a></div>{% endif %}
+						<div class="description">{{ site.categories['blog'][0].description }}</div>
+						<div class="read-more"><a href="{{ site.categories['blog'][0].url }}" title="{{ site.categories['blog'][0].title }}">There's more? Yes! Let's go. »</a></div>
 					</div>
 					
-					{% for post in site.latest_blogs limit:3 offset:1 %}
+					{% for post in site.categories['blog'] limit:3 offset:1 %}
 					
 					<div class="teaser clearfix">
 						{% if (post.images) %}<div class="image"><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.images[0] | format_teaser_image }}" /></a></div>{% endif %}
@@ -113,19 +113,21 @@ title: Keith Marran
 		
 		<div class="teaser">
 		
+	    {% assign recipe = site.categories['recipes'][0] %}
+
 			<div class="and-keith">and Keith</div>
 			<div class="does"><a href="/recipes">cooks</a></div>
 	
 			<div class="box">
 				<div class="box-header">
-					<div class="box-header-left box-title title"><a href="{{ site.latest_recipes[0].url }}" title="{{ site.latest_recipes[0].title }}">{{ site.latest_recipes[0].title }}</a></div>
+					<div class="box-header-left box-title title"><a href="{{ recipe.url }}" title="{{ recipe.title }}">{{ recipe.title }}</a></div>
 					<div class="box-header-right"></div>
 				</div>
 				<div class="box-middle">
 					<div class="box-middle-left">
-						{% if (site.latest_recipes[0].images) %}<div class="image"><a href="{{ site.latest_recipes[0].url }}" title="{{ site.latest_recipes[0].title }}"><img src="{{ site.latest_recipes[0].images[0] | format_teaser_image }}" /></a></div>{% endif %}
-						<div class="description">{{ site.latest_recipes[0].description }}</div>
-						<div class="read-more"><a href="{{ site.latest_recipes[0].url }}" title="{{ site.latest_recipes[0].title }}">Mmmm! Let's read the recipe! »</a></div>
+						{% if (recipe.images) %}<div class="image"><a href="{{ recipe.url }}" title="{{ recipe.title }}"><img src="{{ recipe.images[0] | format_teaser_image }}" /></a></div>{% endif %}
+						<div class="description">{{ recipe.description }}</div>
+						<div class="read-more"><a href="{{ recipe.url }}" title="{{ recipe.title }}">Mmmm! Let's read the recipe! »</a></div>
 					</div>
 					<div class="box-middle-right"></div>
 				</div>
@@ -141,19 +143,21 @@ title: Keith Marran
 		
 		<div class="teaser">
 	
+	    {% assign travel = site.categories['travel'][0] %}
+
 			<div class="and-keith">and he</div>
 			<div class="does"><a href="travel">travels</a></div>
 	
 			<div class="box">
 				<div class="box-header">
-					<div class="box-header-left box-title title"><a href="{{ site.latest_travel.url }}" title="{{ site.latest_travel.title }}">{{ site.latest_travel.title }}</a></div>
+					<div class="box-header-left box-title title"><a href="{{ travel.url }}" title="{{ travel.title }}">{{ travel.title }}</a></div>
 					<div class="box-header-right"></div>
 				</div>
 				<div class="box-middle">
 					<div class="box-middle-left">	
-						{% if (site.latest_travel.images) %}<div class="image"><a href="{{ site.latest_travel.url }}" title="{{ site.latest_travel.title }}"><img src="{{ site.latest_travel.images[0] | format_teaser_image }}" /></a></div>{% endif %}
-						<div class="description">{{ site.latest_travel.description }}</div>
-						<div class="read-more"><a href="{{ site.latest_travel.url }}" title="{{ site.latest_travel.title }}">Sounds fun, let's go! »</a></div>
+						{% if (travel.images) %}<div class="image"><a href="{{ travel.url }}" title="{{ travel.title }}"><img src="{{ travel.images[0] | format_teaser_image }}" /></a></div>{% endif %}
+						<div class="description">{{ travel.description }}</div>
+						<div class="read-more"><a href="{{ travel.url }}" title="{{ travel.title }}">Sounds fun, let's go! »</a></div>
 					</div>
 					<div class="box-middle-right"></div>
 				</div>
@@ -164,6 +168,36 @@ title: Keith Marran
 			</div>
 	
 			<div class="more-content"><a href="/travel" title="More travel">See more travel »</a></div>
+
+		</div>
+		
+		<div class="teaser">
+	
+	    {% assign tech = site.categories['tech'][0] %}
+	
+			<div class="and-keith">and he</div>
+			<div class="does"><a href="/tech">codes</a></div>
+	
+			<div class="box">
+				<div class="box-header">
+					<div class="box-header-left box-title title"><a href="{{ tech.url }}" title="{{ tech.title }}">{{ tech.title }}</a></div>
+					<div class="box-header-right"></div>
+				</div>
+				<div class="box-middle">
+					<div class="box-middle-left">	
+						{% if (tech.images) %}<div class="image"><a href="{{ tech.url }}" title="{{ tech.title }}"><img src="{{ tech.images[0] | format_teaser_image }}" /></a></div>{% endif %}
+						<div class="description">{{ tech.description }}</div>
+						<div class="read-more"><a href="{{ tech.url }}" title="{{ tech.title }}">I need to know »</a></div>
+					</div>
+					<div class="box-middle-right"></div>
+				</div>
+				<div class="box-footer">
+					<div class="box-footer-left"></div>
+					<div class="box-footer-right"></div>
+				</div>
+			</div>
+	
+			<div class="more-content"><a href="/tech" title="More tech">See more tech »</a></div>
 
 		</div>
 

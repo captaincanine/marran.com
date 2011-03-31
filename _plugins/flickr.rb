@@ -1,7 +1,27 @@
-module Jekyll
+=begin
 
-	require 'flickraw'
-	require 'ruby-debug'
+This module enables easy integration to Flickr for showing photos. In
+posts, if there is a "photoset" attribute in the post, Jekyll will get
+the photo information from Flickr and add it to the post data.
+
+Since the Flickr calls can be very time-consuming, the calls to Flickr
+are cached.
+
+In order to use this, you need to have previously authorized with
+Flickr. The following information needs to be in _config.yml:
+
+flickr:
+  enabled:         yes
+  cache_dir:       ./_cache/flickr
+  api_key:         {{ your flickr api key }}
+  shared_secret:   {{ your flickr shared secret }}
+  auth_token:      {{ your flickr auth token }}
+
+=end
+
+require 'flickraw'
+
+module Jekyll
 	
   class GeneratePhotosets < Generator
 
@@ -9,7 +29,7 @@ module Jekyll
 		priority :low
 
 		def generate(site)
-			generate_photosets(site) if (site.config['flickr']) 
+			generate_photosets(site) if (site.config['flickr']['enabled']) 
 		end
 		
 		def generate_photosets(site)
@@ -20,7 +40,7 @@ module Jekyll
 
 		def load_photos(photoset, site)
 
-      if cache_dir = site.config['flickr_cache']
+      if cache_dir = site.config['flickr']['cache_dir']
         path = File.join(cache_dir, "#{Digest::MD5.hexdigest(photoset.to_s)}.yml")
         if File.exist?(path)
           photos = YAML::load(File.read(path))
@@ -40,10 +60,10 @@ module Jekyll
 			
 			returnSet = Array.new 
 		
-			FlickRaw.api_key = site.config['flickr_api_key']
-			FlickRaw.shared_secret = site.config['flickr_shared_secret']
+			FlickRaw.api_key = site.config['flickr']['api_key']
+			FlickRaw.shared_secret = site.config['flickr']['shared_secret']
 			
-			auth = flickr.auth.checkToken :auth_token => site.config['flickr_auth_token']
+			auth = flickr.auth.checkToken :auth_token => site.config['flickr']['auth_token']
 			
 			photos = flickr.photosets.getPhotos :photoset_id => photoset
 			

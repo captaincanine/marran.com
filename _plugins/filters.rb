@@ -1,10 +1,10 @@
 module Jekyll
 
-	module Filters
+  module Filters
 	
-		def time_ago(date)
-			date.to_pretty
-		end
+    def time_ago(date)
+      "<script>document.write($.timeago(\"#{date.strftime('%m-%d-%y')}\"))</script>"
+    end
 		
 		def format_youtube(url)
 			matches = url.scan /(?:v=|embed\/)([^&]*)/

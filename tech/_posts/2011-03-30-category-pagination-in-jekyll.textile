@@ -7,10 +7,167 @@ tags:
 description: This site is currently built on Jekyll. I had a few requirements in switching my site over, and one of the big ones was being able to break content out into categories. While the first part was pretty easy, there was no way to paginate posts in a category into multiple pages. Luckily, it wasn't hard to create a plug-in to fix that.
 ---
 
+This site is currently built on Jekyll. I had a few requirements in switching my site over, and one of the big ones was being able to break content out into categories. Jekyll has logic for categories built in by default, so that was pretty easy. However, showing index pages for all the posts in a category was unsightly. Since a category index page would show all the posts for that category. On my site, that meant that hundreds of posts would show on a single page. That's cruel to both users and search engines. I wanted to break that up into multiple pages. While Jekyll paginates the main index page, it doesn't paginate category pages. So I created a plug-in that creates paginated category pages.
+
+Since I was building this from scratch, I threw in a few more bits of functionality to cater to my particular site. 
+
+I wanted to have each category capable of having its own index page, but I wanted the following pages to follow a standard "list" style. This allows me to feature special items on the index page of, say, "Travel," but having the list pages after the first page be relatively simple.
+
+Luckily, there's a pagination module built-in to Jekyll, so I didn't have to do too much new programming. It only affects the home page, however, so my task was to enable the functionality for categories as well. 
+
+h3. Site Structure
+
+In order for this to work, I have @index.html@ pages set at the root of each category. My site before Jekyll conversion looks similar to the following:
+
+pre. + index.html
++ blog
+  + index.html <- index page for blogs
+  + _posts
+    + 2010-01-01-blog-post-1.html
+    + 2010-01-02-blog-post-2.html
++ travel
+  + index.html <- index page for travel
+  + _posts
+    + 2010-01-01-travel-post-1.html
+    + 2010-01-02-travel-post-2.html
+
+Each of the category index.html pages needs the following in the YAML front matter:
+
+pre. category: category_name
+
+This is the piece that the code uses to identify a category index page that needs to be paginated.
+
+You also need to have a file in @_layouts@ called @category_index.html@ that enumerates through the posts for that page and converts the results to HTML.
+
+And finally, you need to make sure that pagination is enabled by having this in your @_congif.yml@ file.
+
+pre. paginate: 20
+
+The number denotes how many items should appear on each page.
+
+h3. On to the code
+
+First, create a file called @generate_category_pages.rb@ and places it in your @_plugins@ folder. 
+
+The first class to create is the "Generator." All generators are called by Jekyll at site build, so if you want code that's going to create new pages or content, you want to sub-class this class.
+
+When Jekyll calls a generator, it calls the @generate@ function, so that's the first method to implement. In our class, it loops through all the pages in the site and if @pagination_enabled?@ returns true, it paginates that page.
+
 {% highlight ruby %}
-def generate(site)
-  site.pages.dup.each do |page|
-    paginate(site, page) if CategoryPager.pagination_enabled?(site.config, page)
+class CategoryPages < Generator
+  def generate(site)
+    site.pages.dup.each do |page|
+      paginate(site, page) if CategoryPager.pagination_enabled?(site.config, page)
+    end
   end
 end
 {% endhighlight %}
+
+Next, we need to implement the @paginate@ method. This is the guts of the code. It gets the posts for a particular category from the @site@ object. It uses @CategoryPager@ to calculate a number of things about the pagination. Most of that code comes from Jekyll's @pager@ class.
+
+After it instantiates a @CategoryPager@, it decides whether this is the first page of the set. If it's the first page, there's already an @index.html@ page, so it only needs to send the pager information to the page. If it's not the first page, it needs to create a new HTML file. In order to do that, it creates a special type of page of @Page@ that I've defined called (surprisingly enough) @CategoryPage@. I'll get to that later in this post. The page is created and added to the @site.pages@ collection.
+
+{% highlight ruby %}
+def paginate(site, page)
+
+  # sort categories by descending date of publish
+  category_posts = site.categories[page.data['category']].reverse!
+
+  # calculate total number of pages
+  pages = CategoryPager.calculate_pages(category_posts, site.config['paginate'].to_i)
+
+  # iterate over the total number of pages and create a physical page for each
+  (1..pages).each do |num_page|
+  
+    # the CategoryPager handles the paging and category data
+    pager = CategoryPager.new(site.config, num_page, category_posts, page.data['category'], pages)
+
+    # the first page is the index, so no page needs to be created. However, the subsequent pages need to be generated
+    if num_page > 1
+      newpage = CategorySubPage.new(site, site.source, page.data['category'], page.data['category_layout'])
+      newpage.pager = pager
+      newpage.dir = File.join(page.dir, "/#{page.data['category']}/page#{num_page}")
+      site.pages << newpage
+    else
+      page.pager = pager
+    end
+
+  end
+
+end
+{% endhighlight %}
+
+Next, we need to implement a couple of other classes. In the Jekyll pagination code, there's a @Pager@ class that handles items such as the current page, the total number of pages, previous and next pages, etc. We want to use that code but add support for the category information. Here's the code for that class:
+
+{% highlight ruby %}
+class CategoryPager < Pager
+
+  attr_reader :category
+
+  def self.pagination_enabled?(config, page)
+    page.name == 'index.html' && page.data.key?('category') && !config['paginate'].nil?
+  end
+  
+  # same as the base class, but includes the category value
+  def initialize(config, page, all_posts, category, num_pages = nil)
+    @category = category
+    super config, page, all_posts, num_pages
+  end
+
+  # use the original to_liquid method, but add in category info
+  alias_method :original_to_liquid, :to_liquid
+  def to_liquid
+    x = original_to_liquid
+    x['category'] = @category
+    x
+  end
+  
+end
+{% endhighlight %}
+
+Next, we need to subclass the @Page@ class for our specific needs. This code is very specific to my site, you may want to change the logic here to something more straightforward. Basically, I am creating a special type of page that is used just for showing category indexes. This code customizes the layout that's used and adds some information to the payload data.
+
+{% highlight ruby %}
+# The CategorySubPage class creates a single category page for the specified tag.
+# This class exists to specify the layout to use for pages after the first index page
+class CategorySubPage < Page
+  
+  def initialize(site, base, category, layout)
+      
+    @site = site
+    @base = base
+    @dir  = category
+    @name = 'index.html'
+
+    self.process(@name)
+    self.read_yaml(File.join(base, '_layouts'), layout || 'category_index.html')
+
+    title_prefix             = site.config['cateogry_title_prefix'] || 'Everything in the '
+    self.data['title']       = "#{title_prefix}#{category}"
+
+  end
+  
+end
+{% endhighlight %}
+
+h3. Usage
+
+To use this on a page, whether it be an index page or in the @category_index.html@ template, use something like the following:
+
+
+
+{% highlight html %}{% literal %}
+{% for post in paginator.posts %}
+
+<div class="teaser clearfix">
+  <div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
+  <div class="meta"><span class="timeago">{{ post.date | time_ago }}</span>{{ post.tags | tag_links }}</div>
+  <div class="description">{{ post.description }}</div>
+</div>
+
+{% endfor %}
+{% endliteral %}{% endhighlight %}
+
+To see the whole code, go to the "project on Github":https://github.com/pelosi/marran.com/blob/master/_plugins/generate_category_pages.rb.
+
+I've also included a filter in the main code for formatting next and previous page links. That's not required, but it helps me out.
