@@ -1,7 +1,6 @@
 module Jekyll
 
 	require 'flickraw'
-	require 'ruby-debug'
 	
   class GeneratePhotosets < Generator
 

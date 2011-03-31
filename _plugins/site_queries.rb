@@ -1,5 +1,4 @@
- require 'ruby-debug'
- 
+
  module Jekyll
 
 	# Extensions to the Jekyll Site class.

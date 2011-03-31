@@ -26,8 +26,6 @@ I have created a custom filter for displaying previous and next links on categor
 
 =end
 
-require 'ruby-debug'
-
 module Jekyll
 
   class CategoryPages < Generator

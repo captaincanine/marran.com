@@ -1,5 +1,3 @@
-require 'ruby-debug'
-
 module Jekyll
   
   # The TagIndex class creates a single tag page for the specified tag.
