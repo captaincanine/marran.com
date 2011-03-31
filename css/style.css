@@ -384,10 +384,17 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 
 .category-index .right .title	{ margin-bottom: 0; }
 
+
 /* PAGER */
 
 .pager .previous	{ float: left; width: 50% }
 .pager .next		{ float: right; text-align: right; width: 50%; }
+
+
+/* CODE */
+
+pre { background-color: #EEE; border: 1px solid #DDD; margin: 20px 0; padding: 12px; overflow: auto; overflow-y: hidden; }
+
 
 
 

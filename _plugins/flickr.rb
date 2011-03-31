@@ -1,6 +1,7 @@
 module Jekyll
 
 	require 'flickraw'
+	require 'ruby-debug'
 	
   class GeneratePhotosets < Generator
 
@@ -12,17 +13,30 @@ module Jekyll
 		end
 		
 		def generate_photosets(site)
-
 			site.posts.each do |p|
-				if p.data.key? 'photoset'
-					x = getPhotos(p.data['photoset'], site)
-					p.data['photos'] = x
-				end
+			  p.data['photos'] = load_photos(p.data['photoset'], site) if p.data['photoset']
 			end
-
 		end
 
-		def getPhotos(photoset, site)
+		def load_photos(photoset, site)
+
+      if cache_dir = site.config['flickr_cache']
+        path = File.join(cache_dir, "#{Digest::MD5.hexdigest(photoset.to_s)}.yml")
+        if File.exist?(path)
+          photos = YAML::load(File.read(path))
+        else
+          photos = generate_photo_data(photoset, site)
+          File.open(path, 'w') {|f| f.print(YAML::dump(photos)) }
+        end
+      else
+        photos = generate_photo_data(photoset, site)
+      end
+  
+      photos
+  
+    end
+
+    def generate_photo_data(photoset, site)
 			
 			returnSet = Array.new 
 		

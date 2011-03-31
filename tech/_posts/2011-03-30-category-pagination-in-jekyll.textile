@@ -6,6 +6,11 @@ tags:
 - ruby
 description: This site is currently built on Jekyll. I had a few requirements in switching my site over, and one of the big ones was being able to break content out into categories. While the first part was pretty easy, there was no way to paginate posts in a category into multiple pages. Luckily, it wasn't hard to create a plug-in to fix that.
 ---
+
 {% highlight ruby %}
-...code goes here...
+def generate(site)
+  site.pages.dup.each do |page|
+    paginate(site, page) if CategoryPager.pagination_enabled?(site.config, page)
+  end
+end
 {% endhighlight %}
