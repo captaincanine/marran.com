@@ -26,8 +26,8 @@
   <script type="text/javascript" src="/js/offendable.js"></script>
   
 	<meta property="og:site_name" content="Keith Marran"/>
-	<meta property="og:title" content="{{ page.title }}"/>
-	{% if (page.description) %}<meta property="og:description" content="{{ page.description }}"/>{% endif %}
+	<meta property="og:title" content="{{ page.title | strip_html }}"/>
+	{% if (page.description) %}<meta property="og:description" content="{{ page.description | strip_html }}"/>{% endif %}
 	{% if (page.images) %}<meta property="og:image" content="{{ page.images[0] | format_teaser_image }}"/>{% endif %}
 	
 	<script type="text/javascript">
