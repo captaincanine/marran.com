@@ -3,7 +3,7 @@ layout: post
 title: Dover
 series: 
   name: London & Kent
-  index: 7
+  index: 4
 redirects: 
 - /node/613
 - /personal/travel/england/dover

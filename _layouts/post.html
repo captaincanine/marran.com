@@ -18,8 +18,19 @@ layout: default
 					{% if (page.images) %}<div class="post-image"><a href="{{ page.images[0] | format_main_image }}" title="{{ page.title }}" rel="shadowbox" class="popupwindow"><img src="{{ page.images[0] | format_main_image }}" /></a></div>{% endif %}
 					{{ content }}
 					
-					{% if page.series %}
-						{{ site.series | next_in_series info:page.series }}
+					{% if page.series and page.next %}
+
+            <div class="next-box">
+              <div class="help">This post is part of a series called...</div>
+              <div class="series-title">{{ page.series.name }}</div>
+              <div class="help">The next in the series is...</div>
+              <div class="series-item">
+                <div class="title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
+                <div class="info">{{ page.next.description }}</div>
+                <div class="next-link"><a href="{{ page.next.url }}">Read the next post in the series >></a></div>
+              </div>
+            </div>
+
 					{% endif %}
 
 					<div id="disqus_thread"></div>
@@ -96,16 +107,16 @@ layout: default
 				<div class="box-middle">
 					<div class="box-middle-left">
 										
-						{% for post in site.series[page.series.name] %}
-							{% if post.title == page.title %}
+						{% for sibling in page.siblings %}
+							{% if sibling.id == page.id %}
 							<div class="series-item current">
-								<div class="title">{{ post.title }}</div>
+								<div class="title">{{ sibling.title }}</div>
 								<div class="info">You are here. Vous et ici.</div>
 							</div>
 							{% else %}
 							<div class="series-item">
-								<div class="title"><a href="{{ post.url }}">{{ post.title }}</a></div>
-								<div class="info">{{ post.description }}</div>
+								<div class="title"><a href="{{ sibling.url }}">{{ sibling.title }}</a></div>
+								<div class="info">{{ sibling.description }}</div>
 							</div>
 							{% endif %}							
 						{% endfor %}

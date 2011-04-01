@@ -3,7 +3,7 @@ layout: post
 title: Kensington
 series: 
   name: London & Kent
-  index: 11
+  index: 6
 redirects: 
 - /node/616
 - /personal/travel/england/kensington

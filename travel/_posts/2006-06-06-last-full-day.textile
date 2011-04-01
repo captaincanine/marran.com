@@ -3,7 +3,7 @@ layout: post
 title: Last Full Day
 series: 
   name: London & Kent
-  index: 4
+  index: 8
 redirects: 
 - /node/617
 - /personal/travel/england/last-full-day

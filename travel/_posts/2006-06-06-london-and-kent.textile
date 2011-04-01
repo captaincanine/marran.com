@@ -3,7 +3,7 @@ layout: post
 title: London & Kent
 series: 
   name: London & Kent
-  index: 3
+  index: 1
 redirects: 
 - /node/610
 - /personal/travel/england/london-kent

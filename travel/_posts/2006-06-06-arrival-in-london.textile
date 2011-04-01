@@ -3,7 +3,7 @@ layout: post
 title: Arrival in London
 series: 
   name: London & Kent
-  index: 6
+  index: 2
 redirects: 
 - /node/611
 - /personal/travel/england/arrival-london
@@ -12,9 +12,15 @@ tags:
 description: David and I took the day flight to London, as opposed to the red-eye, to help with jet lag. Our flight was around 8:30pm, it's about a 6 hour flight, and you arrive in London around 8:30pm. I can't think through the math right now to know if that's right. Perhaps I'm conditioned from many previous red-eye flights, but whenever I arrive in Europe, I'm exhausted. I don't know what it is about sitting on a plane for more than a few hours.
 ---
 <p>David and I took the day flight to London, as opposed to the red-eye, to help with jet lag. Our flight was around 8:30pm, it's about a 6 hour flight, and you arrive in London around 8:30pm. I can't think through the math right now to know if that's right. Perhaps I'm conditioned from many previous red-eye flights, but whenever I arrive in Europe, I'm exhausted. I don't know what it is about sitting on a plane for more than a few hours.</p>
+
 <p>When we got to London, we took the Heathrow Express train (15 minutes from airport to London!) to Paddington Station. Our hotel was a 5-10 minute walk from the train station, which was much appreciated after a long flight.</p>
+
 <p>It took us a few tries to get the hotel room right. The first room had a sink that didn't drain well and the towel rack came off when I tried to dry my hands. The second room was nice, but didn't have an internet connection. And the third room was just right. Goldilocks would have picked this room. I've learned not to expect much from British hotels, so was pleased that our hotel was somewhat spacious, clean, and was facing an inner courtyard.</p>
+
 <p>After we settled in, we decided to go get something quick to eat. We passed several places on the walk to the hotel, so we headed back out. We ended up at a little place called "The Chicken Stop" and decided to get something and bring it back to the room. Most of the restaurants on the block were run by Arabs since that seemed to be the mode of the neighborhood. There was another man in "The Chicken Stop" that was talking to us about the wonders of fried chicken. He claimed that people made fun of him for drinking Diet Coke and then having fried chicken, but that he couldn't help himself because fried chicken is so delicious. He also recommended KFC.</p>
+
 <p>We went back to the hotel room with our chicken, fries, and soda. We ate, finished unpacking, and went to bed.</p>
+
 <p>There is nothing like that first night of jet lag to give you a good sleep. We slept about 10 hours - all of it wonderful.</p>
+
 <p>We had decided that tomorrow would be all about Kent.</p>

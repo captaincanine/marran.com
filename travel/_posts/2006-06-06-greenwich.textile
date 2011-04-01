@@ -3,7 +3,7 @@ layout: post
 title: Greenwich
 series: 
   name: London & Kent
-  index: 10
+  index: 5
 redirects: 
 - /node/615
 - /personal/travel/england/greenwich

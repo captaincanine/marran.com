@@ -3,7 +3,7 @@ layout: post
 title: Canterbury
 series: 
   name: London & Kent
-  index: 8
+  index: 3
 redirects: 
 - /node/612
 - /personal/travel/england/canterbury

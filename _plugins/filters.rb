@@ -24,26 +24,6 @@ module Jekyll
 		def format_teaser_image(p)			
 			url = p['thumbnail'] ? p['thumbnail'] : p
 		end
-      
-      def next_in_series(siteseries, info)
-
-			n = siteseries[info['name']].find { |x| x.data['series']['index'] > info['index'] }
-			
-			if n
-				output = "<div class=\"next-box\">"
-				output << "<div class=\"help\">This post is part of a series called...</div>"
-				output << "<div class=\"series-title\">#{info['name']}</div>"
-				output << "<div class=\"help\">The next in the series is...</div>"
-				output << "<div class=\"series-item\">"
-				output << "<div class=\"title\"><a href=\"#{n.url}\">#{n.data['title']}</a></div>"
-				output << "<div class=\"info\">#{n.data['description']}</div>"
-				output << "<div class=\"next-link\"><a href=\"#{n.url}\">Read the next post in the series >></a></div>"
-				output << "</div>"
-				output << "</div>"
-				
-			end
-
-      end
 	
 	end
 
