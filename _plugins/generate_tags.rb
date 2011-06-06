@@ -1,15 +1,15 @@
 # Jekyll tag page generator.
-# http://recursive-design.com/projects/jekyll-plugins/
+# http://recursive-design.com/projects/Jekyll-plugins/
 #
 # Version: 0.1.3 (201101061053)
 #
 # Copyright (c) 2010 Dave Perrett, http://recursive-design.com/
 # Licensed under the MIT license (http://www.opensource.org/licenses/mit-license.php)
 #
-# A generator that creates tag pages for jekyll sites. 
+# A generator that creates tag pages for Jekyll sites. 
 #
 # To use it, simply drop this script into the _plugins directory of your Jekyll site. You should 
-# also create a file called 'tag_index.html' in the _layouts directory of your jekyll site 
+# also create a file called 'tag_index.html' in the _layouts directory of your Jekyll site 
 # with the following contents (note: you should remove the leading '# ' characters):
 #
 # ================================== COPY BELOW THIS LINE ==================================
@@ -30,7 +30,7 @@
 # You can alter the _layout_ setting if you wish to use an alternate layout, and obviously you
 # can change the HTML above as you see fit. 
 #
-# When you compile your jekyll site, this plugin will loop through the list of tags in your 
+# When you compile your Jekyll site, this plugin will loop through the list of tags in your 
 # site, and use the layout above to generate a page for each one with a list of links to the 
 # individual posts.
 #
@@ -111,7 +111,7 @@ module Jekyll
   end
   
   
-  # Jekyll hook - the generate method is called by jekyll, and generates all of the tag pages.
+  # Jekyll hook - the generate method is called by Jekyll, and generates all of the tag pages.
   class GenerateTags < Generator
     safe true
     priority :low
@@ -135,36 +135,32 @@ module Jekyll
     #
     # Returns string
     def tag_links(tags)
-      tags = tags.sort!.map do |item|
+      tags.sort!.map do |item|
         ' <a href="/tags/' + Site.slugify(item) + '/" class="tag-link">#'+item+'</a> '
       end
-      
-		"#{tags}"
     end
 	
-	def tag_cloud(tags)
+	  def tag_cloud(tags)
 	
-		maxFontSize = 300
-		minFontSize = 80
-	
-		html = String.new	
-		
-		tags = tags.sort {|a,b| a[0].downcase <=> b[0].downcase }
-		biggest_item = tags.max { |x,y| x[1].size <=> y[1].size }
-		smallest_item = tags.min { |x,y| x[1].size <=> y[1].size }
-		
-		tags.each do | key, val |
+      maxFontSize = 300
+      minFontSize = 80
+      
+      html = String.new	
+      
+      tags = tags.sort {|a,b| a[0].downcase <=> b[0].downcase }
+      biggest_item = tags.max { |x,y| x[1].size <=> y[1].size }
+      smallest_item = tags.min { |x,y| x[1].size <=> y[1].size }
+      
+      tags.each do | key, val |    
+        weight = (Math.log(val.length)-Math.log(smallest_item[1].size))/(Math.log(biggest_item[1].size)-Math.log(smallest_item[1].size));
+        font_size = minFontSize + ((maxFontSize-minFontSize) * weight).round;
+        html << '<a href="/tags/' + Site.slugify(key) + '/" title="Pages tagged ' + key + '" style="font-size: ' + font_size.to_s + '%" rel=\"tag\">' + key + '</a> '
+      end
+      
+      html
+    
+    end
 
-			weight = (Math.log(val.length)-Math.log(smallest_item[1].size))/(Math.log(biggest_item[1].size)-Math.log(smallest_item[1].size));
-			font_size = minFontSize + ((maxFontSize-minFontSize) * weight).round;
-
-			html << '<a href="/tags/' + Site.slugify(key) + '/" title="Pages tagged ' + key + '" style="font-size: ' + font_size.to_s + '%" rel=\"tag\">' + key + '</a> '
-
-		end
-
-		html
- 
-	end    
   end
   
 end

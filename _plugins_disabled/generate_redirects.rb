@@ -24,7 +24,7 @@ module Jekyll
     
   end
 
-  # Jekyll hook - the generate method is called by jekyll, and generates all of the redirect pages.
+  # Jekyll hook - the generate method is called by Jekyll, and generates all of the redirect pages.
   class GenerateRedirects < Generator
   
 		safe true

@@ -1,6 +1,15 @@
 module Jekyll
 
   module Filters
+  
+    def fetch_content_from(url)
+    
+      require 'open-uri'
+    
+      # open-uri RDoc: http://stdlib.rubyonrails.org/libdoc/open-uri/rdoc/index.html
+      open(url) { |f| return f.read }
+    
+    end
 	
     def time_ago(date)
       "<script>document.write($.timeago(\"#{date.strftime('%m-%d-%y')}\"))</script>"
