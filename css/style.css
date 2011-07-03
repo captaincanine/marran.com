@@ -398,6 +398,12 @@ code { background: #EEE; border: 1px solid #ddd; font-family: monospace }
 pre code  { background: none; border: none; }
 
 
+/* COMMENTS */
+
+.dsq-autheneticate-copy,
+#dsq-content .dsq-options   { display: none !important; }
+
+
 /* MISCELLANEOUS */
 
 

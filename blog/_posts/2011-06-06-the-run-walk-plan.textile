@@ -37,4 +37,4 @@ The other thing I like about this plan is that allows for two days of weight lif
 
 Here's another Spartacus image for motivation:
 
-<img src="http://i195.photobucket.com/albums/z101/tottyland/hum/spartacus1x03--18.jpg" width="600">
+<div class="post-image"><a href="http://i195.photobucket.com/albums/z101/tottyland/hum/spartacus1x03--18.jpg" rel="shadowbox" class="popupwindow"><img src="http://i195.photobucket.com/albums/z101/tottyland/hum/spartacus1x03--18.jpg" width="600"></a></div>
