@@ -1,15 +1,13 @@
 --- 
 layout: post
 title: "Private: Notes for issue #1 revision"
+redirects: 
+- /node/375
+- /creative/private-notes-issue-1-revision
 tags: 
 - creative
 - Guinea Pigs
-description: |-
-  The goal is to make this sell-able or pitch-able. Therefore, ew need to stop stepping around the edges of things. Don't let things unfold slowly, bang it into place. The goal of any good horror movie is to show that the interactions of the characters is the true horror.
-  <ul>
-  	<li>Rename it "The Guinea Pigs"</li>
-  	<li>Start and end it with Dr. Lamont watching outside of the NYU building. We have to know that this is a controlled experiment from the very beginning.</li>
-  	<li>Possibly show the drug deal to Peter's friend at some point. Perhaps at the beginning, perhaps at the very end.</li>
+description: The goal is to make this sell-able or pitch-able. Therefore, ew need to stop stepping around the edges of things. Don't let things unfold slowly, bang it into place. The goal of any good horror movie is to show that the interactions of the characters is the true horror.	Rename it "The Guinea Pigs"	Start and end it with Dr. Lamont watching outside of the NYU building. We have to know that this is a controlled experiment from the very beginning.	Possibly show the drug deal to Peter's friend at some point. Perhaps at the beginning, perhaps at the very end.
 ---
 The goal is to make this sell-able or pitch-able. Therefore, ew need to stop stepping around the edges of things. Don't let things unfold slowly, bang it into place. The goal of any good horror movie is to show that the interactions of the characters is the true horror.
 <ul>

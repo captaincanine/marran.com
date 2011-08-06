@@ -1,0 +1,49 @@
+---
+layout: post
+title: Make Your Own Neat-O QR Code
+tags: 
+- qr
+- design
+- creativity
+- technology
+description: QR codes have slowly been gaining popularity in the past year. I had often seen QR codes on signs that had a creative element to them such as a logo in the middle and I wondered how they did it. Very easily, actually.
+images:
+- /images/content/qr-teaser-big.png
+---
+QR codes are those little blocks of black and white that you see on posters nowadays. They are like a modern-day UPC symbol, except for the fact that they are designed to produce letters instead of numbers. Anyone with a QR reader app on their phone can scan a QR code and get the information embedded in the code. To scan it, you simple point your phone's camera at the code. The QR app recognizes the code and tells you the text embedded in the code. The information is usually a URL, but people have been using them to give out interesting information. For instance:
+
+* You meet someone at a function and he or she gives you a business card with a QR code on it. You scan the code with your phone, and your phone takes you to a vcard of the person you just met so their contact info goes right into your address book.
+* You go to a museum and the artwork has QR codes next to the title of the piece. Scanning the code takes you to a page describing the artwork and the artist.
+* Musicians can post QR codes around town or on promotional materials. Scanning the code takes the user to an audio file to sample the music.
+* And it doesn't have to be a URL. It can be any text. Secret phrases, directions, anything. 
+
+What fascinated me about QR codes of late is that people were starting to embed images into the code. For instance, the QR code for BBC has their logo in the center, like so:
+
+!/images/content/qr-bbc.png!
+
+The idea that math and art had converged to make this highly technical code fascinated me. It turns out, the answer isn't all that hard. 
+
+QR codes were designed to allow a fair amount of error correction. So if part of the image is garbled, you can still determine the embedded code. Companies that are using interesting QR codes are making use of that and essentially throwing out part of the image and replacing it with their own design. 
+
+I decided to try this myself and the process was pretty easy. I started by going to "uQR.me":uqr.me as a site that was recommended for making your own QR codes. It's fine, but I wanted to be in control. All the QR codes made at uQR.me lead back to their servers and I wanted a solution that took the user to my site directly.
+
+Google will create QR codes for you online, so I started by going to the "Google's Chart Tools:  Infographics":http://code.google.com/apis/chart/infographics/docs/qr_codes.html page. 
+
+You should also read the "Wikipedia entry on QR codes":http://en.wikipedia.org/wiki/QR_codes, because it explains what parts of the code you can alter and which parts you can't. In general, you're safe in the center.
+
+If you want to skip to the fun part, this is the URL I used to create a QR code that points to my home page: 
+
+"https://chart.googleapis.com/chart?cht=qr&chs=300x300&chld=H&chl=http://www.marran.com":https://chart.googleapis.com/chart?cht=qr&chs=300x300&chld=H&chl=http://www.marran.com. 
+
+If you want to make your own, replace the "http://www.marran.com" with the text that you want for your own QR code. 
+
+The important part about this URL is that is specifies the highest possible setting for error correction. That means that, in theory, I could lose 30% of the QR code and a reader will still be able to determine the embedded code.
+
+Once, I had the code, I copied the image into Illustrator so that I could turn it into a vector image. You could use Photoshop as well, but vector images make more sense to me for this kind of work. I used Live Trace in Illustrator to convert it to a vector. Start with the "Black and White" settings, set "Path Fitting" to zero and "Corner Angle" to 90. Then, if you're feeling persnickety, run the result through "Simplify" and you'll end up with a very clean and blocky QR code. 
+
+I took my logo and placed it in the center of the image. I blocked some white space around the logo and scanned the code with my iPhone (using the app "Barcodes" – which is free). It scanned perfectly! I decided to roughen up the edges a bit and everything still scanned like a charm. Here's the final result:
+
+!/images/content/qr-simple.png!
+
+At some point, I'd like to have a particular QR code that takes users to a page on my site specially formatted for mobile phones, where they can download a vcard or connect to any of my social links. Or perhaps I'll start leaving anonymous messages in QR codes around Manhattan.
+

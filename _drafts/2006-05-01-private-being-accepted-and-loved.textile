@@ -1,6 +1,9 @@
 --- 
 layout: post
 title: "Private: Being Accepted and Loved"
+redirects: 
+- /node/377
+- /creative/private-being-accepted-and-loved
 tags: 
 - creative
 - writing

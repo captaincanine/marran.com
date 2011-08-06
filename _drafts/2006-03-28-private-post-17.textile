@@ -1,6 +1,9 @@
 --- 
 layout: post
 title: "Private: Post #17"
+redirects: 
+- /node/371
+- /personal/blog/dreams/private-post-17
 tags: 
 - dreams
 description: Two sets of dreams last night, all around the theme of terrorism. The first dream was set in a high school type setting. Someone was going to blow up a school or office. I vaguely remember thinking that they were trying to get Jason from D&P to set off the bomb, and I felt better knowing that he wouldn't give in to demands. However, they tortured him and he gave in. For some reason it was going to be up to me to set off the bomb. I think Jason was coming after me to force it to go off.
