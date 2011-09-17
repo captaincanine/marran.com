@@ -5,6 +5,8 @@ tags:
 - Indochina
 description: The start of our trip through Indochina began with Laos. I knew next to nothing about Laos before we got there other than the fact that a good friend had recommended it. The country is known as a vacation spot to locals, but it is largely off the tourist path.
 photoset: 72157627499799807
+images:
+  - thumbnail: http://farm7.static.flickr.com/6068/6126932037_8e33b7cc00_m.jpg
 ---
 <iframe width="560" height="345" src="http://www.youtube.com/embed/o6u-_sV2vG0" frameborder="0" allowfullscreen></iframe>
 

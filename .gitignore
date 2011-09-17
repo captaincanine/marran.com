@@ -5,3 +5,4 @@ tasks/
 files/
 _config.yml
 _cache/
+.DS_Store
