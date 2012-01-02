@@ -1,0 +1,318 @@
+<html>
+
+<head>
+
+<title>Workout Timer</title>
+
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+
+<link href='http://fonts.googleapis.com/css?family=Wallpoet' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="http://www.marran.com/js/jquery-1.4.4.min.js"></script>
+
+<script type="application/x-javascript"> 
+     
+   addEventListener("load", function() 
+   { 
+   setTimeout(updateLayout, 0); 
+   }, false); 
+   
+   var currentWidth = 0; 
+   
+   function updateLayout() 
+   { 
+   if (window.innerWidth != currentWidth) 
+   { 
+   currentWidth = window.innerWidth; 
+   
+   var orient = currentWidth == 320 ? "profile" : "landscape"; 
+   document.body.setAttribute("orient", orient); 
+   setTimeout(function() 
+   { 
+   window.scrollTo(0, 1); 
+   }, 100); 
+   } 
+   } 
+   
+   setInterval(updateLayout, 100); 
+   
+ </script> 
+
+<style>
+
+
+html, body { height: 100%; margin: 0; }
+#content { min-height: 100%; height: auto !important; height: 100%; margin: 0 auto -40px; }
+#footer, #push { height: 40px; }
+
+body          { font-family: 'Trebuchet MS', sans-serif; font-weight: bold; padding: 10px 20px; margin: 0; background: #ccc; height: 100%; }
+small         { font-size: 24px; font-weight: normal; }
+
+#timer        { font-size: 120px; line-heigh: 90px; font-family: 'Wallpoet', sans-serif; font-weight: normal; }
+#message      { font-size: 24px; }
+#buttons      { padding: 12px 0; }
+
+#starters     { padding: 12px 0; }
+.start-link   { text-decoration: underline; color: blue; padding-left: 100px; }
+
+</style>
+
+</head>
+
+<body class="in-timer">
+
+  <div id="content">
+  
+    <div id="timer">00:00</div>
+    <div id="message">Let's Go!</div>
+  
+    <div id="starters">
+      <div style="float: left;">Start here: </div>
+      <div class="start-link" workout="GladiatorOne">Gladiator One</div>
+      <div class="start-link" workout="GladiatorTwo">Gladiator Two</div>
+      <div class="start-link" workout="Test">Test</div>
+    </div>
+  
+    <div id="buttons" style="display: none;">
+      <img id="reverse" src="images/icons/player_rew-48.png" class="action-button" />
+      <img id="pause" src="images/icons/player_pause-48.png" class="action-button" paused="false" />
+      <img id="forward" src="images/icons/player_fwd-48.png" class="action-button" />
+    </div>
+
+    <div id="push"></div>
+
+  </div>
+  
+  <div id="footer"></div>
+  
+</body>
+
+
+<script>
+
+var timer;
+var timeStarted;
+var secondsRemaining;
+var currentTime;
+var currentWorkout;
+var currentExercise = 0;
+var currentTimeline;
+
+$(document).ready(function() {
+
+  $('#reverse').click(function() {
+    clearInterval(timer);
+    currentExercise--;
+    startTimer(currentTimeline[currentExercise].message, currentTimeline[currentExercise].seconds, currentTimeline[currentExercise].background);    
+  });
+
+  $('#forward').click(function() {
+    clearInterval(timer);
+    currentExercise++;
+    startTimer(currentTimeline[currentExercise].message, currentTimeline[currentExercise].seconds, currentTimeline[currentExercise].background);    
+  });
+
+  $('#pause').click(function() {
+    if ($(this).attr('paused') == 'true') {
+      $(this).attr('paused', 'false');
+      $(this).attr('src', 'images/icons/player_pause-48.png');
+      timeStarted = new Date();
+      secondsRemaining = (currentTime.getMinutes() * 60) + currentTime.getSeconds();
+      timer = setInterval("countTimer()", 500);
+    } else {
+      $(this).attr('paused', 'true');
+      $(this).attr('src', 'images/icons/player_play-48.png');
+      clearInterval(timer);
+    }
+  });
+
+  $('.start-link').click(function () {
+    $('#starters').hide();
+    startWorkout($(this).attr('workout'));
+  });
+
+});
+
+function startWorkout(workout) {
+
+  eval("init" + workout + "()");
+  initTimeline();
+
+  currentTime = new Date(currentTimeline[0].seconds * 1000);
+  
+  $('#buttons').show();
+  $('#pause').attr('paused', 'true').attr('src', 'images/icons/player_play-48.png');
+  $('#timer').text(currentTime.getMinutes().toLeadingString() + ":" + currentTime.getSeconds().toLeadingString());
+  $('#message').html(currentTimeline[0].message);
+  $('body').css('background-color', currentTimeline[0].background);
+
+}
+
+function timerEnded() {
+
+  if (currentExercise < currentTimeline.length - 1) {
+    currentExercise++;
+    startTimer(currentTimeline[currentExercise].message, currentTimeline[currentExercise].seconds, currentTimeline[currentExercise].background);
+  } else {
+    $('#timer').text("DONE!");
+    $('#message').text("Congrats!");
+    $('body').css('background-color', "#FC0");
+  }
+}
+
+function startTimer(msg, seconds, background) {
+
+  if (msg) $('#message').html(msg);
+  if (background) $('body').css('background-color', background);
+  
+  timeStarted = new Date();
+  secondsRemaining = seconds;
+  timer = setInterval("countTimer()", 100);
+
+}
+
+function countTimer() {
+
+  secondsElapsed = Math.floor((new Date() - timeStarted) / 1000);
+
+  if (secondsElapsed > secondsRemaining) {
+    
+    clearInterval(timer);
+    timerEnded();
+    
+  } else {
+
+    currentTime = new Date((secondsRemaining - secondsElapsed) * 1000);
+    $('#timer').text(currentTime.getMinutes().toLeadingString() + ":" + currentTime.getSeconds().toLeadingString());
+
+  }
+
+}
+
+
+function initTest() {
+
+  currentWorkout = new Object();
+  currentWorkout.rounds = 2;
+  currentWorkout.breakSeconds = 3;
+  currentWorkout.restSeconds = 3;
+  currentWorkout.workSeconds = 3;
+  currentWorkout.warmupSeconds = 3;
+
+  currentWorkout.exercises = [
+    "Burpees",
+    "High Knee Runs"
+  ];
+
+}
+
+
+function initGladiatorOne() {
+
+  currentWorkout = new Object();
+  currentWorkout.rounds = 2;
+  currentWorkout.breakSeconds = 120;
+  currentWorkout.restSeconds = 15;
+  currentWorkout.workSeconds = 45;
+  currentWorkout.warmupSeconds = 5;
+
+  currentWorkout.exercises = [
+    "Burpees",
+    "High Knee Runs",
+    "Dumbbell Pushup Rows",
+    "Exploding Jumping Jacks",
+    "Split Squat Dumbbell Presses",
+    "Bicycles",
+    "Side Lunge to Dumbbell Curls",
+    "Skater Plyos",
+    "Dumbbell Balance Touch to Side Raises",
+    "Cross Body Mountain Climbers"
+  ];
+
+}
+
+function initGladiatorTwo() {
+
+  currentWorkout = new Object();
+  currentWorkout.rounds = 3;
+  currentWorkout.breakSeconds = 120;
+  currentWorkout.restSeconds = 15;
+  currentWorkout.workSeconds = 45;
+  currentWorkout.warmupSeconds = 5;
+
+  currentWorkout.exercises = [
+    "Dumbbell Hang Pull",
+    "Offset Dumbbell Reverse Lunge",
+    "1-Arm Dumbbell Swing",
+    "Squat Presses",
+    "Dumbbell Pushup Rows",
+    "Dumbbell Chop",
+    "Plank to Pushup",
+    "Dumbbell Single Leg Deadlift",
+    "Burpees",
+    "Exploding Jumping Jacks"
+  ];
+
+}
+
+function initTimeline() {
+
+  currentExercise = 0;
+  currentTimeline = new Array();
+  
+  for (r = 0; r < currentWorkout.rounds; r++ ) {
+  
+    if (r == 0) {
+  
+      var warmupTime = new Object();
+      warmupTime.message = "<small>next up: </small>" + currentWorkout.exercises[0];
+      warmupTime.seconds = currentWorkout.warmupSeconds;
+      warmupTime.background = '#09C';
+      currentTimeline.push(warmupTime);      
+    
+    } else {
+    
+      var restTime = new Object();
+      restTime.message = "<small>next up: </small>" + currentWorkout.exercises[0];
+      restTime.seconds = currentWorkout.breakSeconds;
+      restTime.background = '#09C';
+      currentTimeline.push(restTime);  
+    
+    }
+  
+    for (i = 0; i < currentWorkout.exercises.length; i++) {
+    
+      var workTime = new Object();
+      workTime.message = currentWorkout.exercises[i];
+      workTime.seconds = currentWorkout.workSeconds;
+      workTime.background = '#090';
+      currentTimeline.push(workTime);
+      
+      if (i < currentWorkout.exercises.length - 1) {
+        var restTime = new Object();
+        restTime.message = "<small>next up: </small>" + currentWorkout.exercises[i + 1];
+        restTime.seconds = currentWorkout.restSeconds;
+        restTime.background = '#09C';
+        currentTimeline.push(restTime);
+      }
+    
+    }
+    
+  }
+
+}
+
+Number.prototype.toLeadingString = function() {
+
+  if (this.toString().length == 1)
+    return '0' + this.toString();
+  else
+    return this.toString();
+
+}
+
+</script>
+
+
+</html>

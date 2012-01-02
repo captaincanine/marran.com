@@ -1,0 +1,61 @@
+--- 
+id: 790499637_10150451664579638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: We passed this bag and jewelery store in Hanoi. I don't think they knew what they were saying when they put this on their store window.
+picture: http://photos-e.ak.fbcdn.net/hphotos-ak-ash4/317211_10150451664549638_790499637_11000574_433092161_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150451664549638&set=a.229486624637.178410.790499637&type=1
+name: Wall Photos
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yk/r/3hBLgN5GxNc.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150451664579638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150451664579638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: photo
+object_id: "10150451664549638"
+application: 
+  name: Aperture Uploader
+  id: "101622214608"
+created_time: 2011-09-21T10:11:26+0000
+updated_time: 2011-09-21T20:09:04+0000
+likes: 
+  data: 
+  - name: Tina Purdy
+    id: "100001119760877"
+  - name: Lisa Hart Garpestad
+    id: "762164473"
+  - name: Jill Phillips Eikanas
+    id: "1007087445"
+  - name: Andrea Miklasz
+    id: "629554115"
+  count: 8
+comments: 
+  data: 
+  - id: 790499637_10150451664579638_6836861
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: LOL!  Did you go in Keith??  :)
+    created_time: 2011-09-21T16:42:21+0000
+  - id: 790499637_10150451664579638_6838001
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: We didn't go in. I didn't even notice what they were selling - I was so busy trying to get a photo.
+    created_time: 2011-09-21T20:09:04+0000
+    likes: 1
+  count: 6
+layout: facebook-photo
+title: Wednesday, Sep 21, 2011 - 06:11AM
+description: We passed this bag and jewelery store in Hanoi. I don't think they knew what they were saying when they put this on their store window.
+date: 2011-09-21 06:11:26 -04:00
+
+---
+We passed this bag and jewelery store in Hanoi. I don't think they knew what they were saying when they put this on their store window.

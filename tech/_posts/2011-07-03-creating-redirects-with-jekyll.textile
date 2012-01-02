@@ -1,0 +1,106 @@
+---
+layout: post
+title: Creating Redirects with Jekyll
+tags: 
+- Jekyll
+- Ruby
+description: One of my big hurdles in moving to Jekyll was making sure that people that stumbled across old URLs for my site would get to the new content. Creating redirects in Jekyll turned out to be a snap.
+redirects:
+- /keiths/redirect/works
+- /or-this-one
+---
+One of my big hurdles in moving to Jekyll was making sure that people that stumbled across old URLs for my site would get to the new content. Creating redirects in Jekyll turned out to be a snap.
+
+I had moved my site from Drupal. Their URL alias system is extensive (and cumbersome), and I really didn't want to lose all the good SEO I had on my old site. Google can take forever to crawl a dinky little site like mine – I'm not high on their list of priorities – so I was not looking forward to all those old URLs generating 404 errors. I made the redirect system part of my core requirements for a Jekyll relaunch.
+
+There is some code based on redirects in the Drupal migrator, but it wasn't quite what I wanted. It creates multiple source files which live in your source folder forever. Considering that Drupal's URLs are quite messy, my source directory became unmanageable from all the junk directories and files that got created for the redirect files. 
+
+Instead of creating redirect files in the my source directory, what I wanted was to attribute redirect properties to a post. So a post would always have it's primary permalink URL, but it could also have multiple redirect URLs that lead the user back to the main permalink URL. That way, the redirect pages are created in the destination directory – not in the source directory.
+
+Here's an example of what you would see in the YAML for a post that has redirects:
+
+{% highlight text %}
+layout: post
+title: Creating Redirects with Jekyll
+redirects:
+- /keiths/redirect/works
+- /or-use-this-one
+{% endhighlight %}
+
+Next, I added a property to my @_config.yml@ file to turn redirects on or off.
+
+{% highlight text %}
+redirects: yes
+{% endhighlight %}
+
+Then I created a template in my @_layouts@ directory called @redirect.html@. This is the file that is created for each redirect property of a post. 
+
+This page redirects a browser without any delay, but you could also create a page that instructs the user that the content has moved and to update their links. Note that the page.source_url code is the Jekyll permalink URL for the content. In other words, the place we want the user to end up.
+
+{% highlight html %}{% literal %}
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="0;url={{ page.source_url }}" />
+</head>
+</html>
+{% endliteral %}{% endhighlight %}
+
+And finally, I created the following file in my @_plugins@ directory:
+
+{% highlight ruby %}
+module Jekyll
+
+  # The redirect page creates a simple page that refreshes a user from a URL alias to an existing post.
+  # Redirects are only generated if there is a "redirects" parameter _config.yml
+  
+  class Redirects < Generator
+    
+    safe true
+    priority :low
+
+    # only process redirects if it's set in the config file
+    def generate(site)    
+      generate_redirects(site) if (site.config['redirects'])    
+    end
+
+    # find all posts with a redirect property and create a new page for each entry    
+    def generate_redirects(site)
+      site.posts.select{|x| x.data.key? 'redirects' }.each do |p|
+        p.data['redirects'].each do |r| 
+          redirect = RedirectPage.new(site, site.source, r, p.id)
+          redirect.render(site.layouts, site.site_payload)
+          redirect.write(site.dest)
+          site.pages << redirect
+        end     
+      end
+    end
+
+  end
+
+  # a class for generating the redirect pages.
+  class RedirectPage < Page
+    
+    def initialize(site, base, path, destination)
+    
+      @site = site
+      @base = base
+      @dir  = path
+      @name = 'index.html'
+      self.process(@name)
+      
+      # Read the YAML data from the layout page.
+      self.read_yaml(File.join(base, '_layouts'), 'redirect.html')
+      self.data['source_url'] = destination
+      
+    end
+    
+  end
+  
+end
+{% endhighlight %}
+
+I think writing this code was the place where I truly fell in love with Jekyll. I thought about all the other systems I had worked on in which writing redirect functionality would have taken a lot longer. There would have been database migrations, programming front ends to accept multiple redirect values, and finally the redirect code itself. Implementing this in Jekyll was so damn clear and direct. It would have been my preference to handle the redirect with HTTP, but that's a small price to pay in my opinion.
+
+You can test this out by going to "http://www.marran.com/keiths/redirect/works":http://www.marran.com/keiths/redirect/works or "http://www.marran.com/or-this-one":http://www.marran.com/or-this-one. Your browser should end up back at this page. If I ever want to add a redirect to a post, I just add it to the YAML.

@@ -1,0 +1,48 @@
+--- 
+id: 790499637_135304033214460
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Wow. This story continues its slow sink into awfulness.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDkAH-7mEx7A6-B&w=90&h=90&url=http%3A%2F%2Ffastcache.gawkerassets.com%2Fassets%2Fimages%2F7%2F2011%2F06%2Ffb_0608_weinerbaby.jpg
+link: http://gawker.com/5810072/anthony-weiners-wife-is-pregnant
+name: Anthony Weiner's Wife Is Pregnant
+caption: gawker.com
+description: Wow. This story continues its slow sink into awfulness.
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/135304033214460
+- name: Like
+  link: http://www.facebook.com/790499637/posts/135304033214460
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+created_time: 2011-06-08T22:31:41+0000
+updated_time: 2011-06-08T22:35:25+0000
+comments: 
+  data: 
+  - id: 790499637_135304033214460_658636
+    from: 
+      name: Ivan Davidson
+      id: "1407227803"
+    message: That's going to be one long faced kid!!!   Probably both physically and emotionally.
+    created_time: 2011-06-08T22:35:08+0000
+  - id: 790499637_135304033214460_658637
+    from: 
+      name: Sarah Livingston Moore
+      id: "607352676"
+    message: It's like watching a train wreck in slow motion.
+    created_time: 2011-06-08T22:35:25+0000
+    likes: 1
+  count: 2
+layout: facebook-link
+title: Wednesday, Jun  8, 2011 - 06:31PM
+date: 2011-06-08 18:31:41 -04:00
+
+---
+Wow. This story continues its slow sink into awfulness.

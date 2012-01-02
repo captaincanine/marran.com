@@ -1,0 +1,62 @@
+--- 
+id: 790499637_10150415940794638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: David Getting Fitted for a Custom Suit.
+picture: http://photos-h.ak.fbcdn.net/hphotos-ak-ash4/305970_10150415940759638_790499637_10735191_1856632_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150415940759638&set=a.490588709637.298813.790499637&type=1
+name: Mobile Uploads
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yx/r/og8V99JVf8G.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150415940794638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150415940794638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: photo
+object_id: "10150415940759638"
+application: 
+  name: Facebook for iPhone
+  id: "6628568379"
+created_time: 2011-08-25T11:24:13+0000
+updated_time: 2011-08-25T11:49:50+0000
+likes: 
+  data: 
+  - name: Jono Jarrett
+    id: "1343303598"
+  - name: John F. Duckett
+    id: "567340649"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_10150415940794638_6638575
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: wow! when we went there, we were fitted in a tiny, run down looking room filled floor to ceiling with fabrics, cardboard and a tiny sewing machine wedged in a corner. Interesting to go back and see the difference from13 yrs ago. looks great
+    created_time: 2011-08-25T11:32:04+0000
+  - id: 790499637_10150415940794638_6638594
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Yes, it was a big deal. They even made David take off his shirt in the middle of the store so they could take photos.
+    created_time: 2011-08-25T11:37:30+0000
+  - id: 790499637_10150415940794638_6638639
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: Oof!
+    created_time: 2011-08-25T11:49:50+0000
+  count: 3
+layout: facebook-photo
+title: Thursday, Aug 25, 2011 - 07:24AM
+description: David Getting Fitted for a Custom Suit.
+date: 2011-08-25 07:24:13 -04:00
+
+---
+David Getting Fitted for a Custom Suit.

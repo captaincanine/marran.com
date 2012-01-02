@@ -1,0 +1,51 @@
+--- 
+id: 790499637_333569296669598
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Okay. That's it. After stories of tormenting temporary employees with heat exhaustion and now attempts to drive local business into the ground, I am done with Amazon. They have crossed the line into evil a few too many times.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBb-uwT6c9_EU0N&w=90&h=90&url=http%3A%2F%2Fcache.gawker.com%2Fassets%2Fimages%2F7%2F2011%2F12%2Ffb_fd7d7112cb31915ca7cd580b7a73605a.jpg
+link: http://gawker.com/5865612/amazon-launches-christmas-attack-on-local-shops
+name: Amazon Launches Christmas Attack on Local Shops
+caption: gawker.com
+description: Okay. That's it. After stories of tormenting temporary employees with heat exhaustion and now attempts to drive local business into the ground, I am done with Amazon. They have crossed the line into evil a few too many times.
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/333569296669598
+- name: Like
+  link: http://www.facebook.com/790499637/posts/333569296669598
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2011-12-06T20:54:36+0000
+updated_time: 2011-12-06T22:23:45+0000
+comments: 
+  data: 
+  - id: 790499637_333569296669598_4930922
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: Seriously?  I would much rather support my local Mom and Pop shop and pay a few dollars more, then to help out scumbags like these guys!
+    created_time: 2011-12-06T21:31:27+0000
+  - id: 790499637_333569296669598_4931024
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: This after I have spent almost all of my Christmas shopping time at amazon.
+    created_time: 2011-12-06T21:52:48+0000
+  - id: 790499637_333569296669598_4931181
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: I'm with Sandra!  Which is also why I drive PAST Walmart to a locally-owned grocery store!
+    created_time: 2011-12-06T22:23:45+0000
+    likes: 1
+  count: 3
+layout: facebook-link
+title: Tuesday, Dec  6, 2011 - 03:54PM
+date: 2011-12-06 15:54:36 -05:00
+
+---
+Okay. That's it. After stories of tormenting temporary employees with heat exhaustion and now attempts to drive local business into the ground, I am done with Amazon. They have crossed the line into evil a few too many times.

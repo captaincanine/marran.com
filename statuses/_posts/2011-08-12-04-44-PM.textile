@@ -1,0 +1,52 @@
+--- 
+id: 790499637_10150402454639638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Just saw the best production of Romeo & Juliet I think I'll ever see.
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=78190e39c3037ed782b9ba35c7b007b4&src=https%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.767208%2F-73.96567%2Fmap.png
+link: https://foursquare.com/user/90473/checkin/4e4590c4227128e1e8bf44ab?s=C0QPIz65SSqYGtxkxvl4vuuwkR8&ref=fb
+name: Royal Shakespeare Company @ The Park Avenue Armory
+caption: Keith just checked in @ Royal Shakespeare Company @ The Park Avenue Armory (New York)
+description: Just saw the best production of Romeo & Juliet I think I'll ever see.
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc1/v43/138/86734274142/app_2_86734274142_2300.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150402454639638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150402454639638
+- name: Keith on foursquare
+  link: https://foursquare.com/user/90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Foursquare
+  id: "86734274142"
+created_time: 2011-08-12T20:44:53+0000
+updated_time: 2011-08-12T20:57:35+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Peter Von Brown
+    id: "1128953787"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_10150402454639638_20646891
+    from: 
+      name: Ivan Davidson
+      id: "1407227803"
+    message: Really like the RSC.  Saw every thing they did the year + that I lived in London.  All excellent producions.  didn't always buy the interpretation (esp. Lear) but the productions were always stunning and captivating.
+    created_time: 2011-08-12T20:57:35+0000
+  count: 1
+layout: facebook-link
+title: Friday, Aug 12, 2011 - 04:44PM
+date: 2011-08-12 16:44:53 -04:00
+
+---
+Just saw the best production of Romeo & Juliet I think I'll ever see.

@@ -1,0 +1,54 @@
+--- 
+id: 790499637_170678103006019
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just stumbled upon this clip from the movie Performance. What the hell? Why have I never heard of this movie before?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAZ8cqxF6wMQqHX&w=130&h=130&url=http%3A%2F%2Fi1.ytimg.com%2Fvi%2FT3qgmVb4-kU%2Fdefault.jpg
+link: http://www.youtube.com/watch?v=T3qgmVb4-kU&feature=share
+source: http://www.youtube.com/v/T3qgmVb4-kU?version=3&autohide=1&autoplay=1
+name: Mick Jagger - Memo From Turner
+caption: www.youtube.com
+description: I just stumbled upon this clip from the movie Performance. What the hell? Why have I never heard of this movie before?
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/170678103006019
+- name: Like
+  link: http://www.facebook.com/790499637/posts/170678103006019
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+created_time: 2011-07-31T11:41:48+0000
+updated_time: 2011-08-01T03:20:39+0000
+comments: 
+  data: 
+  - id: 790499637_170678103006019_1443793
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: I never saw it either, but it's s'posed to be great. Nicholas Roeg (Don't Look Now) co-directed it...
+    created_time: 2011-07-31T15:27:02+0000
+  - id: 790499637_170678103006019_1444370
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Great video and great song.  IMHO, iffy movie.  I mean, an awesome and telling time-capsule to be sure.  but kind of clunky and hard to watch.  Well, it's been a while.  I should watch it again before I express too strong of an opinion.
+    created_time: 2011-07-31T18:35:19+0000
+  - id: 790499637_170678103006019_1446324
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: I love that song!
+    created_time: 2011-08-01T03:20:39+0000
+  count: 3
+layout: facebook-video
+title: Sunday, Jul 31, 2011 - 07:41AM
+date: 2011-07-31 07:41:48 -04:00
+
+---
+I just stumbled upon this clip from the movie Performance. What the hell? Why have I never heard of this movie before?

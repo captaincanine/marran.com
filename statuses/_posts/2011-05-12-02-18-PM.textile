@@ -1,0 +1,41 @@
+--- 
+id: 790499637_10150296411544638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Is it just me or does everyone else see pictures of people holding giant fish in their Facebook advertising?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150296411544638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150296411544638
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-05-12T18:18:38+0000
+updated_time: 2011-05-14T18:28:23+0000
+comments: 
+  data: 
+  - id: 790499637_10150296411544638_18263995
+    from: 
+      name: Thomas Rogers
+      id: "538628386"
+    message: At least it is not the ad that I get all the time for some dental service that references my alma mater and shows people that I've never seen before.
+    created_time: 2011-05-12T21:24:58+0000
+  - id: 790499637_10150296411544638_18311738
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: OK... now that fish thing is making me nuts.
+    created_time: 2011-05-14T18:28:23+0000
+  count: 5
+layout: facebook-status
+title: Thursday, May 12, 2011 - 02:18PM
+description: Is it just me or does everyone else see pictures of people holding giant fish in their Facebook advertising?
+date: 2011-05-12 14:18:38 -04:00
+
+---
+Is it just me or does everyone else see pictures of people holding giant fish in their Facebook advertising?

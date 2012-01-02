@@ -1,0 +1,36 @@
+--- 
+id: 790499637_10150422005629638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Last full day of touring before the long trek home. In many ways, we saved the best for last. Angkor Watt is stunning.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150422005629638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150422005629638
+privacy: 
+  description: Public
+  value: EVERYONE
+  allow: "0"
+  deny: "0"
+type: status
+created_time: 2011-08-31T02:03:46+0000
+updated_time: 2011-08-31T02:30:05+0000
+comments: 
+  data: 
+  - id: 790499637_10150422005629638_21137431
+    from: 
+      name: Matthew Shields
+      id: "729111833"
+    message: "Absolutely amazing, such an organized culture, well before many others! \n\
+      Hope the weather has been kind. "
+    created_time: 2011-08-31T02:30:05+0000
+  count: 1
+layout: facebook-status
+title: Tuesday, Aug 30, 2011 - 10:03PM
+description: Last full day of touring before the long trek home. In many ways, we saved the best for last. Angkor Watt is stunning.
+date: 2011-08-30 22:03:46 -04:00
+
+---
+Last full day of touring before the long trek home. In many ways, we saved the best for last. Angkor Watt is stunning.

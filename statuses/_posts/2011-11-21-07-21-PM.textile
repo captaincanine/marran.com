@@ -1,0 +1,44 @@
+--- 
+id: 790499637_169791053117865
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: So...I was going to post a link to Os Mutantes "Vida de Cachorro", because the world does not have enough Os Mutantes playing. I stumbled across this video which does not show off the song, but YANKED my hearts strings out. Now I'm off to smothering Gogo and Oz in hugs.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDP73DBEr0wykpi&w=130&h=130&url=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FV7KSnq2J4Z0%2Fhqdefault.jpg
+link: http://www.youtube.com/watch?v=V7KSnq2J4Z0&feature=related
+source: http://www.youtube.com/v/V7KSnq2J4Z0?version=3&autohide=1&autoplay=1
+name: Vida de Cachorro
+caption: www.youtube.com
+description: So...I was going to post a link to Os Mutantes "Vida de Cachorro", because the world does not have enough Os Mutantes playing. I stumbled across this video which does not show off the song, but YANKED my hearts strings out. Now I'm off to smothering Gogo and Oz in hugs.
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/169791053117865
+- name: Like
+  link: http://www.facebook.com/790499637/posts/169791053117865
+privacy: 
+  description: Public
+  value: EVERYONE
+type: video
+created_time: 2011-11-22T00:21:55+0000
+updated_time: 2011-11-22T02:24:57+0000
+likes: 
+  data: 
+  - name: Rosemary Feneziani
+    id: "573541002"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_169791053117865_618020
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: oh keith.....how beautiful. Off to smother my bubs now x
+    created_time: 2011-11-22T02:24:57+0000
+  count: 1
+layout: facebook-video
+title: Monday, Nov 21, 2011 - 07:21PM
+date: 2011-11-21 19:21:55 -05:00
+
+---
+So...I was going to post a link to Os Mutantes "Vida de Cachorro", because the world does not have enough Os Mutantes playing. I stumbled across this video which does not show off the song, but YANKED my hearts strings out. Now I'm off to smothering Gogo and Oz in hugs.

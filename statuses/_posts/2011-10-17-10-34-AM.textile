@@ -1,0 +1,47 @@
+--- 
+id: 790499637_266600373378754
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Just in case you had forgotten how cool Dusty Springfield is, or how awesome this song is...
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQC7-PDeuiDM_7bE&w=130&h=130&url=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FJQ6nJxD4z34%2Fdefault.jpg
+link: http://www.youtube.com/watch?v=JQ6nJxD4z34
+source: http://www.youtube.com/v/JQ6nJxD4z34?version=3&autohide=1&autoplay=1
+name: Dusty Springfield - 24 Hours From Tulsa (Great 1967 clip, Aussie TV)
+caption: www.youtube.com
+description: Just in case you had forgotten how cool Dusty Springfield is, or how awesome this song is...
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/266600373378754
+- name: Like
+  link: http://www.facebook.com/790499637/posts/266600373378754
+privacy: 
+  description: Public
+  value: EVERYONE
+type: video
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2011-10-17T14:34:33+0000
+updated_time: 2011-10-18T04:02:22+0000
+likes: 
+  data: 
+  - name: Matthew Shields
+    id: "729111833"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_266600373378754_3605789
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: I only knew that in the first place because of you, Keith. Thanks for the reminder!
+    created_time: 2011-10-18T04:02:22+0000
+  count: 1
+layout: facebook-video
+title: Monday, Oct 17, 2011 - 10:34AM
+date: 2011-10-17 10:34:33 -04:00
+
+---
+Just in case you had forgotten how cool Dusty Springfield is, or how awesome this song is...

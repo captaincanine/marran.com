@@ -1,0 +1,46 @@
+--- 
+id: 790499637_10150394181799638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Why am I posting on Facebook so much today? Well, I filled out my visas for Vietnam and Cambodia this morning. My attention is now bicycling through Vietnam, waiting for my body to catch up.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150394181799638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150394181799638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-08-04T19:06:01+0000
+updated_time: 2011-08-05T17:29:22+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Robert Lucas
+    id: "100000816082478"
+  - name: Brian Erickson
+    id: "1439074587"
+  - name: Sandra MacLeod
+    id: "1265114452"
+  count: 6
+comments: 
+  data: 
+  - id: 790499637_10150394181799638_20461300
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Enjoy your trip!!  Exciting!!  :-)
+    created_time: 2011-08-05T17:29:22+0000
+  count: 3
+layout: facebook-status
+title: Thursday, Aug  4, 2011 - 03:06PM
+description: Why am I posting on Facebook so much today? Well, I filled out my visas for Vietnam and Cambodia this morning. My attention is now bicycling through Vietnam, waiting for my body to catch up.
+date: 2011-08-04 15:06:01 -04:00
+
+---
+Why am I posting on Facebook so much today? Well, I filled out my visas for Vietnam and Cambodia this morning. My attention is now bicycling through Vietnam, waiting for my body to catch up.

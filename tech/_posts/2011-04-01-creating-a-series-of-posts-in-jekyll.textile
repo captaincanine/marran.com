@@ -1,0 +1,145 @@
+---
+layout: post
+title: Creating a Sequential Series of Posts in Jekyll
+tags: 
+- Jekyll
+- Ruby
+- Liquid
+description: One of the features that I needed to add to Jekyll was the ability to easily group a collection of posts as a series. This entry describes how to add that functionality.
+---
+One of the features that I needed to add to Jekyll was the ability to easily group a collection of posts as a series. There are times when I need to link posts together in sequential order – like a travelog, for instance. I want a table of contents in the sidebar to let the user know that they're in the middle of a series and I want a link at the bottom to encourage the user to go to the next post in the series.
+
+By default, Jekyll creates @next@ and @previous@ properties that link a post to the next post in the site. That doesn't work for me because posts don't really have anything to do with each other most of the time. But I like the properties, so I decided to override how they work.
+
+To create a table of contents, I added a new property to posts called @siblings@. This property is a hash of all the other posts in the series.
+
+To easily denote that a post is part of a series, enter something like the following into the post's YAML front matter:
+
+{% highlight text %}
+series:
+  name:   Name of Series Goes Here
+  index:  1
+{% endhighlight %}
+
+The name attribute is an arbitrary string to group posts into a
+series. The index attribute describes where the current post lives in
+relation to its siblings.
+
+For the code, create a file in the @_plugins@ directory and name it @series.rb@. We're going to monkeypatch posts, so create a @Post@ class. Give it an attribute of @series@:
+
+{% highlight ruby %}
+module Jekyll
+
+  class Post
+  
+    attr_accessor :series
+  
+  end
+
+end
+{% endhighlight %}
+
+The first thing we want to do is override the @initialize@ method so that we can assign any series data to the object itself. We still want to call the original initialize method, so we alias it from the main @Post@ class, and then redefine it. This method calls the main initialize method, then assigns series data to the object if it finds it in the YAML front matter.
+
+{% highlight ruby %}
+alias series_initialize initialize
+def initialize(site, source, dir, name)      
+  series_initialize site, source, dir, name
+  self.series = { :name => self.data['series']['name'], :index => self.data['series']['index'].to_i } if self.data['series']
+end
+{% endhighlight %}
+
+Next, we want to define a new method for getting the sibling data. Create a method that loops through the posts and selects only the ones that have a matching series name. Be sure to sort them by their index so that they are in the correct order.
+
+{% highlight ruby %}
+def siblings
+  posts = self.site.posts.select { |p| p.series && p.series[:name] == self.series[:name] }
+  posts.sort_by { |p| p.series[:index] }
+end
+{% endhighlight %}
+
+Then, to make sure that the @next@ and @previous@ attributes work as expected, we override the functionality of those functions to pull the next and previous posts in the series.
+
+{% highlight ruby %}
+alias series_next next
+def next
+
+  if self.series
+    posts = self.siblings.select { |p| p.series[:index] > self.series[:index] }
+    return posts.first
+  else
+    series_next
+  end
+
+end
+
+alias series_previous previous
+def previous
+
+  if self.data['series']
+    posts = self.siblings.select { |p| p.series[:index] < self.series[:index] }
+    return posts.last
+  else
+    series_previous
+  end
+
+end
+{% endhighlight %}
+
+And finally, we override the @to_liquid@ method to add the series data if it exists.
+
+{% highlight ruby %}
+alias series_to_liquid to_liquid
+def to_liquid
+  if self.series
+    series_to_liquid.deep_merge({ "siblings" => self.siblings })
+  else
+    series_to_liquid
+  end
+end
+{% endhighlight %}
+
+To see the whole code, go to the "project on Github":https://github.com/pelosi/marran.com/blob/master/_plugins/series.rb.
+
+To use the code in a template, you can reference the @next@ and @previous@ properties of the page like this:
+
+{% highlight html %}{% literal %}
+{% if page.series and page.next %}
+
+  <div class="next-box">
+    <div class="help">This post is part of a series called...</div>
+    <div class="series-title">{{ page.series.name }}</div>
+    <div class="help">The next in the series is...</div>
+    <div class="series-item">
+      <div class="title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
+      <div class="info">{{ page.next.description }}</div>
+      <div class="next-link"><a href="{{ page.next.url }}">Read the next post in the series >></a></div>
+    </div>
+  </div>
+
+{% endif %}
+{% endliteral %}{% endhighlight %}
+
+If you want to create a table of contents showing all the items in the series, use something like this in the templates:
+
+{% highlight html %}{% literal %}
+{% if page.series %}
+
+<div class="info">This post is part of a series called...</div>
+<div class="title">{{ page.series.name }}</div>
+										
+{% for sibling in page.siblings %}
+  {% if sibling.id == page.id %}
+  <div class="series-item current">
+    <div class="title">{{ sibling.title }}</div>
+  </div>
+  {% else %}
+  <div class="series-item">
+    <div class="title"><a href="{{ sibling.url }}">{{ sibling.title }}</a></div>
+    <div class="info">{{ sibling.description }}</div>
+  </div>
+  {% endif %}							
+{% endfor %}
+					
+{% endif %}	
+{% endliteral %}{% endhighlight %}

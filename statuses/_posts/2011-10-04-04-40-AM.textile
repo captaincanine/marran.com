@@ -1,0 +1,42 @@
+--- 
+id: 790499637_200412503360897
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Ugh. The Government is voting to allow themselves to start harassing your cell phone. "
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCdsHxnxLZdTxzA&w=90&h=90&url=http%3A%2F%2Fstoppoliticalcalls.org%2Fht%2Fa%2FGetImageAction%2Fi%2F217
+link: http://stoppoliticalcalls.org/ht/d/sp/i/301145/pid/301145
+name: Stop Political Robocalls
+caption: stoppoliticalcalls.org
+description: "Ugh. The Government is voting to allow themselves to start harassing your cell phone. "
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yR/r/23eNFy_VOig.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/200412503360897
+- name: Like
+  link: http://www.facebook.com/790499637/posts/200412503360897
+privacy: 
+  description: Public
+  value: EVERYONE
+  allow: "0"
+  deny: "0"
+type: link
+application: 
+created_time: 2011-10-04T08:40:03+0000
+updated_time: 2011-10-04T09:39:27+0000
+comments: 
+  data: 
+  - id: 790499637_200412503360897_1731356
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Move to RI. No one cares about our votes. We hardly get any political commercials either!
+    created_time: 2011-10-04T09:39:27+0000
+    likes: 2
+  count: 1
+layout: facebook-link
+title: Tuesday, Oct  4, 2011 - 04:40AM
+date: 2011-10-04 04:40:03 -04:00
+
+---
+Ugh. The Government is voting to allow themselves to start harassing your cell phone. 

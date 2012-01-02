@@ -1,0 +1,43 @@
+--- 
+id: 790499637_10150535843444638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: An NBC news anchor just said "Silvio BERSC-A-LONI" - and she said it TWICE. As a news anchor, is this the first time she's seen the name "Berlusconi"? Has she not had ample opportunity to figure out how to pronounce it? (This is me being a grumpy old internet man.)
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150535843444638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150535843444638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2011-11-13T13:10:15+0000
+updated_time: 2011-11-13T15:52:08+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Cerelle Centeno
+    id: "723168856"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 3
+comments: 
+  data: 
+  - id: 790499637_10150535843444638_22889173
+    from: 
+      name: Tommaso Lesnick
+      id: "523791546"
+    message: "In a world of nuke-ular, mar-scapone, and brue-shetta, can we really be surprised? That is egregious tho, esp given the profession. "
+    created_time: 2011-11-13T15:52:08+0000
+    likes: 1
+  count: 1
+layout: facebook-status
+title: Sunday, Nov 13, 2011 - 08:10AM
+description: An NBC news anchor just said "Silvio BERSC-A-LONI" - and she said it TWICE. As a news anchor, is this the first time she's seen the name "Berlusconi"? Has she not had ample opportunity to figure out how to pronounce it? (This is me being a grumpy old internet man.)
+date: 2011-11-13 08:10:15 -05:00
+
+---
+An NBC news anchor just said "Silvio BERSC-A-LONI" - and she said it TWICE. As a news anchor, is this the first time she's seen the name "Berlusconi"? Has she not had ample opportunity to figure out how to pronounce it? (This is me being a grumpy old internet man.)

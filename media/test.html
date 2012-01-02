@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="/js/jquery-1.4.4.min.js"></script>
+  <script src="/js/mediaelement/mediaelement-and-player.min.js"></script>
+  <link rel="stylesheet" href="/js/mediaelement/mediaelementplayer.css" />
+</head>
+<body>
+
+  <audio src="/files/memo.mp3" type="audio/mp3" controls="controls"></audio> 
+  <video src="/files/img_0075.3gp" type="video/mp4" controls="controls" width="400" height="270"></audio> 
+
+  <script type="text/javascript">
+  // jQuery method
+  $('audio,video').mediaelementplayer({enableAutosize: true});
+  </script>
+
+</body>
+</html>

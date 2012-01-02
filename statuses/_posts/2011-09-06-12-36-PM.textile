@@ -1,0 +1,40 @@
+--- 
+id: 790499637_10150429477809638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: They're playing all Barry White today during lunch.
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=0b97116fd02785e7fe9eb6e9be30fb43&src=https%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.73928685792001%2F-73.99239420890808%2Fmap.png
+link: https://foursquare.com/user/90473/checkin/4e664bfcd22d509a3b3f57cf?s=nS2HkmiLuYE_8q5u0GLGFallln4&ref=fb
+name: Uncle Moe's
+caption: Keith just checked in @ Uncle Moe's (New York, NY)
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc1/v43/138/86734274142/app_2_86734274142_2300.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150429477809638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150429477809638
+- name: Keith on foursquare
+  link: https://foursquare.com/user/90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Foursquare
+  canvas_name: playfoursquare
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2011-09-06T16:36:18+0000
+updated_time: 2011-09-06T16:36:18+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Tuesday, Sep  6, 2011 - 12:36PM
+description: They're playing all Barry White today during lunch.
+date: 2011-09-06 12:36:18 -04:00
+
+---
+They're playing all Barry White today during lunch.

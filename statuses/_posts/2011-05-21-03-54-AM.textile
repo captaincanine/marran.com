@@ -1,0 +1,49 @@
+--- 
+id: 790499637_10150308117324638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: While in a Confucian temple in China, a man rushed up to me to show me a video of a rodeo on his phone. He said "Spanish. Good."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150308117324638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150308117324638
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Facebook for iPhone
+  id: "6628568379"
+created_time: 2011-05-21T07:54:14+0000
+updated_time: 2011-05-24T01:22:22+0000
+likes: 
+  data: 
+  - name: Cor Kalkman
+    id: "100000143812901"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150308117324638_18493894
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: "Here's your airplane reading home. HIGHLY recommend: http://www.newyorker.com/reporting/2011/04/18/110418fa_fact_osnos?currentPage=all"
+    created_time: 2011-05-21T12:06:00+0000
+  - id: 790499637_10150308117324638_18560472
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: That article is very...sad. It's sad that they can't see beyond themselves to experience another culture. However, going to Xian was like going to Scottsdale, AZ. Malls EVERYWHERE. The middle class is thriving. I think Western culture is invading China at an alarming rate. It's only a matter of time.
+    created_time: 2011-05-24T01:22:22+0000
+  count: 2
+layout: facebook-status
+title: Saturday, May 21, 2011 - 03:54AM
+description: While in a Confucian temple in China, a man rushed up to me to show me a video of a rodeo on his phone. He said "Spanish. Good."
+date: 2011-05-21 03:54:14 -04:00
+
+---
+While in a Confucian temple in China, a man rushed up to me to show me a video of a rodeo on his phone. He said "Spanish. Good."

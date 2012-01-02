@@ -1,0 +1,52 @@
+--- 
+id: 790499637_111492415606642
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: If the producers wanted to make their money back, they should have retooled Spider-Man to be a musical about the MAKING of Spider-Man. You can use the same set and costumes, the same music, and cast people as Julie Taymor, Bono, and a producer or two. You can keep all the stunts, but add a bit or two where actors fall off the set and injure themselves. It would be the world's first Post-Modern Broadway experience! Th
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCE3LXZAjn83LNo&w=90&h=90&url=http%3A%2F%2Ffastcache.gawkerassets.com%2Fassets%2Fimages%2F7%2F2011%2F06%2Ffb_0615_spidermannew_01.jpg
+link: http://gawker.com/5812192/the-spider+man-musical-is-still-pretty-bad-btw
+name: The Spider-Man Musical Is Still Pretty Bad, BTW
+caption: gawker.com
+description: If the producers wanted to make their money back, they should have retooled Spider-Man to be a musical about the MAKING of Spider-Man. You can use the same set and costumes, the same music, and cast people as Julie Taymor, Bono, and a producer or two. You can keep all the stunts, but add a bit or two where actors fall off the set and injure themselves. It would be the world's first Post-Modern Broadway experience! Th
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/111492415606642
+- name: Like
+  link: http://www.facebook.com/790499637/posts/111492415606642
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+created_time: 2011-06-15T17:34:58+0000
+updated_time: 2011-06-15T17:38:48+0000
+likes: 
+  data: 
+  - name: Thomas Rogers
+    id: "538628386"
+  - name: Melissa Agar
+    id: "530351528"
+  - name: Thomas Sproat
+    id: "573477249"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_111492415606642_122260
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Hear hear!  (or is it "Here here!"?  Either way, well thought, Keith!)
+    created_time: 2011-06-15T17:38:48+0000
+  count: 1
+layout: facebook-link
+title: Wednesday, Jun 15, 2011 - 01:34PM
+date: 2011-06-15 13:34:58 -04:00
+
+---
+If the producers wanted to make their money back, they should have retooled Spider-Man to be a musical about the MAKING of Spider-Man. You can use the same set and costumes, the same music, and cast people as Julie Taymor, Bono, and a producer or two. You can keep all the stunts, but add a bit or two where actors fall off the set and injure themselves. It would be the world's first Post-Modern Broadway experience! Th

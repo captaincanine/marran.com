@@ -1,0 +1,42 @@
+--- 
+id: 790499637_100961283356976
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "More internet silliness. "
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDe2tBfQbSmNCzO&w=130&h=130&url=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FCYbVpAwGGGs%2Fhqdefault.jpg
+link: http://www.youtube.com/watch?v=CYbVpAwGGGs&feature=share
+source: http://www.youtube.com/v/CYbVpAwGGGs?version=3&autohide=1&autoplay=1
+name: BLACK FRIDAY SHOPPING PRANK!
+caption: www.youtube.com
+description: "More internet silliness. "
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/100961283356976
+- name: Like
+  link: http://www.facebook.com/790499637/posts/100961283356976
+privacy: 
+  description: Public
+  value: EVERYONE
+type: video
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2011-12-02T21:55:38+0000
+updated_time: 2011-12-02T22:24:47+0000
+comments: 
+  data: 
+  - id: 790499637_100961283356976_3009
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: I just love that they can't stop laughing. And that the female employer just sternly goes with it.
+    created_time: 2011-12-02T22:24:47+0000
+  count: 1
+layout: facebook-video
+title: Friday, Dec  2, 2011 - 04:55PM
+date: 2011-12-02 16:55:38 -05:00
+
+---
+More internet silliness. 

@@ -1,0 +1,40 @@
+--- 
+id: 790499637_10150423291999638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Yes, I'm looking forward to being home - seeing my dogs, my friends, my house ...being able to eat fresh salads again without fear of getting sick. But part of me is pouting. I have never been so spoiled in my life as the past 2.5 weeks. I feel like a kid on the last day of summer.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150423291999638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150423291999638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Mobile
+  id: "2915120374"
+created_time: 2011-09-01T08:33:52+0000
+updated_time: 2011-09-01T08:33:52+0000
+likes: 
+  data: 
+  - name: Thomas Rogers
+    id: "538628386"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Matthew Shields
+    id: "729111833"
+  count: 5
+comments: 
+  count: 0
+layout: facebook-status
+title: Thursday, Sep  1, 2011 - 04:33AM
+description: Yes, I'm looking forward to being home - seeing my dogs, my friends, my house ...being able to eat fresh salads again without fear of getting sick. But part of me is pouting. I have never been so spoiled in my life as the past 2.5 weeks. I feel like a kid on the last day of summer.
+date: 2011-09-01 04:33:52 -04:00
+
+---
+Yes, I'm looking forward to being home - seeing my dogs, my friends, my house ...being able to eat fresh salads again without fear of getting sick. But part of me is pouting. I have never been so spoiled in my life as the past 2.5 weeks. I feel like a kid on the last day of summer.

@@ -1,0 +1,51 @@
+--- 
+id: 790499637_212717182134378
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just found out that magenta is not a natural color. It's inorganic. It's downright UNHOLY!
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBBZ3D0CdyibDUg&w=90&h=90&url=http%3A%2F%2Fwww.biotele.com%2Fmagenta_files%2F2007_02_09_ProfProbing_MagentaSpectrum.jpg
+link: http://www.biotele.com/magenta.html
+name: Magenta Ain't A Colour
+caption: www.biotele.com
+description: I just found out that magenta is not a natural color. It's inorganic. It's downright UNHOLY!
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/212717182134378
+- name: Like
+  link: http://www.facebook.com/790499637/posts/212717182134378
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2011-11-01T14:34:47+0000
+updated_time: 2011-11-01T15:40:09+0000
+likes: 
+  data: 
+  - name: Granville Eric Miller
+    id: "689920456"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_212717182134378_1873748
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: http://www.youtube.com/watch?v=5R05uvTBBzo
+    created_time: 2011-11-01T14:46:18+0000
+    likes: 1
+  - id: 790499637_212717182134378_1873955
+    from: 
+      name: Andrew Uhlenhopp
+      id: "615837841"
+    message: Magenta is the devil's playground my friend. Steer clear.
+    created_time: 2011-11-01T15:40:09+0000
+    likes: 1
+  count: 2
+layout: facebook-link
+title: Tuesday, Nov  1, 2011 - 10:34AM
+date: 2011-11-01 10:34:47 -04:00
+
+---
+I just found out that magenta is not a natural color. It's inorganic. It's downright UNHOLY!

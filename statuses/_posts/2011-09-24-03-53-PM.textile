@@ -1,0 +1,33 @@
+--- 
+id: 790499637_10150456911684638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I know I'm a little late on this, but... Community didn't even get nominated for an Emmy? Did the judges not see the Paintball finale? Because that was one of the most amazing things I've seen on television.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150456911684638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150456911684638
+privacy: 
+  description: Public
+  value: EVERYONE
+  allow: "0"
+  deny: "0"
+type: status
+created_time: 2011-09-24T19:53:58+0000
+updated_time: 2011-09-24T19:53:58+0000
+likes: 
+  data: 
+  - name: Melissa Agar
+    id: "530351528"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-status
+title: Saturday, Sep 24, 2011 - 03:53PM
+description: I know I'm a little late on this, but... Community didn't even get nominated for an Emmy? Did the judges not see the Paintball finale? Because that was one of the most amazing things I've seen on television.
+date: 2011-09-24 15:53:58 -04:00
+
+---
+I know I'm a little late on this, but... Community didn't even get nominated for an Emmy? Did the judges not see the Paintball finale? Because that was one of the most amazing things I've seen on television.
