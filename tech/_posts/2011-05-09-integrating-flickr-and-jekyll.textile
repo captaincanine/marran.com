@@ -1,0 +1,239 @@
+---
+layout: post
+title: Integrating Flickr and Jekyll
+tags: 
+- Jekyll
+- Flickr
+- Ruby
+- Liquid
+description: I've created a jekyll plugin to easily import photosets from my Flickr account into posts. In this article I walk-through the code and integration.
+---
+I love Flickr and use it regularly for posting and storing photos. And if I post something to Flickr, I usually want to have a post about it on my website. Copying all the photos to my site in a way that I like is tedious, so I created a plug-in that extracts the photo data from Flickr and gives it to Jekyll. 
+
+In this post, I walk through the steps for getting authenticated with Flickr and writing a plug-in to show that data in my templates.
+
+h3. Step One: Getting a Flickr API Key
+
+Luckily, the first step is the easiest. It involves logging into Flickr and getting an API key. Follow steps 1 and 2 in this guide: "http://www.flickr.com/services/api/auth.howto.web.html":http://www.flickr.com/services/api/auth.howto.web.html.
+
+Be sure to write down the API key and the shared secret that you get from Flickr. You will need them for the next step.
+
+h3. Step Two: Creating a Flickr Authentication Token
+
+When I was first looking to authenticate myself with Flickr, I kept finding examples that assume that you are building a website for all sorts of people to authenticate with Flickr. I didn't need all that. I only needed to authenticate myself one-time.  
+
+The simplest method that I found for using Flickr with Jekyll is "FlickRaw":http://hanklords.github.com/flickraw/, an awesome gem that gives easy access to the Flickr API.
+
+Go to the "FlickRaw":http://hanklords.github.com/flickraw/ page and follow the instructions for installation (run @gem install flickraw@). Use irb and follow the instructions on the FlickRaw page for authentication. Be sure to use your own API key and shared secret that you generated in step one. 
+
+At the end of the authentication steps, if all goes well, the code will return to you a Response object. In that response is a @token@ attribute with your auth token. Copy that down. 
+
+Put the following information in your @_config.yml@ file.
+
+{% highlight ruby %}
+flickr:
+  enabled:         yes
+  cache_dir:       ./_cache/flickr
+  api_key:         ... your Flickr API key ...
+  shared_secret:   ... your Flickr shared secret ...
+  auth_token:      ... your Flickr auth token ...
+{% endhighlight %}
+
+h3. Step Three: The Flickr plugin
+
+Now it's time to create the Jekyll plugin. Create a file in your @_plugins@ directory and call it @flickr.rb@. Copy in the following code:
+
+{% highlight ruby %}
+require 'flickraw'
+
+module Jekyll
+  
+  class GeneratePhotosets < Generator
+
+    safe true
+    priority :low
+
+    def generate(site)
+    end
+    
+    def generate_photosets(site)
+    end
+
+    def load_photos(photoset, site)
+    end
+
+    def generate_photo_data(photoset, site)
+    end
+  
+  end
+  
+  class FlickrPhoto
+  end
+
+end
+{% endhighlight %}
+
+I'll go through each of the functions one at a time.
+
+Since the class @GeneratePhotosets@ is a subclass of @Generator@, we need to have our own @generate@ function. The only thing this function does is to make sure that Flickr processing is enabled and start the process. Here's the code:
+
+{% highlight ruby %}
+def generate(site)
+  generate_photosets(site) if (site.config['flickr']['enabled']) 
+end
+{% endhighlight %}
+
+Next, we find any posts that have a @photoset@ parameter in their YAML front matter and process the photoset. 
+
+{% highlight ruby %}
+def generate_photosets(site)
+  site.posts.each do |p|
+    p.data['photos'] = load_photos(p.data['photoset'], site) if p.data['photoset']
+  end
+end
+{% endhighlight %}
+
+Calling Flickr every time we need information of photosets and photos can be a very time-consuming process. I've implemented a basic cache so that Jekyll doesn't have to make all of these calls to Flickr every time it generates the site. To clear the cache, delete the files in your cache directory. I use @./_cache/flickr@ as a default. It stores the information coming back from Flickr as an unformatted YAML file. 
+
+The results are placed into a @photos@ collection for each post. The templates handle the rendering of photos. This plugin is only getting data from Flickr for photo URLs, titles, sizes, etc.
+
+{% highlight ruby %}
+def load_photos(photoset, site)
+
+  if cache_dir = site.config['flickr']['cache_dir']
+    path = File.join(cache_dir, "#{Digest::MD5.hexdigest(photoset.to_s)}.yml")
+    if File.exist?(path)
+      photos = YAML::load(File.read(path))
+    else
+      photos = generate_photo_data(photoset, site)
+      File.open(path, 'w') {|f| f.print(YAML::dump(photos)) }
+    end
+  else
+    photos = generate_photo_data(photoset, site)
+  end
+
+  photos
+
+end
+{% endhighlight %}
+
+The next function is the meat of the Flickr processing. It gets information about a photoset and then loops through the photos in that set to get information about photos. 
+
+Flickr stores all different sizes of photos, so you have to make a decision about what sizes you need in your site. I decided that I wanted the largest size available under 1200 pixels wide. I also want the square version of the image and the "Small" version. For each of these versions, I store the URL of the photo. 
+
+{% highlight ruby %}
+def generate_photo_data(photoset, site)
+  
+  returnSet = Array.new 
+
+  FlickRaw.api_key = site.config['flickr']['api_key']
+  FlickRaw.shared_secret = site.config['flickr']['shared_secret']
+  
+  auth = flickr.auth.checkToken :auth_token => site.config['flickr']['auth_token']
+  
+  photos = flickr.photosets.getPhotos :photoset_id => photoset
+  
+  photos.photo.each_index do | i |
+  
+    title = photos.photo[i].title
+    id = photos.photo[i].id
+    fullSizeUrl = String.new
+    urlThumb = String.new
+    urlFull = String.new
+    thumbType = String.new
+      
+    sizes = flickr.photos.getSizes(:photo_id => id).to_a
+    sizes.each do | s |
+    
+      if s.width.to_i < 1200
+        urlFull = s.source
+      end
+      
+      if s.label == 'Small' && i < 3
+        urlThumb = s.source
+        thumbType = 'thumbnail'
+      end
+      
+      if s.label == 'Square' && i >= 3
+        urlThumb = s.source
+        thumbType = 'square'
+      end
+    
+    end
+
+    photo = FlickrPhoto.new(title, urlFull, urlThumb, thumbType)
+    returnSet.push photo
+  
+  end
+  
+  #sleep a little so that you don't get in trouble for bombarding the Flickr servers
+  sleep 1
+  
+  returnSet
+
+end
+{% endhighlight %}
+
+And here's the class that I'm using to store the photo data. It has a @to_liquid@ function to determine what values get passed to the templates.
+
+{% highlight ruby %}
+class FlickrPhoto
+
+  attr_accessor :title, :urlFullSize, :urlThumbnail, :thumbType
+  
+  def initialize(title, urlFullSize, urlThumbnail, thumbType)
+    @title = title
+    @urlFullSize = urlFullSize
+    @urlThumbnail = urlThumbnail
+    @thumbType = thumbType
+  end
+  
+  def to_liquid
+    {
+      'title' => title,
+      'urlFullSize' => urlFullSize,
+      'urlThumbnail' => urlThumbnail,
+      'thumbType' => thumbType
+    }
+    
+  end
+
+end
+{% endhighlight %}
+
+If all this code is working, you should be getting a collection of photos in each post. The next step is to render that photo data in your templates. 
+
+h3. Step Four: Create Templates
+
+On my site, I show all the photos in a particular Flickr photoset in the sidebar. It's connected to "Shadowbox":http://www.shadowbox-js.com/ which gives a nice experience to my users to browse through the photos. 
+
+Here's a scaled-down version of the code in my templates:
+
+{% highlight html %}{% literal %}
+{% if page.photoset %}
+
+  <div class="box">
+    <div class="box-title title clearfix">
+      <div class="left">Photos!</div>
+      <div class="right"><a href="http://www.flickr.com/photos/keith-marran/sets/{{ page.photoset }}/" target="_blank" title="View on Flickr"><img src="/images/icons/hand_drawn_flickr.png" alt="View on Flickr" /></a></div>
+    </div>
+    <div class="photo-thumbs">
+    {% for photo in page.photos %}
+      <a href="{{ photo.urlFullSize }}" title="{{ photo.title }}" rel="shadowbox[slideshow]" class="popupwindow" /><img src="{{ photo.urlThumbnail }}" alt="{{ photo.title }}" class="{{ photo.thumbType }}" /></a>
+    {% endfor %}
+    </div>
+  </div>
+{% endif %} 
+{% endliteral %}{% endhighlight %}
+
+Notice that the image that shows to the user is the thumbnail, but the href in the anchor tag is to the full size image. That's how Shadowbox works so that the page loads nice and fast by using just the thumbnails, but when a user clicks on the thumbnail, they see the full size image.
+
+h3. Step Five: Creating Posts
+
+With all of that in place, it's very easy for me to create a new post that references one of my Flickr photosets. I copy the photoset ID out of the url from Flickr and place this in the YAML front matter for the post:
+
+{% highlight text %}
+photoset: 72157625943484513
+{% endhighlight %}
+
+If you have ideas for other ways to integrate Jekyll with Flickr, I'd love to hear about them.

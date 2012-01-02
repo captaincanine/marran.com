@@ -1,0 +1,51 @@
+--- 
+id: 790499637_10150306159624638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: After 4 wonderful days in Xian, I am on a train to Pingyao. O.M.G. The rainbow of disgusting smells as I walked through the terminal was enough to make mentors curl.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150306159624638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150306159624638
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Facebook for iPhone
+  id: "6628568379"
+created_time: 2011-05-19T14:41:08+0000
+updated_time: 2011-05-19T18:23:33+0000
+likes: 
+  data: 
+  - name: Charlotte Andersson
+    id: "577154539"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150306159624638_18446633
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: Miss ya guys! Glad you're having a good time.
+    created_time: 2011-05-19T17:48:00+0000
+  - id: 790499637_10150306159624638_18447466
+    from: 
+      name: Charlotte Andersson
+      id: "577154539"
+    message: |-
+      Isn't just so wonderful!  :-)  Enjoy!!
+      (And I mean your trip in general, not the array of exciting new smells...)
+    created_time: 2011-05-19T18:23:33+0000
+  count: 9
+layout: facebook-status
+title: Thursday, May 19, 2011 - 10:41AM
+description: After 4 wonderful days in Xian, I am on a train to Pingyao. O.M.G. The rainbow of disgusting smells as I walked through the terminal was enough to make mentors curl.
+date: 2011-05-19 10:41:08 -04:00
+
+---
+After 4 wonderful days in Xian, I am on a train to Pingyao. O.M.G. The rainbow of disgusting smells as I walked through the terminal was enough to make mentors curl.

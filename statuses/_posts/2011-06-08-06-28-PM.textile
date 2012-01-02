@@ -1,0 +1,48 @@
+--- 
+id: 790499637_10150328539334638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I think once the heat wave is over in NYC, we'll most likely have two weeks of rain and dreariness. God likes to make New Yorkers complain.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150328539334638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150328539334638
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-06-08T22:28:49+0000
+updated_time: 2011-06-09T02:21:37+0000
+likes: 
+  data: 
+  - name: Eileen O'Donnell
+    id: "667235678"
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_10150328539334638_18967921
+    from: 
+      name: Tina Purdy
+      id: "100001119760877"
+    message: At least you got a heat wave.  We're still waiting for spring here in frosty grave.
+    created_time: 2011-06-09T02:12:19+0000
+  - id: 790499637_10150328539334638_18968156
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: what i would do right now to experience a NYC heat wave *sigh*
+    created_time: 2011-06-09T02:21:37+0000
+  count: 2
+layout: facebook-status
+title: Wednesday, Jun  8, 2011 - 06:28PM
+description: I think once the heat wave is over in NYC, we'll most likely have two weeks of rain and dreariness. God likes to make New Yorkers complain.
+date: 2011-06-08 18:28:49 -04:00
+
+---
+I think once the heat wave is over in NYC, we'll most likely have two weeks of rain and dreariness. God likes to make New Yorkers complain.

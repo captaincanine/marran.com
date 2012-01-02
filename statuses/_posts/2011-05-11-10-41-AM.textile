@@ -1,0 +1,40 @@
+--- 
+id: 790499637_184672638251216
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Just thought this needed to be spread around...
+picture: http://external.ak.fbcdn.net/safe_image.php?d=89de0176bdbffec726d79e74448cbfd8&w=130&h=130&url=http%3A%2F%2Fi1.ytimg.com%2Fvi%2F0zAwFwkXYDE%2Fdefault.jpg
+link: http://www.youtube.com/watch?v=0zAwFwkXYDE
+source: http://www.youtube.com/v/0zAwFwkXYDE?version=3&autohide=1&autoplay=1
+name: Vintage Weight Watchers ad w/Lynn Redgrave, 1987
+caption: www.youtube.com
+description: Just thought this needed to be spread around...
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/184672638251216
+- name: Like
+  link: http://www.facebook.com/790499637/posts/184672638251216
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2011-05-11T14:41:34+0000
+updated_time: 2011-05-11T14:41:34+0000
+likes: 
+  data: 
+  - name: Debbie Glass
+    id: "1613911702"
+  count: 1
+layout: facebook-video
+title: Wednesday, May 11, 2011 - 10:41AM
+date: 2011-05-11 10:41:34 -04:00
+
+---
+Just thought this needed to be spread around...

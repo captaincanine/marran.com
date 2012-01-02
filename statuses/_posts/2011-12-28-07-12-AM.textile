@@ -1,0 +1,58 @@
+--- 
+id: 790499637_10150648501974638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The Occupy movement in London is educational, organized, and peaceful (like NYC without the drums). The encampment seems well tended to by the city. It makes me sad that our country won't allow the movement to exist in the US. Where are we as a country if we can't let people protest?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150648501974638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150648501974638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Facebook for iPhone
+  canvas_name: fbtouch
+  namespace: fbtouch
+  id: "6628568379"
+created_time: 2011-12-28T12:12:34+0000
+updated_time: 2011-12-28T12:47:08+0000
+likes: 
+  data: 
+  - name: Marcie Morton Sobelman
+    id: "1275161562"
+  - name: Jono Jarrett
+    id: "1343303598"
+  - name: T'ai Chu-Richardson
+    id: "14101146"
+  - name: Patrick Kee Kietsrichart
+    id: "1334676583"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_10150648501974638_23910308
+    from: 
+      name: Dave Stringer Hughes
+      id: "800419"
+    message: Occupy DC is actually going strong.
+    created_time: 2011-12-28T12:32:09+0000
+    likes: 1
+  - id: 790499637_10150648501974638_23910457
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Glad to hear it. I should visit when I get back. "
+    created_time: 2011-12-28T12:47:08+0000
+  count: 2
+layout: facebook-status
+title: Wednesday, Dec 28, 2011 - 07:12AM
+description: The Occupy movement in London is educational, organized, and peaceful (like NYC without the drums). The encampment seems well tended to by the city. It makes me sad that our country won't allow the movement to exist in the US. Where are we as a country if we can't let people protest?
+date: 2011-12-28 07:12:34 -05:00
+
+---
+The Occupy movement in London is educational, organized, and peaceful (like NYC without the drums). The encampment seems well tended to by the city. It makes me sad that our country won't allow the movement to exist in the US. Where are we as a country if we can't let people protest?

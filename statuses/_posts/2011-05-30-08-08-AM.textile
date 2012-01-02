@@ -1,0 +1,45 @@
+--- 
+id: 790499637_10150318238549638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Well... I'm still not over jet lag from China, so let's see if a few days in Vienna will bring my clock back to normal.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150318238549638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150318238549638
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Facebook for iPhone
+  id: "6628568379"
+created_time: 2011-05-30T12:08:48+0000
+updated_time: 2011-05-30T13:03:02+0000
+comments: 
+  data: 
+  - id: 790499637_10150318238549638_18718505
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: At this early, groggy hour, I read that as "bring my dork back to normal." So good luck, Keith! ;)
+    created_time: 2011-05-30T13:00:39+0000
+  - id: 790499637_10150318238549638_18718534
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I haven't been able to get my dork back to normal in years. "
+    created_time: 2011-05-30T13:03:02+0000
+    likes: 2
+  count: 2
+layout: facebook-status
+title: Monday, May 30, 2011 - 08:08AM
+description: Well... I'm still not over jet lag from China, so let's see if a few days in Vienna will bring my clock back to normal.
+date: 2011-05-30 08:08:48 -04:00
+
+---
+Well... I'm still not over jet lag from China, so let's see if a few days in Vienna will bring my clock back to normal.

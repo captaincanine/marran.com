@@ -1,0 +1,48 @@
+--- 
+id: 790499637_10150380076084638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "So...I've been cranky about the heat here in NYC. It turns out I just needed an iPod adjustment. I put on some Paper Lace, followed it with Friends of Distinction, and I was suddenly in the mood for hot and sweaty New York. NYC in the summer always reminds me of the 70's: all the fashionistas give up and walk around in their Hanes tank tops and halter tops. Everyone is letting it all hang out."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150380076084638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150380076084638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-07-21T22:22:33+0000
+updated_time: 2011-07-22T00:09:50+0000
+likes: 
+  data: 
+  - name: Andrea Miklasz
+    id: "629554115"
+  - name: Rosemary Feneziani
+    id: "573541002"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_10150380076084638_20084982
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: I wish I was back there to' let it all hang out'
+    created_time: 2011-07-21T23:43:48+0000
+  - id: 790499637_10150380076084638_20085477
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: Wow, it's rainy and 70 here.  Summer hasn't even begun
+    created_time: 2011-07-22T00:09:50+0000
+  count: 2
+layout: facebook-status
+title: Thursday, Jul 21, 2011 - 06:22PM
+description: "So...I've been cranky about the heat here in NYC. It turns out I just needed an iPod adjustment. I put on some Paper Lace, followed it with Friends of Distinction, and I was suddenly in the mood for hot and sweaty New York. NYC in the summer always reminds me of the 70's: all the fashionistas give up and walk around in their Hanes tank tops and halter tops. Everyone is letting it all hang out."
+date: 2011-07-21 18:22:33 -04:00
+
+---
+So...I've been cranky about the heat here in NYC. It turns out I just needed an iPod adjustment. I put on some Paper Lace, followed it with Friends of Distinction, and I was suddenly in the mood for hot and sweaty New York. NYC in the summer always reminds me of the 70's: all the fashionistas give up and walk around in their Hanes tank tops and halter tops. Everyone is letting it all hang out.

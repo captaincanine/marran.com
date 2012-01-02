@@ -1,0 +1,26 @@
+--- 
+id: 790499637_10150326046144638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: As they say, the devil is in the details, but at first glance, Apple's iCloud offering looks pretty great.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150326046144638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150326046144638
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-06-06T19:25:50+0000
+updated_time: 2011-06-06T19:25:50+0000
+layout: facebook-status
+title: Monday, Jun  6, 2011 - 03:25PM
+description: As they say, the devil is in the details, but at first glance, Apple's iCloud offering looks pretty great.
+date: 2011-06-06 15:25:50 -04:00
+
+---
+As they say, the devil is in the details, but at first glance, Apple's iCloud offering looks pretty great.

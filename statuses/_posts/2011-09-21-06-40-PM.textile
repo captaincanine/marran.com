@@ -1,0 +1,40 @@
+--- 
+id: 790499637_267453623277657
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBjJ6zTpikF2GKW&w=130&h=130&url=http%3A%2F%2F2.media.collegehumor.cvcdn.com%2F85%2F24%2F035cc5d14c19a393f2e1490872003d6c.jpg
+link: http://www.collegehumor.com/video/6611967
+source: http://5.static.collegehumor.cvcdn.com/moogaloop/moogaloop.swf?clip_id=6611967&use_node_id=true
+name: Not Google Plus
+caption: www.collegehumor.com
+description: 
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yi/r/OjzTEXM4lrQ.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/267453623277657
+- name: Like
+  link: http://www.facebook.com/790499637/posts/267453623277657
+privacy: 
+  description: Public
+  value: EVERYONE
+  allow: "0"
+  deny: "0"
+type: video
+application: 
+created_time: 2011-09-21T22:40:38+0000
+updated_time: 2011-09-21T22:40:38+0000
+likes: 
+  data: 
+  - name: Maxim Tishchenko
+    id: "100000007662363"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-video
+title: Wednesday, Sep 21, 2011 - 06:40PM
+date: 2011-09-21 18:40:38 -04:00
+
+---
+

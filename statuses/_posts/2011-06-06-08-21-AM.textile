@@ -1,0 +1,57 @@
+--- 
+id: 790499637_124403930975291
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQATC5mt-NuW7WpT&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fimages%2Fcontent%2Fshutterstock_76501042.jpg
+link: http://www.marran.com/blog/the-run-walk-plan/
+name: The Run Walk Plan
+caption: www.marran.com
+description: 
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/124403930975291
+- name: Like
+  link: http://www.facebook.com/790499637/posts/124403930975291
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+created_time: 2011-06-06T12:21:03+0000
+updated_time: 2011-06-06T19:44:58+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_124403930975291_362613
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: For the record, I am on my second lunch (salad). I forgot how a hunger-inducing a new regimen can be.
+    created_time: 2011-06-06T19:27:09+0000
+  - id: 790499637_124403930975291_362647
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: When I used to watch Gillian McKeith's show, she would often point out to new dieters that a good diet is healthy foods in abundance. It should not be a starvation diet. And her clients would lose 30 pounds in 8 weeks. So go for that second salad! I'm waiting for a Fresh Direct delivery to replenish my fridge after coming home from vacation.
+    created_time: 2011-06-06T19:35:12+0000
+  - id: 790499637_124403930975291_362691
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Healthy foods in abundance vs. lots of strong black coffee (a.k.a. the Fashion Editor Diet)
+    created_time: 2011-06-06T19:44:58+0000
+  count: 3
+layout: facebook-link
+title: Monday, Jun  6, 2011 - 08:21AM
+date: 2011-06-06 08:21:03 -04:00
+
+---
+

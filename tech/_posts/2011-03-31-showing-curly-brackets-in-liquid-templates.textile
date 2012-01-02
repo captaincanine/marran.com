@@ -1,0 +1,38 @@
+---
+layout: post
+title: Showing Curly Brackets in Liquid Templates
+tags: 
+- Jekyll
+- Liquid
+description: Trying to show liquid code in a liquid template on Jekyll? This is so easy and obvious that no one bothered to post a solution. I tracked down the answer by looking at someone's source code. I hope this makes someone else's life easier.
+---
+As I started creating new tech entries on my site, I ran into the problem of writing samples of liquid template code. Liquid kept trying to translate my sample code into actual code.
+
+So this:
+
+{% highlight html %}{% literal %}
+{% highlight html %}
+{% for post in paginator.posts %}
+
+<div class="teaser clearfix">
+  <div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
+  <div class="meta"><span class="timeago">{{ post.date | time_ago }}</span>{{ post.tags | tag_links }}</div>
+  <div class="description">{{ post.description }}</div>
+</div>
+
+{% endfor %}
+{% endhighlight %}
+{% endliteral %}{% endhighlight %}
+
+...was causing errors because the template kept trying to translate the @for@ loop into code. 
+
+It turns out that all you have to do is put this after the @highlight@ tag:
+
+{% highlight html %}
+{% literal %}
+{% literal %}
+
+...lots of liquid code goes here and it doesn't get interpreted...
+{% endliteral %}
+{{ "{% endliteral " }}%}
+{% endhighlight %}

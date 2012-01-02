@@ -1,0 +1,42 @@
+--- 
+id: 790499637_10150362418189638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Ouch. Who would have thought doing a "Gladiator" workout would make one so sore?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150362418189638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150362418189638
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-07-05T21:48:10+0000
+updated_time: 2011-07-05T22:05:24+0000
+comments: 
+  data: 
+  - id: 790499637_10150362418189638_19655577
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I watched Gladiator. They weren't all stiffly hobbling along saying "OWWW. I'm REALLY SORE." How was I to know?
+    created_time: 2011-07-05T22:04:33+0000
+    likes: 1
+  - id: 790499637_10150362418189638_19655596
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Because swordfighting on the Wii destroys oneself, so it just follows ;)
+    created_time: 2011-07-05T22:05:24+0000
+  count: 4
+layout: facebook-status
+title: Tuesday, Jul  5, 2011 - 05:48PM
+description: Ouch. Who would have thought doing a "Gladiator" workout would make one so sore?
+date: 2011-07-05 17:48:10 -04:00
+
+---
+Ouch. Who would have thought doing a "Gladiator" workout would make one so sore?

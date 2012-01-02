@@ -1,0 +1,43 @@
+--- 
+id: 790499637_124862307614354
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have the first set of our Indochina travelog up. And it has video!
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAElEdWTMyfdB8j&w=90&h=90&url=http%3A%2F%2Ffarm7.static.flickr.com%2F6068%2F6126932037_8e33b7cc00_m.jpg
+link: http://www.marran.com/travel/the-laos-y-start-of-our-trip/#.TnR2V0q1pdU.facebook
+name: The Laos-y Start of Our Trip
+caption: www.marran.com
+description: I have the first set of our Indochina travelog up. And it has video!
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yR/r/23eNFy_VOig.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/124862307614354
+- name: Like
+  link: http://www.facebook.com/790499637/posts/124862307614354
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+created_time: 2011-09-17T10:29:20+0000
+updated_time: 2011-09-17T10:29:20+0000
+likes: 
+  data: 
+  - name: Dagny Prieto
+    id: "592820863"
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  - name: Veronique Wolwowicz Rader
+    id: "604902503"
+  count: 3
+comments: 
+  count: 0
+layout: facebook-link
+title: Saturday, Sep 17, 2011 - 06:29AM
+date: 2011-09-17 06:29:20 -04:00
+
+---
+I have the first set of our Indochina travelog up. And it has video!

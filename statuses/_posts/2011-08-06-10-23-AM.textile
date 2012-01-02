@@ -1,0 +1,52 @@
+--- 
+id: 790499637_157592457648397
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: For my geeky and webby friends, I did some research on QR codes...
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCSwklcwQWOIpv-&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fimages%2Fcontent%2Fqr-simple.png
+link: http://www.marran.com/blog/make-your-own-neat-o-qr-code/#.Tj1OAXnHmbY.facebook
+name: Make Your Own Neat-O QR Code
+caption: www.marran.com
+description: For my geeky and webby friends, I did some research on QR codes...
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/157592457648397
+- name: Like
+  link: http://www.facebook.com/790499637/posts/157592457648397
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+created_time: 2011-08-06T14:23:07+0000
+updated_time: 2011-08-07T03:18:19+0000
+likes: 
+  data: 
+  - name: John F. Duckett
+    id: "567340649"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_157592457648397_894780
+    from: 
+      name: Brian Begy
+      id: "658570916"
+    message: goatse?
+    created_time: 2011-08-06T23:37:58+0000
+  - id: 790499637_157592457648397_895328
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "The shocking thing about goatse (beyond the obvious) is how many cakes and cookies have been made of that image: http://www.google.com/search?q=goatse+cake&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&hl=en&tab=wi&biw=2053&bih=1120"
+    created_time: 2011-08-07T03:18:19+0000
+  count: 4
+layout: facebook-link
+title: Saturday, Aug  6, 2011 - 10:23AM
+date: 2011-08-06 10:23:07 -04:00
+
+---
+For my geeky and webby friends, I did some research on QR codes...

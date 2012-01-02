@@ -1,0 +1,44 @@
+--- 
+id: 790499637_123639914388297
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I've really been enjoying classes General Assembly lately. I hope this one doesn't disappoint.
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=28218816837&v=1&size=z&cksum=10b45506d77ac244891c3aafd71c14d2&src=http%3A%2F%2Fevbdn.eventbrite.com%2Fs3-s3%2Feventlogos%2F12159759%2F1805846335-1.jpg
+link: http://somethingpeoplelove-efbnen.eventbrite.com/
+name: Eventbrite - Making Something People Love
+caption: Keith registered for Making Something People Love at Eventbrite!
+properties: 
+- name: Location
+  text: New York, United States
+- name: Time
+  text: Tuesday, June 21, 2011
+- name: Hosted By
+  text: General Assembly
+  href: http://www.eventbrite.com/org/971034995
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc1/v27562/225/28218816837/app_2_28218816837_7453.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/123639914388297
+- name: Like
+  link: http://www.facebook.com/790499637/posts/123639914388297
+- name: Get Tickets
+  link: http://www.eventbrite.com/event/1805846335/efbnreg
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Eventbrite
+  id: "28218816837"
+created_time: 2011-06-20T14:58:08+0000
+updated_time: 2011-06-20T14:58:08+0000
+layout: facebook-link
+title: Monday, Jun 20, 2011 - 10:58AM
+description: I've really been enjoying classes General Assembly lately. I hope this one doesn't disappoint.
+date: 2011-06-20 10:58:08 -04:00
+
+---
+I've really been enjoying classes General Assembly lately. I hope this one doesn't disappoint.

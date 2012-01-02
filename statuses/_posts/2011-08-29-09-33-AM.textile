@@ -1,0 +1,57 @@
+--- 
+id: 790499637_10150420240819638
+from: 
+  name: Keith Marran
+  id: "790499637"
+to: 
+  data: 
+  - name: David Reich
+    id: "1641745987"
+  - name: David Reich
+    id: "1641745987"
+with_tags: 
+  data: 
+  - name: David Reich
+    id: "1641745987"
+message: I went for a walk by myself in Saigon and all the pretty young girls told me they thought I was in need of a massage. But that was nothing compared to the treatment that David got at night - he was actually groped by women in bikinis. Why do Asian women tend to go for David?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150420240819638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150420240819638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-08-29T13:33:31+0000
+updated_time: 2011-08-29T21:19:49+0000
+comments: 
+  data: 
+  - id: 790499637_10150420240819638_21093846
+    from: 
+      name: Patrick Kee Kietsrichart
+      id: "1334676583"
+    message: Keith, be very careful.  Don't let David out of sight!  Before you know, they will snatch him away from you.  This is a friendly warning from your asian insider.
+    created_time: 2011-08-29T14:01:19+0000
+  - id: 790499637_10150420240819638_21100370
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Evan says he must beware of any woman that comes up to talk to him in China because more often than not its a prostitute.
+    created_time: 2011-08-29T19:17:36+0000
+  - id: 790499637_10150420240819638_21103093
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: That's too funny. when we were in Vietnam, I sat on the beach and chuckled to myself as I watched Paul being chatted up by men while he was having a quiet dip in the sea!
+    created_time: 2011-08-29T21:19:49+0000
+  count: 3
+layout: facebook-status
+title: Monday, Aug 29, 2011 - 09:33AM
+description: I went for a walk by myself in Saigon and all the pretty young girls told me they thought I was in need of a massage. But that was nothing compared to the treatment that David got at night - he was actually groped by women in bikinis. Why do Asian women tend to go for David?
+date: 2011-08-29 09:33:31 -04:00
+
+---
+I went for a walk by myself in Saigon and all the pretty young girls told me they thought I was in need of a massage. But that was nothing compared to the treatment that David got at night - he was actually groped by women in bikinis. Why do Asian women tend to go for David?

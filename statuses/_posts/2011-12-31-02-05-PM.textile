@@ -1,0 +1,39 @@
+--- 
+id: 790499637_10150656843714638
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=9f63219fafb2b85e2a23caa40911116f&src=https%3A%2F%2Ffoursquare.com%2Fimg%2Ficon_mayor.png
+link: https://foursquare.com/v/moustache-greenwich-tonsorial/4db3135f81543d71da285f90?ref=fb&source=fbwall
+name: "Moustache: Greenwich Tonsorial"
+caption: "Keith just ousted Yonadav T. as the mayor of Moustache: Greenwich Tonsorial!"
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc1/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150656843714638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150656843714638
+- name: Keith on foursquare
+  link: https://foursquare.com/user/90473?ref=fb
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: foursquare
+  canvas_name: playfoursquare
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2011-12-31T19:05:39+0000
+updated_time: 2011-12-31T19:05:39+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Saturday, Dec 31, 2011 - 02:05PM
+description: 
+date: 2011-12-31 14:05:39 -05:00
+
+---
+

@@ -1,0 +1,48 @@
+--- 
+id: 790499637_10150468998819638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "I've been mini-obsessed with The Mamas & The Papas lately. I had previously only known them for their hits - and while I found those songs enjoyable, their sound seemed a little shallow to me. But once you get past those overplayed songs, there are some real gems (this one is quite subtlely beautiful: http://www.youtube.com/watch?v=UhHMwE250zg&noredirect=1). But lurking underneath their cheerful and flawless harmonies is perhaps the most dysfunctional group of people to ever be in a band together. It's staggering: drugs, adultery, cruelty, pregnancies, incest, etc. I don't know what point I'm making here other than the juxtaposition is fascinating and apparently stuck in my subconscious."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150468998819638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150468998819638
+privacy: 
+  description: Public
+  value: EVERYONE
+  allow: "0"
+  deny: "0"
+type: status
+created_time: 2011-10-02T16:11:54+0000
+updated_time: 2011-10-02T17:05:49+0000
+likes: 
+  data: 
+  - name: Allison Adams
+    id: "594440081"
+  - name: Melissa Agar
+    id: "530351528"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_10150468998819638_21946255
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "And this one, too: http://www.youtube.com/watch?v=p7dt_i4TRyU&feature=related. The lyrics are quite sinister."
+    created_time: 2011-10-02T16:13:24+0000
+  - id: 790499637_10150468998819638_21947198
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: I was going to say that. When the incest stories came out it turned me off of them
+    created_time: 2011-10-02T17:05:49+0000
+  count: 2
+layout: facebook-status
+title: Sunday, Oct  2, 2011 - 12:11PM
+description: "I've been mini-obsessed with The Mamas & The Papas lately. I had previously only known them for their hits - and while I found those songs enjoyable, their sound seemed a little shallow to me. But once you get past those overplayed songs, there are some real gems (this one is quite subtlely beautiful: http://www.youtube.com/watch?v=UhHMwE250zg&noredirect=1). But lurking underneath their cheerful and flawless harmonies is perhaps the most dysfunctional group of people to ever be in a band together. It's staggering: drugs, adultery, cruelty, pregnancies, incest, etc. I don't know what point I'm making here other than the juxtaposition is fascinating and apparently stuck in my subconscious."
+date: 2011-10-02 12:11:54 -04:00
+
+---
+I've been mini-obsessed with The Mamas & The Papas lately. I had previously only known them for their hits - and while I found those songs enjoyable, their sound seemed a little shallow to me. But once you get past those overplayed songs, there are some real gems (this one is quite subtlely beautiful: http://www.youtube.com/watch?v=UhHMwE250zg&noredirect=1). But lurking underneath their cheerful and flawless harmonies is perhaps the most dysfunctional group of people to ever be in a band together. It's staggering: drugs, adultery, cruelty, pregnancies, incest, etc. I don't know what point I'm making here other than the juxtaposition is fascinating and apparently stuck in my subconscious.

@@ -1,0 +1,49 @@
+--- 
+id: 790499637_10150578019879638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have coined the word "fagulous". As in "He looks FAGULOUS in that sequined kaftan!" Please incorporate it into your daily vocabulary.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150578019879638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150578019879638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2011-12-01T02:48:38+0000
+updated_time: 2011-12-01T03:19:46+0000
+likes: 
+  data: 
+  - name: Debbie Everett
+    id: "1125730062"
+  - name: Danielle Mari
+    id: "1125746508"
+  - name: Gregory Seta
+    id: "100002115994439"
+  count: 5
+comments: 
+  data: 
+  - id: 790499637_10150578019879638_23300043
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: "\"why, Keith! You look fagulous in your new ascot!\""
+    created_time: 2011-12-01T03:06:21+0000
+    likes: 1
+  - id: 790499637_10150578019879638_23300341
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Rosemary beat me to it....
+    created_time: 2011-12-01T03:19:46+0000
+  count: 4
+layout: facebook-status
+title: Wednesday, Nov 30, 2011 - 09:48PM
+description: I have coined the word "fagulous". As in "He looks FAGULOUS in that sequined kaftan!" Please incorporate it into your daily vocabulary.
+date: 2011-11-30 21:48:38 -05:00
+
+---
+I have coined the word "fagulous". As in "He looks FAGULOUS in that sequined kaftan!" Please incorporate it into your daily vocabulary.

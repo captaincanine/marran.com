@@ -1,0 +1,56 @@
+--- 
+id: 790499637_10150320294884638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Today, I remembered to photograph the food before eating.
+picture: http://photos-h.ak.fbcdn.net/hphotos-ak-snc6/247167_10150320294859638_790499637_9773030_2674546_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150320294859638&set=a.490588709637.298813.790499637&type=1
+name: Mobile Uploads
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yx/r/og8V99JVf8G.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150320294884638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150320294884638
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: photo
+object_id: "10150320294859638"
+application: 
+  name: Facebook for iPhone
+  id: "6628568379"
+created_time: 2011-06-01T10:05:57+0000
+updated_time: 2011-06-01T11:44:27+0000
+likes: 
+  data: 
+  - name: Thomas Rogers
+    id: "538628386"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_10150320294884638_5964304
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "A double espresso with cream and a topfen strudel. "
+    created_time: 2011-06-01T11:41:54+0000
+  - id: 790499637_10150320294884638_5964317
+    from: 
+      name: Charlotte Andersson
+      id: "577154539"
+    message: I LOVE topfen strudel - but it is also VERY filling! :-)
+    created_time: 2011-06-01T11:44:27+0000
+  count: 2
+layout: facebook-photo
+title: Wednesday, Jun  1, 2011 - 06:05AM
+description: Today, I remembered to photograph the food before eating.
+date: 2011-06-01 06:05:57 -04:00
+
+---
+Today, I remembered to photograph the food before eating.

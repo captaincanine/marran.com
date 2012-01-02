@@ -1,0 +1,30 @@
+--- 
+id: 790499637_246236078764013
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Wow, how the mighty have fallen. I used to have such respect for Frank Miller, but this rant is ugly in many ways: http://frankmillerink.com/2011/11/anarchy. I've been to Occupy Wall Street and it is not what the media is telling you it is. I think Frank should turn off Fox News for a while and see if he can find his creative voice again."
+link: http://frankmillerink.com/2011/11/anarchy
+name: ANARCHY  | Frank Miller Ink
+caption: frankmillerink.com
+description: "Wow, how the mighty have fallen. I used to have such respect for Frank Miller, but this rant is ugly in many ways: http://frankmillerink.com/2011/11/anarchy. I've been to Occupy Wall Street and it is not what the media is telling you it is. I think Frank should turn off Fox News for a while and see if he can find his creative voice again."
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/246236078764013
+- name: Like
+  link: http://www.facebook.com/790499637/posts/246236078764013
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2011-11-13T03:20:08+0000
+updated_time: 2011-11-13T03:20:08+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Saturday, Nov 12, 2011 - 10:20PM
+date: 2011-11-12 22:20:08 -05:00
+
+---
+Wow, how the mighty have fallen. I used to have such respect for Frank Miller, but this rant is ugly in many ways: http://frankmillerink.com/2011/11/anarchy. I've been to Occupy Wall Street and it is not what the media is telling you it is. I think Frank should turn off Fox News for a while and see if he can find his creative voice again.

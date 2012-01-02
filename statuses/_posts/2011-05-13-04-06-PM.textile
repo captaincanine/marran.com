@@ -1,0 +1,44 @@
+--- 
+id: 790499637_10150299246934638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I was looking at my itinerary for China and I noticed on the way home that I leave Beijing at 6:55am and arrive in Chicago at 6:40am. Which means that before I board the flight, I can myself in the past and ask how the flight was.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150299246934638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150299246934638
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-05-13T20:06:03+0000
+updated_time: 2011-05-14T01:40:07+0000
+likes: 
+  data: 
+  - name: Tina Purdy
+    id: "100001119760877"
+  - name: Rosemary Feneziani
+    id: "573541002"
+  - name: Jay Forsyth
+    id: "718958430"
+  count: 3
+comments: 
+  data: 
+  - id: 790499637_10150299246934638_18296620
+    from: 
+      name: Tina Purdy
+      id: "100001119760877"
+    message: Time sure is funny!
+    created_time: 2011-05-14T01:40:07+0000
+  count: 1
+layout: facebook-status
+title: Friday, May 13, 2011 - 04:06PM
+description: I was looking at my itinerary for China and I noticed on the way home that I leave Beijing at 6:55am and arrive in Chicago at 6:40am. Which means that before I board the flight, I can myself in the past and ask how the flight was.
+date: 2011-05-13 16:06:03 -04:00
+
+---
+I was looking at my itinerary for China and I noticed on the way home that I leave Beijing at 6:55am and arrive in Chicago at 6:40am. Which means that before I board the flight, I can myself in the past and ask how the flight was.

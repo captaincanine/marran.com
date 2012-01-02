@@ -1,0 +1,35 @@
+--- 
+id: 790499637_10150345270229638
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=d434a11004ecf04d185f24a7dc3f3d5f&src=https%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.730226%2F-73.991463%2Fmap.png
+link: https://foursquare.com/user/90473/checkin/4e0538a6d22d658532980b43?s=MTPiRMKnGAjUmhSnV32NuhrUz9U&ref=fb
+name: Losers Lounge At Joe's Pub
+caption: Keith just checked in @ Losers Lounge At Joe's Pub (New York, NY)
+description: 
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc1/v43/138/86734274142/app_2_86734274142_2300.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150345270229638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150345270229638
+- name: Keith on foursquare
+  link: https://foursquare.com/user/90473
+privacy: 
+  description: "Friends Only; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Foursquare
+  id: "86734274142"
+created_time: 2011-06-25T01:23:52+0000
+updated_time: 2011-06-25T01:23:52+0000
+layout: facebook-link
+title: Friday, Jun 24, 2011 - 09:23PM
+date: 2011-06-24 21:23:52 -04:00
+
+---
+

@@ -1,0 +1,44 @@
+--- 
+id: 790499637_10150509193924638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Poor Victor. I think they were being a bit harsh on him. I really thought he had it in the bag.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150509193924638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150509193924638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2011-10-28T18:47:14+0000
+updated_time: 2011-10-29T02:09:52+0000
+likes: 
+  data: 
+  - name: Dyan Maitland-Bledsoe
+    id: "786609558"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150509193924638_22537301
+    from: 
+      name: Tim Paul
+      id: "649587941"
+    message: When he edited some of his pieces, rather then replacing them, he made the better. Even when he really liked the piece as they were, he was using his wisdom to say, I may personally love this, but in truth, if I do this, it makes it a stronger piece.
+    created_time: 2011-10-28T21:49:10+0000
+  - id: 790499637_10150509193924638_22541420
+    from: 
+      name: Robert Lucas
+      id: "100000816082478"
+    message: We have to get a copy of Anya's sex tape!
+    created_time: 2011-10-29T02:09:52+0000
+  count: 13
+layout: facebook-status
+title: Friday, Oct 28, 2011 - 02:47PM
+description: Poor Victor. I think they were being a bit harsh on him. I really thought he had it in the bag.
+date: 2011-10-28 14:47:14 -04:00
+
+---
+Poor Victor. I think they were being a bit harsh on him. I really thought he had it in the bag.
