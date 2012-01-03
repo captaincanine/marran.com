@@ -1,9 +1,9 @@
 var geocoder;
 var map;
 
-function initialize(lat, lng) {
+function initialize() {
   geocoder = new google.maps.Geocoder();
-  var latlng = new google.maps.LatLng(lat, lng);
+  var latlng = new google.maps.LatLng(0, 0);
   var myOptions = {
     zoom: 15,
     center: latlng,
@@ -18,19 +18,37 @@ $(document).ready ( function() {
 
   $("#map").each(function() {
   
+    geocoder = new google.maps.Geocoder();
+
+    address = $(this).attr('address');
     latitude = $(this).attr('latitude');
     longitude = $(this).attr('longitude');
 
-    initialize(latitude, longitude);
+    initialize();
     
-    var latlng = new google.maps.LatLng(latitude, longitude);
-    
-    var marker = new google.maps.Marker({
-      map: map,
-      position: latlng 
-    });
+    geocoder.geocode( { 'address': address}, function(results, status) {
+      if (status == google.maps.GeocoderStatus.OK) {
 
-    map.setCenter(latlng);
+        map.setCenter(results[0].geometry.location);
+        var marker = new google.maps.Marker({
+          map: map, 
+          position: results[0].geometry.location
+        });
+
+      } else if (latitude && longitude) {
+
+        var latlng = new google.maps.LatLng(latitude, longitude);    
+        var marker = new google.maps.Marker({
+          map: map,
+          position: latlng 
+        });
+    
+        map.setCenter(latlng);
+
+      } else {
+        alert("Geocode was not successful for the following reason: " + status);
+      }
+    });
 
   });
 
