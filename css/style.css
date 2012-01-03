@@ -401,7 +401,8 @@ pre code  { background: none; border: none; }
 /* COMMENTS */
 
 .dsq-autheneticate-copy,
-#dsq-content .dsq-options   { display: none !important; }
+#dsq-footer, #dsq-sort-by, #dsq-content .dsq-options   { display: none !important; }
+
 
 
 /* MISCELLANEOUS */
