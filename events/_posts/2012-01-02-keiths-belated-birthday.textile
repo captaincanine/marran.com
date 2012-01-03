@@ -6,7 +6,7 @@ tags:
 - superfun
 - birthday
 images:
-- thumbnail: http://www.britannica.com/psychedelic/images/opsyroc088p1.jpg
+- thumbnail: http://3.bp.blogspot.com/_WPBsWi6m18A/SoWblnTxJsI/AAAAAAAAF7U/0WriIGtR58Y/s1600/platos.jpg
 wufoo:
   code: z7x3k1
   height: 691
