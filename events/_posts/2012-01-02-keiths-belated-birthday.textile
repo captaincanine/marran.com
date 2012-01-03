@@ -11,11 +11,12 @@ wufoo:
   code: z7x3k1
   height: 691
 location:
+  address: 218 W 15th St, NY, NY
   latitude: 40.7396183
-  longitude: -74.0001744
+  longitude: -74.00017439999999
 ---
 
-So, Keith is turning <span class="redacted">redacted</span> years old! And he's celebrating with a little party. I hope you can attend. There will be the usual food and drink. Possibly another batch of brownies from last year - but no promises.
+So, Keith is turning <span class="redacted">redacted</span> years old! And he's celebrating with a little party. I hope you can attend. There will be the usual food and drink. Possibly another batch of brownies from last year...
 
 <img src="http://3.bp.blogspot.com/_WPBsWi6m18A/SoWblnTxJsI/AAAAAAAAF7U/0WriIGtR58Y/s1600/platos.jpg" width="100%" />
 
@@ -28,20 +29,20 @@ h1. Friday, January 20th – <small>starting at</small> 8pm
 
 And I'm doing something a little special that you need to know about for the R.S.V.P.
 
-<img src="/images/content/girl-orating.jpg" align="left" />
+<img src="/images/content/girl-orating.jpg" align="left" style="margin-right: 4px" />
 
-I have picked out a play that is hilarious, dark, and something I'm pretty sure you've never seen before. It's written by Christopher Durang whom I think is one of the more underrated American playwrights.
+I have picked out a play that is hilarious, dark, and something I'm pretty sure you've never seen before. It's written by Christopher Durang whom I think is one of America's underrated playwrights.
 
 I'd like to have a play reading. It's something I've been thinking of for a while.
 
 Let me know if you'd like to be one of the actors. We'll just be sitting, so all you have to do is read from a script. There are big(-ish) parts and small parts. No acting skills required, though if you have an inner Meryl Streep, this is your chance to shine. I think I need about 5 readers if I double up on roles, but I can go up to 10 or more if there's interest. It's an easy way for you to get laughs and applause.
 
-We'll start the reading around 9 or 10pm. After the cast has had a chance to vocalize.
+We'll start the reading around 9 or 10pm. After the cast has had a chance to stretch their throat muscles.
 
 </div>
 
 h3. What can you bring?
 
-Well, just yourself, please. And any guests that might want to come along. No gifts, please, but if you wanted to bring some gogo boys, I don't think anyone would complain. Especially if they're wearing giant, spangly bow ties.
+Well, just yourself. And any guests that might want to come along. No gifts, please, but if you wanted to bring some gogo boys, I don't think anyone would complain. Especially if they're wearing giant, lamay bow ties.
 
 h3. Be sure to R.S.V.P. on the right<br/> or send me an email at keith (at) marran (dot) com.
