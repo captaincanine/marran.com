@@ -1,0 +1,63 @@
+---
+layout: post
+title: Adding an RSVP Form to a Jekyll Site
+tags: 
+- Jekyll
+- JQuery
+- Wufoo
+- events
+description: I've currently been building some pages in my Jekyll site for events. And with almost any event, you want to know who's coming. I decided to give Wufoo a try and use it to build an RSVP form on my site.
+---
+I've currently been building some pages in my Jekyll site for events. And with almost any event, you want to know who's coming. I decided to give "Wufoo":http://www.wufoo.com. a try and use it to build an RSVP form on my site.
+
+For those that aren't familiar with Wufoo, it's a site that allows you to create forms that can be used anywhere on the web. It records the answers and stores the results for you. So in other words, it's a pretty great addition to a Jekyll site, but you get the benefits of a database without having to implement the backend.
+
+Wufoo has a free account that allows you to create forms that get less than 100 entries per month. I'm expecting that should be fine for an occasional event. The next price up is $15 per month, which is more than I want to spend for my small needs. I wish they had something in between that was geared for personal use.
+
+Anyway, I'll let Wufoo explain itself for setting up forms. It's a great product and simple to use.
+
+Next, I wanted to create a very simple method of rendering a Wufoo form on a page. They give you Javascript embed code. I decided to abstract out the values so that I can re-use the code for other forms on my site. 
+
+First, I started by create a @layout@ file for events. 
+
+Then, I added the following to my YAML front matter for the event:
+
+{% highlight text %}
+wufoo:
+  username: your-wufoo-username
+  code: h6x9r2
+  height: 500
+{% endhighlight %}
+
+I've made up the code as an example. That code won't work in real-life. 
+
+Next, I added the following to my @layout@ file:
+
+{% highlight html %}{% literal %}
+{% if page.wufoo %}
+<div class="box">
+              
+  <script type="text/javascript">var host = (("https:" == document.location.protocol) ? "https://secure." : "http://");document.write(unescape("%3Cscript src='" + host + "wufoo.com/scripts/embed/form.js' type='text/javascript'%3E%3C/script%3E"));</script>            
+  <script type="text/javascript">
+  var {{ page.wufoo.code }} = new WufooForm();
+  {{ page.wufoo.code }}.initialize({
+  'userName':'{{ page.wufoo.username }}', 
+  'formHash':'{{ page.wufoo.code }}', 
+  'autoResize':true,
+  'height':'{{ page.wufoo.height }}',
+  'header':'show'});
+  {{ page.wufoo.code }}.display();
+  </script>
+
+</div>
+{% endif %}	
+{% endliteral %}{% endhighlight %}
+
+That's it. Super simple.
+
+I wish I could show you a working example, because it's really neat in action, but having a form exposed like that would eat up all my free entries. 
+
+But at least you can see how easy it is to take a Jekyll site, combine it with Wufoo, and start collecting feedback from users.
+
+And Wufoo, if you're listening, I would love a $5 a month plan that accepts 250 entries. It would be the perfect price point for me to have on my site all the time.
+
