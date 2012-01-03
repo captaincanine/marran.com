@@ -55,9 +55,7 @@ Next, I added the following to my @layout@ file:
 
 That's it. Super simple.
 
-I wish I could show you a working example, because it's really neat in action, but having a form exposed like that would eat up all my free entries. 
-
-But at least you can see how easy it is to take a Jekyll site, combine it with Wufoo, and start collecting feedback from users.
+I wish I could show you a working example, because it's really neat in action, but having a form exposed like that would eat up all my free entries. But at least you can see how easy it is to take a Jekyll site, combine it with Wufoo, and start collecting feedback from users.
 
 And Wufoo, if you're listening, I would love a $5 a month plan that accepts 250 entries. It would be the perfect price point for me to have on my site all the time.
 
