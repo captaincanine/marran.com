@@ -1,0 +1,48 @@
+---
+layout: event
+title: Keith's Birthday Party
+description: Keith is turning [ REDACTED ]! David's out of town! (sssh!) Come celebrate with an evening of live performance.
+tags:
+- superfun
+- birthday
+images:
+- thumbnail: http://3.bp.blogspot.com/_WPBsWi6m18A/SoWblnTxJsI/AAAAAAAAF7U/0WriIGtR58Y/s1600/platos.jpg
+wufoo:
+  code: z7x3k1
+  height: 691
+location:
+  address: 218 W 15th St, NY, NY
+  latitude: 40.7396183
+  longitude: -74.00017439999999
+---
+
+David's out of town! _(sssh!)_ Come celebrate with an evening of live performance!
+
+<img src="http://3.bp.blogspot.com/_WPBsWi6m18A/SoWblnTxJsI/AAAAAAAAF7U/0WriIGtR58Y/s1600/platos.jpg" width="100%" />
+
+The festivities take place on...
+
+h1. Friday, January 20th – <small>starting at</small> 8pm
+<small>at</small> 218 West 15th St <small>(between 7th and 8th)</small>
+
+<div style="margin-top: 1em">
+
+Keith is turning <span class="redacted">redacted</span> years old! And he's celebrating with a little party. I hope you can attend. There will be the usual food and drink. 
+
+And I'm doing something a little special that you need to know about for the R.S.V.P.
+
+<img src="/images/content/montage-reading.jpg"  />
+
+We're going to have a play reading! I've picked out a play that appeals to my darkly humorous and slightly unhinged sensibilities. What I need is actors – or, more accurately, spirited friends willing to read.
+
+There are big(-ish) parts and small parts. No acting skills required, though if you have an inner Meryl Streep, this is your chance to shine. Plus, it's an easy way for you to get laughs and applause.
+
+We'll start the reading around 9 or 10pm. After the cast has had a chance to stretch their throat muscles.
+
+</div>
+
+h3. What can you bring?
+
+Well, just yourself. And any guests that might want to come along. No gifts, please, but if you wanted to bring some gogo boys, I don't think anyone would complain. Especially if they're wearing giant, lamay bow ties.
+
+h3. Be sure to R.S.V.P. on the right or <a href="mailto:keith@marran.com">send me an email</a>.
