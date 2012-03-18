@@ -22,6 +22,10 @@ module Jekyll
    class Post
    
       attr_accessor :series
+      
+      def name
+        self.data['title']
+      end
 
       alias series_initialize initialize
       def initialize(site, source, dir, name)      

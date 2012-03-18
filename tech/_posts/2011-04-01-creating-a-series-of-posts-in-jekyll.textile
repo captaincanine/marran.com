@@ -103,7 +103,7 @@ To see the whole code, go to the "project on Github":https://github.com/pelosi/m
 
 To use the code in a template, you can reference the @next@ and @previous@ properties of the page like this:
 
-{% highlight html %}{% literal %}
+{% highlight html %}{% raw %}
 {% if page.series and page.next %}
 
   <div class="next-box">
@@ -118,11 +118,11 @@ To use the code in a template, you can reference the @next@ and @previous@ prope
   </div>
 
 {% endif %}
-{% endliteral %}{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 If you want to create a table of contents showing all the items in the series, use something like this in the templates:
 
-{% highlight html %}{% literal %}
+{% highlight html %}{% raw %}
 {% if page.series %}
 
 <div class="info">This post is part of a series called...</div>
@@ -142,4 +142,4 @@ If you want to create a table of contents showing all the items in the series, u
 {% endfor %}
 					
 {% endif %}	
-{% endliteral %}{% endhighlight %}
+{% endraw %}{% endhighlight %}
