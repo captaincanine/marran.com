@@ -1,0 +1,35 @@
+--- 
+id: 790499637_357470077615994
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This looks awesome! Roald Dahl and burlesque? Who-da thunk it?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCOih-KS3srdoi4&w=90&h=90&url=http%3A%2F%2Fa2.sphotos.ak.fbcdn.net%2Fhphotos-ak-snc7%2F395362_370337529649450_226103780739493_1623271_955782319_n.jpg
+link: http://shar.es/fWJo7
+name: "Storybook Burlesque Presents: Roald Dahl"
+caption: www.geeksout.org
+description: This looks awesome! Roald Dahl and burlesque? Who-da thunk it?
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/357470077615994
+- name: Like
+  link: http://www.facebook.com/790499637/posts/357470077615994
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-01-26T20:04:23+0000
+updated_time: 2012-01-26T20:04:23+0000
+comments: 
+  count: 0
+is_published: true
+layout: facebook-link
+title: Thursday, Jan 26, 2012 - 03:04PM
+date: 2012-01-26 15:04:23 -05:00
+
+---
+This looks awesome! Roald Dahl and burlesque? Who-da thunk it?

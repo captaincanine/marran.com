@@ -1,0 +1,60 @@
+--- 
+id: 790499637_10150798348714638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I got a nice greeting from Oz last night when he got home from the office. TGIF!
+picture: http://photos-a.ak.fbcdn.net/hphotos-ak-snc7/427052_10150798348664638_790499637_12403558_397386933_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150798348664638&set=a.229486624637.178410.790499637&type=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yz/r/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150798348714638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150798348714638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: photo
+object_id: "10150798348664638"
+application: 
+  name: Aperture
+  id: "101622214608"
+created_time: 2012-02-18T22:14:38+0000
+updated_time: 2012-02-18T23:15:49+0000
+likes: 
+  data: 
+  - name: Michelle Gittelman
+    id: "1066642920"
+  - name: David L Steele
+    id: "1407655463"
+  - name: Eileen O'Donnell
+    id: "667235678"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 5
+comments: 
+  data: 
+  - id: 790499637_10150798348714638_8044605
+    from: 
+      name: David L Steele
+      id: "1407655463"
+    message: Cute doggy.
+    created_time: 2012-02-18T22:26:42+0000
+  - id: 790499637_10150798348714638_8044923
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: Mine always try to slip me the tongue...
+    created_time: 2012-02-18T23:15:49+0000
+  count: 2
+is_published: true
+layout: facebook-photo
+title: Saturday, Feb 18, 2012 - 05:14PM
+description: I got a nice greeting from Oz last night when he got home from the office. TGIF!
+date: 2012-02-18 17:14:38 -05:00
+
+---
+I got a nice greeting from Oz last night when he got home from the office. TGIF!
