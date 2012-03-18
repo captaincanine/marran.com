@@ -1,0 +1,45 @@
+--- 
+id: 790499637_10150757889739638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Just got back from my first trip to Spa Castle. Why has it taken me all these years to finally get out there!? It was a fantastic way to get out of Manhattan and relax.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150757889739638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150757889739638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2012-02-05T20:22:21+0000
+updated_time: 2012-02-06T15:08:11+0000
+likes: 
+  data: 
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150757889739638_24767276
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I would love some time in ancient baths. Did you notice in the FAQ that they say that silence must be maintained at all times?
+    created_time: 2012-02-06T12:31:51+0000
+  - id: 790499637_10150757889739638_24769027
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Yes! I'm wondering if trashy mags are allowed.
+    created_time: 2012-02-06T15:08:11+0000
+  count: 4
+is_published: true
+layout: facebook-status
+title: Sunday, Feb  5, 2012 - 03:22PM
+description: Just got back from my first trip to Spa Castle. Why has it taken me all these years to finally get out there!? It was a fantastic way to get out of Manhattan and relax.
+date: 2012-02-05 15:22:21 -05:00
+
+---
+Just got back from my first trip to Spa Castle. Why has it taken me all these years to finally get out there!? It was a fantastic way to get out of Manhattan and relax.
