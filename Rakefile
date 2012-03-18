@@ -36,11 +36,7 @@ EOS
 end
 
 task :generate => :clear do
-    sh 'jekyll'
-end
-
-task :clear do
-    sh 'rm -rf _site/*'
+    sh 'jekyll-s3'
 end
 
 task :commit do
