@@ -209,7 +209,7 @@ On my site, I show all the photos in a particular Flickr photoset in the sidebar
 
 Here's a scaled-down version of the code in my templates:
 
-{% highlight html %}{% literal %}
+{% highlight html %}{% raw %}
 {% if page.photoset %}
 
   <div class="box">
@@ -224,7 +224,7 @@ Here's a scaled-down version of the code in my templates:
     </div>
   </div>
 {% endif %} 
-{% endliteral %}{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 Notice that the image that shows to the user is the thumbnail, but the href in the anchor tag is to the full size image. That's how Shadowbox works so that the page loads nice and fast by using just the thumbnails, but when a user clicks on the thumbnail, they see the full size image.
 

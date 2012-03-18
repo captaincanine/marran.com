@@ -37,7 +37,7 @@ Then I created a template in my @_layouts@ directory called @redirect.html@. Thi
 
 This page redirects a browser without any delay, but you could also create a page that instructs the user that the content has moved and to update their links. Note that the page.source_url code is the Jekyll permalink URL for the content. In other words, the place we want the user to end up.
 
-{% highlight html %}{% literal %}
+{% highlight html %}{% raw %}
 <!DOCTYPE html>
 <html>
 <head>
@@ -45,7 +45,7 @@ This page redirects a browser without any delay, but you could also create a pag
 <meta http-equiv="refresh" content="0;url={{ page.source_url }}" />
 </head>
 </html>
-{% endliteral %}{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 And finally, I created the following file in my @_plugins@ directory:
 

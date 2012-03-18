@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: Category Pagination in Jekyll
+name: Category Pagination in Jekyll
 tags: 
 - Jekyll
 - Ruby
@@ -156,7 +157,7 @@ To use this on a page, whether it be an index page or in the @category_index.htm
 
 
 
-{% highlight html %}{% literal %}
+{% highlight html %}{% raw %}
 {% for post in paginator.posts %}
 
 <div class="teaser clearfix">
@@ -166,7 +167,7 @@ To use this on a page, whether it be an index page or in the @category_index.htm
 </div>
 
 {% endfor %}
-{% endliteral %}{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 To see the whole code, go to the "project on Github":https://github.com/pelosi/marran.com/blob/master/_plugins/generate_category_pages.rb.
 

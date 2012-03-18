@@ -10,7 +10,7 @@ As I started creating new tech entries on my site, I ran into the problem of wri
 
 So this:
 
-{% highlight html %}{% literal %}
+{% highlight html %}{% raw %}
 {% highlight html %}
 {% for post in paginator.posts %}
 
@@ -22,17 +22,17 @@ So this:
 
 {% endfor %}
 {% endhighlight %}
-{% endliteral %}{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 ...was causing errors because the template kept trying to translate the @for@ loop into code. 
 
 It turns out that all you have to do is put this after the @highlight@ tag:
 
 {% highlight html %}
-{% literal %}
-{% literal %}
+{% raw %}
+{% raw %}
 
 ...lots of liquid code goes here and it doesn't get interpreted...
-{% endliteral %}
+{% endraw %}
 {{ "{% endliteral " }}%}
 {% endhighlight %}

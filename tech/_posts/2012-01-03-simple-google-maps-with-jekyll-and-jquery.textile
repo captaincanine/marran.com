@@ -30,13 +30,13 @@ Now that your content is aware of a location, we need to send that to the @event
 
 On my site, I always want the map to show on the right-hand side of the page – separate from the content. The only thing that we have to render on the page is a paragraph tag with the location information in it. JQuery and Google Maps will handle the rest. Here's the snippet of code I have in my @event@ template.
 
-{% highlight html %}{% literal %}
+{% highlight html %}{% raw %}
 {% if page.location %}
 <div class="box">
   <p id="map" style="height: 300px" address="{{ page.location.address }}" latitude="{{ page.location.latitude }}" longitude="{{ page.location.longitude }}">&nbsp;</p>
 </div>
 {% endif %}
-{% endliteral %}{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 At this point, if you rendered the site, you would get an empty paragraph where the map should be. The information about the location should be showing up as attributes of that paragraph, but nothing is displayed to the end user yet. Now it's time to work Google Maps into the equation. 
 
