@@ -35,10 +35,6 @@ EOS
   sh "open #{path} -a bbedit"
 end
 
-task :deploy => :generate do
-    sh 'rsync -rpcvzgo --delete _site/ klm:/var/www/vhosts/marran.com/httpdocs  | grep -v -e \'DS_Store\' -e \'Thumbs\' | sort'
-end
-
 task :generate => :clear do
     sh 'jekyll'
 end
