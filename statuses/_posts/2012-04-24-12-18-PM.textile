@@ -1,0 +1,50 @@
+--- 
+id: 790499637_10150980754174638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Seeing Tyra again on Drag Race last night brought back memories. Like how lackluster the contestants for season 2 were and how much I didn't care for Tyra. Raja was still stunning, though.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150980754174638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150980754174638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2012-04-24T16:18:43+0000
+updated_time: 2012-04-24T17:21:15+0000
+likes: 
+  data: 
+  - name: Dirk McCall
+    id: "502849778"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150980754174638_26219103
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: Raja's hair was BUSTED, I'm sorry. Even Dida wouldn't've worn that mess.
+    created_time: 2012-04-24T16:19:25+0000
+  - id: 790499637_10150980754174638_26219453
+    from: 
+      name: Brett Bishop
+      id: "1203637433"
+    message: Honestly, I think season 2 went wrong anyway. My favorites were Jujubee (1st) and Pandora Boxx (2nd). But, c'est la vie.
+    created_time: 2012-04-24T16:42:46+0000
+  - id: 790499637_10150980754174638_26220045
+    from: 
+      name: Robert Russin
+      id: "809360003"
+    message: Both of them reminded me of how the winners are ALWAYS boring and mediocre.
+    created_time: 2012-04-24T17:21:15+0000
+  count: 3
+layout: facebook-status
+title: Tuesday, Apr 24, 2012 - 12:18PM
+description: Seeing Tyra again on Drag Race last night brought back memories. Like how lackluster the contestants for season 2 were and how much I didn't care for Tyra. Raja was still stunning, though.
+date: 2012-04-24 12:18:43 -04:00
+
+---
+Seeing Tyra again on Drag Race last night brought back memories. Like how lackluster the contestants for season 2 were and how much I didn't care for Tyra. Raja was still stunning, though.

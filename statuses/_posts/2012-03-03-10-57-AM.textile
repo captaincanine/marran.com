@@ -54,7 +54,6 @@ comments:
     created_time: 2012-03-03T16:21:48+0000
     likes: 1
   count: 3
-is_published: true
 layout: facebook-status
 title: Saturday, Mar  3, 2012 - 10:57AM
 description: I put on "Hedwig and the Angry Inch" because I hadn't listened to it in months. And I realized that's what's been missing from my life all this time.

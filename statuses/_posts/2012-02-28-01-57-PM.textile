@@ -47,7 +47,6 @@ comments:
     message: and the dogs?
     created_time: 2012-02-29T00:54:22+0000
   count: 3
-is_published: true
 layout: facebook-status
 title: Tuesday, Feb 28, 2012 - 01:57PM
 description: David is forcing me to pose for a picture of the two of us for some Mt. Sinai Hoo Haa. Our photo shoot is this afternoon. I plan on acting out Irene Cara in Fame - complete with sobbing, shirt unbuttoning, and sucking my thumb.

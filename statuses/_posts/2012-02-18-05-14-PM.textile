@@ -50,7 +50,6 @@ comments:
     message: Mine always try to slip me the tongue...
     created_time: 2012-02-18T23:15:49+0000
   count: 2
-is_published: true
 layout: facebook-photo
 title: Saturday, Feb 18, 2012 - 05:14PM
 description: I got a nice greeting from Oz last night when he got home from the office. TGIF!

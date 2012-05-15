@@ -1,0 +1,39 @@
+--- 
+id: 790499637_378982252142684
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This list is a little dubious. I think it was made by the Spanish Travel Council.
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=76542679939&v=1&size=z&cksum=2b5cfe0c5cd31cdb9dad68053866bf80&src=http%3A%2F%2Fwww.listchallenges.com%2F100places%2Ff%2Ftemp%2F634610109488381250.jpg
+link: http://apps.facebook.com/onehundredplaces/
+name: The Travel List Challenge. I've been to 55 of 100 places on this list. How many have you been to?
+caption: We think most people will have been to fewer than 9 of these 100 places to visit before you die.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v27562/103/76542679939/app_2_76542679939_5984.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/378982252142684
+- name: Like
+  link: http://www.facebook.com/790499637/posts/378982252142684
+- name: View List
+  link: http://apps.facebook.com/onehundredplaces/
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: The Travel List Challenge
+  namespace: onehundredplaces
+  id: "76542679939"
+created_time: 2012-04-06T18:27:46+0000
+updated_time: 2012-04-06T18:27:46+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Friday, Apr  6, 2012 - 02:27PM
+description: This list is a little dubious. I think it was made by the Spanish Travel Council.
+date: 2012-04-06 14:27:46 -04:00
+
+---
+This list is a little dubious. I think it was made by the Spanish Travel Council.

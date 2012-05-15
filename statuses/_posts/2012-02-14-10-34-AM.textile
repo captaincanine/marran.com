@@ -30,7 +30,6 @@ comments:
     message: aussies have great taste in.......EVERYTHING!
     created_time: 2012-02-14T20:04:43+0000
   count: 7
-is_published: true
 layout: facebook-status
 title: Tuesday, Feb 14, 2012 - 10:34AM
 description: I never thought I'd say this, but I just bought Eric Bana's playlist that he compiled for iTunes. I barely know any of the artists, but the music is awesome. I never would have pegged him for someone with great music tastes.

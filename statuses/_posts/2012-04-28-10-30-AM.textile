@@ -1,0 +1,41 @@
+--- 
+id: 790499637_415037168515176
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I usually didn't agree with the Republican party, but I used to at least understand what they stood for. Now I don't understand them at all. Where's their plan? What's their vision for the future? It seems to just be "Absolute Power for Billionaires".
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBbwaNOXmOrQiH6&w=90&h=90&url=http%3A%2F%2Fwww.washingtonpost.com%2Frf%2Fimage_90w%2FWashingtonPost%2FContent%2FBlogs%2Fthe-fix%2FImages%2FHouse_Republicans_06d1e-003.jpg
+link: http://www.washingtonpost.com/opinions/lets-just-say-it-the-republicans-are-the-problem/2012/04/27/gIQAxCVUlT_story.html
+name: "Let\xE2\x80\x99s just say it: The Republicans are the problem."
+caption: www.washingtonpost.com
+description: I usually didn't agree with the Republican party, but I used to at least understand what they stood for. Now I don't understand them at all. Where's their plan? What's their vision for the future? It seems to just be "Absolute Power for Billionaires".
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/415037168515176
+- name: Like
+  link: http://www.facebook.com/790499637/posts/415037168515176
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2012-04-28T14:30:29+0000
+updated_time: 2012-04-28T14:30:29+0000
+likes: 
+  data: 
+  - name: Jono Jarrett
+    id: "1343303598"
+  - name: Richard M Carlson Jr
+    id: "1437848272"
+  count: 2
+comments: 
+  count: 0
+layout: facebook-link
+title: Saturday, Apr 28, 2012 - 10:30AM
+date: 2012-04-28 10:30:29 -04:00
+
+---
+I usually didn't agree with the Republican party, but I used to at least understand what they stood for. Now I don't understand them at all. Where's their plan? What's their vision for the future? It seems to just be "Absolute Power for Billionaires".

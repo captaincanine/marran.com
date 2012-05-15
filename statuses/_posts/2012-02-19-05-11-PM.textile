@@ -39,7 +39,6 @@ comments:
     message: "Definitely ask me again in week two. I think the overall message is that you need four weeks to completely detox from bad food to get it out of your system: mentally and physically. And although he allows for yogurt, the diet has no dairy, so there's a benefit to going four weeks without dairy. After the four weeks, you can start adding \"cheat\" meals. He fully admits that it is unpleasant for a while, but it gets better if you do the hard work up front. And he's been doing this for 35 years, so I trust him."
     created_time: 2012-02-20T14:29:01+0000
   count: 7
-is_published: true
 layout: facebook-status
 title: Sunday, Feb 19, 2012 - 05:11PM
 description: "I'm gearing up to start a very restrictive diet in a few days \xE2\x80\x94 as given to me by my trainer. He said the first four weeks are the hardest and then it gets easier. But if there's any cheating in the first four weeks, the counter starts over at day one. Anyone want to join me? It's a very healthy diet - just very intense."
