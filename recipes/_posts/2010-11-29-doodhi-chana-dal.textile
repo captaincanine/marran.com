@@ -10,7 +10,7 @@ redirects:
 dish: side dishes
 tags: India
 images:
-- http://blinkandmiss.com/wp-content/uploads/2009/12/gobhi-subzi-1024x806.jpg
+- /images/content/chana-dal.jpeg
 description: I had just come home from India and was invited to Thanksgiving dinner. Having just turned vegetarian, I decided to show off my commitment to a meat-free Thanksgiving and any culinary skills I may have inadvertantly picked up in India, so I made this dish. 
 ---
 

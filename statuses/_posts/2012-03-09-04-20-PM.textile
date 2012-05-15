@@ -40,7 +40,6 @@ likes:
   count: 7
 comments: 
   count: 0
-is_published: true
 layout: facebook-status
 title: Friday, Mar  9, 2012 - 04:20PM
 description: Thank you, 30 Rock, for naming a character "Gaylord Felcher." I practically spit out my breakfast when I heard that this morning.

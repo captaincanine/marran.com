@@ -1,0 +1,68 @@
+--- 
+id: 790499637_366530216730623
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Do I agree with all of these? No. Did I laught reading this article? Yes. And while we're on the subject...why is it so imperative that we never end a sentence with a preposition?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAkMWNkuuBo_d8E&w=90&h=90&url=http%3A%2F%2Fi.crackedcdn.com%2Fphpimages%2Farticle%2F6%2F6%2F8%2F126668_v1.jpg
+link: http://www.cracked.com/blog/7-commonly-corrected-grammar-errors-that-arent-mistakes/
+name: 7 Commonly Corrected Grammar Errors (That Aren't Mistakes)
+caption: www.cracked.com
+description: Do I agree with all of these? No. Did I laught reading this article? Yes. And while we're on the subject...why is it so imperative that we never end a sentence with a preposition?
+icon: http://static.ak.fbcdn.net/rsrc.php/v1/yf/r/0HZPW6-lhQu.png
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/366530216730623
+- name: Like
+  link: http://www.facebook.com/790499637/posts/366530216730623
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Likes
+  id: "2409997254"
+created_time: 2012-04-25T01:20:41+0000
+updated_time: 2012-04-26T01:18:51+0000
+likes: 
+  data: 
+  - name: Renee Kent
+    id: "531319519"
+  - name: Jeff Bond
+    id: "1108401510"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Leslie Gardner
+    id: "667633377"
+  count: 6
+comments: 
+  data: 
+  - id: 790499637_366530216730623_4081361
+    from: 
+      name: T'ai Chu-Richardson
+      id: "14101146"
+    message: I laught too!
+    created_time: 2012-04-25T01:28:14+0000
+    likes: 1
+  - id: 790499637_366530216730623_4081683
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: "Quick solution to the preposition conundrum? Add \"asshole\" to the end of your sentence. Boom. Fixed. Ex: Where are you going to, asshole?"
+    created_time: 2012-04-25T02:57:19+0000
+    likes: 2
+  - id: 790499637_366530216730623_4086069
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: "I read this yesterday and laughed and thought that was the end of it. Today as I worked, my brain kept interjecting: \"Why don't you just scrawl it on the floor in feces?\""
+    created_time: 2012-04-26T01:18:51+0000
+  count: 3
+layout: facebook-link
+title: Tuesday, Apr 24, 2012 - 09:20PM
+date: 2012-04-24 21:20:41 -04:00
+
+---
+Do I agree with all of these? No. Did I laught reading this article? Yes. And while we're on the subject...why is it so imperative that we never end a sentence with a preposition?

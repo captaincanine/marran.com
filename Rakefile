@@ -1,5 +1,6 @@
 require 'date'
 require 'active_support'
+require 'jekyll'
 
 desc "Given a category and title as an argument, create a new post file"
 task :post do
@@ -35,8 +36,9 @@ EOS
   sh "open #{path} -a bbedit"
 end
 
-task :generate => :clear do
-    sh 'jekyll-s3'
+task :deploy do
+  sh 'jekyll'
+  sh 's3sync -r _site/ www.marran.com:/'
 end
 
 task :commit do

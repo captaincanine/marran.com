@@ -8,6 +8,7 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDMcyXg13rjc1K7&w=130&h=
 link: http://www.youtube.com/watch?v=vnGd71hVC5o&feature=share
 source: http://www.youtube.com/v/vnGd71hVC5o?version=3&autohide=1&autoplay=1
 name: Trapped Puppy Rescued from Underground Pipe
+caption: www.youtube.com
 description: Watch this right before going into some important business meeting and try to pretend that you didn't just bawl your eyes out.
 icon: http://static.ak.fbcdn.net/rsrc.php/v1/yj/r/v2OnaTyTQZE.gif
 actions: 
@@ -31,7 +32,6 @@ likes:
   count: 1
 comments: 
   count: 0
-is_published: true
 layout: facebook-video
 title: Tuesday, Feb 14, 2012 - 02:28PM
 date: 2012-02-14 14:28:48 -05:00

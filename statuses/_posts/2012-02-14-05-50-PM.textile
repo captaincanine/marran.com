@@ -29,7 +29,6 @@ comments:
     message: Pepsi Sparta?
     created_time: 2012-02-15T01:40:01+0000
   count: 1
-is_published: true
 layout: facebook-status
 title: Tuesday, Feb 14, 2012 - 05:50PM
 description: "I would like to start a punk band solely for the reason that I found a band name that I love: Sepsis Party."
