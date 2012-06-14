@@ -8,9 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBgFQCxX6e9cvRH&w=130&h=
 link: http://vimeo.com/41690874
 source: http://vimeo.com/moogaloop.swf?clip_id=41690874&autoplay=1
 name: DELTA HEAVY - 'Get By' (official video)
-caption: vimeo.com
 description: Watch Hungry Hungry Hippos get sliced in this cool video of retro board game slaughter.
-icon: http://static.ak.fbcdn.net/rsrc.php/v1/yj/r/v2OnaTyTQZE.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/208569855928304
@@ -26,7 +25,7 @@ likes:
   data: 
   - name: Justin Winslow
     id: "1201684433"
-  - name: Tony Minghia Alioto
+  - name: "Antonio Jos\xC3\xA9 Borracho Alioto"
     id: "1133067992"
   - name: Peter Von Brown
     id: "1128953787"

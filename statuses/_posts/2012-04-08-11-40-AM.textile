@@ -9,7 +9,7 @@ link: http://jezebel.com/5898359/mad-men-fat-betty
 name: "Mad Men: Fat Betty"
 caption: jezebel.com
 description: Seeing Betty this season hit a raw nerve. I could barely look at her when she was on screen. She's the one character on the show I can't bear to see fat. What does that say about me?
-icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/176994765754554

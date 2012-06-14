@@ -9,7 +9,7 @@ link: http://www.washingtonpost.com/opinions/lets-just-say-it-the-republicans-ar
 name: "Let\xE2\x80\x99s just say it: The Republicans are the problem."
 caption: www.washingtonpost.com
 description: I usually didn't agree with the Republican party, but I used to at least understand what they stood for. Now I don't understand them at all. Where's their plan? What's their vision for the future? It seems to just be "Absolute Power for Billionaires".
-icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/415037168515176

@@ -15,7 +15,7 @@ privacy:
 type: status
 application: 
   name: Facebook for iPhone
-  namespace: fbtouch
+  namespace: fbiphone
   id: "6628568379"
 created_time: 2012-04-20T00:48:15+0000
 updated_time: 2012-04-20T08:52:58+0000
@@ -36,7 +36,7 @@ comments:
     created_time: 2012-04-20T03:11:29+0000
   - id: 790499637_10150966692959638_26145313
     from: 
-      name: Tony Minghia Alioto
+      name: "Antonio Jos\xC3\xA9 Borracho Alioto"
       id: "1133067992"
     message: ... who sauntered in through my backdoor?
     created_time: 2012-04-20T08:52:58+0000

@@ -9,7 +9,7 @@ link: http://www.reuters.com/article/2012/05/01/us-usa-newyork-security-idUSBRE8
 name: New York man convicted in subway suicide bomb plot
 caption: www.reuters.com
 description: I was wondering why there were a gazillion helicopters hovering above our heads in NYC.
-icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/184724481649766

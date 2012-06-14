@@ -1,0 +1,47 @@
+--- 
+id: 790499637_424779267562309
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I like not having cable. I pay for shows when I can, but content creators sometimes make it so hard for me to pay them for their work.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCEDQyYjKbDEs9T&w=90&h=90&url=http%3A%2F%2Fs3.amazonaws.com%2Ftheoatmeal-img%2Fthumbnails%2Fgame_of_thrones.png
+link: http://theoatmeal.com/comics/game_of_thrones
+name: I tried to watch Game of Thrones and this is what happened - The Oatmeal
+caption: theoatmeal.com
+description: I like not having cable. I pay for shows when I can, but content creators sometimes make it so hard for me to pay them for their work.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/424779267562309
+- name: Like
+  link: http://www.facebook.com/790499637/posts/424779267562309
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2012-06-13T14:17:37+0000
+updated_time: 2012-06-13T16:58:50+0000
+likes: 
+  data: 
+  - name: Melissa Agar
+    id: "530351528"
+  - name: Joel Muchmore
+    id: "1542470417"
+  - name: T'ai Chu-Richardson
+    id: "14101146"
+  count: 3
+comments: 
+  data: 
+  - id: 790499637_424779267562309_5064108
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Content providers just have to get their shit together.  I hate cable and am so happy to not have it.  I am perfectly happy paying for a series that is underway, even waiting a week or so to see each episode.  But making me wait months or even years to watch something kills the buzz and leaves me out of the public consciousness of a show which = rapid disinterest.  And it will never ever ever get me to buy cable.
+    created_time: 2012-06-13T16:58:50+0000
+  count: 1
+layout: facebook-link
+title: Wednesday, Jun 13, 2012 - 10:17AM
+date: 2012-06-13 10:17:37 -04:00
+
+---
+I like not having cable. I pay for shows when I can, but content creators sometimes make it so hard for me to pay them for their work.

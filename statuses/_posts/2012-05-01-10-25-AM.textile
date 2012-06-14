@@ -4,10 +4,10 @@ from:
   name: Keith Marran
   id: "790499637"
 story: Keith Marran was tagged in Geeks OUT's photo.
-picture: http://photos-d.ak.fbcdn.net/hphotos-ak-ash4/389193_398618996839536_157044360997002_1209418_1503057674_s.jpg
+picture: http://photos-d.ak.fbcdn.net/hphotos-ak-ash4/389193_398618996839536_1503057674_s.jpg
 link: http://www.facebook.com/photo.php?fbid=398618996839536&set=at.219062384795199.61649.157044360997002.790499637&type=1
 description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v1/yz/r/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151002440009638
@@ -32,9 +32,9 @@ likes:
   data: 
   - name: Keith Marran
     id: "790499637"
-  - name: Amy Pandya
-    id: "614818408"
-  count: 23
+  - name: Xavier Smith
+    id: "518008107"
+  count: 25
 comments: 
   data: 
   - id: 790499637_10151002440009638_991618

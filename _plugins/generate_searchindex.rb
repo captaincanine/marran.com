@@ -66,11 +66,11 @@ module Jekyll
     
     def createindex!
         
-		require 'lingua/stemmer'
-		stemmer = Lingua::Stemmer.new
-		
-		searchwords = Hash.new
-		postlist = Hash.new
+      require 'lingua/stemmer'
+      stemmer = Lingua::Stemmer.new
+      
+      searchwords = Hash.new
+      postlist = Hash.new
 					
       self.posts.each_index do |i|
       
@@ -84,29 +84,29 @@ module Jekyll
       		rawtext << ' ' + self.posts[i].data['description'].downcase
       	end
 			
-			rawtext.scan(/[a-zA-Z0-9]{1,}/).each do |word|
+        rawtext.scan(/[a-zA-Z0-9]{1,}/).each do |word|
 			
-				postlist[i] = self.posts[i]
-			
-				word = stemmer.stem(word)
-				letter = word[0,2]
-				
-				if !searchwords.key?(letter)
-					searchwords[letter] = Hash.new
-				end
-				
-				if !searchwords[letter].key?(word)
-					searchwords[letter][word] = Array.new
-				end
-				
-				searchwords[letter][word].push(i)
-				
-			end
+          postlist[i] = self.posts[i]
+        
+          word = stemmer.stem(word)
+          letter = word[0,2]
+          
+          if !searchwords.key?(letter)
+            searchwords[letter] = Hash.new
+          end
+          
+          if !searchwords[letter].key?(word)
+            searchwords[letter][word] = Array.new
+          end
+          
+          searchwords[letter][word].push(i)
+          
+        end
 				
       end
 
-		self.search_index = searchwords
-		self.search_posts = postlist
+      self.search_index = searchwords
+      self.search_posts = postlist
 
     end
     
