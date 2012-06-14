@@ -9,7 +9,7 @@ link: http://shar.es/rt0a3
 name: "Flex Mentallo: Man of Muscle Mystery Deluxe by Grant Morrison - Powell's Books"
 caption: www.powells.com
 description: If I had to pick ONE graphic novel/comic book to have on a desserted island or to force all my friends to read, this would be it. After years of being held up in potential litigation, it's finally in print again!
-icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+icon: https://s-static.ak.facebook.com/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/289471544464004

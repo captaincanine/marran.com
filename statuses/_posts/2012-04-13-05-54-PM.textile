@@ -9,7 +9,7 @@ link: http://gawker.com/5901863/todays-song-company-b-fascinated
 name: "Today's Song: Company B 'Fascinated'"
 caption: gawker.com
 description: "I think Rich Juzwiak may revive my interest in Gawker. This video must be digested. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+icon: https://s-static.ak.facebook.com/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/368817283157243

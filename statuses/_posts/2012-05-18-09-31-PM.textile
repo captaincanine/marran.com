@@ -1,0 +1,43 @@
+--- 
+id: 790499637_292153464211673
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The title almost says it all. But the reactions of the women are what make it great.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQA57juMZoos0JH6&w=130&h=130&url=http%3A%2F%2F5.media.todaysbigthing.cvcdn.com%2F60%2F38%2F61de4c31c10329e46c5bcd2de76f7233.jpg
+link: http://www.jest.com/video/174214/gilbert-gottfried-reads-fifty-shades-of-grey
+source: http://www.jest.com/moogaloop/moogaloop.swf?clip_id=174214&use_node_id=true
+name: Gilbert Gottfried Reads Fifty Shades of Grey
+description: The title almost says it all. But the reactions of the women are what make it great.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/292153464211673
+- name: Like
+  link: http://www.facebook.com/790499637/posts/292153464211673
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Likes
+  id: "2409997254"
+created_time: 2012-05-19T01:31:45+0000
+updated_time: 2012-05-19T01:31:45+0000
+likes: 
+  data: 
+  - name: Robert Russin
+    id: "809360003"
+  - name: Thomas Rogers
+    id: "538628386"
+  count: 2
+comments: 
+  count: 0
+layout: facebook-video
+title: Friday, May 18, 2012 - 09:31PM
+date: 2012-05-18 21:31:45 -04:00
+
+---
+The title almost says it all. But the reactions of the women are what make it great.

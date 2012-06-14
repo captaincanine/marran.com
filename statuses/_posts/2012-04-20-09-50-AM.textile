@@ -4,7 +4,7 @@ from:
   name: Keith Marran
   id: "790499637"
 story: Keith Marran shared The Wife Chronicles's photo.
-picture: http://photos-b.ak.fbcdn.net/hphotos-ak-snc7/72985_216784495096706_113355855439571_344848_851183870_s.jpg
+picture: http://photos-b.ak.fbcdn.net/hphotos-ak-ash4/72985_216784495096706_851183870_s.jpg
 link: http://www.facebook.com/photo.php?fbid=216784495096706&set=a.113358455439311.17764.113355855439571&type=1
 name: Wall Photos
 caption: CAN YOU BELIEVE THIS HAS HAD OVER 6,000 LIKES AND 600 COMMENTS SINCE I POSTED THIS? WOW!
@@ -12,7 +12,7 @@ properties:
 - name: By
   text: The Wife Chronicles
   href: http://www.facebook.com/pages/The-Wife-Chronicles/113355855439571
-icon: http://static.ak.fbcdn.net/rsrc.php/v1/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/286709228079063

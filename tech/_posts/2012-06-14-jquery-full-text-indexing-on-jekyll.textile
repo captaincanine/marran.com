@@ -1,0 +1,337 @@
+---
+layout: post
+title: JQuery Full-Text Indexing on Jekyll
+tags: 
+- Jekyll
+- Ruby
+description: The one feature that I was going to miss the most when moving to Jekyll was having a full-text search for my site. But with a little study, it turns out I was able to get a rudimentary search going with JQuery.
+---
+Content goes The one feature that I was going to miss the most when moving to Jekyll was having a full-text search for my site. But with a little study, it turns out I was able to get a rudimentary search going with JQuery. The problem is not so much in making a full-text index in JQuery, the problem is making one that doesn't require downloading all the content in the site to calculate a query. 
+
+All I wanted was a giant hash table so that I could look up a word and know which posts had that word. It's not rocket science. Hash tables are pretty easy to create with JSON, so why not have a series of pages that were JSON hashes telling you which words pointed to which posts. The main drawback is that your hash table is bound to be enormous. That's not polite to the client to make them download a huge file and keep it in memory. Most users, when searching, generally only look for a few words. What if you could break the full-text into separate files and only load the part of the index that you need at the time? Could you make a responsive full-text index? Yes, you could.
+
+This is how it works...
+
+When the site is being compiled, Jekyll takes all the text for each post and creates a giant hash of words and their posts. Most words will have multiple posts.
+
+Once all the posts have been indexed, Jekyll create a series of JSON files containing the words and the associated posts. It breaks the files based on the first letters of the word. So "smoke" ends up in "sm.json" and "wreck" ends up in "wr.json". 
+
+When a user executes a search on the site, JQuery takes the first two letters of whatever the user typed and fetches that JSON file. It gets the word that it was looking for and can identify which posts it needs to show to the user. 
+
+I then created a special layout for the search result objects. So JQuery then gets the HTML for the associated posts and displays them to the end user. It turns out, this happens relatively quickly. It's faster than a lot of client side searches I've used (I'm looking at you, Drupal). 
+
+Here's what you need to do to get this work. First of all, put this in your @_config.yml@:
+
+{% highlight text %}
+searchindex: yes
+{% endhighlight %}
+
+Next, we'll create the layout for the search result snippet. Create a file called @search_post.html@ in your @_layouts@ directory with this in it:
+
+{% highlight html %}{% raw %}
+<div class="search-entry">
+<div class="title"><a href="{{ page.link }}" title="{{ page.title }}">{{ page.title }}</a></div>
+<div class="description">{{ page.description }}</div>
+</div>
+{% endraw %}{% endhighlight %}
+
+Note that my Jekyll site uses a @description@ attribute in the YAML front matter that I think is not standard with Jekyll. It comes in handy for times like this and also for creating meta tags and open graph tags.
+
+Next, create a file in your @_plugins@ directory called @generate_searchindex.rb@. Wrap the whole thing in a @module Jekyll@ statement. Add a new Page object. This will be the series of JSON files that we will be creating:
+
+{% highlight ruby %}
+class SearchIndex < Page
+  def initialize(site, base, dir, letters)
+    @site = site
+    @base = base
+    @dir = dir
+    @name = "#{letters}.json"
+
+    self.process(@name)
+  end
+end
+{% endhighlight %}
+
+Next, create a page object for the search result pages:
+
+{% highlight ruby %}
+class SearchPost < Page
+  def initialize(site, base, dir, pid, post)
+    @site = site
+    @base = base
+    @dir = dir
+    @name = "#{pid}.html"
+
+    self.process(@name)
+    # Read the YAML data from the layout page.
+    self.read_yaml(File.join(base, '_layouts'), 'search_post.html')
+    # Set the title for this page.
+    self.data['title'] = post.data['title']
+    self.data['link'] = post.url
+    self.data['description'] = post.data['description']
+  end
+end
+{% endhighlight %}
+
+Now, we need to do the actual processing. This plugin is essentially a generator, so let's create a new generator object:
+
+{% highlight ruby %}
+class SearchGenerator < Generator
+
+  safe false
+  priority :low
+      
+  def generate(site)
+    site.write_search_files if (site.config['searchindex']) 
+  end
+    
+end
+{% endhighlight %}
+
+You'll notice that I marked this as not safe. This plugin will not on Github because I included stemming. And for stemming to work, you have to run it on your own machine and upload the files to Github separately. 
+
+NOTE ON STEMMING: I use stemming so that "running" returns "runs" or "run" or "running". I decided that it was sort of a must-have for a basic search engine. I'm using @ruby-stemmer@ from "https://github.com/aurelian/ruby-stemmer":https://github.com/aurelian/ruby-stemmer. 
+
+Here's the important code:
+
+{% highlight ruby %}
+
+class Site
+
+  attr_accessor :search_index, :search_posts
+
+  def write_search_files
+
+    createindex!
+  
+    dir = self.config['search_dir'] || 'search'
+    
+    self.search_index.keys.each do |letter|
+      write_search_index(self, File.join(dir, 'terms'), letter, self.search_index[letter])
+    end
+          
+    self.search_posts.keys.each do |i|
+      write_search_post(self, File.join(dir, 'posts'), i, self.search_posts[i])
+    end
+  
+  end
+
+  def write_search_index(site, dir, letter, data)
+    require 'json'
+    index = SearchIndex.new(site, site.source, dir, letter)        			
+    index.output = data.to_json
+    index.write(site.dest)
+    self.static_files << index
+  end
+  
+  def write_search_post(site, dir, pid, post)
+    index = SearchPost.new(site, site.source, dir, pid, post)
+    index.render(site.layouts, site_payload)
+    index.write(site.dest)
+    # Record the fact that this page has been added, otherwise Site::cleanup will remove it.
+    self.static_files << index
+  end
+  
+  def createindex!
+      
+    require 'lingua/stemmer'
+    stemmer = Lingua::Stemmer.new
+    
+    searchwords = Hash.new
+    postlist = Hash.new
+        
+    self.posts.each_index do |i|
+    
+      rawtext = self.posts[i].to_s.downcase
+
+      if self.posts[i].data['title']
+        rawtext << ' ' + self.posts[i].data['title'].downcase
+      end
+      
+      if self.posts[i].data['description']
+        rawtext << ' ' + self.posts[i].data['description'].downcase
+      end
+    
+      rawtext.scan(/[a-zA-Z0-9]{1,}/).each do |word|
+    
+        postlist[i] = self.posts[i]
+      
+        word = stemmer.stem(word)
+        letter = word[0,2]
+        
+        if !searchwords.key?(letter)
+          searchwords[letter] = Hash.new
+        end
+        
+        if !searchwords[letter].key?(word)
+          searchwords[letter][word] = Array.new
+        end
+        
+        searchwords[letter][word].push(i)
+        
+      end
+      
+    end
+
+    self.search_index = searchwords
+    self.search_posts = postlist
+
+  end
+  
+end
+{% endhighlight %}
+
+This code creates two big hash variables in the @createindex!@ method. One stores the association of words to post ids. The other stores a hash of post ids to their posts. 
+
+Then, the code creates a series of JSON files and puts it in @search/terms@. It puts an HTML file for each post in @search/posts@.
+
+Whew. 
+
+Hopefully the back-end is working now. It's time to get this working on the front end.
+
+Since I'm stemming on the back-end, I need to stem on the front end. I used the "Porter-Stemmer algorithm":http://tartarus.org/~martin/PorterStemmer/ as provided by Martin Porter. Download the file and put it on your server.
+
+Next, create a file called @site-search.js@ on your server. Here's the first bit of code for it:
+
+{% highlight javascript %}
+var searchTimer;
+
+$(document).ready( function () {
+
+	$('#search-bar .page-bounds').prepend('<div id="search-results"></div>');
+
+	$('#search-text').keydown( function () {
+		if (searchTimer == null)
+			searchTimer = setTimeout("siteSearch($('#search-text').val())", 500);
+	});
+
+})
+{% endhighlight %}
+
+This code sets a global Javascript variable, creates an element for search results, and then listens for changes to the search text box. 
+
+Here's the code that does the actual searching: 
+
+{% highlight javascript %}
+siteSearch = function(w) {
+
+    var words;
+    var o = this;
+    
+    o.parseWords = function(w) {
+        
+        // parse the words out of the query
+        words = w.toLowerCase().match(/\w{2,}/gi);
+        
+        // convert the array to stemmed words
+        sWords = new Array();
+        for (w2 in words) {
+            stem = stemmer(words[w2]);
+            if ($.inArray(stem, sWords) == -1) {
+                sWords.push(stem);
+            }
+        }
+        
+        // return the stemmed version
+        return sWords;
+
+    };
+
+    o.getIndexUrls = function(ws) {
+    
+        // create an array of urls pointing to the first letter of each word
+        files = new Object();
+        for (word in ws) {
+            temp = '/search/terms/' + ws[word].substring(0, 2).toLowerCase() + '.json';
+            files[temp] = null;
+        }
+        
+        return files;
+        
+    };
+
+    o.loadIndexes = function(is) {  
+        // make an ajax call to get all the indexes
+        for (file in is) {
+            $.getJSON(file, o.getPostIds);
+        }
+    };
+    
+    o.getPostIds = function(ts) {
+
+        var postData = new Object();
+            
+        // loop through the terms, then the ids for each term
+        for (var term in ts) {
+            
+					// if the index term matches one of our search terms, add it to the list of posts
+					if ($.inArray(term, o.words) != -1) {															
+						for (id in ts[term]) {
+							if (!postData[ts[term][id]]) {
+								postData[ts[term][id]] = 1;
+							} else {
+								postData[ts[term][id]] ++;
+							}
+						}
+					}
+            
+        }
+        
+			var sortable = [];
+			for (var postId in postData) {
+				sortable.push([postId, postData[postId]])
+			}
+			
+			o.posts = sortable.sort(function(a, b) {return b[1] - a[1]})
+							
+    };
+    
+    o.getPosts = function() {
+        		
+		for (var i=0; i < o.posts.length && i < 20; i++) {
+			$.get('/search/posts/' + o.posts[i][0] + '.html', o.loadPostData);
+		}
+
+		$(document).unbind();
+
+    };
+
+    o.loadPostData = function(ts) {
+        $('#search-results').append(ts);
+    }
+    
+	 // here's the main code of the function
+	 clearTimeout(searchTimer);
+	 searchTimer = null;
+	 $(document).unbind();
+    $('#search-results').empty();
+    $('#search-results').hide();
+
+    o.posts = new Array();
+    o.words = o.parseWords(w);
+    o.indexUrls = o.getIndexUrls(o.words);
+    
+    o.loadIndexes(o.indexUrls);
+    
+    $(document).ajaxStop(function () { 
+    	if (o.posts.length) {
+    		o.getPosts();
+    		$('#search-results').show()
+    	}
+    });
+    
+};
+
+{% endhighlight %}
+
+The only thing complicated about this code is the AJAX-iness of it. Essentially, it takes what's currently in the #search-text box, converts it to lower case, stems it, and then loads the JSON files based on the first two letters of each search word. Once it gets those responses, it takes all the post ids in those objects and goes to get an HTML snippet for that post - based on the id. 
+
+There are some current limitations that I always mean to build but have yet to get around to it. It should listen for arrow commands from the user and highlight results. It should also listen for a return command and take the user to a search results page. Actually, that's how I was originally going to build it, but I decided that a popup was more convenient. The logic for a dedicated search results page would be the same: go to a page whose only responsibility was to run this Javascript and populate itself with results. 
+
+Also, I'd like to add pagination at some point. 
+
+There are some bugs in it which I have not had the time to trace down. It works pretty well most of the time. 
+
+You can see the whole thing working at marran.com. And all the source code is in "https://github.com/pelosi/marran.com":https://github.com/pelosi/marran.com.
+
+No servers working overtime to make it happen!

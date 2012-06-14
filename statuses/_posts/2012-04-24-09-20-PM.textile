@@ -9,7 +9,7 @@ link: http://www.cracked.com/blog/7-commonly-corrected-grammar-errors-that-arent
 name: 7 Commonly Corrected Grammar Errors (That Aren't Mistakes)
 caption: www.cracked.com
 description: Do I agree with all of these? No. Did I laught reading this article? Yes. And while we're on the subject...why is it so imperative that we never end a sentence with a preposition?
-icon: http://static.ak.fbcdn.net/rsrc.php/v1/yf/r/0HZPW6-lhQu.png
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/366530216730623
