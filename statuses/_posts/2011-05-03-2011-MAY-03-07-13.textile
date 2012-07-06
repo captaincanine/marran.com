@@ -1,0 +1,45 @@
+--- 
+id: 790499637_10150284357739638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The Crystal Party is this Thursday. It's THE big Mount Sinai social event. David has told me that I can wear neither a kilt nor a dhoti. So I'm thinking of dressing up like the fifth member of Sgt Pepper's or picking an early look from David Bowie. Any suggestions?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150284357739638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150284357739638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-05-03T11:13:33+0000
+updated_time: 2011-05-03T23:06:08+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150284357739638_18013180
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Do Aladdin Sane, but be sure to do the gatefold.  Much more striking.  http://www.minilps.net/bowie-david/aladdin-sane-tocp-70145/inside-gatefold-1628#bigpic
+    created_time: 2011-05-03T18:10:20+0000
+  - id: 790499637_10150284357739638_18020197
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: freddie mercury from "i want to break free" film clip.....oh the pressures of being a doctor's wife.....
+    created_time: 2011-05-03T23:06:08+0000
+  count: 8
+layout: facebook-status
+title: Tuesday, May  3, 2011 - 07:13AM
+date: 2011-05-03 07:13:33 -04:00
+
+---
+The Crystal Party is this Thursday. It's THE big Mount Sinai social event. David has told me that I can wear neither a kilt nor a dhoti. So I'm thinking of dressing up like the fifth member of Sgt Pepper's or picking an early look from David Bowie. Any suggestions?

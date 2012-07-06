@@ -1,0 +1,39 @@
+--- 
+id: 790499637_256022834423381
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: And the TEMPERATURE is too damn high!
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCoKApP6DFv2wVO&w=90&h=90&url=http%3A%2F%2Fwww.thegrio.com%2Fassets_c%2F2010%2F10%2Frent-is-too-damn-high-thumb-400xauto-13615.jpg
+link: http://www.thegrio.com/assets_c/2010/10/rent-is-too-damn-high-thumb-400xauto-13615.jpg
+name: The Rent is Too Damn High Guy
+caption: www.thegrio.com
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/256022834423381
+- name: Like
+  link: http://www.facebook.com/790499637/posts/256022834423381
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+created_time: 2011-07-23T12:15:02+0000
+updated_time: 2011-07-23T12:15:02+0000
+likes: 
+  data: 
+  - name: David L Steele
+    id: "1407655463"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  count: 2
+comments: 
+  count: 0
+layout: facebook-link
+title: Saturday, Jul 23, 2011 - 08:15AM
+date: 2011-07-23 08:15:02 -04:00
+
+---
+And the TEMPERATURE is too damn high!

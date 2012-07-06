@@ -1,0 +1,42 @@
+--- 
+id: 790499637_163927253659203
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Perhaps one of the reasons that Bollywood is such a bigger industry than Hollywood is that they just don't over-think things.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDS-Ctu318cuAVz&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2Ff5Pjo0WjBcs%2F0.jpg
+link: http://www.youtube.com/watch?v=f5Pjo0WjBcs
+source: http://www.youtube.com/v/f5Pjo0WjBcs&autoplay=1
+name: Indian Superman
+description: Perhaps one of the reasons that Bollywood is such a bigger industry than Hollywood is that they just don't over-think things.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/163927253659203
+- name: Like
+  link: http://www.facebook.com/790499637/posts/163927253659203
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-02-12T03:17:48+0000
+updated_time: 2011-02-12T03:17:48+0000
+likes: 
+  data: 
+  - name: Granville Eric Miller
+    id: "689920456"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-video
+title: Friday, Feb 11, 2011 - 10:17PM
+link-info: "Lookie Here:  Another Indian Superman Song, from the movie, \"Dariya Dil\" starring Govinda, And watch out for the girl dressed like Spider Woman"
+date: 2011-02-11 22:17:48 -05:00
+
+---
+Perhaps one of the reasons that Bollywood is such a bigger industry than Hollywood is that they just don't over-think things.

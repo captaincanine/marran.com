@@ -1,0 +1,36 @@
+--- 
+id: 790499637_10150480372769638
+from: 
+  name: Keith Marran
+  id: "790499637"
+to: 
+  data: 
+  - name: David Reich
+    id: "1641745987"
+message: I convinced David to see Moneyball with me by convincing him it was a movie about STATISTICS, not baseball. And to some extent, I was right.
+message_tags: 
+  "12": 
+  - id: "1641745987"
+    name: David
+    type: user
+    offset: 12
+    length: 5
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150480372769638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150480372769638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2011-10-10T01:57:26+0000
+updated_time: 2011-10-10T01:57:26+0000
+comments: 
+  count: 0
+layout: facebook-status
+title: Sunday, Oct  9, 2011 - 09:57PM
+date: 2011-10-09 21:57:26 -04:00
+
+---
+I convinced David to see Moneyball with me by convincing him it was a movie about STATISTICS, not baseball. And to some extent, I was right.

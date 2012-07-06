@@ -1,0 +1,32 @@
+--- 
+id: 790499637_165986843498620
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: No more Ken Russel. How sad. If you want to see a truly beyond bizarre film, try to get your hands on an uncensored copy of The Devils. Vanessa Redgrave and Oliver Reed make it worth your time. And the sets by Derek Jarman help, too.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBVZ1jDcdtlIrH7&w=90&h=90&url=http%3A%2F%2Fgraphics8.nytimes.com%2Fimages%2F2011%2F11%2F29%2Farts%2F29russell_1%2F29russell_1-thumbStandard.jpg
+link: http://www.nytimes.com/2011/11/29/arts/ken-russell-controversial-director-dies-at-84.html
+name: Ken Russell, Controversial Director, Dies at 84
+caption: www.nytimes.com
+description: No more Ken Russel. How sad. If you want to see a truly beyond bizarre film, try to get your hands on an uncensored copy of The Devils. Vanessa Redgrave and Oliver Reed make it worth your time. And the sets by Derek Jarman help, too.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/165986843498620
+- name: Like
+  link: http://www.facebook.com/790499637/posts/165986843498620
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2011-11-28T21:49:01+0000
+updated_time: 2011-11-28T21:49:01+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Monday, Nov 28, 2011 - 04:49PM
+link-info: A polarizing figure who delighted in breaching the limits of propriety and cinematic good taste, Mr. Russell courted controversy through much of his career.
+date: 2011-11-28 16:49:01 -05:00
+
+---
+No more Ken Russel. How sad. If you want to see a truly beyond bizarre film, try to get your hands on an uncensored copy of The Devils. Vanessa Redgrave and Oliver Reed make it worth your time. And the sets by Derek Jarman help, too.

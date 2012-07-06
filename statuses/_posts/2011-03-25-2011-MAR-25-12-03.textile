@@ -1,0 +1,56 @@
+--- 
+id: 790499637_198443326853359
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have only ever listened to Joni Mitchell and always thought of her and her music as very delicate. But seeing her in this performance she is brash, exacting, and free. What an amazing performer.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQB15Twn6rr4GaCI&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FyMc_Q0bBRjg%2F0.jpg
+link: http://www.youtube.com/watch?v=yMc_Q0bBRjg
+source: http://www.youtube.com/v/yMc_Q0bBRjg&fs=1?autoplay=1
+name: Joni Mitchell-California (The Johnny Cash Show)
+description: I have only ever listened to Joni Mitchell and always thought of her and her music as very delicate. But seeing her in this performance she is brash, exacting, and free. What an amazing performer.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/198443326853359
+- name: Like
+  link: http://www.facebook.com/790499637/posts/198443326853359
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2011-03-25T16:03:01+0000
+updated_time: 2011-03-25T16:47:48+0000
+likes: 
+  data: 
+  - name: Robert Lucas
+    id: "100000816082478"
+  - name: Jeffrey B Hall
+    id: "503065668"
+  - name: Linda Rosenson Coe
+    id: "1440111516"
+  - name: Dave Gonzales
+    id: "1331442386"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_198443326853359_2765826
+    from: 
+      name: Robert Cowie
+      id: "669622808"
+    message: Yup! That's badass.  Trying to imagine some star of today doing something that well solo (while accompanying herself on dulcimer).  Don't think Katy Perry would quite pull it off!
+    created_time: 2011-03-25T16:47:48+0000
+    likes: 1
+  count: 1
+layout: facebook-video
+title: Friday, Mar 25, 2011 - 12:03PM
+link-info: This is Joni Mitchell singing California on The Johnny Cash Show. California was first released on Joni's hit album, Blue.
+date: 2011-03-25 12:03:01 -04:00
+
+---
+I have only ever listened to Joni Mitchell and always thought of her and her music as very delicate. But seeing her in this performance she is brash, exacting, and free. What an amazing performer.

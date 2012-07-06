@@ -1,0 +1,54 @@
+--- 
+id: 790499637_10150242149234638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: |-
+  Trying to remember my favorite albums from the 80's that still sound great to me today: Queen's "The Game", Prince's "Purple Rain", Police's "Synchronicity", Michael Jackson "Thriller", Cyndi Lauper's "She's So Unusual".
+  
+  Several albums I loved at the time that no longer do it for me: like Van Halen's "1984" and Def Leppard's "Pyromania" (though I love randomly singing "Fa-Fa-Fa-FOOLIN"). 
+  
+  Any additions?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150242149234638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150242149234638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-04-01T15:35:19+0000
+updated_time: 2011-04-03T21:22:56+0000
+likes: 
+  data: 
+  - name: David L Steele
+    id: "1407655463"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150242149234638_17208529
+    from: 
+      name: David L Steele
+      id: "1407655463"
+    message: I was going to add that one to the list.  Also, Prince 1999.  'Let's Pretend We're Married' is still one of my favorite songs.
+    created_time: 2011-04-03T21:21:38+0000
+  - id: 790499637_10150242149234638_17208551
+    from: 
+      name: David L Steele
+      id: "1407655463"
+    message: Devo holds up, too.
+    created_time: 2011-04-03T21:22:56+0000
+  count: 7
+layout: facebook-status
+title: Friday, Apr  1, 2011 - 11:35AM
+date: 2011-04-01 11:35:19 -04:00
+
+---
+Trying to remember my favorite albums from the 80's that still sound great to me today: Queen's "The Game", Prince's "Purple Rain", Police's "Synchronicity", Michael Jackson "Thriller", Cyndi Lauper's "She's So Unusual".
+
+Several albums I loved at the time that no longer do it for me: like Van Halen's "1984" and Def Leppard's "Pyromania" (though I love randomly singing "Fa-Fa-Fa-FOOLIN"). 
+
+Any additions?

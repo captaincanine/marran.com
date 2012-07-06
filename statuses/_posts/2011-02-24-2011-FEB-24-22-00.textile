@@ -1,0 +1,48 @@
+--- 
+id: 790499637_132688573466227
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "I just saw the first episode of \"Portlandia\" by Fred Armisen and Carrie Brownstein. It's HILARIOUS! And it helps if you know Oregon, though not necessary. "
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQC5p_l7yMcLL6IX&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FmBt4HlcDUDw%2F3.jpg
+link: http://www.youtube.com/watch?v=mBt4HlcDUDw
+source: http://www.youtube.com/v/mBt4HlcDUDw&autoplay=1
+name: "Portlandia: Dream of the 90s [ HQ ]"
+description: "I just saw the first episode of \"Portlandia\" by Fred Armisen and Carrie Brownstein. It's HILARIOUS! And it helps if you know Oregon, though not necessary. "
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/132688573466227
+- name: Like
+  link: http://www.facebook.com/790499637/posts/132688573466227
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+created_time: 2011-02-25T03:00:55+0000
+updated_time: 2011-02-25T12:49:29+0000
+comments: 
+  data: 
+  - id: 790499637_132688573466227_870538
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: I hope they make an episode about how much time and effort people in Portland have been spending deciding if they're offended or not!- Truly ridiculous!!
+    created_time: 2011-02-25T03:22:27+0000
+    likes: 1
+  - id: 790499637_132688573466227_871706
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I think it would be hard to sustain any level of outrage in Oregon because you're bound to run across a crazier version of whatever character they were making fun of.
+    created_time: 2011-02-25T12:49:29+0000
+  count: 4
+layout: facebook-video
+title: Thursday, Feb 24, 2011 - 10:00PM
+link-info: The 6-part IFC Original short-based comedy series PORTLANDIA, created, written by and starring Fred Armisen (SNL) and Carrie Brownstein (vocalist/guitarist, WILD FLAG, Sleater-Kinney), premieres on IFC Friday, January 21, 2011 at 10:30 PM ET/PT. Each episode's character-based shorts draw viewers int
+date: 2011-02-24 22:00:55 -05:00
+
+---
+I just saw the first episode of "Portlandia" by Fred Armisen and Carrie Brownstein. It's HILARIOUS! And it helps if you know Oregon, though not necessary. 

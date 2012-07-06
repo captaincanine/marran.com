@@ -1,0 +1,53 @@
+--- 
+id: 790499637_179597352139839
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Geez, I blubbered through this. Every time she smiles, she convinces me that goodness and happiness will always win out in the end. I feel like I could do anything when I listen to her. God bless her.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBiPI-3ANR_mUmO&w=130&h=130&url=http%3A%2F%2Fi3.ytimg.com%2Fvi%2FFaSjIiaI5s0%2Fhqdefault.jpg
+link: http://www.youtube.com/watch?v=FaSjIiaI5s0&feature=share
+source: http://www.youtube.com/v/FaSjIiaI5s0?version=3&autohide=1&autoplay=1
+name: Rep. Gabrielle Giffords Announces Resignation
+description: Geez, I blubbered through this. Every time she smiles, she convinces me that goodness and happiness will always win out in the end. I feel like I could do anything when I listen to her. God bless her.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/179597352139839
+- name: Like
+  link: http://www.facebook.com/790499637/posts/179597352139839
+privacy: 
+  description: Public
+  value: EVERYONE
+type: video
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-01-23T02:14:58+0000
+updated_time: 2012-01-23T05:09:46+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  - name: Michael Horn
+    id: "607677145"
+  - name: Rebecca Gillan Ballard
+    id: "62601527"
+  - name: Bob Harrison
+    id: "1346645434"
+  count: 7
+comments: 
+  data: 
+  - id: 790499637_179597352139839_640056
+    from: 
+      name: Dyan Maitland-Bledsoe
+      id: "786609558"
+    message: Inspiring. Thanks for posting...
+    created_time: 2012-01-23T05:09:46+0000
+  count: 1
+layout: facebook-video
+title: Sunday, Jan 22, 2012 - 09:14PM
+link-info: The announcement by Rep. Gabby Giffords that she's leaving Congress.
+date: 2012-01-22 21:14:58 -05:00
+
+---
+Geez, I blubbered through this. Every time she smiles, she convinces me that goodness and happiness will always win out in the end. I feel like I could do anything when I listen to her. God bless her.

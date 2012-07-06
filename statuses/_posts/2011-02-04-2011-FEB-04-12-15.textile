@@ -1,0 +1,40 @@
+--- 
+id: 790499637_162136370504608
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have to make dinner for small gathering (<15 people). It has to be vegetarian and be relatively kid friendly. I kinda wanted to make good mac & cheese. I can't think what else to serve with it. Maybe tomato soup? Maybe a baked eggs dish (with spinach?)? Any suggestions?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/162136370504608
+- name: Like
+  link: http://www.facebook.com/790499637/posts/162136370504608
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-02-04T17:15:46+0000
+updated_time: 2011-02-04T23:05:00+0000
+comments: 
+  data: 
+  - id: 790499637_162136370504608_1812917
+    from: 
+      name: Andrew Farrell
+      id: "546949607"
+    message: Def if you are making something heavy like mac and cheese start with something light and cool.  Salad with vinaigrette; tomato salad w/ cucumbers?  I've been digging on pears in salads lately.  The sweetness really counters a nice balsamic dressing
+    created_time: 2011-02-04T20:50:27+0000
+  - id: 790499637_162136370504608_1813612
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: lentil and ricotta patties can be placed in a burger bun and eaten like a hamburger or made into little bite size balls as a starter. Add a little curry to the mixture before cooking and they're yuuuummm!!
+    created_time: 2011-02-04T23:05:00+0000
+  count: 7
+layout: facebook-status
+title: Friday, Feb  4, 2011 - 12:15PM
+date: 2011-02-04 12:15:46 -05:00
+
+---
+I have to make dinner for small gathering (<15 people). It has to be vegetarian and be relatively kid friendly. I kinda wanted to make good mac & cheese. I can't think what else to serve with it. Maybe tomato soup? Maybe a baked eggs dish (with spinach?)? Any suggestions?

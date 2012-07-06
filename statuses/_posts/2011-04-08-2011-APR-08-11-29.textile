@@ -1,0 +1,39 @@
+--- 
+id: 790499637_190554600987789
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Just completed \"Rails for Zombies.\" If you're new-ish to Ruby on Rails or just like a lot of zombie-related coding humor, check it out: http://railsforzombies.org/"
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAw6pFKWvpcBQsQ&w=90&h=90&url=http%3A%2F%2Frailsforzombies.org%2Fcode_path_course_engine%2Fimages%2Fpromo-rbp.jpg%3F1300999723
+link: http://railsforzombies.org/
+name: Code School - RailsForZombies
+caption: railsforzombies.org
+description: "Just completed \"Rails for Zombies.\" If you're new-ish to Ruby on Rails or just like a lot of zombie-related coding humor, check it out: http://railsforzombies.org/"
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/190554600987789
+- name: Like
+  link: http://www.facebook.com/790499637/posts/190554600987789
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+created_time: 2011-04-08T15:29:12+0000
+updated_time: 2011-04-08T15:29:12+0000
+likes: 
+  data: 
+  - name: Brian Begy
+    id: "658570916"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-link
+title: Friday, Apr  8, 2011 - 11:29AM
+link-info: Then you may want to check out Rails Best Practices, which is full of techniques to clean up your code and improve the quality of your Rails applications. It also covers a bunch of Rails 3 methods you may not have seen before.
+date: 2011-04-08 11:29:12 -04:00
+
+---
+Just completed "Rails for Zombies." If you're new-ish to Ruby on Rails or just like a lot of zombie-related coding humor, check it out: http://railsforzombies.org/

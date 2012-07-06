@@ -1,0 +1,59 @@
+--- 
+id: 790499637_279705948804223
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: To everyone I knew in high school....thanks.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQA4DUjnzSoAAMN8&w=90&h=90&url=http%3A%2F%2Fgeeksout.org%2Fsites%2Fdefault%2Ffiles%2Fevent-images%2Fhqdefault_23.jpg
+link: http://shar.es/tmDjd
+name: "Talk to Your 12 Year Old Self: A New Take on the It Gets Better Project?"
+caption: geeksout.org
+description: To everyone I knew in high school....thanks.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/279705948804223
+- name: Like
+  link: http://www.facebook.com/790499637/posts/279705948804223
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-07-05T23:16:40+0000
+updated_time: 2012-07-06T06:08:14+0000
+shares: 
+  count: 1
+likes: 
+  data: 
+  - name: Leslie Gardner
+    id: "667633377"
+  - name: John Whittemore
+    id: "505628666"
+  - name: Brian Chambers
+    id: "738244877"
+  count: 3
+comments: 
+  data: 
+  - id: 790499637_279705948804223_1272736
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: Mmmmmmmwah!
+    created_time: 2012-07-06T04:40:16+0000
+  - id: 790499637_279705948804223_1272913
+    from: 
+      name: Mark Oppenlander
+      id: "42903628"
+    message: Keith - the video made me laugh; your comments made me a little bit misty-eyed.  I still have very fond memories of our time in HS.  You're right.  Our little "family" of misfits got us all through a lot of the teenage angst, alienation and "otherness."  So glad you were a part of it.  How are things?
+    created_time: 2012-07-06T06:08:14+0000
+  count: 7
+layout: facebook-link
+title: Thursday, Jul  5, 2012 - 07:16PM
+link-info: "Dan Savage started the It Gets Better Project because he wished he could speak to all those LGBT teenagers having a rough time of it in school and at home. Well, this filmmaker has a novel take on that subject. He talks to his twelve-year-old self, twenty years in the future. "
+date: 2012-07-05 19:16:40 -04:00
+
+---
+To everyone I knew in high school....thanks.

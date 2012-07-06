@@ -1,0 +1,44 @@
+--- 
+id: 790499637_427315140620952
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: SHOCKER!
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCiHXi9NOp55FLN&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F17nc29xxbvrwmjpg%2Ffb.jpg
+link: http://gawker.com/5912012/american-idiots-congress-dumbs-itself-down-one-full-grade-level
+name: "American Idiots: Congress Dumbs Itself Down One Full Grade Level"
+caption: gawker.com
+description: SHOCKER!
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/427315140620952
+- name: Like
+  link: http://www.facebook.com/790499637/posts/427315140620952
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Likes
+  id: "2409997254"
+created_time: 2012-05-21T19:14:18+0000
+updated_time: 2012-05-21T19:14:18+0000
+shares: 
+  count: 1
+likes: 
+  data: 
+  - name: Craig Choma
+    id: "100001269764839"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-link
+title: Monday, May 21, 2012 - 03:14PM
+link-info: "In more news that will take the wind out of my father's sails\xE2\x80\x94Congress appears to be getting collectively dumber.  The Sunglight foundation analyzed Congressional speech and found that over the past seven years they've gone from talking like high school juniors to sophomores."
+date: 2012-05-21 15:14:18 -04:00
+
+---
+SHOCKER!

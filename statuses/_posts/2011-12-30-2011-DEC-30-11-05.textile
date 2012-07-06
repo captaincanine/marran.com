@@ -1,0 +1,34 @@
+--- 
+id: 790499637_157261267710610
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "I adore Lady Bunny. She (and Wigstock) were one of the main reasons I chose to move to NYC. If anyone wants to join me, send me a message. "
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQActlOHfsgnXXRM&w=90&h=90&url=http%3A%2F%2Fgraphics8.nytimes.com%2Fimages%2F2011%2F12%2F26%2Farts%2Fsub-that%2Fsub-that-articleInline.jpg
+link: http://www.nyti.ms/vGBrhK
+name: "Lady Bunny in \xE2\x80\x98That Ain\xE2\x80\x99t No Lady!\xE2\x80\x99 at La Escuelita - Review - NYTimes.com"
+caption: www.nyti.ms
+description: "I adore Lady Bunny. She (and Wigstock) were one of the main reasons I chose to move to NYC. If anyone wants to join me, send me a message. "
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/157261267710610
+- name: Like
+  link: http://www.facebook.com/790499637/posts/157261267710610
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+created_time: 2011-12-30T16:05:26+0000
+updated_time: 2011-12-30T16:05:26+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Friday, Dec 30, 2011 - 11:05AM
+link-info: In a world where drag has gone mainstream, Lady Bunny brings a tonic sewer sensibility to her stand-up routine at La Escuelita Cabaret Theater.
+date: 2011-12-30 11:05:26 -05:00
+
+---
+I adore Lady Bunny. She (and Wigstock) were one of the main reasons I chose to move to NYC. If anyone wants to join me, send me a message. 

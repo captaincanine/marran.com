@@ -1,0 +1,64 @@
+--- 
+id: 790499637_101596656598628
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Life imitates Disney
+story: Keith Marran shared Afla Sohail's photo.
+picture: http://photos-g.ak.fbcdn.net/hphotos-ak-snc6/227365_10150292095488976_6511516_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150292095488976&set=o.203705509669392&type=1
+caption: pure coincidence?
+properties: 
+- name: By
+  text: Afla Sohail
+  href: http://www.facebook.com/oflos
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/101596656598628
+- name: Like
+  link: http://www.facebook.com/790499637/posts/101596656598628
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: photo
+object_id: "10150292095488976"
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2011-05-12T16:19:24+0000
+updated_time: 2011-05-12T18:20:05+0000
+likes: 
+  data: 
+  - name: Tina Purdy
+    id: "100001119760877"
+  - name: Mindy Crary
+    id: "1178241458"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Gregory Seta
+    id: "100002115994439"
+  count: 7
+comments: 
+  data: 
+  - id: 790499637_101596656598628_9456
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: But still really funny!
+    created_time: 2011-05-12T18:16:04+0000
+  - id: 790499637_101596656598628_9472
+    from: 
+      name: Veronique Wolwowicz Rader
+      id: "604902503"
+    message: Even doctored still funny ! kinda of harsh towards the sisters though ! :-)
+    created_time: 2011-05-12T18:20:05+0000
+  count: 4
+layout: facebook-photo
+title: Thursday, May 12, 2011 - 12:19PM
+date: 2011-05-12 12:19:24 -04:00
+
+---
+Life imitates Disney

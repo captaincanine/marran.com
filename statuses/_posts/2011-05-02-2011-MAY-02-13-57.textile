@@ -1,0 +1,47 @@
+--- 
+id: 790499637_10150283599894638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Osama bin Laden is dead. It's Flunk Day. What other celebratory things have taken place in the past 24 hours?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150283599894638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150283599894638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-05-02T17:57:16+0000
+updated_time: 2011-05-02T18:49:16+0000
+likes: 
+  data: 
+  - name: Kelly Lynn Hogan
+    id: "817029182"
+  - name: Tracie Duncan
+    id: "717015376"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_10150283599894638_17985632
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: The Sree's new Drum Set question has been resolved to my satisfaction. I'm BACK BABY! Happy Flunk Day.
+    created_time: 2011-05-02T18:08:33+0000
+  - id: 790499637_10150283599894638_17986574
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: What an auspicious day! Do we need more? Happy Flunk Day.
+    created_time: 2011-05-02T18:49:16+0000
+  count: 2
+layout: facebook-status
+title: Monday, May  2, 2011 - 01:57PM
+date: 2011-05-02 13:57:16 -04:00
+
+---
+Osama bin Laden is dead. It's Flunk Day. What other celebratory things have taken place in the past 24 hours?

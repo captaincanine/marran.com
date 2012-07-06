@@ -1,0 +1,51 @@
+--- 
+id: 790499637_10150405631739638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: 3 countries. 3 weeks. And only 2 carry-ons. Woo-hoo!
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150405631739638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150405631739638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-08-15T22:39:15+0000
+updated_time: 2011-08-16T08:03:19+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Sara Holoubek
+    id: "659585353"
+  - name: Leslie Gardner
+    id: "667633377"
+  - name: Gregory Seta
+    id: "100002115994439"
+  count: 6
+comments: 
+  data: 
+  - id: 790499637_10150405631739638_20726131
+    from: 
+      name: Parizad Motiwala O'Donnell
+      id: "1386266174"
+    message: Can't wait to hear all about it. Bon voyage!
+    created_time: 2011-08-16T03:18:39+0000
+  - id: 790499637_10150405631739638_20730651
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Enjoy!!  I'm so envious!!  :-)
+    created_time: 2011-08-16T08:03:19+0000
+  count: 6
+layout: facebook-status
+title: Monday, Aug 15, 2011 - 06:39PM
+date: 2011-08-15 18:39:15 -04:00
+
+---
+3 countries. 3 weeks. And only 2 carry-ons. Woo-hoo!

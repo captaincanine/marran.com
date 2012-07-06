@@ -1,0 +1,37 @@
+--- 
+id: 790499637_191506784206965
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Two Things: This further confirms how much I love James Franco. And secondly, can we get a 24 hour news channel run by middle school students? Their first question was so much better than anything an adult would have come up with."
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQA7JM-jj17rx7Ux&w=90&h=90&url=http%3A%2F%2Fwww.npr.org%2Fblogs%2Fmonkeysee%2F90_holmes_linda.jpg
+link: http://www.npr.org/blogs/monkeysee/2011/02/10/133629395/james-franco-recites-byron-to-the-worlds-luckiest-middle-school-journalist
+name: "James Franco Recites Byron To The World's Luckiest Middle-School Journalist : Monkey See : NPR"
+caption: www.npr.org
+description: "Two Things: This further confirms how much I love James Franco. And secondly, can we get a 24 hour news channel run by middle school students? Their first question was so much better than anything an adult would have come up with."
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/191506784206965
+- name: Like
+  link: http://www.facebook.com/790499637/posts/191506784206965
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-02-12T12:11:58+0000
+updated_time: 2011-02-12T12:11:58+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Saturday, Feb 12, 2011 - 07:11AM
+link-info: When you're looking for an interview with James Franco and you're in middle school, the way you imagine it in your dreams is that it turns out like it did for two young journalists captured here on tape.
+date: 2011-02-12 07:11:58 -05:00
+
+---
+Two Things: This further confirms how much I love James Franco. And secondly, can we get a 24 hour news channel run by middle school students? Their first question was so much better than anything an adult would have come up with.

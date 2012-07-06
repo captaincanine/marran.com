@@ -1,0 +1,51 @@
+--- 
+id: 790499637_10150782136434638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I had one of those moments last night that made me wish I had a time machine so I could go back to my frustrated teenage self growing up in Forest Grove, OR. I would tell myself that someday I will be living in NY and will see "Merrily We Roll Along" directed by James Lapine and it will be worth the wait.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150782136434638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150782136434638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2012-02-13T15:52:50+0000
+updated_time: 2012-02-14T15:26:33+0000
+likes: 
+  data: 
+  - name: Gregory Seta
+    id: "100002115994439"
+  - name: Debbie Glass
+    id: "1613911702"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Melissa Agar
+    id: "530351528"
+  count: 6
+comments: 
+  data: 
+  - id: 790499637_10150782136434638_24917913
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: If you do that you should also pop the Communards tape into the El Camino and take me to DQ
+    created_time: 2012-02-14T03:25:46+0000
+    likes: 1
+  - id: 790499637_10150782136434638_24926829
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Ah yes, Leslie, there were many things in my youth that were done EXACTLY RIGHT!
+    created_time: 2012-02-14T15:26:33+0000
+    likes: 1
+  count: 5
+layout: facebook-status
+title: Monday, Feb 13, 2012 - 10:52AM
+date: 2012-02-13 10:52:50 -05:00
+
+---
+I had one of those moments last night that made me wish I had a time machine so I could go back to my frustrated teenage self growing up in Forest Grove, OR. I would tell myself that someday I will be living in NY and will see "Merrily We Roll Along" directed by James Lapine and it will be worth the wait.

@@ -1,0 +1,49 @@
+--- 
+id: 790499637_188969481124011
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: My sister has left. It's just me and my five year old nephew for the next 28 hours. Wish us both luck.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/188969481124011
+- name: Like
+  link: http://www.facebook.com/790499637/posts/188969481124011
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Posterous
+  namespace: posterous
+  id: "6694405826"
+created_time: 2011-02-03T12:47:53+0000
+updated_time: 2011-02-04T05:48:26+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_188969481124011_2557744
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: Good instincts Uncle Keith!
+    created_time: 2011-02-03T23:40:33+0000
+  - id: 790499637_188969481124011_2560052
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: If you mix cornstarch with just the right amount of water it makes the best toy. It's liquid but it crumbles too! That should keep you both occupied for an hour or so (or maybe that's just me).
+    created_time: 2011-02-04T05:48:26+0000
+  count: 8
+layout: facebook-status
+title: Thursday, Feb  3, 2011 - 07:47AM
+date: 2011-02-03 07:47:53 -05:00
+
+---
+My sister has left. It's just me and my five year old nephew for the next 28 hours. Wish us both luck.

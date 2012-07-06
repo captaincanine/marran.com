@@ -1,0 +1,56 @@
+--- 
+id: 790499637_237360836354424
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Oh, Gawker. I could never stay mad at you.
+link: http://gawker.com/5887386/website-converts-the-souls-of-deceased-mormons-into-gay-souls-of-deceased-mormons
+name: Website Converts the Souls of Deceased Mormons Into Gay Souls of Deceased Mormons
+caption: gawker.com
+description: Oh, Gawker. I could never stay mad at you.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/237360836354424
+- name: Like
+  link: http://www.facebook.com/790499637/posts/237360836354424
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-02-22T22:51:45+0000
+updated_time: 2012-03-09T04:55:34+0000
+likes: 
+  data: 
+  - name: Dave Gonzales
+    id: "1331442386"
+  - name: Jono Jarrett
+    id: "1343303598"
+  - name: Sarah Reynolds
+    id: "1070706324"
+  count: 3
+comments: 
+  data: 
+  - id: 790499637_237360836354424_1296358
+    from: 
+      name: Ivan Davidson
+      id: "1407227803"
+    message: Maybe one positive out-come of this revolting primary season is the revival of really good satire!!!
+    created_time: 2012-02-23T00:56:49+0000
+  - id: 790499637_237360836354424_1363820
+    from: 
+      name: Stacey Combs Gardner
+      id: "1241205823"
+    message: This made me laugh a lot. Thanks for posting.
+    created_time: 2012-03-09T04:55:34+0000
+  count: 6
+layout: facebook-link
+title: Wednesday, Feb 22, 2012 - 05:51PM
+link-info: A handful of Mormons, the Mormon they call Romney specifically, have been in hot water for supposedly performing "proxy Baptisms" on Jews who died in the holocaust.
+date: 2012-02-22 17:51:45 -05:00
+
+---
+Oh, Gawker. I could never stay mad at you.

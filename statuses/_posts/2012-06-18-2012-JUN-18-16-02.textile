@@ -1,0 +1,37 @@
+--- 
+id: 790499637_125273850944636
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: If I was in your presence right now, I would force you to drop everything and watch this video in its entirety. It's a beautiful speech.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCLtB9UQ-9kcFXv&w=130&h=130&url=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F294%2F187%2F294187408_640.jpg
+link: http://vimeo.com/42372767
+source: http://vimeo.com/moogaloop.swf?clip_id=42372767&autoplay=1
+name: Neil Gaiman Addresses the University of the Arts Class of 2012
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/125273850944636
+- name: Like
+  link: http://www.facebook.com/790499637/posts/125273850944636
+privacy: 
+  description: Public
+  value: EVERYONE
+type: video
+created_time: 2012-06-18T20:02:54+0000
+updated_time: 2012-06-19T17:51:29+0000
+comments: 
+  data: 
+  - id: 790499637_125273850944636_111198
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: Loved it.
+    created_time: 2012-06-19T17:51:29+0000
+  count: 1
+layout: facebook-video
+title: Monday, Jun 18, 2012 - 04:02PM
+date: 2012-06-18 16:02:54 -04:00
+
+---
+If I was in your presence right now, I would force you to drop everything and watch this video in its entirety. It's a beautiful speech.

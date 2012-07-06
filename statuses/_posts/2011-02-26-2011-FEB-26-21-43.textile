@@ -1,0 +1,42 @@
+--- 
+id: 790499637_186099714760517
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I watched this purely to make fun of it, but darn it, the girls having so much fun that I legitimately enjoyed it. It's nice to see the kids making videos that don't involve wiping out on a skateboard.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAdKR1xTj7Fk2ai&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F93TS1NIhnhE%2F3.jpg
+link: http://www.youtube.com/watch?v=93TS1NIhnhE
+source: http://www.youtube.com/v/93TS1NIhnhE&autoplay=1
+name: Come Sail Away-Lexy and Stephany
+description: I watched this purely to make fun of it, but darn it, the girls having so much fun that I legitimately enjoyed it. It's nice to see the kids making videos that don't involve wiping out on a skateboard.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/186099714760517
+- name: Like
+  link: http://www.facebook.com/790499637/posts/186099714760517
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-02-27T02:43:55+0000
+updated_time: 2011-02-27T02:43:55+0000
+likes: 
+  data: 
+  - name: Robert Lucas
+    id: "100000816082478"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-video
+title: Saturday, Feb 26, 2011 - 09:43PM
+link-info: This music video is Lexy and Stephany singing the Styx song "Come Sail Away."
+date: 2011-02-26 21:43:55 -05:00
+
+---
+I watched this purely to make fun of it, but darn it, the girls having so much fun that I legitimately enjoyed it. It's nice to see the kids making videos that don't involve wiping out on a skateboard.

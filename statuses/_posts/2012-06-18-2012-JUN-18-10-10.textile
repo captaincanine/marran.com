@@ -1,0 +1,62 @@
+--- 
+id: 790499637_172744082856965
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I like to think that I hit orange most of the time. Sometimes white.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQATI7Tw5b4jyteG&w=90&h=90&url=http%3A%2F%2F25.media.tumblr.com%2Ftumblr_m4bwhsYHoy1r4xmlto1_250.jpg
+link: http://batsandbones.tumblr.com/post/23418483425/my-venn-diagram-of-neil-gaimans-advice-for
+name: "My venn diagram of Neil Gaiman\xE2\x80\x99s advice for..."
+caption: batsandbones.tumblr.com
+description: I like to think that I hit orange most of the time. Sometimes white.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/172744082856965
+- name: Like
+  link: http://www.facebook.com/790499637/posts/172744082856965
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2012-06-18T14:10:44+0000
+updated_time: 2012-06-18T20:01:43+0000
+likes: 
+  data: 
+  - name: Mike Prosser
+    id: "687691698"
+  - name: Erin Salisbury
+    id: "1061715061"
+  - name: Tommaso Lesnick
+    id: "523791546"
+  - name: Josh Siegel
+    id: "621816545"
+  count: 5
+comments: 
+  data: 
+  - id: 790499637_172744082856965_393256
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Now that I think of it, I should work on my "red" a bit more.
+    created_time: 2012-06-18T14:11:16+0000
+  - id: 790499637_172744082856965_393511
+    from: 
+      name: Erin Salisbury
+      id: "1061715061"
+    message: I saw the video of the speech, and it awesome and inspiring.  I love the diagram!
+    created_time: 2012-06-18T15:44:01+0000
+  - id: 790499637_172744082856965_394205
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Erin - Thank you so much for prompting me to watch the video. It was stunning.
+    created_time: 2012-06-18T20:01:43+0000
+  count: 3
+layout: facebook-link
+title: Monday, Jun 18, 2012 - 10:10AM
+link-info: "My venn diagram of Neil Gaiman\xE2\x80\x99s advice for working freelance from this amazing speech http://vimeo.com/42372767"
+date: 2012-06-18 10:10:44 -04:00
+
+---
+I like to think that I hit orange most of the time. Sometimes white.

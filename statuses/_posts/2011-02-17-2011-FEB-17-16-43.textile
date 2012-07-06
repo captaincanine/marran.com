@@ -1,0 +1,50 @@
+--- 
+id: 790499637_126906344048675
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The first two days of our trip to Rome are posted on my site (with pictures!). More is on the way.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBArBEoNVHXHMdZ&w=90&h=90&url=thumbnailhttp%3A%2F%2Ffarm6.static.flickr.com%2F5091%2F5449403259_63f4955671_m.jpgfullsizehttp%3A%2F%2Ffarm6.static.flickr.com%2F5091%2F5449403259_63f4955671_b.jpg
+link: http://ping.fm/fHfjr
+name: Arrival in Rome
+caption: www.marran.com
+description: The first two days of our trip to Rome are posted on my site (with pictures!). More is on the way.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/126906344048675
+- name: Like
+  link: http://www.facebook.com/790499637/posts/126906344048675
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Ping.fm
+  namespace: pingdotfm
+  id: "10732101402"
+created_time: 2011-02-17T21:43:54+0000
+updated_time: 2011-02-17T22:27:56+0000
+likes: 
+  data: 
+  - name: Tommaso Lesnick
+    id: "523791546"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_126906344048675_692457
+    from: 
+      name: Tommaso Lesnick
+      id: "523791546"
+    message: Love the via dei coronari shot. We rented an apt last year right around the corner from there, near santa maria della pace. So lovely.
+    created_time: 2011-02-17T22:27:56+0000
+  count: 1
+layout: facebook-link
+title: Thursday, Feb 17, 2011 - 04:43PM
+link-info: David was short of making Executive Platinum on American Airlines by just a couple of thousand miles. The end result was a trip to Rome for the week of Christmas, and I could not have been happier.
+date: 2011-02-17 16:43:54 -05:00
+
+---
+The first two days of our trip to Rome are posted on my site (with pictures!). More is on the way.

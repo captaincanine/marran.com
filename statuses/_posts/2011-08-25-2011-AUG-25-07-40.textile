@@ -1,0 +1,21 @@
+--- 
+id: 790499637_10150415948594638
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran was tagged in his own photos.
+picture: http://photos-c.ak.fbcdn.net/hphotos-ak-snc6/230002_10150278737129638_4807684_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150278737129638&set=at.490588709637.298813.790499637.790499637&type=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+type: photo
+object_id: "10150278737129638"
+created_time: 2011-08-25T11:40:27+0000
+updated_time: 2011-08-25T11:40:27+0000
+comments: 
+  count: 0
+layout: facebook-photo
+title: Thursday, Aug 25, 2011 - 07:40AM
+date: 2011-08-25 07:40:27 -04:00
+
+---
+

@@ -1,0 +1,57 @@
+--- 
+id: 790499637_10150291110589638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Third attempt at homemade mayo was successful. I did it all in a hand blender. I think my mistake the first time around was adding the garlic and herbs before the mayo was fully emulsified.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150291110589638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150291110589638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-05-09T16:26:39+0000
+updated_time: 2011-05-09T16:56:38+0000
+likes: 
+  data: 
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Jono Jarrett
+    id: "1343303598"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_10150291110589638_18170461
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: I bet you're right!
+    created_time: 2011-05-09T16:30:00+0000
+  - id: 790499637_10150291110589638_18170818
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Good job.  :)  Hope it's delicious.
+    created_time: 2011-05-09T16:43:43+0000
+  - id: 790499637_10150291110589638_18171077
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: can you make homemade Miracle Wip next?
+    created_time: 2011-05-09T16:56:38+0000
+  count: 3
+layout: facebook-status
+title: Monday, May  9, 2011 - 12:26PM
+date: 2011-05-09 12:26:39 -04:00
+
+---
+Third attempt at homemade mayo was successful. I did it all in a hand blender. I think my mistake the first time around was adding the garlic and herbs before the mayo was fully emulsified.

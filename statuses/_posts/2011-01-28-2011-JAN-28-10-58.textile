@@ -1,0 +1,55 @@
+--- 
+id: 790499637_130409347024118
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I think I'm going to get a snow blower. I've had it with this winter. Turning 40 didn't make me feel old. Getting a snow blower makes me feel old.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/130409347024118
+- name: Like
+  link: http://www.facebook.com/790499637/posts/130409347024118
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Posterous
+  namespace: posterous
+  id: "6694405826"
+created_time: 2011-01-28T15:58:37+0000
+updated_time: 2011-01-29T05:57:08+0000
+likes: 
+  data: 
+  - name: Jim Tumminello
+    id: "555444007"
+  - name: Eileen O'Donnell
+    id: "667235678"
+  - name: Thomas Sproat
+    id: "573477249"
+  - name: Kirsten Murray
+    id: "575571081"
+  count: 5
+comments: 
+  data: 
+  - id: 790499637_130409347024118_823491
+    from: 
+      name: John F. Duckett
+      id: "567340649"
+    message: I was thinking the same thing!!
+    created_time: 2011-01-28T18:13:59+0000
+  - id: 790499637_130409347024118_827223
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: Do they make Roomba snow blowers? I can't picture you shoveling snow or even using a snow blower.
+    created_time: 2011-01-29T05:57:08+0000
+  count: 4
+layout: facebook-status
+title: Friday, Jan 28, 2011 - 10:58AM
+date: 2011-01-28 10:58:37 -05:00
+
+---
+I think I'm going to get a snow blower. I've had it with this winter. Turning 40 didn't make me feel old. Getting a snow blower makes me feel old.

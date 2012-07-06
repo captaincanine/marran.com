@@ -1,0 +1,49 @@
+--- 
+id: 790499637_147083272016522
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just discovered The New Pornographers - by way of my Sufjan Stevens obsession. Why didn't anyone tell me about them sooner?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/147083272016522
+- name: Like
+  link: http://www.facebook.com/790499637/posts/147083272016522
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Posterous
+  namespace: posterous
+  id: "6694405826"
+created_time: 2011-01-26T15:35:03+0000
+updated_time: 2011-01-26T16:39:41+0000
+likes: 
+  data: 
+  - name: Andrea Miklasz
+    id: "629554115"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_147083272016522_1313052
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I started with "Together". I'll go with "Electric Version" next.
+    created_time: 2011-01-26T16:26:22+0000
+  - id: 790499637_147083272016522_1313139
+    from: 
+      name: Tony Lopez
+      id: "1188372735"
+    message: I love Silver Jenny Dollar! I love just about anything Dan Bejar contributes to the band. And Neko, too. Can't forget her.
+    created_time: 2011-01-26T16:39:41+0000
+  count: 4
+layout: facebook-status
+title: Wednesday, Jan 26, 2011 - 10:35AM
+date: 2011-01-26 10:35:03 -05:00
+
+---
+I just discovered The New Pornographers - by way of my Sufjan Stevens obsession. Why didn't anyone tell me about them sooner?

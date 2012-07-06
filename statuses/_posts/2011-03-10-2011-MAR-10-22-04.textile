@@ -1,0 +1,34 @@
+--- 
+id: 790499637_131476696925587
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Why don't they make movies like this anymore? The trailer is good, I find it hard to believe that the full-length feature could improve upon the trailer.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBT1S74NfnmsQzL&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FR5e3ttvlymI%2F1.jpg
+link: http://www.youtube.com/watch?v=R5e3ttvlymI&feature=feedf
+source: http://www.youtube.com/v/R5e3ttvlymI&autoplay=1&fs=1
+name: Wicked, Wicked (1973) trailer
+description: Why don't they make movies like this anymore? The trailer is good, I find it hard to believe that the full-length feature could improve upon the trailer.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/131476696925587
+- name: Like
+  link: http://www.facebook.com/790499637/posts/131476696925587
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+created_time: 2011-03-11T03:04:47+0000
+updated_time: 2011-03-11T03:04:47+0000
+comments: 
+  count: 0
+layout: facebook-video
+title: Thursday, Mar 10, 2011 - 10:04PM
+link-info: Trailer the film for "Wicked, Wicked" (1973).
+date: 2011-03-10 22:04:47 -05:00
+
+---
+Why don't they make movies like this anymore? The trailer is good, I find it hard to believe that the full-length feature could improve upon the trailer.

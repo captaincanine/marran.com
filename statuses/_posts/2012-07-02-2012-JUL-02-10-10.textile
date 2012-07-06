@@ -1,0 +1,53 @@
+--- 
+id: 790499637_261278263973521
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The internet has really revived my ability to giggle like an 8-year-old at immature things.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAkm5Ai4BbnclLM&w=90&h=90&url=http%3A%2F%2Fgeeksout.org%2Fsites%2Fdefault%2Ffiles%2Fevent-images%2Fanigif_enhanced-buzz-6721-1340810282-13.gif
+link: http://shar.es/sTVbc
+name: Spider-Man Flying Out of Anuses Everywhere
+caption: geeksout.org
+description: The internet has really revived my ability to giggle like an 8-year-old at immature things.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/261278263973521
+- name: Like
+  link: http://www.facebook.com/790499637/posts/261278263973521
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-07-02T14:10:37+0000
+updated_time: 2012-07-02T15:10:08+0000
+likes: 
+  data: 
+  - name: Greg Pflugfelder
+    id: "1072680095"
+  - name: Marcie Morton Sobelman
+    id: "1275161562"
+  - name: Sreedhar Yedavalli
+    id: "1199970155"
+  - name: Brenda Gregoline
+    id: "1236717380"
+  count: 6
+comments: 
+  data: 
+  - id: 790499637_261278263973521_1021054
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: Lorenz is laughing hard.
+    created_time: 2012-07-02T15:10:08+0000
+  count: 1
+layout: facebook-link
+title: Monday, Jul  2, 2012 - 10:10AM
+link-info: "In my ongoing series of Spider-Man related toilet humor, we have this latest gem: a poorly timed advertising overlay for The Amazing Spider-Man results in the appearance of Spider-Man swinging out of a baseball player's butt. "
+date: 2012-07-02 10:10:37 -04:00
+
+---
+The internet has really revived my ability to giggle like an 8-year-old at immature things.

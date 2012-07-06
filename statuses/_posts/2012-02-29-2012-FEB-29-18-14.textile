@@ -1,0 +1,58 @@
+--- 
+id: 790499637_348452528533103
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I watched this segment and went from laughing to deeply saddened by our modern world. I hate to sound like Abe Simpson. I won't say the world was "better" when I was younger, but I think it was a lot more fun being a kid before the corporations completely took over.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDWwgy5wb6R-Auh&w=130&h=130&url=http%3A%2F%2Fcolbertnation.mtvnimages.com%2Fimages%2Fshows%2Fcolbert_report%2Fvideos%2Fseason8%2F08062%2Fcr_08062_02_v6.jpg
+link: http://www.colbertnation.com/the-colbert-report-videos/409243/february-27-2012/movies-that-are-destroying-america---oscar-edition----a-separation-----the-lorax
+source: http://media.mtvnservices.com/mgid:cms:video:colbertnation.com:409243
+name: "Colbert Report: Movies That Are Destroying America - Oscar Edition - \"A Separation\" & \"The Lorax\""
+description: I watched this segment and went from laughing to deeply saddened by our modern world. I hate to sound like Abe Simpson. I won't say the world was "better" when I was younger, but I think it was a lot more fun being a kid before the corporations completely took over.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/348452528533103
+- name: Like
+  link: http://www.facebook.com/790499637/posts/348452528533103
+privacy: 
+  description: Public
+  value: EVERYONE
+type: video
+created_time: 2012-02-29T23:14:30+0000
+updated_time: 2012-03-01T01:30:38+0000
+likes: 
+  data: 
+  - name: Don Steele
+    id: "663573827"
+  - name: Marcie Morton Sobelman
+    id: "1275161562"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_348452528533103_4529060
+    from: 
+      name: Ivan Davidson
+      id: "1407227803"
+    message: Wait until you are my age!!!  The "handbasket" gets larger and larger.
+    created_time: 2012-02-29T23:17:51+0000
+  - id: 790499637_348452528533103_4529350
+    from: 
+      name: Laura Milvy
+      id: "1023968966"
+    message: It's got to get bigger bc everyone needs to be able to carry their ipad, smart phone and be able to access the "net" at all times rather than enjoy who they are actually with! Poor children of the 21C
+    created_time: 2012-03-01T00:29:30+0000
+  - id: 790499637_348452528533103_4529594
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: I share your annoyance on this one.  The Lorax is near Talmudic (is that a word?) in its simplicity and depth.  It would be so easy it make a clean, uncluttered and (reasonably) pure movie of it.  I think there is no indication that happened.  I rarely feel defensive of childhood (or, in this case, adulthood) memories, but it is offensive that they took the route they took.
+    created_time: 2012-03-01T01:30:38+0000
+  count: 3
+layout: facebook-video
+title: Wednesday, Feb 29, 2012 - 06:14PM
+link-info: Iran finally has the vital gold-plated core necessary to arm a nuclear bomb.
+date: 2012-02-29 18:14:30 -05:00
+
+---
+I watched this segment and went from laughing to deeply saddened by our modern world. I hate to sound like Abe Simpson. I won't say the world was "better" when I was younger, but I think it was a lot more fun being a kid before the corporations completely took over.

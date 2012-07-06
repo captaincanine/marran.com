@@ -1,0 +1,34 @@
+--- 
+id: 790499637_10150279722494638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm going to China soon and I will be going to a town called Pingyao that has resisted modernisation. Everyone has warned me of the hard beds in China. I was looking at one of the better hotels in Pingyao and they showed a picture of the rooms and the bed is literally made of bricks.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150279722494638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150279722494638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-04-28T22:12:23+0000
+updated_time: 2011-04-28T22:12:27+0000
+comments: 
+  data: 
+  - id: 790499637_10150279722494638_17883649
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: http://images3.ctrip.com/hotelimage/55183/D974BD8F-6E2A-4143-AE79-B93F95FD28A3/400/300.jpg
+    created_time: 2011-04-28T22:12:27+0000
+  count: 1
+layout: facebook-status
+title: Thursday, Apr 28, 2011 - 06:12PM
+date: 2011-04-28 18:12:23 -04:00
+
+---
+I'm going to China soon and I will be going to a town called Pingyao that has resisted modernisation. Everyone has warned me of the hard beds in China. I was looking at one of the better hotels in Pingyao and they showed a picture of the rooms and the bed is literally made of bricks.

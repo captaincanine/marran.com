@@ -1,0 +1,49 @@
+--- 
+id: 790499637_407478799274918
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I couldn't even get angry at this woman because I felt so bad for her being so incredibly stupid. Please...let's not give her her own show on Bravo. Sure, it would be entertaining. But it would be too cruel.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBADmJ_3_MbszX0&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F17npu21ozp4jkjpg%2Ffb.jpg
+link: http://gawker.com/5913283/congregant-defends-north-carolina-pastors-godly-plan-to-exterminate-homosexuals
+name: Congregant Defends North Carolina Pastor's 'Godly' Plan to Exterminate Homosexuals
+caption: gawker.com
+description: I couldn't even get angry at this woman because I felt so bad for her being so incredibly stupid. Please...let's not give her her own show on Bravo. Sure, it would be entertaining. But it would be too cruel.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/407478799274918
+- name: Like
+  link: http://www.facebook.com/790499637/posts/407478799274918
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-05-25T14:02:51+0000
+updated_time: 2012-05-25T15:38:50+0000
+shares: 
+  count: 2
+likes: 
+  data: 
+  - name: Dave Grilli
+    id: "5101343"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_407478799274918_4811192
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: Oh. Dear. She has got to be inbred, which to them, probably isn't a sin.
+    created_time: 2012-05-25T15:38:50+0000
+  count: 1
+layout: facebook-link
+title: Friday, May 25, 2012 - 10:02AM
+link-info: Considering the leader of their flock is about as despicable a person as you can hope is only a ploy to get children to finish their vegetables, it stands to reason that members of North Carolina pastor Charles "Kill the Queers" Worley's congregation would be equally horrid homophobes.
+date: 2012-05-25 10:02:51 -04:00
+
+---
+I couldn't even get angry at this woman because I felt so bad for her being so incredibly stupid. Please...let's not give her her own show on Bravo. Sure, it would be entertaining. But it would be too cruel.

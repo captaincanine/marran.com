@@ -1,0 +1,38 @@
+--- 
+id: 790499637_10150443220584638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Goodbye Tel Aviv. I will miss your constant stream of tan, incredibly fit, and barely-clothed people.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150443220584638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150443220584638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2011-09-16T01:37:18+0000
+updated_time: 2011-09-16T01:37:18+0000
+likes: 
+  data: 
+  - name: Jono Jarrett
+    id: "1343303598"
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 2
+comments: 
+  count: 0
+layout: facebook-status
+title: Thursday, Sep 15, 2011 - 09:37PM
+date: 2011-09-15 21:37:18 -04:00
+
+---
+Goodbye Tel Aviv. I will miss your constant stream of tan, incredibly fit, and barely-clothed people.

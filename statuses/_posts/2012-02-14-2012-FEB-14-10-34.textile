@@ -1,0 +1,38 @@
+--- 
+id: 790499637_10150785487344638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I never thought I'd say this, but I just bought Eric Bana's playlist that he compiled for iTunes. I barely know any of the artists, but the music is awesome. I never would have pegged him for someone with great music tastes.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150785487344638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150785487344638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2012-02-14T15:34:56+0000
+updated_time: 2012-02-14T20:04:43+0000
+comments: 
+  data: 
+  - id: 790499637_10150785487344638_24927457
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Neither do I. ;) I guess the phrasing of "never thought I would say this" got to me and made me wonder if people EVER think of things they wouldn't say prior to having said them. Does that make sense? Sorry that my over-thinking weirdness spilled onto your post... I never thought it would ;)
+    created_time: 2012-02-14T16:03:43+0000
+  - id: 790499637_10150785487344638_24931729
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: aussies have great taste in.......EVERYTHING!
+    created_time: 2012-02-14T20:04:43+0000
+  count: 7
+layout: facebook-status
+title: Tuesday, Feb 14, 2012 - 10:34AM
+date: 2012-02-14 10:34:56 -05:00
+
+---
+I never thought I'd say this, but I just bought Eric Bana's playlist that he compiled for iTunes. I barely know any of the artists, but the music is awesome. I never would have pegged him for someone with great music tastes.

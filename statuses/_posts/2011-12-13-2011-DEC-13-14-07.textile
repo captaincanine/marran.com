@@ -1,0 +1,41 @@
+--- 
+id: 790499637_10150613443629638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm at lunch and just listened to a Green Day wannabe band do The 12 Days of Christmas. That was followed by a reggae version of Jingle Bells. I'm reaching that point where a trip to Dubai sounds awesome just to escape the bad Christmas music.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150613443629638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150613443629638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2011-12-13T19:07:58+0000
+updated_time: 2011-12-13T23:42:07+0000
+likes: 
+  data: 
+  - name: Rosemary Feneziani
+    id: "573541002"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150613443629638_23598369
+    from: 
+      name: Brett Bishop
+      id: "1203637433"
+    message: Oh, I agree. They could just put on Ella Fitzgerald's Christmas album and all would be well in the world.
+    created_time: 2011-12-13T23:42:07+0000
+  count: 1
+layout: facebook-status
+title: Tuesday, Dec 13, 2011 - 02:07PM
+date: 2011-12-13 14:07:58 -05:00
+
+---
+I'm at lunch and just listened to a Green Day wannabe band do The 12 Days of Christmas. That was followed by a reggae version of Jingle Bells. I'm reaching that point where a trip to Dubai sounds awesome just to escape the bad Christmas music.

@@ -1,0 +1,45 @@
+--- 
+id: 790499637_10151207419359638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Will I EVER learn to spell "occasion" correctly on the first try?! If anyone has a mnemonic to remember that there are two cees and one ess, I'm open to suggestions.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151207419359638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151207419359638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2012-06-18T21:31:57+0000
+updated_time: 2012-06-19T18:08:36+0000
+likes: 
+  data: 
+  - name: Sara Holoubek
+    id: "659585353"
+  - name: Danielle Mari
+    id: "1125746508"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_10151207419359638_27152426
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: I'm a spelling snob. I can be of no help, unfortunately.
+    created_time: 2012-06-19T01:14:20+0000
+  - id: 790499637_10151207419359638_27162749
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I think Greg nailed it. What would we do without our "ASS" based phrases? (i.e. "never assume, it makes an ASS out of U and ME")
+    created_time: 2012-06-19T18:08:36+0000
+  count: 6
+layout: facebook-status
+title: Monday, Jun 18, 2012 - 05:31PM
+date: 2012-06-18 17:31:57 -04:00
+
+---
+Will I EVER learn to spell "occasion" correctly on the first try?! If anyone has a mnemonic to remember that there are two cees and one ess, I'm open to suggestions.

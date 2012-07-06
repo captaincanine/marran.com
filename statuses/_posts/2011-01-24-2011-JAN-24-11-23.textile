@@ -1,0 +1,50 @@
+--- 
+id: 790499637_124687237600364
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: |-
+  I was looking for a specific X-Men pop-up book for my 5 year old nephew. I searched on a website of one of my favorite bookstores for "popup x-men" and it said "No matches. Did you mean 'pop up semen'?"
+  
+  The internet is a dangerous place for 5-year olds.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/124687237600364
+- name: Like
+  link: http://www.facebook.com/790499637/posts/124687237600364
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-01-24T16:23:13+0000
+updated_time: 2011-01-24T19:20:41+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_124687237600364_646317
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Googling......
+    created_time: 2011-01-24T17:27:05+0000
+  - id: 790499637_124687237600364_647032
+    from: 
+      name: Patrick Kee Kietsrichart
+      id: "1334676583"
+    message: "Hmmm... 5 y.o. with English as a second language child might think those are Aquaman's brothers.   "
+    created_time: 2011-01-24T19:20:41+0000
+  count: 2
+layout: facebook-status
+title: Monday, Jan 24, 2011 - 11:23AM
+date: 2011-01-24 11:23:13 -05:00
+
+---
+I was looking for a specific X-Men pop-up book for my 5 year old nephew. I searched on a website of one of my favorite bookstores for "popup x-men" and it said "No matches. Did you mean 'pop up semen'?"
+
+The internet is a dangerous place for 5-year olds.

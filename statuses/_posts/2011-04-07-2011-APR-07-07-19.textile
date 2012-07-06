@@ -1,0 +1,57 @@
+--- 
+id: 790499637_10150257905899638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: After watching the latest episode of "Ru Paul's Drag Race," I learned what drag queens really do when they "tuck." And it's something I wish I could unlearn.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150257905899638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150257905899638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-04-07T11:19:16+0000
+updated_time: 2011-04-08T21:00:01+0000
+likes: 
+  data: 
+  - name: Robert Lucas
+    id: "100000816082478"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  - name: Andrea Miklasz
+    id: "629554115"
+  - name: Alice Nighswonger
+    id: "1519519676"
+  count: 5
+comments: 
+  data: 
+  - id: 790499637_10150257905899638_17317420
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: I miss Shangela!
+    created_time: 2011-04-07T18:16:42+0000
+  - id: 790499637_10150257905899638_17348394
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I know. I thought she was going to go to the final three. I suspect she looks quite unfinished in person, because she often got comments about her appearance that I didn't understand. My favs now are Alexis for her sincerity/heart and Raja for her glamour.
+    created_time: 2011-04-08T20:32:41+0000
+  - id: 790499637_10150257905899638_17349026
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Raja  IS glamorous ...I like Manilla Luzon too, tho not her personality so much .  Yara is my favorite, over the top & CUTE!
+    created_time: 2011-04-08T21:00:01+0000
+  count: 3
+layout: facebook-status
+title: Thursday, Apr  7, 2011 - 07:19AM
+date: 2011-04-07 07:19:16 -04:00
+
+---
+After watching the latest episode of "Ru Paul's Drag Race," I learned what drag queens really do when they "tuck." And it's something I wish I could unlearn.

@@ -1,0 +1,48 @@
+--- 
+id: 790499637_184724481649766
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I was wondering why there were a gazillion helicopters hovering above our heads in NYC.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDLSqPUoSQUfHCt&w=90&h=90&url=http%3A%2F%2Fs1.reutersmedia.net%2Fresources%2Fr%2F%3Fm%3D02%26d%3D20120501%26t%3D2%26i%3D601657974%26w%3D130%26fh%3D%26fw%3D%26ll%3D%26pl%3D%26r%3DCBRE8401HNH00
+link: http://www.reuters.com/article/2012/05/01/us-usa-newyork-security-idUSBRE8401DG20120501
+name: New York man convicted in subway suicide bomb plot
+caption: www.reuters.com
+description: I was wondering why there were a gazillion helicopters hovering above our heads in NYC.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/184724481649766
+- name: Like
+  link: http://www.facebook.com/790499637/posts/184724481649766
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-05-01T21:51:31+0000
+updated_time: 2012-05-02T00:05:17+0000
+comments: 
+  data: 
+  - id: 790499637_184724481649766_449795
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Downtown is a zoo!
+    created_time: 2012-05-02T00:01:51+0000
+  - id: 790499637_184724481649766_449810
+    from: 
+      name: Michelle Gittelman
+      id: "1066642920"
+    message: there are 1.2 cops for every occupier.  God forbid a crime happens somewhere in the city today.
+    created_time: 2012-05-02T00:05:17+0000
+  count: 4
+layout: facebook-link
+title: Tuesday, May  1, 2012 - 05:51PM
+link-info: NEW YORK (Reuters) - A federal jury found a Bosnian-born U.S. citizen guilty on Tuesday of planning a coordinated suicide bomb attack on New York City subways in 2009 at the behest of senior al Qaeda operatives.Adis
+date: 2012-05-01 17:51:31 -04:00
+
+---
+I was wondering why there were a gazillion helicopters hovering above our heads in NYC.

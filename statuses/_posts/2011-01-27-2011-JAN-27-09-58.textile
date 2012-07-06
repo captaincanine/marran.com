@@ -1,0 +1,46 @@
+--- 
+id: 790499637_197313420284369
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: With all the media's crying wolf about the weather, if they don't talk about an impending "Snowpocalypse" or "Snowmageddon", I assume we aren't getting much snow. But we got a lot of snow last night!
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/197313420284369
+- name: Like
+  link: http://www.facebook.com/790499637/posts/197313420284369
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Posterous
+  namespace: posterous
+  id: "6694405826"
+created_time: 2011-01-27T14:58:38+0000
+updated_time: 2011-01-27T15:29:36+0000
+comments: 
+  data: 
+  - id: 790499637_197313420284369_2712346
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: and look at this poor limousine! http://www.nytimes.com/2011/01/28/nyregion/28snow.html?_r=1&hp
+    created_time: 2011-01-27T15:19:53+0000
+  - id: 790499637_197313420284369_2712411
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Stuck going uphill at 57th and 6th? There's a hill there? There's maybe a
+      slight incline.
+    created_time: 2011-01-27T15:29:36+0000
+  count: 2
+layout: facebook-status
+title: Thursday, Jan 27, 2011 - 09:58AM
+date: 2011-01-27 09:58:38 -05:00
+
+---
+With all the media's crying wolf about the weather, if they don't talk about an impending "Snowpocalypse" or "Snowmageddon", I assume we aren't getting much snow. But we got a lot of snow last night!

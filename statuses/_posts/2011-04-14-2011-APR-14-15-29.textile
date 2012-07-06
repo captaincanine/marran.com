@@ -1,0 +1,37 @@
+--- 
+id: 790499637_201688453204065
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I bought a poster for myself. Maybe I can hang it in the half-bath one day without David noticing.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQD3dJDMirs2M0Z9&w=90&h=90&url=http%3A%2F%2Fimages.fastcompany.com%2Fupload%2FPopChartLab_Superpowers_FinalFinal-750.jpg
+link: http://ow.ly/4Alx0
+name: "Infographic Of The Day: An Omnibus Of Comic Book Superpowers  | Co.Design"
+caption: www.fastcodesign.com
+description: I bought a poster for myself. Maybe I can hang it in the half-bath one day without David noticing.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/201688453204065
+- name: Like
+  link: http://www.facebook.com/790499637/posts/201688453204065
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-04-14T19:29:54+0000
+updated_time: 2011-04-14T19:29:54+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Thursday, Apr 14, 2011 - 03:29PM
+link-info: We've seen plenty of infographic brilliance from the folks at PopChart Lab -- including rocker hairdos, beer, rapper names, and kitchen tools. Well, they've done it again, with a chart that'll make the 12-year-old nerd inside of you honk with pleasure.
+date: 2011-04-14 15:29:54 -04:00
+
+---
+I bought a poster for myself. Maybe I can hang it in the half-bath one day without David noticing.

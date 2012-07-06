@@ -1,0 +1,48 @@
+--- 
+id: 790499637_170685482978024
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: And while I'm on the subject of Logan's Run, this scene used to scare the bejeezus out of me as a kid. Though it doesn't carry the same effect for me anymore, there's still something unnerving about it.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBhINgQgFokboFZ&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2Fq0Amt30_QVQ%2F2.jpg
+link: http://www.youtube.com/watch?v=q0Amt30_QVQ
+source: http://www.youtube.com/v/q0Amt30_QVQ&autoplay=1
+name: Logan's Run - No Sanctuary !!
+description: And while I'm on the subject of Logan's Run, this scene used to scare the bejeezus out of me as a kid. Though it doesn't carry the same effect for me anymore, there's still something unnerving about it.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/170685482978024
+- name: Like
+  link: http://www.facebook.com/790499637/posts/170685482978024
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+created_time: 2011-02-11T02:46:29+0000
+updated_time: 2011-02-11T22:40:25+0000
+likes: 
+  data: 
+  - name: David L Steele
+    id: "1407655463"
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_170685482978024_2067867
+    from: 
+      name: Brett Bishop
+      id: "1203637433"
+    message: I loved this movie. There are rumors that it will be remade.
+    created_time: 2011-02-11T22:40:25+0000
+  count: 1
+layout: facebook-video
+title: Thursday, Feb 10, 2011 - 09:46PM
+link-info: Logan's Run - No Sanctuary !!
+date: 2011-02-10 21:46:29 -05:00
+
+---
+And while I'm on the subject of Logan's Run, this scene used to scare the bejeezus out of me as a kid. Though it doesn't carry the same effect for me anymore, there's still something unnerving about it.

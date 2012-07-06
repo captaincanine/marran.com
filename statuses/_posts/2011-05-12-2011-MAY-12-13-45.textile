@@ -1,0 +1,51 @@
+--- 
+id: 790499637_211530008867320
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Farewell, Dolores...Farewell
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCyrNrc6Dgn_zn5&w=90&h=90&url=http%3A%2F%2Fmedia.tumblr.com%2Ftumblr_ll3egphdG81qi34qb.jpg
+link: http://www.bloomsguide.com/post/5424247502/oh-that-angora-sweater
+name: "Bloom's Guide to Fetish - Oh, That Angora Sweater\xE2\x80\xA6"
+caption: www.bloomsguide.com
+description: Farewell, Dolores...Farewell
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/211530008867320
+- name: Like
+  link: http://www.facebook.com/790499637/posts/211530008867320
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-05-12T17:45:42+0000
+updated_time: 2011-05-12T17:56:16+0000
+likes: 
+  data: 
+  - name: Jeff Bond
+    id: "1108401510"
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_211530008867320_3061415
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Yikes! Looks like we're up and running!
+    created_time: 2011-05-12T17:56:16+0000
+  count: 1
+layout: facebook-link
+title: Thursday, May 12, 2011 - 01:45PM
+link-info: Oh, That Angora Sweater... - Dolores Fuller, girlfriend and muse of legendary B-movie cult figure and heterosexual cross-dresser Ed Wood, passed away on May 9 at the age of 88. Fuller starred in...
+date: 2011-05-12 13:45:42 -04:00
+
+---
+Farewell, Dolores...Farewell

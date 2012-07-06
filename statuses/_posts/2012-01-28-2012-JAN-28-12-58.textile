@@ -1,0 +1,53 @@
+--- 
+id: 790499637_358861274142725
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This must be shared.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBPhJ8exCgmdtk2&w=90&h=90&url=http%3A%2F%2Fs3-ak.buzzfed.com%2Fstatic%2Fcampaign_images%2Fweb05%2F2012%2F1%2F27%2F15%2Fa-chihuaha-dressed-as-a-donkey-3669-1327696222-20.jpg
+link: http://www.buzzfeed.com/gavon/a-chihuaha-dressed-as-a-donkey
+name: A Chihuaha Dressed As A Donkey
+caption: www.buzzfeed.com
+description: This must be shared.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/358861274142725
+- name: Like
+  link: http://www.facebook.com/790499637/posts/358861274142725
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2012-01-28T17:58:21+0000
+updated_time: 2012-01-28T18:26:29+0000
+likes: 
+  data: 
+  - name: Dave Stringer Hughes
+    id: "800419"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_358861274142725_4914444
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: he wants to die.
+    created_time: 2012-01-28T18:06:46+0000
+  - id: 790499637_358861274142725_4914524
+    from: 
+      name: Kim Sampson Sloan
+      id: "1157321067"
+    message: My chihuahua would not be very happy with me!
+    created_time: 2012-01-28T18:26:29+0000
+  count: 2
+layout: facebook-link
+title: Saturday, Jan 28, 2012 - 12:58PM
+link-info: "A Chihuaha Dressed As A Donkey: Did you ever think you'd lead a virtuous enough life to be rewarded with such riches? Nor I..."
+date: 2012-01-28 12:58:21 -05:00
+
+---
+This must be shared.

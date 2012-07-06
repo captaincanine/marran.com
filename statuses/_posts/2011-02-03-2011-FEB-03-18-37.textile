@@ -1,0 +1,61 @@
+--- 
+id: 790499637_169732493072721
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I want to start a show on Logo called "The Rainbow Shrinky Dink Hour." This will kick off the opening title sequence.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQA3VaI8LFT60qqd&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FYrVVmztuWL0%2F1.jpg
+link: http://www.youtube.com/watch?v=YrVVmztuWL0
+source: http://www.youtube.com/v/YrVVmztuWL0&autoplay=1
+name: It's Rainbow Shrinky Dink Time!
+description: I want to start a show on Logo called "The Rainbow Shrinky Dink Hour." This will kick off the opening title sequence.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/169732493072721
+- name: Like
+  link: http://www.facebook.com/790499637/posts/169732493072721
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-02-03T23:37:13+0000
+updated_time: 2011-02-04T03:57:17+0000
+likes: 
+  data: 
+  - name: Leslie Gardner
+    id: "667633377"
+  - name: Thomas Rogers
+    id: "538628386"
+  - name: Brett Bishop
+    id: "1203637433"
+  - name: Peter Von Brown
+    id: "1128953787"
+  count: 5
+comments: 
+  data: 
+  - id: 790499637_169732493072721_2019019
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Sounds like day 1 was successful!
+    created_time: 2011-02-04T03:56:40+0000
+  - id: 790499637_169732493072721_2019024
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Oh, and maybe you both can be special guests on "Carmen & Sara's Popular youTube show!" (yaaaah!)
+    created_time: 2011-02-04T03:57:17+0000
+  count: 5
+layout: facebook-video
+title: Thursday, Feb  3, 2011 - 06:37PM
+link-info: Look what happens when you leave a five year old with his uncle for 24 hours.
+date: 2011-02-03 18:37:13 -05:00
+
+---
+I want to start a show on Logo called "The Rainbow Shrinky Dink Hour." This will kick off the opening title sequence.

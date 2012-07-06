@@ -1,0 +1,51 @@
+--- 
+id: 790499637_10150380073464638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have my tickets for Captain America tomorrow and I picked up a pseudo-Captain-America t-shirt from Dave's (on 6th ave) for the occasion.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150380073464638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150380073464638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-07-21T22:18:57+0000
+updated_time: 2011-07-22T17:52:25+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150380073464638_20085486
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: I sure do miss you Keith.  We had some fun back in the day.
+    created_time: 2011-07-22T00:10:26+0000
+  - id: 790499637_10150380073464638_20100096
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: We sure did! Come to New York!
+    created_time: 2011-07-22T14:52:10+0000
+  - id: 790499637_10150380073464638_20104199
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: I would love too!  Some day.  :)
+    created_time: 2011-07-22T17:52:25+0000
+  count: 3
+layout: facebook-status
+title: Thursday, Jul 21, 2011 - 06:18PM
+date: 2011-07-21 18:18:57 -04:00
+
+---
+I have my tickets for Captain America tomorrow and I picked up a pseudo-Captain-America t-shirt from Dave's (on 6th ave) for the occasion.

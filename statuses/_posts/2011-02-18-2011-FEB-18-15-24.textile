@@ -1,0 +1,47 @@
+--- 
+id: 790499637_142705475793032
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Per the request of a friend, I put together my list of plays running in NYC for the next few months
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBKtZIVxqJn4tqi&w=90&h=90&url=http%3A%2F%2Fsi.wsj.net%2Fpublic%2Fresources%2Fimages%2FEW-AJ692A_revie_G_20101209153331.jpg
+link: http://ping.fm/9L0Pn
+name: What Theater Should I see in NYC?
+caption: www.marran.com
+description: Per the request of a friend, I put together my list of plays running in NYC for the next few months
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/142705475793032
+- name: Like
+  link: http://www.facebook.com/790499637/posts/142705475793032
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Ping.fm
+  namespace: pingdotfm
+  id: "10732101402"
+created_time: 2011-02-18T20:24:47+0000
+updated_time: 2011-02-18T20:24:47+0000
+likes: 
+  data: 
+  - name: Danielle Mari
+    id: "1125746508"
+  - name: Parizad Motiwala O'Donnell
+    id: "1386266174"
+  - name: Patrick Kee Kietsrichart
+    id: "1334676583"
+  count: 3
+comments: 
+  count: 0
+layout: facebook-link
+title: Friday, Feb 18, 2011 - 03:24PM
+link-info: I often get asked what's currently running in the NYC theater scene, so I decided to put it in a blog post for anyone else that may be interested.
+date: 2011-02-18 15:24:47 -05:00
+
+---
+Per the request of a friend, I put together my list of plays running in NYC for the next few months

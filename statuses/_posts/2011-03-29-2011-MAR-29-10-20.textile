@@ -1,0 +1,57 @@
+--- 
+id: 790499637_10150221622464638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "David and I just booked our big travel for this year: a trip through Vietnam, Laos, and Cambodia! Woo-hoo! Unlike some of our recent big excursions, I have very few expectations or pre-conceived notions of these countries. The only thing that people have told be is to expect it to be hot."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150221622464638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150221622464638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-03-29T14:20:59+0000
+updated_time: 2011-03-30T00:57:22+0000
+likes: 
+  data: 
+  - name: Jay Forsyth
+    id: "718958430"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Robb Bloom
+    id: "1095747683"
+  - name: Renee Kent
+    id: "531319519"
+  count: 6
+comments: 
+  data: 
+  - id: 790499637_10150221622464638_17059685
+    from: 
+      name: Veronique Wolwowicz Rader
+      id: "604902503"
+    message: Cambodia still remains one of one favorite trips around Asia ! It s still very much untouched. We stayed at the Victoria hotel in Siem Reap which I very highly recommend. Beautiful rooms and u can have a view over the park full of trees with hanging flying foxes. Very neat !I should download some of pictures I took then....
+    created_time: 2011-03-29T14:45:33+0000
+  - id: 790499637_10150221622464638_17072561
+    from: 
+      name: Susan Redler
+      id: "734243579"
+    message: You go on the best vacations.  I am so jealous.
+    created_time: 2011-03-29T23:12:36+0000
+  - id: 790499637_10150221622464638_17074834
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: Our first trip together was to Vietnam in 1998 and I vowed that if I still liked Paulie after spending 3 weeks back packing around the Vietnamese country side with him, I would marry him!!! The whole trip cost us $2000, but we did do it rough. Any chance of concluding your trip with an Aussie visit....?
+    created_time: 2011-03-30T00:57:22+0000
+  count: 3
+layout: facebook-status
+title: Tuesday, Mar 29, 2011 - 10:20AM
+date: 2011-03-29 10:20:59 -04:00
+
+---
+David and I just booked our big travel for this year: a trip through Vietnam, Laos, and Cambodia! Woo-hoo! Unlike some of our recent big excursions, I have very few expectations or pre-conceived notions of these countries. The only thing that people have told be is to expect it to be hot.
