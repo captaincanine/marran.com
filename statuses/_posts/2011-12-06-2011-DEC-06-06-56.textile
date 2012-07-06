@@ -1,0 +1,49 @@
+--- 
+id: 790499637_10150592297369638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "I'd like to propose new marriage laws: two people can get married if and only if they log 40 hours together in a Home Depot and/or a Bed, Bath, & Beyond."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150592297369638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150592297369638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2011-12-06T11:56:24+0000
+updated_time: 2011-12-06T22:30:27+0000
+likes: 
+  data: 
+  - name: David Nudo
+    id: "703436193"
+  - name: Marcie Morton Sobelman
+    id: "1275161562"
+  - name: Dave Gonzales
+    id: "1331442386"
+  - name: Sara Holoubek
+    id: "659585353"
+  count: 15
+comments: 
+  data: 
+  - id: 790499637_10150592297369638_23432450
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: Farm N' Fleet sounds like an over-the-counter enema kit for cows...   ;-)
+    created_time: 2011-12-06T22:20:08+0000
+  - id: 790499637_10150592297369638_23432661
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Hilarious, Eric. The thought was sort of lurking in the back of my mind. I'm glad someone else said it.
+    created_time: 2011-12-06T22:30:27+0000
+  count: 10
+layout: facebook-status
+title: Tuesday, Dec  6, 2011 - 06:56AM
+date: 2011-12-06 06:56:24 -05:00
+
+---
+I'd like to propose new marriage laws: two people can get married if and only if they log 40 hours together in a Home Depot and/or a Bed, Bath, & Beyond.

@@ -1,0 +1,30 @@
+--- 
+id: 790499637_10151232207944638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Is Gawker going for some sort of Worst User Interface Award with their commenting system? They keep changing it every week, making it more obtuse and labyrinthine with each revision. For a site that has succeeded based on its commenters, they have really shot themselves in the foot.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151232207944638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151232207944638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2012-06-28T18:31:34+0000
+updated_time: 2012-06-28T18:31:34+0000
+likes: 
+  data: 
+  - name: T'ai Chu-Richardson
+    id: "14101146"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-status
+title: Thursday, Jun 28, 2012 - 02:31PM
+date: 2012-06-28 14:31:34 -04:00
+
+---
+Is Gawker going for some sort of Worst User Interface Award with their commenting system? They keep changing it every week, making it more obtuse and labyrinthine with each revision. For a site that has succeeded based on its commenters, they have really shot themselves in the foot.

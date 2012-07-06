@@ -1,0 +1,43 @@
+--- 
+id: 790499637_192042427513586
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: A friend of mine has a very funny article up on McSweeney's website.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAsd7ikZWw4MpeE&w=90&h=90&url=http%3A%2F%2Fwww.mcsweeneys.net%2Fsrc%2Fcamel.gif
+link: http://www.mcsweeneys.net/2011/6/9bond.html
+name: "McSweeney's Internet Tendency: Excerpts from My Novel, \"Here's the Story of a Lovely Lady.\""
+caption: www.mcsweeneys.net
+description: A friend of mine has a very funny article up on McSweeney's website.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/192042427513586
+- name: Like
+  link: http://www.facebook.com/790499637/posts/192042427513586
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+created_time: 2011-06-10T11:25:34+0000
+updated_time: 2011-06-10T11:25:34+0000
+likes: 
+  data: 
+  - name: Eileen O'Donnell
+    id: "667235678"
+  - name: Robb Bloom
+    id: "1095747683"
+  - name: Thomas Rogers
+    id: "538628386"
+  count: 3
+comments: 
+  count: 0
+layout: facebook-link
+title: Friday, Jun 10, 2011 - 07:25AM
+link-info: Timothy McSweeney's Internet Tendency
+date: 2011-06-10 07:25:34 -04:00
+
+---
+A friend of mine has a very funny article up on McSweeney's website.

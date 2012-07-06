@@ -1,0 +1,50 @@
+--- 
+id: 790499637_169525803150557
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Why didn't my high school counselor tell me that "smutographer" is a valid career path?! http://elvisdifaziopeople.blogspot.com/
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQC_yS2TEVxt-BBv&w=90&h=90&url=http%3A%2F%2Fi45.photobucket.com%2Falbums%2Ff100%2Felvis1968%2Fsheriff++cherry%2FINTERVIEW.jpg
+link: http://elvisdifaziopeople.blogspot.com/
+name: Elvis Di Fazio diaries of a smutographer
+caption: elvisdifaziopeople.blogspot.com
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/169525803150557
+- name: Like
+  link: http://www.facebook.com/790499637/posts/169525803150557
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2012-01-25T20:10:55+0000
+updated_time: 2012-01-25T22:14:48+0000
+likes: 
+  data: 
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_169525803150557_436127
+    from: 
+      name: Chantal Prather Wright
+      id: "1050241430"
+    message: No excuse darling.  Simply a reality os Small Town USA.  But hey, we turned out alright.
+    created_time: 2012-01-25T21:35:47+0000
+  - id: 790499637_169525803150557_436177
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: Speak for yourself...lol
+    created_time: 2012-01-25T22:14:48+0000
+  count: 4
+layout: facebook-link
+title: Wednesday, Jan 25, 2012 - 03:10PM
+date: 2012-01-25 15:10:55 -05:00
+
+---
+Why didn't my high school counselor tell me that "smutographer" is a valid career path?! http://elvisdifaziopeople.blogspot.com/

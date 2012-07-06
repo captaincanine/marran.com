@@ -1,0 +1,52 @@
+--- 
+id: 790499637_10150285680894638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Who says algebra doesn't get used in real life? Take this example from last night when I had to put money on my Metrocard: If you have $1.75 left on your card, and a single ride costs $2.50, and you get a 7% percent bonus for putting more than $10 on your card, what kind of freaking genius do they expect you to be to make sure that all works out evenly?"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150285680894638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150285680894638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-05-04T15:19:39+0000
+updated_time: 2011-05-04T17:45:11+0000
+likes: 
+  data: 
+  - name: Robert Lucas
+    id: "100000816082478"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150285680894638_18038666
+    from: 
+      name: Brett Bishop
+      id: "1203637433"
+    message: So you added 75 cents to the card, used it and then threw it on the subway tracks, right?
+    created_time: 2011-05-04T15:58:31+0000
+    likes: 1
+  - id: 790499637_10150285680894638_18039225
+    from: 
+      name: Thomas Rogers
+      id: "538628386"
+    message: Was that why my train was delayed? MetroCard track fire?
+    created_time: 2011-05-04T16:25:21+0000
+  - id: 790499637_10150285680894638_18040990
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Brett - were you in Argentina recently? http://gawker.com/#!5797992/late-for-work-you-dont-need-to-torch-the-train
+    created_time: 2011-05-04T17:45:11+0000
+  count: 3
+layout: facebook-status
+title: Wednesday, May  4, 2011 - 11:19AM
+date: 2011-05-04 11:19:39 -04:00
+
+---
+Who says algebra doesn't get used in real life? Take this example from last night when I had to put money on my Metrocard: If you have $1.75 left on your card, and a single ride costs $2.50, and you get a 7% percent bonus for putting more than $10 on your card, what kind of freaking genius do they expect you to be to make sure that all works out evenly?

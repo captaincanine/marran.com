@@ -1,0 +1,45 @@
+--- 
+id: 790499637_10150272331999638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: At a class on professional blogging.
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=b3bb90f40dc788a2ab4efdd2790149af&src=https%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.73937627795841%2F-73.98943841457367%2Fmap.png
+link: https://foursquare.com/user/90473/checkin/4db0c3c8cda14b702a387410?s=mEo4e_PmrszOzfnuRCOS3_MxN-8
+name: General Assembly
+caption: Keith just checked in @ General Assembly (w/ 11 others) (New York, NY)
+description: At a class on professional blogging.
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150272331999638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150272331999638
+- name: Keith on foursquare
+  link: https://foursquare.com/user/90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: "foursquare "
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2011-04-21T23:54:49+0000
+updated_time: 2011-04-21T23:54:49+0000
+likes: 
+  data: 
+  - name: Renee Kent
+    id: "531319519"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-link
+title: Thursday, Apr 21, 2011 - 07:54PM
+link-info: foursquare
+date: 2011-04-21 19:54:49 -04:00
+
+---
+At a class on professional blogging.

@@ -1,0 +1,43 @@
+--- 
+id: 790499637_196205087064488
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Lesson that Julie Taymor and Bono should have learned from an improv musical troupe
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCq6VTcOXFI4N7T&w=90&h=90&url=http%3A%2F%2Ffiles.list.co.uk%2Fimages%2F2010%2F07%2F27%2Fbaby-wants-candy.png
+link: http://ping.fm/QsbIe
+name: Spider-man Wants Candy
+caption: www.marran.com
+description: Lesson that Julie Taymor and Bono should have learned from an improv musical troupe
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/196205087064488
+- name: Like
+  link: http://www.facebook.com/790499637/posts/196205087064488
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Ping.fm
+  namespace: pingdotfm
+  id: "10732101402"
+created_time: 2011-02-27T20:46:46+0000
+updated_time: 2011-02-27T20:46:46+0000
+likes: 
+  data: 
+  - name: Tracie Duncan
+    id: "717015376"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-link
+title: Sunday, Feb 27, 2011 - 03:46PM
+link-info: Last weekend I went to see
+date: 2011-02-27 15:46:46 -05:00
+
+---
+Lesson that Julie Taymor and Bono should have learned from an improv musical troupe

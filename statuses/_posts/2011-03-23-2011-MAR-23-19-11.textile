@@ -1,0 +1,39 @@
+--- 
+id: 790499637_10150215691959638
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=47a64de629165272a7a90c95d0e05299&src=http%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.724944%2F-73.990806%2Fmap.png
+link: http://foursquare.com/user/90473/checkin/4d8a7e1b26a36ea88f39f6ad?s=4JV58TTQ8KH48tdu0gbjLGL0ynE
+name: Heartbreak Cafe
+caption: Keith just checked in @ Heartbreak Cafe (New York)
+description: 
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150215691959638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150215691959638
+- name: Keith on foursquare
+  link: http://foursquare.com/user/90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: "foursquare "
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2011-03-23T23:11:24+0000
+updated_time: 2011-03-23T23:11:24+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Wednesday, Mar 23, 2011 - 07:11PM
+link-info: foursquare
+date: 2011-03-23 19:11:24 -04:00
+
+---
+

@@ -1,0 +1,32 @@
+--- 
+id: 790499637_10151235006874638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: So...the reviews are coming in for The Amazing Spider-Man and it sounds like it's exactly what I thought. It's not a bad movie, but's a movie we all just saw. And liked it just as it was the first time around.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151235006874638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151235006874638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2012-06-29T20:58:44+0000
+updated_time: 2012-06-29T20:58:44+0000
+likes: 
+  data: 
+  - name: Sarah Livingston Moore
+    id: "607352676"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 2
+comments: 
+  count: 0
+layout: facebook-status
+title: Friday, Jun 29, 2012 - 04:58PM
+date: 2012-06-29 16:58:44 -04:00
+
+---
+So...the reviews are coming in for The Amazing Spider-Man and it sounds like it's exactly what I thought. It's not a bad movie, but's a movie we all just saw. And liked it just as it was the first time around.

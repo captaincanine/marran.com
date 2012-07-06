@@ -1,0 +1,39 @@
+--- 
+id: 790499637_103857156366403
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: &id001 |-
+  FunnyOrDie.com has a full feature on Rebecca Black today. Most of the videos are not worth watching, but this one is funny: http://www.funnyordie.com/videos/a085babc82/rebecca-black-s-greatest-hits?playlist=329518. 
+  
+  But what's amazing is that Rebecca Black has become the "Two Girls and a Cup" of 2011. The internet truly is a race to the bottom. Time for me to strap on my jet pack.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQC-Vl7mnNBUd8jH&w=90&h=90&url=http%3A%2F%2Fassets0.ordienetworks.com%2Ftmbs%2Fa085babc82%2Flarge_16.jpg%3F452183f0
+link: http://www.funnyordie.com/videos/a085babc82/rebecca-black-s-greatest-hits?playlist=329518
+name: Rebecca Black's Greatest Hits
+caption: www.funnyordie.com
+description: *id001
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/103857156366403
+- name: Like
+  link: http://www.facebook.com/790499637/posts/103857156366403
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+created_time: 2011-04-01T14:38:48+0000
+updated_time: 2011-04-01T14:38:48+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Friday, Apr  1, 2011 - 10:38AM
+link-info: Rebecca Black's greatest hits are now available for you to buy at an unbelievable price.
+date: 2011-04-01 10:38:48 -04:00
+
+---
+FunnyOrDie.com has a full feature on Rebecca Black today. Most of the videos are not worth watching, but this one is funny: http://www.funnyordie.com/videos/a085babc82/rebecca-black-s-greatest-hits?playlist=329518. 
+
+But what's amazing is that Rebecca Black has become the "Two Girls and a Cup" of 2011. The internet truly is a race to the bottom. Time for me to strap on my jet pack.

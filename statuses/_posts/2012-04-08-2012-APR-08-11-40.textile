@@ -1,0 +1,43 @@
+--- 
+id: 790499637_176994765754554
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Seeing Betty this season hit a raw nerve. I could barely look at her when she was on screen. She's the one character on the show I can't bear to see fat. What does that say about me?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDnHMIz6e6-IFhS&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F17icoc52mbipfjpg%2Ffb.jpg
+link: http://jezebel.com/5898359/mad-men-fat-betty
+name: "Mad Men: Fat Betty"
+caption: jezebel.com
+description: Seeing Betty this season hit a raw nerve. I could barely look at her when she was on screen. She's the one character on the show I can't bear to see fat. What does that say about me?
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/176994765754554
+- name: Like
+  link: http://www.facebook.com/790499637/posts/176994765754554
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-04-08T15:40:17+0000
+updated_time: 2012-04-08T15:44:33+0000
+comments: 
+  data: 
+  - id: 790499637_176994765754554_427043
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: Racist.
+    created_time: 2012-04-08T15:44:33+0000
+    likes: 1
+  count: 1
+layout: facebook-link
+title: Sunday, Apr  8, 2012 - 11:40AM
+link-info: Fans of the show were wondering how Mad Men would handle January Jones' pregnancy. Would Betty stand behind a lot of flower arrangements or carry large bags?
+date: 2012-04-08 11:40:17 -04:00
+
+---
+Seeing Betty this season hit a raw nerve. I could barely look at her when she was on screen. She's the one character on the show I can't bear to see fat. What does that say about me?

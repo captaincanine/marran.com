@@ -1,0 +1,43 @@
+--- 
+id: 790499637_10150601152469638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Two more batches today: Chile (dulce de leche with pecans) and Turkey (pistachio, honey, and spices). Over half-way done!"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150601152469638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150601152469638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2011-12-09T22:48:27+0000
+updated_time: 2011-12-10T21:16:18+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10150601152469638_23517263
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Oh, would so love to be close enough to taste some of your chocolates!  They sound totally delicious!  :-)
+    created_time: 2011-12-10T12:59:17+0000
+  - id: 790499637_10150601152469638_23525287
+    from: 
+      name: Angela Murray Mahoney
+      id: "562162454"
+    message: Go Chile - they certainly use their dulce de leche!
+    created_time: 2011-12-10T21:16:18+0000
+  count: 2
+layout: facebook-status
+title: Friday, Dec  9, 2011 - 05:48PM
+date: 2011-12-09 17:48:27 -05:00
+
+---
+Two more batches today: Chile (dulce de leche with pecans) and Turkey (pistachio, honey, and spices). Over half-way done!

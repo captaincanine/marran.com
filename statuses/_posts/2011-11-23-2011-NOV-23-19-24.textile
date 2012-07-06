@@ -1,0 +1,32 @@
+--- 
+id: 790499637_204157062995612
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Sufjan Stevens has written a comic book?! Geez. Is there anything he doesn't do?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQB_gmvyY-Nfjx3l&w=90&h=90&url=http%3A%2F%2Fasthmatickitty.com%2FphpThumb%2FphpThumb.php%3Fsrc%3D%2Fimages%2Freleases%2FAKR872_900.jpg%26w%3D350%26h%3D470%26q%3D95
+link: http://asthmatickitty.com/hooper-heroes-comic-book
+name: "Asthmatic Kitty Records : Sufjan Stevens \xC2\xBB Hooper Heroes Comic Book"
+caption: asthmatickitty.com
+description: Sufjan Stevens has written a comic book?! Geez. Is there anything he doesn't do?
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/204157062995612
+- name: Like
+  link: http://www.facebook.com/790499637/posts/204157062995612
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2011-11-24T00:24:09+0000
+updated_time: 2011-11-24T00:24:09+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Wednesday, Nov 23, 2011 - 07:24PM
+link-info: "Dimensions: 8.5\" x 10.75\"  \tSufjan Stevens' The BQE further extends its mythology by anthropomorphizing the expressway and its theoretical conceits into a 40-page comic book (cover by Matt Loux, masthead by Christian Acker), in which three extra-terrestrial superhero sisters (Botanica, Quantus, and ..."
+date: 2011-11-23 19:24:09 -05:00
+
+---
+Sufjan Stevens has written a comic book?! Geez. Is there anything he doesn't do?

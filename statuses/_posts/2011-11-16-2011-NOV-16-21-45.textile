@@ -1,0 +1,59 @@
+--- 
+id: 790499637_218164244922654
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCibwPhPLr22daC&w=90&h=90&url=http%3A%2F%2Ffarm7.static.flickr.com%2F6095%2F6351572273_048e144d3e_t.jpg
+link: http://ravel.me/keiffer/ahffab
+name: "Ravelry: keiffer's Stripey Boyfriend Hat"
+caption: www.ravelry.com
+description: 
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/218164244922654
+- name: Like
+  link: http://www.facebook.com/790499637/posts/218164244922654
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-11-17T02:45:10+0000
+updated_time: 2011-11-17T15:44:24+0000
+likes: 
+  data: 
+  - name: Sara Holoubek
+    id: "659585353"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  - name: Renee Kent
+    id: "531319519"
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  count: 5
+comments: 
+  data: 
+  - id: 790499637_218164244922654_1937261
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Thanks! It took me 3 days, but you're probably faster than I am. Also, I used this wool which I highly recommend: http://www.thefibreco.com/roadtochina.html. Super soft and not itchy at all."
+    created_time: 2011-11-17T15:39:44+0000
+  - id: 790499637_218164244922654_1937278
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Nice!  Crochet is quicker than knitting... It will take me a little time to translate the knit stitches to crochet, after that it's a cinch!
+    created_time: 2011-11-17T15:44:24+0000
+  count: 6
+layout: facebook-link
+title: Wednesday, Nov 16, 2011 - 09:45PM
+link-info: I just finished my latest knitting project. This was a hat I made for a friend. It's based on The Boyfriend Hat. I've found it to be a good, all-purpose winter hat project with some modifications. This is made from a super-soft merino wool.
+date: 2011-11-16 21:45:10 -05:00
+
+---
+

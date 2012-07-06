@@ -1,0 +1,39 @@
+--- 
+id: 790499637_10150564193494638
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=a2f3e4ab1cd8eb177b5783bc3a5de3c4&src=https%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.744842%2F-73.998041%2Fmap.png
+link: https://foursquare.com/user/90473/checkin/4ed0093d29c223f9286f7de2?s=kVuz6sLCzM9p9AF2SdzQFaz5JPg&ref=fb&source=fbwall
+name: Chelsea Clearview Cinemas
+caption: Keith just checked in @ Chelsea Clearview Cinemas for Hugo Cabret 3D (w/ 5 others) (New York, NY)
+description: 
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150564193494638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150564193494638
+- name: Keith on foursquare
+  link: https://foursquare.com/user/90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: "foursquare "
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2011-11-25T21:31:44+0000
+updated_time: 2011-11-25T21:31:44+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Friday, Nov 25, 2011 - 04:31PM
+link-info: foursquare
+date: 2011-11-25 16:31:44 -05:00
+
+---
+

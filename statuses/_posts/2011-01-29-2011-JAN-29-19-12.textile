@@ -1,0 +1,52 @@
+--- 
+id: 790499637_197537420263041
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: To be truly weird, I think you either have to be French or Japanese. The award goes to the French this time around. Be sure to wait until the 0:45 mark for a real "what the hell?" moment.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDaaEnjoo9aWDI_&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FyIB2kVjWyf0%2F3.jpg
+link: http://www.youtube.com/watch?v=yIB2kVjWyf0&feature=player_embedded
+source: http://www.youtube.com/v/yIB2kVjWyf0&autoplay=1
+name: Hot Leotard Vogueing
+description: To be truly weird, I think you either have to be French or Japanese. The award goes to the French this time around. Be sure to wait until the 0:45 mark for a real "what the hell?" moment.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/197537420263041
+- name: Like
+  link: http://www.facebook.com/790499637/posts/197537420263041
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+created_time: 2011-01-30T00:12:28+0000
+updated_time: 2011-01-30T10:44:47+0000
+likes: 
+  data: 
+  - name: Debbie Glass
+    id: "1613911702"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_197537420263041_2713238
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: i laughed and laughed and laughed! Thanks, just what i needed!
+    created_time: 2011-01-30T00:18:22+0000
+  - id: 790499637_197537420263041_2716346
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Seems to be from the 80's... OMFG though, how utterly weird! :-)
+    created_time: 2011-01-30T10:44:47+0000
+  count: 2
+layout: facebook-video
+title: Saturday, Jan 29, 2011 - 07:12PM
+link-info: strip tease spirited but ludicrous
+date: 2011-01-29 19:12:28 -05:00
+
+---
+To be truly weird, I think you either have to be French or Japanese. The award goes to the French this time around. Be sure to wait until the 0:45 mark for a real "what the hell?" moment.

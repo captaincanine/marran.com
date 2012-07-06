@@ -1,0 +1,52 @@
+--- 
+id: 790499637_10150703811924638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "I think it's time for me to look for a cubicle to rent. Something to get me out of the house and free of distractions. What's the better neighborhood for that: DUMBO or Greenpoint?"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150703811924638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150703811924638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2012-01-18T17:08:17+0000
+updated_time: 2012-01-19T12:11:46+0000
+comments: 
+  data: 
+  - id: 790499637_10150703811924638_24372145
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: |
+      They have everything on NYC don't they...
+
+    created_time: 2012-01-18T17:38:58+0000
+  - id: 790499637_10150703811924638_24372425
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    message: |-
+      http://workattheyard.com/ 
+      I walk by The Yard in Greenpoint a lot. It's close to the park, and about a >10 minute walk from the Bedford L train.
+    created_time: 2012-01-18T17:52:46+0000
+  - id: 790499637_10150703811924638_24389841
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I happened to be a few blocks from The Yard when you sent me this, so I checked it out. It was a great lobby! But the individual spaces were like white, beautifully architected coffins.
+    created_time: 2012-01-19T12:11:46+0000
+  count: 3
+layout: facebook-status
+title: Wednesday, Jan 18, 2012 - 12:08PM
+date: 2012-01-18 12:08:17 -05:00
+
+---
+I think it's time for me to look for a cubicle to rent. Something to get me out of the house and free of distractions. What's the better neighborhood for that: DUMBO or Greenpoint?

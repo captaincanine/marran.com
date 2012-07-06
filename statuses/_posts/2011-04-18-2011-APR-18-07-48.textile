@@ -1,0 +1,37 @@
+--- 
+id: 790499637_125444077530226
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "That's it. My next house will have a penguin habitat. WARNING: This video is INCREDIBLY CUTE!"
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBqEuT6ZihTidWL&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F3wTWWjYTe1I%2F1.jpg
+link: http://www.youtube.com/watch?v=3wTWWjYTe1I&feature=share
+source: http://www.youtube.com/v/3wTWWjYTe1I&fs=1?autoplay=1
+name: Cookie the Little Penguin at the Cincinnati Zoo
+description: "That's it. My next house will have a penguin habitat. WARNING: This video is INCREDIBLY CUTE!"
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/125444077530226
+- name: Like
+  link: http://www.facebook.com/790499637/posts/125444077530226
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-04-18T11:48:01+0000
+updated_time: 2011-04-18T11:48:01+0000
+comments: 
+  count: 0
+layout: facebook-video
+title: Monday, Apr 18, 2011 - 07:48AM
+link-info: Cookie is a "Little Penguin" and the mascot of the Zoo Bird House.
+date: 2011-04-18 07:48:01 -04:00
+
+---
+That's it. My next house will have a penguin habitat. WARNING: This video is INCREDIBLY CUTE!

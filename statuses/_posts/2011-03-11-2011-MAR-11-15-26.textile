@@ -1,0 +1,34 @@
+--- 
+id: 790499637_116149681795936
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Today's under-rated album is Moby Grape's self-titled album. Here's a sample.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCJlhIcgSTz_aj4&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FntWqglBcO94%2F1.jpg
+link: http://www.youtube.com/watch?v=ntWqglBcO94
+source: http://www.youtube.com/v/ntWqglBcO94&autoplay=1&fs=1
+name: MOBY GRAPE - FALL ON YOU
+description: Today's under-rated album is Moby Grape's self-titled album. Here's a sample.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/116149681795936
+- name: Like
+  link: http://www.facebook.com/790499637/posts/116149681795936
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+created_time: 2011-03-11T20:26:21+0000
+updated_time: 2011-03-11T20:26:21+0000
+comments: 
+  count: 0
+layout: facebook-video
+title: Friday, Mar 11, 2011 - 03:26PM
+link-info: "De su primer  LP \"Moby Grape\" (1967) Formaci\xC3\xB3n: Jerry Miller (guitarra, voz) Peter Lewis ( guitarra, voz) Skip Spence (guitarra, voz) Bob Mosely (bajo, voz) y Don Stevenson (bater\xC3\xADa, voz)"
+date: 2011-03-11 15:26:21 -05:00
+
+---
+Today's under-rated album is Moby Grape's self-titled album. Here's a sample.

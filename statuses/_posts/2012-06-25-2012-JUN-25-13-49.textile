@@ -1,0 +1,34 @@
+--- 
+id: 790499637_383163448410132
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Oh Facebook. Did you really think we would not notice this?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDL0OegRhlTkYhb&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F17qvqtbg1jlfrjpg%2Ffb.jpg
+link: http://lifehacker.com/5921095/facebook-just-changed-your-email-without-permission-heres-how-to-get-it-back
+name: Facebook Just Changed Your Email Without Permission; Here's How to Get It Back
+caption: lifehacker.com
+description: Oh Facebook. Did you really think we would not notice this?
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/383163448410132
+- name: Like
+  link: http://www.facebook.com/790499637/posts/383163448410132
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2012-06-25T17:49:02+0000
+updated_time: 2012-06-25T17:49:02+0000
+shares: 
+  count: 1
+comments: 
+  count: 0
+layout: facebook-link
+title: Monday, Jun 25, 2012 - 01:49PM
+link-info: Facebook just removed everyone's email address from their profile and replaced it with an @facebook.com email address without asking you. Here's how to easily fix the problem.
+date: 2012-06-25 13:49:02 -04:00
+
+---
+Oh Facebook. Did you really think we would not notice this?

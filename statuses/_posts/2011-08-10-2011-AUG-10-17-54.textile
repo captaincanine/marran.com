@@ -1,0 +1,57 @@
+--- 
+id: 790499637_10150400633404638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Do they teach the difference between "to" and "too" in school anymore? I'm not usually a stickler for grammar in casual internet comments, but I'm getting a little appalled that no one seems to use "too" anymore.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150400633404638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150400633404638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-08-10T21:54:05+0000
+updated_time: 2011-08-11T20:54:10+0000
+likes: 
+  data: 
+  - name: Andrea Miklasz
+    id: "629554115"
+  - name: Parizad Motiwala O'Donnell
+    id: "1386266174"
+  - name: Thomas Rogers
+    id: "538628386"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_10150400633404638_20612508
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Gregory, I have to admit that I'm not good with my Thats and Whiches. I've tried a few times to remember the rule but nothing sticks. If you have an easy mnemonic, I'd love to hear it.
+    message_tags: 
+    - id: "100002115994439"
+      name: Gregory
+      type: user
+      offset: 0
+      length: 7
+    created_time: 2011-08-11T14:12:15+0000
+  - id: 790499637_10150400633404638_20620948
+    from: 
+      name: Ivan Davidson
+      id: "1407227803"
+    message: The last 15 years of teaching, I was appalled at the number of students who seemed unaware of the differences between their, there, and they're;  your and you're, and anything using (or not using) an apostrophe,  and assumed Spell Check was the ultimate word.  Email, FB and texting have done nothing to improve the situation.  I am a grammar grouch.
+    created_time: 2011-08-11T20:54:10+0000
+  count: 15
+layout: facebook-status
+title: Wednesday, Aug 10, 2011 - 05:54PM
+date: 2011-08-10 17:54:05 -04:00
+
+---
+Do they teach the difference between "to" and "too" in school anymore? I'm not usually a stickler for grammar in casual internet comments, but I'm getting a little appalled that no one seems to use "too" anymore.

@@ -1,0 +1,49 @@
+--- 
+id: 790499637_114716181939636
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: |-
+  Theater in Brooklyn, live Queen tribute, improvised musical... I have been rekindling my romance with New York City. And last night I went an improvised cartooning competition called Fisticuffs! 
+  
+  It was awesome but inspired in me a great envy of those who can draw.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAZE8gcaKpPTHXB&w=90&h=90&url=http%3A%2F%2Fwww.92y.org%2F_images%2Fcollage%2FcoDe_fisticuffs_mar.gif
+link: http://www.92y.org/shop/92Tri_event_detail.asp?productid=T-MM5CM29
+name: The Nib and Pick Society Presents...FISTICUFFS!
+caption: www.92y.org
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/114716181939636
+- name: Like
+  link: http://www.facebook.com/790499637/posts/114716181939636
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+created_time: 2011-03-03T23:04:15+0000
+updated_time: 2011-03-03T23:26:23+0000
+likes: 
+  data: 
+  - name: Sara Holoubek
+    id: "659585353"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_114716181939636_287568
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: and we learned the difference between a "caption" and a "thing"
+    created_time: 2011-03-03T23:26:23+0000
+  count: 1
+layout: facebook-link
+title: Thursday, Mar  3, 2011 - 06:04PM
+date: 2011-03-03 18:04:15 -05:00
+
+---
+Theater in Brooklyn, live Queen tribute, improvised musical... I have been rekindling my romance with New York City. And last night I went an improvised cartooning competition called Fisticuffs! 
+
+It was awesome but inspired in me a great envy of those who can draw.

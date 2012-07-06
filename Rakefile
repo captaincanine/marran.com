@@ -38,7 +38,7 @@ end
 
 task :deploy do
   sh 'jekyll'
-  sh 's3sync -r _site/ www.marran.com:/'
+  sh 'rsync -rzvc _site/ root@198.101.216.18:/var/www/html/'
 end
 
 task :commit do

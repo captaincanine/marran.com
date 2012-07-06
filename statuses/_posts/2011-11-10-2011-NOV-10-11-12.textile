@@ -1,0 +1,53 @@
+--- 
+id: 790499637_272090109494042
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "This is MOST DEFINITELY not appropriate for work or my relatives or people that are even the slightest bit offended. That being said, I don't know what's funnier - this video or the boardroom meetings that led to this marketing decision.  "
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBAtoN5L1oqFzUv&w=130&h=130&url=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FG6HsBlBZXso%2Fhqdefault.jpg
+link: http://www.youtube.com/watch?v=G6HsBlBZXso&feature=related
+source: http://www.youtube.com/v/G6HsBlBZXso?version=3&autohide=1&autoplay=1
+name: Varla Jean and Fleet Naturals! BACKDOOR DELIVERY!
+description: "This is MOST DEFINITELY not appropriate for work or my relatives or people that are even the slightest bit offended. That being said, I don't know what's funnier - this video or the boardroom meetings that led to this marketing decision.  "
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/272090109494042
+- name: Like
+  link: http://www.facebook.com/790499637/posts/272090109494042
+privacy: 
+  description: Public
+  value: EVERYONE
+type: video
+created_time: 2011-11-10T16:12:46+0000
+updated_time: 2011-11-11T00:20:29+0000
+likes: 
+  data: 
+  - name: Sreedhar Yedavalli
+    id: "1199970155"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_272090109494042_3624555
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      Oooooh.  Good one.  Nice research.
+      
+      Once again, I don't know what to think.
+    created_time: 2011-11-10T23:25:28+0000
+  - id: 790499637_272090109494042_3624731
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: heeheehee.....very funny
+    created_time: 2011-11-11T00:20:29+0000
+  count: 12
+layout: facebook-video
+title: Thursday, Nov 10, 2011 - 11:12AM
+link-info: Go to http://www.fleetnaturals.com/varla for a SPECIAL GIFT! Subscribe to Varla Jean's Youtube Channel to be notified of new announcements from Varla Jean an...
+date: 2011-11-10 11:12:46 -05:00
+
+---
+This is MOST DEFINITELY not appropriate for work or my relatives or people that are even the slightest bit offended. That being said, I don't know what's funnier - this video or the boardroom meetings that led to this marketing decision.  

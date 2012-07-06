@@ -1,0 +1,52 @@
+--- 
+id: 790499637_163772537005765
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I had no idea that they had made another version of this video until I stumbled across it today. Like all of OK Go's videos, I feel I could watch this again and again.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCMWGaepb-6G5gU&w=130&h=130&url=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F413%2F954%2F41395437_200.jpg
+link: http://vimeo.com/8718627
+source: http://vimeo.com/moogaloop.swf?clip_id=8718627
+name: OK Go - This Too Shall Pass
+description: I had no idea that they had made another version of this video until I stumbled across it today. Like all of OK Go's videos, I feel I could watch this again and again.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/163772537005765
+- name: Like
+  link: http://www.facebook.com/790499637/posts/163772537005765
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-02-15T23:36:30+0000
+updated_time: 2011-02-16T03:59:15+0000
+comments: 
+  data: 
+  - id: 790499637_163772537005765_1864900
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: Awesome and so different from the last one.
+    created_time: 2011-02-16T03:52:30+0000
+  - id: 790499637_163772537005765_1864930
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: |-
+      Have you listened to Sleigh Bells? A much more steroided up marching band backed band. I'm really liking them.
+      http://www.youtube.com/watch?v=5bcLWZY7kAQ&playnext=1&list=PL965FABF9A3B56E76
+    created_time: 2011-02-16T03:59:15+0000
+  count: 5
+layout: facebook-video
+title: Tuesday, Feb 15, 2011 - 06:36PM
+link-info: "Official video for OK Go's \"This Too Shall Pass\" off of the New Album \"Of the Blue Colour of the Sky\". The video was filmed live and features the Notre Dame marching band. Directed by Brian L. Perkins and OK Go.  Buy the album here: http://bit.ly/okgootbcots And..."
+date: 2011-02-15 18:36:30 -05:00
+
+---
+I had no idea that they had made another version of this video until I stumbled across it today. Like all of OK Go's videos, I feel I could watch this again and again.

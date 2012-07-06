@@ -1,0 +1,38 @@
+--- 
+id: 790499637_10150214250609638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: For those FGHS alums...I saw a production of "Where's Charley?" in NYC. It's the musical that was based on "Charley's Aunt". I had a flood of memories (and a few blank spots) of our production in '87(?).
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150214250609638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150214250609638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-03-22T14:56:58+0000
+updated_time: 2011-03-22T14:56:58+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  - name: Dave Gonzales
+    id: "1331442386"
+  - name: Lisa Hart Garpestad
+    id: "762164473"
+  count: 5
+comments: 
+  count: 0
+layout: facebook-status
+title: Tuesday, Mar 22, 2011 - 10:56AM
+date: 2011-03-22 10:56:58 -04:00
+
+---
+For those FGHS alums...I saw a production of "Where's Charley?" in NYC. It's the musical that was based on "Charley's Aunt". I had a flood of memories (and a few blank spots) of our production in '87(?).

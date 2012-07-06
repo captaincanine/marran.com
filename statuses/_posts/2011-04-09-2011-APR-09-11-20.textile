@@ -1,0 +1,51 @@
+--- 
+id: 790499637_10150260108804638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Last night I went to see a live production of \"Company\" with the most star-studded cast I've ever experienced: Stephen Colbert, Neil Patrick Harris, Jon Cryer, Martha Plimpton, Patti LuPone, the girl that plays Joanie in Mad Men, and several Broadway stars that most people have never heard of. While it was fun, the Broadway people totally out-did the TV people. Not surprising, I guess."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150260108804638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150260108804638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-04-09T15:20:08+0000
+updated_time: 2011-04-10T14:59:31+0000
+likes: 
+  data: 
+  - name: Melissa Agar
+    id: "530351528"
+  - name: Jeremy Karlin
+    id: "1202268187"
+  - name: Andrea Miklasz
+    id: "629554115"
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_10150260108804638_17386998
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Patti LuPone is delicious!!!!
+    created_time: 2011-04-10T14:09:54+0000
+  - id: 790499637_10150260108804638_17387879
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: At the end of "Here's to the Ladies Who Lunch," Patti LuPone was on the apron of center stage. On her final "RISE!" she threw her arms up and purposefully doused the first three rows of the audience with the contents of her martini glass. It was great.
+    created_time: 2011-04-10T14:59:31+0000
+  count: 7
+layout: facebook-status
+title: Saturday, Apr  9, 2011 - 11:20AM
+date: 2011-04-09 11:20:08 -04:00
+
+---
+Last night I went to see a live production of "Company" with the most star-studded cast I've ever experienced: Stephen Colbert, Neil Patrick Harris, Jon Cryer, Martha Plimpton, Patti LuPone, the girl that plays Joanie in Mad Men, and several Broadway stars that most people have never heard of. While it was fun, the Broadway people totally out-did the TV people. Not surprising, I guess.

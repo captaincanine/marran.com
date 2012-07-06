@@ -1,0 +1,46 @@
+--- 
+id: 790499637_234680406629190
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm feeling worse and worse for today's teenagers. Do they know that life is more fun when lived without constant parental involvement?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQD4ydyLE9BcvhPE&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F17hqql567hr7fpng%2Fmedium.png
+link: http://m.gawker.com/5896774/neurotic-mom-is-determined-to-tell-the-world-about-her-teen-daughters-love-life
+name: Neurotic Mom Is Determined to Tell the World About Her Teen Daughter's Love Life
+caption: m.gawker.com
+description: I'm feeling worse and worse for today's teenagers. Do they know that life is more fun when lived without constant parental involvement?
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/234680406629190
+- name: Like
+  link: http://www.facebook.com/790499637/posts/234680406629190
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+created_time: 2012-03-27T17:32:23+0000
+updated_time: 2012-03-27T20:02:19+0000
+comments: 
+  data: 
+  - id: 790499637_234680406629190_978413
+    from: 
+      name: Ivan Davidson
+      id: "1407227803"
+    message: Little Katie has a moustache????    Seriously, I become increasingly convinced that people should have to have a liscence certifying their competence before they bred!!
+    created_time: 2012-03-27T19:57:19+0000
+    likes: 1
+  - id: 790499637_234680406629190_978424
+    from: 
+      name: Jim Rosenthal
+      id: "1557995026"
+    message: That wouldn't have stopped her, and you know it. The kid will probably turn out fine. Her mother is already beyond hope, and who would want to help her even if they could? Sounds like the mom needs to shut up and get laid, if she can find a blind moron to step up to the plate and service the unit.
+    created_time: 2012-03-27T20:02:19+0000
+  count: 4
+layout: facebook-link
+title: Tuesday, Mar 27, 2012 - 01:32PM
+link-info: Jennifer Coburn is a published author and a full-grown adult. She has a 14 year-old daughter named Katie. Katie just broke up with her boyfriend. How do we know?
+date: 2012-03-27 13:32:23 -04:00
+
+---
+I'm feeling worse and worse for today's teenagers. Do they know that life is more fun when lived without constant parental involvement?

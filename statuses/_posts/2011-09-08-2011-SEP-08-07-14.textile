@@ -1,0 +1,42 @@
+--- 
+id: 790499637_219433838111152
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Yay, Canaan Dogs!
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCJCcPyeuMtt140&w=130&h=130&url=http%3A%2F%2Fnetstorage.discovery.com%2Ffeeds%2Fbrightcove%2Fasset-thumbnails%2Fapl%2Fcba8cf3f8516e1319e3fa937faa731c92f7e2ac5_cba8cf3f8516e1319e3fa937faa731c92f7e2ac5.jpg
+link: http://animal.discovery.com/videos/dogs-101-canaan-dog.html
+source: http://static.discoverymedia.com/shared/swf/video-players/monetized/video-asset-page-player.swf?_playerApplication=fb&_clipRefId=5998528c8b22f5776c1a556003056b60c4590d93&_network=apl
+name: "Dogs 101: Canaan Dog : Video : Animal Planet"
+description: Yay, Canaan Dogs!
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/219433838111152
+- name: Like
+  link: http://www.facebook.com/790499637/posts/219433838111152
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2011-09-08T11:14:09+0000
+updated_time: 2011-09-08T11:14:09+0000
+likes: 
+  data: 
+  - name: Robert Lucas
+    id: "100000816082478"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-video
+title: Thursday, Sep  8, 2011 - 07:14AM
+link-info: The Canaan is a dog cool enough to be JFK Jr.'s best friend and smart enough to be man's battlefield buddy.
+date: 2011-09-08 07:14:09 -04:00
+
+---
+Yay, Canaan Dogs!

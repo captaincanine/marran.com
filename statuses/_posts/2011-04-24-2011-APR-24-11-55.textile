@@ -1,0 +1,40 @@
+--- 
+id: 790499637_10150274948074638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I ran into Zach Galifianakis last night. We shared words. Those specific words were "Go ahead. We're not in line."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150274948074638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150274948074638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-04-24T15:55:02+0000
+updated_time: 2011-04-24T18:38:55+0000
+comments: 
+  data: 
+  - id: 790499637_10150274948074638_17759999
+    from: 
+      name: Jon Gilbert Leavitt
+      id: "756531907"
+    message: Did you see Book of Mormon last night, because he was there and I saw him too...with his short haircut and dowdy green jacket.
+    created_time: 2011-04-24T16:21:04+0000
+  - id: 790499637_10150274948074638_17763260
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I did see it last night! Great show. I was surprised Mr. G was alone.
+    created_time: 2011-04-24T18:38:55+0000
+  count: 2
+layout: facebook-status
+title: Sunday, Apr 24, 2011 - 11:55AM
+date: 2011-04-24 11:55:02 -04:00
+
+---
+I ran into Zach Galifianakis last night. We shared words. Those specific words were "Go ahead. We're not in line."

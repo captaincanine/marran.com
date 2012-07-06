@@ -1,0 +1,34 @@
+--- 
+id: 790499637_10150259457579638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just rediscovered "Little Barrie" sitting in my music library. It was the perfect album for a semi-productive Friday afternoon. Why did they never take off in popularity?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150259457579638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150259457579638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-04-08T20:23:27+0000
+updated_time: 2011-04-08T20:30:09+0000
+comments: 
+  data: 
+  - id: 790499637_10150259457579638_17348331
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: BARRIE?  :D
+    created_time: 2011-04-08T20:30:09+0000
+  count: 1
+layout: facebook-status
+title: Friday, Apr  8, 2011 - 04:23PM
+date: 2011-04-08 16:23:27 -04:00
+
+---
+I just rediscovered "Little Barrie" sitting in my music library. It was the perfect album for a semi-productive Friday afternoon. Why did they never take off in popularity?

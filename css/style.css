@@ -215,8 +215,6 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 .home-top .feed-entry					{ margin-bottom: 1em; padding-right: 12px; }
 .home-top .feed-entry .picture img	{ border: 1px solid #666; }
 
-
-
 .home-top .feed-entry .message		{ font-size: 14px; }
 .home-top .feed-entry .picture		{ float: left; margin-right: 8px; }
 .home-top .feed-entry .name			{ font-weight: bold; text-decoration: none; line-height: 120%; padding-top: 4px; }
@@ -243,6 +241,12 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 .home-bottom .box-header-left .title	{ float: left; }
 .home-bottom .box-header-left .meta		{ float: right; color: #999; font-family: 'UbuntuRegular', sans-serif; font-size: 10px; text-transform: none; line-height: 22px; }
 .home-bottom .box-header-left .meta	a	{ color: #C34E02; }
+
+
+/* STATUSES */
+
+.status .picture		{ float: left; margin-right: 8px; }
+.status .link-info  { margin: 1em 0; }
 
 
 /* POSTS */

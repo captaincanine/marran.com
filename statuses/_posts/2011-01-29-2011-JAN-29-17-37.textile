@@ -1,0 +1,49 @@
+--- 
+id: 790499637_195719090441396
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: |-
+  There's a Ken Russell film based on a Aldous Huxley book called "The Devils". It's about a priest that was executed based on demon possessions of nuns.
+  
+  It was banned all over the world. You can't buy a DVD of it on Amazon. It's not on Netflix. However, I can download the uncensored version illegally - which I am doing.
+  
+  The movie industry really knows how to shoot itself in the foot.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/195719090441396
+- name: Like
+  link: http://www.facebook.com/790499637/posts/195719090441396
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-01-29T22:37:05+0000
+updated_time: 2011-01-30T18:06:02+0000
+comments: 
+  data: 
+  - id: 790499637_195719090441396_2828192
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Sounds fantastic. Must see!
+    created_time: 2011-01-30T16:13:48+0000
+  - id: 790499637_195719090441396_2828959
+    from: 
+      name: Michael Spier
+      id: "1429377221"
+    message: viewing party?
+    created_time: 2011-01-30T18:06:02+0000
+  count: 4
+layout: facebook-status
+title: Saturday, Jan 29, 2011 - 05:37PM
+date: 2011-01-29 17:37:05 -05:00
+
+---
+There's a Ken Russell film based on a Aldous Huxley book called "The Devils". It's about a priest that was executed based on demon possessions of nuns.
+
+It was banned all over the world. You can't buy a DVD of it on Amazon. It's not on Netflix. However, I can download the uncensored version illegally - which I am doing.
+
+The movie industry really knows how to shoot itself in the foot.

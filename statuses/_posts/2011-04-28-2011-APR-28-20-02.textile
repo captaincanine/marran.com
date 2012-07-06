@@ -1,0 +1,45 @@
+--- 
+id: 790499637_10150279809559638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: It's my third time in three weeks here. I feel like I'm back in college.
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=b3bb90f40dc788a2ab4efdd2790149af&src=https%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.73937627795841%2F-73.98943841457367%2Fmap.png
+link: https://foursquare.com/user/90473/checkin/4dba00024df0cac21ae5abe1?s=6kAKL6_LtmCrgD2HEOkAKJ55usI
+name: General Assembly
+caption: Keith just checked in @ General Assembly (w/ 17 others) (New York, NY)
+description: It's my third time in three weeks here. I feel like I'm back in college.
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150279809559638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150279809559638
+- name: Keith on foursquare
+  link: https://foursquare.com/user/90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: "foursquare "
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2011-04-29T00:02:11+0000
+updated_time: 2011-04-29T00:02:11+0000
+likes: 
+  data: 
+  - name: Sara Holoubek
+    id: "659585353"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-link
+title: Thursday, Apr 28, 2011 - 08:02PM
+link-info: foursquare
+date: 2011-04-28 20:02:11 -04:00
+
+---
+It's my third time in three weeks here. I feel like I'm back in college.

@@ -1,0 +1,55 @@
+--- 
+id: 790499637_10150721218399638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just passed Sandra Bernhard.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150721218399638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150721218399638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2012-01-24T17:03:13+0000
+updated_time: 2012-01-24T20:35:14+0000
+likes: 
+  data: 
+  - name: Marcie Morton Sobelman
+    id: "1275161562"
+  - name: Tracie Duncan
+    id: "717015376"
+  - name: Jono Jarrett
+    id: "1343303598"
+  - name: Melissa Agar
+    id: "530351528"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_10150721218399638_24504886
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: ....and lived to tell the story!!
+    created_time: 2012-01-24T18:59:39+0000
+    likes: 1
+  - id: 790499637_10150721218399638_24506562
+    from: 
+      name: Gregory Seta
+      id: "100002115994439"
+    message: Did it hurt?
+    created_time: 2012-01-24T20:35:14+0000
+    likes: 1
+  count: 6
+layout: facebook-status
+title: Tuesday, Jan 24, 2012 - 12:03PM
+date: 2012-01-24 12:03:13 -05:00
+
+---
+I just passed Sandra Bernhard.

@@ -1,0 +1,34 @@
+--- 
+id: 790499637_10150327940849638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I came home from my morning jog thirsty and hungry. I opened the fridge and there was a Thai baby coconut. It was honestly one of the most delicious things I've ever had. Hot NYC and cold baby coconuts were made for each other.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150327940849638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150327940849638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-06-08T11:10:13+0000
+updated_time: 2011-06-09T03:46:07+0000
+comments: 
+  data: 
+  - id: 790499637_10150327940849638_18970263
+    from: 
+      name: Uma Nt
+      id: "100000074495843"
+    message: mmm..I so miss India. Was a everyday thingy in the summer, growing up there. We also scoop out the tender coconut flesh which is extremely cooling and delicious.
+    created_time: 2011-06-09T03:46:07+0000
+  count: 1
+layout: facebook-status
+title: Wednesday, Jun  8, 2011 - 07:10AM
+date: 2011-06-08 07:10:13 -04:00
+
+---
+I came home from my morning jog thirsty and hungry. I opened the fridge and there was a Thai baby coconut. It was honestly one of the most delicious things I've ever had. Hot NYC and cold baby coconuts were made for each other.

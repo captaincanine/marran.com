@@ -1,0 +1,57 @@
+--- 
+id: 790499637_10150185171469638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Went to \"Baby Wants Candy\" tonight: a fully improvised musical. The title of the show was \"Sesame Street Frathouse\". The show ended with a cheerful Sesame-Street-like number and a suicide (done cheerfully). It was hilarious."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150185171469638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150185171469638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-02-20T05:00:52+0000
+updated_time: 2011-02-21T15:06:32+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Marcie Morton Sobelman
+    id: "1275161562"
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_10150185171469638_16075089
+    from: 
+      name: Brian Begy
+      id: "658570916"
+    message: Nec are great.  The piano player runs she show but you hardly notice.
+    created_time: 2011-02-20T21:27:39+0000
+  - id: 790499637_10150185171469638_16075097
+    from: 
+      name: Brian Begy
+      id: "658570916"
+    message: Ugh typo should read bwc
+    created_time: 2011-02-20T21:28:16+0000
+  - id: 790499637_10150185171469638_16091988
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: We were in the second row, and yeah, it seems like he was the one deciding on the next number. And a couple of times he jsut started in with music and the actors had to fit into whatever he was doing. Quite honestly, Julie Taymor and Bono should have taken notes on BWC before writing Spider-Man.
+    created_time: 2011-02-21T15:06:32+0000
+  count: 3
+layout: facebook-status
+title: Sunday, Feb 20, 2011 - 12:00AM
+date: 2011-02-20 00:00:52 -05:00
+
+---
+Went to "Baby Wants Candy" tonight: a fully improvised musical. The title of the show was "Sesame Street Frathouse". The show ended with a cheerful Sesame-Street-like number and a suicide (done cheerfully). It was hilarious.

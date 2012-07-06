@@ -1,0 +1,93 @@
+---
+layout: default
+---
+<div class="post status clearfix">
+
+	<div class="left">
+		
+		<div class="box">
+			<div class="box-header">
+				<div class="box-header-left clearfix">
+					<div class="box-title title"><h1>{{ page.title }}</h1></div>
+					<div class="meta">{{ page.date | time_ago }}</div>
+				</div>
+				<div class="box-header-right"></div>
+			</div>
+			<div class="box-middle">
+				<div class="box-middle-left">				
+
+					{{ content }}
+
+          <div class="link-info clearfix">
+          
+            {{ if page.picture }}
+              <div class="picture"><a href="{{ page.link }}" target="_blank"><img src="{{ page.picture }}" /></a></div>
+            {{ endif }} 
+            
+            <div class="name"><a href="{{ page.link }}" target="_blank">{{ page.name }}</a></div>
+            <div class="description">{{ page.link-info }}</div>
+
+          </div>
+
+					<div id="disqus_thread"></div>
+					<script type="text/javascript">
+						 
+						 var disqus_shortname = 'marran'; // required: replace example with your forum shortname
+					
+						 // The following are highly recommended additional parameters. Remove the slashes in front to use.
+						 var disqus_identifier = '{{ page.id }}';
+						 var disqus_url = 'http://www.marran.com{{ page.url }}/index.html';
+					
+						 (function() {
+							  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+							  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+							  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+						 })();
+					</script>
+					<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+					<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+
+				</div>
+				<div class="box-middle-right"></div>
+			</div>
+			<div class="box-footer">
+				<div class="box-footer-left"></div>
+				<div class="box-footer-right"></div>
+			</div>
+		</div>
+	
+	</div>
+
+	<div class="right">
+		
+		<div class="teaser">
+		
+			<div class="box">
+				<div class="box-header">
+					<div class="box-header-left box-title title">Recent Posts</div>
+					<div class="box-header-right"></div>
+				</div>
+				<div class="box-middle">
+					<div class="box-middle-left">
+						 {% for post in site.categories['blog'] limit:10 %}
+						 	<div class="related-post">
+						 		<div class="related-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
+						 		<div class="related-meta"><span class="timeago">{{ post.date | time_ago }}</span>{{ post.tags | tag_links }}</div>
+						 	  <div class="related-description">{{ post.description }}</div>
+						 	</div>
+						 {% endfor %}
+					</div>
+					<div class="box-middle-right"></div>
+				</div>
+				<div class="box-footer">
+					<div class="box-footer-left"></div>
+					<div class="box-footer-right"></div>
+				</div>
+			</div>
+	
+		</div>
+		
+	</div>
+
+</div>

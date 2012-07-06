@@ -1,0 +1,34 @@
+--- 
+id: 790499637_195609233816870
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I hate it when people that I disagree with politically are more creative and mischievous than the people in my corner. This campaign is very clever and - I'm sure - very effective.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQD8wlAwqBR8JMWq&w=90&h=90&url=http%3A%2F%2Fwww.theawl.com%2Fwp-content%2Fuploads%2Fthumbs%2F2011%2F04%2F81118-146x109.jpg
+link: http://www.theawl.com/2011/04/inside-the-post-it-note-anti-obama-revolution
+name: Inside the Post-It Note Anti-Obama Revolution
+caption: www.theawl.com
+description: I hate it when people that I disagree with politically are more creative and mischievous than the people in my corner. This campaign is very clever and - I'm sure - very effective.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/195609233816870
+- name: Like
+  link: http://www.facebook.com/790499637/posts/195609233816870
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+created_time: 2011-04-29T21:18:35+0000
+updated_time: 2011-04-29T21:18:35+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Friday, Apr 29, 2011 - 05:18PM
+link-info: "The last time gas prices spiked over $4 per gallon, the Tea Party exploded with rage against the sitting president, hanging the totality of the blame on his administration. Of course, by \"exploded with rage,\" I mean \"didn't exist.\"  This time around, the Tea Party is taking action to draw attention "
+date: 2011-04-29 17:18:35 -04:00
+
+---
+I hate it when people that I disagree with politically are more creative and mischievous than the people in my corner. This campaign is very clever and - I'm sure - very effective.

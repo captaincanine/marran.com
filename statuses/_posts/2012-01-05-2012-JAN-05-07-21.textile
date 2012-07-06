@@ -1,0 +1,61 @@
+--- 
+id: 790499637_303759809667974
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: &id001 |-
+  No shame in having this playing out in the airwaves when I entered the world.
+  
+  Facebook Challenge:
+  1) Find out the song that was #1 the week you were born.
+  2) Find that song on YouTube.
+  3) Post that video on your wall without shame.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDPRL0gFJsyDAzm&w=130&h=130&url=http%3A%2F%2Fi2.ytimg.com%2Fvi%2FYMgCpb1nli4%2Fhqdefault.jpg
+link: http://www.youtube.com/watch?v=YMgCpb1nli4&feature=related
+source: http://www.youtube.com/v/YMgCpb1nli4?version=3&autohide=1&autoplay=1
+name: MY SWEET LORD (George Harrison)
+description: *id001
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/303759809667974
+- name: Like
+  link: http://www.facebook.com/790499637/posts/303759809667974
+privacy: 
+  description: Public
+  value: EVERYONE
+type: video
+created_time: 2012-01-05T12:21:07+0000
+updated_time: 2012-01-06T01:48:39+0000
+likes: 
+  data: 
+  - name: Andrea Miklasz
+    id: "629554115"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_303759809667974_3979913
+    from: 
+      name: "Antonio Jos\xC3\xA9 Borracho Alioto"
+      id: "1133067992"
+    message: Love that song!
+    created_time: 2012-01-05T19:56:32+0000
+  - id: 790499637_303759809667974_3981138
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: "Of all the facebook challenges, this has to be the best. Here's the #1 hit the week I was born: http://www.youtube.com/watch?v=Y47G-Wa4qfs"
+    created_time: 2012-01-06T01:48:39+0000
+  count: 2
+layout: facebook-video
+title: Thursday, Jan  5, 2012 - 07:21AM
+link-info: This is a The Beatles Sound Cover version. Enjoy ! The Orginla slide photos by Esther Harner.
+date: 2012-01-05 07:21:07 -05:00
+
+---
+No shame in having this playing out in the airwaves when I entered the world.
+
+Facebook Challenge:
+1) Find out the song that was #1 the week you were born.
+2) Find that song on YouTube.
+3) Post that video on your wall without shame.

@@ -1,0 +1,39 @@
+--- 
+id: 790499637_10150402454634638
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=b6d318217d5410628685fba7d3458894&src=https%3A%2F%2Fplayfoursquare.s3.amazonaws.com%2Fbadge%2F57%2Ffarfaraway.png
+link: https://foursquare.com/user/90473/badge/4e4590c4227128e1e8bf44b0?ref=fb
+name: Far Far Away
+caption: Keith just unlocked the Far Far Away badge! Welcome to the world above 59th Street!
+description: 
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150402454634638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150402454634638
+- name: Keith on foursquare
+  link: https://foursquare.com/user/90473?ref=fb
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: "foursquare "
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2011-08-12T20:44:52+0000
+updated_time: 2011-08-12T20:44:52+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Friday, Aug 12, 2011 - 04:44PM
+link-info: foursquare
+date: 2011-08-12 16:44:52 -04:00
+
+---
+

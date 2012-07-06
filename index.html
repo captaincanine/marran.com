@@ -59,7 +59,7 @@ title: Keith Marran
 						<div class="read-more"><a href="{{ site.categories['blog'][0].url }}" title="{{ site.categories['blog'][0].title }}">There's more? Yes! Let's go. »</a></div>
 					</div>
 					
-					{% for post in site.categories['blog'] limit:3 offset:1 %}
+					{% for post in site.categories['blog'] limit:5 offset:1 %}
 					
 					<div class="teaser clearfix">
 						{% if (post.images) %}<div class="image"><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.images[0] | format_teaser_image }}" /></a></div>{% endif %}
@@ -81,31 +81,6 @@ title: Keith Marran
 		</div>
 
 		<div class="more-content"><a href="/blog" title="More blog entries">See more blog entries »</a></div>
-
-		<div class="teaser tag-cloud">
-
-			<div class="box">
-				<div class="box-header">
-					<div class="box-header-left clearfix">
-						<div class="box-title title">It's a giant tag cloud!</div>
-					</div>
-					<div class="box-header-right"></div>
-				</div>
-				<div class="box-middle">
-					<div class="box-middle-left">
-					
-						{{ site.tags | tag_cloud }}
-										
-					</div>
-					<div class="box-middle-right"></div>
-				</div>
-				<div class="box-footer">
-					<div class="box-footer-left"></div>
-					<div class="box-footer-right"></div>
-				</div>
-			</div>
-
-		</div>
 		
 	</div>
 

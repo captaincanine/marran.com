@@ -1,0 +1,51 @@
+--- 
+id: 790499637_10150209396234638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I consider myself a sane, competent, and level-headed person. Why does that all come crashing down when it comes to preparing my taxes?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150209396234638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150209396234638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-03-17T16:50:58+0000
+updated_time: 2011-03-17T22:07:39+0000
+likes: 
+  data: 
+  - name: Brian Erickson
+    id: "1439074587"
+  - name: Thomas Sproat
+    id: "573477249"
+  - name: Tracie Duncan
+    id: "717015376"
+  - name: Debbie Glass
+    id: "1613911702"
+  count: 7
+comments: 
+  data: 
+  - id: 790499637_10150209396234638_16743163
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Yes, Joel, please keep me posted. If I could end all of this with a punch to the face, I would jump at the opportunity. It's a small price to pay for the endless saga of paperwork.
+    created_time: 2011-03-17T21:53:33+0000
+  - id: 790499637_10150209396234638_16743510
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Ha ha! Me too. I am going to do that deed on Saturday.
+    created_time: 2011-03-17T22:07:39+0000
+  count: 5
+layout: facebook-status
+title: Thursday, Mar 17, 2011 - 12:50PM
+date: 2011-03-17 12:50:58 -04:00
+
+---
+I consider myself a sane, competent, and level-headed person. Why does that all come crashing down when it comes to preparing my taxes?

@@ -1,0 +1,35 @@
+--- 
+id: 790499637_333287653416162
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This story just gets funnier and funnier...
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQD23b6rpH2Yp688&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F17pnyoc7877hwjpg%2Ffb.jpg
+link: http://gawker.com/5918116/funnyjunks-lawyer-surprised-by-internets-negative-response-to-his-legal-threats-wants-to-pull-plug-on-oatmeals-charity-fundraiser
+name: FunnyJunk's Lawyer Surprised by Internet's Negative Response to His Legal Threats, Wants to Pull Plu
+caption: gawker.com
+description: This story just gets funnier and funnier...
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/333287653416162
+- name: Like
+  link: http://www.facebook.com/790499637/posts/333287653416162
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-06-13T23:55:42+0000
+updated_time: 2012-06-13T23:55:42+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Wednesday, Jun 13, 2012 - 07:55PM
+link-info: "\"I really did not expect that he would marshal an army of people who would besiege my website and send me a string of obscene emails,\" FunnyJunk's lawyer Charles Carreon told Digital Life's Rosa Golijan."
+date: 2012-06-13 19:55:42 -04:00
+
+---
+This story just gets funnier and funnier...

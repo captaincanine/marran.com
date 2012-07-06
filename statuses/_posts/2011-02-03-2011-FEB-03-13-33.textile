@@ -1,0 +1,45 @@
+--- 
+id: 790499637_197592520252912
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I get kind of annoyed when my five year old nephew uses a cheap, plastic camera and takes better photos than I do.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/197592520252912
+- name: Like
+  link: http://www.facebook.com/790499637/posts/197592520252912
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+created_time: 2011-02-03T18:33:08+0000
+updated_time: 2011-02-03T19:12:58+0000
+likes: 
+  data: 
+  - name: Jill Phillips Eikanas
+    id: "1007087445"
+  - name: Peter Von Brown
+    id: "1128953787"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Eileen O'Donnell
+    id: "667235678"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_197592520252912_2745090
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: LOL - I know.  I annoy myself sometimes when I do a quick point and shoot with my iPhone and like the shot better than anything I've taken recently with my "high end" equipment!  Just not fair!  Sounds like your nephew might have a promising career ahead - the artistic eye develops early :-)
+    created_time: 2011-02-03T19:12:58+0000
+  count: 1
+layout: facebook-status
+title: Thursday, Feb  3, 2011 - 01:33PM
+date: 2011-02-03 13:33:08 -05:00
+
+---
+I get kind of annoyed when my five year old nephew uses a cheap, plastic camera and takes better photos than I do.

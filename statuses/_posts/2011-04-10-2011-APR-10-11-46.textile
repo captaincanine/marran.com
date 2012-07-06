@@ -1,0 +1,34 @@
+--- 
+id: 790499637_107013289382827
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "It's so good to know as one gets older that there are still undiscovered gems from my youth. Last night I saw \"Phantom of the Paradise\" which definitely qualifies. It is Brian de Palma at his most reckless and fun. The movie stars Paul Williams as an evil music producer. It really must be seen to be believed. Here's a taste... "
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQANU8S9rccBeipt&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2F8a6NcbjML1c%2F3.jpg
+link: http://www.youtube.com/watch?v=8a6NcbjML1c&feature=related
+source: http://www.youtube.com/v/8a6NcbjML1c&fs=1?autoplay=1
+name: Phantom of the Paradise Hell of It music video
+description: "It's so good to know as one gets older that there are still undiscovered gems from my youth. Last night I saw \"Phantom of the Paradise\" which definitely qualifies. It is Brian de Palma at his most reckless and fun. The movie stars Paul Williams as an evil music producer. It really must be seen to be believed. Here's a taste... "
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/107013289382827
+- name: Like
+  link: http://www.facebook.com/790499637/posts/107013289382827
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+created_time: 2011-04-10T15:46:03+0000
+updated_time: 2011-04-10T15:46:03+0000
+comments: 
+  count: 0
+layout: facebook-video
+title: Sunday, Apr 10, 2011 - 11:46AM
+link-info: Hell of It plays during the credits of the 1974 cult favorite Phantom of the Paradise. Enjoy! Please rate & comment!
+date: 2011-04-10 11:46:03 -04:00
+
+---
+It's so good to know as one gets older that there are still undiscovered gems from my youth. Last night I saw "Phantom of the Paradise" which definitely qualifies. It is Brian de Palma at his most reckless and fun. The movie stars Paul Williams as an evil music producer. It really must be seen to be believed. Here's a taste... 

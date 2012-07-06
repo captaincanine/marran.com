@@ -1,0 +1,50 @@
+--- 
+id: 790499637_196713393710311
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm off to see Sleep No More for the second time. On hot NYC days like these, I wonder if the actors think "I can't wait to get to work and take off all my clothes."
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDRgd5KqgKuI2PE&w=90&h=90&url=http%3A%2F%2Fgraphics8.nytimes.com%2Fimages%2F2011%2F04%2F14%2Farts%2FSLEEP%2FSLEEP-thumbStandard.jpg
+link: http://theater.nytimes.com/2011/04/14/theater/reviews/sleep-no-more-is-a-macbeth-in-a-hotel-review.html
+name: "\xE2\x80\x98Sleep No More\xE2\x80\x99 Is a \xE2\x80\x98Macbeth\xE2\x80\x99 in a Hotel - Review"
+caption: theater.nytimes.com
+description: I'm off to see Sleep No More for the second time. On hot NYC days like these, I wonder if the actors think "I can't wait to get to work and take off all my clothes."
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/196713393710311
+- name: Like
+  link: http://www.facebook.com/790499637/posts/196713393710311
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+created_time: 2011-06-18T20:51:43+0000
+updated_time: 2011-06-18T22:04:48+0000
+likes: 
+  data: 
+  - name: Lauren Rami
+    id: "519679887"
+  - name: Robb Bloom
+    id: "1095747683"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 3
+comments: 
+  data: 
+  - id: 790499637_196713393710311_2600340
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Have fun!!!!
+    created_time: 2011-06-18T22:04:48+0000
+  count: 1
+layout: facebook-link
+title: Saturday, Jun 18, 2011 - 04:51PM
+link-info: "Punchdrunk, a British site-specific theater company, has taken over three abandoned warehouses to enact the sorry sights of the murderous Macbeths\xE2\x80\x99 career in a movable orgy titled \xE2\x80\x9CSleep No More.\xE2\x80\x9D"
+date: 2011-06-18 16:51:43 -04:00
+
+---
+I'm off to see Sleep No More for the second time. On hot NYC days like these, I wonder if the actors think "I can't wait to get to work and take off all my clothes."

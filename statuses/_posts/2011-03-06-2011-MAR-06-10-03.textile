@@ -1,0 +1,33 @@
+--- 
+id: 790499637_192887834076550
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This is kind of a freaky experience. You play rock/scissors/paper against a computer, but the more you play, the better it gets at predicting what you will throw next.
+link: http://www.facebook.com/interactive/science/rock-paper-scissors.html
+name: http://www.facebook.com/interactive/science/rock-paper-scissors.html
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/192887834076550
+- name: Like
+  link: http://www.facebook.com/790499637/posts/192887834076550
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-03-06T15:03:50+0000
+updated_time: 2011-03-06T15:03:50+0000
+comments: 
+  count: 0
+layout: facebook-link
+title: Sunday, Mar  6, 2011 - 10:03AM
+date: 2011-03-06 10:03:50 -05:00
+
+---
+This is kind of a freaky experience. You play rock/scissors/paper against a computer, but the more you play, the better it gets at predicting what you will throw next.

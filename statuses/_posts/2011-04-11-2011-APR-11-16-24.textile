@@ -1,0 +1,44 @@
+--- 
+id: 790499637_138790332860646
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCTeA1SMJ6B9LNq&w=130&h=130&url=http%3A%2F%2Fi.ytimg.com%2Fvi%2FbBQQEcfkHoE%2F3.jpg
+link: http://www.youtube.com/watch?v=bBQQEcfkHoE&feature=share
+source: http://www.youtube.com/v/bBQQEcfkHoE&fs=1?autoplay=1
+name: "Head Tracking for iPad: Glasses-Free 3D Display"
+description: 
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/138790332860646
+- name: Like
+  link: http://www.facebook.com/790499637/posts/138790332860646
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2011-04-11T20:24:54+0000
+updated_time: 2011-04-11T21:11:05+0000
+comments: 
+  data: 
+  - id: 790499637_138790332860646_996244
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: I forgot about this when Johnny Lee invented it. Still wonderin' if they're going to apply it to the next gen of games (glasses free 3D) [not that I really want 3D games]
+    created_time: 2011-04-11T21:11:05+0000
+  count: 1
+layout: facebook-video
+title: Monday, Apr 11, 2011 - 04:24PM
+link-info: "Head-Coupled Perspective on Mobile Devices. We track the head of the user with the front facing camera in order to create a glasses-free monocular 3D display. Such spatially-aware mobile display enables to improve the possibilities of interaction.  It does not use the accelerometers and relies only "
+date: 2011-04-11 16:24:54 -04:00
+
+---
+

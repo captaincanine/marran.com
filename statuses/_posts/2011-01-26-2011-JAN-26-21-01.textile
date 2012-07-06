@@ -1,0 +1,44 @@
+--- 
+id: 790499637_121519421254198
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Did I just see winter lightning? Geez. What is up with the weather this season?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/121519421254198
+- name: Like
+  link: http://www.facebook.com/790499637/posts/121519421254198
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+application: 
+  name: Posterous
+  namespace: posterous
+  id: "6694405826"
+created_time: 2011-01-27T02:01:25+0000
+updated_time: 2011-01-27T07:27:08+0000
+comments: 
+  data: 
+  - id: 790499637_121519421254198_542260
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: The funny thing is I saw the lightning, but didn't hear any thunder.
+    created_time: 2011-01-27T03:38:34+0000
+  - id: 790499637_121519421254198_543317
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: That is very weird. Never had that here - not yet, anyway...
+    created_time: 2011-01-27T07:27:08+0000
+  count: 5
+layout: facebook-status
+title: Wednesday, Jan 26, 2011 - 09:01PM
+date: 2011-01-26 21:01:25 -05:00
+
+---
+Did I just see winter lightning? Geez. What is up with the weather this season?
