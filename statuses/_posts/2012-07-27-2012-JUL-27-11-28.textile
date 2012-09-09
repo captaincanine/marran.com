@@ -1,0 +1,36 @@
+--- 
+id: 790499637_426683927384142
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I could watch this all day long. It's euphoria packaged into a live cam.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQACDOgic4VqZl0N&w=130&h=130&url=http%3A%2F%2Ffiles.explore.org%2Ffiles%2Fbrown-bears_promo-220px-D.jpg
+link: http://explore.org/#!/live-cams/player/brown-bear-salmon-cam-brooks-falls
+source: http://explore.org/live-cams/embed/brown-bear-salmon-cam-brooks-falls
+name: Brown Bear & Salmon Cam - Brooks Falls
+description: I could watch this all day long. It's euphoria packaged into a live cam.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/426683927384142
+- name: Like
+  link: http://www.facebook.com/790499637/posts/426683927384142
+privacy: 
+  description: Public
+  value: EVERYONE
+type: video
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-07-27T15:28:07+0000
+updated_time: 2012-07-27T15:28:07+0000
+comments: 
+  count: 0
+layout: facebook-video
+title: Friday, Jul 27, 2012 - 11:28AM
+link-info: This is the place where the bears catch salmon as they jump Brooks Falls.
+date: 2012-07-27 11:28:07 -04:00
+
+---
+I could watch this all day long. It's euphoria packaged into a live cam.

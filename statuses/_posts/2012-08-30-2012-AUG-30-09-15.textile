@@ -1,0 +1,56 @@
+--- 
+id: 790499637_10151392666794638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Can we officially change the name of Chelsea to The Nails District,
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151392666794638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151392666794638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2012-08-30T13:15:43+0000
+updated_time: 2012-08-31T09:55:03+0000
+likes: 
+  data: 
+  - name: Jeff Bond
+    id: "1108401510"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10151392666794638_28228529
+    from: 
+      name: Dave Stringer Hughes
+      id: "800419"
+    message: It's the Cake District.
+    created_time: 2012-08-30T13:17:27+0000
+  - id: 790499637_10151392666794638_28240834
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: Why?
+    created_time: 2012-08-31T05:19:58+0000
+  - id: 790499637_10151392666794638_28242903
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: It's not-stop nail salons. On 7th avenue, between 14th and 23rd, I counted 6 nail salons yesterday.
+    created_time: 2012-08-31T09:55:03+0000
+  count: 3
+layout: facebook-status
+title: Thursday, Aug 30, 2012 - 09:15AM
+date: 2012-08-30 09:15:43 -04:00
+
+---
+Can we officially change the name of Chelsea to The Nails District,

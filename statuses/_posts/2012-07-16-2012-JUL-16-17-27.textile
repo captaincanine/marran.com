@@ -1,0 +1,30 @@
+--- 
+id: 790499637_10151280516409638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Instead of ordering 8 apricots, I ordered 8 PACKAGES of apricots. So if anyone wants local apricots, please take some. Otherwise they will go bad.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151280516409638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151280516409638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2012-07-16T21:27:35+0000
+updated_time: 2012-07-16T21:27:35+0000
+likes: 
+  data: 
+  - name: Catherine Everett Hawes
+    id: "1403433546"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-status
+title: Monday, Jul 16, 2012 - 05:27PM
+date: 2012-07-16 17:27:35 -04:00
+
+---
+Instead of ordering 8 apricots, I ordered 8 PACKAGES of apricots. So if anyone wants local apricots, please take some. Otherwise they will go bad.

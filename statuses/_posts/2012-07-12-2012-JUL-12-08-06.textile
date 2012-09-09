@@ -1,0 +1,54 @@
+--- 
+id: 790499637_10151269618254638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: There was a naked man in a toga on my porch this morning.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151269618254638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151269618254638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+application: 
+  name: Facebook for iPad
+  namespace: fbipad
+  id: "173847642670370"
+created_time: 2012-07-12T12:06:47+0000
+updated_time: 2012-07-13T13:07:08+0000
+likes: 
+  data: 
+  - name: Danielle Mari
+    id: "1125746508"
+  - name: Linda Rosenson Coe
+    id: "1440111516"
+  - name: Thomas Rogers
+    id: "538628386"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_10151269618254638_27517058
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I waved. He either didn't see me or was choosing to ignore me.
+    created_time: 2012-07-13T05:26:22+0000
+    likes: 1
+  - id: 790499637_10151269618254638_27520882
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: Why can't awesome stuff like that happen to me?
+    created_time: 2012-07-13T13:07:08+0000
+  count: 10
+layout: facebook-status
+title: Thursday, Jul 12, 2012 - 08:06AM
+date: 2012-07-12 08:06:47 -04:00
+
+---
+There was a naked man in a toga on my porch this morning.

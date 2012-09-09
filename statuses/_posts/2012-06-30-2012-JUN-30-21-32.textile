@@ -17,7 +17,7 @@ created_time: 2012-07-01T01:32:37+0000
 updated_time: 2012-07-01T01:32:37+0000
 likes: 
   data: 
-  - name: Robert Fermin Velasco Ruiz
+  - name: Rob Velasco
     id: "1631202087"
   - name: Jono Jarrett
     id: "1343303598"

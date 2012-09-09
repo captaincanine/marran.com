@@ -1,0 +1,52 @@
+--- 
+id: 790499637_10151317151194638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: There have been some chihuahuas in my neighborhood that were old when I moved here. Now they are ancient. Every chihuahua I see in NYC looks to be 20+ years of age. I imagine they are race of immortals - secretly running the city from the end of their leash.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151317151194638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151317151194638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+status_type: mobile_status_update
+created_time: 2012-07-31T13:48:31+0000
+updated_time: 2012-07-31T13:57:08+0000
+likes: 
+  data: 
+  - name: Linda Rosenson Coe
+    id: "1440111516"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Peter Von Brown
+    id: "1128953787"
+  - name: Rob Velasco
+    id: "1631202087"
+  count: 6
+comments: 
+  data: 
+  - id: 790499637_10151317151194638_27790030
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: write this movie! the shadowy conspiracy of chihuahuas that's been steering the course of human history from laps and purses for millennia!
+    created_time: 2012-07-31T13:49:39+0000
+    likes: 1
+  - id: 790499637_10151317151194638_27790087
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: <Chiwawa Numero Uno> Ay caramaba! Why do we let the Doberman go to Europe and talk to to the Pugs and Corgiys? He's baying like an idiot!
+    created_time: 2012-07-31T13:57:08+0000
+    likes: 1
+  count: 2
+layout: facebook-status
+title: Tuesday, Jul 31, 2012 - 09:48AM
+date: 2012-07-31 09:48:31 -04:00
+
+---
+There have been some chihuahuas in my neighborhood that were old when I moved here. Now they are ancient. Every chihuahua I see in NYC looks to be 20+ years of age. I imagine they are race of immortals - secretly running the city from the end of their leash.

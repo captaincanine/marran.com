@@ -1,0 +1,26 @@
+--- 
+id: 790499637_10151285344969638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: My god! This storm is one of the worst I've ever seen in NYC! The hail makes it sound like the roof has caved in. Gogo won't leave my side.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151285344969638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151285344969638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+status_type: mobile_status_update
+created_time: 2012-07-18T20:24:26+0000
+updated_time: 2012-07-18T20:24:26+0000
+comments: 
+  count: 0
+layout: facebook-status
+title: Wednesday, Jul 18, 2012 - 04:24PM
+date: 2012-07-18 16:24:26 -04:00
+
+---
+My god! This storm is one of the worst I've ever seen in NYC! The hail makes it sound like the roof has caved in. Gogo won't leave my side.
