@@ -26,14 +26,14 @@ created_time: 2012-07-02T14:10:37+0000
 updated_time: 2012-07-02T15:10:08+0000
 likes: 
   data: 
+  - name: Dagny Prieto
+    id: "592820863"
   - name: Greg Pflugfelder
     id: "1072680095"
   - name: Marcie Morton Sobelman
     id: "1275161562"
   - name: Sreedhar Yedavalli
     id: "1199970155"
-  - name: Brenda Gregoline
-    id: "1236717380"
   count: 6
 comments: 
   data: 

@@ -1,0 +1,28 @@
+--- 
+id: 790499637_10151397298524638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Anyone care to explain Suicide Club to me? Entertaining? Definitely! The infamous ultra-gore opening scene wasn't even the most shocking part. I just wish it was a tad more...understandable.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151397298524638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151397298524638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2012-09-02T13:58:38+0000
+updated_time: 2012-09-02T13:58:38+0000
+comments: 
+  count: 0
+layout: facebook-status
+title: Sunday, Sep  2, 2012 - 09:58AM
+date: 2012-09-02 09:58:38 -04:00
+
+---
+Anyone care to explain Suicide Club to me? Entertaining? Definitely! The infamous ultra-gore opening scene wasn't even the most shocking part. I just wish it was a tad more...understandable.

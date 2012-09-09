@@ -1,0 +1,38 @@
+--- 
+id: 790499637_10151280165449638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: China won't let us into Tibet. Damn. No Tibet for Keith this year. I'm trying not to be massively disappointed.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151280165449638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151280165449638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+created_time: 2012-07-16T18:57:13+0000
+updated_time: 2012-07-17T03:58:02+0000
+comments: 
+  data: 
+  - id: 790499637_10151280165449638_27573781
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: What??????
+    created_time: 2012-07-17T03:57:01+0000
+  - id: 790499637_10151280165449638_27573794
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: And what is the back up travel plan?
+    created_time: 2012-07-17T03:58:02+0000
+  count: 9
+layout: facebook-status
+title: Monday, Jul 16, 2012 - 02:57PM
+date: 2012-07-16 14:57:13 -04:00
+
+---
+China won't let us into Tibet. Damn. No Tibet for Keith this year. I'm trying not to be massively disappointed.

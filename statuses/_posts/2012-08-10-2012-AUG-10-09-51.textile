@@ -1,0 +1,38 @@
+--- 
+id: 790499637_400603876668783
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I was disheartened to hear that David Rakoff passed away. This is the clip that first introduced me to him. It is a grayer world without him.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBbkmv4JHyuOdMu&w=130&h=130&url=http%3A%2F%2Fthedailyshow.mtvnimages.com%2Fimages%2Fshows%2Ftds%2Fvideos%2Fseason_11%2Fepisode_126%2Fds_11126_05_gst_m1.jpg
+link: http://www.thedailyshow.com/watch/thu-october-5-2006/david-rakoff?fb_ref=share_fblike&fb_source=profile_multiline
+source: http://media.mtvnservices.com/fb/mgid:cms:video:thedailyshow.com:126435.swf
+name: "Daily Show: David Rakoff"
+description: I was disheartened to hear that David Rakoff passed away. This is the clip that first introduced me to him. It is a grayer world without him.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/400603876668783
+- name: Like
+  link: http://www.facebook.com/790499637/posts/400603876668783
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: video
+status_type: shared_story
+application: 
+  name: Likes
+  id: "2409997254"
+created_time: 2012-08-10T13:51:31+0000
+updated_time: 2012-08-10T13:51:31+0000
+comments: 
+  count: 0
+layout: facebook-video
+title: Friday, Aug 10, 2012 - 09:51AM
+link-info: David Rakoff gets sex tips from the Culture and Family Institute.
+date: 2012-08-10 09:51:31 -04:00
+
+---
+I was disheartened to hear that David Rakoff passed away. This is the clip that first introduced me to him. It is a grayer world without him.

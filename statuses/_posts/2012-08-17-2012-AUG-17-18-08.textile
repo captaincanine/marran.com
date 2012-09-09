@@ -1,0 +1,69 @@
+--- 
+id: 790499637_346840528731422
+from: 
+  name: Keith Marran
+  id: "790499637"
+to: 
+  data: 
+  - name: Dave Stringer Hughes
+    id: "800419"
+message: Last night, I drunkenly and smart-assedly commented that music sucked in the 90's. DJ Extraordinaire Dave Stringer Hughes floated the idea that I, perhaps, had no idea what I was talking about. And now he's forwarded me his Spotify playlist of 900 Great Songs of the 90's. We shall see (or hear, actually) who was right.
+message_tags: 
+  "101": 
+  - id: "800419"
+    name: Dave Stringer Hughes
+    type: user
+    offset: 101
+    length: 20
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCViiT126UuAPMp&w=90&h=90&url=http%3A%2F%2Fo.scdn.co%2Fstatic%2Fimages%2Flogo.png
+link: http://t.co/XnIqbMX2
+name: 900 Great 90s Songs - A Playlist by Dave Huge
+caption: open.spotify.com
+description: Last night, I drunkenly and smart-assedly commented that music sucked in the 90's. DJ Extraordinaire Dave Stringer Hughes floated the idea that I, perhaps, had no idea what I was talking about. And now he's forwarded me his Spotify playlist of 900 Great Songs of the 90's. We shall see (or hear, actually) who was right.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/y0/r/nAApRnfWfNW.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/346840528731422
+- name: Like
+  link: http://www.facebook.com/790499637/posts/346840528731422
+privacy: 
+  description: Public
+  value: EVERYONE
+type: link
+status_type: shared_story
+created_time: 2012-08-17T22:08:26+0000
+updated_time: 2012-08-18T03:37:56+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Sreedhar Yedavalli
+    id: "1199970155"
+  - name: Leslie Gardner
+    id: "667633377"
+  - name: Christopher Lassen
+    id: "1198176306"
+  count: 8
+comments: 
+  data: 
+  - id: 790499637_346840528731422_2171584
+    from: 
+      name: Robert Hoban
+      id: "1410789373"
+    message: If one thinks pop music in the 90's sucked then I would strongly disagree, but leave it at no more that a difference of opinion.  If however someone were to say that dance music in the 90's sucked I would say said person either had not heard a representative sample of it OR that they had such bad taste as to render their opinion laughably irrelevant to any further discussions of music.
+    created_time: 2012-08-17T22:47:59+0000
+    likes: 1
+  - id: 790499637_346840528731422_2172344
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: I love drunken, smart ass
+    created_time: 2012-08-18T03:37:56+0000
+  count: 9
+layout: facebook-link
+title: Friday, Aug 17, 2012 - 06:08PM
+link-info: 900 Great 90s Songs - A Playlist by Dave Huge, a playlist by Dave Stringer Hughes on Spotify.
+date: 2012-08-17 18:08:26 -04:00
+
+---
+Last night, I drunkenly and smart-assedly commented that music sucked in the 90's. DJ Extraordinaire Dave Stringer Hughes floated the idea that I, perhaps, had no idea what I was talking about. And now he's forwarded me his Spotify playlist of 900 Great Songs of the 90's. We shall see (or hear, actually) who was right.

@@ -1,0 +1,45 @@
+--- 
+id: 790499637_10151370636229638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Just a few feet from a Bighorn Ram in The Badlands.
+picture: http://photos-h.ak.fbcdn.net/hphotos-ak-snc7/387118_10151370635189638_1774908460_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10151370635189638&set=a.490588709637.298813.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151370636229638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151370636229638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: photo
+status_type: added_photos
+object_id: "10151370635189638"
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2012-08-21T22:46:45+0000
+updated_time: 2012-08-21T22:46:45+0000
+likes: 
+  data: 
+  - name: Eileen O'Donnell
+    id: "667235678"
+  - name: Catherine Everett Hawes
+    id: "1403433546"
+  - name: Rosemary Feneziani
+    id: "573541002"
+  - name: Linda Rosenson Coe
+    id: "1440111516"
+  count: 5
+comments: 
+  count: 0
+layout: facebook-photo
+title: Tuesday, Aug 21, 2012 - 06:46PM
+date: 2012-08-21 18:46:45 -04:00
+
+---
+Just a few feet from a Bighorn Ram in The Badlands.

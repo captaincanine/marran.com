@@ -23,7 +23,7 @@ application:
   name: Share_bookmarklet
   id: "5085647995"
 created_time: 2012-07-05T23:16:40+0000
-updated_time: 2012-07-06T06:08:14+0000
+updated_time: 2012-07-10T18:37:34+0000
 shares: 
   count: 1
 likes: 
@@ -37,19 +37,19 @@ likes:
   count: 3
 comments: 
   data: 
-  - id: 790499637_279705948804223_1272736
+  - id: 790499637_279705948804223_1276229
     from: 
-      name: Leslie Gardner
-      id: "667633377"
-    message: Mmmmmmmwah!
-    created_time: 2012-07-06T04:40:16+0000
-  - id: 790499637_279705948804223_1272913
+      name: Tina Purdy
+      id: "100001119760877"
+    message: Thank you.  :)
+    created_time: 2012-07-07T05:00:10+0000
+  - id: 790499637_279705948804223_1290102
     from: 
-      name: Mark Oppenlander
-      id: "42903628"
-    message: Keith - the video made me laugh; your comments made me a little bit misty-eyed.  I still have very fond memories of our time in HS.  You're right.  Our little "family" of misfits got us all through a lot of the teenage angst, alienation and "otherness."  So glad you were a part of it.  How are things?
-    created_time: 2012-07-06T06:08:14+0000
-  count: 7
+      name: Greg James
+      id: "1422902207"
+    message: That is the most brilliant thing I have seen in a long while. Had me rolling. Thx for sharing :)
+    created_time: 2012-07-10T18:37:34+0000
+  count: 9
 layout: facebook-link
 title: Thursday, Jul  5, 2012 - 07:16PM
 link-info: "Dan Savage started the It Gets Better Project because he wished he could speak to all those LGBT teenagers having a rough time of it in school and at home. Well, this filmmaker has a novel take on that subject. He talks to his twelve-year-old self, twenty years in the future. "

@@ -4,7 +4,7 @@ from:
   name: Keith Marran
   id: "790499637"
 story: "Keith Marran was tagged in Geeks OUT's album Geeks OUT: A Mighty Mutant Marriage Extravaganza."
-picture: http://photos-a.ak.fbcdn.net/hphotos-ak-ash3/561002_447510388617063_928614827_s.jpg
+picture: http://photos-a.xx.fbcdn.net/hphotos-ash3/561002_447510388617063_928614827_s.jpg
 link: http://www.facebook.com/photo.php?fbid=447510388617063&set=at.437851699582932.103211.157044360997002.790499637&type=1&relevant_count=3
 description: 
 icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif

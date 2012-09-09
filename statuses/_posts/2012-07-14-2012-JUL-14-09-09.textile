@@ -1,0 +1,43 @@
+--- 
+id: 790499637_490372300980224
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared IGN.com's photo.
+picture: http://photos-e.ak.fbcdn.net/hphotos-ak-ash3/599473_10150963995426633_1733801485_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150963995426633&set=a.119104781632.95409.59685491632&type=1
+name: Wall Photos
+caption: Happy Friday the 13th!
+properties: 
+- name: By
+  text: IGN.com
+  href: http://www.facebook.com/ign?ref=stream
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/490372300980224
+- name: Like
+  link: http://www.facebook.com/790499637/posts/490372300980224
+privacy: 
+  description: Public
+  value: EVERYONE
+type: photo
+object_id: "10150963995426633"
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2012-07-14T13:09:12+0000
+updated_time: 2012-07-14T13:09:12+0000
+likes: 
+  data: 
+  - name: Eric Kelhoffer
+    id: "671590942"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-photo
+title: Saturday, Jul 14, 2012 - 09:09AM
+date: 2012-07-14 09:09:12 -04:00
+
+---
+

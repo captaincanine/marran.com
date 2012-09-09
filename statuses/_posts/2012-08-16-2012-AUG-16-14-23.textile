@@ -1,0 +1,48 @@
+--- 
+id: 790499637_10151357667229638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "This morning the dogs and I took a walk through Chelsea Piers. We watched the deck hands in their white polo shirts and shorts cleaning the yachts. I saw something new: one of them was cleaning a mini-sub on one of the yachts. It had a huge glass dome like something out of a 70s James Bond movie. So apparently super villains dock their yachts at Chelsea Piers."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151357667229638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151357667229638
+privacy: 
+  description: Public
+  value: EVERYONE
+type: status
+status_type: mobile_status_update
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2012-08-16T18:23:06+0000
+updated_time: 2012-08-16T18:44:12+0000
+likes: 
+  data: 
+  - name: Justin Winslow
+    id: "1201684433"
+  - name: Debbie Glass
+    id: "1613911702"
+  - name: Jill Phillips Eikanas
+    id: "1007087445"
+  - name: Matthew Shields
+    id: "729111833"
+  count: 12
+comments: 
+  data: 
+  - id: 790499637_10151357667229638_28026421
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: "\"I refuse to pay docking fees AND blow up the pier unless you pay me .... (pinky finger crooked at edge of mouth) .... One THOUSAND dollars."
+    created_time: 2012-08-16T18:44:12+0000
+  count: 1
+layout: facebook-status
+title: Thursday, Aug 16, 2012 - 02:23PM
+date: 2012-08-16 14:23:06 -04:00
+
+---
+This morning the dogs and I took a walk through Chelsea Piers. We watched the deck hands in their white polo shirts and shorts cleaning the yachts. I saw something new: one of them was cleaning a mini-sub on one of the yachts. It had a huge glass dome like something out of a 70s James Bond movie. So apparently super villains dock their yachts at Chelsea Piers.
