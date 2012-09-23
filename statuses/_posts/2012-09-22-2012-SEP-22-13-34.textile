@@ -1,0 +1,61 @@
+--- 
+id: 790499637_284945421619315
+from: 
+  name: Keith Marran
+  id: "790499637"
+to: 
+  data: 
+  - name: Christine Marran
+    id: "1327144819"
+  - name: David Reich
+    id: "1641745987"
+message: Day One of Our Mount Rushmore Travelog is Posted! Featuring Christine Marran and David Reich.
+message_tags: 
+  "60": 
+  - id: "1327144819"
+    name: Christine Marran
+    type: user
+    offset: 60
+    length: 16
+  "81": 
+  - id: "1641745987"
+    name: David Reich
+    type: user
+    offset: 81
+    length: 11
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAq0cil6hs0BoDF&w=90&h=90&url=http%3A%2F%2Ffarm9.staticflickr.com%2F8455%2F8012333342_3c7b278fbc_m.jpg
+link: http://www.marran.com/travel/road-trip-to-mount-rushmore/
+name: Road Trip to Mount Rushmore!
+caption: www.marran.com
+description: Day One of Our Mount Rushmore Travelog is Posted! Featuring Christine Marran and David Reich.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/284945421619315
+- name: Like
+  link: http://www.facebook.com/790499637/posts/284945421619315
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2012-09-22T17:34:35+0000
+updated_time: 2012-09-22T17:34:35+0000
+likes: 
+  data: 
+  - name: Linda Rosenson Coe
+    id: "1440111516"
+  - name: Patrick Yacco
+    id: "507963176"
+  count: 2
+comments: 
+  count: 0
+layout: facebook-link
+title: Saturday, Sep 22, 2012 - 01:34PM
+link-info: On August of 2012, David and I flew to Minneapolis, met my mom, sister, and nephew, climbed into a minivan and drove to Mount Rushmore. It was the Great American Car Trip!
+date: 2012-09-22 13:34:35 -04:00
+
+---
+Day One of Our Mount Rushmore Travelog is Posted! Featuring Christine Marran and David Reich.
