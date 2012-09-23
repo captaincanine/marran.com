@@ -255,7 +255,8 @@ html, body.front		{ background: #D1C6B8 url('/images/map-background.jpg'); }
 .post .left		{ width: 640px; }
 .post .right	{ width: 290px; }
 
-.post .box-middle-left	{ padding-bottom: 1em; }
+.post .box-middle-left	    { padding-bottom: 1em; }
+.post .box-middle-left img	{ max-width: 622px; }
 
 .post-image			{ width: 100%; margin-bottom: 1em; }
 .post-image img	{ width: 99%; border: 1px solid #333; }

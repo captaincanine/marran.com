@@ -63,8 +63,9 @@ module Jekyll
 			FlickRaw.api_key = site.config['flickr']['api_key']
 			FlickRaw.shared_secret = site.config['flickr']['shared_secret']
 			
-			auth = flickr.auth.checkToken :auth_token => site.config['flickr']['auth_token']
-			
+			flickr.access_token = site.config['flickr']['auth_token']
+      flickr.access_secret = site.config['flickr']['auth_token_secret']
+
 			photos = flickr.photosets.getPhotos :photoset_id => photoset
 			
 			photos.photo.each_index do | i |
