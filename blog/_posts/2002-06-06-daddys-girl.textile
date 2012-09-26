@@ -30,9 +30,9 @@ description: There's just no denying that Gogo knows how to show favoritism. Alt
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Snuggling in Bed" target="_blank" href="/files/photos/gogo/daddys_girl-1.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Snuggling in Bed" target="_blank" href="/files/photos/gogo/daddys_girl-1.jpg">
 
-    <img class="journalPhoto" alt="Snuggling in Bed" src="/files/photos/gogo/daddys_girl-1.JPG" width="400" height="374">
+    <img class="journalPhoto" alt="Snuggling in Bed" src="/files/photos/gogo/daddys_girl-1.jpg" width="400" height="374">
 
   </a>
 
