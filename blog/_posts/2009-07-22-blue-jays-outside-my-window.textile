@@ -13,15 +13,15 @@ images:
 description: I had a treat today. Outside my office window, I was visited by two blue jays. I had been seeing them around the neighborhood recently, but these two hung out for quite a while just a foot outside my window. They didn't even seem bothered by my movement to get a camera and take photos.
 ---
 I had a treat today. Outside my office window, I was visited by two blue jays. I had been seeing them around the neighborhood recently, but these two hung out for quite a while just a foot outside my window. They didn't even seem bothered by my movement to get a camera and take photos.
-<!--break-->
+
 I assume that one is male and the other is female. The male is the one with a more pronounced crest. The female seemed to be nesting. She seemed fluffed up and didn't want to move. The male was flitting all over from branch to branch. I couldn't figure out if he was courting her or protecting her.
 
 I'm not usually so easily swayed, but I have to admit that there was some magical qualities about their visit. We don't get much wildlife here in NYC and I rarely see birds other than pigeons. And the fact that they seemed so comfortable outside my window, contributed to the serendipitous qualities of their visit. Let's hope that it's an omen of good things to come.
 
 <div align="center">
 
-[flickr-photo:id=3745698915,align=center]
+<img src="http://farm4.staticflickr.com/3424/3745698915_5417dbf6a9_z.jpg" width="425" height="640" alt="Blue Jays Outside My Window 1">
 
-[flickr-photo:id=3745708991,align=center]
+<img src="http://farm3.staticflickr.com/2584/3745708991_cc134f0b1f_z.jpg" width="640" height="425" alt="Blue Jays Outside My Window 2">
 
 </div>

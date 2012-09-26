@@ -83,8 +83,8 @@ module Jekyll
 					if s.width.to_i < 1200
 						urlFull = s.source
 					end
-					
-					if s.label == 'Small' && i < 3
+										
+					if s.label == 'Medium 640' && i < 3
 						urlThumb = s.source
 						thumbType = 'thumbnail'
 					end
@@ -132,5 +132,18 @@ module Jekyll
 		end
 
 	end
+	
+  module Filters
+  
+    def flickr_photo (id, size)
+    
+    
+        
+      # open-uri RDoc: http://stdlib.rubyonrails.org/libdoc/open-uri/rdoc/index.html
+      open(url) { |f| return f.read }
+    
+    end
+    
+  end
 
 end
