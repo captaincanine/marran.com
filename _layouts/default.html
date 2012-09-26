@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
+
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <title>{{ page.title }} | Keith Marran</title>
   <meta name="author" content="Keith Marran" />
   <link href="/atom.xml" rel="alternate" title="Keith Marran" type="application/atom+xml" />
 
-   <!-- Homepage CSS -->
-  <link rel="stylesheet" href="/css/base.css" type="text/css" />
-  <link rel="stylesheet" href="/css/layout.css" type="text/css" />
-  <link rel="stylesheet" href="/css/style.css" type="text/css" />
-  <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+  <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
+  <link rel="stylesheet" href="/css/responsive.css" type="text/css" />
   <link rel="stylesheet" href="/js/shadowbox-3.0.3/shadowbox.css" type="text/css">
-<!--[if IE]>
-	<link rel="stylesheet" href="/css/all-ie-only.css" type="text/css" />
-<![endif]-->
 
   <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 
@@ -56,81 +51,93 @@
 </head>
 <body>
 
-<div id="middle">
-	<div class="clearheader"></div>
-	<div id="middle-grad-top"></div>
-	<div id="middle-grad-bottom"></div>
-	<div class="page-bounds">
-		{{ content }}
-		<div class="clearfooter"></div>
-	</div>
-</div>
-
 <div id="header">
 
-	<div class="header-top page-bounds">
-		<div id="logo"><a href="/" title="Keith Marran's Home Page"><img src="/images/logo.png" alt="Keith Marran"></a></div>
-		<div id="navigation">
-			<div class="nav-section">
-				<a href="/blog" title="Blog">
-					<div class="nav-title">Blog</div>
-					<div class="nav-subtitle">Keith can think and write at the same time!</div>
-				</a>
-			</div>
-			<div class="nav-section">
-				<a href="/recipes" title="Recipes">
-					<div class="nav-title">Recipes</div>
-					<div class="nav-subtitle">All this and he cooks!</div>
-				</a>
-			</div>
-			<div class="nav-section">
-				<a href="/travel" title="Travel">
-					<div class="nav-title">Travel</div>
-					<div class="nav-subtitle">Does Keith have spilkes or what?</div>
-				</a>
-			</div>
-			<div class="nav-section">
-				<a href="/tech" title="Tech">
-					<div class="nav-title">Tech</div>
-					<div class="nav-subtitle">On occasion, Keith writes neat code.</div>
-				</a>
-			</div>
-		</div>
-	</div>
-	
-	<div id="search-bar">
-		<div class="page-bounds">
-			<div class="left">
-				<!-- AddThis Button BEGIN -->
-				<div class="addthis_toolbox addthis_default_style ">
-				<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d41e38b0a4b3b1e" class="addthis_button_compact">Share&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;</a>
-				<a class="addthis_button_facebook"></a>
-				<a class="addthis_button_twitter"></a>
-				<a class="addthis_button_delicious"></a>
-				<a class="addthis_button_email"></a>
-				</div>
-				<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d41e38b0a4b3b1e"></script>
-				<!-- AddThis Button END -->
-			</div>
-			<div class="right">
-				<form id="search" method="get">
-					<label for="search-text">Search</label>
-					<input type="text" name="search-text" id="search-text">
-				</form>
-			</div>
-		</div>
-		
+  <div class="container">
+    
+    <div id="navigation" class="row">
+  
+      <div id="logo" class="span4">
+        <a href="/" title="Keith Marran's Home Page"><img src="/images/logo.png" alt="Keith Marran"></a>
+      </div>
+      
+      <div class="nav-section span2">
+        <a href="/blog" title="Blog">
+          <div class="nav-title">Blog</div>
+          <div class="nav-subtitle hidden-phone">Keith can think and write at the same time!</div>
+        </a>
+      </div>
+      <div class="nav-section span2">
+        <a href="/recipes" title="Recipes">
+          <div class="nav-title">Recipes</div>
+          <div class="nav-subtitle hidden-phone">All this and he cooks!</div>
+        </a>
+      </div>
+      <div class="nav-section span2">
+        <a href="/travel" title="Travel">
+          <div class="nav-title">Travel</div>
+          <div class="nav-subtitle hidden-phone">Does Keith have spilkes or what?</div>
+        </a>
+      </div>
+      <div class="nav-section span2">
+        <a href="/tech" title="Tech">
+          <div class="nav-title">Tech</div>
+          <div class="nav-subtitle hidden-phone">On occasion, Keith writes neat code.</div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+    
+<div id="search-bar">
+
+  <div class="container">
+  
+    <div class="row">
+    
+      <div id="share-links" class="span6">
+        <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style ">
+        <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d41e38b0a4b3b1e" class="addthis_button_compact">Share&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;</a>
+        <a class="addthis_button_facebook"></a>
+        <a class="addthis_button_twitter"></a>
+        <a class="addthis_button_delicious"></a>
+        <a class="addthis_button_email"></a>
+        </div>
+        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d41e38b0a4b3b1e"></script>
+        <!-- AddThis Button END -->
+      </div>
+      <div class="span6">
+        <form id="search" method="get" class="form-search">
+          <label for="search-text">Search</label>
+          <input type="text" name="search-text" id="search-text">
+        </form>
+      </div>
+
+    </div>
+
+  </div>
+
+</div>
+
+<div id="main">
+	<div class="container">
+
+		{{ content }}
+
 	</div>
 </div>
 
 <div id="footer">
-	<div class="page-bounds">
-		<div class="left">
-			® {{ site.time | date:'%Y' }} Keith Marran
-		</div>
-		<div class="right">
-			<a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#107;&#101;&#105;&#116;&#104;&#64;&#109;&#97;&#114;&#114;&#97;&#110;&#46;&#99;&#111;&#109;">&#67;&#111;&#110;&#116;&#97;&#99;&#116;&#32;&#75;&#101;&#105;&#116;&#104;</a>
-		</div>
+  <div class="container">
+    <div class="row">
+      <div class="copyright span6">
+        ® {{ site.time | date:'%Y' }} Keith Marran
+      </div>
+      <div class="contact span6">
+        <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#107;&#101;&#105;&#116;&#104;&#64;&#109;&#97;&#114;&#114;&#97;&#110;&#46;&#99;&#111;&#109;"><i class="icon-envelope icon-white"></i>&nbsp;&#67;&#111;&#110;&#116;&#97;&#99;&#116;&#32;&#75;&#101;&#105;&#116;&#104;</a>
+      </div>
+    </div>
 	</div>
 </div>
 

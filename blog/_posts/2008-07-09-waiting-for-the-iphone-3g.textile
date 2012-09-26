@@ -10,7 +10,7 @@ tags:
 images: 
 - thumbnail: http://farm4.static.flickr.com/3037/2628046248_53b418d020_m.jpg
   fullsize: http://farm4.static.flickr.com/3037/2628046248_53b418d020_b.jpg
-description: All in all, childhood is not something I want to experience all over again. I didn't like the general helplessness, lack of knowledge, the clashes with authority - and of course, the waiting. The endless waiting for...say, The Return of the Jedi to come out. I think I was in a 2-3 years depression as a small child knowing that Han Solo was frozen, Luke was missing a hand, and the Empire was still on the march. I don't think kids in general are good at waiting. Well now I get to relive all that waiting again. WILL THE IPHONE 3G JUST HURRY UP AND COME OUT ALREADY!?
+description: All in all, childhood is not something I want to experience all over again. I didn't like the general helplessness, lack of knowledge, the clashes with authority - and of course, the waiting. The endless waiting for...say, The Return of the Jedi to come out. I think I was in a 2-3 years depression as a small child knowing that Han Solo was frozen, Luke was missing a hand, and the Empire was still on the march. I don't think kids in general are good at waiting. Well now I get to relive all that waiting again. WILL THE IPHONE 3G JUST HURRY UP AND COME OUT ALREADY!?
 ---
 All in all, childhood is not something I want to experience all over again. I didn't like the general helplessness, lack of knowledge, the clashes with authority - and of course, the waiting. The endless waiting for...say, The Return of the Jedi to come out. I think I was in a 2-3 years depression as a small child knowing that Han Solo was frozen, Luke was missing a hand, and the Empire was still on the march. I don't think kids in general are good at waiting. Well now I get to relive all that waiting again. 
 
@@ -24,4 +24,4 @@ The real kicker is that I know that Apple is working my ultimate device: an iPho
 
 At the beginning of the week I thought that the time would fly by and that Friday would arrive sooner than I could expect. I was wrong. The week is dragging by. Is this why they say time flies when you're older? Because when you're a kid, you're trying to kill time waiting for the next shiny new thing to come out.
 
-[flickr-photo:id=2628046248,s=s]
+<!-- [flickr-photo:id=2628046248,s=s] -->

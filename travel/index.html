@@ -4,9 +4,9 @@ title: Keith Marran's Travels
 category: travel
 ---
 
-<div class="category-index clearfix">
+<div class="category-index row">
 
-	<div class="left">
+	<div class="span8">
 		
 		<div class="box">
 			<div class="box-header">
@@ -20,12 +20,28 @@ category: travel
 				
 					{% for post in paginator.posts %}
 
-					<div class="teaser clearfix">
+					<div class="teaser">
+					
 						<div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
-						{% if (post.images) %}<div class="image"><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.images[0] | format_teaser_image }}" /></a></div>{% endif %}
 						<div class="meta"><span class="timeago">{{ post.date | time_ago }}</span>{{ post.tags | tag_links }}</div>
-						<div class="description">{{ post.description }}</div>
-						<div class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">Get the whole story... »</a></div>
+
+            <div class="row">
+						
+              {% if (post.images) %}
+                <div class="span3">
+                  <a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.images[0] | format_teaser_image }}" /></a>
+                </div>
+                <div class="span4">
+              {% else %}
+                <div class="span7">
+              {% endif %}
+						
+                <div class="description">{{ post.description }}</div>
+                <div class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">Get the whole story... »</a></div>
+              </div>
+            
+            </div>
+
 					</div>
 
 					{% endfor %}
@@ -35,39 +51,6 @@ category: travel
 				</div>
 				<div class="box-middle-right"></div>
 			</div>
-			<div class="box-footer">
-				<div class="box-footer-left"></div>
-				<div class="box-footer-right"></div>
-			</div>
-		</div>
-		
-	</div>
-
-	<div class="right">
-		
-		<div class="teaser tag-cloud">
-
-			<div class="box">
-				<div class="box-header">
-					<div class="box-header-left clearfix">
-						<div class="box-title title">It's a giant tag cloud!</div>
-					</div>
-					<div class="box-header-right"></div>
-				</div>
-				<div class="box-middle">
-					<div class="box-middle-left">
-					
-						{{ site.tags | tag_cloud }}
-										
-					</div>
-					<div class="box-middle-right"></div>
-				</div>
-				<div class="box-footer">
-					<div class="box-footer-left"></div>
-					<div class="box-footer-right"></div>
-				</div>
-			</div>
-
 		</div>
 		
 	</div>
