@@ -13,9 +13,9 @@ description: Lorenz and Sis recently went to Yuba City, California for Aunt Beth
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's a picture of Lorenz all sprawled out in his Pooh Slippers." target="_blank" href="/files/photos/lorenz/Pooh%20Slippers.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's a picture of Lorenz all sprawled out in his Pooh Slippers." target="_blank" href="/files/photos/lorenz/Pooh%20Slippers.jpg">
 
-    <img class="journalPhoto" alt="Here's a picture of Lorenz all sprawled out in his Pooh Slippers." src="/files/photos/lorenz/Pooh%20Slippers.JPG" width="400" height="266">
+    <img class="journalPhoto" alt="Here's a picture of Lorenz all sprawled out in his Pooh Slippers." src="/files/photos/lorenz/Pooh%20Slippers.jpg" width="400" height="266">
 
   </a>
 
@@ -27,9 +27,9 @@ description: Lorenz and Sis recently went to Yuba City, California for Aunt Beth
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Aunt Beth with Lorenz" target="_blank" href="/files/photos/lorenz/Aunt%20Beth%20and%20Lorenz.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Aunt Beth with Lorenz" target="_blank" href="/files/photos/lorenz/Aunt%20Beth%20and%20Lorenz.jpg">
 
-    <img class="journalPhoto" alt="Aunt Beth with Lorenz" src="/files/photos/lorenz/Aunt%20Beth%20and%20Lorenz.JPG" width="400" height="300">
+    <img class="journalPhoto" alt="Aunt Beth with Lorenz" src="/files/photos/lorenz/Aunt%20Beth%20and%20Lorenz.jpg" width="400" height="300">
 
   </a>
 
@@ -41,9 +41,9 @@ description: Lorenz and Sis recently went to Yuba City, California for Aunt Beth
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Aunt Catherine with Lorenz" target="_blank" href="/files/photos/lorenz/Aunt%20Catherine%20and%20Lorenz.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Aunt Catherine with Lorenz" target="_blank" href="/files/photos/lorenz/Aunt%20Catherine%20and%20Lorenz.jpg">
 
-    <img class="journalPhoto" alt="Aunt Catherine with Lorenz" src="/files/photos/lorenz/Aunt%20Catherine%20and%20Lorenz.JPG" width="266" height="400">
+    <img class="journalPhoto" alt="Aunt Catherine with Lorenz" src="/files/photos/lorenz/Aunt%20Catherine%20and%20Lorenz.jpg" width="266" height="400">
 
   </a>
 
@@ -55,9 +55,9 @@ description: Lorenz and Sis recently went to Yuba City, California for Aunt Beth
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="I think he's doing a Popeye imitation in this photo." target="_blank" href="/files/photos/lorenz/Lorenz%20Popeye.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="I think he's doing a Popeye imitation in this photo." target="_blank" href="/files/photos/lorenz/Lorenz%20Popeye.jpg">
 
-    <img class="journalPhoto" alt="I think he's doing a Popeye imitation in this photo." src="/files/photos/lorenz/Lorenz%20Popeye.JPG" width="400" height="300">
+    <img class="journalPhoto" alt="I think he's doing a Popeye imitation in this photo." src="/files/photos/lorenz/Lorenz%20Popeye.jpg" width="400" height="300">
 
   </a>
 

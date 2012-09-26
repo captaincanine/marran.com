@@ -73,9 +73,9 @@ description: The second half of our last full day in Israel was dedicated to the
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This picture doesn't really capture the grandeur of the height of the tour." target="_blank" href="/files/photos/israel/westernwall-hall.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This picture doesn't really capture the grandeur of the height of the tour." target="_blank" href="/files/photos/israel/westernwall-hall.jpg">
 
-    <img class="journalPhoto" alt="This picture doesn't really capture the grandeur of the height of the tour." src="/files/photos/israel/westernwall-hall.JPG" height="200" width="150">
+    <img class="journalPhoto" alt="This picture doesn't really capture the grandeur of the height of the tour." src="/files/photos/israel/westernwall-hall.jpg" height="200" width="150">
 
   </a>
 

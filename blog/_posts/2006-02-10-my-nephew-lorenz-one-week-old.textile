@@ -56,9 +56,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Eugene with a chew toy." target="_blank" href="/files/photos/lorenz/PICT0044.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Eugene with a chew toy." target="_blank" href="/files/photos/lorenz/PICT0044.jpg">
 
-    <img class="journalPhoto" alt="Eugene with a chew toy." src="/files/photos/lorenz/PICT0044.JPG" width="200" height="133">
+    <img class="journalPhoto" alt="Eugene with a chew toy." src="/files/photos/lorenz/PICT0044.jpg" width="200" height="133">
 
   </a>
 
@@ -100,9 +100,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="In his diaper changing bed. He HATES having his diaper changed." target="_blank" href="/files/photos/lorenz/PICT0042.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="In his diaper changing bed. He HATES having his diaper changed." target="_blank" href="/files/photos/lorenz/PICT0042.jpg">
 
-    <img class="journalPhoto" alt="In his diaper changing bed. He HATES having his diaper changed." src="/files/photos/lorenz/PICT0042.JPG" width="200" height="133">
+    <img class="journalPhoto" alt="In his diaper changing bed. He HATES having his diaper changed." src="/files/photos/lorenz/PICT0042.jpg" width="200" height="133">
 
   </a>
 

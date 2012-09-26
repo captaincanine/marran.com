@@ -15,9 +15,9 @@ description: Here's our backyard. We still haven't figured out what to do with i
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The stairs from the first floor kitchen." target="_blank" href="/files/photos/mission_home/yard.back_stairs.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The stairs from the first floor kitchen." target="_blank" href="/files/photos/mission_home/yard.back_stairs.jpg">
 
-    <img class="journalPhoto" alt="The stairs from the first floor kitchen." src="/files/photos/mission_home/yard.back_stairs.JPG" width="200" height="267">
+    <img class="journalPhoto" alt="The stairs from the first floor kitchen." src="/files/photos/mission_home/yard.back_stairs.jpg" width="200" height="267">
 
   </a>
 
@@ -29,9 +29,9 @@ description: Here's our backyard. We still haven't figured out what to do with i
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The back of the house." target="_blank" href="/files/photos/mission_home/outside.bottom.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The back of the house." target="_blank" href="/files/photos/mission_home/outside.bottom.jpg">
 
-    <img class="journalPhoto" alt="The back of the house." src="/files/photos/mission_home/outside.bottom.JPG" width="200" height="267">
+    <img class="journalPhoto" alt="The back of the house." src="/files/photos/mission_home/outside.bottom.jpg" width="200" height="267">
 
   </a>
 
@@ -43,9 +43,9 @@ description: Here's our backyard. We still haven't figured out what to do with i
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the back of the house." target="_blank" href="/files/photos/mission_home/outside.top.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the back of the house." target="_blank" href="/files/photos/mission_home/outside.top.jpg">
 
-    <img class="journalPhoto" alt="More of the back of the house." src="/files/photos/mission_home/outside.top.JPG" width="200" height="267">
+    <img class="journalPhoto" alt="More of the back of the house." src="/files/photos/mission_home/outside.top.jpg" width="200" height="267">
 
   </a>
 
@@ -57,9 +57,9 @@ description: Here's our backyard. We still haven't figured out what to do with i
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The back yard. You can barely make out ceramic daisies embedded into the concrete. We haven't figured out what we're doing with this, either. I found a Morrocan tile store that I'd like to use to cover the concrete. Or we may deck over the concrete. We'll have to consult Gogo." target="_blank" href="/files/photos/mission_home/yard.whole.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The back yard. You can barely make out ceramic daisies embedded into the concrete. We haven't figured out what we're doing with this, either. I found a Morrocan tile store that I'd like to use to cover the concrete. Or we may deck over the concrete. We'll have to consult Gogo." target="_blank" href="/files/photos/mission_home/yard.whole.jpg">
 
-    <img class="journalPhoto" alt="The back yard. You can barely make out ceramic daisies embedded into the concrete. We haven't figured out what we're doing with this, either. I found a Morrocan tile store that I'd like to use to cover the concrete. Or we may deck over the concrete. We'll have to consult Gogo." src="/files/photos/mission_home/yard.whole.JPG" width="300" height="225">
+    <img class="journalPhoto" alt="The back yard. You can barely make out ceramic daisies embedded into the concrete. We haven't figured out what we're doing with this, either. I found a Morrocan tile store that I'd like to use to cover the concrete. Or we may deck over the concrete. We'll have to consult Gogo." src="/files/photos/mission_home/yard.whole.jpg" width="300" height="225">
 
   </a>
 

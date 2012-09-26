@@ -17,7 +17,7 @@ description: The next day, we decided to take it easy, make a nice dinner at hom
 
   <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/oregon/new_grill.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/oregon/new_grill.JPG" width="400">
+    <img class="journalPhoto" alt="" src="/files/photos/oregon/new_grill.jpg" width="400">
 
   </a>
 
@@ -29,7 +29,7 @@ description: The next day, we decided to take it easy, make a nice dinner at hom
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/oregon/patio.JPG">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/oregon/patio.jpg">
 
     <img class="journalPhoto" alt="" src="/files/photos/oregon/patio.jpg" width="400">
 
