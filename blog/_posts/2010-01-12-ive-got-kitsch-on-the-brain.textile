@@ -22,13 +22,17 @@ And finally, this music doesn't work well out of context. It's meant to be liste
 Happy listening.
 
 <div class="download-box">
+
   <div class="icon">
-    <a href="http://www.marran.com/files/music-cds/I've%20Got%20Kitsch%20on%20the%20Brain.zip" target="_blank"></a>
+    <a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/I've%20Got%20Kitsch%20on%20the%20Brain.zip" target="_blank"></a>
   </div>
+
   <div class="title">
-    <a href="http://www.marran.com/files/music-cds/I've%20Got%20Kitsch%20on%20the%20Brain.zip" target="_blank">Download "I've Got Kitsch on the Brain"</a>
+    <a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/I've%20Got%20Kitsch%20on%20the%20Brain.zip" target="_blank">Download "I've Got Kitsch on the Brain"</a>
   </div>
+
   <div class="details">
     76.6MB
   </div>
+
 </div>

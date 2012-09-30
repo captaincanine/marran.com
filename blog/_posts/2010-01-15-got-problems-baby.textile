@@ -12,7 +12,9 @@ images:
 description: If you skipped my other CD mixes, fine. This is the one to download. One night I dragged Benji to see Coffy at the Film Forum - not really knowing what to expect. I was transfixed. It was hard-core, it was sexy, it was righteous revenge, it was ... Pam Grier. She's a better vigilante than Batman. If you haven't seen Coffy or Foxy Brown, you really should. I can honestly say that my sense of entertainment was altered when I saw Coffy.
 ---
 If you skipped my other CD mixes, fine. This is the one to download. One night I dragged Benji to see Coffy at the Film Forum - not really knowing what to expect. I was transfixed. It was hard-core, it was sexy, it was righteous revenge, it was ... Pam Grier. She's a better vigilante than Batman. If you haven't seen Coffy or Foxy Brown, you really should. I can honestly say that my sense of entertainment was altered when I saw Coffy.
+
 <!--break-->
+
 Listening to these clips recently, I don't think people today would be able to make these movies. In fact, I was really excited when I heard Quentin Tarantino was making Jackie Brown. However, it was unbelievably tame compared to her early films. There's a thirst for justice and revenge pumping through her original films. 
 
 And besides the films, the music is incredible. I really don't even want to bother trying to explain why it's so great. Just listen to it.
@@ -22,25 +24,33 @@ So consider this mix a primer course in blaxploitation films. There are two disc
 This music doesn't work well out of context. It's meant to be listened form start to finish - not randomly. And be sure that the files are marked for gapless playback. There are lots of fade ins and fade outs that don't work if there's a gap in playback.
 
 <div class="download-box">
+
   <div class="icon">
-    <a href="http://www.marran.com/files/music-cds/Got%20Problems%20Baby%20Part%201.zip" target="_blank"></a>
+    <a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/Got%20Problems%20Baby%20Part%201.zip" target="_blank"></a>
   </div>
+
   <div class="title">
-    <a href="http://www.marran.com/files/music-cds/Got%20Problems%20Baby%20Part%201.zip" target="_blank">Download "Got Problems, Baby? - Disc 1"</a>
+    <a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/Got%20Problems%20Baby%20Part%201.zip" target="_blank">Download "Got Problems, Baby? - Disc 1"</a>
   </div>
+
   <div class="details">
     80.6MB
   </div>
+
 </div>
 
 <div class="download-box">
+
   <div class="icon">
-    <a href="http://www.marran.com/files/music-cds/Got%20Problems%20Baby%20Part%202.zip" target="_blank"></a>
+    <a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/Got%20Problems%20Baby%20Part%202.zip" target="_blank"></a>
   </div>
+
   <div class="title">
-    <a href="http://www.marran.com/files/music-cds/Got%20Problems%20Baby%20Part%202.zip" target="_blank">Download "Got Problems, Baby? - Disc 2"</a>
+    <a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/Got%20Problems%20Baby%20Part%202.zip" target="_blank">Download "Got Problems, Baby? - Disc 2"</a>
   </div>
+
   <div class="details">
     83.5MB
   </div>
+
 </div>
