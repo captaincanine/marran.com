@@ -5601,3 +5601,13 @@ a.badge:hover {
 .front .social-links img {
   margin: -4px 4px 0 !important;
 }
+.download-box {
+  margin: 20px 0 20px 40px;
+}
+.download-box .icon-download {
+  margin-right: 4px;
+}
+.download-box .details {
+  font-size: 11px;
+  margin-left: 20px;
+}
