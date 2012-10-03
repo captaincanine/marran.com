@@ -15,9 +15,9 @@ description: WAAAH! I don't want to leave! Luckily, we had to get up at 2 am to 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David checking out" target="_blank" href="/files/photos/israel/jerusalem-hotel-lobby.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David checking out" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-hotel-lobby.jpg">
 
-    <img class="journalPhoto" alt="David checking out" src="/files/photos/israel/jerusalem-hotel-lobby.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="David checking out" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-hotel-lobby.jpg" height="450" width="600">
 
   </a>
 

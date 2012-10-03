@@ -15,9 +15,9 @@ description: After Pisa, we drove up to Carrera (the place with the marble!). On
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the mountainside. That's marble you're seeing on the side - not snow." target="_blank" href="/files/photos/tuscany/carrera.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the mountainside. That's marble you're seeing on the side - not snow." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/carrera.jpg">
 
-    <img class="journalPhoto" alt="A view of the mountainside. That's marble you're seeing on the side - not snow." src="/files/photos/tuscany/carrera.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A view of the mountainside. That's marble you're seeing on the side - not snow." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/carrera.jpg" height="200" width="150">
 
   </a>
 
@@ -29,9 +29,9 @@ description: After Pisa, we drove up to Carrera (the place with the marble!). On
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A statue dedicated to workers that died in the marble mines" target="_blank" href="/files/photos/tuscany/carrera_statue.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A statue dedicated to workers that died in the marble mines" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/carrera_statue.jpg">
 
-    <img class="journalPhoto" alt="A statue dedicated to workers that died in the marble mines" src="/files/photos/tuscany/carrera_statue.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A statue dedicated to workers that died in the marble mines" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/carrera_statue.jpg" height="200" width="150">
 
   </a>
 
@@ -43,9 +43,9 @@ description: After Pisa, we drove up to Carrera (the place with the marble!). On
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The picture we weren't supposed to take." target="_blank" href="/files/photos/tuscany/carrera_workers.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The picture we weren't supposed to take." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/carrera_workers.jpg">
 
-    <img class="journalPhoto" alt="The picture we weren't supposed to take." src="/files/photos/tuscany/carrera_workers.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The picture we weren't supposed to take." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/carrera_workers.jpg" height="200" width="150">
 
   </a>
 

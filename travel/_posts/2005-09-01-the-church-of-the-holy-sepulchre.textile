@@ -15,9 +15,9 @@ description: "Out of everything we saw on the trip, the Church of the Holy Sepul
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Entrance" target="_blank" href="/files/photos/israel/holysepulchre-entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Entrance" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holysepulchre-entrance.jpg">
 
-    <img class="journalPhoto" alt="The Entrance" src="/files/photos/israel/holysepulchre-entrance.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Entrance" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holysepulchre-entrance.jpg" height="150" width="200">
 
   </a>
 
@@ -29,9 +29,9 @@ description: "Out of everything we saw on the trip, the Church of the Holy Sepul
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The steps that lead to Golgotha." target="_blank" href="/files/photos/israel/holysepulchre-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The steps that lead to Golgotha." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holysepulchre-1.jpg">
 
-    <img class="journalPhoto" alt="The steps that lead to Golgotha." src="/files/photos/israel/holysepulchre-1.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The steps that lead to Golgotha." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holysepulchre-1.jpg" height="200" width="150">
 
   </a>
 
@@ -43,9 +43,9 @@ description: "Out of everything we saw on the trip, the Church of the Holy Sepul
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Stone of Unction where Christ's body was annointed and wrapped." target="_blank" href="/files/photos/israel/holysepulchre-rock.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Stone of Unction where Christ's body was annointed and wrapped." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holysepulchre-rock.jpg">
 
-    <img class="journalPhoto" alt="The Stone of Unction where Christ's body was annointed and wrapped." src="/files/photos/israel/holysepulchre-rock.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Stone of Unction where Christ's body was annointed and wrapped." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holysepulchre-rock.jpg" height="150" width="200">
 
   </a>
 
@@ -59,9 +59,9 @@ description: "Out of everything we saw on the trip, the Church of the Holy Sepul
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Golgotha" target="_blank" href="/files/photos/israel/holyspeulchre-golgotha.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Golgotha" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holyspeulchre-golgotha.jpg">
 
-    <img class="journalPhoto" alt="Golgotha" src="/files/photos/israel/holyspeulchre-golgotha.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Golgotha" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holyspeulchre-golgotha.jpg" height="150" width="200">
 
   </a>
 
@@ -73,9 +73,9 @@ description: "Out of everything we saw on the trip, the Church of the Holy Sepul
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to Christ's Tomb. It's only big enough for 3 or 4 people, so there's a line to get in." target="_blank" href="/files/photos/israel/holyspeulchre-chiststomb.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to Christ's Tomb. It's only big enough for 3 or 4 people, so there's a line to get in." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holyspeulchre-chiststomb.jpg">
 
-    <img class="journalPhoto" alt="The entrance to Christ's Tomb. It's only big enough for 3 or 4 people, so there's a line to get in." src="/files/photos/israel/holyspeulchre-chiststomb.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The entrance to Christ's Tomb. It's only big enough for 3 or 4 people, so there's a line to get in." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/holyspeulchre-chiststomb.jpg" height="200" width="150">
 
   </a>
 

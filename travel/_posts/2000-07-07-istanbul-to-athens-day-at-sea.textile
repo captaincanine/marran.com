@@ -3,7 +3,7 @@ layout: post
 title: "Istanbul to Athens: Day at Sea"
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 68
+  index: 6
 redirects: 
 - /node/553
 - /personal/travel/turkey/istanbul-athens-day-sea
@@ -16,9 +16,9 @@ description: I won't spend too much time talking about the day at sea as all we 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A picture of our ship." target="_blank" href="/files/photos/cruise2000/ship2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A picture of our ship." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/ship2.jpg">
 
-    <img class="journalPhoto" alt="A picture of our ship." src="/files/photos/cruise2000/ship2.jpg" height="245" width="450">
+    <img class="journalPhoto" alt="A picture of our ship." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/ship2.jpg" height="245" width="450">
 
   </a>
 

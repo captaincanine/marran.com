@@ -3,7 +3,7 @@ layout: post
 title: Rhodes
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 66
+  index: 10
 redirects: 
 - /node/555
 - /personal/travel/greece/rhodes
@@ -15,9 +15,9 @@ description: Today we were at port in Rhodes before we awakened. We had break fa
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A picture of the mosaic floor of the synagogue at Rhodes. Most of the walkways in Rhodes were made of small stones - although usually not in this ornate of a pattern." target="_blank" href="/files/photos/cruise2000/rhodes_stones.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A picture of the mosaic floor of the synagogue at Rhodes. Most of the walkways in Rhodes were made of small stones - although usually not in this ornate of a pattern." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/rhodes_stones.jpg">
 
-    <img class="journalPhoto" alt="A picture of the mosaic floor of the synagogue at Rhodes. Most of the walkways in Rhodes were made of small stones - although usually not in this ornate of a pattern." src="/files/photos/cruise2000/rhodes_stones.jpg" height="384" width="512">
+    <img class="journalPhoto" alt="A picture of the mosaic floor of the synagogue at Rhodes. Most of the walkways in Rhodes were made of small stones - although usually not in this ornate of a pattern." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/rhodes_stones.jpg" height="384" width="512">
 
   </a>
 
@@ -31,9 +31,9 @@ description: Today we were at port in Rhodes before we awakened. We had break fa
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David under a lime tree in the garden where we had lunch." target="_blank" href="/files/photos/cruise2000/rhodes_lunch.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David under a lime tree in the garden where we had lunch." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/rhodes_lunch.jpg">
 
-    <img class="journalPhoto" alt="David under a lime tree in the garden where we had lunch." src="/files/photos/cruise2000/rhodes_lunch.jpg" height="533" width="400">
+    <img class="journalPhoto" alt="David under a lime tree in the garden where we had lunch." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/rhodes_lunch.jpg" height="533" width="400">
 
   </a>
 

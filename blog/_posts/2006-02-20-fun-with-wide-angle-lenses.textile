@@ -18,9 +18,9 @@ description: David got me a new camera - a Konica Minolta DSLR, with a wide-angl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/Oz%20Wide%20Angle.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/Oz%20Wide%20Angle.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/Oz%20Wide%20Angle.jpg" width="600" height="600">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/Oz%20Wide%20Angle.jpg" width="600" height="600">
 
   </a>
 
@@ -32,9 +32,9 @@ description: David got me a new camera - a Konica Minolta DSLR, with a wide-angl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/PICT0034.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/PICT0034.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/PICT0034.jpg" width="600" height="554">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/PICT0034.jpg" width="600" height="554">
 
   </a>
 

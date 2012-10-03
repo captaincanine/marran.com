@@ -17,9 +17,9 @@ description: Evan and Renee came by for a visit on President's Day Weekend. They
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Isaac, Renee, Evan, and Elena walking with the Empire State Building in the background." target="_blank" href="/files/photos/gogo/presidents_2002/empire_walking.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Isaac, Renee, Evan, and Elena walking with the Empire State Building in the background." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/empire_walking.jpg">
 
-    <img class="journalPhoto" alt="Isaac, Renee, Evan, and Elena walking with the Empire State Building in the background." src="/files/photos/gogo/presidents_2002/empire_walking.jpg" width="450" height="335">
+    <img class="journalPhoto" alt="Isaac, Renee, Evan, and Elena walking with the Empire State Building in the background." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/empire_walking.jpg" width="450" height="335">
 
   </a>
 
@@ -35,9 +35,9 @@ description: Evan and Renee came by for a visit on President's Day Weekend. They
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Evan and the poopy-paw girl." target="_blank" href="/files/photos/gogo/presidents_2002/evan_elena.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Evan and the poopy-paw girl." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/evan_elena.jpg">
 
-    <img class="journalPhoto" alt="Evan and the poopy-paw girl." src="/files/photos/gogo/presidents_2002/evan_elena.jpg" width="300" height="443">
+    <img class="journalPhoto" alt="Evan and the poopy-paw girl." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/evan_elena.jpg" width="300" height="443">
 
   </a>
 
@@ -65,9 +65,9 @@ description: Evan and Renee came by for a visit on President's Day Weekend. They
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This photo is blurry because Isaac was pulling SO HARD that the camera couldn't capture it." target="_blank" href="/files/photos/gogo/presidents_2002/pulling.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This photo is blurry because Isaac was pulling SO HARD that the camera couldn't capture it." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/pulling.jpg">
 
-    <img class="journalPhoto" alt="This photo is blurry because Isaac was pulling SO HARD that the camera couldn't capture it." src="/files/photos/gogo/presidents_2002/pulling.jpg" width="300" height="223">
+    <img class="journalPhoto" alt="This photo is blurry because Isaac was pulling SO HARD that the camera couldn't capture it." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/pulling.jpg" width="300" height="223">
 
   </a>
 
@@ -83,9 +83,9 @@ description: Evan and Renee came by for a visit on President's Day Weekend. They
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo having an Evan appreciation monment." target="_blank" href="/files/photos/gogo/presidents_2002/gogo_evan.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo having an Evan appreciation monment." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/gogo_evan.jpg">
 
-    <img class="journalPhoto" alt="Gogo having an Evan appreciation monment." src="/files/photos/gogo/presidents_2002/gogo_evan.jpg" width="300" height="450">
+    <img class="journalPhoto" alt="Gogo having an Evan appreciation monment." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/gogo_evan.jpg" width="300" height="450">
 
   </a>
 
@@ -97,9 +97,9 @@ description: Evan and Renee came by for a visit on President's Day Weekend. They
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Evan and Renee playing with their camera." target="_blank" href="/files/photos/gogo/presidents_2002/evan_renee.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Evan and Renee playing with their camera." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/evan_renee.jpg">
 
-    <img class="journalPhoto" alt="Evan and Renee playing with their camera." src="/files/photos/gogo/presidents_2002/evan_renee.jpg" width="300" height="400">
+    <img class="journalPhoto" alt="Evan and Renee playing with their camera." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/evan_renee.jpg" width="300" height="400">
 
   </a>
 
@@ -111,9 +111,9 @@ description: Evan and Renee came by for a visit on President's Day Weekend. They
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo's a little nervous being so close to water. Water is evil." target="_blank" href="/files/photos/gogo/presidents_2002/gogo_on_water.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo's a little nervous being so close to water. Water is evil." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/gogo_on_water.jpg">
 
-    <img class="journalPhoto" alt="Gogo's a little nervous being so close to water. Water is evil." src="/files/photos/gogo/presidents_2002/gogo_on_water.jpg" width="300" height="422">
+    <img class="journalPhoto" alt="Gogo's a little nervous being so close to water. Water is evil." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/presidents_2002/gogo_on_water.jpg" width="300" height="422">
 
   </a>
 

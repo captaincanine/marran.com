@@ -19,9 +19,9 @@ description: Our first day in Prague was really two. We left the house a little 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Long Layover" target="_blank" href="/files/photos/prague/dayroom.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Long Layover" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/dayroom.jpg">
 
-    <img class="journalPhoto" alt="A Long Layover" src="/files/photos/prague/dayroom.jpg" height="375" width="500">
+    <img class="journalPhoto" alt="A Long Layover" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/dayroom.jpg" height="375" width="500">
 
   </a>
 

@@ -20,9 +20,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's the layout of the room." target="_blank" href="/files/photos/renovation/bollywood/floorplan.gif">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's the layout of the room." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/bollywood/floorplan.gif">
 
-    <img class="journalPhoto" alt="Here's the layout of the room." src="/files/photos/renovation/bollywood/floorplan.gif" width="600" height="634">
+    <img class="journalPhoto" alt="Here's the layout of the room." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/bollywood/floorplan.gif" width="600" height="634">
 
   </a>
 
@@ -34,9 +34,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="And these were the main colors and styles we were going for." target="_blank" href="/files/photos/renovation/bollywood/colors.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="And these were the main colors and styles we were going for." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/bollywood/colors.jpg">
 
-    <img class="journalPhoto" alt="And these were the main colors and styles we were going for." src="/files/photos/renovation/bollywood/colors.jpg" width="600" height="570">
+    <img class="journalPhoto" alt="And these were the main colors and styles we were going for." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/bollywood/colors.jpg" width="600" height="570">
 
   </a>
 
@@ -50,9 +50,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's the screen. David is going through the left closet which has our DVDs. The right closet has all of the A/V equipment." target="_blank" href="/files/photos/renovation/moviescreen.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's the screen. David is going through the left closet which has our DVDs. The right closet has all of the A/V equipment." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/moviescreen.jpg">
 
-    <img class="journalPhoto" alt="Here's the screen. David is going through the left closet which has our DVDs. The right closet has all of the A/V equipment." src="/files/photos/renovation/moviescreen.jpg" width="200" height="150">
+    <img class="journalPhoto" alt="Here's the screen. David is going through the left closet which has our DVDs. The right closet has all of the A/V equipment." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/moviescreen.jpg" width="200" height="150">
 
   </a>
 
@@ -64,9 +64,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A closeup of the right closet." target="_blank" href="/files/photos/renovation/right_closet.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A closeup of the right closet." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/right_closet.jpg">
 
-    <img class="journalPhoto" alt="A closeup of the right closet." src="/files/photos/renovation/right_closet.jpg" width="147" height="200">
+    <img class="journalPhoto" alt="A closeup of the right closet." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/right_closet.jpg" width="147" height="200">
 
   </a>
 
@@ -78,9 +78,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the projector on the opposite wall of the screen. It is mounted to the wall above and behind the sofa and chair." target="_blank" href="/files/photos/renovation/projector.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the projector on the opposite wall of the screen. It is mounted to the wall above and behind the sofa and chair." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/projector.jpg">
 
-    <img class="journalPhoto" alt="This is the projector on the opposite wall of the screen. It is mounted to the wall above and behind the sofa and chair." src="/files/photos/renovation/projector.jpg" width="200" height="161">
+    <img class="journalPhoto" alt="This is the projector on the opposite wall of the screen. It is mounted to the wall above and behind the sofa and chair." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/projector.jpg" width="200" height="161">
 
   </a>
 
@@ -94,9 +94,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's a snapshot of the sitting area." target="_blank" href="/files/photos/renovation/streetside.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's a snapshot of the sitting area." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/streetside.jpg">
 
-    <img class="journalPhoto" alt="Here's a snapshot of the sitting area." src="/files/photos/renovation/streetside.jpg" width="200" height="150">
+    <img class="journalPhoto" alt="Here's a snapshot of the sitting area." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/streetside.jpg" width="200" height="150">
 
   </a>
 
@@ -108,9 +108,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A nightstand in between the sofa and chair." target="_blank" href="/files/photos/renovation/nightstand.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A nightstand in between the sofa and chair." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/nightstand.jpg">
 
-    <img class="journalPhoto" alt="A nightstand in between the sofa and chair." src="/files/photos/renovation/nightstand.jpg" width="121" height="200">
+    <img class="journalPhoto" alt="A nightstand in between the sofa and chair." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/nightstand.jpg" width="121" height="200">
 
   </a>
 
@@ -122,9 +122,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The chair. It's soooo comfortable." target="_blank" href="/files/photos/renovation/chair.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The chair. It's soooo comfortable." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/chair.jpg">
 
-    <img class="journalPhoto" alt="The chair. It's soooo comfortable." src="/files/photos/renovation/chair.jpg" width="149" height="200">
+    <img class="journalPhoto" alt="The chair. It's soooo comfortable." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/chair.jpg" width="149" height="200">
 
   </a>
 
@@ -136,9 +136,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The coffe table is from India. It was made from an old window shutter." target="_blank" href="/files/photos/renovation/coffeetable.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The coffe table is from India. It was made from an old window shutter." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/coffeetable.jpg">
 
-    <img class="journalPhoto" alt="The coffe table is from India. It was made from an old window shutter." src="/files/photos/renovation/coffeetable.jpg" width="200" height="150">
+    <img class="journalPhoto" alt="The coffe table is from India. It was made from an old window shutter." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/coffeetable.jpg" width="200" height="150">
 
   </a>
 
@@ -152,9 +152,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="You'll notice the shutters on the windows. These block out all external light so we can watch a movie during the day." target="_blank" href="/files/photos/renovation/streetview.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="You'll notice the shutters on the windows. These block out all external light so we can watch a movie during the day." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/streetview.jpg">
 
-    <img class="journalPhoto" alt="You'll notice the shutters on the windows. These block out all external light so we can watch a movie during the day." src="/files/photos/renovation/streetview.jpg" width="200" height="150">
+    <img class="journalPhoto" alt="You'll notice the shutters on the windows. These block out all external light so we can watch a movie during the day." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/streetview.jpg" width="200" height="150">
 
   </a>
 
@@ -166,9 +166,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main chandelier" target="_blank" href="/files/photos/renovation/chandelier1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main chandelier" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/chandelier1.jpg">
 
-    <img class="journalPhoto" alt="The main chandelier" src="/files/photos/renovation/chandelier1.jpg" width="183" height="200">
+    <img class="journalPhoto" alt="The main chandelier" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/chandelier1.jpg" width="183" height="200">
 
   </a>
 
@@ -180,9 +180,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Above the chair" target="_blank" href="/files/photos/renovation/chandelier2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Above the chair" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/chandelier2.jpg">
 
-    <img class="journalPhoto" alt="Above the chair" src="/files/photos/renovation/chandelier2.jpg" width="150" height="200">
+    <img class="journalPhoto" alt="Above the chair" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/chandelier2.jpg" width="150" height="200">
 
   </a>
 
@@ -194,9 +194,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Above the sofa" target="_blank" href="/files/photos/renovation/chandelier3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Above the sofa" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/chandelier3.jpg">
 
-    <img class="journalPhoto" alt="Above the sofa" src="/files/photos/renovation/chandelier3.jpg" width="134" height="200">
+    <img class="journalPhoto" alt="Above the sofa" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/chandelier3.jpg" width="134" height="200">
 
   </a>
 
@@ -208,9 +208,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="And this ended up not making the cut. How sad." target="_blank" href="/files/photos/renovation/pomegranate_light.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="And this ended up not making the cut. How sad." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/pomegranate_light.jpg">
 
-    <img class="journalPhoto" alt="And this ended up not making the cut. How sad." src="/files/photos/renovation/pomegranate_light.jpg" width="121" height="200">
+    <img class="journalPhoto" alt="And this ended up not making the cut. How sad." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/pomegranate_light.jpg" width="121" height="200">
 
   </a>
 
@@ -224,9 +224,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The topper over the entrance." target="_blank" href="/files/photos/renovation/entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The topper over the entrance." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/entrance.jpg">
 
-    <img class="journalPhoto" alt="The topper over the entrance." src="/files/photos/renovation/entrance.jpg" width="150" height="200">
+    <img class="journalPhoto" alt="The topper over the entrance." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/entrance.jpg" width="150" height="200">
 
   </a>
 
@@ -238,9 +238,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our sideboard, with a carving from India (via Uma, one of my co-workers), and some brass sculptures from David's parents." target="_blank" href="/files/photos/renovation/sideboard.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our sideboard, with a carving from India (via Uma, one of my co-workers), and some brass sculptures from David's parents." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/sideboard.jpg">
 
-    <img class="journalPhoto" alt="Our sideboard, with a carving from India (via Uma, one of my co-workers), and some brass sculptures from David's parents." src="/files/photos/renovation/sideboard.jpg" width="177" height="200">
+    <img class="journalPhoto" alt="Our sideboard, with a carving from India (via Uma, one of my co-workers), and some brass sculptures from David's parents." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/sideboard.jpg" width="177" height="200">
 
   </a>
 
@@ -252,9 +252,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Some elephant sculptures" target="_blank" href="/files/photos/renovation/elephants.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Some elephant sculptures" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/elephants.jpg">
 
-    <img class="journalPhoto" alt="Some elephant sculptures" src="/files/photos/renovation/elephants.jpg" width="200" height="197">
+    <img class="journalPhoto" alt="Some elephant sculptures" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/elephants.jpg" width="200" height="197">
 
   </a>
 
@@ -266,9 +266,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Artwork" target="_blank" href="/files/photos/renovation/artwork1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Artwork" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/artwork1.jpg">
 
-    <img class="journalPhoto" alt="Artwork" src="/files/photos/renovation/artwork1.jpg" width="145" height="200">
+    <img class="journalPhoto" alt="Artwork" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/artwork1.jpg" width="145" height="200">
 
   </a>
 
@@ -280,9 +280,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A beautiful ganesh carving" target="_blank" href="/files/photos/renovation/ganesh.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A beautiful ganesh carving" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/ganesh.jpg">
 
-    <img class="journalPhoto" alt="A beautiful ganesh carving" src="/files/photos/renovation/ganesh.jpg" width="97" height="200">
+    <img class="journalPhoto" alt="A beautiful ganesh carving" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/ganesh.jpg" width="97" height="200">
 
   </a>
 
@@ -294,9 +294,9 @@ David and I quickly realized that we were in over hour heads with the technology
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More artwork" target="_blank" href="/files/photos/renovation/artwork2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More artwork" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/artwork2.jpg">
 
-    <img class="journalPhoto" alt="More artwork" src="/files/photos/renovation/artwork2.jpg" width="150" height="200">
+    <img class="journalPhoto" alt="More artwork" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/artwork2.jpg" width="150" height="200">
 
   </a>
 

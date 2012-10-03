@@ -27,9 +27,9 @@ met in the area of the open market for an uneventful but delicious lunch.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from the Musée Chagall" target="_blank" href="/files/photos/provence/nice_view.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from the Musée Chagall" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_view.jpg">
 
-    <img class="journalPhoto" alt="The view from the Musée Chagall" src="/files/photos/provence/nice_view.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="The view from the Musée Chagall" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_view.jpg" height="300" width="400">
 
   </a>
 
@@ -71,23 +71,9 @@ peeked in and were very impressed with what we saw.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/provence/nice_park_view_1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_park_view_1.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/provence/nice_park_view_1.jpg" height="300" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/provence/nice_park_view_2.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/provence/nice_park_view_2.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_park_view_1.jpg" height="300" width="400">
 
   </a>
 
@@ -99,9 +85,9 @@ peeked in and were very impressed with what we saw.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/provence/nice_park_view_3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_park_view_2.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/provence/nice_park_view_3.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_park_view_2.jpg" height="300" width="400">
 
   </a>
 
@@ -113,9 +99,23 @@ peeked in and were very impressed with what we saw.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/provence/nice_park_view_david.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_park_view_3.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/provence/nice_park_view_david.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_park_view_3.jpg" height="300" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_park_view_david.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_park_view_david.jpg" height="300" width="400">
 
   </a>
 

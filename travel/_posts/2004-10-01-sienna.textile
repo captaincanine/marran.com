@@ -15,9 +15,9 @@ description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Starting the day off right with a cappucino" target="_blank" href="/files/photos/tuscany/sienna_morning.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Starting the day off right with a cappucino" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_morning.jpg">
 
-    <img class="journalPhoto" alt="Starting the day off right with a cappucino" src="/files/photos/tuscany/sienna_morning.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Starting the day off right with a cappucino" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_morning.jpg" height="150" width="200">
 
   </a>
 
@@ -29,9 +29,9 @@ description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Sienna is a sister city with Rome, so we saw several images of Romulus and Remus (the supposed founders of Rome) feeding from a wolf. Here are several images of the main square." target="_blank" href="/files/photos/tuscany/sienna_wolf.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Sienna is a sister city with Rome, so we saw several images of Romulus and Remus (the supposed founders of Rome) feeding from a wolf. Here are several images of the main square." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_wolf.jpg">
 
-    <img class="journalPhoto" alt="Sienna is a sister city with Rome, so we saw several images of Romulus and Remus (the supposed founders of Rome) feeding from a wolf. Here are several images of the main square." src="/files/photos/tuscany/sienna_wolf.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Sienna is a sister city with Rome, so we saw several images of Romulus and Remus (the supposed founders of Rome) feeding from a wolf. Here are several images of the main square." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_wolf.jpg" height="200" width="150">
 
   </a>
 
@@ -43,9 +43,9 @@ description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main square in Sienna. It's much larger in person. I could only capture about half of it." target="_blank" href="/files/photos/tuscany/sienna_piazza.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main square in Sienna. It's much larger in person. I could only capture about half of it." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_piazza.jpg">
 
-    <img class="journalPhoto" alt="The main square in Sienna. It's much larger in person. I could only capture about half of it." src="/files/photos/tuscany/sienna_piazza.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The main square in Sienna. It's much larger in person. I could only capture about half of it." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_piazza.jpg" height="200" width="150">
 
   </a>
 
@@ -57,9 +57,9 @@ description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Fonte Gaia in the main piazza" target="_blank" href="/files/photos/tuscany/sienna_fonte_gaia.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Fonte Gaia in the main piazza" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_fonte_gaia.jpg">
 
-    <img class="journalPhoto" alt="Fonte Gaia in the main piazza" src="/files/photos/tuscany/sienna_fonte_gaia.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Fonte Gaia in the main piazza" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_fonte_gaia.jpg" height="150" width="200">
 
   </a>
 
@@ -73,9 +73,9 @@ description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The exterior of the Duomo" target="_blank" href="/files/photos/tuscany/sienna_duomo_ext.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The exterior of the Duomo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_duomo_ext.jpg">
 
-    <img class="journalPhoto" alt="The exterior of the Duomo" src="/files/photos/tuscany/sienna_duomo_ext.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The exterior of the Duomo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_duomo_ext.jpg" height="200" width="150">
 
   </a>
 
@@ -87,9 +87,9 @@ description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The interior of the Duomo" target="_blank" href="/files/photos/tuscany/sienna_duomo_int.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The interior of the Duomo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_duomo_int.jpg">
 
-    <img class="journalPhoto" alt="The interior of the Duomo" src="/files/photos/tuscany/sienna_duomo_int.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The interior of the Duomo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_duomo_int.jpg" height="200" width="150">
 
   </a>
 
@@ -101,9 +101,9 @@ description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Intricate stone work was all over the floor" target="_blank" href="/files/photos/tuscany/sienna_duomo_floor.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Intricate stone work was all over the floor" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_duomo_floor.jpg">
 
-    <img class="journalPhoto" alt="Intricate stone work was all over the floor" src="/files/photos/tuscany/sienna_duomo_floor.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Intricate stone work was all over the floor" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_duomo_floor.jpg" height="150" width="200">
 
   </a>
 
@@ -115,9 +115,9 @@ description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the library in the Duomo. Once again, this is a small fraction of the whole room." target="_blank" href="/files/photos/tuscany/sienna_duomo_lib.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the library in the Duomo. Once again, this is a small fraction of the whole room." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_duomo_lib.jpg">
 
-    <img class="journalPhoto" alt="A view of the library in the Duomo. Once again, this is a small fraction of the whole room." src="/files/photos/tuscany/sienna_duomo_lib.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A view of the library in the Duomo. Once again, this is a small fraction of the whole room." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_duomo_lib.jpg" height="150" width="200">
 
   </a>
 
@@ -131,9 +131,9 @@ description: Although I'd be hard-pressed to pick a favorite city in Tuscany, a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/tuscany/sienna_lunch.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_lunch.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/tuscany/sienna_lunch.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/sienna_lunch.jpg" height="150" width="200">
 
   </a>
 

@@ -15,9 +15,9 @@ description: What was quite exciting and novel slowly descended into hell by nig
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo enjoyed the heat" target="_blank" href="/files/photos/blackout/candlelight_gogo.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo enjoyed the heat" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/candlelight_gogo.jpg">
 
-    <img class="journalPhoto" alt="Gogo enjoyed the heat" src="/files/photos/blackout/candlelight_gogo.jpg" width="300">
+    <img class="journalPhoto" alt="Gogo enjoyed the heat" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/candlelight_gogo.jpg" width="300">
 
   </a>
 
@@ -31,9 +31,9 @@ description: What was quite exciting and novel slowly descended into hell by nig
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo and David snuggle" target="_blank" href="/files/photos/blackout/candlelight_snuggle.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo and David snuggle" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/candlelight_snuggle.jpg">
 
-    <img class="journalPhoto" alt="Gogo and David snuggle" src="/files/photos/blackout/candlelight_snuggle.jpg" width="300">
+    <img class="journalPhoto" alt="Gogo and David snuggle" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/candlelight_snuggle.jpg" width="300">
 
   </a>
 

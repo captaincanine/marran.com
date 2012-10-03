@@ -3,7 +3,7 @@ layout: post
 title: Arriving in Istanbul (formerly Constantinople (formerly Byzantium))
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 71
+  index: 1
 redirects: 
 - /node/550
 - /personal/travel/turkey/arriving-istanbul-formerly-constantinople-formerly-byzantium

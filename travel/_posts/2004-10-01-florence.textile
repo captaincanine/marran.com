@@ -17,9 +17,9 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is a famous boar fountain that supposedly tells you how long it will be until you return to Florence." target="_blank" href="/files/photos/tuscany/florence_boar.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is a famous boar fountain that supposedly tells you how long it will be until you return to Florence." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_boar.jpg">
 
-    <img class="journalPhoto" alt="This is a famous boar fountain that supposedly tells you how long it will be until you return to Florence." src="/files/photos/tuscany/florence_boar.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="This is a famous boar fountain that supposedly tells you how long it will be until you return to Florence." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_boar.jpg" height="150" width="200">
 
   </a>
 
@@ -33,9 +33,9 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Donatello Statue" target="_blank" href="/files/photos/tuscany/florence_donatello.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Donatello Statue" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_donatello.jpg">
 
-    <img class="journalPhoto" alt="A Donatello Statue" src="/files/photos/tuscany/florence_donatello.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A Donatello Statue" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_donatello.jpg" height="200" width="150">
 
   </a>
 
@@ -47,9 +47,9 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Duomo" target="_blank" href="/files/photos/tuscany/florence_duomo.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Duomo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_duomo.jpg">
 
-    <img class="journalPhoto" alt="The Duomo" src="/files/photos/tuscany/florence_duomo.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The Duomo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_duomo.jpg" height="200" width="150">
 
   </a>
 
@@ -61,9 +61,9 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Front of the Duomo" target="_blank" href="/files/photos/tuscany/florence_duomo_front.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Front of the Duomo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_duomo_front.jpg">
 
-    <img class="journalPhoto" alt="The Front of the Duomo" src="/files/photos/tuscany/florence_duomo_front.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The Front of the Duomo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_duomo_front.jpg" height="200" width="150">
 
   </a>
 
@@ -75,9 +75,9 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The inside of the Duomo. This should give you sense of the size." target="_blank" href="/files/photos/tuscany/florence_baptistry_int2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The inside of the Duomo. This should give you sense of the size." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_int2.jpg">
 
-    <img class="journalPhoto" alt="The inside of the Duomo. This should give you sense of the size." src="/files/photos/tuscany/florence_baptistry_int2.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The inside of the Duomo. This should give you sense of the size." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_int2.jpg" height="200" width="150">
 
   </a>
 
@@ -89,23 +89,9 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the Duomo" target="_blank" href="/files/photos/tuscany/florence_baptistry_int1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the Duomo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_int1.jpg">
 
-    <img class="journalPhoto" alt="Inside the Duomo" src="/files/photos/tuscany/florence_baptistry_int1.jpg" height="150" width="200">
-
-  </a>
-
-  
-
-  <div class="journalCaption">Inside the Duomo</div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the Duomo" target="_blank" href="/files/photos/tuscany/florence_baptistry_int3.jpg">
-
-    <img class="journalPhoto" alt="Inside the Duomo" src="/files/photos/tuscany/florence_baptistry_int3.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Inside the Duomo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_int1.jpg" height="150" width="200">
 
   </a>
 
@@ -117,9 +103,23 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Statue of Medusa in one of the main squares" target="_blank" href="/files/photos/tuscany/florence_medusa.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the Duomo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_int3.jpg">
 
-    <img class="journalPhoto" alt="A Statue of Medusa in one of the main squares" src="/files/photos/tuscany/florence_medusa.jpg" height="200" width="103">
+    <img class="journalPhoto" alt="Inside the Duomo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_int3.jpg" height="200" width="150">
+
+  </a>
+
+  
+
+  <div class="journalCaption">Inside the Duomo</div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Statue of Medusa in one of the main squares" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_medusa.jpg">
+
+    <img class="journalPhoto" alt="A Statue of Medusa in one of the main squares" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_medusa.jpg" height="200" width="103">
 
   </a>
 
@@ -135,9 +135,9 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the entrance to the Uffizi" target="_blank" href="/files/photos/tuscany/florence_uffizi.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the entrance to the Uffizi" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_uffizi.jpg">
 
-    <img class="journalPhoto" alt="The ceiling of the entrance to the Uffizi" src="/files/photos/tuscany/florence_uffizi.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The ceiling of the entrance to the Uffizi" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_uffizi.jpg" height="150" width="200">
 
   </a>
 
@@ -151,9 +151,9 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The doors of the baptistry" target="_blank" href="/files/photos/tuscany/florence_baptistry_doors.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The doors of the baptistry" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_doors.jpg">
 
-    <img class="journalPhoto" alt="The doors of the baptistry" src="/files/photos/tuscany/florence_baptistry_doors.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The doors of the baptistry" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_doors.jpg" height="200" width="150">
 
   </a>
 
@@ -165,23 +165,9 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the baptistry" target="_blank" href="/files/photos/tuscany/florence_baptistry_ceiling1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the baptistry" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_ceiling1.jpg">
 
-    <img class="journalPhoto" alt="The ceiling of the baptistry" src="/files/photos/tuscany/florence_baptistry_ceiling1.jpg" height="150" width="200">
-
-  </a>
-
-  
-
-  <div class="journalCaption">The ceiling of the baptistry</div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the baptistry" target="_blank" href="/files/photos/tuscany/florence_baptistry_ceiling2.jpg">
-
-    <img class="journalPhoto" alt="The ceiling of the baptistry" src="/files/photos/tuscany/florence_baptistry_ceiling2.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The ceiling of the baptistry" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_ceiling1.jpg" height="150" width="200">
 
   </a>
 
@@ -193,9 +179,23 @@ description: David signed us up for two walking tours, which ended up being a ve
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the baptistry" target="_blank" href="/files/photos/tuscany/florence_baptistry_ceiling3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the baptistry" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_ceiling2.jpg">
 
-    <img class="journalPhoto" alt="The ceiling of the baptistry" src="/files/photos/tuscany/florence_baptistry_ceiling3.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The ceiling of the baptistry" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_ceiling2.jpg" height="150" width="200">
+
+  </a>
+
+  
+
+  <div class="journalCaption">The ceiling of the baptistry</div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the baptistry" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_ceiling3.jpg">
+
+    <img class="journalPhoto" alt="The ceiling of the baptistry" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/florence_baptistry_ceiling3.jpg" height="150" width="200">
 
   </a>
 

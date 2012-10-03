@@ -15,9 +15,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the hotel" target="_blank" href="/files/photos/tuscany/hotel_front.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the hotel" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_front.jpg">
 
-    <img class="journalPhoto" alt="The entrance to the Torre di Bellosguardo" src="/files/photos/tuscany/hotel_front.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The entrance to the Torre di Bellosguardo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_front.jpg" height="150" width="200">
 
   </a>
 
@@ -29,9 +29,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of a room just off the lobby." target="_blank" href="/files/photos/tuscany/hotel_ceiling.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of a room just off the lobby." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_ceiling.jpg">
 
-    <img class="journalPhoto" alt="The ceiling of a room just off the lobby." src="/files/photos/tuscany/hotel_ceiling.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The ceiling of a room just off the lobby." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_ceiling.jpg" height="150" width="200">
 
   </a>
 
@@ -43,9 +43,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David standing in the hotel entrance." target="_blank" href="/files/photos/tuscany/hotel_doorway.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David standing in the hotel entrance." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_doorway.jpg">
 
-    <img class="journalPhoto" alt="David standing in the hotel entrance." src="/files/photos/tuscany/hotel_doorway.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="David standing in the hotel entrance." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_doorway.jpg" height="200" width="150">
 
   </a>
 
@@ -57,9 +57,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the lobby and the parrot that lived there" target="_blank" href="/files/photos/tuscany/hotel_lobby.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the lobby and the parrot that lived there" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_lobby.jpg">
 
-    <img class="journalPhoto" alt="A view of the lobby and the parrot that lived there" src="/files/photos/tuscany/hotel_lobby.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A view of the lobby and the parrot that lived there" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_lobby.jpg" height="150" width="200">
 
   </a>
 
@@ -71,9 +71,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another view of the lobby...and the parrot" target="_blank" href="/files/photos/tuscany/hotel_lobby2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another view of the lobby...and the parrot" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_lobby2.jpg">
 
-    <img class="journalPhoto" alt="Another view of the lobby...and the parrot" src="/files/photos/tuscany/hotel_lobby2.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Another view of the lobby...and the parrot" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_lobby2.jpg" height="150" width="200">
 
   </a>
 
@@ -87,9 +87,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/tuscany/hotel_room.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_room.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/tuscany/hotel_room.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_room.jpg" height="150" width="200">
 
   </a>
 
@@ -101,9 +101,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of Florence" target="_blank" href="/files/photos/tuscany/hotel_roomview1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of Florence" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_roomview1.jpg">
 
-    <img class="journalPhoto" alt="The view of Florence" src="/files/photos/tuscany/hotel_roomview1.jpg" height="200" width="176">
+    <img class="journalPhoto" alt="The view of Florence" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_roomview1.jpg" height="200" width="176">
 
   </a>
 
@@ -115,9 +115,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of the gardens" target="_blank" href="/files/photos/tuscany/hotel_roomview2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of the gardens" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_roomview2.jpg">
 
-    <img class="journalPhoto" alt="The view of the gardens" src="/files/photos/tuscany/hotel_roomview2.jpg" height="200" width="122">
+    <img class="journalPhoto" alt="The view of the gardens" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_roomview2.jpg" height="200" width="122">
 
   </a>
 
@@ -131,9 +131,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The tower where our room was as seen from the gardens" target="_blank" href="/files/photos/tuscany/hotel_tower.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The tower where our room was as seen from the gardens" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_tower.jpg">
 
-    <img class="journalPhoto" alt="The tower where our room was as seen from the gardens" src="/files/photos/tuscany/hotel_tower.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The tower where our room was as seen from the gardens" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_tower.jpg" height="200" width="150">
 
   </a>
 
@@ -145,9 +145,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Touring the gardens" target="_blank" href="/files/photos/tuscany/hotel_gardens1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Touring the gardens" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_gardens1.jpg">
 
-    <img class="journalPhoto" alt="Touring the gardens" src="/files/photos/tuscany/hotel_gardens1.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Touring the gardens" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_gardens1.jpg" height="150" width="200">
 
   </a>
 
@@ -159,9 +159,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More gardens" target="_blank" href="/files/photos/tuscany/hotel_gardens2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More gardens" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_gardens2.jpg">
 
-    <img class="journalPhoto" alt="More gardens" src="/files/photos/tuscany/hotel_gardens2.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="More gardens" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_gardens2.jpg" height="200" width="150">
 
   </a>
 
@@ -173,9 +173,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="And more gardens" target="_blank" href="/files/photos/tuscany/hotel_gardens3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="And more gardens" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_gardens3.jpg">
 
-    <img class="journalPhoto" alt="And more gardens" src="/files/photos/tuscany/hotel_gardens3.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="And more gardens" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_gardens3.jpg" height="200" width="150">
 
   </a>
 
@@ -187,9 +187,9 @@ description: It turns out that getting in and out of Florence is not so easy. We
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of misty-morning Florence from the gardens" target="_blank" href="/files/photos/tuscany/hotel_view.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of misty-morning Florence from the gardens" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_view.jpg">
 
-    <img class="journalPhoto" alt="A view of misty-morning Florence from the gardens" src="/files/photos/tuscany/hotel_view.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A view of misty-morning Florence from the gardens" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/hotel_view.jpg" height="150" width="200">
 
   </a>
 

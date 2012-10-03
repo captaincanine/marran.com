@@ -15,9 +15,9 @@ description: The second half of our last full day in Israel was dedicated to the
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Visitors to the Western Wall" target="_blank" href="/files/photos/israel/westernwall-prayers.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Visitors to the Western Wall" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-prayers.jpg">
 
-    <img class="journalPhoto" alt="Visitors to the Western Wall" src="/files/photos/israel/westernwall-prayers.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Visitors to the Western Wall" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-prayers.jpg" height="150" width="200">
 
   </a>
 
@@ -29,9 +29,9 @@ description: The second half of our last full day in Israel was dedicated to the
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A close-up of the prayers written in notes in the stone cracks" target="_blank" href="/files/photos/israel/westernwall-notes.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A close-up of the prayers written in notes in the stone cracks" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-notes.jpg">
 
-    <img class="journalPhoto" alt="A close-up of the prayers written in notes in the stone cracks" src="/files/photos/israel/westernwall-notes.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A close-up of the prayers written in notes in the stone cracks" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-notes.jpg" height="150" width="200">
 
   </a>
 
@@ -45,9 +45,9 @@ description: The second half of our last full day in Israel was dedicated to the
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The very bottom of this pciture is one big stone that is estimated to weight 600 tons!" target="_blank" href="/files/photos/israel/westernwall-stone.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The very bottom of this pciture is one big stone that is estimated to weight 600 tons!" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-stone.jpg">
 
-    <img class="journalPhoto" alt="The very bottom of this pciture is one big stone that is estimated to weight 600 tons!" src="/files/photos/israel/westernwall-stone.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The very bottom of this pciture is one big stone that is estimated to weight 600 tons!" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-stone.jpg" height="150" width="200">
 
   </a>
 
@@ -59,9 +59,9 @@ description: The second half of our last full day in Israel was dedicated to the
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David!" target="_blank" href="/files/photos/israel/westernwall-david.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David!" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-david.jpg">
 
-    <img class="journalPhoto" alt="David!" src="/files/photos/israel/westernwall-david.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="David!" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-david.jpg" height="150" width="200">
 
   </a>
 
@@ -73,9 +73,9 @@ description: The second half of our last full day in Israel was dedicated to the
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This picture doesn't really capture the grandeur of the height of the tour." target="_blank" href="/files/photos/israel/westernwall-hall.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This picture doesn't really capture the grandeur of the height of the tour." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-hall.jpg">
 
-    <img class="journalPhoto" alt="This picture doesn't really capture the grandeur of the height of the tour." src="/files/photos/israel/westernwall-hall.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="This picture doesn't really capture the grandeur of the height of the tour." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-hall.jpg" height="200" width="150">
 
   </a>
 
@@ -87,9 +87,9 @@ description: The second half of our last full day in Israel was dedicated to the
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Roman staircase" target="_blank" href="/files/photos/israel/westernwall-roman-stairs.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Roman staircase" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-roman-stairs.jpg">
 
-    <img class="journalPhoto" alt="A Roman staircase" src="/files/photos/israel/westernwall-roman-stairs.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A Roman staircase" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/westernwall-roman-stairs.jpg" height="200" width="150">
 
   </a>
 

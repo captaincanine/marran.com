@@ -15,9 +15,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A small house on the grounds" target="_blank" href="/files/photos/tuscany/villa_reale1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A small house on the grounds" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale1.jpg">
 
-    <img class="journalPhoto" alt="A small house on the grounds" src="/files/photos/tuscany/villa_reale1.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A small house on the grounds" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale1.jpg" height="150" width="200">
 
   </a>
 
@@ -29,9 +29,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This must have been servants quarters" target="_blank" href="/files/photos/tuscany/villa_reale2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This must have been servants quarters" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale2.jpg">
 
-    <img class="journalPhoto" alt="This must have been servants quarters" src="/files/photos/tuscany/villa_reale2.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="This must have been servants quarters" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale2.jpg" height="200" width="150">
 
   </a>
 
@@ -43,9 +43,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More servants quarters?" target="_blank" href="/files/photos/tuscany/villa_reale3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More servants quarters?" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale3.jpg">
 
-    <img class="journalPhoto" alt="More servants quarters?" src="/files/photos/tuscany/villa_reale3.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="More servants quarters?" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale3.jpg" height="150" width="200">
 
   </a>
 
@@ -57,9 +57,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The &quot;wet&quot; house? Usually for cooling off in the summer." target="_blank" href="/files/photos/tuscany/villa_reale4.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The &quot;wet&quot; house? Usually for cooling off in the summer." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale4.jpg">
 
-    <img class="journalPhoto" alt="The &quot;wet&quot; house? Usually for cooling off in the summer." src="/files/photos/tuscany/villa_reale4.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The &quot;wet&quot; house? Usually for cooling off in the summer." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale4.jpg" height="150" width="200">
 
   </a>
 
@@ -71,9 +71,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A garden" target="_blank" href="/files/photos/tuscany/villa_reale5.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A garden" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale5.jpg">
 
-    <img class="journalPhoto" alt="A garden" src="/files/photos/tuscany/villa_reale5.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A garden" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale5.jpg" height="150" width="200">
 
   </a>
 
@@ -85,9 +85,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A line of shrubs leading to the orangerie" target="_blank" href="/files/photos/tuscany/villa_reale6.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A line of shrubs leading to the orangerie" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale6.jpg">
 
-    <img class="journalPhoto" alt="A line of shrubs leading to the orangerie" src="/files/photos/tuscany/villa_reale6.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A line of shrubs leading to the orangerie" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale6.jpg" height="200" width="150">
 
   </a>
 
@@ -99,9 +99,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A fountain" target="_blank" href="/files/photos/tuscany/villa_reale7.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A fountain" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale7.jpg">
 
-    <img class="journalPhoto" alt="A fountain" src="/files/photos/tuscany/villa_reale7.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A fountain" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale7.jpg" height="150" width="200">
 
   </a>
 
@@ -113,9 +113,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The orangerie" target="_blank" href="/files/photos/tuscany/villa_reale8.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The orangerie" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale8.jpg">
 
-    <img class="journalPhoto" alt="The orangerie" src="/files/photos/tuscany/villa_reale8.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The orangerie" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale8.jpg" height="150" width="200">
 
   </a>
 
@@ -127,9 +127,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More gardens" target="_blank" href="/files/photos/tuscany/villa_reale9.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More gardens" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale9.jpg">
 
-    <img class="journalPhoto" alt="More gardens" src="/files/photos/tuscany/villa_reale9.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="More gardens" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale9.jpg" height="150" width="200">
 
   </a>
 
@@ -141,9 +141,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="At long last, the main house" target="_blank" href="/files/photos/tuscany/villa_reale10.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="At long last, the main house" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale10.jpg">
 
-    <img class="journalPhoto" alt="At long last, the main house" src="/files/photos/tuscany/villa_reale10.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="At long last, the main house" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale10.jpg" height="150" width="200">
 
   </a>
 
@@ -155,9 +155,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="We weren't allowed in the main house" target="_blank" href="/files/photos/tuscany/villa_reale11.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="We weren't allowed in the main house" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale11.jpg">
 
-    <img class="journalPhoto" alt="We weren't allowed in the main house" src="/files/photos/tuscany/villa_reale11.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="We weren't allowed in the main house" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_reale11.jpg" height="150" width="200">
 
   </a>
 
@@ -171,9 +171,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the grounds" target="_blank" href="/files/photos/tuscany/villa_unknown4.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the grounds" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_unknown4.jpg">
 
-    <img class="journalPhoto" alt="A shot of the grounds" src="/files/photos/tuscany/villa_unknown4.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A shot of the grounds" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_unknown4.jpg" height="150" width="200">
 
   </a>
 
@@ -185,9 +185,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A photo of the co-dependent dog" target="_blank" href="/files/photos/tuscany/villa_unknown1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A photo of the co-dependent dog" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_unknown1.jpg">
 
-    <img class="journalPhoto" alt="A photo of the co-dependent dog" src="/files/photos/tuscany/villa_unknown1.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A photo of the co-dependent dog" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_unknown1.jpg" height="150" width="200">
 
   </a>
 
@@ -199,9 +199,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A fountain" target="_blank" href="/files/photos/tuscany/villa_unknown2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A fountain" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_unknown2.jpg">
 
-    <img class="journalPhoto" alt="A fountain" src="/files/photos/tuscany/villa_unknown2.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A fountain" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_unknown2.jpg" height="200" width="150">
 
   </a>
 
@@ -213,9 +213,9 @@ description: This area has several old villas that are not in use anymore, but a
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="There was some joke behind this photo. I can't remember it now." target="_blank" href="/files/photos/tuscany/villa_unknown3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="There was some joke behind this photo. I can't remember it now." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_unknown3.jpg">
 
-    <img class="journalPhoto" alt="There was some joke behind this photo. I can't remember it now." src="/files/photos/tuscany/villa_unknown3.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="There was some joke behind this photo. I can't remember it now." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/villa_unknown3.jpg" height="150" width="200">
 
   </a>
 

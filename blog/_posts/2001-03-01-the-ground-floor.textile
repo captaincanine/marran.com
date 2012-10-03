@@ -17,9 +17,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the entrance we just walked through. The EXIT signs are all gone. Presumably because David wants to put up better ones." target="_blank" href="/files/photos/mission_home/ground.front_door.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the entrance we just walked through. The EXIT signs are all gone. Presumably because David wants to put up better ones." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.front_door.jpg">
 
-    <img class="journalPhoto" alt="A shot of the entrance we just walked through. The EXIT signs are all gone. Presumably because David wants to put up better ones." src="/files/photos/mission_home/ground.front_door.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="A shot of the entrance we just walked through. The EXIT signs are all gone. Presumably because David wants to put up better ones." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.front_door.jpg" width="300" height="225">
 
   </a>
 
@@ -31,9 +31,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front of the ground floor. The part that faces the street." target="_blank" href="/files/photos/mission_home/ground.front_room.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front of the ground floor. The part that faces the street." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.front_room.jpg">
 
-    <img class="journalPhoto" alt="The front of the ground floor. The part that faces the street." src="/files/photos/mission_home/ground.front_room.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The front of the ground floor. The part that faces the street." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.front_room.jpg" width="300" height="225">
 
   </a>
 
@@ -45,9 +45,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="mmmm.....fireplace" target="_blank" href="/files/photos/mission_home/ground.front_room_fire.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="mmmm.....fireplace" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.front_room_fire.jpg">
 
-    <img class="journalPhoto" alt="mmmm.....fireplace" src="/files/photos/mission_home/ground.front_room_fire.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="mmmm.....fireplace" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.front_room_fire.jpg" width="300" height="225">
 
   </a>
 
@@ -59,9 +59,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the ground floor front room" target="_blank" href="/files/photos/mission_home/ground.front_room_whole.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the ground floor front room" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.front_room_whole.jpg">
 
-    <img class="journalPhoto" alt="More of the ground floor front room" src="/files/photos/mission_home/ground.front_room_whole.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="More of the ground floor front room" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.front_room_whole.jpg" width="300" height="225">
 
   </a>
 
@@ -73,9 +73,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The kitchen for the ground floor. Some of this has been moved to the top floor for our temp kitchen, the rest has been trashed." target="_blank" href="/files/photos/mission_home/ground.kitchen.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The kitchen for the ground floor. Some of this has been moved to the top floor for our temp kitchen, the rest has been trashed." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.kitchen.jpg">
 
-    <img class="journalPhoto" alt="The kitchen for the ground floor. Some of this has been moved to the top floor for our temp kitchen, the rest has been trashed." src="/files/photos/mission_home/ground.kitchen.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The kitchen for the ground floor. Some of this has been moved to the top floor for our temp kitchen, the rest has been trashed." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.kitchen.jpg" width="300" height="225">
 
   </a>
 
@@ -87,9 +87,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The world's largest stove. We could have opened up our own diner. The picture doesn't do it justice." target="_blank" href="/files/photos/mission_home/ground.wolf.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The world's largest stove. We could have opened up our own diner. The picture doesn't do it justice." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.wolf.jpg">
 
-    <img class="journalPhoto" alt="The world's largest stove. We could have opened up our own diner. The picture doesn't do it justice." src="/files/photos/mission_home/ground.wolf.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The world's largest stove. We could have opened up our own diner. The picture doesn't do it justice." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.wolf.jpg" width="300" height="225">
 
   </a>
 
@@ -101,9 +101,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="mmmm....more fireplace" target="_blank" href="/files/photos/mission_home/ground.back_fire.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="mmmm....more fireplace" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.back_fire.jpg">
 
-    <img class="journalPhoto" alt="mmmm....more fireplace" src="/files/photos/mission_home/ground.back_fire.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="mmmm....more fireplace" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.back_fire.jpg" width="300" height="225">
 
   </a>
 
@@ -115,9 +115,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A beautiful glass door that opens up to the back yard." target="_blank" href="/files/photos/mission_home/ground.back_door.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A beautiful glass door that opens up to the back yard." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.back_door.jpg">
 
-    <img class="journalPhoto" alt="A beautiful glass door that opens up to the back yard." src="/files/photos/mission_home/ground.back_door.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="A beautiful glass door that opens up to the back yard." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.back_door.jpg" width="300" height="225">
 
   </a>
 
@@ -129,9 +129,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ground floor bathroom" target="_blank" href="/files/photos/mission_home/ground.bathroom.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ground floor bathroom" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.bathroom.jpg">
 
-    <img class="journalPhoto" alt="The ground floor bathroom" src="/files/photos/mission_home/ground.bathroom.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The ground floor bathroom" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.bathroom.jpg" width="300" height="225">
 
   </a>
 
@@ -143,9 +143,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ground floor hallway. This is how you get to the basement." target="_blank" href="/files/photos/mission_home/ground.hallway.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ground floor hallway. This is how you get to the basement." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.hallway.jpg">
 
-    <img class="journalPhoto" alt="The ground floor hallway. This is how you get to the basement." src="/files/photos/mission_home/ground.hallway.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="The ground floor hallway. This is how you get to the basement." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.hallway.jpg" width="200" height="267">
 
   </a>
 
@@ -157,9 +157,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Up the stairs to the first floor." target="_blank" href="/files/photos/mission_home/ground.entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Up the stairs to the first floor." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.entrance.jpg">
 
-    <img class="journalPhoto" alt="Up the stairs to the first floor." src="/files/photos/mission_home/ground.entrance.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="Up the stairs to the first floor." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.entrance.jpg" width="300" height="225">
 
   </a>
 
@@ -171,9 +171,9 @@ description: There is much confusion as to how the floors are numbered. The arch
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Happy Homeowner." target="_blank" href="/files/photos/mission_home/ground.stairs.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Happy Homeowner." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.stairs.jpg">
 
-    <img class="journalPhoto" alt="The Happy Homeowner." src="/files/photos/mission_home/ground.stairs.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The Happy Homeowner." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/ground.stairs.jpg" width="300" height="225">
 
   </a>
 

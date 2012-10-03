@@ -25,9 +25,9 @@ spinach pastry and a smoked duck sandwich. Fantastic.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Cathédrale Notre-Dame-des-Doms" target="_blank" href="/files/photos/provence/avignon_chapel.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Cathédrale Notre-Dame-des-Doms" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/avignon_chapel.jpg">
 
-    <img class="journalPhoto" alt="Cathédrale Notre-Dame-des-Doms" src="/files/photos/provence/avignon_chapel.jpg" height="400" width="300">
+    <img class="journalPhoto" alt="Cathédrale Notre-Dame-des-Doms" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/avignon_chapel.jpg" height="400" width="300">
 
   </a>
 
@@ -67,9 +67,9 @@ and started pronouncing them phonetically.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A fountain in Avignon" target="_blank" href="/files/photos/provence/avignon_fountain.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A fountain in Avignon" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/avignon_fountain.jpg">
 
-    <img class="journalPhoto" alt="A fountain in Avignon" src="/files/photos/provence/avignon_fountain.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="A fountain in Avignon" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/avignon_fountain.jpg" height="300" width="400">
 
   </a>
 
@@ -81,9 +81,9 @@ and started pronouncing them phonetically.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Avignon Opera" target="_blank" href="/files/photos/provence/avignon_opera.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Avignon Opera" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/avignon_opera.jpg">
 
-    <img class="journalPhoto" alt="The Avignon Opera" src="/files/photos/provence/avignon_opera.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="The Avignon Opera" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/avignon_opera.jpg" height="450" width="600">
 
   </a>
 
@@ -95,9 +95,9 @@ and started pronouncing them phonetically.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Avignon Carousel" target="_blank" href="/files/photos/provence/avignon_carousel.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Avignon Carousel" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/avignon_carousel.jpg">
 
-    <img class="journalPhoto" alt="The Avignon Carousel" src="/files/photos/provence/avignon_carousel.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="The Avignon Carousel" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/avignon_carousel.jpg" height="300" width="400">
 
   </a>
 
@@ -109,9 +109,9 @@ and started pronouncing them phonetically.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of Bonnieux" target="_blank" href="/files/photos/provence/bonnieux.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of Bonnieux" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/bonnieux.jpg">
 
-    <img class="journalPhoto" alt="A view of Bonnieux" src="/files/photos/provence/bonnieux.jpg" height="375" width="500">
+    <img class="journalPhoto" alt="A view of Bonnieux" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/bonnieux.jpg" height="375" width="500">
 
   </a>
 
@@ -135,9 +135,9 @@ scale.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Font de Vaucluse" target="_blank" href="/files/photos/provence/the_source.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Font de Vaucluse" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/the_source.jpg">
 
-    <img class="journalPhoto" alt="Font de Vaucluse" src="/files/photos/provence/the_source.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="Font de Vaucluse" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/the_source.jpg" height="450" width="600">
 
   </a>
 
@@ -149,9 +149,9 @@ scale.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/provence/the_source_2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/the_source_2.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/provence/the_source_2.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/the_source_2.jpg" height="450" width="600">
 
   </a>
 

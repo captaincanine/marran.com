@@ -17,9 +17,9 @@ description: The first night of the fire, we had to stay at a hotel. Luckily, th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Trying to get the little princess to calm down." target="_blank" href="/files/photos/w-hotel/on-the-floor.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Trying to get the little princess to calm down." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/on-the-floor.jpg">
 
-    <img class="journalPhoto" alt="Trying to get the little princess to calm down." src="/files/photos/w-hotel/on-the-floor.jpg" width="300" height="361">
+    <img class="journalPhoto" alt="Trying to get the little princess to calm down." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/on-the-floor.jpg" width="300" height="361">
 
   </a>
 
@@ -33,9 +33,9 @@ description: The first night of the fire, we had to stay at a hotel. Luckily, th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo distracted from chewing" target="_blank" href="/files/photos/w-hotel/bed-distracted.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo distracted from chewing" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/bed-distracted.jpg">
 
-    <img class="journalPhoto" alt="Gogo distracted from chewing" src="/files/photos/w-hotel/bed-distracted.jpg" width="400" height="322">
+    <img class="journalPhoto" alt="Gogo distracted from chewing" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/bed-distracted.jpg" width="400" height="322">
 
   </a>
 
@@ -49,9 +49,9 @@ description: The first night of the fire, we had to stay at a hotel. Luckily, th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo was suspicious of the mirror. She kept running behind it (it was freestanding and not connected to anything)." target="_blank" href="/files/photos/w-hotel/mirror.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo was suspicious of the mirror. She kept running behind it (it was freestanding and not connected to anything)." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/mirror.jpg">
 
-    <img class="journalPhoto" alt="Gogo was suspicious of the mirror. She kept running behind it (it was freestanding and not connected to anything)." src="/files/photos/w-hotel/mirror.jpg" width="400" height="187">
+    <img class="journalPhoto" alt="Gogo was suspicious of the mirror. She kept running behind it (it was freestanding and not connected to anything)." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/mirror.jpg" width="400" height="187">
 
   </a>
 
@@ -63,9 +63,9 @@ description: The first night of the fire, we had to stay at a hotel. Luckily, th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Relaxing. And thinking of breakfast." target="_blank" href="/files/photos/w-hotel/reclining.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Relaxing. And thinking of breakfast." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/reclining.jpg">
 
-    <img class="journalPhoto" alt="Relaxing. And thinking of breakfast." src="/files/photos/w-hotel/reclining.jpg" width="400" height="245">
+    <img class="journalPhoto" alt="Relaxing. And thinking of breakfast." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/reclining.jpg" width="400" height="245">
 
   </a>
 
@@ -77,9 +77,9 @@ description: The first night of the fire, we had to stay at a hotel. Luckily, th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo sticking her tongue out again" target="_blank" href="/files/photos/w-hotel/tongue.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo sticking her tongue out again" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/tongue.jpg">
 
-    <img class="journalPhoto" alt="Gogo sticking her tongue out again" src="/files/photos/w-hotel/tongue.jpg" width="400" height="345">
+    <img class="journalPhoto" alt="Gogo sticking her tongue out again" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/tongue.jpg" width="400" height="345">
 
   </a>
 
@@ -91,9 +91,9 @@ description: The first night of the fire, we had to stay at a hotel. Luckily, th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the room" target="_blank" href="/files/photos/w-hotel/whole-room.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the room" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/whole-room.jpg">
 
-    <img class="journalPhoto" alt="A shot of the room" src="/files/photos/w-hotel/whole-room.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="A shot of the room" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/whole-room.jpg" width="400" height="300">
 
   </a>
 
@@ -105,9 +105,9 @@ description: The first night of the fire, we had to stay at a hotel. Luckily, th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The extra fancy bathrooms at the W" target="_blank" href="/files/photos/w-hotel/bathroom.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The extra fancy bathrooms at the W" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/bathroom.jpg">
 
-    <img class="journalPhoto" alt="The extra fancy bathrooms at the W" src="/files/photos/w-hotel/bathroom.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="The extra fancy bathrooms at the W" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/w-hotel/bathroom.jpg" width="400" height="300">
 
   </a>
 

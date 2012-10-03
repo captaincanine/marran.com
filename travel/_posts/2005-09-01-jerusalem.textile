@@ -15,9 +15,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Model of the Second Temple Period" target="_blank" href="/files/photos/israel/jerusalem-secondtemple.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Model of the Second Temple Period" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-secondtemple.jpg">
 
-    <img class="journalPhoto" alt="The Model of the Second Temple Period" src="/files/photos/israel/jerusalem-secondtemple.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Model of the Second Temple Period" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-secondtemple.jpg" height="150" width="200">
 
   </a>
 
@@ -29,9 +29,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Model of the Actual Second Temple" target="_blank" href="/files/photos/israel/jerusalem-secondtemple2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Model of the Actual Second Temple" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-secondtemple2.jpg">
 
-    <img class="journalPhoto" alt="The Model of the Actual Second Temple" src="/files/photos/israel/jerusalem-secondtemple2.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Model of the Actual Second Temple" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-secondtemple2.jpg" height="150" width="200">
 
   </a>
 
@@ -45,9 +45,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from our room of the pool and David's Citadel" target="_blank" href="/files/photos/israel/jerusalem-hotel-pool.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from our room of the pool and David's Citadel" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-hotel-pool.jpg">
 
-    <img class="journalPhoto" alt="The view from our room of the pool and David's Citadel" src="/files/photos/israel/jerusalem-hotel-pool.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The view from our room of the pool and David's Citadel" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-hotel-pool.jpg" height="200" width="150">
 
   </a>
 
@@ -61,9 +61,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The old walls of Jerusalem leading to Jaffa Gate" target="_blank" href="/files/photos/israel/jerusalem-oldwalls.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The old walls of Jerusalem leading to Jaffa Gate" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-oldwalls.jpg">
 
-    <img class="journalPhoto" alt="The old walls of Jerusalem leading to Jaffa Gate" src="/files/photos/israel/jerusalem-oldwalls.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The old walls of Jerusalem leading to Jaffa Gate" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-oldwalls.jpg" height="150" width="200">
 
   </a>
 
@@ -77,9 +77,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Kidron Valley featuring Tower of Absalom and surrounded by Jewish graves" target="_blank" href="/files/photos/israel/jerusalem-absalom.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Kidron Valley featuring Tower of Absalom and surrounded by Jewish graves" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-absalom.jpg">
 
-    <img class="journalPhoto" alt="Kidron Valley featuring Tower of Absalom and surrounded by Jewish graves" src="/files/photos/israel/jerusalem-absalom.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Kidron Valley featuring Tower of Absalom and surrounded by Jewish graves" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-absalom.jpg" height="150" width="200">
 
   </a>
 
@@ -93,9 +93,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Church of All Nations" target="_blank" href="/files/photos/israel/gethsemane-outside.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Church of All Nations" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/gethsemane-outside.jpg">
 
-    <img class="journalPhoto" alt="The Church of All Nations" src="/files/photos/israel/gethsemane-outside.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Church of All Nations" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/gethsemane-outside.jpg" height="150" width="200">
 
   </a>
 
@@ -107,9 +107,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Garden of Gethsemane" target="_blank" href="/files/photos/israel/gethsemane-garden.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Garden of Gethsemane" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/gethsemane-garden.jpg">
 
-    <img class="journalPhoto" alt="The Garden of Gethsemane" src="/files/photos/israel/gethsemane-garden.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Garden of Gethsemane" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/gethsemane-garden.jpg" height="150" width="200">
 
   </a>
 
@@ -121,9 +121,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the Church of All Nations. Check out the mosaic of flowers on the ceiling." target="_blank" href="/files/photos/israel/gethsemane-mosaic.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the Church of All Nations. Check out the mosaic of flowers on the ceiling." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/gethsemane-mosaic.jpg">
 
-    <img class="journalPhoto" alt="Inside the Church of All Nations. Check out the mosaic of flowers on the ceiling." src="/files/photos/israel/gethsemane-mosaic.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Inside the Church of All Nations. Check out the mosaic of flowers on the ceiling." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/gethsemane-mosaic.jpg" height="200" width="150">
 
   </a>
 
@@ -139,9 +139,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Golden Gate" target="_blank" href="/files/photos/israel/jerusalem-golden-gate.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Golden Gate" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-golden-gate.jpg">
 
-    <img class="journalPhoto" alt="The Golden Gate" src="/files/photos/israel/jerusalem-golden-gate.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The Golden Gate" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-golden-gate.jpg" height="200" width="150">
 
   </a>
 
@@ -155,9 +155,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Monastery of Flagellation (the 2nd Station)" target="_blank" href="/files/photos/israel/jerusalem-viadolorosa-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Monastery of Flagellation (the 2nd Station)" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-viadolorosa-1.jpg">
 
-    <img class="journalPhoto" alt="The Monastery of Flagellation (the 2nd Station)" src="/files/photos/israel/jerusalem-viadolorosa-1.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Monastery of Flagellation (the 2nd Station)" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-viadolorosa-1.jpg" height="150" width="200">
 
   </a>
 
@@ -169,9 +169,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Garden at the Monastery of Flagellation" target="_blank" href="/files/photos/israel/jerusalem-viadolorosa-3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Garden at the Monastery of Flagellation" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-viadolorosa-3.jpg">
 
-    <img class="journalPhoto" alt="A Garden at the Monastery of Flagellation" src="/files/photos/israel/jerusalem-viadolorosa-3.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A Garden at the Monastery of Flagellation" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-viadolorosa-3.jpg" height="150" width="200">
 
   </a>
 
@@ -183,9 +183,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Crown of Thorns Site" target="_blank" href="/files/photos/israel/jerusalem-viadolorosa-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Crown of Thorns Site" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-viadolorosa-2.jpg">
 
-    <img class="journalPhoto" alt="The Crown of Thorns Site" src="/files/photos/israel/jerusalem-viadolorosa-2.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The Crown of Thorns Site" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-viadolorosa-2.jpg" height="200" width="150">
 
   </a>
 
@@ -201,9 +201,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A nice view of Jerusalem in the Muslim Quarter" target="_blank" href="/files/photos/israel/jerusalem-alley.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A nice view of Jerusalem in the Muslim Quarter" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-alley.jpg">
 
-    <img class="journalPhoto" alt="A nice view of Jerusalem in the Muslim Quarter" src="/files/photos/israel/jerusalem-alley.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A nice view of Jerusalem in the Muslim Quarter" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-alley.jpg" height="200" width="150">
 
   </a>
 
@@ -215,9 +215,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another pretty shot of Jerusalem" target="_blank" href="/files/photos/israel/jerusalem-unknown.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another pretty shot of Jerusalem" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-unknown.jpg">
 
-    <img class="journalPhoto" alt="Another pretty shot of Jerusalem" src="/files/photos/israel/jerusalem-unknown.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Another pretty shot of Jerusalem" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-unknown.jpg" height="150" width="200">
 
   </a>
 
@@ -229,9 +229,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mosaic in the Jewish Quarter" target="_blank" href="/files/photos/israel/jerusalem-jewishquarter-mosaic.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mosaic in the Jewish Quarter" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-jewishquarter-mosaic.jpg">
 
-    <img class="journalPhoto" alt="A mosaic in the Jewish Quarter" src="/files/photos/israel/jerusalem-jewishquarter-mosaic.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A mosaic in the Jewish Quarter" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-jewishquarter-mosaic.jpg" height="150" width="200">
 
   </a>
 
@@ -243,9 +243,9 @@ description: Our trip to Jerusalem started with a visit to the Model of the Seco
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Dome of the Rock and the Western Wall in Jerusalem" target="_blank" href="/files/photos/israel/jerusalem-dome-of-the-rock.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Dome of the Rock and the Western Wall in Jerusalem" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-dome-of-the-rock.jpg">
 
-    <img class="journalPhoto" alt="The Dome of the Rock and the Western Wall in Jerusalem" src="/files/photos/israel/jerusalem-dome-of-the-rock.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Dome of the Rock and the Western Wall in Jerusalem" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/jerusalem-dome-of-the-rock.jpg" height="150" width="200">
 
   </a>
 

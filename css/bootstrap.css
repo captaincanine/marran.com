@@ -5055,7 +5055,8 @@ a.badge:hover {
 }
 #main .box .box-header .meta {
   font-size: 12px;
-  line-height: 1em;
+  line-height: 12px;
+  margin: 0 0 8px;
 }
 #main .box .box-header a {
   color: #c34e02;
@@ -5105,7 +5106,7 @@ a.badge:hover {
 }
 #main .series-box .box-header .title {
   font-size: 36px;
-  line-height: 32px;
+  line-height: 28px;
   margin-top: 6px;
 }
 #main .series-box .series-item {
@@ -5410,7 +5411,7 @@ a.badge:hover {
 }
 .home-bottom .box-header-left .meta {
   float: right;
-  margin-top: 12px;
+  margin: 12px 0 0 !important;
   font-size: 12px !important;
   text-transform: none;
 }

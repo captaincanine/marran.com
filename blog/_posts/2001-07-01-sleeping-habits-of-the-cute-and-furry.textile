@@ -16,9 +16,9 @@ Here are some shots of how Gogo slept when she was a puppy. She used to love to 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is Gogo practicing her yoga." target="_blank" href="/files/photos/gogo/yoga_1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is Gogo practicing her yoga." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/yoga_1.jpg">
 
-    <img class="journalPhoto" alt="This is Gogo practicing her yoga." src="/files/photos/gogo/yoga_1.jpg" width="300" height="221">
+    <img class="journalPhoto" alt="This is Gogo practicing her yoga." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/yoga_1.jpg" width="300" height="221">
 
   </a>
 
@@ -30,9 +30,9 @@ Here are some shots of how Gogo slept when she was a puppy. She used to love to 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Actually, she's sleeping if you can believe that." target="_blank" href="/files/photos/gogo/yoga_2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Actually, she's sleeping if you can believe that." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/yoga_2.jpg">
 
-    <img class="journalPhoto" alt="Actually, she's sleeping if you can believe that." src="/files/photos/gogo/yoga_2.jpg" width="300" height="231">
+    <img class="journalPhoto" alt="Actually, she's sleeping if you can believe that." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/yoga_2.jpg" width="300" height="231">
 
   </a>
 
@@ -44,23 +44,9 @@ Here are some shots of how Gogo slept when she was a puppy. She used to love to 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/in_bed.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/in_bed.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/in_bed.jpg" width="350" height="280">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/naps.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/naps.jpg" width="400" height="249">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/in_bed.jpg" width="350" height="280">
 
   </a>
 
@@ -72,9 +58,23 @@ Here are some shots of how Gogo slept when she was a puppy. She used to love to 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/on_davids_arm.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/naps.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/on_davids_arm.jpg" width="350" height="211">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/naps.jpg" width="400" height="249">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/on_davids_arm.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/on_davids_arm.jpg" width="350" height="211">
 
   </a>
 

@@ -15,9 +15,9 @@ description: When we first renovated the living room, we had picked out a color 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/old_dining_table.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_dining_table.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/old_dining_table.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_dining_table.jpg" width="400" height="300">
 
   </a>
 
@@ -29,9 +29,9 @@ description: When we first renovated the living room, we had picked out a color 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo poses in front of the hole in the wall that will be the fireplace." target="_blank" href="/files/photos/renovation/living_room/old_gogo_fireplace.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo poses in front of the hole in the wall that will be the fireplace." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_gogo_fireplace.jpg">
 
-    <img class="journalPhoto" alt="Gogo poses in front of the hole in the wall that will be the fireplace." src="/files/photos/renovation/living_room/old_gogo_fireplace.jpg" width="400" height="407">
+    <img class="journalPhoto" alt="Gogo poses in front of the hole in the wall that will be the fireplace." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_gogo_fireplace.jpg" width="400" height="407">
 
   </a>
 
@@ -43,23 +43,9 @@ description: When we first renovated the living room, we had picked out a color 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/old_living_room.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_living_room.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/old_living_room.jpg" width="400" height="300">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/old_piano.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/old_piano.jpg" width="300" height="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_living_room.jpg" width="400" height="300">
 
   </a>
 
@@ -71,9 +57,23 @@ description: When we first renovated the living room, we had picked out a color 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/old_windows.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_piano.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/old_windows.jpg" width="300" height="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_piano.jpg" width="300" height="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_windows.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/old_windows.jpg" width="300" height="400">
 
   </a>
 
@@ -89,23 +89,9 @@ description: When we first renovated the living room, we had picked out a color 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/piano.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/piano.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/piano.jpg" width="300" height="225">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/west_wall.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/west_wall.jpg" width="250" height="333">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/piano.jpg" width="300" height="225">
 
   </a>
 
@@ -117,23 +103,9 @@ description: When we first renovated the living room, we had picked out a color 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/ne_corner.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/west_wall.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/ne_corner.jpg" width="300" height="225">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/north_wall.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/north_wall.jpg" width="250" height="333">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/west_wall.jpg" width="250" height="333">
 
   </a>
 
@@ -145,9 +117,37 @@ description: When we first renovated the living room, we had picked out a color 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/nw_corner.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/ne_corner.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/nw_corner.jpg" width="250" height="333">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/ne_corner.jpg" width="300" height="225">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/north_wall.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/north_wall.jpg" width="250" height="333">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/nw_corner.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/nw_corner.jpg" width="250" height="333">
 
   </a>
 
@@ -161,9 +161,9 @@ description: When we first renovated the living room, we had picked out a color 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/floor.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/floor.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/floor.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/floor.jpg" width="300" height="225">
 
   </a>
 
@@ -177,9 +177,9 @@ description: When we first renovated the living room, we had picked out a color 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/living_room/fireplace.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/fireplace.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/living_room/fireplace.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/living_room/fireplace.jpg" width="400" height="300">
 
   </a>
 

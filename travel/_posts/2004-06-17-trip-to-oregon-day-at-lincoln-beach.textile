@@ -17,9 +17,9 @@ description: One of my goals during my unemployment was to get back to Oregon fo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Dad and I along the beach" target="_blank" href="/files/photos/oregon/images/dad_keith_beach.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Dad and I along the beach" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/dad_keith_beach.jpg">
 
-    <img class="journalPhoto" alt="Dad and I along the beach" src="/files/photos/oregon/images/dad_keith_beach.jpg" width="500" height="377">
+    <img class="journalPhoto" alt="Dad and I along the beach" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/dad_keith_beach.jpg" width="500" height="377">
 
   </a>
 
@@ -33,9 +33,9 @@ description: One of my goals during my unemployment was to get back to Oregon fo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mom and I along the beach" target="_blank" href="/files/photos/oregon/images/mom_keith.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mom and I along the beach" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/mom_keith.jpg">
 
-    <img class="journalPhoto" alt="Mom and I along the beach" src="/files/photos/oregon/images/mom_keith.jpg" width="500" height="377">
+    <img class="journalPhoto" alt="Mom and I along the beach" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/mom_keith.jpg" width="500" height="377">
 
   </a>
 
@@ -47,9 +47,9 @@ description: One of my goals during my unemployment was to get back to Oregon fo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Just me" target="_blank" href="/files/photos/oregon/images/keith_beach.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Just me" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/keith_beach.jpg">
 
-    <img class="journalPhoto" alt="Just me" src="/files/photos/oregon/images/keith_beach.jpg" width="500" height="377">
+    <img class="journalPhoto" alt="Just me" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/keith_beach.jpg" width="500" height="377">
 
   </a>
 
@@ -61,9 +61,9 @@ description: One of my goals during my unemployment was to get back to Oregon fo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mom putting on her shoes" target="_blank" href="/files/photos/oregon/images/mom_shoes.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mom putting on her shoes" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/mom_shoes.jpg">
 
-    <img class="journalPhoto" alt="Mom putting on her shoes" src="/files/photos/oregon/images/mom_shoes.jpg" width="500" height="377">
+    <img class="journalPhoto" alt="Mom putting on her shoes" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/mom_shoes.jpg" width="500" height="377">
 
   </a>
 
@@ -77,9 +77,9 @@ description: One of my goals during my unemployment was to get back to Oregon fo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A squirrel on Charlene's patio" target="_blank" href="/files/photos/oregon/images/squirrel.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A squirrel on Charlene's patio" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/squirrel.jpg">
 
-    <img class="journalPhoto" alt="A squirrel on Charlene's patio" src="/files/photos/oregon/images/squirrel.jpg" width="500" height="377">
+    <img class="journalPhoto" alt="A squirrel on Charlene's patio" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/squirrel.jpg" width="500" height="377">
 
   </a>
 
@@ -93,9 +93,9 @@ description: One of my goals during my unemployment was to get back to Oregon fo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="At the Bay House" target="_blank" href="/files/photos/oregon/images/restaurant.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="At the Bay House" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/restaurant.jpg">
 
-    <img class="journalPhoto" alt="At the Bay House" src="/files/photos/oregon/images/restaurant.jpg" width="500" height="377">
+    <img class="journalPhoto" alt="At the Bay House" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/oregon/images/restaurant.jpg" width="500" height="377">
 
   </a>
 

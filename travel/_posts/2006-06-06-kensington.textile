@@ -17,9 +17,9 @@ description: The next two days in London were dedicated to shopping. And also to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Peter Pan Statue in Hyde Park" target="_blank" href="/files/photos/london/hydepark-peterpan-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Peter Pan Statue in Hyde Park" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/hydepark-peterpan-1.jpg">
 
-    <img class="journalPhoto" alt="A Peter Pan Statue in Hyde Park" src="/files/photos/london/hydepark-peterpan-1.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="A Peter Pan Statue in Hyde Park" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/hydepark-peterpan-1.jpg" height="400" width="266">
 
   </a>
 
@@ -39,9 +39,9 @@ description: The next two days in London were dedicated to shopping. And also to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Lobby of the Victoria Albert Museum. A mix of history and ultra modern." target="_blank" href="/files/photos/london/hydepark-victoriaalbertmuseum.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Lobby of the Victoria Albert Museum. A mix of history and ultra modern." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/hydepark-victoriaalbertmuseum.jpg">
 
-    <img class="journalPhoto" alt="The Lobby of the Victoria Albert Museum. A mix of history and ultra modern." src="/files/photos/london/hydepark-victoriaalbertmuseum.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The Lobby of the Victoria Albert Museum. A mix of history and ultra modern." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/hydepark-victoriaalbertmuseum.jpg" height="266" width="400">
 
   </a>
 

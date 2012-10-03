@@ -19,9 +19,9 @@ description: My second full day in Israel, I was on my own for the day again, so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view from the top of the Dead Sea" target="_blank" href="/files/photos/israel/masada-dead-sea.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view from the top of the Dead Sea" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-dead-sea.jpg">
 
-    <img class="journalPhoto" alt="A view from the top of the Dead Sea" src="/files/photos/israel/masada-dead-sea.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A view from the top of the Dead Sea" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-dead-sea.jpg" height="150" width="200">
 
   </a>
 
@@ -33,9 +33,9 @@ description: My second full day in Israel, I was on my own for the day again, so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the grainery in Masada" target="_blank" href="/files/photos/israel/masada-cable.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the grainery in Masada" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-cable.jpg">
 
-    <img class="journalPhoto" alt="A shot of the grainery in Masada" src="/files/photos/israel/masada-cable.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A shot of the grainery in Masada" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-cable.jpg" height="150" width="200">
 
   </a>
 
@@ -47,9 +47,9 @@ description: My second full day in Israel, I was on my own for the day again, so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Some of the original mosaic" target="_blank" href="/files/photos/israel/masada-mosaic-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Some of the original mosaic" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-mosaic-1.jpg">
 
-    <img class="journalPhoto" alt="Some of the original mosaic" src="/files/photos/israel/masada-mosaic-1.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Some of the original mosaic" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-mosaic-1.jpg" height="150" width="200">
 
   </a>
 
@@ -61,9 +61,9 @@ description: My second full day in Israel, I was on my own for the day again, so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More mosaic" target="_blank" href="/files/photos/israel/masada-mosaic-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More mosaic" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-mosaic-2.jpg">
 
-    <img class="journalPhoto" alt="More mosaic" src="/files/photos/israel/masada-mosaic-2.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="More mosaic" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-mosaic-2.jpg" height="150" width="200">
 
   </a>
 
@@ -79,9 +79,9 @@ description: My second full day in Israel, I was on my own for the day again, so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Caves of Qumran: Where they found the Dead Sea Scrolls" target="_blank" href="/files/photos/israel/masada-deadseascrolls.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Caves of Qumran: Where they found the Dead Sea Scrolls" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-deadseascrolls.jpg">
 
-    <img class="journalPhoto" alt="Caves of Qumran: Where they found the Dead Sea Scrolls" src="/files/photos/israel/masada-deadseascrolls.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Caves of Qumran: Where they found the Dead Sea Scrolls" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-deadseascrolls.jpg" height="150" width="200">
 
   </a>
 
@@ -93,9 +93,9 @@ description: My second full day in Israel, I was on my own for the day again, so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Bedouin Camp" target="_blank" href="/files/photos/israel/masada-bedouin.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Bedouin Camp" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-bedouin.jpg">
 
-    <img class="journalPhoto" alt="A Bedouin Camp" src="/files/photos/israel/masada-bedouin.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A Bedouin Camp" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/masada-bedouin.jpg" height="150" width="200">
 
   </a>
 

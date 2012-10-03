@@ -19,9 +19,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The gardens outside Buckingham Palace" target="_blank" href="/files/photos/london/buckingham-garden.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The gardens outside Buckingham Palace" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-garden.jpg">
 
-    <img class="journalPhoto" alt="The gardens outside Buckingham Palace" src="/files/photos/london/buckingham-garden.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The gardens outside Buckingham Palace" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-garden.jpg" height="266" width="400">
 
   </a>
 
@@ -33,9 +33,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A View of Buckingham Palace from the Front" target="_blank" href="/files/photos/london/buckingham-front.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A View of Buckingham Palace from the Front" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-front.jpg">
 
-    <img class="journalPhoto" alt="A View of Buckingham Palace from the Front" src="/files/photos/london/buckingham-front.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A View of Buckingham Palace from the Front" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-front.jpg" height="266" width="400">
 
   </a>
 
@@ -47,9 +47,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Parade for the Queen's Birthday" target="_blank" href="/files/photos/london/buckingham-parade1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Parade for the Queen's Birthday" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-parade1.jpg">
 
-    <img class="journalPhoto" alt="The Parade for the Queen's Birthday" src="/files/photos/london/buckingham-parade1.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The Parade for the Queen's Birthday" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-parade1.jpg" height="266" width="400">
 
   </a>
 
@@ -61,9 +61,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the Parade" target="_blank" href="/files/photos/london/buckingham-parade2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the Parade" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-parade2.jpg">
 
-    <img class="journalPhoto" alt="More of the Parade" src="/files/photos/london/buckingham-parade2.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="More of the Parade" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-parade2.jpg" height="266" width="400">
 
   </a>
 
@@ -77,9 +77,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="From the Park" target="_blank" href="/files/photos/london/buckingham-park.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="From the Park" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-park.jpg">
 
-    <img class="journalPhoto" alt="From the Park" src="/files/photos/london/buckingham-park.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="From the Park" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-park.jpg" height="266" width="400">
 
   </a>
 
@@ -91,9 +91,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Some Very Tame Pelicans" target="_blank" href="/files/photos/london/buckingham-pelicans.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Some Very Tame Pelicans" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-pelicans.jpg">
 
-    <img class="journalPhoto" alt="Some Very Tame Pelicans" src="/files/photos/london/buckingham-pelicans.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Some Very Tame Pelicans" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/buckingham-pelicans.jpg" height="266" width="400">
 
   </a>
 
@@ -107,9 +107,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The London Eye" target="_blank" href="/files/photos/london/thames-eye.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The London Eye" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/thames-eye.jpg">
 
-    <img class="journalPhoto" alt="The London Eye" src="/files/photos/london/thames-eye.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="The London Eye" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/thames-eye.jpg" height="400" width="266">
 
   </a>
 
@@ -121,9 +121,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The London Tower" target="_blank" href="/files/photos/london/thames-londontower.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The London Tower" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/thames-londontower.jpg">
 
-    <img class="journalPhoto" alt="The London Tower" src="/files/photos/london/thames-londontower.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The London Tower" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/thames-londontower.jpg" height="266" width="400">
 
   </a>
 
@@ -135,9 +135,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A View of St Paul's from the River" target="_blank" href="/files/photos/london/thames-stpaul.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A View of St Paul's from the River" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/thames-stpaul.jpg">
 
-    <img class="journalPhoto" alt="A View of St Paul's from the River" src="/files/photos/london/thames-stpaul.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A View of St Paul's from the River" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/thames-stpaul.jpg" height="266" width="400">
 
   </a>
 
@@ -151,9 +151,9 @@ description: Our next day in London, David was chomping at the bit to go to Oxfo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Where They Hung Bill Sykes" target="_blank" href="/files/photos/london/thames-oliver.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Where They Hung Bill Sykes" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/thames-oliver.jpg">
 
-    <img class="journalPhoto" alt="Where They Hung Bill Sykes" src="/files/photos/london/thames-oliver.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Where They Hung Bill Sykes" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/thames-oliver.jpg" height="266" width="400">
 
   </a>
 

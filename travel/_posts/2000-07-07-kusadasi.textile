@@ -3,7 +3,7 @@ layout: post
 title: Kusadasi
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 67
+  index: 7
 redirects: 
 - /node/554
 - /personal/travel/turkey/kusadasi
@@ -23,9 +23,9 @@ description: This stop is merely an excuse to see Ephesus
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ruins of Ephesus." target="_blank" href="/files/photos/cruise2000/ephesus.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ruins of Ephesus." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/ephesus.jpg">
 
-    <img class="journalPhoto" alt="The ruins of Ephesus." src="/files/photos/cruise2000/ephesus.jpg" height="320" width="240">
+    <img class="journalPhoto" alt="The ruins of Ephesus." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/ephesus.jpg" height="320" width="240">
 
   </a>
 
@@ -39,9 +39,9 @@ description: This stop is merely an excuse to see Ephesus
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The theater at Ephesus. It is still used for rock/music concerts." target="_blank" href="/files/photos/cruise2000/ephesus_theater.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The theater at Ephesus. It is still used for rock/music concerts." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/ephesus_theater.jpg">
 
-    <img class="journalPhoto" alt="The theater at Ephesus. It is still used for rock/music concerts." src="/files/photos/cruise2000/ephesus_theater.jpg" height="240" width="320">
+    <img class="journalPhoto" alt="The theater at Ephesus. It is still used for rock/music concerts." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/ephesus_theater.jpg" height="240" width="320">
 
   </a>
 
@@ -65,9 +65,9 @@ description: This stop is merely an excuse to see Ephesus
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Hadrian's Arch - one of the ruins of Ephesus." target="_blank" href="/files/photos/cruise2000/hadrians_arch.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Hadrian's Arch - one of the ruins of Ephesus." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/hadrians_arch.jpg">
 
-    <img class="journalPhoto" alt="Hadrian's Arch - one of the ruins of Ephesus." src="/files/photos/cruise2000/hadrians_arch.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="Hadrian's Arch - one of the ruins of Ephesus." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/hadrians_arch.jpg" height="300" width="400">
 
   </a>
 
@@ -81,9 +81,9 @@ description: This stop is merely an excuse to see Ephesus
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of Ephesus from St. John's Basilica." target="_blank" href="/files/photos/cruise2000/ephesus_view.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of Ephesus from St. John's Basilica." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/ephesus_view.jpg">
 
-    <img class="journalPhoto" alt="The view of Ephesus from St. John's Basilica." src="/files/photos/cruise2000/ephesus_view.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="The view of Ephesus from St. John's Basilica." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/ephesus_view.jpg" height="300" width="400">
 
   </a>
 

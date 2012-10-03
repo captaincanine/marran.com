@@ -49,9 +49,9 @@ ice cream, we went back to the hotel and I completely zonked out.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the Promenade des Anglais" target="_blank" href="/files/photos/provence/nice_promenade.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the Promenade des Anglais" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_promenade.jpg">
 
-    <img class="journalPhoto" alt="A view of the Promenade des Anglais" src="/files/photos/provence/nice_promenade.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="A view of the Promenade des Anglais" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/nice_promenade.jpg" height="300" width="400">
 
   </a>
 

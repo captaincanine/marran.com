@@ -26,7 +26,7 @@ This music doesn't work well out of context. It's meant to be listened form star
 <div class="download-box row">
   <div class="span4">
     <div class="title">
-      <i class="icon-download"></i><a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/Got%20Problems%20Baby%20Part%201.zip" target="_blank">Download <b>Got Problems, Baby? - Disc 1</b></a>
+      <i class="icon-download"></i><a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/media/got-problems-baby-1.zip" target="_blank">Download <b>Got Problems, Baby? - Disc 1</b></a>
     </div>
     <div class="details">80.6MB</div>
   </div>
@@ -35,7 +35,7 @@ This music doesn't work well out of context. It's meant to be listened form star
 <div class="download-box row">
   <div class="span4">
     <div class="title">
-      <i class="icon-download"></i><a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/Got%20Problems%20Baby%20Part%202.zip" target="_blank">Download <b>Got Problems, Baby? - Disc 2</b></a>
+      <i class="icon-download"></i><a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/media/got-problems-baby-2.zip" target="_blank">Download <b>Got Problems, Baby? - Disc 2</b></a>
     </div>
     <div class="details">83.5MB</div>
   </div>

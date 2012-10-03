@@ -16,9 +16,9 @@ description: I recently went into our bedroom looking for Gogo. She was nowhere 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The deadly moray eel emerges from its home." target="_blank" href="/files/photos/gogo/eel/lurking.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The deadly moray eel emerges from its home." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/lurking.jpg">
 
-    <img class="journalPhoto" alt="The deadly moray eel emerges from its home." src="/files/photos/gogo/eel/lurking.jpg" width="400" height="193">
+    <img class="journalPhoto" alt="The deadly moray eel emerges from its home." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/lurking.jpg" width="400" height="193">
 
   </a>
 
@@ -30,9 +30,9 @@ description: I recently went into our bedroom looking for Gogo. She was nowhere 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="We can see the head of the deadly moray eel." target="_blank" href="/files/photos/gogo/eel/emerging.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="We can see the head of the deadly moray eel." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/emerging.jpg">
 
-    <img class="journalPhoto" alt="We can see the head of the deadly moray eel." src="/files/photos/gogo/eel/emerging.jpg" width="400" height="188">
+    <img class="journalPhoto" alt="We can see the head of the deadly moray eel." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/emerging.jpg" width="400" height="188">
 
   </a>
 
@@ -44,9 +44,9 @@ description: I recently went into our bedroom looking for Gogo. She was nowhere 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our fearless explorer tries to coax the deadly moray eel out of its home." target="_blank" href="/files/photos/gogo/eel/coax.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our fearless explorer tries to coax the deadly moray eel out of its home." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/coax.jpg">
 
-    <img class="journalPhoto" alt="Our fearless explorer tries to coax the deadly moray eel out of its home." src="/files/photos/gogo/eel/coax.jpg" width="400" height="175">
+    <img class="journalPhoto" alt="Our fearless explorer tries to coax the deadly moray eel out of its home." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/coax.jpg" width="400" height="175">
 
   </a>
 
@@ -58,9 +58,9 @@ description: I recently went into our bedroom looking for Gogo. She was nowhere 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The deadly moray approaches it helpless victim, preparing for an attack!" target="_blank" href="/files/photos/gogo/eel/pouncing.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The deadly moray approaches it helpless victim, preparing for an attack!" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/pouncing.jpg">
 
-    <img class="journalPhoto" alt="The deadly moray approaches it helpless victim, preparing for an attack!" src="/files/photos/gogo/eel/pouncing.jpg" width="400" height="192">
+    <img class="journalPhoto" alt="The deadly moray approaches it helpless victim, preparing for an attack!" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/pouncing.jpg" width="400" height="192">
 
   </a>
 
@@ -72,9 +72,9 @@ description: I recently went into our bedroom looking for Gogo. She was nowhere 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The deadly moray eel viciously chews on its prey." target="_blank" href="/files/photos/gogo/eel/jaws.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The deadly moray eel viciously chews on its prey." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/jaws.jpg">
 
-    <img class="journalPhoto" alt="The deadly moray eel viciously chews on its prey." src="/files/photos/gogo/eel/jaws.jpg" width="400" height="218">
+    <img class="journalPhoto" alt="The deadly moray eel viciously chews on its prey." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eel/jaws.jpg" width="400" height="218">
 
   </a>
 

@@ -3,7 +3,7 @@ layout: post
 title: Last Day in Athens
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 61
+  index: 8
 redirects: 
 - /node/560
 - /personal/travel/greece/last-day-athens
@@ -33,9 +33,9 @@ description: We left the air conditioner running on high all night and my sheets
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the busts from the National Archeological Museum." target="_blank" href="/files/photos/cruise2000/athens_hadrian.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the busts from the National Archeological Museum." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_hadrian.jpg">
 
-    <img class="journalPhoto" alt="One of the busts from the National Archeological Museum." src="/files/photos/cruise2000/athens_hadrian.jpg" height="400" width="245">
+    <img class="journalPhoto" alt="One of the busts from the National Archeological Museum." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_hadrian.jpg" height="400" width="245">
 
   </a>
 
@@ -47,9 +47,9 @@ description: We left the air conditioner running on high all night and my sheets
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A cafe along the Agora. Notice the Acropolis in the distance. It's much more prominent and beautiful in person." target="_blank" href="/files/photos/cruise2000/athens_dinner.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A cafe along the Agora. Notice the Acropolis in the distance. It's much more prominent and beautiful in person." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_dinner.jpg">
 
-    <img class="journalPhoto" alt="A cafe along the Agora. Notice the Acropolis in the distance. It's much more prominent and beautiful in person." src="/files/photos/cruise2000/athens_dinner.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A cafe along the Agora. Notice the Acropolis in the distance. It's much more prominent and beautiful in person." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_dinner.jpg" height="266" width="400">
 
   </a>
 

@@ -3,7 +3,7 @@ layout: post
 title: Santorini
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 64
+  index: 11
 redirects: 
 - /node/557
 - /personal/travel/greece/santorini
@@ -15,9 +15,9 @@ description: It took David and me a while to get into the rhythm of the day. He 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from the restaurant where we had lunch in Santorini." target="_blank" href="/files/photos/cruise2000/santorini_lunch.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from the restaurant where we had lunch in Santorini." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/santorini_lunch.jpg">
 
-    <img class="journalPhoto" alt="The view from the restaurant where we had lunch in Santorini." src="/files/photos/cruise2000/santorini_lunch.jpg" height="480" width="360">
+    <img class="journalPhoto" alt="The view from the restaurant where we had lunch in Santorini." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/santorini_lunch.jpg" height="480" width="360">
 
   </a>
 
@@ -31,9 +31,9 @@ description: It took David and me a while to get into the rhythm of the day. He 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A church in Santorini." target="_blank" href="/files/photos/cruise2000/santorini_church.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A church in Santorini." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/santorini_church.jpg">
 
-    <img class="journalPhoto" alt="A church in Santorini." src="/files/photos/cruise2000/santorini_church.jpg" height="308" width="360">
+    <img class="journalPhoto" alt="A church in Santorini." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/santorini_church.jpg" height="308" width="360">
 
   </a>
 
@@ -47,9 +47,9 @@ description: It took David and me a while to get into the rhythm of the day. He 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The place where we walked down for coffee. This is a typical honeymoon spot." target="_blank" href="/files/photos/cruise2000/sanorini_io.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The place where we walked down for coffee. This is a typical honeymoon spot." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/sanorini_io.jpg">
 
-    <img class="journalPhoto" alt="The place where we walked down for coffee. This is a typical honeymoon spot." src="/files/photos/cruise2000/sanorini_io.jpg" height="480" width="360">
+    <img class="journalPhoto" alt="The place where we walked down for coffee. This is a typical honeymoon spot." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/sanorini_io.jpg" height="480" width="360">
 
   </a>
 

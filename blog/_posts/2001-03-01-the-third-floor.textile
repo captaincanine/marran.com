@@ -17,9 +17,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The bathroom. Once again, the stalls are gone. A jacuzzi bath will eventually go here." target="_blank" href="/files/photos/mission_home/third.bathroom.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The bathroom. Once again, the stalls are gone. A jacuzzi bath will eventually go here." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bathroom.jpg">
 
-    <img class="journalPhoto" alt="The bathroom. Once again, the stalls are gone. A jacuzzi bath will eventually go here." src="/files/photos/mission_home/third.bathroom.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="The bathroom. Once again, the stalls are gone. A jacuzzi bath will eventually go here." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bathroom.jpg" width="200" height="267">
 
   </a>
 
@@ -31,9 +31,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the many bedrooms. This one faces the back. You can see what the floor is originally. The verdict is still out as to what we're doing with the floors. Right now it's getting industrial carpet." target="_blank" href="/files/photos/mission_home/third.bedroom1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the many bedrooms. This one faces the back. You can see what the floor is originally. The verdict is still out as to what we're doing with the floors. Right now it's getting industrial carpet." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom1.jpg">
 
-    <img class="journalPhoto" alt="One of the many bedrooms. This one faces the back. You can see what the floor is originally. The verdict is still out as to what we're doing with the floors. Right now it's getting industrial carpet." src="/files/photos/mission_home/third.bedroom1.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="One of the many bedrooms. This one faces the back. You can see what the floor is originally. The verdict is still out as to what we're doing with the floors. Right now it's getting industrial carpet." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom1.jpg" width="200" height="267">
 
   </a>
 
@@ -45,9 +45,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This room and the one next to it are becoming the temporary kitchen. It will eventually become the Turkish room." target="_blank" href="/files/photos/mission_home/third.bedroom2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This room and the one next to it are becoming the temporary kitchen. It will eventually become the Turkish room." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom2.jpg">
 
-    <img class="journalPhoto" alt="This room and the one next to it are becoming the temporary kitchen. It will eventually become the Turkish room." src="/files/photos/mission_home/third.bedroom2.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="This room and the one next to it are becoming the temporary kitchen. It will eventually become the Turkish room." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom2.jpg" width="200" height="267">
 
   </a>
 
@@ -59,9 +59,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The room above Gogo's room. We aren't quite sure what to do with this room." target="_blank" href="/files/photos/mission_home/third.bedroom3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The room above Gogo's room. We aren't quite sure what to do with this room." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom3.jpg">
 
-    <img class="journalPhoto" alt="The room above Gogo's room. We aren't quite sure what to do with this room." src="/files/photos/mission_home/third.bedroom3.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="The room above Gogo's room. We aren't quite sure what to do with this room." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom3.jpg" width="200" height="267">
 
   </a>
 
@@ -73,9 +73,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This room and the one next to it will become the guest bedroom." target="_blank" href="/files/photos/mission_home/third.bedroom4.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This room and the one next to it will become the guest bedroom." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom4.jpg">
 
-    <img class="journalPhoto" alt="This room and the one next to it will become the guest bedroom." src="/files/photos/mission_home/third.bedroom4.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="This room and the one next to it will become the guest bedroom." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom4.jpg" width="200" height="267">
 
   </a>
 
@@ -87,9 +87,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Yet another bedroom." target="_blank" href="/files/photos/mission_home/third.bedroom5.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Yet another bedroom." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom5.jpg">
 
-    <img class="journalPhoto" alt="Yet another bedroom." src="/files/photos/mission_home/third.bedroom5.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="Yet another bedroom." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom5.jpg" width="200" height="267">
 
   </a>
 
@@ -101,9 +101,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of bedroom number five." target="_blank" href="/files/photos/mission_home/third.bedroom5_back.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of bedroom number five." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom5_back.jpg">
 
-    <img class="journalPhoto" alt="More of bedroom number five." src="/files/photos/mission_home/third.bedroom5_back.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="More of bedroom number five." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.bedroom5_back.jpg" width="200" height="267">
 
   </a>
 
@@ -115,9 +115,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The sixth and most glamorous room. No windows. What did they use it for? It will be our storage/linen closet. (And maybe a dark room someday when I take up photography.)" target="_blank" href="/files/photos/mission_home/third.dark_room.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The sixth and most glamorous room. No windows. What did they use it for? It will be our storage/linen closet. (And maybe a dark room someday when I take up photography.)" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.dark_room.jpg">
 
-    <img class="journalPhoto" alt="The sixth and most glamorous room. No windows. What did they use it for? It will be our storage/linen closet. (And maybe a dark room someday when I take up photography.)" src="/files/photos/mission_home/third.dark_room.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The sixth and most glamorous room. No windows. What did they use it for? It will be our storage/linen closet. (And maybe a dark room someday when I take up photography.)" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.dark_room.jpg" width="300" height="225">
 
   </a>
 
@@ -129,9 +129,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from the front." target="_blank" href="/files/photos/mission_home/third.front_view.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from the front." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.front_view.jpg">
 
-    <img class="journalPhoto" alt="The view from the front." src="/files/photos/mission_home/third.front_view.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The view from the front." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.front_view.jpg" width="300" height="225">
 
   </a>
 
@@ -143,9 +143,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view to the rear." target="_blank" href="/files/photos/mission_home/third.rear_view.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view to the rear." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.rear_view.jpg">
 
-    <img class="journalPhoto" alt="The view to the rear." src="/files/photos/mission_home/third.rear_view.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The view to the rear." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.rear_view.jpg" width="300" height="225">
 
   </a>
 
@@ -157,9 +157,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The former and future skylight. It's right above the center of the stairwell, so light will reach all the way down." target="_blank" href="/files/photos/mission_home/third.future_skylight.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The former and future skylight. It's right above the center of the stairwell, so light will reach all the way down." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.future_skylight.jpg">
 
-    <img class="journalPhoto" alt="The former and future skylight. It's right above the center of the stairwell, so light will reach all the way down." src="/files/photos/mission_home/third.future_skylight.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The former and future skylight. It's right above the center of the stairwell, so light will reach all the way down." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.future_skylight.jpg" width="300" height="225">
 
   </a>
 
@@ -171,9 +171,9 @@ description: The third and most confusing floor. It was split into a million roo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="And stairs taking you all the way back down." target="_blank" href="/files/photos/mission_home/third.stairs.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="And stairs taking you all the way back down." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.stairs.jpg">
 
-    <img class="journalPhoto" alt="And stairs taking you all the way back down." src="/files/photos/mission_home/third.stairs.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="And stairs taking you all the way back down." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/third.stairs.jpg" width="300" height="225">
 
   </a>
 

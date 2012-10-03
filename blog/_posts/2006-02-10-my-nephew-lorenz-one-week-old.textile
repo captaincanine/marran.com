@@ -16,9 +16,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Smile! You have no choice." target="_blank" href="/files/photos/lorenz/PICT0070.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Smile! You have no choice." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0070.jpg">
 
-    <img class="journalPhoto" alt="Smile! You have no choice." src="/files/photos/lorenz/PICT0070.jpg" width="300" height="200">
+    <img class="journalPhoto" alt="Smile! You have no choice." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0070.jpg" width="300" height="200">
 
   </a>
 
@@ -38,9 +38,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/PICT0047.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0047.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/PICT0047.jpg" width="300" height="200">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0047.jpg" width="300" height="200">
 
   </a>
 
@@ -56,9 +56,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Eugene with a chew toy." target="_blank" href="/files/photos/lorenz/PICT0044.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Eugene with a chew toy." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0044.jpg">
 
-    <img class="journalPhoto" alt="Eugene with a chew toy." src="/files/photos/lorenz/PICT0044.jpg" width="200" height="133">
+    <img class="journalPhoto" alt="Eugene with a chew toy." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0044.jpg" width="200" height="133">
 
   </a>
 
@@ -70,9 +70,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mel under the table - one of his favorite spots." target="_blank" href="/files/photos/lorenz/PICT0051.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mel under the table - one of his favorite spots." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0051.jpg">
 
-    <img class="journalPhoto" alt="Mel under the table - one of his favorite spots." src="/files/photos/lorenz/PICT0051.jpg" width="200" height="133">
+    <img class="journalPhoto" alt="Mel under the table - one of his favorite spots." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0051.jpg" width="200" height="133">
 
   </a>
 
@@ -84,9 +84,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mark holding Mel - the ORIGINAL baby" target="_blank" href="/files/photos/lorenz/PICT0045.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mark holding Mel - the ORIGINAL baby" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0045.jpg">
 
-    <img class="journalPhoto" alt="Mark holding Mel - the ORIGINAL baby" src="/files/photos/lorenz/PICT0045.jpg" width="133" height="200">
+    <img class="journalPhoto" alt="Mark holding Mel - the ORIGINAL baby" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0045.jpg" width="133" height="200">
 
   </a>
 
@@ -100,9 +100,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="In his diaper changing bed. He HATES having his diaper changed." target="_blank" href="/files/photos/lorenz/PICT0042.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="In his diaper changing bed. He HATES having his diaper changed." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0042.jpg">
 
-    <img class="journalPhoto" alt="In his diaper changing bed. He HATES having his diaper changed." src="/files/photos/lorenz/PICT0042.jpg" width="200" height="133">
+    <img class="journalPhoto" alt="In his diaper changing bed. He HATES having his diaper changed." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0042.jpg" width="200" height="133">
 
   </a>
 
@@ -114,9 +114,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Looking sly." target="_blank" href="/files/photos/lorenz/PICT0053.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Looking sly." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0053.jpg">
 
-    <img class="journalPhoto" alt="Looking sly." src="/files/photos/lorenz/PICT0053.jpg" width="200" height="133">
+    <img class="journalPhoto" alt="Looking sly." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0053.jpg" width="200" height="133">
 
   </a>
 
@@ -128,9 +128,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Sleepy" target="_blank" href="/files/photos/lorenz/PICT0057.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Sleepy" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0057.jpg">
 
-    <img class="journalPhoto" alt="Sleepy" src="/files/photos/lorenz/PICT0057.jpg" width="200" height="133">
+    <img class="journalPhoto" alt="Sleepy" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0057.jpg" width="200" height="133">
 
   </a>
 
@@ -142,9 +142,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="In a beautiful hat and sweater knitted by Mary Lou Reich." target="_blank" href="/files/photos/lorenz/PICT0068.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="In a beautiful hat and sweater knitted by Mary Lou Reich." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0068.jpg">
 
-    <img class="journalPhoto" alt="In a beautiful hat and sweater knitted by Mary Lou Reich." src="/files/photos/lorenz/PICT0068.jpg" width="133" height="200">
+    <img class="journalPhoto" alt="In a beautiful hat and sweater knitted by Mary Lou Reich." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0068.jpg" width="133" height="200">
 
   </a>
 
@@ -156,9 +156,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="We took a picture because he looked like all butt." target="_blank" href="/files/photos/lorenz/PICT0075.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="We took a picture because he looked like all butt." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0075.jpg">
 
-    <img class="journalPhoto" alt="We took a picture because he looked like all butt." src="/files/photos/lorenz/PICT0075.jpg" width="200" height="133">
+    <img class="journalPhoto" alt="We took a picture because he looked like all butt." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0075.jpg" width="200" height="133">
 
   </a>
 
@@ -172,9 +172,9 @@ description: Is this the most flattering picture in the first week of Lorenz' li
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/PICT0073.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0073.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/PICT0073.jpg" width="400" height="284">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/PICT0073.jpg" width="400" height="284">
 
   </a>
 

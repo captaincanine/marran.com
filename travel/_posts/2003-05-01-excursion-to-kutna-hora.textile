@@ -15,9 +15,9 @@ description: I had heard a lot of the ossuary at Kutna Hora. So we found an excu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="St. Barbara's Cathedral in Kutna Hora" target="_blank" href="/files/photos/prague/st_barbara.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="St. Barbara's Cathedral in Kutna Hora" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/st_barbara.jpg">
 
-    <img class="journalPhoto" alt="St. Barbara's Cathedral in Kutna Hora" src="/files/photos/prague/st_barbara.jpg" height="761" width="550">
+    <img class="journalPhoto" alt="St. Barbara's Cathedral in Kutna Hora" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/st_barbara.jpg" height="761" width="550">
 
   </a>
 
@@ -29,9 +29,9 @@ description: I had heard a lot of the ossuary at Kutna Hora. So we found an excu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The walk along the old wall in Kutna Hora" target="_blank" href="/files/photos/prague/kutna_hora_road.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The walk along the old wall in Kutna Hora" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/kutna_hora_road.jpg">
 
-    <img class="journalPhoto" alt="The walk along the old wall in Kutna Hora" src="/files/photos/prague/kutna_hora_road.jpg" height="412" width="600">
+    <img class="journalPhoto" alt="The walk along the old wall in Kutna Hora" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/kutna_hora_road.jpg" height="412" width="600">
 
   </a>
 
@@ -45,9 +45,9 @@ description: I had heard a lot of the ossuary at Kutna Hora. So we found an excu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ossuary" target="_blank" href="/files/photos/prague/ossuary.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ossuary" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary.jpg">
 
-    <img class="journalPhoto" alt="The ossuary" src="/files/photos/prague/ossuary.jpg" height="577" width="600">
+    <img class="journalPhoto" alt="The ossuary" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary.jpg" height="577" width="600">
 
   </a>
 
@@ -59,9 +59,9 @@ description: I had heard a lot of the ossuary at Kutna Hora. So we found an excu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A stack of bones" target="_blank" href="/files/photos/prague/ossuary_stack.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A stack of bones" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_stack.jpg">
 
-    <img class="journalPhoto" alt="A stack of bones" src="/files/photos/prague/ossuary_stack.jpg" height="781" width="550">
+    <img class="journalPhoto" alt="A stack of bones" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_stack.jpg" height="781" width="550">
 
   </a>
 
@@ -73,9 +73,9 @@ description: I had heard a lot of the ossuary at Kutna Hora. So we found an excu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="An urn made of bones" target="_blank" href="/files/photos/prague/ossuary_urn.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="An urn made of bones" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_urn.jpg">
 
-    <img class="journalPhoto" alt="An urn made of bones" src="/files/photos/prague/ossuary_urn.jpg" height="667" width="500">
+    <img class="journalPhoto" alt="An urn made of bones" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_urn.jpg" height="667" width="500">
 
   </a>
 
@@ -87,9 +87,9 @@ description: I had heard a lot of the ossuary at Kutna Hora. So we found an excu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A coat of arms" target="_blank" href="/files/photos/prague/ossuary_coat.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A coat of arms" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_coat.jpg">
 
-    <img class="journalPhoto" alt="A coat of arms" src="/files/photos/prague/ossuary_coat.jpg" height="742" width="450">
+    <img class="journalPhoto" alt="A coat of arms" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_coat.jpg" height="742" width="450">
 
   </a>
 
@@ -101,9 +101,9 @@ description: I had heard a lot of the ossuary at Kutna Hora. So we found an excu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is a part of the coat of arms. It's an image of a bird picking out an eye of a Turk to celebrate the defeat of the Turks." target="_blank" href="/files/photos/prague/ossuary_turk.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is a part of the coat of arms. It's an image of a bird picking out an eye of a Turk to celebrate the defeat of the Turks." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_turk.jpg">
 
-    <img class="journalPhoto" alt="This is a part of the coat of arms. It's an image of a bird picking out an eye of a Turk to celebrate the defeat of the Turks." src="/files/photos/prague/ossuary_turk.jpg" height="527" width="600">
+    <img class="journalPhoto" alt="This is a part of the coat of arms. It's an image of a bird picking out an eye of a Turk to celebrate the defeat of the Turks." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_turk.jpg" height="527" width="600">
 
   </a>
 
@@ -121,9 +121,9 @@ description: I had heard a lot of the ossuary at Kutna Hora. So we found an excu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A chandelier using at least one of every human bone" target="_blank" href="/files/photos/prague/ossuary_chandelier.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A chandelier using at least one of every human bone" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_chandelier.jpg">
 
-    <img class="journalPhoto" alt="A chandelier using at least one of every human bone" src="/files/photos/prague/ossuary_chandelier.jpg" height="728" width="600">
+    <img class="journalPhoto" alt="A chandelier using at least one of every human bone" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/ossuary_chandelier.jpg" height="728" width="600">
 
   </a>
 

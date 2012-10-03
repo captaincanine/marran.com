@@ -3,7 +3,7 @@ layout: post
 title: First Day in Istanbul
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 70
+  index: 5
 redirects: 
 - /node/551
 - /personal/travel/turkey/first-day-istanbul
@@ -25,9 +25,9 @@ description: The hotel is very nice. For breakfast there was a fresh honeycomb d
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the base of one of the pillars in the cistern - an upside down sculpture of the head of medusa." target="_blank" href="/files/photos/cruise2000/cistern_medusa.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the base of one of the pillars in the cistern - an upside down sculpture of the head of medusa." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/cistern_medusa.jpg">
 
-    <img class="journalPhoto" alt="This is the base of one of the pillars in the cistern - an upside down sculpture of the head of medusa." src="/files/photos/cruise2000/cistern_medusa.jpg" height="340" width="351">
+    <img class="journalPhoto" alt="This is the base of one of the pillars in the cistern - an upside down sculpture of the head of medusa." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/cistern_medusa.jpg" height="340" width="351">
 
   </a>
 
@@ -49,9 +49,9 @@ description: The hotel is very nice. For breakfast there was a fresh honeycomb d
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another column in the cistern - this one with a teardrop pattern." target="_blank" href="/files/photos/cruise2000/cistern_teardrop.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another column in the cistern - this one with a teardrop pattern." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/cistern_teardrop.jpg">
 
-    <img class="journalPhoto" alt="Another column in the cistern - this one with a teardrop pattern." src="/files/photos/cruise2000/cistern_teardrop.jpg" height="424" width="213">
+    <img class="journalPhoto" alt="Another column in the cistern - this one with a teardrop pattern." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/cistern_teardrop.jpg" height="424" width="213">
 
   </a>
 
@@ -65,9 +65,9 @@ description: The hotel is very nice. For breakfast there was a fresh honeycomb d
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the Blue Mosque." target="_blank" href="/files/photos/cruise2000/blue_mosque.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the Blue Mosque." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/blue_mosque.jpg">
 
-    <img class="journalPhoto" alt="The entrance to the Blue Mosque." src="/files/photos/cruise2000/blue_mosque.jpg" height="512" width="333">
+    <img class="journalPhoto" alt="The entrance to the Blue Mosque." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/blue_mosque.jpg" height="512" width="333">
 
   </a>
 
@@ -89,9 +89,9 @@ description: The hotel is very nice. For breakfast there was a fresh honeycomb d
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="I was trying to capture some of the detail from the ceiling of the courtyard of the Blue Mosque." target="_blank" href="/files/photos/cruise2000/blue_mosque_courtyard.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="I was trying to capture some of the detail from the ceiling of the courtyard of the Blue Mosque." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/blue_mosque_courtyard.jpg">
 
-    <img class="journalPhoto" alt="I was trying to capture some of the detail from the ceiling of the courtyard of the Blue Mosque." src="/files/photos/cruise2000/blue_mosque_courtyard.jpg" height="384" width="383">
+    <img class="journalPhoto" alt="I was trying to capture some of the detail from the ceiling of the courtyard of the Blue Mosque." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/blue_mosque_courtyard.jpg" height="384" width="383">
 
   </a>
 
@@ -105,9 +105,9 @@ description: The hotel is very nice. For breakfast there was a fresh honeycomb d
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is a composite of three photos of the Blue Mosque. The man you see is praying." target="_blank" href="/files/photos/cruise2000/blue_mosque_prayer.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is a composite of three photos of the Blue Mosque. The man you see is praying." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/blue_mosque_prayer.jpg">
 
-    <img class="journalPhoto" alt="This is a composite of three photos of the Blue Mosque. The man you see is praying." src="/files/photos/cruise2000/blue_mosque_prayer.jpg" height="427" width="490">
+    <img class="journalPhoto" alt="This is a composite of three photos of the Blue Mosque. The man you see is praying." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/blue_mosque_prayer.jpg" height="427" width="490">
 
   </a>
 
@@ -121,9 +121,9 @@ description: The hotel is very nice. For breakfast there was a fresh honeycomb d
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the Blue Mosque." target="_blank" href="/files/photos/cruise2000/blue_mosque_ceiling.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling of the Blue Mosque." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/blue_mosque_ceiling.jpg">
 
-    <img class="journalPhoto" alt="The ceiling of the Blue Mosque." src="/files/photos/cruise2000/blue_mosque_ceiling.jpg" height="384" width="512">
+    <img class="journalPhoto" alt="The ceiling of the Blue Mosque." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/blue_mosque_ceiling.jpg" height="384" width="512">
 
   </a>
 
