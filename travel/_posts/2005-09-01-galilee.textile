@@ -15,9 +15,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front of the Church of the Annnunciation" target="_blank" href="/files/photos/israel/galilee-annunciation-front.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front of the Church of the Annnunciation" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-annunciation-front.jpg">
 
-    <img class="journalPhoto" alt="The front of the Church of the Annnunciation" src="/files/photos/israel/galilee-annunciation-front.jpg" height="200" width="149">
+    <img class="journalPhoto" alt="The front of the Church of the Annnunciation" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-annunciation-front.jpg" height="200" width="149">
 
   </a>
 
@@ -29,9 +29,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the church you can see a bit of the original church left over" target="_blank" href="/files/photos/israel/galilee-annunciation-inside.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the church you can see a bit of the original church left over" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-annunciation-inside.jpg">
 
-    <img class="journalPhoto" alt="Inside the church you can see a bit of the original church left over" src="/files/photos/israel/galilee-annunciation-inside.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Inside the church you can see a bit of the original church left over" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-annunciation-inside.jpg" height="150" width="200">
 
   </a>
 
@@ -43,9 +43,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The outside of the Church of the Annunciation" target="_blank" href="/files/photos/israel/galilee-annunciation-back.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The outside of the Church of the Annunciation" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-annunciation-back.jpg">
 
-    <img class="journalPhoto" alt="The outside of the Church of the Annunciation" src="/files/photos/israel/galilee-annunciation-back.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The outside of the Church of the Annunciation" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-annunciation-back.jpg" height="150" width="200">
 
   </a>
 
@@ -61,9 +61,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mosaic of loaves and fishes" target="_blank" href="/files/photos/israel/galilee-loaves-and-fishes.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mosaic of loaves and fishes" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-loaves-and-fishes.jpg">
 
-    <img class="journalPhoto" alt="A mosaic of loaves and fishes" src="/files/photos/israel/galilee-loaves-and-fishes.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A mosaic of loaves and fishes" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-loaves-and-fishes.jpg" height="150" width="200">
 
   </a>
 
@@ -77,9 +77,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The rock of the Church of the Primacy of Peter" target="_blank" href="/files/photos/israel/galilee-rock.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The rock of the Church of the Primacy of Peter" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-rock.jpg">
 
-    <img class="journalPhoto" alt="The rock of the Church of the Primacy of Peter" src="/files/photos/israel/galilee-rock.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The rock of the Church of the Primacy of Peter" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-rock.jpg" height="200" width="150">
 
   </a>
 
@@ -91,9 +91,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the Galilee" target="_blank" href="/files/photos/israel/galilee-walk-on-water.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the Galilee" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-walk-on-water.jpg">
 
-    <img class="journalPhoto" alt="A view of the Galilee" src="/files/photos/israel/galilee-walk-on-water.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A view of the Galilee" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-walk-on-water.jpg" height="150" width="200">
 
   </a>
 
@@ -107,9 +107,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Roman ruins of Capernaum" target="_blank" href="/files/photos/israel/galilee-synagogue.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Roman ruins of Capernaum" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-synagogue.jpg">
 
-    <img class="journalPhoto" alt="The Roman ruins of Capernaum" src="/files/photos/israel/galilee-synagogue.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Roman ruins of Capernaum" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-synagogue.jpg" height="150" width="200">
 
   </a>
 
@@ -121,9 +121,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The synagogue" target="_blank" href="/files/photos/israel/galilee-synagogue-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The synagogue" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-synagogue-2.jpg">
 
-    <img class="journalPhoto" alt="The synagogue" src="/files/photos/israel/galilee-synagogue-2.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The synagogue" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-synagogue-2.jpg" height="200" width="150">
 
   </a>
 
@@ -135,9 +135,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another shot of the synagogue" target="_blank" href="/files/photos/israel/galilee-synagogue-3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another shot of the synagogue" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-synagogue-3.jpg">
 
-    <img class="journalPhoto" alt="Another shot of the synagogue" src="/files/photos/israel/galilee-synagogue-3.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Another shot of the synagogue" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-synagogue-3.jpg" height="150" width="200">
 
   </a>
 
@@ -149,9 +149,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The remains of Simon Peter's House" target="_blank" href="/files/photos/israel/galilee-jesus-house.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The remains of Simon Peter's House" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-jesus-house.jpg">
 
-    <img class="journalPhoto" alt="The remains of Simon Peter's House" src="/files/photos/israel/galilee-jesus-house.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The remains of Simon Peter's House" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-jesus-house.jpg" height="150" width="200">
 
   </a>
 
@@ -167,9 +167,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Facing south from the location" target="_blank" href="/files/photos/israel/galilee-baptism-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Facing south from the location" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-baptism-1.jpg">
 
-    <img class="journalPhoto" alt="Facing south from the location" src="/files/photos/israel/galilee-baptism-1.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Facing south from the location" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-baptism-1.jpg" height="200" width="150">
 
   </a>
 
@@ -181,9 +181,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Facing north from the location" target="_blank" href="/files/photos/israel/galilee-baptism-3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Facing north from the location" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-baptism-3.jpg">
 
-    <img class="journalPhoto" alt="Facing north from the location" src="/files/photos/israel/galilee-baptism-3.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Facing north from the location" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-baptism-3.jpg" height="150" width="200">
 
   </a>
 
@@ -195,9 +195,9 @@ description: On our first full day, I took a tour to the Sea of Galilee to see s
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The site of a baptism" target="_blank" href="/files/photos/israel/galilee-baptism.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The site of a baptism" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-baptism.jpg">
 
-    <img class="journalPhoto" alt="The site of a baptism" src="/files/photos/israel/galilee-baptism.jpg" height="152" width="200">
+    <img class="journalPhoto" alt="The site of a baptism" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/galilee-baptism.jpg" height="152" width="200">
 
   </a>
 

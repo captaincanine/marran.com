@@ -3,7 +3,7 @@ layout: post
 title: Mykonos
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 63
+  index: 9
 redirects: 
 - /node/558
 - /personal/travel/greece/mykonos
@@ -15,9 +15,9 @@ description: The last day of the cruise. Getting the bill in the room is a real 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main town of Mykonos. David, Brian, Neal and Earl Bobby of Memphis." target="_blank" href="/files/photos/cruise2000/mykonos.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main town of Mykonos. David, Brian, Neal and Earl Bobby of Memphis." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/mykonos.jpg">
 
-    <img class="journalPhoto" alt="The main town of Mykonos. David, Brian, Neal and Earl Bobby of Memphis." src="/files/photos/cruise2000/mykonos.jpg" height="240" width="320">
+    <img class="journalPhoto" alt="The main town of Mykonos. David, Brian, Neal and Earl Bobby of Memphis." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/mykonos.jpg" height="240" width="320">
 
   </a>
 

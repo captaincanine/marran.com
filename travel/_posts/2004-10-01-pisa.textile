@@ -15,9 +15,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Piazza del Duomo" target="_blank" href="/files/photos/tuscany/pisa.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Piazza del Duomo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa.jpg">
 
-    <img class="journalPhoto" alt="The Piazza del Duomo" src="/files/photos/tuscany/pisa.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The Piazza del Duomo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa.jpg" height="200" width="150">
 
   </a>
 
@@ -29,9 +29,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Piazza del Duomo from another angle" target="_blank" href="/files/photos/tuscany/pisa2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Piazza del Duomo from another angle" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa2.jpg">
 
-    <img class="journalPhoto" alt="The Piazza del Duomo from another angle" src="/files/photos/tuscany/pisa2.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The Piazza del Duomo from another angle" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa2.jpg" height="150" width="200">
 
   </a>
 
@@ -43,9 +43,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Tower" target="_blank" href="/files/photos/tuscany/pisa_tower.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Tower" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_tower.jpg">
 
-    <img class="journalPhoto" alt="The Tower" src="/files/photos/tuscany/pisa_tower.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The Tower" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_tower.jpg" height="200" width="150">
 
   </a>
 
@@ -59,9 +59,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the cathedral" target="_blank" href="/files/photos/tuscany/pisa_cathedral10.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the cathedral" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral10.jpg">
 
-    <img class="journalPhoto" alt="The entrance to the cathedral" src="/files/photos/tuscany/pisa_cathedral10.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The entrance to the cathedral" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral10.jpg" height="200" width="150">
 
   </a>
 
@@ -73,9 +73,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the cathedral" target="_blank" href="/files/photos/tuscany/pisa_cathedral1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Inside the cathedral" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral1.jpg">
 
-    <img class="journalPhoto" alt="Inside the cathedral" src="/files/photos/tuscany/pisa_cathedral1.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Inside the cathedral" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral1.jpg" height="200" width="150">
 
   </a>
 
@@ -87,9 +87,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the inside" target="_blank" href="/files/photos/tuscany/pisa_cathedral2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the inside" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral2.jpg">
 
-    <img class="journalPhoto" alt="More of the inside" src="/files/photos/tuscany/pisa_cathedral2.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="More of the inside" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral2.jpg" height="200" width="150">
 
   </a>
 
@@ -101,9 +101,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A chandelier" target="_blank" href="/files/photos/tuscany/pisa_cathedral3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A chandelier" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral3.jpg">
 
-    <img class="journalPhoto" alt="A chandelier" src="/files/photos/tuscany/pisa_cathedral3.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A chandelier" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral3.jpg" height="200" width="150">
 
   </a>
 
@@ -115,9 +115,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Trying to give you some perspective as to how big the place feels" target="_blank" href="/files/photos/tuscany/pisa_cathedral4.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Trying to give you some perspective as to how big the place feels" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral4.jpg">
 
-    <img class="journalPhoto" alt="Trying to give you some perspective as to how big the place feels" src="/files/photos/tuscany/pisa_cathedral4.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Trying to give you some perspective as to how big the place feels" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral4.jpg" height="200" width="150">
 
   </a>
 
@@ -129,9 +129,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mosaic" target="_blank" href="/files/photos/tuscany/pisa_cathedral5.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mosaic" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral5.jpg">
 
-    <img class="journalPhoto" alt="A mosaic" src="/files/photos/tuscany/pisa_cathedral5.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A mosaic" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral5.jpg" height="200" width="150">
 
   </a>
 
@@ -143,9 +143,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="An intricately carved marble pulpit" target="_blank" href="/files/photos/tuscany/pisa_cathedral6.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="An intricately carved marble pulpit" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral6.jpg">
 
-    <img class="journalPhoto" alt="An intricately carved marble pulpit" src="/files/photos/tuscany/pisa_cathedral6.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="An intricately carved marble pulpit" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral6.jpg" height="200" width="150">
 
   </a>
 
@@ -157,9 +157,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling, the pulpit, the chandelier" target="_blank" href="/files/photos/tuscany/pisa_cathedral7.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The ceiling, the pulpit, the chandelier" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral7.jpg">
 
-    <img class="journalPhoto" alt="The ceiling, the pulpit, the chandelier" src="/files/photos/tuscany/pisa_cathedral7.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The ceiling, the pulpit, the chandelier" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral7.jpg" height="200" width="150">
 
   </a>
 
@@ -171,9 +171,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another corner of the cathedral" target="_blank" href="/files/photos/tuscany/pisa_cathedral8.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another corner of the cathedral" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral8.jpg">
 
-    <img class="journalPhoto" alt="Another corner of the cathedral" src="/files/photos/tuscany/pisa_cathedral8.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Another corner of the cathedral" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral8.jpg" height="200" width="150">
 
   </a>
 
@@ -185,9 +185,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The moorish influence" target="_blank" href="/files/photos/tuscany/pisa_cathedral9.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The moorish influence" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral9.jpg">
 
-    <img class="journalPhoto" alt="The moorish influence" src="/files/photos/tuscany/pisa_cathedral9.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The moorish influence" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_cathedral9.jpg" height="200" width="150">
 
   </a>
 
@@ -201,9 +201,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The outside of the baptistry" target="_blank" href="/files/photos/tuscany/pisa_baptistry.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The outside of the baptistry" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry.jpg">
 
-    <img class="journalPhoto" alt="The outside of the baptistry" src="/files/photos/tuscany/pisa_baptistry.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The outside of the baptistry" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry.jpg" height="200" width="150">
 
   </a>
 
@@ -215,9 +215,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the baptistry" target="_blank" href="/files/photos/tuscany/pisa_baptistry2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the baptistry" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry2.jpg">
 
-    <img class="journalPhoto" alt="The entrance to the baptistry" src="/files/photos/tuscany/pisa_baptistry2.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The entrance to the baptistry" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry2.jpg" height="150" width="200">
 
   </a>
 
@@ -229,9 +229,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Intricate marble inlay" target="_blank" href="/files/photos/tuscany/pisa_baptistry3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Intricate marble inlay" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry3.jpg">
 
-    <img class="journalPhoto" alt="Intricate marble inlay" src="/files/photos/tuscany/pisa_baptistry3.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Intricate marble inlay" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry3.jpg" height="150" width="200">
 
   </a>
 
@@ -243,9 +243,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="You definitely see the Arabic influence" target="_blank" href="/files/photos/tuscany/pisa_baptistry4.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="You definitely see the Arabic influence" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry4.jpg">
 
-    <img class="journalPhoto" alt="You definitely see the Arabic influence" src="/files/photos/tuscany/pisa_baptistry4.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="You definitely see the Arabic influence" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry4.jpg" height="150" width="200">
 
   </a>
 
@@ -257,9 +257,9 @@ description: The subtitle of a trip to Pisa should be "Come for the Tower. Stay 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More stunning marble work" target="_blank" href="/files/photos/tuscany/pisa_baptistry5.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More stunning marble work" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry5.jpg">
 
-    <img class="journalPhoto" alt="More stunning marble work" src="/files/photos/tuscany/pisa_baptistry5.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="More stunning marble work" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/pisa_baptistry5.jpg" height="150" width="200">
 
   </a>
 

@@ -21,9 +21,9 @@ come back.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of Chateau Barben" target="_blank" href="/files/photos/provence/chateau_barben.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of Chateau Barben" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/chateau_barben.jpg">
 
-    <img class="journalPhoto" alt="A view of Chateau Barben" src="/files/photos/provence/chateau_barben.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="A view of Chateau Barben" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/chateau_barben.jpg" height="450" width="600">
 
   </a>
 
@@ -49,9 +49,9 @@ leather had designs imprinted upon it and was original to the Chateau.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The grounds of Chateau Barben" target="_blank" href="/files/photos/provence/chateau_barben_river.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The grounds of Chateau Barben" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/chateau_barben_river.jpg">
 
-    <img class="journalPhoto" alt="The grounds of Chateau Barben" src="/files/photos/provence/chateau_barben_river.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="The grounds of Chateau Barben" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/chateau_barben_river.jpg" height="450" width="600">
 
   </a>
 
@@ -63,9 +63,9 @@ leather had designs imprinted upon it and was original to the Chateau.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/provence/chateau_barben_garden.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/chateau_barben_garden.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/provence/chateau_barben_garden.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/chateau_barben_garden.jpg" height="450" width="600">
 
   </a>
 
@@ -77,9 +77,9 @@ leather had designs imprinted upon it and was original to the Chateau.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/provence/chateau_barben_garden_2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/chateau_barben_garden_2.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/provence/chateau_barben_garden_2.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/chateau_barben_garden_2.jpg" height="450" width="600">
 
   </a>
 

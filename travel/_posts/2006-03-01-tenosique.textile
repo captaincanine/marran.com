@@ -15,9 +15,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A couple of jaguar dancers" target="_blank" href="/files/photos/chiapas/tenosique-jaguars.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A couple of jaguar dancers" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-jaguars.jpg">
 
-    <img class="journalPhoto" alt="A couple of jaguar dancers" src="/files/photos/chiapas/tenosique-jaguars.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A couple of jaguar dancers" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-jaguars.jpg" height="266" width="400">
 
   </a>
 
@@ -31,9 +31,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our guide trying on a Cojo mask" target="_blank" href="/files/photos/chiapas/tenosique-preparations.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our guide trying on a Cojo mask" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-preparations.jpg">
 
-    <img class="journalPhoto" alt="Our guide trying on a Cojo mask" src="/files/photos/chiapas/tenosique-preparations.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Our guide trying on a Cojo mask" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-preparations.jpg" height="266" width="400">
 
   </a>
 
@@ -45,9 +45,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A family preparing and posing for us" target="_blank" href="/files/photos/chiapas/tenosique-preparations-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A family preparing and posing for us" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-preparations-1.jpg">
 
-    <img class="journalPhoto" alt="A family preparing and posing for us" src="/files/photos/chiapas/tenosique-preparations-1.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A family preparing and posing for us" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-preparations-1.jpg" height="266" width="400">
 
   </a>
 
@@ -59,9 +59,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mom is helping the family prepare" target="_blank" href="/files/photos/chiapas/tenosique-preparations-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Mom is helping the family prepare" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-preparations-2.jpg">
 
-    <img class="journalPhoto" alt="Mom is helping the family prepare" src="/files/photos/chiapas/tenosique-preparations-2.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Mom is helping the family prepare" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-preparations-2.jpg" height="266" width="400">
 
   </a>
 
@@ -73,9 +73,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David is the one wearing a mask" target="_blank" href="/files/photos/chiapas/tenosique-davidmask.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David is the one wearing a mask" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-davidmask.jpg">
 
-    <img class="journalPhoto" alt="David is the one wearing a mask" src="/files/photos/chiapas/tenosique-davidmask.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="David is the one wearing a mask" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-davidmask.jpg" height="266" width="400">
 
   </a>
 
@@ -89,9 +89,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="People are starting to gather for the dance" target="_blank" href="/files/photos/chiapas/tenosique-cojos.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="People are starting to gather for the dance" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-cojos.jpg">
 
-    <img class="journalPhoto" alt="People are starting to gather for the dance" src="/files/photos/chiapas/tenosique-cojos.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="People are starting to gather for the dance" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-cojos.jpg" height="266" width="400">
 
   </a>
 
@@ -103,9 +103,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A pair of Cojos" target="_blank" href="/files/photos/chiapas/tenosique-cojos-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A pair of Cojos" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-cojos-1.jpg">
 
-    <img class="journalPhoto" alt="A pair of Cojos" src="/files/photos/chiapas/tenosique-cojos-1.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="A pair of Cojos" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-cojos-1.jpg" height="400" width="266">
 
   </a>
 
@@ -117,9 +117,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David posing with a Cojo" target="_blank" href="/files/photos/chiapas/tenosique-davidandcojo.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David posing with a Cojo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-davidandcojo.jpg">
 
-    <img class="journalPhoto" alt="David posing with a Cojo" src="/files/photos/chiapas/tenosique-davidandcojo.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="David posing with a Cojo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-davidandcojo.jpg" height="400" width="266">
 
   </a>
 
@@ -133,9 +133,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Alessio and his friends" target="_blank" href="/files/photos/chiapas/tenosique-alessio.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Alessio and his friends" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-alessio.jpg">
 
-    <img class="journalPhoto" alt="Alessio and his friends" src="/files/photos/chiapas/tenosique-alessio.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Alessio and his friends" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-alessio.jpg" height="266" width="400">
 
   </a>
 
@@ -149,9 +149,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The dance" target="_blank" href="/files/photos/chiapas/tenosique-dance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The dance" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-dance.jpg">
 
-    <img class="journalPhoto" alt="The dance" src="/files/photos/chiapas/tenosique-dance.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The dance" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-dance.jpg" height="266" width="400">
 
   </a>
 
@@ -163,23 +163,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More dancing" target="_blank" href="/files/photos/chiapas/tenosique-dance-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More dancing" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-dance-1.jpg">
 
-    <img class="journalPhoto" alt="More dancing" src="/files/photos/chiapas/tenosique-dance-1.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption">More dancing</div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More dancing" target="_blank" href="/files/photos/chiapas/tenosique-dance-2.jpg">
-
-    <img class="journalPhoto" alt="More dancing" src="/files/photos/chiapas/tenosique-dance-2.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="More dancing" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-dance-1.jpg" height="266" width="400">
 
   </a>
 
@@ -191,9 +177,23 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Part of the ritual that I didn't understand" target="_blank" href="/files/photos/chiapas/tenosique-dance-3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More dancing" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-dance-2.jpg">
 
-    <img class="journalPhoto" alt="Part of the ritual that I didn't understand" src="/files/photos/chiapas/tenosique-dance-3.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="More dancing" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-dance-2.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption">More dancing</div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Part of the ritual that I didn't understand" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-dance-3.jpg">
+
+    <img class="journalPhoto" alt="Part of the ritual that I didn't understand" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-dance-3.jpg" height="266" width="400">
 
   </a>
 
@@ -209,9 +209,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our guide, one of our group, and David at lunch" target="_blank" href="/files/photos/chiapas/tenosique-lunch.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our guide, one of our group, and David at lunch" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-lunch.jpg">
 
-    <img class="journalPhoto" alt="Our guide, one of our group, and David at lunch" src="/files/photos/chiapas/tenosique-lunch.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Our guide, one of our group, and David at lunch" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-lunch.jpg" height="266" width="400">
 
   </a>
 
@@ -225,9 +225,9 @@ description: Today was our first "festival" day. We went to a town called Tenosi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="You can't really see how crowded the public square is. I didn't want to get close enough for fearing of having my camera pelted." target="_blank" href="/files/photos/chiapas/tenosique-afterlunch.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="You can't really see how crowded the public square is. I didn't want to get close enough for fearing of having my camera pelted." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-afterlunch.jpg">
 
-    <img class="journalPhoto" alt="You can't really see how crowded the public square is. I didn't want to get close enough for fearing of having my camera pelted." src="/files/photos/chiapas/tenosique-afterlunch.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="You can't really see how crowded the public square is. I didn't want to get close enough for fearing of having my camera pelted." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tenosique-afterlunch.jpg" height="266" width="400">
 
   </a>
 

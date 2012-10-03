@@ -15,23 +15,9 @@ description: I feel repetitive saying that this Lucca is a beautiful, medieval t
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main church in town" target="_blank" href="/files/photos/tuscany/lucca_cathedral_3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main church in town" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_cathedral_3.jpg">
 
-    <img class="journalPhoto" alt="The main church in town" src="/files/photos/tuscany/lucca_cathedral_3.jpg" height="200" width="150">
-
-  </a>
-
-  
-
-  <div class="journalCaption">The main church in town</div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main church in town" target="_blank" href="/files/photos/tuscany/lucca_cathedral.jpg">
-
-    <img class="journalPhoto" alt="The main church in town" src="/files/photos/tuscany/lucca_cathedral.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The main church in town" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_cathedral_3.jpg" height="200" width="150">
 
   </a>
 
@@ -43,9 +29,23 @@ description: I feel repetitive saying that this Lucca is a beautiful, medieval t
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Artwork in the church" target="_blank" href="/files/photos/tuscany/lucca_cathedral2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main church in town" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_cathedral.jpg">
 
-    <img class="journalPhoto" alt="Artwork in the church" src="/files/photos/tuscany/lucca_cathedral2.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The main church in town" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_cathedral.jpg" height="200" width="150">
+
+  </a>
+
+  
+
+  <div class="journalCaption">The main church in town</div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Artwork in the church" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_cathedral2.jpg">
+
+    <img class="journalPhoto" alt="Artwork in the church" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_cathedral2.jpg" height="200" width="150">
 
   </a>
 
@@ -59,9 +59,9 @@ description: I feel repetitive saying that this Lucca is a beautiful, medieval t
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A statue of Puccini" target="_blank" href="/files/photos/tuscany/lucca_puccini.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A statue of Puccini" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_puccini.jpg">
 
-    <img class="journalPhoto" alt="A statue of Puccini" src="/files/photos/tuscany/lucca_puccini.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A statue of Puccini" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_puccini.jpg" height="200" width="150">
 
   </a>
 
@@ -73,9 +73,9 @@ description: I feel repetitive saying that this Lucca is a beautiful, medieval t
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Puccini's Piano" target="_blank" href="/files/photos/tuscany/lucca_puccini_piano.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Puccini's Piano" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_puccini_piano.jpg">
 
-    <img class="journalPhoto" alt="Puccini's Piano" src="/files/photos/tuscany/lucca_puccini_piano.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Puccini's Piano" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/lucca_puccini_piano.jpg" height="150" width="200">
 
   </a>
 

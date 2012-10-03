@@ -20,9 +20,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The whole kitchen" target="_blank" href="/files/photos/renovation/kitchen/whole_kitchen_1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The whole kitchen" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/whole_kitchen_1.jpg">
 
-    <img class="journalPhoto" alt="The whole kitchen" src="/files/photos/renovation/kitchen/whole_kitchen_1.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="The whole kitchen" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/whole_kitchen_1.jpg" width="400" height="300">
 
   </a>
 
@@ -38,9 +38,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The fridge..." target="_blank" href="/files/photos/renovation/kitchen/fridge.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The fridge..." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/fridge.jpg">
 
-    <img class="journalPhoto" alt="The fridge..." src="/files/photos/renovation/kitchen/fridge.jpg" width="300" height="400">
+    <img class="journalPhoto" alt="The fridge..." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/fridge.jpg" width="300" height="400">
 
   </a>
 
@@ -56,9 +56,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="...and the sink." target="_blank" href="/files/photos/renovation/kitchen/sink.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="...and the sink." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/sink.jpg">
 
-    <img class="journalPhoto" alt="...and the sink." src="/files/photos/renovation/kitchen/sink.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="...and the sink." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/sink.jpg" width="400" height="300">
 
   </a>
 
@@ -70,9 +70,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's David drinking some iced tea!" target="_blank" href="/files/photos/renovation/kitchen/drinking.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's David drinking some iced tea!" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/drinking.jpg">
 
-    <img class="journalPhoto" alt="Here's David drinking some iced tea!" src="/files/photos/renovation/kitchen/drinking.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="Here's David drinking some iced tea!" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/drinking.jpg" width="400" height="300">
 
   </a>
 
@@ -84,9 +84,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's David enjoying a view of the back yard. He doesn't have to worry about hitting his head on the way out!" target="_blank" href="/files/photos/renovation/kitchen/french_doors.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's David enjoying a view of the back yard. He doesn't have to worry about hitting his head on the way out!" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/french_doors.jpg">
 
-    <img class="journalPhoto" alt="Here's David enjoying a view of the back yard. He doesn't have to worry about hitting his head on the way out!" src="/files/photos/renovation/kitchen/french_doors.jpg" width="300" height="400">
+    <img class="journalPhoto" alt="Here's David enjoying a view of the back yard. He doesn't have to worry about hitting his head on the way out!" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/french_doors.jpg" width="300" height="400">
 
   </a>
 
@@ -98,9 +98,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's a shot of the other end of the kitchen." target="_blank" href="/files/photos/renovation/kitchen/eat_in.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's a shot of the other end of the kitchen." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/eat_in.jpg">
 
-    <img class="journalPhoto" alt="Here's a shot of the other end of the kitchen." src="/files/photos/renovation/kitchen/eat_in.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="Here's a shot of the other end of the kitchen." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/eat_in.jpg" width="400" height="300">
 
   </a>
 
@@ -112,9 +112,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Now David is sitting down at the kitchen table." target="_blank" href="/files/photos/renovation/kitchen/david_eat_in.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Now David is sitting down at the kitchen table." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/david_eat_in.jpg">
 
-    <img class="journalPhoto" alt="Now David is sitting down at the kitchen table." src="/files/photos/renovation/kitchen/david_eat_in.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="Now David is sitting down at the kitchen table." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/david_eat_in.jpg" width="400" height="300">
 
   </a>
 
@@ -126,9 +126,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="He can enjoy the fireplace at the kitchen table. This was previously painted over." target="_blank" href="/files/photos/renovation/kitchen/fireplace.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="He can enjoy the fireplace at the kitchen table. This was previously painted over." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/fireplace.jpg">
 
-    <img class="journalPhoto" alt="He can enjoy the fireplace at the kitchen table. This was previously painted over." src="/files/photos/renovation/kitchen/fireplace.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="He can enjoy the fireplace at the kitchen table. This was previously painted over." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/fireplace.jpg" width="400" height="300">
 
   </a>
 
@@ -140,9 +140,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="And this is a shot of the kitchen island. The pots and pans are in open cabinets underneath the cooktop." target="_blank" href="/files/photos/renovation/kitchen/island.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="And this is a shot of the kitchen island. The pots and pans are in open cabinets underneath the cooktop." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/island.jpg">
 
-    <img class="journalPhoto" alt="And this is a shot of the kitchen island. The pots and pans are in open cabinets underneath the cooktop." src="/files/photos/renovation/kitchen/island.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="And this is a shot of the kitchen island. The pots and pans are in open cabinets underneath the cooktop." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/island.jpg" width="400" height="300">
 
   </a>
 
@@ -154,9 +154,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Double convection ovens. Yum. David's going into the living room." target="_blank" href="/files/photos/renovation/kitchen/ovens.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Double convection ovens. Yum. David's going into the living room." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/ovens.jpg">
 
-    <img class="journalPhoto" alt="Double convection ovens. Yum. David's going into the living room." src="/files/photos/renovation/kitchen/ovens.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="Double convection ovens. Yum. David's going into the living room." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/ovens.jpg" width="400" height="300">
 
   </a>
 
@@ -168,9 +168,9 @@ description: Shortly after finishing the new kitchen, we saw a commercial for Ma
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Let's take one last look at the kitchen before we leave." target="_blank" href="/files/photos/renovation/kitchen/whole_kitchen_2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Let's take one last look at the kitchen before we leave." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/whole_kitchen_2.jpg">
 
-    <img class="journalPhoto" alt="Let's take one last look at the kitchen before we leave." src="/files/photos/renovation/kitchen/whole_kitchen_2.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="Let's take one last look at the kitchen before we leave." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/kitchen/whole_kitchen_2.jpg" width="400" height="300">
 
   </a>
 

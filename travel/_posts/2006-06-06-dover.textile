@@ -15,9 +15,9 @@ description: "Our next stop was Dover to see the castle and the white cliffs. It
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Dover Port" target="_blank" href="/files/photos/london/dover-port.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Dover Port" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/dover-port.jpg">
 
-    <img class="journalPhoto" alt="The Dover Port" src="/files/photos/london/dover-port.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The Dover Port" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/dover-port.jpg" height="266" width="400">
 
   </a>
 
@@ -31,9 +31,9 @@ description: "Our next stop was Dover to see the castle and the white cliffs. It
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Pedestrian Entrance to Dover Castle" target="_blank" href="/files/photos/london/dover-castleentrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Pedestrian Entrance to Dover Castle" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/dover-castleentrance.jpg">
 
-    <img class="journalPhoto" alt="The Pedestrian Entrance to Dover Castle" src="/files/photos/london/dover-castleentrance.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The Pedestrian Entrance to Dover Castle" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/dover-castleentrance.jpg" height="266" width="400">
 
   </a>
 
@@ -51,9 +51,9 @@ description: "Our next stop was Dover to see the castle and the white cliffs. It
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The War Rooms" target="_blank" href="/files/photos/london/dover-warroom.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The War Rooms" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/dover-warroom.jpg">
 
-    <img class="journalPhoto" alt="The War Rooms" src="/files/photos/london/dover-warroom.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The War Rooms" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/dover-warroom.jpg" height="266" width="400">
 
   </a>
 
@@ -67,9 +67,9 @@ description: "Our next stop was Dover to see the castle and the white cliffs. It
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Dover Castle" target="_blank" href="/files/photos/london/dover-castle.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Dover Castle" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/dover-castle.jpg">
 
-    <img class="journalPhoto" alt="Dover Castle" src="/files/photos/london/dover-castle.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Dover Castle" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/dover-castle.jpg" height="266" width="400">
 
   </a>
 

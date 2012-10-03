@@ -27,9 +27,9 @@ description: "I'm going to put all of San Crist\xC3\xB3bal on hold for a second 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A weaving demonstration" target="_blank" href="/files/photos/chiapas/chamula-weaver.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A weaving demonstration" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/chamula-weaver.jpg">
 
-    <img class="journalPhoto" alt="A weaving demonstration" src="/files/photos/chiapas/chamula-weaver.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A weaving demonstration" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/chamula-weaver.jpg" height="266" width="400">
 
   </a>
 
@@ -41,9 +41,9 @@ description: "I'm going to put all of San Crist\xC3\xB3bal on hold for a second 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is what they use to set up the &quot;loom&quot;" target="_blank" href="/files/photos/chiapas/chamula-weaver-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is what they use to set up the &quot;loom&quot;" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/chamula-weaver-1.jpg">
 
-    <img class="journalPhoto" alt="This is what they use to set up the &quot;loom&quot;" src="/files/photos/chiapas/chamula-weaver-1.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="This is what they use to set up the &quot;loom&quot;" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/chamula-weaver-1.jpg" height="400" width="266">
 
   </a>
 
@@ -55,9 +55,9 @@ description: "I'm going to put all of San Crist\xC3\xB3bal on hold for a second 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Making tortillas in her kitchen" target="_blank" href="/files/photos/chiapas/chamula-tortillas.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Making tortillas in her kitchen" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/chamula-tortillas.jpg">
 
-    <img class="journalPhoto" alt="Making tortillas in her kitchen" src="/files/photos/chiapas/chamula-tortillas.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Making tortillas in her kitchen" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/chamula-tortillas.jpg" height="266" width="400">
 
   </a>
 

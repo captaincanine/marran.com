@@ -3,7 +3,7 @@ layout: post
 title: Day of Departure (Second Day in Istanbul)
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 69
+  index: 3
 redirects: 
 - /node/552
 - /personal/travel/turkey/day-departure-second-day-istanbul
@@ -23,9 +23,9 @@ description: Today was a lot less hectic. We started off going to Dolmabahce Pal
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front entrance of the Dolme Bahce." target="_blank" href="/files/photos/cruise2000/dolme_bahci.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front entrance of the Dolme Bahce." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/dolme_bahci.jpg">
 
-    <img class="journalPhoto" alt="The front entrance of the Dolme Bahce." src="/files/photos/cruise2000/dolme_bahci.jpg" height="384" width="512">
+    <img class="journalPhoto" alt="The front entrance of the Dolme Bahce." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/dolme_bahci.jpg" height="384" width="512">
 
   </a>
 
@@ -39,9 +39,9 @@ description: Today was a lot less hectic. We started off going to Dolmabahce Pal
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David and our tour guide, Inci, having Turkish tea on the ferry." target="_blank" href="/files/photos/cruise2000/turkish_coffee.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David and our tour guide, Inci, having Turkish tea on the ferry." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/turkish_coffee.jpg">
 
-    <img class="journalPhoto" alt="David and our tour guide, Inci, having Turkish tea on the ferry." src="/files/photos/cruise2000/turkish_coffee.jpg" height="318" width="467">
+    <img class="journalPhoto" alt="David and our tour guide, Inci, having Turkish tea on the ferry." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/turkish_coffee.jpg" height="318" width="467">
 
   </a>
 
@@ -55,9 +55,9 @@ description: Today was a lot less hectic. We started off going to Dolmabahce Pal
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A group of Turkish musicians on the ferry." target="_blank" href="/files/photos/cruise2000/turkish_musicians.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A group of Turkish musicians on the ferry." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/turkish_musicians.jpg">
 
-    <img class="journalPhoto" alt="A group of Turkish musicians on the ferry." src="/files/photos/cruise2000/turkish_musicians.jpg" height="282" width="396">
+    <img class="journalPhoto" alt="A group of Turkish musicians on the ferry." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/turkish_musicians.jpg" height="282" width="396">
 
   </a>
 

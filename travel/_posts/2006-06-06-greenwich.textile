@@ -25,9 +25,9 @@ description: The Thames boat ride stopped in Greenwich where we disembarked. Gre
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Entrance of the Painted Hall" target="_blank" href="/files/photos/london/greenwich-paintedroom1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Entrance of the Painted Hall" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-paintedroom1.jpg">
 
-    <img class="journalPhoto" alt="The Entrance of the Painted Hall" src="/files/photos/london/greenwich-paintedroom1.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="The Entrance of the Painted Hall" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-paintedroom1.jpg" height="400" width="266">
 
   </a>
 
@@ -39,9 +39,9 @@ description: The Thames boat ride stopped in Greenwich where we disembarked. Gre
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Main Room of the Painted Hall" target="_blank" href="/files/photos/london/greenwich-paintedroom2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Main Room of the Painted Hall" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-paintedroom2.jpg">
 
-    <img class="journalPhoto" alt="The Main Room of the Painted Hall" src="/files/photos/london/greenwich-paintedroom2.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The Main Room of the Painted Hall" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-paintedroom2.jpg" height="266" width="400">
 
   </a>
 
@@ -53,9 +53,9 @@ description: The Thames boat ride stopped in Greenwich where we disembarked. Gre
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="They set out mirrors so that you can examine the ceiling without straining your neck" target="_blank" href="/files/photos/london/greenwich-paintedroom3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="They set out mirrors so that you can examine the ceiling without straining your neck" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-paintedroom3.jpg">
 
-    <img class="journalPhoto" alt="They set out mirrors so that you can examine the ceiling without straining your neck" src="/files/photos/london/greenwich-paintedroom3.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="They set out mirrors so that you can examine the ceiling without straining your neck" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-paintedroom3.jpg" height="400" width="266">
 
   </a>
 
@@ -67,9 +67,9 @@ description: The Thames boat ride stopped in Greenwich where we disembarked. Gre
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Section of Ceiling of the Painted Hall" target="_blank" href="/files/photos/london/greenwich-paintedroomceiling.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Section of Ceiling of the Painted Hall" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-paintedroomceiling.jpg">
 
-    <img class="journalPhoto" alt="A Section of Ceiling of the Painted Hall" src="/files/photos/london/greenwich-paintedroomceiling.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A Section of Ceiling of the Painted Hall" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-paintedroomceiling.jpg" height="266" width="400">
 
   </a>
 
@@ -83,9 +83,9 @@ description: The Thames boat ride stopped in Greenwich where we disembarked. Gre
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Christopher Wren's Chapel" target="_blank" href="/files/photos/london/greenwich-chapel.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Christopher Wren's Chapel" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-chapel.jpg">
 
-    <img class="journalPhoto" alt="Christopher Wren's Chapel" src="/files/photos/london/greenwich-chapel.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Christopher Wren's Chapel" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-chapel.jpg" height="266" width="400">
 
   </a>
 
@@ -99,9 +99,9 @@ description: The Thames boat ride stopped in Greenwich where we disembarked. Gre
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Looking Towards the Queen's House" target="_blank" href="/files/photos/london/greenwich-grounds.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Looking Towards the Queen's House" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-grounds.jpg">
 
-    <img class="journalPhoto" alt="Looking Towards the Queen's House" src="/files/photos/london/greenwich-grounds.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Looking Towards the Queen's House" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-grounds.jpg" height="266" width="400">
 
   </a>
 
@@ -119,9 +119,9 @@ description: The Thames boat ride stopped in Greenwich where we disembarked. Gre
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Peepshow at the Pier" target="_blank" href="/files/photos/london/greenwich-peepshow.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Peepshow at the Pier" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-peepshow.jpg">
 
-    <img class="journalPhoto" alt="A Peepshow at the Pier" src="/files/photos/london/greenwich-peepshow.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A Peepshow at the Pier" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/greenwich-peepshow.jpg" height="266" width="400">
 
   </a>
 

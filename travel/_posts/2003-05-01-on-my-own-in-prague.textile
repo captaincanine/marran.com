@@ -17,9 +17,9 @@ description: David was at conferences most of today, so I did some exploring on 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Wallenstein Palace" target="_blank" href="/files/photos/prague/wallenstein_fountain.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Wallenstein Palace" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/wallenstein_fountain.jpg">
 
-    <img class="journalPhoto" alt="Wallenstein Palace" src="/files/photos/prague/wallenstein_fountain.jpg" height="466" width="600">
+    <img class="journalPhoto" alt="Wallenstein Palace" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/wallenstein_fountain.jpg" height="466" width="600">
 
   </a>
 
@@ -31,9 +31,9 @@ description: David was at conferences most of today, so I did some exploring on 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of Wallenstein Palace" target="_blank" href="/files/photos/prague/wallenstein_gardens.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of Wallenstein Palace" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/wallenstein_gardens.jpg">
 
-    <img class="journalPhoto" alt="More of Wallenstein Palace" src="/files/photos/prague/wallenstein_gardens.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="More of Wallenstein Palace" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/wallenstein_gardens.jpg" height="450" width="600">
 
   </a>
 
@@ -47,9 +47,9 @@ description: David was at conferences most of today, so I did some exploring on 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Church of St Nicholas" target="_blank" href="/files/photos/prague/st_nicholas.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Church of St Nicholas" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/st_nicholas.jpg">
 
-    <img class="journalPhoto" alt="The Church of St Nicholas" src="/files/photos/prague/st_nicholas.jpg" height="667" width="500">
+    <img class="journalPhoto" alt="The Church of St Nicholas" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/st_nicholas.jpg" height="667" width="500">
 
   </a>
 
@@ -65,9 +65,9 @@ description: David was at conferences most of today, so I did some exploring on 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The goodluck charm on the Charles Bridge" target="_blank" href="/files/photos/prague/charles_bridge_goodluck.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The goodluck charm on the Charles Bridge" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/charles_bridge_goodluck.jpg">
 
-    <img class="journalPhoto" alt="The goodluck charm on the Charles Bridge" src="/files/photos/prague/charles_bridge_goodluck.jpg" height="511" width="400">
+    <img class="journalPhoto" alt="The goodluck charm on the Charles Bridge" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/charles_bridge_goodluck.jpg" height="511" width="400">
 
   </a>
 

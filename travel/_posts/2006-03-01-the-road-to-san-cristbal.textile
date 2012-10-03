@@ -17,9 +17,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from when you first walk up to the falls" target="_blank" href="/files/photos/chiapas/misoha-panorama.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from when you first walk up to the falls" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-panorama.jpg">
 
-    <img class="journalPhoto" alt="The view from when you first walk up to the falls" src="/files/photos/chiapas/misoha-panorama.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="The view from when you first walk up to the falls" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-panorama.jpg" height="400" width="600">
 
   </a>
 
@@ -31,9 +31,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Showing a person in the image gives you an idea of how large the falls are" target="_blank" href="/files/photos/chiapas/misoha-perspective.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Showing a person in the image gives you an idea of how large the falls are" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-perspective.jpg">
 
-    <img class="journalPhoto" alt="Showing a person in the image gives you an idea of how large the falls are" src="/files/photos/chiapas/misoha-perspective.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="Showing a person in the image gives you an idea of how large the falls are" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-perspective.jpg" height="400" width="600">
 
   </a>
 
@@ -45,9 +45,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's David trying to pretend that he doesn't mind being wet" target="_blank" href="/files/photos/chiapas/misoha-david.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's David trying to pretend that he doesn't mind being wet" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-david.jpg">
 
-    <img class="journalPhoto" alt="Here's David trying to pretend that he doesn't mind being wet" src="/files/photos/chiapas/misoha-david.jpg" height="600" width="400">
+    <img class="journalPhoto" alt="Here's David trying to pretend that he doesn't mind being wet" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-david.jpg" height="600" width="400">
 
   </a>
 
@@ -59,23 +59,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/misoha.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/misoha.jpg" height="600" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/misoha-1.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/misoha-1.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha.jpg" height="600" width="400">
 
   </a>
 
@@ -87,9 +73,23 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/misoha-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-1.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/misoha-2.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-1.jpg" height="400" width="600">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-2.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/misoha-2.jpg" height="400" width="600">
 
   </a>
 
@@ -103,9 +103,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Base" target="_blank" href="/files/photos/chiapas/aquaazul-base.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Base" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-base.jpg">
 
-    <img class="journalPhoto" alt="The Base" src="/files/photos/chiapas/aquaazul-base.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="The Base" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-base.jpg" height="400" width="600">
 
   </a>
 
@@ -117,9 +117,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David still pretending that the wetness doesn't bother him" target="_blank" href="/files/photos/chiapas/aquaazul-david.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David still pretending that the wetness doesn't bother him" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-david.jpg">
 
-    <img class="journalPhoto" alt="David still pretending that the wetness doesn't bother him" src="/files/photos/chiapas/aquaazul-david.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="David still pretending that the wetness doesn't bother him" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-david.jpg" height="400" width="600">
 
   </a>
 
@@ -131,9 +131,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The next point" target="_blank" href="/files/photos/chiapas/aquaazul-firstpoint.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The next point" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-firstpoint.jpg">
 
-    <img class="journalPhoto" alt="The next point" src="/files/photos/chiapas/aquaazul-firstpoint.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="The next point" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-firstpoint.jpg" height="400" width="600">
 
   </a>
 
@@ -145,9 +145,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Keith posing and actually not minding the wet" target="_blank" href="/files/photos/chiapas/aquaazul-keith.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Keith posing and actually not minding the wet" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-keith.jpg">
 
-    <img class="journalPhoto" alt="Keith posing and actually not minding the wet" src="/files/photos/chiapas/aquaazul-keith.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="Keith posing and actually not minding the wet" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-keith.jpg" height="400" width="600">
 
   </a>
 
@@ -159,9 +159,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The next point up" target="_blank" href="/files/photos/chiapas/aquaazul-midpoint.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The next point up" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-midpoint.jpg">
 
-    <img class="journalPhoto" alt="The next point up" src="/files/photos/chiapas/aquaazul-midpoint.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="The next point up" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-midpoint.jpg" height="400" width="600">
 
   </a>
 
@@ -173,9 +173,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David preparing to cross a very rickety bridge" target="_blank" href="/files/photos/chiapas/aquaazul-davidbridge.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David preparing to cross a very rickety bridge" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-davidbridge.jpg">
 
-    <img class="journalPhoto" alt="David preparing to cross a very rickety bridge" src="/files/photos/chiapas/aquaazul-davidbridge.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="David preparing to cross a very rickety bridge" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-davidbridge.jpg" height="400" width="600">
 
   </a>
 
@@ -187,9 +187,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David crossing to the very tip" target="_blank" href="/files/photos/chiapas/aquaazul-thetip.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David crossing to the very tip" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-thetip.jpg">
 
-    <img class="journalPhoto" alt="David crossing to the very tip" src="/files/photos/chiapas/aquaazul-thetip.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="David crossing to the very tip" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-thetip.jpg" height="400" width="600">
 
   </a>
 
@@ -201,9 +201,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Incredible View" target="_blank" href="/files/photos/chiapas/aquaazul-bigshot.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Incredible View" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-bigshot.jpg">
 
-    <img class="journalPhoto" alt="Incredible View" src="/files/photos/chiapas/aquaazul-bigshot.jpg" height="600" width="400">
+    <img class="journalPhoto" alt="Incredible View" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-bigshot.jpg" height="600" width="400">
 
   </a>
 
@@ -215,9 +215,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David crossing back" target="_blank" href="/files/photos/chiapas/aquaazul-davidbridge-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David crossing back" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-davidbridge-1.jpg">
 
-    <img class="journalPhoto" alt="David crossing back" src="/files/photos/chiapas/aquaazul-davidbridge-1.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="David crossing back" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/aquaazul-davidbridge-1.jpg" height="400" width="600">
 
   </a>
 
@@ -231,9 +231,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the site before the climbing" target="_blank" href="/files/photos/chiapas/tonina-preclimb.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the site before the climbing" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-preclimb.jpg">
 
-    <img class="journalPhoto" alt="A shot of the site before the climbing" src="/files/photos/chiapas/tonina-preclimb.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="A shot of the site before the climbing" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-preclimb.jpg" height="400" width="600">
 
   </a>
 
@@ -245,9 +245,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Entering the ruins" target="_blank" href="/files/photos/chiapas/tonina-entering.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Entering the ruins" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-entering.jpg">
 
-    <img class="journalPhoto" alt="Entering the ruins" src="/files/photos/chiapas/tonina-entering.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Entering the ruins" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-entering.jpg" height="266" width="400">
 
   </a>
 
@@ -259,9 +259,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Walking into the room of the dead" target="_blank" href="/files/photos/chiapas/tonina-entering-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Walking into the room of the dead" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-entering-1.jpg">
 
-    <img class="journalPhoto" alt="Walking into the room of the dead" src="/files/photos/chiapas/tonina-entering-1.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="Walking into the room of the dead" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-entering-1.jpg" height="400" width="266">
 
   </a>
 
@@ -273,9 +273,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Reliefs depicting the fate of captives" target="_blank" href="/files/photos/chiapas/tonina-captors.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Reliefs depicting the fate of captives" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-captors.jpg">
 
-    <img class="journalPhoto" alt="Reliefs depicting the fate of captives" src="/files/photos/chiapas/tonina-captors.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Reliefs depicting the fate of captives" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-captors.jpg" height="266" width="400">
 
   </a>
 
@@ -287,9 +287,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The tribute relief of the god of the underworld. Be sure to zoom into this picture to see the skeleton-like god, the upside down heads." target="_blank" href="/files/photos/chiapas/tonina-godofthedead.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The tribute relief of the god of the underworld. Be sure to zoom into this picture to see the skeleton-like god, the upside down heads." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-godofthedead.jpg">
 
-    <img class="journalPhoto" alt="The tribute relief of the god of the underworld. Be sure to zoom into this picture to see the skeleton-like god, the upside down heads." src="/files/photos/chiapas/tonina-godofthedead.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The tribute relief of the god of the underworld. Be sure to zoom into this picture to see the skeleton-like god, the upside down heads." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-godofthedead.jpg" height="266" width="400">
 
   </a>
 
@@ -301,9 +301,9 @@ description: "We left Palenque today and headed to San Crist\xC3\xB3bal. Palenqu
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view from the top. It was actually a pleasant day despite the heavy clouds." target="_blank" href="/files/photos/chiapas/tonina-view-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view from the top. It was actually a pleasant day despite the heavy clouds." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-view-1.jpg">
 
-    <img class="journalPhoto" alt="A view from the top. It was actually a pleasant day despite the heavy clouds." src="/files/photos/chiapas/tonina-view-1.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="A view from the top. It was actually a pleasant day despite the heavy clouds." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/tonina-view-1.jpg" height="400" width="600">
 
   </a>
 

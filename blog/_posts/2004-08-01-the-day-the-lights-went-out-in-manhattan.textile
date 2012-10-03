@@ -17,9 +17,9 @@ In August of 2004, there was a blackout on much of the Eastern seaboard of the U
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="So many people walking." target="_blank" href="/files/photos/blackout/walking_home_2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="So many people walking." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/walking_home_2.jpg">
 
-    <img class="journalPhoto" alt="So many people walking." src="/files/photos/blackout/walking_home_2.jpg" width="300">
+    <img class="journalPhoto" alt="So many people walking." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/walking_home_2.jpg" width="300">
 
   </a>
 
@@ -31,9 +31,9 @@ In August of 2004, there was a blackout on much of the Eastern seaboard of the U
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="There were hundreds of people walking. You can't tell from this picture." target="_blank" href="/files/photos/blackout/walking_home_1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="There were hundreds of people walking. You can't tell from this picture." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/walking_home_1.jpg">
 
-    <img class="journalPhoto" alt="There were hundreds of people walking. You can't tell from this picture." src="/files/photos/blackout/walking_home_1.jpg" width="300" >
+    <img class="journalPhoto" alt="There were hundreds of people walking. You can't tell from this picture." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/walking_home_1.jpg" width="300" >
 
   </a>
 
@@ -45,9 +45,9 @@ In August of 2004, there was a blackout on much of the Eastern seaboard of the U
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/blackout/walking_home_3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/walking_home_3.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/blackout/walking_home_3.jpg" width="300">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/walking_home_3.jpg" width="300">
 
   </a>
 
@@ -61,9 +61,9 @@ In August of 2004, there was a blackout on much of the Eastern seaboard of the U
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/blackout/car_radio_1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/car_radio_1.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/blackout/car_radio_1.jpg" width="300">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/car_radio_1.jpg" width="300">
 
   </a>
 
@@ -75,9 +75,9 @@ In August of 2004, there was a blackout on much of the Eastern seaboard of the U
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/blackout/car_radio_2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/car_radio_2.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/blackout/car_radio_2.jpg" width="300">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/car_radio_2.jpg" width="300">
 
   </a>
 
@@ -91,9 +91,9 @@ In August of 2004, there was a blackout on much of the Eastern seaboard of the U
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/blackout/queens.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/queens.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/blackout/queens.jpg" width="300">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/blackout/queens.jpg" width="300">
 
   </a>
 

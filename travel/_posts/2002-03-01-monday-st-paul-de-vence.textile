@@ -27,9 +27,9 @@ liqueurs.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Approaching St. Paul de Vence" target="_blank" href="/files/photos/provence/st_paul_distance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Approaching St. Paul de Vence" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_paul_distance.jpg">
 
-    <img class="journalPhoto" alt="Approaching St. Paul de Vence" src="/files/photos/provence/st_paul_distance.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="Approaching St. Paul de Vence" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_paul_distance.jpg" height="300" width="400">
 
   </a>
 
@@ -51,9 +51,9 @@ the city.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Liquors Extraordinaire" target="_blank" href="/files/photos/provence/st_paul_liquors.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Liquors Extraordinaire" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_paul_liquors.jpg">
 
-    <img class="journalPhoto" alt="Liquors Extraordinaire" src="/files/photos/provence/st_paul_liquors.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="Liquors Extraordinaire" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_paul_liquors.jpg" height="300" width="400">
 
   </a>
 
@@ -65,9 +65,9 @@ the city.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance into St. Paul de Vence" target="_blank" href="/files/photos/provence/st_paul_entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance into St. Paul de Vence" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_paul_entrance.jpg">
 
-    <img class="journalPhoto" alt="The entrance into St. Paul de Vence" src="/files/photos/provence/st_paul_entrance.jpg" height="400" width="300">
+    <img class="journalPhoto" alt="The entrance into St. Paul de Vence" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_paul_entrance.jpg" height="400" width="300">
 
   </a>
 
@@ -79,9 +79,9 @@ the city.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Crepes Outside" target="_blank" href="/files/photos/provence/st_paul_crepes.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Crepes Outside" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_paul_crepes.jpg">
 
-    <img class="journalPhoto" alt="Crepes Outside" src="/files/photos/provence/st_paul_crepes.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="Crepes Outside" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_paul_crepes.jpg" height="300" width="400">
 
   </a>
 

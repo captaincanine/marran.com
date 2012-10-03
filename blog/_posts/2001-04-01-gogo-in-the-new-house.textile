@@ -14,9 +14,9 @@ description: So then we moved into the new house. She spent a lot of time riding
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Her head isn't as big as it seems in this picture." target="_blank" href="/files/photos/gogo/big_head.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Her head isn't as big as it seems in this picture." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/big_head.jpg">
 
-    <img class="journalPhoto" alt="Her head isn't as big as it seems in this picture." src="/files/photos/gogo/big_head.jpg" width="300" height="342">
+    <img class="journalPhoto" alt="Her head isn't as big as it seems in this picture." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/big_head.jpg" width="300" height="342">
 
   </a>
 
@@ -32,9 +32,9 @@ description: So then we moved into the new house. She spent a lot of time riding
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo chewing something. Imagine that." target="_blank" href="/files/photos/gogo/chewing.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo chewing something. Imagine that." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/chewing.jpg">
 
-    <img class="journalPhoto" alt="Gogo chewing something. Imagine that." src="/files/photos/gogo/chewing.jpg" width="256" height="225">
+    <img class="journalPhoto" alt="Gogo chewing something. Imagine that." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/chewing.jpg" width="256" height="225">
 
   </a>
 
@@ -48,9 +48,9 @@ description: So then we moved into the new house. She spent a lot of time riding
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo helping out with the housecleaning." target="_blank" href="/files/photos/gogo/dust_pan.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo helping out with the housecleaning." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/dust_pan.jpg">
 
-    <img class="journalPhoto" alt="Gogo helping out with the housecleaning." src="/files/photos/gogo/dust_pan.jpg" width="400" height="257">
+    <img class="journalPhoto" alt="Gogo helping out with the housecleaning." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/dust_pan.jpg" width="400" height="257">
 
   </a>
 
@@ -62,9 +62,9 @@ description: So then we moved into the new house. She spent a lot of time riding
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Girls and their shoes." target="_blank" href="/files/photos/gogo/shoes.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Girls and their shoes." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/shoes.jpg">
 
-    <img class="journalPhoto" alt="Girls and their shoes." src="/files/photos/gogo/shoes.jpg" width="350" height="210">
+    <img class="journalPhoto" alt="Girls and their shoes." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/shoes.jpg" width="350" height="210">
 
   </a>
 

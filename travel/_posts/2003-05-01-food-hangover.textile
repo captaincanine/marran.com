@@ -17,9 +17,9 @@ description: I'm having a hard time this morning, because I'm having a bit of a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="On the wall of the castle" target="_blank" href="/files/photos/prague/castle_wall.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="On the wall of the castle" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/castle_wall.jpg">
 
-    <img class="journalPhoto" alt="On the wall of the castle" src="/files/photos/prague/castle_wall.jpg" height="377" width="600">
+    <img class="journalPhoto" alt="On the wall of the castle" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/castle_wall.jpg" height="377" width="600">
 
   </a>
 
@@ -31,9 +31,9 @@ description: I'm having a hard time this morning, because I'm having a bit of a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the palace courtyards" target="_blank" href="/files/photos/prague/palace_courtyard.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the palace courtyards" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/palace_courtyard.jpg">
 
-    <img class="journalPhoto" alt="One of the palace courtyards" src="/files/photos/prague/palace_courtyard.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="One of the palace courtyards" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/palace_courtyard.jpg" height="450" width="600">
 
   </a>
 
@@ -47,9 +47,9 @@ description: I'm having a hard time this morning, because I'm having a bit of a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="St Vitus' Cathedral" target="_blank" href="/files/photos/prague/palace_cathedral.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="St Vitus' Cathedral" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/palace_cathedral.jpg">
 
-    <img class="journalPhoto" alt="St Vitus' Cathedral" src="/files/photos/prague/palace_cathedral.jpg" height="470" width="600">
+    <img class="journalPhoto" alt="St Vitus' Cathedral" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/palace_cathedral.jpg" height="470" width="600">
 
   </a>
 
@@ -61,9 +61,9 @@ description: I'm having a hard time this morning, because I'm having a bit of a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="An outside mosaic on St Vitus'" target="_blank" href="/files/photos/prague/palace_cathedral_mosaic.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="An outside mosaic on St Vitus'" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/palace_cathedral_mosaic.jpg">
 
-    <img class="journalPhoto" alt="An outside mosaic on St Vitus'" src="/files/photos/prague/palace_cathedral_mosaic.jpg" height="446" width="600">
+    <img class="journalPhoto" alt="An outside mosaic on St Vitus'" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/palace_cathedral_mosaic.jpg" height="446" width="600">
 
   </a>
 
@@ -77,9 +77,9 @@ description: I'm having a hard time this morning, because I'm having a bit of a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main hall of the palace" target="_blank" href="/files/photos/prague/palace_hall.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main hall of the palace" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/palace_hall.jpg">
 
-    <img class="journalPhoto" alt="The main hall of the palace" src="/files/photos/prague/palace_hall.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="The main hall of the palace" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/palace_hall.jpg" height="450" width="600">
 
   </a>
 
@@ -95,9 +95,9 @@ description: I'm having a hard time this morning, because I'm having a bit of a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Jewish Cemetery" target="_blank" href="/files/photos/prague/cemetery_1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Jewish Cemetery" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/cemetery_1.jpg">
 
-    <img class="journalPhoto" alt="The Jewish Cemetery" src="/files/photos/prague/cemetery_1.jpg" height="298" width="600">
+    <img class="journalPhoto" alt="The Jewish Cemetery" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/cemetery_1.jpg" height="298" width="600">
 
   </a>
 
@@ -109,9 +109,9 @@ description: I'm having a hard time this morning, because I'm having a bit of a 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the Jewish Cemetery" target="_blank" href="/files/photos/prague/cemetery_2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the Jewish Cemetery" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/cemetery_2.jpg">
 
-    <img class="journalPhoto" alt="More of the Jewish Cemetery" src="/files/photos/prague/cemetery_2.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="More of the Jewish Cemetery" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/cemetery_2.jpg" height="450" width="600">
 
   </a>
 

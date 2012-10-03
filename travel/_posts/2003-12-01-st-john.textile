@@ -19,9 +19,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Even the shells welcome you..." target="_blank" href="/files/photos/stjohn/images/welcome.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Even the shells welcome you..." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/welcome.jpg">
 
-    <img class="journalPhoto" alt="Even the shells welcome you..." src="/files/photos/stjohn/images/welcome.jpg" width="300" height="228">
+    <img class="journalPhoto" alt="Even the shells welcome you..." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/welcome.jpg" width="300" height="228">
 
   </a>
 
@@ -35,9 +35,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The door to one of the villas" target="_blank" href="/files/photos/stjohn/images/reich-door.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The door to one of the villas" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/reich-door.jpg">
 
-    <img class="journalPhoto" alt="The door to one of the villas" src="/files/photos/stjohn/images/reich-door.jpg" width="300" height="455">
+    <img class="journalPhoto" alt="The door to one of the villas" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/reich-door.jpg" width="300" height="455">
 
   </a>
 
@@ -49,9 +49,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view to the south over looking St John" target="_blank" href="/files/photos/stjohn/images/patio.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view to the south over looking St John" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/patio.jpg">
 
-    <img class="journalPhoto" alt="The view to the south over looking St John" src="/files/photos/stjohn/images/patio.jpg" width="300" height="200">
+    <img class="journalPhoto" alt="The view to the south over looking St John" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/patio.jpg" width="300" height="200">
 
   </a>
 
@@ -63,9 +63,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view south east. It was more impressive in person." target="_blank" href="/files/photos/stjohn/images/patio-view.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view south east. It was more impressive in person." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/patio-view.jpg">
 
-    <img class="journalPhoto" alt="The view south east. It was more impressive in person." src="/files/photos/stjohn/images/patio-view.jpg" width="300" height="200">
+    <img class="journalPhoto" alt="The view south east. It was more impressive in person." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/patio-view.jpg" width="300" height="200">
 
   </a>
 
@@ -77,9 +77,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Ben and Batya drying off after a swim. You can see St Thomas in the background." target="_blank" href="/files/photos/stjohn/images/pool.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Ben and Batya drying off after a swim. You can see St Thomas in the background." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/pool.jpg">
 
-    <img class="journalPhoto" alt="Ben and Batya drying off after a swim. You can see St Thomas in the background." src="/files/photos/stjohn/images/pool.jpg" width="300" height="168">
+    <img class="journalPhoto" alt="Ben and Batya drying off after a swim. You can see St Thomas in the background." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/pool.jpg" width="300" height="168">
 
   </a>
 
@@ -91,9 +91,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="I believe this was the fifth screening of 101 Dalmations." target="_blank" href="/files/photos/stjohn/images/dalmatians.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="I believe this was the fifth screening of 101 Dalmations." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/dalmatians.jpg">
 
-    <img class="journalPhoto" alt="I believe this was the fifth screening of 101 Dalmations." src="/files/photos/stjohn/images/dalmatians.jpg" width="300" height="482">
+    <img class="journalPhoto" alt="I believe this was the fifth screening of 101 Dalmations." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/dalmatians.jpg" width="300" height="482">
 
   </a>
 
@@ -113,9 +113,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here we are leaving the St John harbor. That's Captain Phil." target="_blank" href="/files/photos/stjohn/images/capn-phil.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here we are leaving the St John harbor. That's Captain Phil." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/capn-phil.jpg">
 
-    <img class="journalPhoto" alt="Here we are leaving the St John harbor. That's Captain Phil." src="/files/photos/stjohn/images/capn-phil.jpg" width="300" height="200">
+    <img class="journalPhoto" alt="Here we are leaving the St John harbor. That's Captain Phil." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/capn-phil.jpg" width="300" height="200">
 
   </a>
 
@@ -129,9 +129,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here we are at anchor at one of our stops." target="_blank" href="/files/photos/stjohn/images/st-james.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here we are at anchor at one of our stops." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/st-james.jpg">
 
-    <img class="journalPhoto" alt="Here we are at anchor at one of our stops." src="/files/photos/stjohn/images/st-james.jpg" width="300" height="200">
+    <img class="journalPhoto" alt="Here we are at anchor at one of our stops." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/st-james.jpg" width="300" height="200">
 
   </a>
 
@@ -147,9 +147,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Trunk Bay" target="_blank" href="/files/photos/stjohn/images/cinnamon-bay.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Trunk Bay" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/cinnamon-bay.jpg">
 
-    <img class="journalPhoto" alt="Trunk Bay" src="/files/photos/stjohn/images/cinnamon-bay.jpg" width="300" height="200">
+    <img class="journalPhoto" alt="Trunk Bay" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/cinnamon-bay.jpg" width="300" height="200">
 
   </a>
 
@@ -161,9 +161,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our camp is set up." target="_blank" href="/files/photos/stjohn/images/cinnamon-bay-day.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our camp is set up." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/cinnamon-bay-day.jpg">
 
-    <img class="journalPhoto" alt="Our camp is set up." src="/files/photos/stjohn/images/cinnamon-bay-day.jpg" width="300" height="210">
+    <img class="journalPhoto" alt="Our camp is set up." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/cinnamon-bay-day.jpg" width="300" height="210">
 
   </a>
 
@@ -175,9 +175,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Everyone's relaxed. It's hard not to be." target="_blank" href="/files/photos/stjohn/images/cinnamon-bay-camp.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Everyone's relaxed. It's hard not to be." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/cinnamon-bay-camp.jpg">
 
-    <img class="journalPhoto" alt="Everyone's relaxed. It's hard not to be." src="/files/photos/stjohn/images/cinnamon-bay-camp.jpg" width="300" height="192">
+    <img class="journalPhoto" alt="Everyone's relaxed. It's hard not to be." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/cinnamon-bay-camp.jpg" width="300" height="192">
 
   </a>
 
@@ -189,9 +189,9 @@ Every year, the Reich family spends the second to the last week in a villa on to
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More sunscreen." target="_blank" href="/files/photos/stjohn/images/psychadelic-batya.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More sunscreen." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/psychadelic-batya.jpg">
 
-    <img class="journalPhoto" alt="More sunscreen." src="/files/photos/stjohn/images/psychadelic-batya.jpg" width="300" height="413">
+    <img class="journalPhoto" alt="More sunscreen." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/psychadelic-batya.jpg" width="300" height="413">
 
   </a>
 
@@ -209,9 +209,9 @@ The favorite Reich Family dining destination is Chateau Bordeaux. It's a little 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The viewpoint giftshop." target="_blank" href="/files/photos/stjohn/images/chateau-bordeaux-3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The viewpoint giftshop." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/chateau-bordeaux-3.jpg">
 
-    <img class="journalPhoto" alt="The viewpoint giftshop." src="/files/photos/stjohn/images/chateau-bordeaux-3.jpg" width="300" height="200">
+    <img class="journalPhoto" alt="The viewpoint giftshop." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/chateau-bordeaux-3.jpg" width="300" height="200">
 
   </a>
 
@@ -223,9 +223,9 @@ The favorite Reich Family dining destination is Chateau Bordeaux. It's a little 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Pose #1" target="_blank" href="/files/photos/stjohn/images/chateau-bordeaux.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Pose #1" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/chateau-bordeaux.jpg">
 
-    <img class="journalPhoto" alt="Pose #1" src="/files/photos/stjohn/images/chateau-bordeaux.jpg" width="300" height="195">
+    <img class="journalPhoto" alt="Pose #1" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/chateau-bordeaux.jpg" width="300" height="195">
 
   </a>
 
@@ -237,9 +237,9 @@ The favorite Reich Family dining destination is Chateau Bordeaux. It's a little 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Pose #2" target="_blank" href="/files/photos/stjohn/images/chateau-bordeaux-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Pose #2" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/chateau-bordeaux-2.jpg">
 
-    <img class="journalPhoto" alt="Pose #2" src="/files/photos/stjohn/images/chateau-bordeaux-2.jpg" width="300" height="207">
+    <img class="journalPhoto" alt="Pose #2" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/chateau-bordeaux-2.jpg" width="300" height="207">
 
   </a>
 
@@ -259,23 +259,9 @@ I never seem to get tired of snorkeling in St. John. Unfortuantely, these photos
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/stjohn/images/snorkel-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/snorkel-1.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/stjohn/images/snorkel-1.jpg" width="300" height="247">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/stjohn/images/snorkel-2.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/stjohn/images/snorkel-2.jpg" width="300" height="190">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/snorkel-1.jpg" width="300" height="247">
 
   </a>
 
@@ -287,9 +273,23 @@ I never seem to get tired of snorkeling in St. John. Unfortuantely, these photos
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/stjohn/images/snorkel-3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/snorkel-2.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/stjohn/images/snorkel-3.jpg" width="300" height="328">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/snorkel-2.jpg" width="300" height="190">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/snorkel-3.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/stjohn/images/snorkel-3.jpg" width="300" height="328">
 
   </a>
 

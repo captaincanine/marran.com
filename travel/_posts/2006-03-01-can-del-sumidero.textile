@@ -19,9 +19,9 @@ description: "On our last day in San Crist\xC3\xB3bal, we decided to get an earl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A grand view approaching the canyon." target="_blank" href="/files/photos/chiapas/canyon-bestview.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A grand view approaching the canyon." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-bestview.jpg">
 
-    <img class="journalPhoto" alt="A grand view approaching the canyon." src="/files/photos/chiapas/canyon-bestview.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="A grand view approaching the canyon." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-bestview.jpg" height="400" width="600">
 
   </a>
 
@@ -33,9 +33,9 @@ description: "On our last day in San Crist\xC3\xB3bal, we decided to get an earl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The only bridge over the canyon." target="_blank" href="/files/photos/chiapas/canyon-bridge-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The only bridge over the canyon." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-bridge-1.jpg">
 
-    <img class="journalPhoto" alt="The only bridge over the canyon." src="/files/photos/chiapas/canyon-bridge-1.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The only bridge over the canyon." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-bridge-1.jpg" height="266" width="400">
 
   </a>
 
@@ -47,9 +47,9 @@ description: "On our last day in San Crist\xC3\xB3bal, we decided to get an earl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A crocodile we saw along the banks." target="_blank" href="/files/photos/chiapas/canyon-crocodile.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A crocodile we saw along the banks." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-crocodile.jpg">
 
-    <img class="journalPhoto" alt="A crocodile we saw along the banks." src="/files/photos/chiapas/canyon-crocodile.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A crocodile we saw along the banks." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-crocodile.jpg" height="266" width="400">
 
   </a>
 
@@ -61,9 +61,9 @@ description: "On our last day in San Crist\xC3\xB3bal, we decided to get an earl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The crocodile started coming towards us. Some of the women screamed." target="_blank" href="/files/photos/chiapas/canyon-crocodileswimming.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The crocodile started coming towards us. Some of the women screamed." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-crocodileswimming.jpg">
 
-    <img class="journalPhoto" alt="The crocodile started coming towards us. Some of the women screamed." src="/files/photos/chiapas/canyon-crocodileswimming.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The crocodile started coming towards us. Some of the women screamed." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-crocodileswimming.jpg" height="266" width="400">
 
   </a>
 
@@ -75,9 +75,9 @@ description: "On our last day in San Crist\xC3\xB3bal, we decided to get an earl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Look carefully and you'll see monkeys in the trees" target="_blank" href="/files/photos/chiapas/canyon-monkeys.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Look carefully and you'll see monkeys in the trees" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-monkeys.jpg">
 
-    <img class="journalPhoto" alt="Look carefully and you'll see monkeys in the trees" src="/files/photos/chiapas/canyon-monkeys.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Look carefully and you'll see monkeys in the trees" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-monkeys.jpg" height="266" width="400">
 
   </a>
 
@@ -89,9 +89,9 @@ description: "On our last day in San Crist\xC3\xB3bal, we decided to get an earl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="There were vultures everywhere along the canyon" target="_blank" href="/files/photos/chiapas/canyon-vulture.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="There were vultures everywhere along the canyon" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-vulture.jpg">
 
-    <img class="journalPhoto" alt="There were vultures everywhere along the canyon" src="/files/photos/chiapas/canyon-vulture.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="There were vultures everywhere along the canyon" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-vulture.jpg" height="266" width="400">
 
   </a>
 
@@ -105,9 +105,9 @@ description: "On our last day in San Crist\xC3\xB3bal, we decided to get an earl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The shrine" target="_blank" href="/files/photos/chiapas/canyon-shrine.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The shrine" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-shrine.jpg">
 
-    <img class="journalPhoto" alt="The shrine" src="/files/photos/chiapas/canyon-shrine.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The shrine" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-shrine.jpg" height="266" width="400">
 
   </a>
 
@@ -121,9 +121,9 @@ description: "On our last day in San Crist\xC3\xB3bal, we decided to get an earl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/canyon-lunchparrot.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-lunchparrot.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/canyon-lunchparrot.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-lunchparrot.jpg" height="266" width="400">
 
   </a>
 
@@ -135,9 +135,9 @@ description: "On our last day in San Crist\xC3\xB3bal, we decided to get an earl
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/canyon-lunchparrot-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-lunchparrot-1.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/canyon-lunchparrot-1.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/canyon-lunchparrot-1.jpg" height="266" width="400">
 
   </a>
 

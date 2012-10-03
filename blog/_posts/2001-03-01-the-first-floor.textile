@@ -17,9 +17,9 @@ description: We're now on the first floor. This is the future home of the dining
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front door entrance to our part of the house." target="_blank" href="/files/photos/mission_home/first.front_entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front door entrance to our part of the house." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.front_entrance.jpg">
 
-    <img class="journalPhoto" alt="The front door entrance to our part of the house." src="/files/photos/mission_home/first.front_entrance.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The front door entrance to our part of the house." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.front_entrance.jpg" width="300" height="225">
 
   </a>
 
@@ -31,9 +31,9 @@ description: We're now on the first floor. This is the future home of the dining
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of the street side of the first floor. You can't see in this picture the wrought iron ivy grates on the front windows. You also get no idea how big this room feels (for Manhattan)." target="_blank" href="/files/photos/mission_home/first.front_view.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of the street side of the first floor. You can't see in this picture the wrought iron ivy grates on the front windows. You also get no idea how big this room feels (for Manhattan)." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.front_view.jpg">
 
-    <img class="journalPhoto" alt="The view of the street side of the first floor. You can't see in this picture the wrought iron ivy grates on the front windows. You also get no idea how big this room feels (for Manhattan)." src="/files/photos/mission_home/first.front_view.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The view of the street side of the first floor. You can't see in this picture the wrought iron ivy grates on the front windows. You also get no idea how big this room feels (for Manhattan)." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.front_view.jpg" width="300" height="225">
 
   </a>
 
@@ -45,9 +45,9 @@ description: We're now on the first floor. This is the future home of the dining
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The fireplace. David foolishly got rid of the little swirlies." target="_blank" href="/files/photos/mission_home/first.front_fire.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The fireplace. David foolishly got rid of the little swirlies." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.front_fire.jpg">
 
-    <img class="journalPhoto" alt="The fireplace. David foolishly got rid of the little swirlies." src="/files/photos/mission_home/first.front_fire.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="The fireplace. David foolishly got rid of the little swirlies." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.front_fire.jpg" width="200" height="267">
 
   </a>
 
@@ -59,9 +59,9 @@ description: We're now on the first floor. This is the future home of the dining
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the living room." target="_blank" href="/files/photos/mission_home/first.middle.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More of the living room." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.middle.jpg">
 
-    <img class="journalPhoto" alt="More of the living room." src="/files/photos/mission_home/first.middle.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="More of the living room." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.middle.jpg" width="300" height="225">
 
   </a>
 
@@ -73,9 +73,9 @@ description: We're now on the first floor. This is the future home of the dining
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The kitchen fireplace. Our smaller dining table will go in front of this fireplace. The mantel is solid marble, and someone painted over it!" target="_blank" href="/files/photos/mission_home/first.kitchen_fire.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The kitchen fireplace. Our smaller dining table will go in front of this fireplace. The mantel is solid marble, and someone painted over it!" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.kitchen_fire.jpg">
 
-    <img class="journalPhoto" alt="The kitchen fireplace. Our smaller dining table will go in front of this fireplace. The mantel is solid marble, and someone painted over it!" src="/files/photos/mission_home/first.kitchen_fire.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="The kitchen fireplace. Our smaller dining table will go in front of this fireplace. The mantel is solid marble, and someone painted over it!" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.kitchen_fire.jpg" width="300" height="225">
 
   </a>
 
@@ -87,9 +87,9 @@ description: We're now on the first floor. This is the future home of the dining
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More kitchen. This wall will have fridge, cabinets, sink, etc. The room will have a large island in the center." target="_blank" href="/files/photos/mission_home/first.kitchen.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More kitchen. This wall will have fridge, cabinets, sink, etc. The room will have a large island in the center." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.kitchen.jpg">
 
-    <img class="journalPhoto" alt="More kitchen. This wall will have fridge, cabinets, sink, etc. The room will have a large island in the center." src="/files/photos/mission_home/first.kitchen.jpg" width="300" height="225">
+    <img class="journalPhoto" alt="More kitchen. This wall will have fridge, cabinets, sink, etc. The room will have a large island in the center." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.kitchen.jpg" width="300" height="225">
 
   </a>
 
@@ -101,9 +101,9 @@ description: We're now on the first floor. This is the future home of the dining
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of our backyard from the kitchen." target="_blank" href="/files/photos/mission_home/first.rear_view.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of our backyard from the kitchen." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.rear_view.jpg">
 
-    <img class="journalPhoto" alt="The view of our backyard from the kitchen." src="/files/photos/mission_home/first.rear_view.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="The view of our backyard from the kitchen." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.rear_view.jpg" width="200" height="267">
 
   </a>
 
@@ -115,9 +115,9 @@ description: We're now on the first floor. This is the future home of the dining
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The hallway leaving the kitchen." target="_blank" href="/files/photos/mission_home/first.hallway.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The hallway leaving the kitchen." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.hallway.jpg">
 
-    <img class="journalPhoto" alt="The hallway leaving the kitchen." src="/files/photos/mission_home/first.hallway.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="The hallway leaving the kitchen." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.hallway.jpg" width="200" height="267">
 
   </a>
 
@@ -129,9 +129,9 @@ description: We're now on the first floor. This is the future home of the dining
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="And up the stairs to the second floor." target="_blank" href="/files/photos/mission_home/first.stairs.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="And up the stairs to the second floor." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.stairs.jpg">
 
-    <img class="journalPhoto" alt="And up the stairs to the second floor." src="/files/photos/mission_home/first.stairs.jpg" width="200" height="267">
+    <img class="journalPhoto" alt="And up the stairs to the second floor." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/mission_home/first.stairs.jpg" width="200" height="267">
 
   </a>
 

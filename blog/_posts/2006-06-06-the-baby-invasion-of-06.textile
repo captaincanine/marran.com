@@ -24,9 +24,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo back from surgery, looking rather dopey." target="_blank" href="/files/photos/lorenz/Baby-Invasion/Dopey-Gogo.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo back from surgery, looking rather dopey." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Dopey-Gogo.jpg">
 
-    <img class="journalPhoto" alt="Gogo back from surgery, looking rather dopey." src="/files/photos/lorenz/Baby-Invasion/Dopey-Gogo.jpg" width="400" height="266">
+    <img class="journalPhoto" alt="Gogo back from surgery, looking rather dopey." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Dopey-Gogo.jpg" width="400" height="266">
 
   </a>
 
@@ -40,9 +40,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David's over-exuberance worked on Lorenz. He started smiling without any idea as to what he was smiling about." target="_blank" href="/files/photos/lorenz/Baby-Invasion/David-Holding-Lorenz-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David's over-exuberance worked on Lorenz. He started smiling without any idea as to what he was smiling about." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/David-Holding-Lorenz-1.jpg">
 
-    <img class="journalPhoto" alt="David's over-exuberance worked on Lorenz. He started smiling without any idea as to what he was smiling about." src="/files/photos/lorenz/Baby-Invasion/David-Holding-Lorenz-1.jpg" width="300" height="450">
+    <img class="journalPhoto" alt="David's over-exuberance worked on Lorenz. He started smiling without any idea as to what he was smiling about." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/David-Holding-Lorenz-1.jpg" width="300" height="450">
 
   </a>
 
@@ -56,9 +56,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lorenz and Rhonda" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Rhonda.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lorenz and Rhonda" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Rhonda.jpg">
 
-    <img class="journalPhoto" alt="Lorenz and Rhonda" src="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Rhonda.jpg" width="600" height="399">
+    <img class="journalPhoto" alt="Lorenz and Rhonda" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Rhonda.jpg" width="600" height="399">
 
   </a>
 
@@ -72,9 +72,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's Ian clinging to Renee" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Clinging-to-Renee.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's Ian clinging to Renee" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Clinging-to-Renee.jpg">
 
-    <img class="journalPhoto" alt="Here's Ian clinging to Renee" src="/files/photos/lorenz/Baby-Invasion/Clinging-to-Renee.jpg" width="400" height="600">
+    <img class="journalPhoto" alt="Here's Ian clinging to Renee" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Clinging-to-Renee.jpg" width="400" height="600">
 
   </a>
 
@@ -86,9 +86,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's the whole clan preparing for a walk. Evan, Renee, Ian, Rhonda, Lorenz, and Oz." target="_blank" href="/files/photos/lorenz/Baby-Invasion/The-Whole-Clan.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here's the whole clan preparing for a walk. Evan, Renee, Ian, Rhonda, Lorenz, and Oz." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/The-Whole-Clan.jpg">
 
-    <img class="journalPhoto" alt="Here's the whole clan preparing for a walk. Evan, Renee, Ian, Rhonda, Lorenz, and Oz." src="/files/photos/lorenz/Baby-Invasion/The-Whole-Clan.jpg" width="600" height="399">
+    <img class="journalPhoto" alt="Here's the whole clan preparing for a walk. Evan, Renee, Ian, Rhonda, Lorenz, and Oz." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/The-Whole-Clan.jpg" width="600" height="399">
 
   </a>
 
@@ -102,9 +102,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo in her wagon" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Gogo-in-Wagon.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo in her wagon" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Gogo-in-Wagon.jpg">
 
-    <img class="journalPhoto" alt="Gogo in her wagon" src="/files/photos/lorenz/Baby-Invasion/Gogo-in-Wagon.jpg" width="400" height="601">
+    <img class="journalPhoto" alt="Gogo in her wagon" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Gogo-in-Wagon.jpg" width="400" height="601">
 
   </a>
 
@@ -118,9 +118,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lorenz in his stroller" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Lorenz-in-Stroller.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lorenz in his stroller" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-in-Stroller.jpg">
 
-    <img class="journalPhoto" alt="Lorenz in his stroller" src="/files/photos/lorenz/Baby-Invasion/Lorenz-in-Stroller.jpg" width="400" height="266">
+    <img class="journalPhoto" alt="Lorenz in his stroller" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-in-Stroller.jpg" width="400" height="266">
 
   </a>
 
@@ -134,9 +134,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Evan, Ian, and Renee on the pier." target="_blank" href="/files/photos/lorenz/Baby-Invasion/Evan-Renee-and-Ian.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Evan, Ian, and Renee on the pier." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Evan-Renee-and-Ian.jpg">
 
-    <img class="journalPhoto" alt="Evan, Ian, and Renee on the pier." src="/files/photos/lorenz/Baby-Invasion/Evan-Renee-and-Ian.jpg" width="399" height="600">
+    <img class="journalPhoto" alt="Evan, Ian, and Renee on the pier." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Evan-Renee-and-Ian.jpg" width="399" height="600">
 
   </a>
 
@@ -150,9 +150,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo in the sun smiling at David" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Happy-Gogo.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo in the sun smiling at David" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Happy-Gogo.jpg">
 
-    <img class="journalPhoto" alt="Gogo in the sun smiling at David" src="/files/photos/lorenz/Baby-Invasion/Happy-Gogo.jpg" width="600" height="399">
+    <img class="journalPhoto" alt="Gogo in the sun smiling at David" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Happy-Gogo.jpg" width="600" height="399">
 
   </a>
 
@@ -166,9 +166,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here we are, exhausted from the heat." target="_blank" href="/files/photos/lorenz/Baby-Invasion/Wiped-Out-From-Heat.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Here we are, exhausted from the heat." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Wiped-Out-From-Heat.jpg">
 
-    <img class="journalPhoto" alt="Here we are, exhausted from the heat." src="/files/photos/lorenz/Baby-Invasion/Wiped-Out-From-Heat.jpg" width="600" height="400">
+    <img class="journalPhoto" alt="Here we are, exhausted from the heat." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Wiped-Out-From-Heat.jpg" width="600" height="400">
 
   </a>
 
@@ -182,9 +182,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Ian sleeping" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Ian-Sleeping.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Ian sleeping" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Sleeping.jpg">
 
-    <img class="journalPhoto" alt="Ian sleeping" src="/files/photos/lorenz/Baby-Invasion/Ian-Sleeping.jpg" width="266" height="400">
+    <img class="journalPhoto" alt="Ian sleeping" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Sleeping.jpg" width="266" height="400">
 
   </a>
 
@@ -198,23 +198,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David.jpg" width="400" height="266">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-1.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-1.jpg" width="400" height="266">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David.jpg" width="400" height="266">
 
   </a>
 
@@ -226,9 +212,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-1.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-3.jpg" width="400" height="266">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-1.jpg" width="400" height="266">
 
   </a>
 
@@ -240,9 +226,23 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-3.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-2.jpg" width="400" height="266">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-3.jpg" width="400" height="266">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-2.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Ian-Begging-from-David-2.jpg" width="400" height="266">
 
   </a>
 
@@ -256,9 +256,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Poor Gogo" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Gogo-Hiding-under-Piano.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Poor Gogo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Gogo-Hiding-under-Piano.jpg">
 
-    <img class="journalPhoto" alt="Poor Gogo" src="/files/photos/lorenz/Baby-Invasion/Gogo-Hiding-under-Piano.jpg" width="400" height="266">
+    <img class="journalPhoto" alt="Poor Gogo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Gogo-Hiding-under-Piano.jpg" width="400" height="266">
 
   </a>
 
@@ -272,9 +272,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Noble Oz" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Noble-Oz.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Noble Oz" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Noble-Oz.jpg">
 
-    <img class="journalPhoto" alt="Noble Oz" src="/files/photos/lorenz/Baby-Invasion/Noble-Oz.jpg" width="400" height="266">
+    <img class="journalPhoto" alt="Noble Oz" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Noble-Oz.jpg" width="400" height="266">
 
   </a>
 
@@ -290,9 +290,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lorenz and Oz in the Living Room" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Oz-in-Living-Room.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lorenz and Oz in the Living Room" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Oz-in-Living-Room.jpg">
 
-    <img class="journalPhoto" alt="Lorenz and Oz in the Living Room" src="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Oz-in-Living-Room.jpg" width="600" height="400">
+    <img class="journalPhoto" alt="Lorenz and Oz in the Living Room" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Oz-in-Living-Room.jpg" width="600" height="400">
 
   </a>
 
@@ -306,9 +306,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Sis Comforting Gogo" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Sis-Comforting-Gogo.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Sis Comforting Gogo" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Sis-Comforting-Gogo.jpg">
 
-    <img class="journalPhoto" alt="Sis Comforting Gogo" src="/files/photos/lorenz/Baby-Invasion/Sis-Comforting-Gogo.jpg" width="600" height="400">
+    <img class="journalPhoto" alt="Sis Comforting Gogo" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Sis-Comforting-Gogo.jpg" width="600" height="400">
 
   </a>
 
@@ -320,9 +320,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lorenz in the Backyard" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Happy-Lorenz.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lorenz in the Backyard" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Happy-Lorenz.jpg">
 
-    <img class="journalPhoto" alt="Lorenz in the Backyard" src="/files/photos/lorenz/Baby-Invasion/Happy-Lorenz.jpg" width="800" height="532">
+    <img class="journalPhoto" alt="Lorenz in the Backyard" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Happy-Lorenz.jpg" width="800" height="532">
 
   </a>
 
@@ -336,9 +336,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Upset Lorenz" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Lorenz-Upset.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Upset Lorenz" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-Upset.jpg">
 
-    <img class="journalPhoto" alt="Upset Lorenz" src="/files/photos/lorenz/Baby-Invasion/Lorenz-Upset.jpg" width="600" height="399">
+    <img class="journalPhoto" alt="Upset Lorenz" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-Upset.jpg" width="600" height="399">
 
   </a>
 
@@ -350,9 +350,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo and Oz keeping an eye on Lorenz from a respectful distance" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Lorenz-Oz-and-Gogo-Outside.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo and Oz keeping an eye on Lorenz from a respectful distance" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-Oz-and-Gogo-Outside.jpg">
 
-    <img class="journalPhoto" alt="Gogo and Oz keeping an eye on Lorenz from a respectful distance" src="/files/photos/lorenz/Baby-Invasion/Lorenz-Oz-and-Gogo-Outside.jpg" width="600" height="399">
+    <img class="journalPhoto" alt="Gogo and Oz keeping an eye on Lorenz from a respectful distance" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-Oz-and-Gogo-Outside.jpg" width="600" height="399">
 
   </a>
 
@@ -366,23 +366,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside.jpg" width="600" height="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-1.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-1.jpg" width="600" height="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside.jpg" width="600" height="400">
 
   </a>
 
@@ -394,9 +380,9 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-4.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-1.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-4.jpg" width="600" height="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-1.jpg" width="600" height="400">
 
   </a>
 
@@ -408,9 +394,23 @@ description: "In August of 2006, my sister, Christine, came to New York for a co
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-5.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-4.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-5.jpg" width="600" height="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-4.jpg" width="600" height="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-5.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/lorenz/Baby-Invasion/Lorenz-and-Sis-Outside-5.jpg" width="600" height="400">
 
   </a>
 

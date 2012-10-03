@@ -19,9 +19,9 @@ description: We didn't have much time on our last full day. I wanted to do just 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The House that George Bernard Shaw and Virginia Woolf Lived In (at separate times)" target="_blank" href="/files/photos/london/shaw-woolf-house.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The House that George Bernard Shaw and Virginia Woolf Lived In (at separate times)" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/shaw-woolf-house.jpg">
 
-    <img class="journalPhoto" alt="The House that George Bernard Shaw and Virginia Woolf Lived In (at separate times)" src="/files/photos/london/shaw-woolf-house.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The House that George Bernard Shaw and Virginia Woolf Lived In (at separate times)" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/shaw-woolf-house.jpg" height="266" width="400">
 
   </a>
 
@@ -39,9 +39,9 @@ description: We didn't have much time on our last full day. I wanted to do just 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Entrance to St. Pauls" target="_blank" href="/files/photos/london/stpauls-entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Entrance to St. Pauls" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/stpauls-entrance.jpg">
 
-    <img class="journalPhoto" alt="The Entrance to St. Pauls" src="/files/photos/london/stpauls-entrance.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The Entrance to St. Pauls" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/stpauls-entrance.jpg" height="266" width="400">
 
   </a>
 
@@ -53,9 +53,9 @@ description: We didn't have much time on our last full day. I wanted to do just 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Ceiling of St. Pauls" target="_blank" href="/files/photos/london/stpauls-ceiling.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Ceiling of St. Pauls" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/stpauls-ceiling.jpg">
 
-    <img class="journalPhoto" alt="The Ceiling of St. Pauls" src="/files/photos/london/stpauls-ceiling.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The Ceiling of St. Pauls" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/stpauls-ceiling.jpg" height="266" width="400">
 
   </a>
 

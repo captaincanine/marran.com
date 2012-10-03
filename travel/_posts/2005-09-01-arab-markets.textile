@@ -15,9 +15,9 @@ description: Jerusalem is more than just the land of religious epiphanies. It is
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A street in the Christian Quarter" target="_blank" href="/files/photos/israel/market-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A street in the Christian Quarter" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-1.jpg">
 
-    <img class="journalPhoto" alt="A street in the Christian Quarter" src="/files/photos/israel/market-1.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A street in the Christian Quarter" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-1.jpg" height="200" width="150">
 
   </a>
 
@@ -29,9 +29,9 @@ description: Jerusalem is more than just the land of religious epiphanies. It is
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another street in the Christian Quarter" target="_blank" href="/files/photos/israel/market-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another street in the Christian Quarter" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-2.jpg">
 
-    <img class="journalPhoto" alt="Another street in the Christian Quarter" src="/files/photos/israel/market-2.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Another street in the Christian Quarter" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-2.jpg" height="200" width="150">
 
   </a>
 
@@ -45,9 +45,9 @@ description: Jerusalem is more than just the land of religious epiphanies. It is
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="We stumbled into a square looking for turkish coffee" target="_blank" href="/files/photos/israel/market-david.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="We stumbled into a square looking for turkish coffee" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-david.jpg">
 
-    <img class="journalPhoto" alt="We stumbled into a square looking for turkish coffee" src="/files/photos/israel/market-david.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="We stumbled into a square looking for turkish coffee" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-david.jpg" height="150" width="200">
 
   </a>
 
@@ -59,9 +59,9 @@ description: Jerusalem is more than just the land of religious epiphanies. It is
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of where we stopped" target="_blank" href="/files/photos/israel/market-coffeebreak.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of where we stopped" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-coffeebreak.jpg">
 
-    <img class="journalPhoto" alt="A view of where we stopped" src="/files/photos/israel/market-coffeebreak.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A view of where we stopped" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-coffeebreak.jpg" height="150" width="200">
 
   </a>
 
@@ -73,9 +73,9 @@ description: Jerusalem is more than just the land of religious epiphanies. It is
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The shop owners that we made very happy. The kid that found us is in the center." target="_blank" href="/files/photos/israel/market-petracaves.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The shop owners that we made very happy. The kid that found us is in the center." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-petracaves.jpg">
 
-    <img class="journalPhoto" alt="The shop owners that we made very happy. The kid that found us is in the center." src="/files/photos/israel/market-petracaves.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The shop owners that we made very happy. The kid that found us is in the center." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/market-petracaves.jpg" height="150" width="200">
 
   </a>
 

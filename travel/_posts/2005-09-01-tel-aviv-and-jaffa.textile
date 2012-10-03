@@ -15,9 +15,9 @@ description: David and I met in Zurich and flew together to Tel Aviv. He had flo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the Tel Aviv beach from our hotel room." target="_blank" href="/files/photos/israel/telaviv-hotel-view.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A view of the Tel Aviv beach from our hotel room." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/telaviv-hotel-view.jpg">
 
-    <img class="journalPhoto" alt="A view of the Tel Aviv beach from our hotel room." src="/files/photos/israel/telaviv-hotel-view.jpg" height="225" width="300">
+    <img class="journalPhoto" alt="A view of the Tel Aviv beach from our hotel room." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/telaviv-hotel-view.jpg" height="225" width="300">
 
   </a>
 
@@ -33,9 +33,9 @@ description: David and I met in Zurich and flew together to Tel Aviv. He had flo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A street in Jaffa at night" target="_blank" href="/files/photos/israel/telaviv-jaffa-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A street in Jaffa at night" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/telaviv-jaffa-1.jpg">
 
-    <img class="journalPhoto" alt="A street in Jaffa at night" src="/files/photos/israel/telaviv-jaffa-1.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A street in Jaffa at night" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/telaviv-jaffa-1.jpg" height="200" width="150">
 
   </a>
 
@@ -47,9 +47,9 @@ description: David and I met in Zurich and flew together to Tel Aviv. He had flo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="An old building in Jaffa" target="_blank" href="/files/photos/israel/telaviv-jaffa-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="An old building in Jaffa" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/telaviv-jaffa-2.jpg">
 
-    <img class="journalPhoto" alt="An old building in Jaffa" src="/files/photos/israel/telaviv-jaffa-2.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="An old building in Jaffa" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/telaviv-jaffa-2.jpg" height="150" width="200">
 
   </a>
 

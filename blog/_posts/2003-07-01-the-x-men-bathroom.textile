@@ -20,9 +20,9 @@ description: Somehow, somewhere, I got the idea in my head of creating a bathroo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/sample_image.gif">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/sample_image.gif">
 
-    <img alt="" src="/files/photos/renovation/top_bathroom/sample_image.gif" width="500">
+    <img alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/sample_image.gif" width="500">
 
   </a>
 
@@ -38,9 +38,9 @@ description: Somehow, somewhere, I got the idea in my head of creating a bathroo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/sample_tile.gif">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/sample_tile.gif">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/sample_tile.gif" width="525" height="333">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/sample_tile.gif" width="525" height="333">
 
   </a>
 
@@ -54,23 +54,9 @@ description: Somehow, somewhere, I got the idea in my head of creating a bathroo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/david_behind.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/david_behind.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/david_behind.jpg" width="300" height="188">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/keith_at_work.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/keith_at_work.jpg" width="300" height="219">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/david_behind.jpg" width="300" height="188">
 
   </a>
 
@@ -82,9 +68,23 @@ description: Somehow, somewhere, I got the idea in my head of creating a bathroo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/david_profile.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/keith_at_work.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/david_profile.jpg" width="300" height="218">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/keith_at_work.jpg" width="300" height="219">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/david_profile.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/david_profile.jpg" width="300" height="218">
 
   </a>
 
@@ -100,9 +100,9 @@ description: Somehow, somewhere, I got the idea in my head of creating a bathroo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/layout_on_floor.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/layout_on_floor.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/layout_on_floor.jpg" width="300" height="236">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/layout_on_floor.jpg" width="300" height="236">
 
   </a>
 
@@ -118,23 +118,9 @@ description: Somehow, somewhere, I got the idea in my head of creating a bathroo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/laundry.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/laundry.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/laundry.jpg" width="240" height="320">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/shower.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/shower.jpg" width="240" height="320">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/laundry.jpg" width="240" height="320">
 
   </a>
 
@@ -146,23 +132,9 @@ description: Somehow, somewhere, I got the idea in my head of creating a bathroo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/se_corner.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/shower.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/se_corner.jpg" width="240" height="320">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/jacuzzi.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/jacuzzi.jpg" width="320" height="240">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/shower.jpg" width="240" height="320">
 
   </a>
 
@@ -174,9 +146,9 @@ description: Somehow, somewhere, I got the idea in my head of creating a bathroo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/sw_corner.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/se_corner.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/sw_corner.jpg" width="240" height="320">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/se_corner.jpg" width="240" height="320">
 
   </a>
 
@@ -188,9 +160,37 @@ description: Somehow, somewhere, I got the idea in my head of creating a bathroo
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/renovation/top_bathroom/sink.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/jacuzzi.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/renovation/top_bathroom/sink.jpg" width="320" height="240">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/jacuzzi.jpg" width="320" height="240">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/sw_corner.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/sw_corner.jpg" width="240" height="320">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/sink.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/renovation/top_bathroom/sink.jpg" width="320" height="240">
 
   </a>
 

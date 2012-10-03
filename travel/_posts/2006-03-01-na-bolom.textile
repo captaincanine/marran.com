@@ -15,9 +15,9 @@ description: "Our hotel in San Crist\xC3\xB3bal was pretty incredible. We spent 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front entrance of Na Bolom. At night, you have to knock on the door to be let onto the grounds. The floor is made with upside down wine bottles embedded into cement." target="_blank" href="/files/photos/chiapas/nabolom-entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front entrance of Na Bolom. At night, you have to knock on the door to be let onto the grounds. The floor is made with upside down wine bottles embedded into cement." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-entrance.jpg">
 
-    <img class="journalPhoto" alt="The front entrance of Na Bolom. At night, you have to knock on the door to be let onto the grounds. The floor is made with upside down wine bottles embedded into cement." src="/files/photos/chiapas/nabolom-entrance.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="The front entrance of Na Bolom. At night, you have to knock on the door to be let onto the grounds. The floor is made with upside down wine bottles embedded into cement." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-entrance.jpg" height="400" width="266">
 
   </a>
 
@@ -29,9 +29,9 @@ description: "Our hotel in San Crist\xC3\xB3bal was pretty incredible. We spent 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the room we stayed in for the first two nights." target="_blank" href="/files/photos/chiapas/nabolom-firstroom.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the room we stayed in for the first two nights." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-firstroom.jpg">
 
-    <img class="journalPhoto" alt="This is the room we stayed in for the first two nights." src="/files/photos/chiapas/nabolom-firstroom.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="This is the room we stayed in for the first two nights." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-firstroom.jpg" height="266" width="400">
 
   </a>
 
@@ -43,9 +43,9 @@ description: "Our hotel in San Crist\xC3\xB3bal was pretty incredible. We spent 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main courtyard" target="_blank" href="/files/photos/chiapas/nabolom-courtyard.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The main courtyard" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-courtyard.jpg">
 
-    <img class="journalPhoto" alt="The main courtyard" src="/files/photos/chiapas/nabolom-courtyard.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The main courtyard" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-courtyard.jpg" height="266" width="400">
 
   </a>
 
@@ -57,9 +57,9 @@ description: "Our hotel in San Crist\xC3\xB3bal was pretty incredible. We spent 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Some iron work along the hall" target="_blank" href="/files/photos/chiapas/nabolom-courtyard-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Some iron work along the hall" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-courtyard-1.jpg">
 
-    <img class="journalPhoto" alt="Some iron work along the hall" src="/files/photos/chiapas/nabolom-courtyard-1.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Some iron work along the hall" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-courtyard-1.jpg" height="266" width="400">
 
   </a>
 
@@ -71,9 +71,9 @@ description: "Our hotel in San Crist\xC3\xB3bal was pretty incredible. We spent 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of the courtyard directly outside our room." target="_blank" href="/files/photos/chiapas/nobolom-secondcourtyard.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view of the courtyard directly outside our room." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nobolom-secondcourtyard.jpg">
 
-    <img class="journalPhoto" alt="The view of the courtyard directly outside our room." src="/files/photos/chiapas/nobolom-secondcourtyard.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="The view of the courtyard directly outside our room." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nobolom-secondcourtyard.jpg" height="400" width="266">
 
   </a>
 
@@ -85,9 +85,9 @@ description: "Our hotel in San Crist\xC3\xB3bal was pretty incredible. We spent 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David built a fire in our room. Being in the mountains, it got quite cold at night." target="_blank" href="/files/photos/chiapas/nabolom-roomfire.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David built a fire in our room. Being in the mountains, it got quite cold at night." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-roomfire.jpg">
 
-    <img class="journalPhoto" alt="David built a fire in our room. Being in the mountains, it got quite cold at night." src="/files/photos/chiapas/nabolom-roomfire.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="David built a fire in our room. Being in the mountains, it got quite cold at night." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-roomfire.jpg" height="266" width="400">
 
   </a>
 
@@ -101,9 +101,9 @@ description: "Our hotel in San Crist\xC3\xB3bal was pretty incredible. We spent 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Diego Rivera Room - although that's not what the hotel calls it." target="_blank" href="/files/photos/chiapas/nabolom-diegoriveraroom.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Diego Rivera Room - although that's not what the hotel calls it." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-diegoriveraroom.jpg">
 
-    <img class="journalPhoto" alt="The Diego Rivera Room - although that's not what the hotel calls it." src="/files/photos/chiapas/nabolom-diegoriveraroom.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The Diego Rivera Room - although that's not what the hotel calls it." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-diegoriveraroom.jpg" height="266" width="400">
 
   </a>
 
@@ -115,9 +115,9 @@ description: "Our hotel in San Crist\xC3\xB3bal was pretty incredible. We spent 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A picture of one of our group admiring the beautiful day." target="_blank" href="/files/photos/chiapas/nabolom-kelly.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A picture of one of our group admiring the beautiful day." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-kelly.jpg">
 
-    <img class="journalPhoto" alt="A picture of one of our group admiring the beautiful day." src="/files/photos/chiapas/nabolom-kelly.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A picture of one of our group admiring the beautiful day." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/nabolom-kelly.jpg" height="266" width="400">
 
   </a>
 

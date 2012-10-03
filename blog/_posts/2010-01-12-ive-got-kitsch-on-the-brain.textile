@@ -24,7 +24,7 @@ Happy listening.
 <div class="download-box row">
   <div class="span4">
     <div class="title">
-      <i class="icon-download"></i><a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/I've%20Got%20Kitsch%20on%20the%20Brain.zip" target="_blank">Download <b>I've Got Kitsch on the Brain</b></a>
+      <i class="icon-download"></i><a href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/media/kitsch-on-the-brain.zip" target="_blank">Download <b>I've Got Kitsch on the Brain</b></a>
     </div>
     <div class="details">76.6MB</div>
   </div>

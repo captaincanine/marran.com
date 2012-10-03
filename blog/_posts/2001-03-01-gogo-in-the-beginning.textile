@@ -16,9 +16,9 @@ description: Shortly after Dorian died, I went on the American Kennel Club websi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lucy and Her Litter" target="_blank" href="/files/photos/gogo/litter.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Lucy and Her Litter" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/litter.jpg">
 
-    <img class="journalPhoto" alt="Lucy and Her Litter" src="/files/photos/gogo/litter.jpg" width="362" height="251">
+    <img class="journalPhoto" alt="Lucy and Her Litter" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/litter.jpg" width="362" height="251">
 
   </a>
 
@@ -36,9 +36,9 @@ description: Shortly after Dorian died, I went on the American Kennel Club websi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="As close to a show position as she'll ever get. This was the best of three photos." target="_blank" href="/files/photos/gogo/stacked.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="As close to a show position as she'll ever get. This was the best of three photos." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/stacked.jpg">
 
-    <img class="journalPhoto" alt="As close to a show position as she'll ever get. This was the best of three photos." src="/files/photos/gogo/stacked.jpg" width="400" height="268">
+    <img class="journalPhoto" alt="As close to a show position as she'll ever get. This was the best of three photos." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/stacked.jpg" width="400" height="268">
 
   </a>
 
@@ -56,9 +56,9 @@ description: Shortly after Dorian died, I went on the American Kennel Club websi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo with her sister, Petunia." target="_blank" href="/files/photos/gogo/gogo_and_petunia.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Gogo with her sister, Petunia." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/gogo_and_petunia.jpg">
 
-    <img class="journalPhoto" alt="Gogo with her sister, Petunia." src="/files/photos/gogo/gogo_and_petunia.jpg" width="384" height="256">
+    <img class="journalPhoto" alt="Gogo with her sister, Petunia." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/gogo_and_petunia.jpg" width="384" height="256">
 
   </a>
 
@@ -72,9 +72,9 @@ description: Shortly after Dorian died, I went on the American Kennel Club websi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/yawning.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/yawning.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/yawning.jpg" width="412" height="288">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/yawning.jpg" width="412" height="288">
 
   </a>
 
@@ -88,9 +88,9 @@ description: Shortly after Dorian died, I went on the American Kennel Club websi
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The whole clan at eight weeks. Gogo is the left-most puppy." target="_blank" href="/files/photos/gogo/eight_week_litter.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The whole clan at eight weeks. Gogo is the left-most puppy." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eight_week_litter.jpg">
 
-    <img class="journalPhoto" alt="The whole clan at eight weeks. Gogo is the left-most puppy." src="/files/photos/gogo/eight_week_litter.jpg" width="386" height="362">
+    <img class="journalPhoto" alt="The whole clan at eight weeks. Gogo is the left-most puppy." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/eight_week_litter.jpg" width="386" height="362">
 
   </a>
 

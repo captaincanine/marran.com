@@ -31,9 +31,9 @@ I would have to return to Aix in six weeks for my next haircut. I don't think he
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The altar of St. Maximin la Ste Baume" target="_blank" href="/files/photos/provence/st_maximin_altar.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The altar of St. Maximin la Ste Baume" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_maximin_altar.jpg">
 
-    <img class="journalPhoto" alt="The altar of St. Maximin la Ste Baume" src="/files/photos/provence/st_maximin_altar.jpg" height="800" width="600">
+    <img class="journalPhoto" alt="The altar of St. Maximin la Ste Baume" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_maximin_altar.jpg" height="800" width="600">
 
   </a>
 
@@ -45,9 +45,9 @@ I would have to return to Aix in six weeks for my next haircut. I don't think he
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The organ that Napolean's younger brother saved" target="_blank" href="/files/photos/provence/st_maximin_organ.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The organ that Napolean's younger brother saved" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_maximin_organ.jpg">
 
-    <img class="journalPhoto" alt="The organ that Napolean's younger brother saved" src="/files/photos/provence/st_maximin_organ.jpg" height="800" width="600">
+    <img class="journalPhoto" alt="The organ that Napolean's younger brother saved" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/st_maximin_organ.jpg" height="800" width="600">
 
   </a>
 
@@ -79,9 +79,9 @@ disrespectful.</p>
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from our hotel room on the last night - Promenade des Anglais" target="_blank" href="/files/photos/provence/last_night.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from our hotel room on the last night - Promenade des Anglais" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/last_night.jpg">
 
-    <img class="journalPhoto" alt="The view from our hotel room on the last night - Promenade des Anglais" src="/files/photos/provence/last_night.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="The view from our hotel room on the last night - Promenade des Anglais" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/provence/last_night.jpg" height="300" width="400">
 
   </a>
 

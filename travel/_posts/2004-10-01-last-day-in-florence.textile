@@ -17,9 +17,9 @@ description: We just couldn't get enough of Florence, so we changed our plans so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the ceiling" target="_blank" href="/files/photos/tuscany/santacroce_ceiling.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the ceiling" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_ceiling.jpg">
 
-    <img class="journalPhoto" alt="A shot of the ceiling" src="/files/photos/tuscany/santacroce_ceiling.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="A shot of the ceiling" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_ceiling.jpg" height="150" width="200">
 
   </a>
 
@@ -31,9 +31,9 @@ description: We just couldn't get enough of Florence, so we changed our plans so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Galileo's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_galileo.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Galileo's Tomb" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_galileo.jpg">
 
-    <img class="journalPhoto" alt="Galileo's Tomb" src="/files/photos/tuscany/santacroce_galileo.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Galileo's Tomb" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_galileo.jpg" height="200" width="150">
 
   </a>
 
@@ -45,9 +45,9 @@ description: We just couldn't get enough of Florence, so we changed our plans so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Michaelangelo's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_michealangelo.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Michaelangelo's Tomb" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_michealangelo.jpg">
 
-    <img class="journalPhoto" alt="Michaelangelo's Tomb" src="/files/photos/tuscany/santacroce_michealangelo.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Michaelangelo's Tomb" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_michealangelo.jpg" height="200" width="150">
 
   </a>
 
@@ -59,9 +59,9 @@ description: We just couldn't get enough of Florence, so we changed our plans so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Machiavelli's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_machiavelli.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Machiavelli's Tomb" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_machiavelli.jpg">
 
-    <img class="journalPhoto" alt="Machiavelli's Tomb" src="/files/photos/tuscany/santacroce_machiavelli.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Machiavelli's Tomb" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_machiavelli.jpg" height="200" width="150">
 
   </a>
 
@@ -73,9 +73,9 @@ description: We just couldn't get enough of Florence, so we changed our plans so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Rossini's Tomb" target="_blank" href="/files/photos/tuscany/santacroce_rossini.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Rossini's Tomb" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_rossini.jpg">
 
-    <img class="journalPhoto" alt="Rossini's Tomb" src="/files/photos/tuscany/santacroce_rossini.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Rossini's Tomb" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_rossini.jpg" height="200" width="150">
 
   </a>
 
@@ -87,9 +87,9 @@ description: We just couldn't get enough of Florence, so we changed our plans so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The garden" target="_blank" href="/files/photos/tuscany/santacroce_garden.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The garden" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_garden.jpg">
 
-    <img class="journalPhoto" alt="The garden" src="/files/photos/tuscany/santacroce_garden.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="The garden" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_garden.jpg" height="150" width="200">
 
   </a>
 
@@ -101,9 +101,9 @@ description: We just couldn't get enough of Florence, so we changed our plans so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mural" target="_blank" href="/files/photos/tuscany/santacroce_mural1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A mural" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_mural1.jpg">
 
-    <img class="journalPhoto" alt="A mural" src="/files/photos/tuscany/santacroce_mural1.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="A mural" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_mural1.jpg" height="200" width="150">
 
   </a>
 
@@ -115,9 +115,9 @@ description: We just couldn't get enough of Florence, so we changed our plans so
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another mural" target="_blank" href="/files/photos/tuscany/santacroce_mural2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another mural" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_mural2.jpg">
 
-    <img class="journalPhoto" alt="Another mural" src="/files/photos/tuscany/santacroce_mural2.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="Another mural" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/tuscany/santacroce_mural2.jpg" height="150" width="200">
 
   </a>
 

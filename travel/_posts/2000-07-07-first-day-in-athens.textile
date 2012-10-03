@@ -3,7 +3,7 @@ layout: post
 title: First Day in Athens
 series: 
   name: "Mediterranean Cruise 2000: Istanbul to Athens"
-  index: 62
+  index: 4
 redirects: 
 - /node/559
 - /personal/travel/greece/first-day-athens
@@ -15,9 +15,9 @@ description: Athens is hot. So very hot. Our hotel is a bit of a fleabag. Actual
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Athens dog." target="_blank" href="/files/photos/cruise2000/athens_dog1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Athens dog." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_dog1.jpg">
 
-    <img class="journalPhoto" alt="Athens dog." src="/files/photos/cruise2000/athens_dog1.jpg" height="192" width="300">
+    <img class="journalPhoto" alt="Athens dog." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_dog1.jpg" height="192" width="300">
 
   </a>
 
@@ -31,9 +31,9 @@ description: Athens is hot. So very hot. Our hotel is a bit of a fleabag. Actual
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Parthenon." target="_blank" href="/files/photos/cruise2000/athens_parthenon.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Parthenon." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_parthenon.jpg">
 
-    <img class="journalPhoto" alt="The Parthenon." src="/files/photos/cruise2000/athens_parthenon.jpg" height="300" width="400">
+    <img class="journalPhoto" alt="The Parthenon." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_parthenon.jpg" height="300" width="400">
 
   </a>
 
@@ -47,9 +47,9 @@ description: Athens is hot. So very hot. Our hotel is a bit of a fleabag. Actual
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another Athens dog. They're everywhere!" target="_blank" href="/files/photos/cruise2000/athens_dog2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another Athens dog. They're everywhere!" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_dog2.jpg">
 
-    <img class="journalPhoto" alt="Another Athens dog. They're everywhere!" src="/files/photos/cruise2000/athens_dog2.jpg" height="207" width="300">
+    <img class="journalPhoto" alt="Another Athens dog. They're everywhere!" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_dog2.jpg" height="207" width="300">
 
   </a>
 
@@ -63,9 +63,9 @@ description: Athens is hot. So very hot. Our hotel is a bit of a fleabag. Actual
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the non-Parthenon temples of the Acropolis. I can't remember which one. It was too hot to take notes." target="_blank" href="/files/photos/cruise2000/athens_acropolis.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the non-Parthenon temples of the Acropolis. I can't remember which one. It was too hot to take notes." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_acropolis.jpg">
 
-    <img class="journalPhoto" alt="One of the non-Parthenon temples of the Acropolis. I can't remember which one. It was too hot to take notes." src="/files/photos/cruise2000/athens_acropolis.jpg" height="406" width="600">
+    <img class="journalPhoto" alt="One of the non-Parthenon temples of the Acropolis. I can't remember which one. It was too hot to take notes." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/cruise2000/athens_acropolis.jpg" height="406" width="600">
 
   </a>
 

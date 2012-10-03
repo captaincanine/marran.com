@@ -15,9 +15,9 @@ description: We took a cab to the hotel. The driver reminded me of Kornblum from
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The first cafe we visited - Namesti Republiky." target="_blank" href="/files/photos/prague/namesti_republiky_int.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The first cafe we visited - Namesti Republiky." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/namesti_republiky_int.jpg">
 
-    <img class="journalPhoto" alt="The first cafe we visited - Namesti Republiky." src="/files/photos/prague/namesti_republiky_int.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="The first cafe we visited - Namesti Republiky." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/namesti_republiky_int.jpg" height="450" width="600">
 
   </a>
 
@@ -29,9 +29,9 @@ description: We took a cab to the hotel. The driver reminded me of Kornblum from
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from the outside." target="_blank" href="/files/photos/prague/namesti_republiky.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The view from the outside." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/namesti_republiky.jpg">
 
-    <img class="journalPhoto" alt="The view from the outside." src="/files/photos/prague/namesti_republiky.jpg" height="667" width="500">
+    <img class="journalPhoto" alt="The view from the outside." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/namesti_republiky.jpg" height="667" width="500">
 
   </a>
 
@@ -45,9 +45,9 @@ description: We took a cab to the hotel. The driver reminded me of Kornblum from
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Old Town Square" target="_blank" href="/files/photos/prague/old_square.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Old Town Square" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/old_square.jpg">
 
-    <img class="journalPhoto" alt="Old Town Square" src="/files/photos/prague/old_square.jpg" height="450" width="600">
+    <img class="journalPhoto" alt="Old Town Square" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/old_square.jpg" height="450" width="600">
 
   </a>
 
@@ -59,9 +59,9 @@ description: We took a cab to the hotel. The driver reminded me of Kornblum from
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Church of Our Lady" target="_blank" href="/files/photos/prague/church_of_our_lady.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Church of Our Lady" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/church_of_our_lady.jpg">
 
-    <img class="journalPhoto" alt="The Church of Our Lady" src="/files/photos/prague/church_of_our_lady.jpg" height="637" width="500">
+    <img class="journalPhoto" alt="The Church of Our Lady" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/church_of_our_lady.jpg" height="637" width="500">
 
   </a>
 
@@ -75,9 +75,9 @@ description: We took a cab to the hotel. The driver reminded me of Kornblum from
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Astrological Clock" target="_blank" href="/files/photos/prague/astrological_clock.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Astrological Clock" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/astrological_clock.jpg">
 
-    <img class="journalPhoto" alt="The Astrological Clock" src="/files/photos/prague/astrological_clock.jpg" height="700" width="467">
+    <img class="journalPhoto" alt="The Astrological Clock" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/astrological_clock.jpg" height="700" width="467">
 
   </a>
 
@@ -89,9 +89,9 @@ description: We took a cab to the hotel. The driver reminded me of Kornblum from
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Eveyone is waiting for the automatons to play." target="_blank" href="/files/photos/prague/astrological_clock_2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Eveyone is waiting for the automatons to play." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/astrological_clock_2.jpg">
 
-    <img class="journalPhoto" alt="Eveyone is waiting for the automatons to play." src="/files/photos/prague/astrological_clock_2.jpg" height="779" width="492">
+    <img class="journalPhoto" alt="Eveyone is waiting for the automatons to play." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/astrological_clock_2.jpg" height="779" width="492">
 
   </a>
 
@@ -103,9 +103,9 @@ description: We took a cab to the hotel. The driver reminded me of Kornblum from
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="U Rotta" target="_blank" href="/files/photos/prague/u_rotta.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="U Rotta" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/u_rotta.jpg">
 
-    <img class="journalPhoto" alt="U Rotta" src="/files/photos/prague/u_rotta.jpg" height="726" width="600">
+    <img class="journalPhoto" alt="U Rotta" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/u_rotta.jpg" height="726" width="600">
 
   </a>
 
@@ -119,9 +119,9 @@ description: We took a cab to the hotel. The driver reminded me of Kornblum from
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Charles Bridge" target="_blank" href="/files/photos/prague/charles_bridge_1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Charles Bridge" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/charles_bridge_1.jpg">
 
-    <img class="journalPhoto" alt="Charles Bridge" src="/files/photos/prague/charles_bridge_1.jpg" height="389" width="500">
+    <img class="journalPhoto" alt="Charles Bridge" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/charles_bridge_1.jpg" height="389" width="500">
 
   </a>
 
@@ -133,9 +133,9 @@ description: We took a cab to the hotel. The driver reminded me of Kornblum from
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More Charles Bridge" target="_blank" href="/files/photos/prague/charles_bridge_2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More Charles Bridge" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/charles_bridge_2.jpg">
 
-    <img class="journalPhoto" alt="More Charles Bridge" src="/files/photos/prague/charles_bridge_2.jpg" height="450" width="500">
+    <img class="journalPhoto" alt="More Charles Bridge" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/prague/charles_bridge_2.jpg" height="450" width="500">
 
   </a>
 

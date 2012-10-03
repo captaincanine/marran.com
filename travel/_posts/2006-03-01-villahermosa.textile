@@ -17,9 +17,9 @@ description: Our flight went from La Guardia in New York, to Mexico City, and th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our hotel had a nice lobby - including a Mayan-inspired mural that covered one wall." target="_blank" href="/files/photos/chiapas/villahermosa-lobby.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our hotel had a nice lobby - including a Mayan-inspired mural that covered one wall." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/villahermosa-lobby.jpg">
 
-    <img class="journalPhoto" alt="Our hotel had a nice lobby - including a Mayan-inspired mural that covered one wall." src="/files/photos/chiapas/villahermosa-lobby.jpg" height="400" width="600">
+    <img class="journalPhoto" alt="Our hotel had a nice lobby - including a Mayan-inspired mural that covered one wall." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/villahermosa-lobby.jpg" height="400" width="600">
 
   </a>
 
@@ -31,9 +31,9 @@ description: Our flight went from La Guardia in New York, to Mexico City, and th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the courtyard where our room was located. I didn't know the person in the shot until later. Her name is Kelly and she was part of our tour group. You have no idea how good it feels to see this in the middle of a New York winter." target="_blank" href="/files/photos/chiapas/villahermosa-courtyard.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is the courtyard where our room was located. I didn't know the person in the shot until later. Her name is Kelly and she was part of our tour group. You have no idea how good it feels to see this in the middle of a New York winter." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/villahermosa-courtyard.jpg">
 
-    <img class="journalPhoto" alt="This is the courtyard where our room was located. I didn't know the person in the shot until later. Her name is Kelly and she was part of our tour group. You have no idea how good it feels to see this in the middle of a New York winter." src="/files/photos/chiapas/villahermosa-courtyard.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="This is the courtyard where our room was located. I didn't know the person in the shot until later. Her name is Kelly and she was part of our tour group. You have no idea how good it feels to see this in the middle of a New York winter." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/villahermosa-courtyard.jpg" height="400" width="266">
 
   </a>
 
@@ -45,9 +45,9 @@ description: Our flight went from La Guardia in New York, to Mexico City, and th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David relaxing in the hotel room after a long day of air travel." target="_blank" href="/files/photos/chiapas/villahermosa-david.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David relaxing in the hotel room after a long day of air travel." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/villahermosa-david.jpg">
 
-    <img class="journalPhoto" alt="David relaxing in the hotel room after a long day of air travel." src="/files/photos/chiapas/villahermosa-david.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="David relaxing in the hotel room after a long day of air travel." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/villahermosa-david.jpg" height="266" width="400">
 
   </a>
 

@@ -15,9 +15,9 @@ description: "Today we had an early start. We met at 6:30 to visit all the stops
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Breakfast at Rio Chancalá. David is at the left of the table. Although he looks like he's focusing on the conversation, he's really contemplating having another quesadilla." target="_blank" href="/files/photos/chiapas/bonampak-breakfast.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Breakfast at Rio Chancalá. David is at the left of the table. Although he looks like he's focusing on the conversation, he's really contemplating having another quesadilla." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-breakfast.jpg">
 
-    <img class="journalPhoto" alt="Breakfast at Rio Chancalá. David is at the left of the table. Although he looks like he's focusing on the conversation, he's really contemplating having another quesadilla." src="/files/photos/chiapas/bonampak-breakfast.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Breakfast at Rio Chancalá. David is at the left of the table. Although he looks like he's focusing on the conversation, he's really contemplating having another quesadilla." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-breakfast.jpg" height="266" width="400">
 
   </a>
 
@@ -29,9 +29,9 @@ description: "Today we had an early start. We met at 6:30 to visit all the stops
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="We passed a sign warning us that we were entering Zapatista territoy. I was blissfully ignorant of the details of the sign." target="_blank" href="/files/photos/chiapas/bonampak-zapatista.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="We passed a sign warning us that we were entering Zapatista territoy. I was blissfully ignorant of the details of the sign." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-zapatista.jpg">
 
-    <img class="journalPhoto" alt="We passed a sign warning us that we were entering Zapatista territoy. I was blissfully ignorant of the details of the sign." src="/files/photos/chiapas/bonampak-zapatista.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="We passed a sign warning us that we were entering Zapatista territoy. I was blissfully ignorant of the details of the sign." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-zapatista.jpg" height="266" width="400">
 
   </a>
 
@@ -49,9 +49,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is our group having just arrived at the site of Bonampak." target="_blank" href="/files/photos/chiapas/bonampak-site.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This is our group having just arrived at the site of Bonampak." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-site.jpg">
 
-    <img class="journalPhoto" alt="This is our group having just arrived at the site of Bonampak." src="/files/photos/chiapas/bonampak-site.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="This is our group having just arrived at the site of Bonampak." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-site.jpg" height="266" width="400">
 
   </a>
 
@@ -63,23 +63,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonamapak-mural.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonamapak-mural.jpg">
 
-    <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonamapak-mural.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption">A Room at Bonampak</div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-mural-1.jpg">
-
-    <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonampak-mural-1.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A Room at Bonampak" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonamapak-mural.jpg" height="266" width="400">
 
   </a>
 
@@ -91,9 +77,23 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This mural depicts a captured and bleeding warrior in the bottom" target="_blank" href="/files/photos/chiapas/bonampak-mural-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-mural-1.jpg">
 
-    <img class="journalPhoto" alt="This mural depicts a captured and bleeding warrior in the bottom" src="/files/photos/chiapas/bonampak-mural-2.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A Room at Bonampak" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-mural-1.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption">A Room at Bonampak</div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This mural depicts a captured and bleeding warrior in the bottom" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-mural-2.jpg">
+
+    <img class="journalPhoto" alt="This mural depicts a captured and bleeding warrior in the bottom" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-mural-2.jpg" height="266" width="400">
 
   </a>
 
@@ -105,23 +105,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-mural-3.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-mural-3.jpg">
 
-    <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonampak-mural-3.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption">A Room at Bonampak</div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-mural.jpg">
-
-    <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonampak-mural.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A Room at Bonampak" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-mural-3.jpg" height="266" width="400">
 
   </a>
 
@@ -133,9 +119,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-room.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-mural.jpg">
 
-    <img class="journalPhoto" alt="A Room at Bonampak" src="/files/photos/chiapas/bonampak-room.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A Room at Bonampak" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-mural.jpg" height="266" width="400">
 
   </a>
 
@@ -147,9 +133,23 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the more impressive reliefs." target="_blank" href="/files/photos/chiapas/bonampak-relief.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Room at Bonampak" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-room.jpg">
 
-    <img class="journalPhoto" alt="One of the more impressive reliefs." src="/files/photos/chiapas/bonampak-relief.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="A Room at Bonampak" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-room.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption">A Room at Bonampak</div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="One of the more impressive reliefs." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-relief.jpg">
+
+    <img class="journalPhoto" alt="One of the more impressive reliefs." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-relief.jpg" height="400" width="266">
 
   </a>
 
@@ -161,9 +161,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another very large relief at Bonampak" target="_blank" href="/files/photos/chiapas/bonampak-relief-1.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Another very large relief at Bonampak" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-relief-1.jpg">
 
-    <img class="journalPhoto" alt="Another very large relief at Bonampak" src="/files/photos/chiapas/bonampak-relief-1.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="Another very large relief at Bonampak" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/bonampak-relief-1.jpg" height="400" width="266">
 
   </a>
 
@@ -177,9 +177,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the boats to go to Yaxchilán" target="_blank" href="/files/photos/chiapas/yaxchilan-boats.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A shot of the boats to go to Yaxchilán" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-boats.jpg">
 
-    <img class="journalPhoto" alt="A shot of the boats to go to Yaxchilán" src="/files/photos/chiapas/yaxchilan-boats.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A shot of the boats to go to Yaxchilán" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-boats.jpg" height="266" width="400">
 
   </a>
 
@@ -191,9 +191,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our boat driver" target="_blank" href="/files/photos/chiapas/yaxchilan-boatdriver.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Our boat driver" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-boatdriver.jpg">
 
-    <img class="journalPhoto" alt="Our boat driver" src="/files/photos/chiapas/yaxchilan-boatdriver.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Our boat driver" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-boatdriver.jpg" height="266" width="400">
 
   </a>
 
@@ -205,9 +205,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front of our boat" target="_blank" href="/files/photos/chiapas/yaxchilan-boatfront.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The front of our boat" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-boatfront.jpg">
 
-    <img class="journalPhoto" alt="The front of our boat" src="/files/photos/chiapas/yaxchilan-boatfront.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The front of our boat" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-boatfront.jpg" height="266" width="400">
 
   </a>
 
@@ -219,9 +219,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David started singing &quot;Proud Mary&quot; quite loudly (&quot;ROLLING! ROLLING! ROLLING DOWN THE RIV-ER!&quot;) Just kidding. I think I caught him pre-sneeze." target="_blank" href="/files/photos/chiapas/yaxchilan-proudmary.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David started singing &quot;Proud Mary&quot; quite loudly (&quot;ROLLING! ROLLING! ROLLING DOWN THE RIV-ER!&quot;) Just kidding. I think I caught him pre-sneeze." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-proudmary.jpg">
 
-    <img class="journalPhoto" alt="David started singing &quot;Proud Mary&quot; quite loudly (&quot;ROLLING! ROLLING! ROLLING DOWN THE RIV-ER!&quot;) Just kidding. I think I caught him pre-sneeze." src="/files/photos/chiapas/yaxchilan-proudmary.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="David started singing &quot;Proud Mary&quot; quite loudly (&quot;ROLLING! ROLLING! ROLLING DOWN THE RIV-ER!&quot;) Just kidding. I think I caught him pre-sneeze." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-proudmary.jpg" height="266" width="400">
 
   </a>
 
@@ -235,9 +235,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Walking up to the Temple of the Dead" target="_blank" href="/files/photos/chiapas/yaxchilan-deadroom.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Walking up to the Temple of the Dead" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-deadroom.jpg">
 
-    <img class="journalPhoto" alt="Walking up to the Temple of the Dead" src="/files/photos/chiapas/yaxchilan-deadroom.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Walking up to the Temple of the Dead" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-deadroom.jpg" height="266" width="400">
 
   </a>
 
@@ -249,9 +249,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Coming out the other end of the temple" target="_blank" href="/files/photos/chiapas/yaxchilan-deadtemple.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Coming out the other end of the temple" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-deadtemple.jpg">
 
-    <img class="journalPhoto" alt="Coming out the other end of the temple" src="/files/photos/chiapas/yaxchilan-deadtemple.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Coming out the other end of the temple" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-deadtemple.jpg" height="266" width="400">
 
   </a>
 
@@ -265,9 +265,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A relief" target="_blank" href="/files/photos/chiapas/yaxchilan-writing.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A relief" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-writing.jpg">
 
-    <img class="journalPhoto" alt="A relief" src="/files/photos/chiapas/yaxchilan-writing.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A relief" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-writing.jpg" height="266" width="400">
 
   </a>
 
@@ -279,9 +279,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Climbing up to the basketball court" target="_blank" href="/files/photos/chiapas/yaxchilan-ballcourt.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Climbing up to the basketball court" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-ballcourt.jpg">
 
-    <img class="journalPhoto" alt="Climbing up to the basketball court" src="/files/photos/chiapas/yaxchilan-ballcourt.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Climbing up to the basketball court" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-ballcourt.jpg" height="266" width="400">
 
   </a>
 
@@ -293,9 +293,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Checking out ruins" target="_blank" href="/files/photos/chiapas/yaxchilan-ruins.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Checking out ruins" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-ruins.jpg">
 
-    <img class="journalPhoto" alt="Checking out ruins" src="/files/photos/chiapas/yaxchilan-ruins.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Checking out ruins" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-ruins.jpg" height="266" width="400">
 
   </a>
 
@@ -307,9 +307,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More ruins" target="_blank" href="/files/photos/chiapas/yaxchilan-temple.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More ruins" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-temple.jpg">
 
-    <img class="journalPhoto" alt="More ruins" src="/files/photos/chiapas/yaxchilan-temple.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="More ruins" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-temple.jpg" height="266" width="400">
 
   </a>
 
@@ -321,9 +321,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="More reliefs" target="_blank" href="/files/photos/chiapas/yaxchilan-relief.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="More reliefs" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-relief.jpg">
 
-    <img class="journalPhoto" alt="More reliefs" src="/files/photos/chiapas/yaxchilan-relief.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="More reliefs" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-relief.jpg" height="266" width="400">
 
   </a>
 
@@ -335,9 +335,9 @@ About 15 minutes into the next section, the traffic all came to a stop. The loca
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A good hike up to the ruins" target="_blank" href="/files/photos/chiapas/yaxchilan-climb.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A good hike up to the ruins" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-climb.jpg">
 
-    <img class="journalPhoto" alt="A good hike up to the ruins" src="/files/photos/chiapas/yaxchilan-climb.jpg" height="600" width="400">
+    <img class="journalPhoto" alt="A good hike up to the ruins" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/yaxchilan-climb.jpg" height="600" width="400">
 
   </a>
 

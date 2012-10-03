@@ -19,23 +19,9 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-building.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-building.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-building.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-court.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-court.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-building.jpg" height="266" width="400">
 
   </a>
 
@@ -47,23 +33,9 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-courtyard.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-court.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-courtyard.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-crocodile.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-crocodile.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-court.jpg" height="266" width="400">
 
   </a>
 
@@ -75,23 +47,9 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-group.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-courtyard.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-group.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-keithcourtyard.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-keithcourtyard.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-courtyard.jpg" height="266" width="400">
 
   </a>
 
@@ -103,23 +61,9 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-keyholebuilding.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-crocodile.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-keyholebuilding.jpg" height="400" width="266">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-mothertomb.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-mothertomb.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-crocodile.jpg" height="266" width="400">
 
   </a>
 
@@ -131,23 +75,9 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-pakal.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-group.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-pakal.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-pakal-1.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-pakal-1.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-group.jpg" height="266" width="400">
 
   </a>
 
@@ -159,23 +89,9 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-palace.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-keithcourtyard.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-palace.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-palace1.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-palace1.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-keithcourtyard.jpg" height="266" width="400">
 
   </a>
 
@@ -187,23 +103,9 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-panorama.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-keyholebuilding.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-panorama.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-relief.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-relief.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-keyholebuilding.jpg" height="400" width="266">
 
   </a>
 
@@ -215,9 +117,107 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-tomb.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-mothertomb.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-tomb.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-mothertomb.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-pakal.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-pakal.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-pakal-1.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-pakal-1.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-palace.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-palace.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-palace1.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-palace1.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-panorama.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-panorama.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-relief.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-relief.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-tomb.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-tomb.jpg" height="266" width="400">
 
   </a>
 
@@ -231,9 +231,9 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-lunch.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-lunch.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-lunch.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-lunch.jpg" height="266" width="400">
 
   </a>
 
@@ -247,23 +247,9 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-museum.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-museum.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-museum.jpg" height="266" width="400">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-museum-1.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-museum-1.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-museum.jpg" height="266" width="400">
 
   </a>
 
@@ -275,9 +261,23 @@ description: Today was our first real touring day, although it started off with 
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/chiapas/palenque-museum-2.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-museum-1.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/chiapas/palenque-museum-2.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-museum-1.jpg" height="266" width="400">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-museum-2.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/chiapas/palenque-museum-2.jpg" height="400" width="266">
 
   </a>
 

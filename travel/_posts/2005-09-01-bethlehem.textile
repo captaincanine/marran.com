@@ -15,9 +15,9 @@ description: The morning of our last full day in Israel, I went to Bethlehem. Th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Nativity Square in Bethlehem" target="_blank" href="/files/photos/israel/bethlehem-square.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Nativity Square in Bethlehem" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-square.jpg">
 
-    <img class="journalPhoto" alt="Nativity Square in Bethlehem" src="/files/photos/israel/bethlehem-square.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="Nativity Square in Bethlehem" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-square.jpg" height="200" width="150">
 
   </a>
 
@@ -33,9 +33,9 @@ description: The morning of our last full day in Israel, I went to Bethlehem. Th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the Church of the Nativity" target="_blank" href="/files/photos/israel/bethlehem-entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The entrance to the Church of the Nativity" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-entrance.jpg">
 
-    <img class="journalPhoto" alt="The entrance to the Church of the Nativity" src="/files/photos/israel/bethlehem-entrance.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The entrance to the Church of the Nativity" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-entrance.jpg" height="200" width="150">
 
   </a>
 
@@ -47,9 +47,9 @@ description: The morning of our last full day in Israel, I went to Bethlehem. Th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The mosaics from the original church. They are now mostly covered to protect them, I guess." target="_blank" href="/files/photos/israel/bethlehem-mosaic.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The mosaics from the original church. They are now mostly covered to protect them, I guess." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-mosaic.jpg">
 
-    <img class="journalPhoto" alt="The mosaics from the original church. They are now mostly covered to protect them, I guess." src="/files/photos/israel/bethlehem-mosaic.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The mosaics from the original church. They are now mostly covered to protect them, I guess." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-mosaic.jpg" height="200" width="150">
 
   </a>
 
@@ -63,9 +63,9 @@ description: The morning of our last full day in Israel, I went to Bethlehem. Th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The original Black Madonna" target="_blank" href="/files/photos/israel/bethlehem-blackmadonna.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The original Black Madonna" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-blackmadonna.jpg">
 
-    <img class="journalPhoto" alt="The original Black Madonna" src="/files/photos/israel/bethlehem-blackmadonna.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The original Black Madonna" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-blackmadonna.jpg" height="200" width="150">
 
   </a>
 
@@ -77,9 +77,9 @@ description: The morning of our last full day in Israel, I went to Bethlehem. Th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Franciscan Temple" target="_blank" href="/files/photos/israel/bethlehem-franciscan.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Franciscan Temple" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-franciscan.jpg">
 
-    <img class="journalPhoto" alt="The Franciscan Temple" src="/files/photos/israel/bethlehem-franciscan.jpg" height="200" width="150">
+    <img class="journalPhoto" alt="The Franciscan Temple" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-franciscan.jpg" height="200" width="150">
 
   </a>
 
@@ -93,9 +93,9 @@ description: The morning of our last full day in Israel, I went to Bethlehem. Th
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="An Israeli outpost" target="_blank" href="/files/photos/israel/bethlehem-outpost.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="An Israeli outpost" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-outpost.jpg">
 
-    <img class="journalPhoto" alt="An Israeli outpost" src="/files/photos/israel/bethlehem-outpost.jpg" height="150" width="200">
+    <img class="journalPhoto" alt="An Israeli outpost" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/israel/bethlehem-outpost.jpg" height="150" width="200">
 
   </a>
 

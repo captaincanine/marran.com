@@ -16,9 +16,9 @@ description: Little Gogo was born on January 9th. Her mom's name is Lucy. My mom
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="This photo was taken by Renee on the day I picked Gogo up." target="_blank" href="/files/photos/gogo/greeting.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="This photo was taken by Renee on the day I picked Gogo up." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/greeting.jpg">
 
-    <img class="journalPhoto" alt="This photo was taken by Renee on the day I picked Gogo up." src="/files/photos/gogo/greeting.jpg" width="640" >
+    <img class="journalPhoto" alt="This photo was taken by Renee on the day I picked Gogo up." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/greeting.jpg" width="640" >
 
   </a>
 
@@ -32,9 +32,9 @@ description: Little Gogo was born on January 9th. Her mom's name is Lucy. My mom
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/day_one_booda_bear.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/day_one_booda_bear.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/day_one_booda_bear.jpg" width="350" height="382">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/day_one_booda_bear.jpg" width="350" height="382">
 
   </a>
 
@@ -58,23 +58,9 @@ description: Little Gogo was born on January 9th. Her mom's name is Lucy. My mom
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/day_one_david.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/day_one_david.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/day_one_david.jpg" width="441" height="429">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/day_one_sis.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/day_one_sis.jpg" width="262" height="321">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/day_one_david.jpg" width="441" height="429">
 
   </a>
 
@@ -86,23 +72,9 @@ description: Little Gogo was born on January 9th. Her mom's name is Lucy. My mom
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/lap_dog.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/day_one_sis.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/lap_dog.jpg" width="400" height="300">
-
-  </a>
-
-  
-
-  <div class="journalCaption"></div>
-
-</div>
-
-<div class="journalPhotoPanel" align="center">
-
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/tug_of_war.jpg">
-
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/tug_of_war.jpg" width="400" height="300">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/day_one_sis.jpg" width="262" height="321">
 
   </a>
 
@@ -114,9 +86,37 @@ description: Little Gogo was born on January 9th. Her mom's name is Lucy. My mom
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="/files/photos/gogo/ten_weeks.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/lap_dog.jpg">
 
-    <img class="journalPhoto" alt="" src="/files/photos/gogo/ten_weeks.jpg" width="361" height="272">
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/lap_dog.jpg" width="400" height="300">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/tug_of_war.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/tug_of_war.jpg" width="400" height="300">
+
+  </a>
+
+  
+
+  <div class="journalCaption"></div>
+
+</div>
+
+<div class="journalPhotoPanel" align="center">
+
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/ten_weeks.jpg">
+
+    <img class="journalPhoto" alt="" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/gogo/ten_weeks.jpg" width="361" height="272">
 
   </a>
 

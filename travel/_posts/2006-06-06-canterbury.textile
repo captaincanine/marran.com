@@ -15,9 +15,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David Asleep on the Train" target="_blank" href="/files/photos/london/canterbury-david-sleeping.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David Asleep on the Train" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-david-sleeping.jpg">
 
-    <img class="journalPhoto" alt="David Asleep on the Train" src="/files/photos/london/canterbury-david-sleeping.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="David Asleep on the Train" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-david-sleeping.jpg" height="266" width="400">
 
   </a>
 
@@ -31,9 +31,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Gateway Arch to Canterbury Cathedral" target="_blank" href="/files/photos/london/canterbury-arch.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Gateway Arch to Canterbury Cathedral" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-arch.jpg">
 
-    <img class="journalPhoto" alt="The Gateway Arch to Canterbury Cathedral" src="/files/photos/london/canterbury-arch.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="The Gateway Arch to Canterbury Cathedral" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-arch.jpg" height="400" width="266">
 
   </a>
 
@@ -47,9 +47,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Canterbury Entrance" target="_blank" href="/files/photos/london/canterbury-entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Canterbury Entrance" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-entrance.jpg">
 
-    <img class="journalPhoto" alt="Canterbury Entrance" src="/files/photos/london/canterbury-entrance.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="Canterbury Entrance" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-entrance.jpg" height="400" width="266">
 
   </a>
 
@@ -61,9 +61,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Side View of Canterbury Cathedral. This is still only about half of the full size." target="_blank" href="/files/photos/london/canterbury-sideview.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Side View of Canterbury Cathedral. This is still only about half of the full size." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-sideview.jpg">
 
-    <img class="journalPhoto" alt="A Side View of Canterbury Cathedral. This is still only about half of the full size." src="/files/photos/london/canterbury-sideview.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A Side View of Canterbury Cathedral. This is still only about half of the full size." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-sideview.jpg" height="266" width="400">
 
   </a>
 
@@ -75,9 +75,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="An interesting spire on the outside. Notice the heads along the crest." target="_blank" href="/files/photos/london/canterbury-spire.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="An interesting spire on the outside. Notice the heads along the crest." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-spire.jpg">
 
-    <img class="journalPhoto" alt="An interesting spire on the outside. Notice the heads along the crest." src="/files/photos/london/canterbury-spire.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="An interesting spire on the outside. Notice the heads along the crest." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-spire.jpg" height="400" width="266">
 
   </a>
 
@@ -91,9 +91,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="David at the Entrance" target="_blank" href="/files/photos/london/canterbury-david-entrance.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="David at the Entrance" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-david-entrance.jpg">
 
-    <img class="journalPhoto" alt="David at the Entrance" src="/files/photos/london/canterbury-david-entrance.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="David at the Entrance" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-david-entrance.jpg" height="400" width="266">
 
   </a>
 
@@ -107,9 +107,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The stained glass at the entrance of the cathedral." target="_blank" href="/files/photos/london/canterbury-frontglass.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The stained glass at the entrance of the cathedral." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-frontglass.jpg">
 
-    <img class="journalPhoto" alt="The stained glass at the entrance of the cathedral." src="/files/photos/london/canterbury-frontglass.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="The stained glass at the entrance of the cathedral." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-frontglass.jpg" height="400" width="266">
 
   </a>
 
@@ -121,9 +121,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Stained Glass" target="_blank" href="/files/photos/london/canterbury-favoriteglass.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Stained Glass" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-favoriteglass.jpg">
 
-    <img class="journalPhoto" alt="Stained Glass" src="/files/photos/london/canterbury-favoriteglass.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Stained Glass" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-favoriteglass.jpg" height="266" width="400">
 
   </a>
 
@@ -137,9 +137,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Apse in Canterbury Cathedral" target="_blank" href="/files/photos/london/canterbury-apse.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Apse in Canterbury Cathedral" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-apse.jpg">
 
-    <img class="journalPhoto" alt="The Apse in Canterbury Cathedral" src="/files/photos/london/canterbury-apse.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="The Apse in Canterbury Cathedral" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-apse.jpg" height="400" width="266">
 
   </a>
 
@@ -151,9 +151,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Tomb of the Black Prine" target="_blank" href="/files/photos/london/canterbury-blackprince.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Tomb of the Black Prine" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-blackprince.jpg">
 
-    <img class="journalPhoto" alt="The Tomb of the Black Prine" src="/files/photos/london/canterbury-blackprince.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="The Tomb of the Black Prine" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-blackprince.jpg" height="266" width="400">
 
   </a>
 
@@ -165,9 +165,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Stretch of Ceiling in Canterbury Cathedral" target="_blank" href="/files/photos/london/canterbury-ceiling.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Stretch of Ceiling in Canterbury Cathedral" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-ceiling.jpg">
 
-    <img class="journalPhoto" alt="A Stretch of Ceiling in Canterbury Cathedral" src="/files/photos/london/canterbury-ceiling.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A Stretch of Ceiling in Canterbury Cathedral" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-ceiling.jpg" height="266" width="400">
 
   </a>
 
@@ -179,9 +179,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Side Chapel in the Cathedral" target="_blank" href="/files/photos/london/canterbury-chapel.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A Side Chapel in the Cathedral" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-chapel.jpg">
 
-    <img class="journalPhoto" alt="A Side Chapel in the Cathedral" src="/files/photos/london/canterbury-chapel.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A Side Chapel in the Cathedral" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-chapel.jpg" height="266" width="400">
 
   </a>
 
@@ -193,9 +193,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A beautiful example of medieval painted word work." target="_blank" href="/files/photos/london/canterbury-tomb.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A beautiful example of medieval painted word work." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-tomb.jpg">
 
-    <img class="journalPhoto" alt="A beautiful example of medieval painted word work." src="/files/photos/london/canterbury-tomb.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A beautiful example of medieval painted word work." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-tomb.jpg" height="266" width="400">
 
   </a>
 
@@ -207,9 +207,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="A marble tomb of a king and queen (can't remember who)" target="_blank" href="/files/photos/london/canterbury-marbletomb.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="A marble tomb of a king and queen (can't remember who)" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-marbletomb.jpg">
 
-    <img class="journalPhoto" alt="A marble tomb of a king and queen (can't remember who)" src="/files/photos/london/canterbury-marbletomb.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="A marble tomb of a king and queen (can't remember who)" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-marbletomb.jpg" height="266" width="400">
 
   </a>
 
@@ -221,9 +221,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="Clock" target="_blank" href="/files/photos/london/canterbury-clock.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="Clock" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-clock.jpg">
 
-    <img class="journalPhoto" alt="Clock" src="/files/photos/london/canterbury-clock.jpg" height="266" width="400">
+    <img class="journalPhoto" alt="Clock" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-clock.jpg" height="266" width="400">
 
   </a>
 
@@ -237,9 +237,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Treaty Room" target="_blank" href="/files/photos/london/canterbury-chunnel.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The Treaty Room" target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-chunnel.jpg">
 
-    <img class="journalPhoto" alt="The Treaty Room" src="/files/photos/london/canterbury-chunnel.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="The Treaty Room" src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-chunnel.jpg" height="400" width="266">
 
   </a>
 
@@ -251,9 +251,9 @@ description: David and I got up relatively early to catch a train to go to Cante
 
 <div class="journalPhotoPanel" align="center">
 
-  <a rel="shadowbox[slideshow]" class="popupwindow" title="The monk's entrance in the back." target="_blank" href="/files/photos/london/canterbury-tower.jpg">
+  <a rel="shadowbox[slideshow]" class="popupwindow" title="The monk's entrance in the back." target="_blank" href="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-tower.jpg">
 
-    <img class="journalPhoto" alt="The monk's entrance in the back." src="/files/photos/london/canterbury-tower.jpg" height="400" width="266">
+    <img class="journalPhoto" alt="The monk's entrance in the back." src="http://2b773ec1c1a7a21725be-f042e4ec0cd2ddccbe5a5ca73308a473.r39.cf1.rackcdn.com/files/photos/london/canterbury-tower.jpg" height="400" width="266">
 
   </a>
 
