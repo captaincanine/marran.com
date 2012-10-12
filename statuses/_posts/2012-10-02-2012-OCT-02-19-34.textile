@@ -34,12 +34,14 @@ privacy:
 type: link
 status_type: shared_story
 created_time: 2012-10-02T23:34:01+0000
-updated_time: 2012-10-02T23:34:24+0000
+updated_time: 2012-10-03T19:08:47+0000
 likes: 
   data: 
+  - name: Robert Russin
+    id: "809360003"
   - name: Patrick Yacco
     id: "507963176"
-  count: 1
+  count: 2
 comments: 
   data: 
   - id: 790499637_490880784268881_5771361
@@ -48,7 +50,19 @@ comments:
       id: "790499637"
     message: "Oops. #NSFW"
     created_time: 2012-10-02T23:34:24+0000
-  count: 1
+  - id: 790499637_490880784268881_5774732
+    from: 
+      name: Robert Russin
+      id: "809360003"
+    message: Keith I'm being 100% serious when I say that I'm really flattered and touched by what you said here
+    created_time: 2012-10-03T17:10:12+0000
+  - id: 790499637_490880784268881_5775136
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: How WELL you know me after all these years!  *sniff*
+    created_time: 2012-10-03T19:08:47+0000
+  count: 3
 layout: facebook-link
 title: Tuesday, Oct  2, 2012 - 07:34PM
 link-info: Halloween is less than a month away, which means it's time to start scrambling for a menu of thematic treats you can lay out on a spread for all the sexy devils, sexy pirates, sexy references to current events, and whatever other sexy things your kids' classmates will be dressed as when they...
