@@ -1,0 +1,39 @@
+--- 
+id: 790499637_362136063872432
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Is anyone familiar with codeforamerica.org? A friend was asking about it and I had never heard of it before.
+link: http://codeforamerica.org/
+name: Code for America | A New Kind of Public Service
+caption: codeforamerica.org
+description: Is anyone familiar with codeforamerica.org? A friend was asking about it and I had never heard of it before.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/362136063872432
+- name: Like
+  link: http://www.facebook.com/790499637/posts/362136063872432
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2012-10-10T21:44:35+0000
+updated_time: 2012-10-10T21:44:35+0000
+likes: 
+  data: 
+  - name: Sara Holoubek
+    id: "659585353"
+  count: 1
+comments: 
+  count: 0
+layout: facebook-link
+title: Wednesday, Oct 10, 2012 - 05:44PM
+link-info: Helping governments work better for everyone with the people and the power of the web.
+date: 2012-10-10 17:44:35 -04:00
+
+---
+Is anyone familiar with codeforamerica.org? A friend was asking about it and I had never heard of it before.
