@@ -1,0 +1,71 @@
+--- 
+id: 790499637_299304676848842
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Wait a sec...was Speed Racer a good movie? It was the first Wachowski siblings movie I didn't see because it was so panned. Now I'm thinking I might have missed out.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQB99djkeMYV3wlf&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F1836qyrh916u7jpg%2Ffb.jpg
+link: http://io9.com/5954595/10-reasons-why-speed-racer-is-an-unsung-masterpiece
+name: 10 Reasons Why Speed Racer Is an Unsung Masterpiece
+caption: io9.com
+description: Wait a sec...was Speed Racer a good movie? It was the first Wachowski siblings movie I didn't see because it was so panned. Now I'm thinking I might have missed out.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/299304676848842
+- name: Like
+  link: http://www.facebook.com/790499637/posts/299304676848842
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-10-25T03:00:06+0000
+updated_time: 2012-10-25T03:47:17+0000
+comments: 
+  data: 
+  - id: 790499637_299304676848842_1469212
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    message: I saw it twice not high. It's quite awesome. If you like good movies and enjoy fun, you will like Speed Racer. It inspired me to take 3D animation classes.
+    created_time: 2012-10-25T03:05:26+0000
+    likes: 1
+  - id: 790499637_299304676848842_1469228
+    from: 
+      name: T'ai Boo-Witchardskeleton
+      id: "14101146"
+    message: there are literally only two bad parts to the movie, both involving Spritle and Chim Chim, and the rest is excellent. oh, and also one additional part that isn't bad but *looks* bad. Josh, if you're curious, I'm referring to the poo-flinging, the part on the Segway, and the bit where Speed's older brother picks him up from school.
+    created_time: 2012-10-25T03:08:35+0000
+  - id: 790499637_299304676848842_1469259
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    message: Yeah, there are a couple off-notes where it focuses on the kiddie characters and as an adult viewer you are snapped out of the believability of the world. Still, the dumb scenes are completely outshone by all the visual amazingness and poignant characters. Zachery Milan and I have been tirelessly vouching for it for years!
+    message_tags: 
+    - id: "56901484"
+      name: Zachery Milan
+      type: user
+      offset: 257
+      length: 13
+    created_time: 2012-10-25T03:19:24+0000
+    likes: 2
+  - id: 790499637_299304676848842_1469340
+    from: 
+      name: T'ai Boo-Witchardskeleton
+      id: "14101146"
+    message: The final race is absolutely amazing, and the family drama is actually quite well done (in my opinion).
+    created_time: 2012-10-25T03:47:17+0000
+  count: 7
+layout: facebook-link
+title: Wednesday, Oct 24, 2012 - 11:00PM
+link-info: "This Friday we'll get to see the Wachowskis' latest crazy, gorgeous, and mind-blowing epic, Cloud Atlas. Most people know the Wachowskis for the Matrix trilogy, but we think their version of Speed Racer \xE2\x80\x94"
+date: 2012-10-24 23:00:06 -04:00
+
+---
+Wait a sec...was Speed Racer a good movie? It was the first Wachowski siblings movie I didn't see because it was so panned. Now I'm thinking I might have missed out.
