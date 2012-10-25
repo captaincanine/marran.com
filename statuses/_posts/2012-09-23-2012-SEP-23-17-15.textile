@@ -5,6 +5,8 @@ from:
   id: "790499637"
 to: 
   data: 
+  - name: Christine Marran
+    id: "1327144819"
   - name: David Reich
     id: "1641745987"
 message: Day 2 of Our Great American Road Trip. Catch up on the shenanigans of Christine Marran and David Reich!
