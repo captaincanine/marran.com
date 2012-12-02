@@ -15,13 +15,15 @@ layout: nil
  </author>
 
  {% for post in site.posts limit:20 %}
- <entry>
-   <title>{{ post.title }}</title>
-   <link href="http://www.marran.com{{ post.url }}"/>
-   <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://www.marran.com{{ post.id }}</id>
-   <content type="html">{{ post.content | xml_escape }}</content>
- </entry>
+   {% if post.layout == 'post' or post.layout == 'recipe' %}
+     <entry>
+       <title>{{ post.title }}</title>
+       <link href="http://www.marran.com{{ post.url }}"/>
+       <updated>{{ post.date | date_to_xmlschema }}</updated>
+       <id>http://www.marran.com{{ post.id }}</id>
+       <content type="html">{{ post.content | xml_escape }}</content>
+     </entry>  
+   {% endif %}
  {% endfor %}
  
 </feed>
