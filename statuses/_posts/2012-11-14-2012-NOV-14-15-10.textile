@@ -1,0 +1,51 @@
+--- 
+title: Wednesday, Nov 14, 2012 - 03:10PM
+comments: 
+  data: 
+  - id: 790499637_431440150248522_4015851
+    message: We're full of it?
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    created_time: 2012-11-15T17:35:34+0000
+  - id: 790499637_431440150248522_4016021
+    message: Exactly!
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    created_time: 2012-11-15T18:26:32+0000
+  count: 2
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/431440150248522
+- name: Like
+  link: http://www.facebook.com/790499637/posts/431440150248522
+description: Like Olestra, this just makes you poop more. What is God trying to tell us about weight loss?
+date: 2012-11-14 15:10:04 +00:00
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/SC2ZmEkfI-X.png
+name: New Fat-Blocking Pepsi Will Soon Render All Non-Soda Liquids Redundant
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBopqQb1TdBK4BW&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F1857n8xrvajh0jpg%2Ffb.jpg
+id: 790499637_431440150248522
+status_type: shared_story
+link: http://gawker.com/5960224/new-fat+blocking-pepsi-will-soon-render-all-non+soda-liquids-redundant
+link-info: "At long last, God has answered our prayers: \"fat-blocking\" soda has arrived. Unfortunately, because He is a tricky God, the new fat-blocking soda is Pepsi."
+type: link
+layout: facebook-link
+updated_time: 2012-11-15T18:26:32+0000
+caption: gawker.com
+message: Like Olestra, this just makes you poop more. What is God trying to tell us about weight loss?
+from: 
+  name: Keith Marran
+  id: "790499637"
+created_time: 2012-11-14T15:10:04+0000
+
+---
+Like Olestra, this just makes you poop more. What is God trying to tell us about weight loss?

@@ -1,0 +1,64 @@
+--- 
+type: video
+privacy: 
+  deny: "116609519637"
+  allow: ""
+  value: CUSTOM
+  networks: ""
+  description: "Friends; Except: Family"
+  friends: ALL_FRIENDS
+title: Tuesday, Nov 27, 2012 - 11:59AM
+from: 
+  name: Keith Marran
+  id: "790499637"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/373132942779914
+- name: Like
+  link: http://www.facebook.com/790499637/posts/373132942779914
+date: 2012-11-27 11:59:54 +00:00
+updated_time: 2012-11-27T12:33:34+0000
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+name: Keith's & David's Wedding Dance
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAoZLVdYoOCDOuf&w=130&h=130&url=http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fxw-oahFEFvM%2Fmqdefault.jpg
+comments: 
+  count: 1
+  data: 
+  - from: 
+      name: Tracie Duncan
+      id: "717015376"
+    created_time: 2012-11-27T12:33:34+0000
+    message: that is a beatiful sight! Again - Congratulations to you both :)
+    id: 790499637_373132942779914_2282084
+source: http://www.youtube.com/v/xw-oahFEFvM?version=3&autohide=1&autoplay=1
+layout: facebook-video
+created_time: 2012-11-27T11:59:54+0000
+status_type: shared_story
+link: https://www.youtube.com/watch?v=xw-oahFEFvM
+message_tags: 
+  "9": 
+  - type: user
+    length: 9
+    name: Jeff Bond
+    offset: 9
+    id: "1108401510"
+likes: 
+  count: 23
+  data: 
+  - name: Andrew Perez
+    id: "529289396"
+  - name: Ej Klingler
+    id: "632726709"
+  - name: Gretchen Berkebile
+    id: "1454349544"
+  - name: Jim Tumminello
+    id: "555444007"
+message: My buddy Jeff Bond captured a bit of our first dance at the wedding. That moment flew by so quickly - I'm glad to see it on camera.
+to: 
+  data: 
+  - name: Jeff Bond
+    id: "1108401510"
+id: 790499637_373132942779914
+
+---
+My buddy Jeff Bond captured a bit of our first dance at the wedding. That moment flew by so quickly - I'm glad to see it on camera.

@@ -1,0 +1,59 @@
+--- 
+link-info: Presidential hopeful Mitt Romney's wife, Ann, stops by to talk about her husband's campaign and address critics.
+date: 2012-11-07 15:40:21 +00:00
+id: 790499637_381833391895301
+likes: 
+  data: 
+  - id: "1631202087"
+    name: Rob Velasco
+  - id: "100000014591948"
+    name: Carl Etheredge
+  - id: "26502264"
+    name: Ben Mims
+  - id: "577154539"
+    name: Charlotte Hertander
+  count: 8
+privacy: 
+  friends: ALL_FRIENDS
+  deny: "116609519637"
+  value: CUSTOM
+  description: "Friends; Except: Family"
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+status_type: shared_story
+link: http://www.hulu.com/watch/404171
+message: "This morning I am devastated at America's choices. Didn't you see the Ann Romney impersonation of Saturday Night Live? It was hilarious! You realize that we probably won't get to see any more of that. Thanks a lot, America. #sarcasm"
+comments: 
+  data: 
+  - id: 790499637_381833391895301_2427957
+    message: Oh, I'm sure the creative team and SNL can think of some way to get her back on the air.
+    created_time: 2012-11-07T15:50:26+0000
+    from: 
+      id: "507963176"
+      name: Patrick Yacco
+  - id: 790499637_381833391895301_2427961
+    message: I hope so. Michelle Obama is a nice person which takes the joy out of making fun of her.
+    created_time: 2012-11-07T15:51:44+0000
+    from: 
+      id: "790499637"
+      name: Keith Marran
+  count: 2
+created_time: 2012-11-07T15:40:21+0000
+layout: facebook-video
+source: https://secure.hulu.com/embed/zjIskhpP7M0mwVC5MYjw6w
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCnjFCRbZ8eZWvx&w=130&h=130&url=http%3A%2F%2Fib2.huluim.com%2Fvideo%2F60124861%3Fsize%3D220x124
+type: video
+name: "Saturday Night Live: Weekend Update: Ann Romney"
+from: 
+  id: "790499637"
+  name: Keith Marran
+title: Wednesday, Nov  7, 2012 - 03:40PM
+updated_time: 2012-11-07T15:51:44+0000
+actions: 
+- link: http://www.facebook.com/790499637/posts/381833391895301
+  name: Comment
+- link: http://www.facebook.com/790499637/posts/381833391895301
+  name: Like
+description: "This morning I am devastated at America's choices. Didn't you see the Ann Romney impersonation of Saturday Night Live? It was hilarious! You realize that we probably won't get to see any more of that. Thanks a lot, America. #sarcasm"
+
+---
+This morning I am devastated at America's choices. Didn't you see the Ann Romney impersonation of Saturday Night Live? It was hilarious! You realize that we probably won't get to see any more of that. Thanks a lot, America. #sarcasm

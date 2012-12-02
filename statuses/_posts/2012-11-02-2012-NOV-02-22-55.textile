@@ -1,0 +1,46 @@
+--- 
+comments: 
+  data: 
+  - from: 
+      id: "1343303598"
+      name: Jono Jarrett
+    message: <3
+    created_time: 2012-11-02T23:04:27+0000
+    id: 790499637_10151503382514638_29223502
+  count: 1
+from: 
+  id: "790499637"
+  name: Keith Marran
+date: 2012-11-02 22:55:07 +00:00
+updated_time: 2012-11-02T23:04:27+0000
+likes: 
+  data: 
+  - id: "1441908911"
+    name: Nancy Newman Miklos
+  - id: "1631202087"
+    name: Rob Velasco
+  - id: "1403433546"
+    name: Catherine Everett Hawes
+  - id: "1486937956"
+    name: Heidi Washburn
+  count: 28
+actions: 
+- link: http://www.facebook.com/790499637/posts/10151503382514638
+  name: Comment
+- link: http://www.facebook.com/790499637/posts/10151503382514638
+  name: Like
+title: Friday, Nov  2, 2012 - 10:55PM
+message: The power's back on! It seems like it's been out for forever! I was walking the dogs and noticed some shop lights were on and then everyone started cheering and jumping!
+created_time: 2012-11-02T22:55:07+0000
+id: 790499637_10151503382514638
+layout: facebook-status
+status_type: mobile_status_update
+type: status
+privacy: 
+  friends: ALL_FRIENDS
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  deny: "116609519637"
+
+---
+The power's back on! It seems like it's been out for forever! I was walking the dogs and noticed some shop lights were on and then everyone started cheering and jumping!

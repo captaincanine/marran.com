@@ -1,0 +1,74 @@
+--- 
+link-info: Disney's fantastical adventure "Oz The Great and Powerful," directed by Sam Raimi, imagines the origins of L. Frank Baum's beloved character, the Wizard of Oz. When Oscar Diggs (James Franco), a small-time circus magician with dubious ethics, is hurled away from dusty Kansas to the vibrant Land of O...
+comments: 
+  data: 
+  - message: Peter Parker does not hit Mary Jane. Full stop.
+    created_time: 2012-11-14T15:21:59+0000
+    from: 
+      name: Dave Stringer Hughes
+      id: "800419"
+    id: 790499637_280243822096493_1212023
+  - message: The symbiote made him do it!
+    created_time: 2012-11-14T15:27:15+0000
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    id: 790499637_280243822096493_1212033
+  - message: Drag Me to Hell was a real treat.
+    created_time: 2012-11-14T15:45:00+0000
+    from: 
+      name: Bob Harrison
+      id: "1346645434"
+    id: 790499637_280243822096493_1212087
+  - message: Yep... And the info on the life of the "Wizard" from other OZ books has been used to make it.  Hosah.
+    created_time: 2012-11-14T15:45:23+0000
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    id: 790499637_280243822096493_1212088
+  count: 4
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+date: 2012-11-14 15:18:34 +00:00
+updated_time: 2012-11-14T15:45:23+0000
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+status_type: shared_story
+caption: trailers.apple.com
+link: http://trailers.apple.com/trailers/disney/ozthegreatandpowerful
+privacy: 
+  value: CUSTOM
+  deny: "116609519637"
+  description: "Friends; Except: Family"
+  friends: ALL_FRIENDS
+actions: 
+- link: http://www.facebook.com/790499637/posts/280243822096493
+  name: Comment
+- link: http://www.facebook.com/790499637/posts/280243822096493
+  name: Like
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCQ0H1If6oQlPdl&w=90&h=90&url=http%3A%2F%2Ftrailers.apple.com%2Ftrailers%2Fdisney%2Fozthegreatandpowerful%2Fimages%2Fposter.jpg
+layout: facebook-link
+message: "Oh my GOD this looks good. I feel like one of the few that have stood by Sam Raimi when others have left. I liked the evil Peter Parker scene in Spider-Man 3. I liked Drag Me to Hell. This looks pitch perfect: madcap and delirious. "
+created_time: 2012-11-14T15:18:34+0000
+type: link
+name: Oz the Great and Powerful - Movie Trailers - iTunes
+likes: 
+  data: 
+  - name: Justin Winslow
+    id: "1201684433"
+  - name: Ben Mims
+    id: "26502264"
+  - name: Craig Choma
+    id: "100001269764839"
+  - name: Dirk McCall
+    id: "502849778"
+  count: 6
+description: "Oh my GOD this looks good. I feel like one of the few that have stood by Sam Raimi when others have left. I liked the evil Peter Parker scene in Spider-Man 3. I liked Drag Me to Hell. This looks pitch perfect: madcap and delirious. "
+from: 
+  name: Keith Marran
+  id: "790499637"
+id: 790499637_280243822096493
+title: Wednesday, Nov 14, 2012 - 03:18PM
+
+---
+Oh my GOD this looks good. I feel like one of the few that have stood by Sam Raimi when others have left. I liked the evil Peter Parker scene in Spider-Man 3. I liked Drag Me to Hell. This looks pitch perfect: madcap and delirious. 

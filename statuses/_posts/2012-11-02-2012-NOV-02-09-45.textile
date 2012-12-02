@@ -1,0 +1,61 @@
+--- 
+likes: 
+  count: 13
+  data: 
+  - name: Matthew Andersen
+    id: "9032871"
+  - name: Andrew Perez
+    id: "529289396"
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  - name: Dave Stringer Hughes
+    id: "800419"
+type: status
+comments: 
+  count: 3
+  data: 
+  - from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    id: 790499637_10151502390984638_29213906
+    created_time: 2012-11-02T11:33:20+0000
+    message: |-
+      Certainly hope so too!!! How are you for heating? Does it work as well without power?
+      (Guessing you meant 'wait' and not 'eat'!)
+  - likes: 1
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    id: 790499637_10151502390984638_29215539
+    created_time: 2012-11-02T14:07:09+0000
+    message: "Yes, I meant \"wait\"! So far, the temperature has not dipped too much. But we have firewood if it does. The main problems now (besides the obvious no lights, no internet, no cell phone reception) are: the refrigerator is starting to smell, the garbage has piled up because the city hasn't resumed garbage collection yet, we are running out of clean socks and underwear, and the kitchen sink clogged. Wee!"
+  - from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    id: 790499637_10151502390984638_29217379
+    created_time: 2012-11-02T16:27:39+0000
+    message: Oh, nightmare... Makes you really appreciate that simple action of switching on the lights so much more. The fridge/freezer would be the worst thing, plus keeping warm  - if it were cold we'd have to sleep in the living room where the fire place is.
+privacy: 
+  friends: ALL_FRIENDS
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  deny: "116609519637"
+from: 
+  name: Keith Marran
+  id: "790499637"
+title: Friday, Nov  2, 2012 - 09:45AM
+status_type: mobile_status_update
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151502390984638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151502390984638
+date: 2012-11-02 09:45:38 +00:00
+updated_time: 2012-11-02T16:27:39+0000
+id: 790499637_10151502390984638
+created_time: 2012-11-02T09:45:38+0000
+layout: facebook-status
+message: Since the power has been out, every time I go to sleep it's like Christmas Eve as a kid. I go to sleep hoping I'm going to wake up and see that the world has changed while I was sleeping. I hope I won't have to eat until Christmas for power.
+
+---
+Since the power has been out, every time I go to sleep it's like Christmas Eve as a kid. I go to sleep hoping I'm going to wake up and see that the world has changed while I was sleeping. I hope I won't have to eat until Christmas for power.

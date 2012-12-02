@@ -1,0 +1,37 @@
+--- 
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151468032849638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151468032849638
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+title: Sunday, Oct 14, 2012 - 07:15PM
+created_time: 2012-10-14T19:15:49+0000
+object_id: "4248927234697"
+status_type: tagged_in_photo
+id: 790499637_10151468032849638
+updated_time: 2012-10-14T19:15:49+0000
+layout: facebook-photo
+description: 
+application: 
+  id: "2305272732"
+  name: Photos
+link: http://www.facebook.com/photo.php?fbid=4248927234697&set=at.4248898353975.164384.1631202087.790499637&type=1&relevant_count=1
+from: 
+  id: "790499637"
+  name: Keith Marran
+story: Keith Marran was tagged in Rob Velasco's photo.
+link-info: Geeks Out Rule!
+likes: 
+  count: 1
+  data: 
+  - id: "19602090"
+    name: Joey Stern
+date: 2012-10-14 19:15:49 +00:00
+comments: 
+  count: 0
+type: photo
+picture: http://photos-c.ak.fbcdn.net/hphotos-ak-snc7/581617_4248927234697_1689567582_s.jpg
+
+---
+
