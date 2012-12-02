@@ -39,18 +39,21 @@ module Jekyll
     end
 
     def paginate(site, page)
-    
+    	config = site.config
+    	if page.data.has_key?('paginate')
+    		config = page.data
+    	end
       # sort categories by descending date of publish
       category_posts = site.categories[page.data['category']].sort_by { |p| -p.date.to_f }
 
       # calculate total number of pages
-      pages = CategoryPager.calculate_pages(category_posts, site.config['paginate'].to_i)
+      pages = CategoryPager.calculate_pages(category_posts, config['paginate'].to_i)
 
       # iterate over the total number of pages and create a physical page for each
       (1..pages).each do |num_page|
       
         # the CategoryPager handles the paging and category data
-        pager = CategoryPager.new(site.config, num_page, category_posts, page.data['category'], pages)
+        pager = CategoryPager.new(config, num_page, category_posts, page.data['category'], pages)
 
         # the first page is the index, so no page needs to be created. However, the subsequent pages need to be generated
         if num_page > 1
