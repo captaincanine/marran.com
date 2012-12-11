@@ -14,7 +14,7 @@ layout: nil
    <email>keith@marran.com</email>
  </author>
 
- {% for post in site.posts limit:20 %}
+ {% for post in site.posts limit:40 %}
    {% if post.layout == 'post' or post.layout == 'recipe' %}
      <entry>
        <title>{{ post.title }}</title>
