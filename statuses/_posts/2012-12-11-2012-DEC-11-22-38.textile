@@ -1,0 +1,37 @@
+--- 
+name: "Man of Steel - Official Trailer #2 [HD]"
+id: 790499637_521737287845838
+date: 2012-12-11 22:38:40 +00:00
+created_time: 2012-12-11T22:38:40+0000
+status_type: shared_story
+link: http://www.youtube.com/watch?feature=player_embedded&v=KVu3gS7iJu4
+updated_time: 2012-12-11T22:38:40+0000
+privacy: 
+  deny: "116609519637"
+  value: CUSTOM
+  allow: ""
+  friends: ALL_FRIENDS
+  description: "Friends; Except: Family"
+  networks: ""
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCMH9xVtNkVdxFj&w=130&h=130&url=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FKVu3gS7iJu4%2Fmqdefault.jpg
+from: 
+  id: "790499637"
+  name: Keith Marran
+type: video
+title: Tuesday, Dec 11, 2012 - 10:38PM
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+description: Do I want to see Superman agonizing over minor moral dilemmas? Do I want to see Jonathan Kent tell his adopted son that maybe he should have let a boy die? No. I do not.
+message: Do I want to see Superman agonizing over minor moral dilemmas? Do I want to see Jonathan Kent tell his adopted son that maybe he should have let a boy die? No. I do not.
+link-info: http://manofsteel.com http://www.facebook.com/manofsteel In theaters June 14th. From Warner Bros. and Legendary Pictures comes "Man of Steel", starring Henry...
+layout: facebook-video
+comments: 
+  count: 0
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/521737287845838
+- name: Like
+  link: http://www.facebook.com/790499637/posts/521737287845838
+source: http://www.youtube.com/v/KVu3gS7iJu4?version=3&autohide=1&autoplay=1
+
+---
+Do I want to see Superman agonizing over minor moral dilemmas? Do I want to see Jonathan Kent tell his adopted son that maybe he should have let a boy die? No. I do not.
