@@ -1,0 +1,35 @@
+--- 
+comments: 
+  count: 0
+application: 
+  name: dlvr.it
+  id: "232775914688"
+  namespace: dlvr_it
+type: status
+from: 
+  name: Keith Marran
+  id: "790499637"
+status_type: app_created_story
+layout: facebook-status
+privacy: 
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  description: "Friends; Except: Family"
+  allow: ""
+  networks: ""
+  deny: "116609519637"
+created_time: 2012-12-02T03:20:02+0000
+message: "Sunday, Dec 2, 2012 - 02:43AM [ http://dlvr.it/2ZBrvj ]: Saturday, Dec 1, 2012 \xE2\x80\x93 08:24PM [ http://dlvr.it/2ZBf8l ]"
+id: 790499637_10151555296939638
+date: 2012-12-02 03:20:02 +00:00
+updated_time: 2012-12-02T03:20:02+0000
+icon: http://photos-a.ak.fbcdn.net/photos-ak-snc7/v43/44/232775914688/app_2_232775914688_6381.gif
+title: Sunday, Dec  2, 2012 - 03:20AM
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151555296939638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151555296939638
+
+---
+Sunday, Dec 2, 2012 - 02:43AM [ http://dlvr.it/2ZBrvj ]: Saturday, Dec 1, 2012 – 08:24PM [ http://dlvr.it/2ZBf8l ]

@@ -49,6 +49,7 @@ task :commit do
   sh 'git add blog/*'
   sh 'git add recipes/*'
   sh 'git add travel/*'
+  sh 'git add statuses/*'
   sh "git commit --all --message \"#{message}\""
   sh 'git push origin master'
 

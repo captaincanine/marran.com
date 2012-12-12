@@ -1,0 +1,75 @@
+--- 
+name: Pan's Labyrinth Is Gonna Be a Musical
+id: 790499637_181205475352646
+date: 2012-12-07 16:21:41 +00:00
+created_time: 2012-12-07T16:21:41+0000
+status_type: shared_story
+link: http://io9.com/5966524/pans-labyrinth-is-gonna-be-a-musical
+updated_time: 2012-12-07T17:11:28+0000
+privacy: 
+  deny: "116609519637"
+  value: CUSTOM
+  allow: ""
+  friends: ALL_FRIENDS
+  description: "Friends; Except: Family"
+  networks: ""
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAyVDALExPjTBkc&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F187m9pxyzk7w1jpg%2Ffb.jpg
+from: 
+  id: "790499637"
+  name: Keith Marran
+likes: 
+  data: 
+  - id: "100002115994439"
+    name: Gregory Seta
+  - id: "538628386"
+    name: Thomas Rogers
+  - id: "1631202087"
+    name: Rob Velasco
+  count: 3
+application: 
+  id: "5085647995"
+  name: Share_bookmarklet
+type: link
+title: Friday, Dec  7, 2012 - 04:21PM
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: "I was near-enraged by this news. Then I heard that Guillermo himself has been trying to make it happen and I thought \"well...maybe\". Then I heard that Paul Williams is involved. Bring it.  "
+message: "I was near-enraged by this news. Then I heard that Guillermo himself has been trying to make it happen and I thought \"well...maybe\". Then I heard that Paul Williams is involved. Bring it.  "
+link-info: If you've seen Guillermo del Toro's Oscar-winning dark fairy tale flick Pan's Labyrinth, you were probably thinking to yourself, "Man, you know what would make this movie great?
+layout: facebook-link
+comments: 
+  data: 
+  - id: 790499637_181205475352646_584876
+    created_time: 2012-12-07T16:32:02+0000
+    from: 
+      id: "1176446774"
+      name: Jamie Fay
+    message: as long as it is in english or have a screen with subtitles lol
+  - id: 790499637_181205475352646_584879
+    created_time: 2012-12-07T16:32:24+0000
+    from: 
+      id: "1128953787"
+      name: Peter Von Brown
+    message: Tim - Me?  Yes.  Not everything has to be a musical.  Make an ORIGINAL one, like "The Drowsy Chaperone" - one of the best, too.
+  - id: 790499637_181205475352646_584887
+    created_time: 2012-12-07T16:33:29+0000
+    from: 
+      id: "649587941"
+      name: Tim Paul
+    message: I'm stepping away to the other side of the internet
+  - id: 790499637_181205475352646_584936
+    created_time: 2012-12-07T17:11:28+0000
+    from: 
+      id: "100002115994439"
+      name: Gregory Seta
+    likes: 2
+    message: They should get a restraining order against Julie Taymor. Just in case.
+  count: 8
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/181205475352646
+- name: Like
+  link: http://www.facebook.com/790499637/posts/181205475352646
+caption: io9.com
+
+---
+I was near-enraged by this news. Then I heard that Guillermo himself has been trying to make it happen and I thought "well...maybe". Then I heard that Paul Williams is involved. Bring it.  
