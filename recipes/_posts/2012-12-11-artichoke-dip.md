@@ -20,22 +20,24 @@ The original recipe calls for roasting frozen artichokes. But if you live in NYC
 Serves 10 to 12; Serve it with pita chips or some other strong and hearty cracker
 
 DIP 
-2 (9-ounce) boxes frozen artichokes (do not thaw) 
-2 teaspoons olive oil 
-Salt and pepper 
-1 medium onion, minced (about 1 cup) 
-2 garlic cloves, minced 
-1 cup mayonnaise 
-1/2 cup cream cheese, at room temperature 
-1 ounce Parmesan cheese, grated (1/2 cup) 
-1 tablespoon fresh lemon juice 
-1 tablespoon minced fresh thyme 
-Pinch cayenne pepper 
+
+- 2 (9-ounce) boxes frozen artichokes (do not thaw) 
+- 2 teaspoons olive oil 
+- Salt and pepper 
+- 1 medium onion, minced (about 1 cup) 
+- 2 garlic cloves, minced 
+- 1 cup mayonnaise 
+- 1/2 cup cream cheese, at room temperature 
+- 1 ounce Parmesan cheese, grated (1/2 cup) 
+- 1 tablespoon fresh lemon juice 
+- 1 tablespoon minced fresh thyme 
+- Pinch cayenne pepper 
 
 TOPPING 
-1 cup fresh breadcrumbs
-2 tablespoons grated Parmesan cheese 
-Nonstick vegetable or olive oil spray
+
+- 1 cup fresh breadcrumbs
+- 2 tablespoons grated Parmesan cheese 
+- Nonstick vegetable or olive oil spray
  
 FOR THE DIP: Adjust an oven rack to the middle position and heat the oven to 450 degrees. Line a rimmed baking sheet with foil. Toss the frozen artichokes with 1 teaspoon of the oil, 1/2 teaspoon salt, and 1/4 teaspoon pepper until evenly coated, and spread over the prepared baking sheet. Roast, rotating the baking sheet from front to back, until the artichokes are browned at the edges, 20 to 25 minutes. Let the artichokes cool and chop coarse. Reduce the oven temperature to 400 degrees. 
 
