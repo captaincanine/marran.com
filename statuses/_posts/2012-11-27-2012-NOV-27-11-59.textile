@@ -1,27 +1,35 @@
 --- 
-name: Keith's & David's Wedding Dance
-id: 790499637_373132942779914
-date: 2012-11-27 11:59:54 +00:00
-created_time: 2012-11-27T11:59:54+0000
-status_type: shared_story
-link: https://www.youtube.com/watch?v=xw-oahFEFvM
-to: 
-  data: 
-  - id: "1108401510"
-    name: Jeff Bond
-updated_time: 2012-11-27T12:33:34+0000
-privacy: 
-  deny: "116609519637"
-  value: CUSTOM
-  allow: ""
-  friends: ALL_FRIENDS
-  description: "Friends; Except: Family"
-  networks: ""
-picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAoZLVdYoOCDOuf&w=130&h=130&url=http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fxw-oahFEFvM%2Fmqdefault.jpg
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+message: My buddy Jeff Bond captured a bit of our first dance at the wedding. That moment flew by so quickly - I'm glad to see it on camera.
 from: 
   id: "790499637"
   name: Keith Marran
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAoZLVdYoOCDOuf&w=130&h=130&url=http%3A%2F%2Fi1.ytimg.com%2Fvi%2Fxw-oahFEFvM%2Fmqdefault.jpg
+source: http://www.youtube.com/v/xw-oahFEFvM?version=3&autohide=1&autoplay=1
+link: https://www.youtube.com/watch?v=xw-oahFEFvM
+date: 2012-11-27 11:59:54 +00:00
+title: Tuesday, Nov 27, 2012 - 11:59AM
+layout: facebook-video
+message_tags: 
+  "9": 
+  - type: user
+    id: "1108401510"
+    offset: 9
+    length: 9
+    name: Jeff Bond
+comments: 
+  count: 1
+  data: 
+  - message: that is a beatiful sight! Again - Congratulations to you both :)
+    from: 
+      id: "717015376"
+      name: Tracie Duncan
+    id: 790499637_373132942779914_2282084
+    created_time: 2012-11-27T12:33:34+0000
+type: video
+id: 790499637_373132942779914
 likes: 
+  count: 23
   data: 
   - id: "529289396"
     name: Andrew Perez
@@ -31,34 +39,26 @@ likes:
     name: Gretchen Berkebile
   - id: "555444007"
     name: Jim Tumminello
-  count: 23
-type: video
-message_tags: 
-  "9": 
-  - name: Jeff Bond
-    id: "1108401510"
-    offset: 9
-    type: user
-    length: 9
-title: Tuesday, Nov 27, 2012 - 11:59AM
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
-message: My buddy Jeff Bond captured a bit of our first dance at the wedding. That moment flew by so quickly - I'm glad to see it on camera.
-layout: facebook-video
-comments: 
-  data: 
-  - id: 790499637_373132942779914_2282084
-    created_time: 2012-11-27T12:33:34+0000
-    from: 
-      id: "717015376"
-      name: Tracie Duncan
-    message: that is a beatiful sight! Again - Congratulations to you both :)
-  count: 1
 actions: 
-- name: Comment
-  link: http://www.facebook.com/790499637/posts/373132942779914
-- name: Like
-  link: http://www.facebook.com/790499637/posts/373132942779914
-source: http://www.youtube.com/v/xw-oahFEFvM?version=3&autohide=1&autoplay=1
+- link: http://www.facebook.com/790499637/posts/373132942779914
+  name: Comment
+- link: http://www.facebook.com/790499637/posts/373132942779914
+  name: Like
+to: 
+  data: 
+  - id: "1108401510"
+    name: Jeff Bond
+updated_time: 2012-11-27T12:33:34+0000
+created_time: 2012-11-27T11:59:54+0000
+status_type: shared_story
+privacy: 
+  value: CUSTOM
+  allow: ""
+  networks: ""
+  description: "Friends; Except: Family"
+  deny: "116609519637"
+  friends: ALL_FRIENDS
+name: Keith's & David's Wedding Dance
 
 ---
 My buddy Jeff Bond captured a bit of our first dance at the wedding. That moment flew by so quickly - I'm glad to see it on camera.
