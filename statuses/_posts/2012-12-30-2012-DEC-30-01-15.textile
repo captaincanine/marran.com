@@ -1,0 +1,54 @@
+--- 
+likes: 
+  data: 
+  - name: Matthew Andersen
+    id: "9032871"
+  - name: Brian Maloney
+    id: "563213592"
+  - name: Renee Kent
+    id: "531319519"
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 15
+layout: facebook-status
+date: 2012-12-30 01:15:38 +00:00
+created_time: 2012-12-30T01:15:38+0000
+privacy: 
+  allow: ""
+  value: ALL_FRIENDS
+  networks: ""
+  description: Friends
+  deny: ""
+  friends: ""
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151606455959638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151606455959638
+updated_time: 2012-12-30T01:15:38+0000
+comments: 
+  count: 0
+type: status
+id: 790499637_10151606455959638
+title: Sunday, Dec 30, 2012 - 01:15AM
+message: |-
+  Me: what objects do you want to take to the Buddhist school to blessed? 
+  
+  David: Anything but the flaming penis. 
+  
+  Me: We are DEFINITELY having the flaming penis blessed!
+status_type: mobile_status_update
+from: 
+  name: Keith Marran
+  id: "790499637"
+application: 
+  namespace: fbipad_
+  name: Facebook for iPad
+  id: "173847642670370"
+
+---
+Me: what objects do you want to take to the Buddhist school to blessed? 
+
+David: Anything but the flaming penis. 
+
+Me: We are DEFINITELY having the flaming penis blessed!

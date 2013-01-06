@@ -1,0 +1,72 @@
+--- 
+likes: 
+  data: 
+  - name: Genny Huffman
+    id: "1416423932"
+  - name: Andrew Perez
+    id: "529289396"
+  - name: Dirk McCall
+    id: "502849778"
+  count: 26
+layout: facebook-photo
+date: 2012-12-20 00:01:49 +00:00
+created_time: 2012-12-20T00:01:49+0000
+privacy: 
+  allow: ""
+  value: ALL_FRIENDS
+  networks: ""
+  description: Friends
+  deny: ""
+  friends: ""
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151587098879638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151587098879638
+object_id: "10151587098794638"
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+updated_time: 2012-12-20T09:45:38+0000
+link: http://www.facebook.com/photo.php?fbid=10151587098794638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
+picture: http://photos-h.ak.fbcdn.net/hphotos-ak-prn1/61003_10151587098794638_324003638_s.jpg
+comments: 
+  data: 
+  - likes: 1
+    created_time: 2012-12-20T03:49:56+0000
+    id: 790499637_10151587098879638_10802927
+    message: Are you the mayor of Bhutan yet?
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+  - created_time: 2012-12-20T03:54:09+0000
+    id: 790499637_10151587098879638_10802957
+    message: Beautiful!
+    from: 
+      name: Uma Nt
+      id: "100000074495843"
+  - created_time: 2012-12-20T05:28:11+0000
+    id: 790499637_10151587098879638_10803528
+    message: Of course!
+    from: 
+      name: Evita Arce
+      id: "511774626"
+  - created_time: 2012-12-20T09:45:38+0000
+    id: 790499637_10151587098879638_10804439
+    message: Gorgeous! But I cannot believe the rural areas would be less photogenic! Less extravagant and glittering perhaps. :-)
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+  count: 8
+type: photo
+id: 790499637_10151587098879638
+title: Thursday, Dec 20, 2012 - 12:01AM
+message: From the lobby of our first hotel in Bhutan
+status_type: added_photos
+from: 
+  name: Keith Marran
+  id: "790499637"
+application: 
+  name: iPhoto
+  id: "222075114496522"
+
+---
+From the lobby of our first hotel in Bhutan

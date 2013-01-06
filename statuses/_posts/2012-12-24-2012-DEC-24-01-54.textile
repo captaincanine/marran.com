@@ -1,0 +1,49 @@
+--- 
+likes: 
+  data: 
+  - name: Craig Choma
+    id: "100001269764839"
+  - name: Robb Bloom
+    id: "1095747683"
+  - name: Kirsten Murray
+    id: "575571081"
+  count: 3
+layout: facebook-link
+name: "Tell Congress: Overturn Citizens United Decision NOW!"
+date: 2012-12-24 01:54:49 +00:00
+created_time: 2012-12-24T01:54:49+0000
+privacy: 
+  allow: ""
+  value: CUSTOM
+  networks: ""
+  description: "Friends; Except: Family"
+  deny: "116609519637"
+  friends: ALL_FRIENDS
+description: "God only knows if these online petitions do anything, but I'll take any steps to overturn Citizens United. I think it's one of the most destructive decisions in recent American government. "
+link-info: "Join the states fighting for a true democracy\xE2\x80\x94Take down Citizens United NOW!  Six states are calling for an  amendment to overturn the Citizens  United decision\xE2\x80\x94and they're asking Congress to draft legislation that can be ratified immediately!     By siding with Citizens United in 2010, our Supreme ..."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/306190516166051
+- name: Like
+  link: http://www.facebook.com/790499637/posts/306190516166051
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+caption: act.watchdog.net
+updated_time: 2012-12-24T01:54:49+0000
+link: http://act.watchdog.net/petitions/637?share_ref=Ifc7HcY-UpA
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBAz6f3Jn0mwVwI&w=90&h=90&url=http%3A%2F%2Fact.watchdog.net%2Fimages%2Ffbpic_almost-there_progress_fb-button_border.png
+comments: 
+  count: 0
+type: link
+id: 790499637_306190516166051
+title: Monday, Dec 24, 2012 - 01:54AM
+message: "God only knows if these online petitions do anything, but I'll take any steps to overturn Citizens United. I think it's one of the most destructive decisions in recent American government. "
+status_type: shared_story
+from: 
+  name: Keith Marran
+  id: "790499637"
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+
+---
+God only knows if these online petitions do anything, but I'll take any steps to overturn Citizens United. I think it's one of the most destructive decisions in recent American government. 

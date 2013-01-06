@@ -1,0 +1,43 @@
+--- 
+likes: 
+  data: 
+  - name: Terri Davis
+    id: "100000452612692"
+  - name: Rosemary Feneziani
+    id: "573541002"
+  - name: David Bruskin
+    id: "726072186"
+  count: 3
+story: Keith Marran was tagged in his own photo.
+layout: facebook-photo
+date: 2012-12-26 03:31:22 +00:00
+created_time: 2012-12-26T03:31:22+0000
+privacy: 
+  value: ""
+description: 
+link-info: Keith and David in Bumthang Valley
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151598784829638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151598784829638
+object_id: "10151598782629638"
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+updated_time: 2012-12-26T03:31:22+0000
+link: http://www.facebook.com/photo.php?fbid=10151598782629638&set=at.10151542188989638.599042.790499637.790499637&type=1&relevant_count=1
+picture: http://photos-h.ak.fbcdn.net/hphotos-ak-prn1/13754_10151598782629638_89935184_s.jpg
+comments: 
+  count: 0
+type: photo
+id: 790499637_10151598784829638
+title: Wednesday, Dec 26, 2012 - 03:31AM
+status_type: tagged_in_photo
+from: 
+  name: Keith Marran
+  id: "790499637"
+application: 
+  name: Photos
+  id: "2305272732"
+
+---
+

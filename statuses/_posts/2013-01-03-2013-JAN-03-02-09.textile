@@ -1,0 +1,52 @@
+--- 
+likes: 
+  data: 
+  - name: Matthew Shields
+    id: "729111833"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Matt Kessler
+    id: "166601180"
+  - name: Rosemary Feneziani
+    id: "573541002"
+  count: 10
+layout: facebook-status
+date: 2013-01-03 02:09:46 +00:00
+created_time: 2013-01-03T02:09:46+0000
+privacy: 
+  allow: ""
+  value: ALL_FRIENDS
+  networks: ""
+  description: Friends
+  deny: ""
+  friends: ""
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151614520674638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151614520674638
+updated_time: 2013-01-03T02:19:30+0000
+comments: 
+  data: 
+  - created_time: 2013-01-03T02:19:30+0000
+    id: 790499637_10151614520674638_30167767
+    message: Happy New Year, Patient Zero!
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+  count: 1
+type: status
+id: 790499637_10151614520674638
+title: Thursday, Jan  3, 2013 - 02:09AM
+message: David and I walked through a Nepali village and passed some coughing goats. So if there's a goat flu epidemic in the US this winter, blame us.
+status_type: mobile_status_update
+from: 
+  name: Keith Marran
+  id: "790499637"
+application: 
+  namespace: fbipad_
+  name: Facebook for iPad
+  id: "173847642670370"
+
+---
+David and I walked through a Nepali village and passed some coughing goats. So if there's a goat flu epidemic in the US this winter, blame us.
