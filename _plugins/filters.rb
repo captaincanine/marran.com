@@ -30,8 +30,13 @@ module Jekyll
 			url = p['fullsize'] ? p['fullsize'] : p
 		end
 	
-		def format_teaser_image(p)			
-			url = p['thumbnail'] ? p['thumbnail'] : p
+		def format_teaser_image(p)
+			url = absolute_path(p['thumbnail'] ? p['thumbnail'] : p)
+		end
+		
+		def absolute_path(s)
+		  site_url = @context.registers[:site].config['url']
+		  URI.join(site_url, s).to_s
 		end
 	
 	end

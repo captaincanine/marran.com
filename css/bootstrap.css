@@ -4912,6 +4912,12 @@ a.badge:hover {
     background: #d1c6b8 url('/images/map-background.jpg');
   }
 }
+h2 {
+  font-family: "FolkSolid", sans-serif;
+  text-transform: uppercase;
+  color: #2a3b63;
+  margin: 24px 0 8px;
+}
 #header {
   background: #2a3b63 url('/images/tile-beige.jpg');
 }
