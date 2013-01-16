@@ -7,6 +7,7 @@ description: We only had one day in Hanoi, but when you do it at a break-neck sp
 photoset: 72157628026946619
 images:
 - thumbnail: http://farm7.staticflickr.com/6101/6354161817_393c14774a.jpg
+  fullsize: http://farm7.staticflickr.com/6101/6354161817_393c14774a.jpg
 ---
 <iframe width="560" height="345" src="http://www.youtube.com/embed/O8vgSr8qqcw" frameborder="0" allowfullscreen></iframe>
 

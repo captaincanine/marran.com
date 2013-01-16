@@ -10,8 +10,6 @@ images:
 - thumbnail: /images/content/new-jan-brady.jpg
   fullsize: /images/content/new-jan-brady.jpg
 ---
-<img src="/images/content/new-jan-brady.jpg" width="100%" />
-
 For some reason, I am very excited about next year. This next year feels like it will really be mine to explore and enjoy. This is the first time that I haven't felt some giant external pressure. I don't know if that's because life changed or I changed. 
 
 I've done this enough to know that some resolutions stick, some only last a few months, and some never happen. But that doesn't mean I shouldn't try to live more intentionally.

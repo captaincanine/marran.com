@@ -61,162 +61,154 @@
 // Utility classes
 @import "utilities.less"; // Has to be last to override when necessary
 
-body {
-  @media (max-width: 767px) { background: @beige url('/images/map-background.jpg'); }
-}
+@import url("http://fonts.googleapis.com/css?family=Londrina+Solid|Londrina+Sketch|Londrina+Outline|Londrina+Shadow");
 
-h2 { 
-  font-family: @displayFontFamily; 
-  text-transform: uppercase;
-  color: @navy;
-  margin: 24px 0 8px;
-}
+h2,h3   { font-family: @displayFontFamily; color: @maroon; }
 
 #header { 
-  background: #2A3B63 url('/images/tile-beige.jpg'); 
-  @media (max-width: 767px) { background: none; }
-}
 
-#navigation {
-
-  .nav-section a  { text-decoration: none; color: inherit; }
-
-  .nav-title	{ 
-    font-family: @displayFontFamily; 
-    text-transform: uppercase; color: @red; 
-    font-size: 32px; 
-    line-height: 32px;
-    padding-top: 10px;
-    -moz-text-shadow: 2px 2px 0px #fff;
-    -webkit-text-shadow: 2px 2px 0px #fff;
-    text-shadow: 2px 2px 0px #fff;
-  }
-
-  .nav-subtitle { font-size: 12px; line-height: 1.2em; color: @navy; }
-  
-  @media (max-width: 767px) {
-    .nav-section, .nav-title  { display: inline-block; font-size: 20px; float: left; width: auto; margin: 0 10px 0 0; }
-  }
-}
-
-#search-bar {
-
-  background: @navy url('/images/tile-navy.jpg');
-   
-  #share-links, #share-links a, label	{ font-family: @displayFontFamily; color: @white; text-transform: uppercase; font-size: 18px; }
-  #share-links  { padding: 16px 0 0; }
-  
-  @media (max-width: 767px) { 
-    background: none; 
-    label        { color: @navy; }
-    .form-search { text-align: left; } 
-    #share-links { display: none; }
-  }
-
-}
-
-.form-search  { 
-
+  font-family: @displayFontFamily;
+  font-size:   26px;
+  color:       @cyan;
+  line-height: 1.2em;
+  margin:      20px 0;
   position: relative;
 
-  text-align: right; padding: 6px 0 0; margin: 0 0 6px; 
-  label       { padding: 4px 10px 0 0 ; }
-  input       { height: 14px; font-size: 12px; }
-  .icon-remove  { position: absolute; right: 4px; top: 12px; }
+  #logo     { font-size: 72px; line-height: 72px; color: @cyan; }
+  #about    { font-size: 20px; line-height: 18px; color: @maroon; padding-top: 72px; }
 
+  a:hover   { text-decoration: none; color: @cyan; }
+  
+  .follow-links   { 
+  
+    padding-top: 48px;
+  
+    div       { float: left; margin-left: 10px; }
+    
+    .email    { margin-left: 0px; }
+    .contact  { display: none; }
+  
+  }
+  
+  @media (min-width: 1200px) {
+    .email { width: 156px; }
+  }
+  
+  @media (min-width: 980px) and (max-width: 1199px) {
+    .email    { width: auto; margin-left: 44px !important; }
+    .contact  { display: none !important; }
+  }
+  
+  @media (max-width: 980px) {
+    .follow-links   { padding-top: 10px; }
+    img       { width: 36px; height: 36px; }
+  }
+  
+  #logo a   { position: absolute; display: block; }
+  .sketched { font-family: 'Londrina Sketch'; position: absolute; color: @black; display: block; }
+
+}
+
+.teaser     {
+
+  margin-bottom: 20px;
+
+  .keyword  { 
+    background: @orange url('/images/stripes-gold.png') no-repeat bottom right; 
+    padding: 8px 12px 5px;
+    a       { color: @white; font-family: @displayFontFamily; text-transform: uppercase; font-size: 18px; -webkit-font-smoothing: antialiased; }
+    a:hover { color: @cyan; text-decoration: none; }
+  }
+
+  .image img	{ width: 100%; }
+  .title		{ font-size: 28px; line-height: 28px; font-family: @displayFontFamily; margin: 16px 0 8px; -webkit-font-smoothing: antialiased; }
+  .title a	{ color: @maroon; text-decoration: none; }
+  
+  .timestamp      { font-size: 11px; color: @grayLight; }
+  
+}
+
+.first.row .title     { font-size: 42px; line-height: 42px; }
+.second.row .title    { font-size: 36px; line-height: 42px; }
+.third.row .keyword,
+.fourth.row .keyword   { background-image: none; }
+
+#sidebar {
+
+  .header   {
+    background: @maroon url('/images/stripes-maroon.png') no-repeat bottom right; 
+    padding: 8px 12px 5px;
+    color: @white; font-family: @displayFontFamily; text-transform: uppercase; font-size: 18px; -webkit-font-smoothing: antialiased;
+  }
+
+  #statuses {  
+    .teaser       { padding: 8px 0 0; border-top: 1px dotted @grayLight; }
+    .teaser.first { border-top: none; }
+    a  { color: @textColor; }
+  }
+
+  #popular-tags   {
+    ul    { list-style: none; margin: 20px; }
+    li    { display: inline-block; width: 50%; }
+  }
+
+}
+
+#search { 
+
+  margin-bottom: 20px;
+  
+  .form-search  { 
+
+    position: absolute; top: -1px; right: 5px;
+
+    text-align: right; padding: 6px 0 0; margin: 0 0 6px; 
+    label       { padding: 4px 10px 0 0 ; }
+    input       { height: 14px; font-size: 12px; }
+    .icon-remove  { position: absolute; right: 4px; top: 10px; }
+
+  }
+  
 }
 
 #search-results {
 
   display: none;
   overflow: scroll;
-  position: absolute;
-  top: 40px;
-  right: 0;
-
-  padding: 6px 0;
-
-  border: 3px solid @navy;
   background: @white;
 
-  -webkit-box-shadow: 4px 4px 4px 0px @grayDark;
-  box-shadow: 4px 4px 4px 0px @grayDark;
+  padding: 6px 0;
   
-  width: 320px;
-  max-height: 400px;
-
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
-  -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
+  max-height: 800px;
 
   .search-entry { 
   
-    padding: 16px 16px 16px; 
+    padding: 10px 20px; 
     
     &.selected  { background: @grayLighter; }
     
-    .title    { font-family: @displayFontFamily; font-size: 18px; text-transform: uppercase; }
-    .title a  { color: @navy; }
-    .description  { font-size: 12px; line-height: 1.2em; }
+    a         { color: @textColor; }
+    .title    { font-family: @displayFontFamily; font-size: 18px; line-height: 22px; background: none; }
+    .title a  { color: @maroon !important; }
+    .timestamp  { font-size: 11px; color: @grayLight; }
+    .date     { display: none; }
+
   }
 
 }
 
+.article {
 
-#main {
-  background: @beige url('/images/map-background.jpg');
+  .content { margin: 20px 0 40px; }
   
-  .box {
-
-    margin: 20px 0;
-
-    .box-header {
-    
-      background: @babyblue;
-      padding: 10px 20px 2px;
-
-      border-top: 3px solid @navy;
-      border-left: 3px solid @navy;
-      border-right: 3px solid @navy;
-
-      -webkit-border-top-left-radius: 10px;
-      border-top-left-radius: 10px;
-      -webkit-border-top-right-radius: 10px;
-      border-top-right-radius: 10px;
-      -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
-      
-      .meta   { font-size: 12px; line-height: 12px; margin: 0 0 8px; }
-      a   { color: @orange; }
-      .box-title  { font-family: @displayFontFamily; color: @navy; text-transform: uppercase; font-size: 18px; margin: 10px 0 0; }
-      h1          { font-size: 48px; line-height: 1em; margin: 10px 0 0; font-weight: normal; }
-      .help       { font-size: 13px; color: @gray; font-family: @baseFontFamily; text-transform: none; }
-
-      .left      { float: left; }
-      .right      { float: right; }
-    }
-
-    .box-middle {
-    
-      background: @white;
-      padding: 20px;
-
-      border-bottom: 3px solid @navy;
-      border-left: 3px solid @navy;
-      border-right: 3px solid @navy;
-
-      -webkit-border-bottom-left-radius: 10px;
-      border-bottom-left-radius: 10px;
-      -webkit-border-bottom-right-radius: 10px;
-      border-bottom-right-radius: 10px;
-      -moz-background-clip: padding; -webkit-background-clip: padding-box; background-clip: padding-box;
-     
-      img   { margin: 20px 0; border: 1px solid @navy; }
-     
-    }
-
+  #main .title  {
+    background: @orange url('/images/stripes-gold.png') no-repeat bottom right; 
+    padding: 8px 12px 5px;
+    color: @white; font-family: @displayFontFamily; font-size: 36px; line-height: 36px; -webkit-font-smoothing: antialiased;
   }
+}
+
+#middle {
 
   .series-box {
     .box-header {
@@ -227,7 +219,7 @@ h2 {
     
     .series-item {
       margin: 0 0 20px;
-      a         { color: @navy; }
+      a         { color: @maroon; }
       .title    { font-family: @displayFontFamily; font-size: 24px; line-height: 21px; margin-top: 6px; text-transform: uppercase; }      
       &.current { background: url('/images/red-dot.png') top left no-repeat; padding-left: 32px; }
       .info     { line-height: 1.4em; }
@@ -242,22 +234,23 @@ h2 {
     .series-title		{ font-family: @displayFontFamily; text-transform: uppercase; font-size: 24px; text-decoration: none; margin: 8px 0 12px; }
     .help				    { margin: 4px 0; }
     .next-link			{ margin: 8px 0 4px; }
-    .title		      { font-size: 36px !important; line-height: 36px; font-family: @displayFontFamily; text-transform: uppercase; margin: 12px 0 8px;  }
-    .title a        { color: @navy; }
+    .title		      { font-size: 36px !important; line-height: 36px; font-family: @displayFontFamily; text-transform: uppercase; margin: 0 0 8px; background: none; padding: 0; color: inherit; }
+    .title a        { color: @maroon; }
   }
+
+  img         { margin: 18px 0; border: 1px solid @gray; }
+  .main img   { margin-top: 0; border: 0; width: 100%; }
 
   .photoset {
     #flickr-link img { margin-top: -16px; }
   }
 
-  .photo-thumbs {
+  .photo-thumbnails {
   
-    img   { margin: 0 2px 10px 0 !important; width: auto !important; }
-    img.thumbnail { 
-      width: 100% !important; 
+    img { 
       padding: 0; 
       box-shadow: none; 
-      border: 1px solid @navy;
+      border: none;
       -moz-box-shadow: none; 
       -webkit-border-radius: 0px;
       -moz-border-radius: 0px;
@@ -282,43 +275,34 @@ h2 {
     .title a	{ color: @navy; text-decoration: none; }
   }
 
-  .teaser   { 
-    margin: 0 0 40px; 
-    img	      { width: 100%; border: 1px solid @navy; margin: 10px 0; }
-    .title		{ font-size: 24px !important; font-family: @displayFontFamily; text-transform: uppercase; }
-    .title a	{ color: @navy; text-decoration: none; }
-    .description  { margin: 10px 0; }
+  .meta		  { 
+ 
+    background: @grayLighter;
+    font-size: 12px; line-height: 14px; 
+    
+    .info       { padding: 8px 12px; }
+    a		{ color: @cyan; }
+    
+    #share-links        { position: relative; height: 28px; }
+    .addthis_toolbox    { position: absolute; top: 4px; right: 6px; }
+    
+    
   }
-
-  .meta		  { color: @grayLight; font-size: 12px; }
-  .meta a		{ color: @orange; }
   .tag-link { margin: 0 2px; white-space: nowrap; }
-  .browse-list .tag-link		{ display: block; float: left; width: 120px; }
-
-  @media (max-width: 767px) {
-    background: none;
+  .browse-list {
+    .list       { margin: 20px; }
+    .tag-link		{ display: inline-block; width: 48%; }
   }
-
 }
 
 #footer {
 
-  background: @navy url('/images/tile-navy.jpg');
-
-  .contact, .copyright, a {
-    padding: 20px 0 16px; 
+  .copyright {
+    padding: 20px 0 36px; 
+    border-top: 1px dotted @cyan;
     font-family: @displayFontFamily; 
-    text-transform: uppercase; color: @white; 
-    font-size: 18px; 
-  }
-  
-  .contact  { text-align: right; }
-
-  @media (max-width: 767px) { 
-    background: none; 
-    padding: 0; 
-    .contact, .copyright, a { color: @navy; margin: 10px 0; padding: 0; }
-    .contact { text-align: left; }
+    color: @cyan; 
+    font-size: 20px;
   }
 }
 
@@ -334,7 +318,7 @@ h2 {
   }
 }
 
-#sb-title-inner	{ font-size: 24px !important; font-family: @displayFontFamily !important; text-transform: uppercase; font-weight: normal !important; }
+#sb-title-inner	{ font-size: 24px !important; font-family: @displayFontFamily !important; -webkit-font-smoothing: antialiased; font-weight: normal !important; }
 
 #disqus_thread  {
 
@@ -361,135 +345,10 @@ h2 {
 
 }
 
-.home-bottom { 
-
-  margin-top: 24px;
-
-  .title a		{ font-size: 182%; line-height: 100%; text-decoration: none; }
-  .image			{ margin: 0; padding: 0 0 8px; }
-  .image img	{ border: 1px solid @navy; width: 100%; margin: 0; padding: 0; }
-  
-  .and-keith 	{ font-family: @displayFontFamily; text-transform: uppercase; font-size: 36px; line-height: 100%; color: @red; height: 30px; }
-  .does		 	  { font-family: @displayFontFamily; text-transform: uppercase; font-size: 78px; line-height: 100%; color: @navy; height: 64px; }
-  .does a			{ text-decoration: none; color: @navy; }
-
-  .more-content		{ padding: 0 18px; margin: -10px 0 40px; }
-  .more-content a	{ text-decoration: none; font: 18px @displayFontFamily; text-transform: uppercase; color: @navy; }
-
-  .box-middle-left .title	a { color: @navy; font-family: @displayFontFamily; text-transform: uppercase; font-size: 42px !important; }
-
-  .box-header-left .title	  { float: left; }
-  .box-header-left .meta		{ float: right; margin: 12px 0 0 !important; font-size: 12px !important; text-transform: none; }
-  .box-header-left .meta	a	{ color: @navy; }
-
-  #blog-latest    { 
-  
-    margin-top: 0 !important; 
-    
-    .teaser           { 
-
-      margin: 40px 0 0; 
-      &.feature     { margin: 0; }
-      .description  { margin-top: 0; }
-      .meta         { margin-bottom: 4px; }
-      
-    }
-    
-  }
-
-}
-
-.big-text {
-
-  font-family: @displayFontFamily; text-transform: uppercase; line-height: 1em; 
-  .keith		{ font-size: 148px; line-height: 1em; color: @red; height: 114px; margin-top: 24px; }
-  .marran		{ font-size: 108px; line-height: 1em; color: @orange; height: 82px; }
-  .lives		{ font-size: 148px; line-height: 1em; color: @navy; height: 114px; }
-  .the-rest	{ font-size: 15px; line-height: 1em; color: @navy; height: auto; }
-
-  @media (min-width: 980px) and (max-width: 1199px) { 
-    .keith    { font-size: 130px; height: 104px; }
-    .marran   { font-size: 96px; height: 80px; }
-    .lives    { font-size: 130px; height: 104px; }
-    .the-rest { font-size: 15px; height: auto; }
-  }
-
-  @media (min-width: 768px) and (max-width: 979px) { 
-    .keith    { font-size: 100px; line-height: 100px; height: 86px; }
-    .marran   { font-size: 74px; line-height: 74px; height: 64px; }
-    .lives    { font-size: 100px; line-height: 100px; height: 86px; }
-    .the-rest { font-size: 15px; line-height: 15px; height: auto; }
-  }
-
-  @media (max-width: 767px) {
-    .keith    { font-size: 42px; line-height: 42px; height: auto; display: inline-block; margin-right: 10px; }
-    .marran   { font-size: 42px; line-height: 42px; height: auto; display: inline-block; margin-right: 10px; }
-    .lives    { font-size: 42px; line-height: 42px; height: auto; display: inline-block; }
-    .the-rest { font-size: 15px; line-height: 15px; height: auto; }
-  }
- 
-  @media (max-width: 480px) { 
-  }
-}
-
-.front {
-
-  #header {
-
-    background: @navy url('/images/tile-navy.jpg');
-    
-    #mini-nav {
-      margin: 10px 0 0;
-      a   { 
-        color: @white; 
-        font-family: @displayFontFamily;
-        font-size: 20px;
-        text-transform: uppercase;
-        text-decoration: none;
-      }
-      
-      .item { display: inline-block; margin: 0px 10px 0 0; }
-  
-    }
-  
-    #mini-search  { 
-      margin: 4px 0 0;
-      text-align: right; 
-      form        { margin: 0 0 4px; }
-      label       { padding: 4px 10px 0 0 ; }
-      input       { height: 14px; font-size: 12px; }
-      label	      { font-family: @displayFontFamily; color: @white; text-transform: uppercase; font-size: 18px; }
-    }
-  
-    @media (max-width: 767px) { 
-      background: none; 
-      label        { color: @navy !important; }
-      a { 
-        color: @red !important;
-        -moz-text-shadow: 2px 2px 0px #fff;
-        -webkit-text-shadow: 2px 2px 0px #fff;
-        text-shadow: 2px 2px 0px #fff;    
-      }
-      .item { margin: 10px 10px 10px 0; }
-      .form-search { text-align: left; } 
-    }
-
-  }
-  
-  img { margin: 0 !important; }
-    
-  .social-links {
-    margin-top: 20px;
-    font-family: @displayFontFamily; 
-    font-size: 18px;
-    text-transform: uppercase;
-    img { margin: -4px 4px 0 !important; }
-  }
-
-}
-
 .download-box {
   margin: 20px 0 20px 40px; 
   .icon-download  { margin-right: 4px; }
   .details        { font-size: 11px; margin-left: 20px; }
 }
+
+.read-more    { margin-top: 6px; }

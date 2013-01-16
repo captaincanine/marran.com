@@ -29,14 +29,12 @@
 	{% if (page.description) %}<meta property="og:description" content="{{ page.description | strip_html }}"/>{% endif %}
 	{% if (page.images) %}<meta property="og:image" content="{{ page.images[0] | format_teaser_image }}"/>{% endif %}
 
-
   <meta property="twitter:card" content="summary" />
   <meta property="twitter:creator" content="@captaincanine" />
   <meta property="twitter:url" content="{{ page.url | absolute_path }}" />
   <meta property="twitter:title" content="{{ page.title | strip_html }}" />
   {% if (page.description) %}<meta property="twitter:description" content="{{ page.description | strip_html }}" />{% endif %}
 	{% if (page.images) %}<meta property="twitter:image" content="{{ page.images[0] | format_teaser_image }}" />{% endif %}
-
 
 	<script type="text/javascript">
 		Shadowbox.init({
@@ -59,74 +57,7 @@
 	</script>
 	
 </head>
-<body>
 
-{% include header.html %}
+{{ content }}
 
-<div id="main">
-
-  <div class="container">
-    
-    <div class="row">
-    
-      <div class="span8">
-        <div id="main">
-           {{ content }}
-        </div>
-      </div>
-
-			<div class="span4">
-			  <div id="sidebar">
-
-          <div id="search">
-            <div class="header">Search</div>
-            <form method="get" class="form-search">
-              <input type="text" name="search-text" id="search-text">
-            </form>
-          </div>
-
-          <div id="statuses">
-            <div class="header">Off the cuff</div>
-          
-            {% for post in site.categories['statuses'] limit:10 %}
-
-              <div class="teaser{% if (forloop.first) %} first{% endif %}">
-                <div class="timestamp"><script language="javascript">document.write($.timeago('{{ post.date }}'))</script></div>
-                <div class="description"><a href="{{ post.url }}">{{ post.content }}</a></div>
-              
-                {% if (post.picture) %}
-                
-                  <div class="row">
-                    <div class="span1"><div class="image"><img src="{{ post.picture }}" /></a></div></div>
-                    {% if (post.link-info) %}
-                      <div class="span3"><div class="info"><a href="{{ post.url }}">{{ post.link-info }}</a></div></div>
-                    {% endif %}
-                  </div>
-                
-                {% endif %}
-              
-              
-              </div>
-
-            {% endfor %}
-
-          </div>
-
-          <div id="popular-tags">
-            <div class="header">Popular Tags</div>
-            
-            {{ site.tags | popular_tags }}
-            
-          </div>
-
-        </div>
-			</div>
-
-		</div>		
-	</div>
-</div>
-
-{% include footer.html %}
-
-</body>
 </html>

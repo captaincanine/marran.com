@@ -1,9 +1,10 @@
 var searchTimer;
+var revised;
 
 $(document).ready( function () {
 
-  $('#header .container').css('position', 'relative');
-	$('#header .container').prepend('<div id="search-results"></div>');
+  $('#search').css('position', 'relative');
+	$('#search').append('<div id="search-results"></div>');
 
 	$('#search-text').keydown( function (e) {
 				
@@ -36,10 +37,19 @@ $(document).ready( function () {
       }, 300, function() { });
 		  		
 		} else if (e.which == 13) {
+				
+		  if ($('#search-results .search-entry.selected').length != 0) {
+		    window.location.href = $('#search-results .search-entry.selected a').attr('href');
+		  }
 		
-		  window.location.href = $('#search-results .search-entry.selected a').attr('href');
+		  //window.location.href = $('#search-results .search-entry.selected a').attr('href');
 		  return false;
-		
+		  
+    } else if (e.which == 27) {
+    
+      $('#search-text').val('');
+      siteSearch('');
+
 		} else {
       if (searchTimer == null)
         searchTimer = setTimeout("siteSearch($('#search-text').val())", 500);		
@@ -140,7 +150,12 @@ siteSearch = function(w) {
     };
 
     o.loadPostData = function(ts) {
-      $('#search-results').append(ts);
+      var obj = $(ts);
+      if (obj.find('.date').length > 0) {
+        var date = $.timeago(obj.find('.date').text());
+        obj.children('a').append('<div class="timestamp">' + date + '</div>');
+      }
+      $('#search-results').append(obj);
     }
     
     o.clearResults = function() {

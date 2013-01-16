@@ -27,11 +27,11 @@ module Jekyll
 		end
 		
 		def format_main_image(p)
-			url = p['fullsize'] ? p['fullsize'] : p
+			p['fullsize'] || p['thumbnail'] || p
 		end
 	
 		def format_teaser_image(p)
-			url = absolute_path(p['thumbnail'] ? p['thumbnail'] : p)
+			url = absolute_path(p['thumbnail'] || p)
 		end
 		
 		def absolute_path(s)

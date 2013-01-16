@@ -83,17 +83,12 @@ module Jekyll
 					if s.width.to_i < 1200
 						urlFull = s.source
 					end
-										
-					if s.label == 'Medium 640' && i < 3
-						urlThumb = s.source
-						thumbType = 'thumbnail'
-					end
-					
-					if s.label == 'Square' && i >= 3
+															
+					if s.label == 'Large Square'
 						urlThumb = s.source
 						thumbType = 'square'
 					end
-				
+
 				end
 	
 				photo = FlickrPhoto.new(title, urlFull, urlThumb, thumbType)

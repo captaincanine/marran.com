@@ -9,8 +9,6 @@ images:
   fullsize: /images/content/artichoke-dip.jpg
 description: I found a light version of this recipe in Cook Illustrated many years ago. I made it with full fat ingredients and it came out great. This is always a high-demand item for parties. It's the sort of dish that people would station themselves near so they could guard it from everyone else having any. 
 ---
-<img src="/images/content/artichoke-dip.jpg" width="100%"/>
-
 I found a light version of this recipe in [Cook's Illustrated] many years ago. I made it with full fat ingredients and it came out great. This is always a high-demand item for parties. It's the sort of dish that people would station themselves near so they could guard it from everyone else having any. 
 
 The last time I served it, we ran out of pita chips, but we had left over hamburger buns. A guest made himself an artichoke dip sandwich. Though we all thought an artichoke dip sandwich was a disgusting thought, it didn't stop him from finishing it off.

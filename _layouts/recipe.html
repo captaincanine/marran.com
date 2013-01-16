@@ -1,105 +1,69 @@
 ---
-layout: default
+layout: html
 ---
-<div class="post row">
+<body class="article recipe">
 
-	<div class="span8">
-		
-		<div class="box">
-			<div class="box-header">
-				<div class="box-header-left clearfix">
-					<div class="box-title title"><h1>{{ page.title }}</h1></div>
-					<div class="meta">{{ page.date | time_ago }}{{ page.tags | tag_links }}</div>
-				</div>
-				<div class="box-header-right"></div>
-			</div>
-			<div class="box-middle">
-				<div class="box-middle-left">				
-					{% if (page.image) %}<div class="post-image"><a href="{{ page.image }}" title="{{ page.title }}" rel="shadowbox" class="popupwindow"><img src="{{ page.image }}" /></a></div>{% endif %}
-					{{ content }}									
+{% include header.html %}
 
-					<div id="disqus_thread"></div>
-					<script type="text/javascript">
-						 
-						 var disqus_shortname = 'marran'; // required: replace example with your forum shortname
+<div id="middle">
+
+  <div class="container">
+    
+    <div class="row">
+    
+      <div class="span8">
+        <div id="main">
+        
+          <div class="title">{{ page.title }}</div>
+          <div class="meta">
+            <div class="row">
+	            <div class="span5"><div class="info">{{ page.date | time_ago }} - {{ page.tags | tag_links }}</div></div>
+	            <div class="span3">{% include sharing.html %}</div>
+            </div>
+          </div>
+          
+          {% if (page.images[0]['fullsize']) %}
+            <div class="image main"><img src="{{ page.images[0]['fullsize'] }}" /></div>
+          {% endif %}
+
+          <div class="content">{{ content }}</div>
+          
+					{% include comments.html %}
 					
-						 // The following are highly recommended additional parameters. Remove the slashes in front to use.
-						 var disqus_identifier = '{{ page.id }}';
-						 var disqus_url = 'http://www.marran.com{{ page.url }}/index.html';
-					
-						 (function() {
-							  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-							  dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-							  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-						 })();
-					</script>
-					<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-					<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+        </div>
+      </div>
 
-				</div>
-				<div class="box-middle-right"></div>
+			<div class="span4">
+			  <div id="sidebar">
+
+          <div id="search">
+            <div class="header">Search</div>
+            <form method="get" class="form-search">
+              <input type="text" name="search-text" id="search-text">
+            </form>
+          </div>
+
+          <div id="ingredients" class="browse-list">
+            <div class="header">Browse by Ingredient</div>
+            <div class="list">
+              {{ site.ingredients | browse_list }}
+            </div>
+          </div>
+
+          <div id="ingredients" class="browse-list">
+            <div class="header">Browse by Dish</div>
+            <div class="list">
+              {{ site.dishes | browse_list }}
+            </div>
+          </div>
+
+        </div>
 			</div>
 
-		</div>
-	
+		</div>		
 	</div>
-
-	<div class="span4">
-	
-		<div class="teaser">
-			
-			<div class="box">
-				<div class="box-header">
-					<div class="box-header-left box-title title">Browse by Ingredient</div>
-					<div class="box-header-right"></div>
-				</div>
-				<div class="box-middle">
-					<div class="box-middle-left browse-list clearfix">
-						{{ site.ingredients | browse_list }}
-					</div>
-					<div class="box-middle-right"></div>
-				</div>
-			</div>
-
-		</div>
-		<div class="teaser">
-			
-			<div class="box">
-				<div class="box-header">
-					<div class="box-header-left box-title title">Browse by Dish</div>
-					<div class="box-header-right"></div>
-				</div>
-				<div class="box-middle">
-					<div class="box-middle-left browse-list clearfix">
-						{{ site.dishes | browse_list }}
-					</div>
-					<div class="box-middle-right"></div>
-				</div>
-			</div>
-
-		</div>
-		<div class="teaser">
-	
-			<div class="box">
-				<div class="box-header">
-					<div class="box-header-left box-title title">Similar Posts maybe?</div>
-					<div class="box-header-right"></div>
-				</div>
-				<div class="box-middle">
-					<div class="box-middle-left">
-						 {% for post in site.related_posts limit:3 %}
-						 	<div class="related-post">
-						 		<div class="related-title"><a href="{{ post.url }}">{{ post.title }}</a></div>
-						 		<div class="related-meta"><span class="timeago">{{ post.date | time_ago }}</span>{{ post.tags | tag_links }}</div>
-						 	</div>
-						 {% endfor %}
-					</div>
-					<div class="box-middle-right"></div>
-				</div>
-			</div>
-
-		</div>
-	
-	</div>
-
 </div>
+
+{% include footer.html %}
+
+</body>

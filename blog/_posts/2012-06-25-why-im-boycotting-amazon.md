@@ -10,8 +10,6 @@ images:
 - thumbnail: /images/content/amazons-a-bully-thumb.png
   fullsize: /images/content/amazons-a-bully.png
 ---
-<img src="/images/content/amazons-a-bully.png" title="Amazon.com's Predatory Practices" width="606" />
-
 Let me rephrase that...Why I'm _trying_ to boycott Amazon.com. Because over the years, Amazon.com has turned into a predatory and ruthless company that appears to be intent on destroying American small businesses.
 
 This info graphic shows it quite well.
