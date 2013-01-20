@@ -63,7 +63,7 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
       self.data['tag']    = tag
       # Set the title for this page.
-      title_prefix             = site.config['tag_title_prefix'] || 'Everything tagged with: '
+      title_prefix             = site.config['tag_title_prefix'] || 'Everything tagged with #'
       self.data['title']       = "#{title_prefix}#{tag}"
       # Set the meta-description for this page.
       meta_description_prefix  = site.config['tag_meta_description_prefix'] || 'Tag: '
@@ -139,6 +139,24 @@ module Jekyll
         ' <a href="/tags/' + Site.slugify(item) + '/" class="tag-link">#'+item+'</a> '
       end
     end
+
+    def popular_tags(items)
+    
+      # debugger
+      tags = items.sort {|a,b| b[1].size <=> a[1].size }
+      
+      html = String.new
+      
+      html << "<ul>"
+      
+      tags[0..39].each do | key, value |
+        slug = Site.slugify(key)
+        html << "<li><a href=\"/tags/#{slug}\" title=\"Pages tagged #{key}\">#{key}</a></li>"
+      end
+      
+      html  << "</ul>"
+    
+    end
 	
 	  def tag_cloud(tags)
 	
@@ -159,6 +177,10 @@ module Jekyll
       
       html
     
+    end
+    
+    def slugify(tag)
+      tag.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
     end
 
   end

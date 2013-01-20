@@ -28,14 +28,28 @@ I have created a custom filter for displaying previous and next links on categor
 
 module Jekyll
 
+  class Pagination < Generator
+    def generate(site)
+    end
+  end
+
   class CategoryPages < Generator
   
     safe true
 
     def generate(site)
+
+      # loop through the posts and assign all non-status posts to an "articles" category
+      site.posts.each do |post|
+        if (not post.categories.include?('statuses'))
+          post.categories << 'articles'          
+        end        
+      end 
+        
       site.pages.dup.each do |page|
         paginate(site, page) if CategoryPager.pagination_enabled?(site.config, page)
       end
+
     end
 
     def paginate(site, page)

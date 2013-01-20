@@ -1,4 +1,23 @@
 <div class="search-entry">
-<div class="title"><a href="{{ page.link }}" title="{{ page.title }}">{{ page.title }}</a></div>
-<div class="description">{{ page.description }}</div>
+
+  <a href="{{ page.link }}" title="{{ page.title }}">
+
+    {% if (page.title) %}<div class="title">{{ page.title }}</div>{% endif %}
+    <div class="description">{{ page.description }}</div>
+
+    {% if (page.picture) %}
+    
+      <div class="row">
+        <div class="span1"><div class="image"><img src="{{ page.picture }}" /></a></div></div>
+        {% if (page.link-info) %}
+          <div class="span3"><div class="info"><a href="{{ page.url }}">{{ page.link-info }}</a></div></div>
+        {% endif %}
+      </div>
+    
+    {% endif %}
+
+    {% if (page.date) %}<div class="date">{{ page.date }}</div>{% endif %}
+
+  </a>
+
 </div>

@@ -36,7 +36,7 @@ module Jekyll
       alias series_to_liquid to_liquid
       def to_liquid
         if self.series
-          series_to_liquid.deep_merge({ "siblings" => self.siblings })
+          series_to_liquid.deep_merge({ "siblings" => self.siblings, "next" => self.next })
         else
           series_to_liquid
         end

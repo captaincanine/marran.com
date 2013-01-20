@@ -15,8 +15,6 @@ description: It's day 2 of our Great American Road Trip to Mount Rushmore. We ha
 ---
 It's day 2 of our Great American Road Trip to Mount Rushmore.
 
-<img src="http://farm9.staticflickr.com/8456/8013264427_4399068928_z.jpg" width="640" height="480" alt="Corn Fields">
-
 We got up relatively early and hit the road for Rapid City, SD. The landscape was much more what I was expecting for this leg of the trip: flat, dry, and dotted with signs for roadside attractions. It felt like we were seeing signs for "Wall Drug" at least once a mile.
 
 "Fresh, Homemade Donuts at WALL DRUG!"

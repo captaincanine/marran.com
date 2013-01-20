@@ -1,155 +1,73 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
-<head>
-
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-  <title>{{ page.title }} | Keith Marran</title>
-  <meta name="author" content="Keith Marran" />
-  <link href="/atom.xml" rel="alternate" title="Keith Marran" type="application/atom+xml" />
-
-  <link rel="stylesheet" href="/css/bootstrap.css" type="text/css" />
-  <link rel="stylesheet" href="/css/responsive.css" type="text/css" />
-  <link rel="stylesheet" href="/js/shadowbox-3.0.3/shadowbox.css" type="text/css">
-
-  <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
-
-  <script type="text/javascript" src="/js/porter-stemmer.js"></script>
-  <script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
-  <script type="text/javascript" src="/js/jquery.cookies.js"></script>
-  <script type="text/javascript" src="/js/site-search.js"></script>
-  <script type="text/javascript" src="/js/time-ago.js"></script>
-  <script type="text/javascript" src="/js/shadowbox-3.0.3/shadowbox.js"></script>
-  <script type="text/javascript" src="/js/link-helper.js"></script>
-  <script type="text/javascript" src="/js/offendable.js"></script>
-  <script type="text/javascript" src="/js/map.js"></script>
-
-	<meta property="og:site_name" content="Keith Marran"/>
-	<meta property="og:title" content="{{ page.title | strip_html }}"/>
-	{% if (page.description) %}<meta property="og:description" content="{{ page.description | strip_html }}"/>{% endif %}
-	{% if (page.images) %}<meta property="og:image" content="{{ page.images[0] | format_teaser_image }}"/>{% endif %}
-
-
-  <meta property="twitter:card" content="summary" />
-  <meta property="twitter:creator" content="@captaincanine" />
-  <meta property="twitter:url" content="{{ page.url | absolute_path }}" />
-  <meta property="twitter:title" content="{{ page.title | strip_html }}" />
-  {% if (page.description) %}<meta property="twitter:description" content="{{ page.description | strip_html }}" />{% endif %}
-	{% if (page.images) %}<meta property="twitter:image" content="{{ page.images[0] | format_teaser_image }}" />{% endif %}
-
-
-	<script type="text/javascript">
-		Shadowbox.init({
-			overlayOpacity: '0.9'
-		});
-	</script>
-
-	<script type="text/javascript">
-
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-359180-1']);
-	  _gaq.push(['_trackPageview']);
-	
-	  (function() {
-		 var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		 ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-	
-	</script>
-	
-</head>
+---
+layout: html
+---
 <body>
 
-<div id="header">
-
-  <div class="container">
-    
-    <div id="navigation" class="row">
-  
-      <div id="logo" class="span4">
-        <a href="/" title="Keith Marran's Home Page"><img src="/images/logo.png" alt="Keith Marran"></a>
-      </div>
-      
-      <div class="nav-section span2">
-        <a href="/blog" title="Blog">
-          <div class="nav-title">Blog</div>
-          <div class="nav-subtitle hidden-phone">Keith can think and write at the same time!</div>
-        </a>
-      </div>
-      <div class="nav-section span2">
-        <a href="/recipes" title="Recipes">
-          <div class="nav-title">Recipes</div>
-          <div class="nav-subtitle hidden-phone">All this and he cooks!</div>
-        </a>
-      </div>
-      <div class="nav-section span2">
-        <a href="/travel" title="Travel">
-          <div class="nav-title">Travel</div>
-          <div class="nav-subtitle hidden-phone">Does Keith have spilkes or what?</div>
-        </a>
-      </div>
-      <div class="nav-section span2">
-        <a href="/tech" title="Tech">
-          <div class="nav-title">Tech</div>
-          <div class="nav-subtitle hidden-phone">On occasion, Keith writes neat code.</div>
-        </a>
-      </div>
-    </div>
-  </div>
-</div>
-    
-<div id="search-bar">
-
-  <div class="container">
-  
-    <div class="row">
-    
-      <div id="share-links" class="span6">
-        <!-- AddThis Button BEGIN -->
-        <div class="addthis_toolbox addthis_default_style ">
-        <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4d41e38b0a4b3b1e" class="addthis_button_compact">Share&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;</a>
-        <a class="addthis_button_facebook"></a>
-        <a class="addthis_button_twitter"></a>
-        <a class="addthis_button_delicious"></a>
-        <a class="addthis_button_email"></a>
-        </div>
-        <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4d41e38b0a4b3b1e"></script>
-        <!-- AddThis Button END -->
-      </div>
-      <div class="span6">
-        <form id="search" method="get" class="form-search">
-          <label for="search-text">Search</label>
-          <input type="text" name="search-text" id="search-text">
-        </form>
-      </div>
-
-    </div>
-
-  </div>
-
-</div>
+{% include header.html %}
 
 <div id="main">
-	<div class="container">
 
-		{{ content }}
-
-	</div>
-</div>
-
-<div id="footer">
   <div class="container">
+    
     <div class="row">
-      <div class="copyright span6">
-        ® {{ site.time | date:'%Y' }} Keith Marran
+    
+      <div class="span8">
+        <div id="main">
+           {{ content }}
+        </div>
       </div>
-      <div class="contact span6">
-        <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#107;&#101;&#105;&#116;&#104;&#64;&#109;&#97;&#114;&#114;&#97;&#110;&#46;&#99;&#111;&#109;"><i class="icon-envelope icon-white"></i>&nbsp;&#67;&#111;&#110;&#116;&#97;&#99;&#116;&#32;&#75;&#101;&#105;&#116;&#104;</a>
-      </div>
-    </div>
+
+			<div class="span4">
+			  <div id="sidebar">
+
+          <div id="search">
+            <div class="header">Search</div>
+            <form method="get" class="form-search">
+              <input type="text" name="search-text" id="search-text">
+            </form>
+          </div>
+
+          <div id="statuses">
+            <div class="header">Off the cuff</div>
+          
+            {% for post in site.categories['statuses'] limit:10 %}
+
+              <div class="teaser{% if (forloop.first) %} first{% endif %}">
+                <div class="timestamp"><script language="javascript">document.write($.timeago('{{ post.date }}'))</script></div>
+                <div class="description"><a href="{{ post.url }}">{{ post.content }}</a></div>
+              
+                {% if (post.picture) %}
+                
+                  <div class="row">
+                    <div class="span1"><div class="image"><img src="{{ post.picture }}" /></a></div></div>
+                    {% if (post.link-info) %}
+                      <div class="span3"><div class="info"><a href="{{ post.url }}">{{ post.link-info }}</a></div></div>
+                    {% endif %}
+                  </div>
+                
+                {% endif %}
+              
+              
+              </div>
+
+            {% endfor %}
+
+          </div>
+
+          <div id="popular-tags">
+            <div class="header">Popular Tags</div>
+            
+            {{ site.tags | popular_tags }}
+            
+          </div>
+
+        </div>
+			</div>
+
+		</div>		
 	</div>
 </div>
+
+{% include footer.html %}
 
 </body>
-</html>

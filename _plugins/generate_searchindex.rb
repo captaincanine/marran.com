@@ -22,9 +22,24 @@ module Jekyll
       # Read the YAML data from the layout page.
       self.read_yaml(File.join(base, '_layouts'), 'search_post.html')
       # Set the title for this page.
-      self.data['title'] = post.data['title']
+
+      # debugger
+      self.data['type'] = post.data['type']
       self.data['link'] = post.url
-      self.data['description'] = post.data['description']
+      self.data['date'] = post.data['date']
+      self.data['picture'] = post.data['picture']
+      self.data['date'] = post.data['date']
+      
+      if (post.data['type'] == nil)
+        self.data['title'] = post.data['title']
+      end
+
+      if (post.data['message'])
+        self.data['description'] = post.data['message']
+      else
+        self.data['description'] = post.data['description']
+      end
+
     end
   end
 	
