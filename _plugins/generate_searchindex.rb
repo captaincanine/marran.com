@@ -81,8 +81,7 @@ module Jekyll
     
     def createindex!
         
-      require 'lingua/stemmer'
-      stemmer = Lingua::Stemmer.new
+      require 'fast_stemmer'
       
       searchwords = Hash.new
       postlist = Hash.new
@@ -103,8 +102,7 @@ module Jekyll
 			
           postlist[i] = self.posts[i]
         
-          word = stemmer.stem(word)
-          letter = word[0,2]
+          letter = word.stem[0,2]
           
           if !searchwords.key?(letter)
             searchwords[letter] = Hash.new
