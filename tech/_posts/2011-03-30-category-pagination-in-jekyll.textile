@@ -169,6 +169,6 @@ To use this on a page, whether it be an index page or in the @category_index.htm
 {% endfor %}
 {% endraw %}{% endhighlight %}
 
-To see the whole code, go to the "project on Github":https://github.com/pelosi/marran.com/blob/master/_plugins/generate_category_pages.rb.
+To see the whole code, go to the "project on Github":https://github.com/captaincanine/marran.com/blob/master/_plugins/generate_category_pages.rb.
 
 I've also included a filter in the main code for formatting next and previous page links. That's not required, but it helps me out.

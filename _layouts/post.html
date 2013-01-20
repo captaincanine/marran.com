@@ -1,7 +1,7 @@
 ---
 layout: html
 ---
-<body class="article recipe">
+<body class="article">
 
 {% include header.html %}
 
@@ -36,12 +36,15 @@ layout: html
                 <div class="help">This post is part of a series called...</div>
                 <div class="series-title">{{ page.series.name }}</div>
                 
+                {% if page.next %}
                 <div class="help">The next in the series is...</div>
                 <div class="series-item">
                   <div class="title"><a href="{{ page.next.url }}">{{ page.next.title }}</a></div>
                   <div class="info">{{ page.next.description }}</div>
                   <div class="next-link"><a href="{{ page.next.url }}">Read the next post in the series >></a></div>
                 </div>
+                {% endif %}
+                
               </div>
 
             {% endif %}

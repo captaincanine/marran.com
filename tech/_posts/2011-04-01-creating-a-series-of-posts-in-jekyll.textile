@@ -99,7 +99,7 @@ def to_liquid
 end
 {% endhighlight %}
 
-To see the whole code, go to the "project on Github":https://github.com/pelosi/marran.com/blob/master/_plugins/series.rb.
+To see the whole code, go to the "project on Github":https://github.com/captaincanine/marran.com/blob/master/_plugins/series.rb.
 
 To use the code in a template, you can reference the @next@ and @previous@ properties of the page like this:
 

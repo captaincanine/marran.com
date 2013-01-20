@@ -28,6 +28,11 @@ I have created a custom filter for displaying previous and next links on categor
 
 module Jekyll
 
+  class Pagination < Generator
+    def generate(site)
+    end
+  end
+
   class CategoryPages < Generator
   
     safe true

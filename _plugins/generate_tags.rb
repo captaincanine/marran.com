@@ -63,7 +63,7 @@ module Jekyll
       self.read_yaml(File.join(base, '_layouts'), 'tag_index.html')
       self.data['tag']    = tag
       # Set the title for this page.
-      title_prefix             = site.config['tag_title_prefix'] || 'Everything tagged with: '
+      title_prefix             = site.config['tag_title_prefix'] || 'Everything tagged with #'
       self.data['title']       = "#{title_prefix}#{tag}"
       # Set the meta-description for this page.
       meta_description_prefix  = site.config['tag_meta_description_prefix'] || 'Tag: '
