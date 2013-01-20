@@ -10,23 +10,44 @@ description: "I recently took a seminar with screenwriting professor extraordina
 ---
 I recently took a seminar with screenwriting professor extraordinaire, <a target="_blank" href="http://www.mckeestory.com/homepage.htm">Robert McKee</a>. The seminar was a weekend long about four different film genres: Horror, Thriller, Comedy, and Masterpiece. I signed up for two days: Horror and Comedy. The horror day was for a comic book script that I had written that always got a somewhat lackluster response and the comic day was for a play that I'm about to start work on.
 
+
+
 I'm not going to go into a huge amount of detail about the class and McKee as a teacher other than to say that it has really transformed how I think about writing dramatic material. I went back and re-read his book, Story.  I have since changed how I go about writing.
+
+
 
 At first, I thought I could get away with a few edits to my horror comic book, but leave most of the whole thing in place. However, as I started to notice scenes that didn't work and have an understanding of why they didn't work, I realized that I had to start over with an outline. Then, as I went through the outline, I realized that my problem ran deeper than just the outline, it was the scene structure. Then as I started to write out more detailed scene information, I realized that I needed to start over with the characters. In the end, I gutted everything and started over. I created a Word document along the lines of McKee's "things to watch out for" as I put together the scenes.
 
+
+
 I created some character maps in Microsoft Visio to show who the characters are, what their dimensions are, and how they play against each other. (However, I re-read McKee's section of characters this morning and realized that I need to revisit the character map to make it clearer.) Then I went through each scene in the story of the first issue. For each scene, I had the following information:
+
 <ul>
+
 	<li>Who is the protagonist of the scene? What do they want in this scene?</li>
+
 	<li>Who or what is the antagonist? What's stopping the protagonist?</li>
+
 	<li>What is the subtext of the scene? In other words, what are the characters trying to communicate to each other without actually saying it? For instance "I'm smarter than you" or "I don't feel safe around you".</li>
+
 	<li>What's the progression of values in the scene? Does the protagonist get closer to their goal or farther away?</li>
+
 </ul>
+
 There were often modifications to characters as I went through this, because I would discover a character that had no real motivation. I had left them completely static and therefore uninteresting. Either that or their motivations were so generic as to be a non-entity. Once I gave them real motivations, they started becoming real people.
+
+
 
 I also noticed as I was putting together progression of values that sometimes the scene didn't move forward at all. I would think that I had a nice scene, would get to the progression of values and notice that nothing changed. The protagonist of the scene didn't get any closer or further away from their goal. All of a sudden, I would mentally snap out of my writer's mind and approach it from the mind of a generic reader and I would see the scene as dull. This usually meant that I would go back and modify the character a bit throughout the story so that the scene in questions <em>could </em>be interesting; or it meant that the scene got cut as unnecessary.
 
+
+
 I found huge scenes that were dull and lifeless as pure exposition that could <em>easily </em>be made dramatic. Since I had a solid character map that told me what made the character tick, I could easily add a force to an expository scene to make that scene dramatic.
 
+
+
 Most of the changes were very subtle but will hopefully add to a much more compelling issue. I have not written any dialogue yet, but I can already see that the dialog will largely write itself. If I'm particularly uninspired, I have enough notes in the scene breakdowns that I can write the dialogue without any need for creativity (that sounds bad, but it's true!).
+
+
 
 I should also point out that this was <em>excruciating </em>at first. I hope that this gets easier over time. I've been spending the past week looking at other things that I do well, and there is always this "outlining" approach. Especially when writing code, I often write all of the function calls first, so that the structure of the code is in place before I write the working code.

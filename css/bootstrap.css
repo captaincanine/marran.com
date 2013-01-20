@@ -4908,292 +4908,397 @@ a.badge:hover {
 .affix {
   position: fixed;
 }
+h2,
+h3 {
+  font-family: "Londrina Solid", sans-serif;
+  color: #ad1a27;
+}
 #header {
   font-family: "Londrina Solid", sans-serif;
   font-size: 26px;
   color: #00aeef;
-  line-height: 120%;
+  line-height: 1.2em;
+  margin: 20px 0;
+  position: relative;
+  -webkit-font-smoothing: antialiased;
 }
 #header #logo {
   font-size: 72px;
+  line-height: 72px;
   color: #00aeef;
 }
 #header #about {
   font-size: 20px;
+  line-height: 18px;
   color: #ad1a27;
+  padding-top: 72px;
 }
-#search-bar {
-  background: #2a3b63 url('/images/tile-navy.jpg');
+#header a:hover {
+  text-decoration: none;
+  color: #00aeef;
 }
-#search-bar #share-links,
-#search-bar #share-links a,
-#search-bar label {
-  font-family: "Londrina Solid", sans-serif;
+#header .follow-links {
+  padding-top: 48px;
+}
+#header .follow-links div {
+  float: left;
+  margin-left: 10px;
+}
+#header .follow-links .email {
+  margin-left: 0px;
+}
+#header .follow-links .contact {
+  display: none;
+}
+@media (min-width: 1200px) {
+  #header .email {
+    width: 156px;
+  }
+}
+@media (min-width: 980px) and (max-width: 1199px) {
+  #header .email {
+    width: auto;
+    margin-left: 44px !important;
+  }
+  #header .contact {
+    display: none !important;
+  }
+}
+@media (max-width: 980px) {
+  #header .follow-links {
+    padding-top: 10px;
+  }
+  #header img {
+    width: 36px;
+    height: 36px;
+  }
+}
+#header #logo a {
+  position: absolute;
+  display: block;
+}
+#header .sketched {
+  font-family: 'Londrina Sketch';
+  position: absolute;
+  color: #000000;
+  display: block;
+}
+.teaser {
+  margin-bottom: 20px;
+}
+.teaser .keyword {
+  background: #f28321 url('/images/stripes-gold.png') no-repeat bottom right;
+  padding: 8px 12px 5px;
+}
+.teaser .keyword a {
   color: #ffffff;
+  font-family: "Londrina Solid", sans-serif;
   text-transform: uppercase;
   font-size: 18px;
+  -webkit-font-smoothing: antialiased;
 }
-#search-bar #share-links {
-  padding: 16px 0 0;
+.teaser .keyword a:hover {
+  color: #00aeef;
+  text-decoration: none;
 }
-@media (max-width: 767px) {
-  #search-bar {
-    background: none;
-  }
-  #search-bar label {
-    color: #2a3b63;
-  }
-  #search-bar .form-search {
-    text-align: left;
-  }
-  #search-bar #share-links {
-    display: none;
-  }
+.teaser .image img {
+  width: 100%;
 }
-.form-search {
-  position: relative;
+.teaser .title {
+  font-size: 28px;
+  line-height: 28px;
+  font-family: "Londrina Solid", sans-serif;
+  margin: 16px 0 8px;
+  -webkit-font-smoothing: antialiased;
+}
+.teaser .title a {
+  color: #ad1a27;
+  text-decoration: none;
+}
+.teaser .timestamp {
+  font-size: 11px;
+  color: #999999;
+}
+.first.row .title {
+  font-size: 42px !important;
+  line-height: 42px !important;
+}
+.second.row .title {
+  font-size: 36px !important;
+  line-height: 42px !important;
+}
+.third.row .title,
+.fourth.row .title {
+  font-size: 30px !important;
+  line-height: 30px !important;
+}
+.third.row .keyword,
+.fourth.row .keyword {
+  background-image: none;
+}
+#sidebar .header {
+  background: #ad1a27 url('/images/stripes-maroon.png') no-repeat bottom right;
+  padding: 8px 12px 5px;
+  color: #ffffff;
+  font-family: "Londrina Solid", sans-serif;
+  text-transform: uppercase;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
+}
+#sidebar #statuses .teaser {
+  padding: 8px 0 0;
+  border-top: 1px dotted #999999;
+}
+#sidebar #statuses .teaser.first {
+  border-top: none;
+}
+#sidebar #statuses a {
+  color: #231f20;
+}
+#sidebar #popular-tags ul {
+  list-style: none;
+  margin: 20px;
+}
+#sidebar #popular-tags li {
+  display: inline-block;
+  width: 50%;
+}
+#search {
+  margin-bottom: 20px;
+}
+#search .form-search {
+  position: absolute;
+  top: -1px;
+  right: 5px;
   text-align: right;
   padding: 6px 0 0;
   margin: 0 0 6px;
 }
-.form-search label {
+#search .form-search label {
   padding: 4px 10px 0 0 ;
 }
-.form-search input {
+#search .form-search input {
   height: 14px;
   font-size: 12px;
 }
-.form-search .icon-remove {
+#search .form-search .icon-remove {
   position: absolute;
   right: 4px;
-  top: 12px;
+  top: 10px;
 }
 #search-results {
   display: none;
   overflow: scroll;
-  position: absolute;
-  top: 40px;
-  right: 0;
-  padding: 6px 0;
-  border: 3px solid #2a3b63;
   background: #ffffff;
-  -webkit-box-shadow: 4px 4px 4px 0px #333333;
-  box-shadow: 4px 4px 4px 0px #333333;
-  width: 320px;
-  max-height: 400px;
-  -webkit-border-radius: 10px;
-  border-radius: 10px;
-  -moz-background-clip: padding;
-  -webkit-background-clip: padding-box;
-  background-clip: padding-box;
+  padding: 6px 0;
+  max-height: 800px;
 }
 #search-results .search-entry {
-  padding: 16px 16px 16px;
+  padding: 10px 20px;
 }
 #search-results .search-entry.selected {
   background: #eeeeee;
 }
+#search-results .search-entry a {
+  color: #231f20;
+}
 #search-results .search-entry .title {
   font-family: "Londrina Solid", sans-serif;
+  -webkit-font-smoothing: antialiased;
   font-size: 18px;
-  text-transform: uppercase;
+  line-height: 22px;
+  background: none;
 }
 #search-results .search-entry .title a {
-  color: #2a3b63;
+  color: #ad1a27 !important;
 }
-#search-results .search-entry .description {
-  font-size: 12px;
-  line-height: 1.2em;
+#search-results .search-entry .timestamp {
+  font-size: 11px;
+  color: #999999;
 }
-#main .series-box .box-header .title {
+#search-results .search-entry .date {
+  display: none;
+}
+.index #main .title {
+  background: #f28321 url('/images/stripes-gold.png') no-repeat bottom right;
+  padding: 8px 12px 5px;
+  color: #ffffff;
+  font-family: "Londrina Solid", sans-serif;
   font-size: 36px;
-  line-height: 28px;
-  margin-top: 6px;
+  line-height: 36px;
+  -webkit-font-smoothing: antialiased;
 }
-#main .series-box .series-item {
-  margin: 0 0 20px;
+.index #main .teaser {
+  margin-top: 20px;
 }
-#main .series-box .series-item a {
-  color: #2a3b63;
+.index #main .teaser .title {
+  background: none;
+  padding: 0;
+  line-height: 36px;
+  color: inherit;
+  margin: 0 0 8px;
 }
-#main .series-box .series-item .title {
+.index #main .teaser img {
+  margin-top: 4px;
+}
+.article .content {
+  margin: 20px 0 40px;
+}
+.article #main .title {
+  background: #f28321 url('/images/stripes-gold.png') no-repeat bottom right;
+  padding: 8px 12px 5px;
+  color: #ffffff;
   font-family: "Londrina Solid", sans-serif;
-  font-size: 24px;
-  line-height: 21px;
-  margin-top: 6px;
-  text-transform: uppercase;
+  font-size: 36px;
+  line-height: 36px;
+  -webkit-font-smoothing: antialiased;
 }
-#main .series-box .series-item.current {
-  background: url('/images/red-dot.png') top left no-repeat;
-  padding-left: 32px;
-}
-#main .series-box .series-item .info {
-  line-height: 1.4em;
-}
-#main .next-box {
-  background: #eeeeee;
+#middle .next-box {
   margin: 40px 0 10px;
-  padding: 12px;
 }
-#main .next-box .series-title {
+#middle .next-box .series-title {
   font-family: "Londrina Solid", sans-serif;
-  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
   font-size: 24px;
   text-decoration: none;
   margin: 8px 0 12px;
 }
-#main .next-box .help {
+#middle .next-box .help {
   margin: 4px 0;
 }
-#main .next-box .next-link {
+#middle .next-box .next-link {
   margin: 8px 0 4px;
 }
-#main .next-box .title {
+#middle .next-box .title {
   font-size: 36px !important;
   line-height: 36px;
   font-family: "Londrina Solid", sans-serif;
-  text-transform: uppercase;
-  margin: 12px 0 8px;
+  -webkit-font-smoothing: antialiased;
+  margin: 0 0 8px;
+  background: none;
+  padding: 0;
+  color: inherit;
 }
-#main .next-box .title a {
-  color: #2a3b63;
+#middle .next-box .title a {
+  color: #ad1a27;
 }
-#main .photoset #flickr-link img {
+#middle img {
+  margin: 18px 0;
+  border: 1px solid #555555;
+}
+#middle .main img {
+  margin-top: 0;
+  border: 0;
+  width: 100%;
+}
+#middle .photoset #flickr-link img {
   margin-top: -16px;
 }
-#main .photo-thumbs img {
-  margin: 0 2px 10px 0 !important;
-  width: auto !important;
-}
-#main .photo-thumbs img.thumbnail {
-  width: 100% !important;
+#middle .photo-thumbnails img {
   padding: 0;
   box-shadow: none;
-  border: 1px solid #2a3b63;
+  border: none;
   -moz-box-shadow: none;
   -webkit-border-radius: 0px;
   -moz-border-radius: 0px;
   border-radius: 0px;
 }
-#main .related-post {
+#middle .related-post {
   margin-bottom: 1.5em;
 }
-#main .related-title a {
+#middle .related-title a {
   font-family: "Londrina Solid", sans-serif;
+  -webkit-font-smoothing: antialiased;
   text-transform: uppercase;
   font-size: 24px;
   line-height: 21px;
   text-decoration: none;
   color: #2a3b63;
 }
-#main .related-meta {
+#middle .related-meta {
   font-size: 11px;
 }
-#main .related-meta .timeago {
+#middle .related-meta .timeago {
   color: #999999;
   margin-right: 8px;
 }
-#main .related-meta a {
+#middle .related-meta a {
   color: #f28321;
   white-space: nowrap;
 }
-#main .category-index h1 {
+#middle .category-index h1 {
   font-size: 24px;
 }
-#main .category-index img {
+#middle .category-index img {
   width: 100%;
   border: 1px solid #2a3b63;
   margin: 10px 0 !important;
 }
-#main .category-index .title {
+#middle .category-index .title {
   font-size: 24px !important;
   font-family: "Londrina Solid", sans-serif;
+  -webkit-font-smoothing: antialiased;
   text-transform: uppercase;
 }
-#main .category-index .title a {
+#middle .category-index .title a {
   color: #2a3b63;
   text-decoration: none;
 }
-#main .teaser {
-  margin: 0 0 40px;
-}
-#main .teaser img {
-  width: 100%;
-  border: 1px solid #2a3b63;
-  margin: 10px 0;
-}
-#main .teaser .title {
-  font-size: 24px !important;
-  font-family: "Londrina Solid", sans-serif;
-  text-transform: uppercase;
-}
-#main .teaser .title a {
-  color: #2a3b63;
-  text-decoration: none;
-}
-#main .teaser .description {
-  margin: 10px 0;
-}
-#main .meta {
-  color: #999999;
+#middle .meta {
+  background: #eeeeee;
   font-size: 12px;
+  line-height: 14px;
 }
-#main .meta a {
-  color: #f28321;
+#middle .meta .info {
+  padding: 8px 12px;
 }
-#main .tag-link {
+#middle .meta a {
+  color: #00aeef;
+}
+#middle .meta #share-links {
+  position: relative;
+  height: 28px;
+}
+#middle .meta .addthis_toolbox {
+  position: absolute;
+  top: 4px;
+  right: 6px;
+}
+#middle .tag-link {
   margin: 0 2px;
   white-space: nowrap;
 }
-#main .browse-list .tag-link {
-  display: block;
-  float: left;
-  width: 120px;
+#middle .browse-list .list {
+  margin: 20px;
 }
-#footer .contact,
-#footer .copyright,
-#footer a {
-  padding: 20px 0 16px;
+#middle .browse-list .tag-link {
+  display: inline-block;
+  width: 48%;
+}
+#footer .copyright {
+  padding: 20px 0 36px;
+  border-top: 1px dotted #00aeef;
   font-family: "Londrina Solid", sans-serif;
-  text-transform: uppercase;
-  color: #ffffff;
-  font-size: 18px;
-}
-#footer .contact {
-  text-align: right;
-}
-@media (max-width: 767px) {
-  #footer {
-    background: none;
-    padding: 0;
-  }
-  #footer .contact,
-  #footer .copyright,
-  #footer a {
-    color: #2a3b63;
-    margin: 10px 0;
-    padding: 0;
-  }
-  #footer .contact {
-    text-align: left;
-  }
+  -webkit-font-smoothing: antialiased;
+  color: #f28321;
+  font-size: 20px;
 }
 .pager {
-  margin: 0 !important;
+  margin: 20px 0 !important;
 }
 .pager a,
 .pager span {
-  padding: 5px 14px;
-  background-color: #dfe8f3;
-  border: 1px solid #2a3b63;
-  -webkit-border-radius: 6px;
-  -moz-border-radius: 6px;
-  border-radius: 6px;
+  padding: 0;
+  background: none;
+  border: none;
+  font-family: "Londrina Solid", sans-serif;
+  font-size: 18px;
+  -webkit-font-smoothing: antialiased;
 }
 #sb-title-inner {
   font-size: 24px !important;
   font-family: "Londrina Solid", sans-serif !important;
-  text-transform: uppercase;
+  -webkit-font-smoothing: antialiased;
   font-weight: normal !important;
 }
 #disqus_thread {
@@ -5249,9 +5354,18 @@ a.badge:hover {
   margin: 20px 0 20px 40px;
 }
 .download-box .icon-download {
-  margin-right: 4px;
+  margin-right: 8px;
 }
 .download-box .details {
   font-size: 11px;
-  margin-left: 20px;
+  margin-left: 24px;
+}
+.download-box .title {
+  background: none !important;
+  font-size: 14px !important;
+  font-family: Tahoma, Arial, sans-serif !important;
+  padding: 0 !important;
+}
+.read-more {
+  margin-top: 6px;
 }

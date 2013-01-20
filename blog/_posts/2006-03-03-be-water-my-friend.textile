@@ -6,12 +6,18 @@ redirects:
 - /personal/blog/nlp/be-water-my-friend
 tags: 
 - NLP
-description: I was watching a documentary about martial arts movies and caught an interview with Bruce Lee. The following quote of his rang in my head like gospel:Be like water making its way through cracks. Do not be assertive, but adjust to the object, and you shall find a way round or through it. If nothing within you stays rigid, outward things will disclose themselves.
+description: I was watching a documentary about martial arts movies and caught an interview with Bruce Lee. The following quote of his rang in my head like gospel...
 ---
 I was watching a documentary about martial arts movies and caught an interview with Bruce Lee. The following quote of his rang in my head like gospel:
 
+
+
 <blockquote>Be like water making its way through cracks. Do not be assertive, but adjust to the object, and you shall find a way round or through it. If nothing within you stays rigid, outward things will disclose themselves.
 
+
+
 Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot it becomes the teapot. Now, water can flow or it can crash. Be water my friend.</blockquote>
+
+
 
 This is my new theme. I'm carrying this around in my head and savoring it like hard candy for the soul.

@@ -10,7 +10,7 @@ tags:
 images: 
 - thumbnail: http://farm1.static.flickr.com/32/48103100_cb365bfe31_m.jpg
   fullsize: http://farm1.static.flickr.com/32/48103100_cb365bfe31_o.jpg
-description: "The answer: yes.\r\rMy sister got me a Kakuro book a few weeks ago. It's a more complicated version of Sudoku that involves some basic math skills. I was very glad to get it as Sudoku was becoming quite boring."
+description: "The answer: yes. My sister got me a Kakuro book a few weeks ago. It's a more complicated version of Sudoku that involves some basic math skills. I was very glad to get it as Sudoku was becoming quite boring."
 ---
 The answer: yes.
 

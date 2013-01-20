@@ -11,22 +11,38 @@ images:
 - http://img.youtube.com/vi/09Q20Rq2m8c/0.jpg
 - thumbnail: http://farm4.static.flickr.com/3015/2423518250_8c70d7976e_m.jpg
   fullsize: http://farm4.static.flickr.com/3015/2423518250_8c70d7976e_b.jpg
-description: I saw this blurb about the latest Miss Universe pageant:AP - Miss Venezuela was crowned Miss Universe 2008 on Monday in a contest marked by the spectacle of Miss USA falling down during the evening gown competition for the second year in a row.
+description: "I saw this blurb about the latest Miss Universe pageant: Miss Venezuela was crowned Miss Universe 2008 on Monday in a contest marked by the spectacle of Miss USA falling down during the evening gown competition for the second year in a row."
 ---
 I saw this blurb about the latest Miss Universe pageant:
 
+
+
 <cite>AP - Miss Venezuela was crowned Miss Universe 2008 on Monday in a contest marked by the spectacle of Miss USA falling down during the evening gown competition for the second year in a row.</cite>
+
+
 
 I immediately stopped what I was doing and searched for videos of our proud Miss USA spilling out for both 2007 and 2008. Granted, it wasn't the same person (that would have been hysterical if it had been the same girl - cursed to a life of slipping on stage during inopportune moments). Still, it's funny that it should happen to us. 
 
+
+
 Are they going to change the Miss USA competition? Maybe they should add a "walking on difficult surfaces" portion to ensure that we have able walkers for the Miss Universe contest.
+
+
 
 Here's the video from both years:
 
+
+
 {{ "http://www.youtube.com/embed/09Q20Rq2m8c" | format_youtube }}
+
+
 
 Miss USA 2007 definitely wins the "total unrecoverable wipe-out award". Were there ball bearing in her heels? 
 
+
+
 Miss USA 2008 does a great job of recovering. She applauds herself. You almost suspect that she's drunk.
+
+
 
 Well, future Miss USA 2009 - you have some mighty wobbly shoes to fill.
