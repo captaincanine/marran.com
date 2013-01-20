@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Ah\xE2\x80\xA6Camille"
+title: "Ah...Camille"
 redirects: 
 - /node/365
 - /creative/blog/religion/ah-camille
@@ -15,12 +15,22 @@ description: "While in Minnesota, I picked up my sister's copy of Camille Paglia
 ---
 While in Minnesota, I picked up my sister's copy of Camille Paglia's "Sex, Art, and American Culture". I flipped randomnly to a chapter called "Sexual Personae: The Cancelled Preface". I read the following section:
 
+
+
 <blockquote>Personality is at the heart of the West. Governing its representation in art are principles I call Apollonian and Dionysian, in a theory elaborated from passages of Plutarch, Nietsche, and G. Wilson Knight. These terms were used by German scholarship in a sometimes vague or portentous way. I fine-tune them for practical criticism. I see the Apollonian and Dionysian as a cyclic pattern of expansion and retraction, of the shapeless and the definite.</blockquote>
+
+
 
 I have often used the model of Apollonian and Dionysian sides to art, long before Camille Paglia discussed it so fully in her writing. However, this phrase of hers resonated with me: "a cyclic pattern of expansion and retraction, of the shapeless and the definite".
 
+
+
 I could apply that same notion to describe what it is I love so much about any piece of artwork or writing that has grabbed me: the ability to be at one point ineffable, and then to return to a state of something knowable. The best example I could give would be the X-Files at the height of the writing. The beginnings of the episodes seemed unreal and unknowable. The rest of the episode was about pinning down the edges of what was happening; giving shape to the events in unexpected ways.
 
+
+
 I could also make the same case for sci-fi or comic books. My favorite books always start with something unreal, fantastical, and profound. Slowly that grandness retracts into something we can understand; something that is familiar and concrete.
+
+
 
 I'm on the lookout now to see if this theory holds true and when it breaks. I'm trying to think of movies that might break this pattern. Even something like "Heavenly Creatures" perfectly captures this sentiment. The girls have wild flights of fantasy and we, as viewers, are taken into their surreal and bachannal flights. At the end of the movie, though, we are left with a very concrete view of what happened. It's really an amazing and transforming process.

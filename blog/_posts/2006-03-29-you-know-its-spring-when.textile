@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "You know it\xE2\x80\x99s spring when\xE2\x80\xA6"
+title: "You know it's spring when..."
 redirects: 
 - /node/372
 - /personal/blog/celebrities/you-know-it-s-spring-when
@@ -11,6 +11,10 @@ description: I'm seeing the real signs of spring in New York. It's not tulips on
 ---
 I'm seeing the real signs of spring in New York. It's not tulips on the sidewalks. It's not birds chirping in the air (although we have some really vocal ones in our backyard this year). It's movie crews. I always forget every year how much filming goes on in New York in the spring and summer. I've perfected my look of disdain when some overly pierced intern with a clipboard asks me if I could please walk on the other side of the street so as not to disrupt the shot.
 
+
+
 I never see the actual stars, either. I tend to think a lot of the filming is for commercials or music videos. Either that, or the celebrities hide in their mobile home and only come out for the 10 seconds that they're needed.
+
+
 
 On a side note, I saw Sarah Jessica Parker on the street the other day. She blended in with New York quite well. Many celebrities try so hard to not be noticed that they call attention to themselves. She seemed nonchalant. Didn't wear a hat.

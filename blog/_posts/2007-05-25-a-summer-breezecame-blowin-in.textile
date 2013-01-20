@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "A Summer Breeze\xE2\x80\xA6Came Blowin\xE2\x80\x99 In\xE2\x80\xA6"
+title: "A Summer Breeze, Came Blowin' In"
 redirects: 
 - /node/429
 - /personal/blog/beauty/summer-breeze-came-blowin

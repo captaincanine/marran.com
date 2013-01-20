@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "We\xE2\x80\x99re Done?!"
+title: "We're Done?!"
 redirects: 
 - /node/425
 - /personal/blog/dancing/we-re-done

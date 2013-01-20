@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Oz\xE2\x80\x99s Dip"
+title: "Oz's Dip"
 redirects: 
 - /node/388
 - /personal/blog/oz/oz-s-dip

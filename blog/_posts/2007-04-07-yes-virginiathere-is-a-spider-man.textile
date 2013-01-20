@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Yes, Virginia\xE2\x80\xA6There is a Spider-Man"
+title: "Yes, Virginia, There is a Spider-Man"
 redirects: 
 - /node/420
 - /personal/blog/comic-books/yes-virginia-there-spider-man
