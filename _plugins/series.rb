@@ -15,8 +15,6 @@ series:
 
 =end
 
-require 'ruby-debug'
-
 module Jekyll
 
    class Post
