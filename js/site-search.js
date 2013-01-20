@@ -19,7 +19,7 @@ $(document).ready( function () {
 		  }
 
       $('#search-results').animate({
-        scrollTop: $('#search-results').scrollTop() + $('#search-results .search-entry.selected').position().top - 20
+        scrollTop: $('#search-results').scrollTop() + $('#search-results .search-entry.selected').position().top - 32
       }, 300, function() { });
             
 		} else if (e.which == 38) {

@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "My Nephew, Lorenz \xC2\xBB A Trip to California"
+title: "My Nephew, Lorenz & A Trip to California"
 redirects: 
 - /node/545
 - /personal/blog/lorenz/my-nephew-lorenz-trip-california
