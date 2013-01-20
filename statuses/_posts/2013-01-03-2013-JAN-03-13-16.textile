@@ -1,60 +1,60 @@
 --- 
-likes: 
-  data: 
-  - name: Nick Sheth
-    id: "507457244"
-  - name: Ben Mims
-    id: "26502264"
-  - name: Dave Gonzales
-    id: "1331442386"
-  - name: Dave Stringer Hughes
-    id: "800419"
-  count: 7
+from: 
+  id: "790499637"
+  name: Keith Marran
+status_type: mobile_status_update
 layout: facebook-status
-date: 2013-01-03 13:16:17 +00:00
-created_time: 2013-01-03T13:16:17+0000
+likes: 
+  count: 7
+  data: 
+  - id: "507457244"
+    name: Nick Sheth
+  - id: "26502264"
+    name: Ben Mims
+  - id: "1331442386"
+    name: Dave Gonzales
+  - id: "800419"
+    name: Dave Stringer Hughes
+id: 790499637_10151615218709638
+application: 
+  namespace: fbipad_
+  id: "173847642670370"
+  name: Facebook for iPad
+title: Thursday, Jan  3, 2013 - 01:16PM
+updated_time: 2013-01-03T13:40:31+0000
 privacy: 
+  deny: ""
+  networks: ""
   allow: ""
   value: ALL_FRIENDS
-  networks: ""
-  description: Friends
-  deny: ""
   friends: ""
+  description: Friends
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151615218709638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151615218709638
-updated_time: 2013-01-03T13:40:31+0000
+message: All the New Years Eve tourists have left Kathmandu. We are staying in a huge hotel. I sort of feel like Jack Torrance talking to ghostly bartenders in The Shining.
 comments: 
+  count: 2
   data: 
-  - likes: 1
-    created_time: 2013-01-03T13:40:11+0000
+  - from: 
+      id: "800419"
+      name: Dave Stringer Hughes
+    likes: 1
     id: 790499637_10151615218709638_30173100
     message: Maybe you aren't in the best location to be reading The Stand...
-    from: 
-      name: Dave Stringer Hughes
-      id: "800419"
-  - likes: 1
-    created_time: 2013-01-03T13:40:31+0000
+    created_time: 2013-01-03T13:40:11+0000
+  - from: 
+      id: "100003991505837"
+      name: "Matt Kn\xC3\xACfe"
+    likes: 1
     id: 790499637_10151615218709638_30173106
     message: I was just watching the "South Park" episode where they did that.  LOL
-    from: 
-      name: "Matt Kn\xC3\xACfe"
-      id: "100003991505837"
-  count: 2
+    created_time: 2013-01-03T13:40:31+0000
+date: 2013-01-03 13:16:17 +00:00
 type: status
-id: 790499637_10151615218709638
-title: Thursday, Jan  3, 2013 - 01:16PM
-message: All the New Years Eve tourists have left Kathmandu. We are staying in a huge hotel. I sort of feel like Jack Torrance talking to ghostly bartenders in The Shining.
-status_type: mobile_status_update
-from: 
-  name: Keith Marran
-  id: "790499637"
-application: 
-  namespace: fbipad_
-  name: Facebook for iPad
-  id: "173847642670370"
+created_time: 2013-01-03T13:16:17+0000
 
 ---
 All the New Years Eve tourists have left Kathmandu. We are staying in a huge hotel. I sort of feel like Jack Torrance talking to ghostly bartenders in The Shining.

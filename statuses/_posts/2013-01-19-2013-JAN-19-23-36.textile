@@ -1,0 +1,34 @@
+--- 
+date: 2013-01-19 23:36:58 +00:00
+application: 
+  name: Photos
+  id: "2305272732"
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+story: Keith Marran was tagged in Bureau of General Services-Queer Division's photo.
+layout: facebook-photo
+comments: 
+  count: 0
+object_id: "383244795104508"
+status_type: tagged_in_photo
+picture: http://photos-a.xx.fbcdn.net/hphotos-ash3/64658_383244795104508_982921384_s.jpg
+privacy: 
+  value: ""
+type: photo
+description: 
+link-info: gender-bending in comics with four talented artists. Lawrence Gullo, Fyodor Pavlov, Elvis Bakaitis, and Morgan Boecher
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151647392394638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151647392394638
+from: 
+  name: Keith Marran
+  id: "790499637"
+created_time: 2013-01-19T23:36:58+0000
+id: 790499637_10151647392394638
+title: Saturday, Jan 19, 2013 - 11:36PM
+updated_time: 2013-01-19T23:36:58+0000
+link: http://www.facebook.com/photo.php?fbid=383244795104508&set=at.383243741771280.84267.187808047981518.790499637&type=1&relevant_count=1
+
+---
+

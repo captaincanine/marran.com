@@ -1,0 +1,74 @@
+--- 
+date: 2013-01-17 14:19:39 +00:00
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+layout: facebook-link
+comments: 
+  data: 
+  - message: "\"An unfortunate petting zoo incident. Rachael M. was innocently looking at a deer when the goat in this picture knocked the poor thing to the ground and trampled her.\" http://www.goat-trauma.org/images/yelodres.jpg"
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    created_time: 2013-01-17T14:22:16+0000
+    id: 790499637_151776668305664_353811
+  - message: I was completely humped by a goat at a petting zoo! I should share my story, to help others.
+    from: 
+      name: Brenda Gregoline
+      id: "1236717380"
+    created_time: 2013-01-17T14:30:37+0000
+    id: 790499637_151776668305664_353847
+  - message: I shouldn't say "completely." He didn't, uh, get to finish or anything.
+    likes: 1
+    from: 
+      name: Brenda Gregoline
+      id: "1236717380"
+    created_time: 2013-01-17T14:31:05+0000
+    id: 790499637_151776668305664_353849
+  - message: Brenda you are a shining example of someone that has overcome childhood goat trauma to live a normal and healthy life. You should definitely share your story.
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    created_time: 2013-01-17T21:47:59+0000
+    id: 790499637_151776668305664_354780
+  count: 4
+status_type: shared_story
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAeP6xA39nZNKDA&w=90&h=90&url=http%3A%2F%2Fwww.goat-trauma.org%2Fimages%2Ftestimonies1.gif
+message: This is the pinnacle of the Internet.
+privacy: 
+  deny: ""
+  friends: ""
+  description: Friends
+  value: ALL_FRIENDS
+  allow: ""
+  networks: ""
+name: The Childhood Goat Trauma Foundation
+type: link
+likes: 
+  data: 
+  - name: Matthew Shields
+    id: "729111833"
+  - name: Sreedhar Yedavalli
+    id: "1199970155"
+  - name: Jeff Bond
+    id: "1108401510"
+  count: 3
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/151776668305664
+- name: Like
+  link: http://www.facebook.com/790499637/posts/151776668305664
+from: 
+  name: Keith Marran
+  id: "790499637"
+created_time: 2013-01-17T14:19:39+0000
+id: 790499637_151776668305664
+title: Thursday, Jan 17, 2013 - 02:19PM
+updated_time: 2013-01-17T21:47:59+0000
+caption: www.goat-trauma.org
+link: http://www.goat-trauma.org/
+
+---
+This is the pinnacle of the Internet.

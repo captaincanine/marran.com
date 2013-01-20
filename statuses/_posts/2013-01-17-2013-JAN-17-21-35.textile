@@ -1,0 +1,70 @@
+--- 
+date: 2013-01-17 21:35:25 +00:00
+application: 
+  name: Buffer
+  namespace: buffer-app
+  id: "103667826405103"
+layout: facebook-status
+comments: 
+  data: 
+  - message: Why would consumers want to timedelay their social media interactions? I don't really get it.
+    from: 
+      name: Dave Stringer Hughes
+      id: "800419"
+    created_time: 2013-01-17T21:50:00+0000
+    id: 790499637_10151643327174638_30391476
+  - message: Because I do browsing in the morning and maybe find a couple of things worth sharing. They get better reach if I space them out rather than send them all at once. That's the theory at least.
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    created_time: 2013-01-17T21:54:06+0000
+    id: 790499637_10151643327174638_30391522
+  - message: That kind of makes sense. What about what you did here, where you used Buffer to post something that sounds pretty real-timey? (If you don't want to discuss this from your TROPICAL PARADISE, I would understand).
+    from: 
+      name: Dave Stringer Hughes
+      id: "800419"
+    created_time: 2013-01-17T21:55:44+0000
+    id: 790499637_10151643327174638_30391545
+  - message: "Anything to distract me from the crying babies until take off is good. There are two buttons on Buffer: share now or buffer. So if its real time, I send it right to Facebook and twitter."
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    created_time: 2013-01-17T21:58:23+0000
+    id: 790499637_10151643327174638_30391575
+  count: 7
+status_type: mobile_status_update
+message: This flight is a parade of loud and large NY families. I AM TRYIN TO ESCAPE YOU PEOPLE!
+privacy: 
+  deny: ""
+  friends: ""
+  description: Friends
+  value: ALL_FRIENDS
+  allow: ""
+  networks: ""
+type: status
+likes: 
+  data: 
+  - name: Jesse M. Ehrenfeld
+    id: "7501935"
+  - name: Sarah Livingston Moore
+    id: "607352676"
+  - name: Sara Holoubek
+    id: "659585353"
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 6
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151643327174638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151643327174638
+from: 
+  name: Keith Marran
+  id: "790499637"
+created_time: 2013-01-17T21:35:25+0000
+id: 790499637_10151643327174638
+title: Thursday, Jan 17, 2013 - 09:35PM
+updated_time: 2013-01-17T21:58:23+0000
+
+---
+This flight is a parade of loud and large NY families. I AM TRYIN TO ESCAPE YOU PEOPLE!
