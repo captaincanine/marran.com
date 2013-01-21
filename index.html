@@ -4,7 +4,7 @@ title: Keith Marran
 ---
 <div class="first row">
 
-  {% for post in site.categories['articles'] limit:1 %}
+  {% for post in site.articles limit:1 %}
 
     <div class="span8">
 
@@ -24,7 +24,7 @@ title: Keith Marran
 
 <div class="second row">
 
-  {% for post in site.categories['articles'] limit:2 offset:1 %}
+  {% for post in site.articles limit:2 offset:1 %}
 
     <div class="span4">
 
@@ -44,7 +44,7 @@ title: Keith Marran
 
 <div class="third row">
 
-  {% for post in site.categories['articles'] limit:4 offset:3 %}
+  {% for post in site.articles limit:4 offset:3 %}
 
     <div class="span2">
 
@@ -63,7 +63,7 @@ title: Keith Marran
 
 <div class="fourth row">
 
-  {% for post in site.categories['articles'] limit:4 offset:7 %}
+  {% for post in site.articles limit:4 offset:7 %}
 
     <div class="span2">
 

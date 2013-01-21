@@ -26,7 +26,43 @@ I have created a custom filter for displaying previous and next links on categor
 
 =end
 
+require 'debugger'
+
 module Jekyll
+
+  class Site
+
+    attr_accessor :articles
+
+		def reset
+			self.articles = Array.new
+		end
+		
+		alias_method :site_payload_articles, :site_payload
+		def site_payload
+			p = site_payload_articles
+      p['site']['articles'] = self.articles
+			p
+		end
+
+		alias_method :read_posts_articles, :read_posts
+		def read_posts(dir)
+		
+      self.articles = Array.new
+
+			read_posts_articles dir
+			self.posts.each do |p| 
+      
+        if (not p.categories.include?('statuses'))
+          self.articles << p
+        end        
+      
+			end
+			
+			self.articles.sort_by! { |p| -p.date.to_f }
+		
+		end
+  end
 
   class Pagination < Generator
     def generate(site)
@@ -38,14 +74,7 @@ module Jekyll
     safe true
 
     def generate(site)
-
-      # loop through the posts and assign all non-status posts to an "articles" category
-      site.posts.each do |post|
-        if (not post.categories.include?('statuses'))
-          post.categories << 'articles'          
-        end        
-      end 
-        
+      
       site.pages.dup.each do |page|
         paginate(site, page) if CategoryPager.pagination_enabled?(site.config, page)
       end

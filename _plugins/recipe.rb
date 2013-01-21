@@ -59,11 +59,12 @@ module Jekyll
     def browse_list(tags)
       
       html = String.new
-		tags.keys.sort.each do |key|
-			html << '<a href="/tags/' + Site.slugify(key) + '/" class="tag-link">'+key+'</a>'
+      tags.keys.sort.each do |key|
+        html << '<a href="/tags/' + Site.slugify(key) + '/" class="tag-link">'+key+'</a>'
       end
       
-		"#{html}"
+      "#{html}"
+      
     end
     
   end
