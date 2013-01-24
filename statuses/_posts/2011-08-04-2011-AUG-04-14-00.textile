@@ -44,7 +44,7 @@ comments:
   count: 1
 layout: facebook-link
 title: Thursday, Aug  4, 2011 - 02:00PM
-link-info: "\"I can\xE2\x80\x99t talk about how much I liked Zach\xE2\x80\x99s play. I know and love him; I\xE2\x80\x99d be too biased. My only option, then, is to indulge every bitter writer\xE2\x80\x99s fantasy. I\xE2\x80\x99m going to review your review.\""
+link-info: "\"I can\xE2\x80\x99t talk about how much I liked Zach's play. I know and love him; I'd be too biased. My only option, then, is to indulge every bitter writer's fantasy. I'm going to review your review.\""
 date: 2011-08-04 14:00:42 -04:00
 
 ---

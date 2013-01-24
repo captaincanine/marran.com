@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "It\xE2\x80\x99s Showtime!"
+title: "It's Showtime!"
 redirects: 
 - /node/424
 - /personal/blog/dancing/it-s-showtime

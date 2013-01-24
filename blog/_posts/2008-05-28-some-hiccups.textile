@@ -7,14 +7,22 @@ redirects:
 tags: 
 - technology
 - website
-description: The new blog has been up a while. There's still no progress on moving over all the old content to the new site. It's feeling like a herculean task right now.And I found a few hiccups.
+description: The new blog has been up a while. There's still no progress on moving over all the old content to the new site. It's feeling like a herculean task right now. And I found a few hiccups.
 ---
 The new blog has been up a while. There's still no progress on moving over all the old content to the new site. It's feeling like a herculean task right now.
 
+
+
 And I found a few hiccups.
+
+
 
 If you browse the site with IE 6, it looks terrible. I make no apologies. UPDATE YOUR BROWSER! I toyed with the idea of putting a big block on the site just for IE6 users to upgrade their browser, but then I figured I didn't want to waste time making any concessions for IE6. It's an old browser and it's not compliant. Everything will look better if you use a newer browser (preferably <a href="http://www.mozilla.com/en-US/firefox/" target="_blank">Firefox</a>).
 
+
+
 The other big hiccup that I found is that Google Analytics was not turned on correctly. So I have no idea if anyone actually browsed the new blog pages. And seeing that no on has left a comment yet...well it's left me in the dark. 
+
+
 
 Please don't hesitate to leave a comment if there's something about the site that's not working correctly.

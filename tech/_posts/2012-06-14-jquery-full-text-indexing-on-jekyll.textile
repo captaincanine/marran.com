@@ -6,7 +6,7 @@ tags:
 - Ruby
 description: The one feature that I was going to miss the most when moving to Jekyll was having a full-text search for my site. But with a little study, it turns out I was able to get a rudimentary search going with JQuery.
 ---
-Content goes The one feature that I was going to miss the most when moving to Jekyll was having a full-text search for my site. But with a little study, it turns out I was able to get a rudimentary search going with JQuery. The problem is not so much in making a full-text index in JQuery, the problem is making one that doesn't require downloading all the content in the site to calculate a query. 
+The one feature that I was going to miss the most when moving to Jekyll was having a full-text search for my site. But with a little study, it turns out I was able to get a rudimentary search going with JQuery. The problem is not so much in making a full-text index in JQuery, the problem is making one that doesn't require downloading all the content in the site to calculate a query. 
 
 All I wanted was a giant hash table so that I could look up a word and know which posts had that word. It's not rocket science. Hash tables are pretty easy to create with JSON, so why not have a series of pages that were JSON hashes telling you which words pointed to which posts. The main drawback is that your hash table is bound to be enormous. That's not polite to the client to make them download a huge file and keep it in memory. Most users, when searching, generally only look for a few words. What if you could break the full-text into separate files and only load the part of the index that you need at the time? Could you make a responsive full-text index? Yes, you could.
 
@@ -350,6 +350,6 @@ Also, I'd like to add pagination at some point.
 
 There are some bugs in it which I have not had the time to trace down. It works pretty well most of the time. 
 
-You can see the whole thing working at marran.com. And all the source code is in "https://github.com/pelosi/marran.com":https://github.com/pelosi/marran.com.
+You can see the whole thing working at marran.com. And all the source code is in "https://github.com/captaincanine/marran.com":https://github.com/captaincanine/marran.com.
 
 No servers working overtime to make it happen!

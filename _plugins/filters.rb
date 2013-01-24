@@ -16,9 +16,9 @@ module Jekyll
     end
 		
 		def format_youtube(url)
-			matches = url.scan /(?:v=|embed\/)([^&]*)/
-			if matches[0] 
-				"<iframe title=\"YouTube video player\" width=\"480\" height=\"390\" src=\"http://www.youtube.com/embed/#{matches[0]}\" frameborder=\"0\" allowfullscreen></iframe>"
+			matches = url.scan(/(?<=(?:v|i)=)[a-zA-Z0-9-]+(?=&)|(?<=(?:v|i)\/)[^&\n]+|(?<=embed\/)[^"&\n]+|(?<=(?:v|i)=)[^&\n]+|(?<=youtu.be\/)[^&\n]+/)
+			if matches
+				"<iframe title=\"YouTube video player\" width=\"480\" height=\"390\" src=\"http://www.youtube.com/embed/#{matches.first}\" frameborder=\"0\" allowfullscreen></iframe>"
 			end
 		end
 		

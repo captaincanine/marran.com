@@ -1,0 +1,74 @@
+--- 
+application: 
+  namespace: fbiphone
+  id: "6628568379"
+  name: Facebook for iPhone
+caption: www.goat-trauma.org
+date: 2013-01-17 14:19:39 +00:00
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAeP6xA39nZNKDA&w=90&h=90&url=http%3A%2F%2Fwww.goat-trauma.org%2Fimages%2Ftestimonies1.gif
+updated_time: 2013-01-17T21:47:59+0000
+created_time: 2013-01-17T14:19:39+0000
+type: link
+title: Thursday, Jan 17, 2013 - 02:19PM
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/151776668305664
+- name: Like
+  link: http://www.facebook.com/790499637/posts/151776668305664
+layout: facebook-link
+likes: 
+  data: 
+  - id: "729111833"
+    name: Matthew Shields
+  - id: "1199970155"
+    name: Sreedhar Yedavalli
+  - id: "1108401510"
+    name: Jeff Bond
+  count: 3
+id: 790499637_151776668305664
+status_type: shared_story
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+name: The Childhood Goat Trauma Foundation
+message: This is the pinnacle of the Internet.
+from: 
+  id: "790499637"
+  name: Keith Marran
+comments: 
+  data: 
+  - created_time: 2013-01-17T14:22:16+0000
+    id: 790499637_151776668305664_353811
+    message: "\"An unfortunate petting zoo incident. Rachael M. was innocently looking at a deer when the goat in this picture knocked the poor thing to the ground and trampled her.\" http://www.goat-trauma.org/images/yelodres.jpg"
+    from: 
+      id: "621816545"
+      name: Josh Siegel
+  - created_time: 2013-01-17T14:30:37+0000
+    id: 790499637_151776668305664_353847
+    message: I was completely humped by a goat at a petting zoo! I should share my story, to help others.
+    from: 
+      id: "1236717380"
+      name: Brenda Gregoline
+  - created_time: 2013-01-17T14:31:05+0000
+    likes: 1
+    id: 790499637_151776668305664_353849
+    message: I shouldn't say "completely." He didn't, uh, get to finish or anything.
+    from: 
+      id: "1236717380"
+      name: Brenda Gregoline
+  - created_time: 2013-01-17T21:47:59+0000
+    id: 790499637_151776668305664_354780
+    message: Brenda you are a shining example of someone that has overcome childhood goat trauma to live a normal and healthy life. You should definitely share your story.
+    from: 
+      id: "790499637"
+      name: Keith Marran
+  count: 4
+privacy: 
+  networks: ""
+  allow: ""
+  deny: ""
+  description: Friends
+  friends: ""
+  value: ALL_FRIENDS
+link: http://www.goat-trauma.org/
+
+---
+This is the pinnacle of the Internet.

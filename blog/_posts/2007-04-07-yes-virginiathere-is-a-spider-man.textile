@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Yes, Virginia\xE2\x80\xA6There is a Spider-Man"
+title: "Yes, Virginia, There is a Spider-Man"
 redirects: 
 - /node/420
 - /personal/blog/comic-books/yes-virginia-there-spider-man
@@ -11,22 +11,38 @@ tags:
 images: 
 - thumbnail: http://farm1.static.flickr.com/191/482048723_cca767d9ac_m.jpg
   fullsize: http://farm1.static.flickr.com/191/482048723_cca767d9ac_b.jpg
-description: There's a certain part of my brain that is eight years old, is happy to be eight years old, and will always be eight years old. For instance, I am eternally grateful that I was eight years old when Star Wars came out. If I had to be born at any time, I'm glad that I was alive to be a kid when those first three Star Wars movies came out.I have had another one of those moments. For April 30th - May 6th, New York City is having Spider-Man Week in NYC. Be still my geeky heart.
+description: There's a certain part of my brain that is eight years old, is happy to be eight years old, and will always be eight years old. For instance, I am eternally grateful that I was eight years old when Star Wars came out. If I had to be born at any time, I'm glad that I was alive to be a kid when those first three Star Wars movies came out.
 ---
 There's a certain part of my brain that is eight years old, is happy to be eight years old, and will always be eight years old. For instance, I am eternally grateful that I was eight years old when Star Wars came out. If I had to be born at any time, I'm glad that I was alive to be a kid when those first three Star Wars movies came out.
 
+
+
 I have had another one of those moments. For April 30th - May 6th, New York City is having <a target="_blank" href="http://spider-manweeknyc.com">Spider-Man Week in NYC</a>. Be still my geeky heart.
+
+
 
 My friend Sara originally told me the news. I simply replied "Every day is Spider-Man day in my head."
 
+
+
 There are banners all over town and in the subways advertising it. Yes, it's a big corporate marketing event. But at least it's better than tried to get everyone talking about say, some new fried hamburger from McDonald's.
+
+
 
 I've looked at the list of events and sadly I will have to steal someone's kids to participate in most of them. As an adult, I just don't think I can run through the Bronx Zoo looking for clues to Spider-Man's location. Is this why people have kids?
 
+
+
 I'll definitely have to get a shot of the giant inflatable Spider-Man at the Sony store.
+
+
 
 And the New York Public Library's exhibit of never-before-displayed, original Spider-Man comic books at the Humanities and Social Sciences Library sounds somewhat age appropriate.
 
+
+
 Really, I'm just hoping to catch glimpses of people in Spider-Man costumes throughout the week.
+
+
 
 {{ "http://farm1.static.flickr.com/191/482048723_cca767d9ac_b.jpg" | format_photo }}

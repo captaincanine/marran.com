@@ -12,15 +12,10 @@ tags:
 images: 
 - thumbnail: http://farm4.static.flickr.com/3173/2299442502_3c96817e92_m.jpg
   fullsize: http://farm4.static.flickr.com/3173/2299442502_3c96817e92_b.jpg
-description: I posted this photo as an experiment. Does my mother ever visit my site? My hope is that she starts hearing "nice photo" from her brothers and sisters before she finds this. It is a good photo of Lorenz. And just to help her out, I bumped the date up to something more recent.Send me an email, Mom, and I'll be happy to take it down!
+description: I posted this photo as an experiment. Does my mother ever visit my site? My hope is that she starts hearing "nice photo" from her brothers and sisters before she finds this. It is a good photo of Lorenz. And just to help her out, I bumped the date up to something more recent.
 ---
 I posted this photo as an experiment. Does my mother ever visit my site? My hope is that she starts hearing "nice photo" from her brothers and sisters before she finds this. It <em>is</em> a good photo of Lorenz. And just to help her out, I bumped the date up to something more recent.
 
 Send me an email, Mom, and I'll be happy to take it down!
-<!--break-->
-
-{{ "http://farm4.static.flickr.com/3173/2299442502_3c96817e92_b.jpg" | format_photo }}
 
 I have a slew of photos from our visit to Springfield that I just discovered. Here's the whole set:
-
-<!-- [flickr-photoset:id=72157604002933956] -->

@@ -1,59 +1,116 @@
 ---
-layout: default
+layout: html
 title: Keith Marran's Blog
 category: blog
 ---
+<body class="index categories blog">
 
-<div class="category-index row">
+{% include header.html %}
 
-	<div class="span8">
-		
-		<div class="box">
-			<div class="box-header">
-				<div class="box-header-left clearfix">
-					<div class="box-title title">Blog Entries</div>
-				</div>
-				<div class="box-header-right"></div>
-			</div>
-			<div class="box-middle">
-				<div class="box-middle-left">
-				
+<div id="middle">
+
+  <div class="container">
+    
+    <div class="row">
+    
+      <div class="span8">
+        <div id="main">
+        
+          <div class="title">{{ page.title }}</div>
+
+          <div class="content">			
+
 					{% for post in paginator.posts %}
 
-					<div class="teaser">
-					
-						<div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
-						<div class="meta"><span class="timeago">{{ post.date | time_ago }}</span>{{ post.tags | tag_links }}</div>
+{% if post.images %}
+  
+  <div class="teaser">
+    <div class="row">
+      <div class="span2">
+        <div class="image"><a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.images[0] | format_teaser_image }}" /></a></div>
+      </div>
+      <div class="span6">
+        <div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
+        <div class="description">{{ post.description }}</div>
+        <div class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">There's more? Yes! Let's go. »</a></div>
+      </div>
+    </div>
+  </div>
 
-            <div class="row">
-						
-              {% if (post.images) %}
-                <div class="span3">
-                  <a href="{{ post.url }}" title="{{ post.title }}"><img src="{{ post.images[0] | format_teaser_image }}" /></a>
-                </div>
-                <div class="span4">
-              {% else %}
-                <div class="span7">
-              {% endif %}
-						
-                <div class="description">{{ post.description }}</div>
-                <div class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">Get the whole story... »</a></div>
-              </div>
-            
-            </div>
+{% else %}
 
-					</div>
+  <div class="teaser">
+    <div class="row">
+      <div class="span8">
+        <div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
+        <div class="description">{{ post.description }}</div>
+        <div class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">There's more? Yes! Let's go. »</a></div>
+      </div>
+    </div>
+  </div>
+
+{% endif %}
 
 					{% endfor %}
-					
+										
 					{{ paginator | pager_links }}
-									
-				</div>
-				<div class="box-middle-right"></div>
+					
+          </div>
+          					
+        </div>
+      </div>
+
+			<div class="span4">
+			  <div id="sidebar">
+
+          <div id="search">
+            <div class="header">Search</div>
+            <form method="get" class="form-search">
+              <input type="text" name="search-text" id="search-text">
+            </form>
+          </div>
+
+          <div id="statuses">
+            <div class="header">Off the cuff</div>
+          
+            {% for post in site.categories['statuses'] limit:10 %}
+
+              <div class="teaser{% if (forloop.first) %} first{% endif %}">
+                <div class="timestamp"><script language="javascript">document.write($.timeago('{{ post.date }}'))</script></div>
+                <div class="description"><a href="{{ post.url }}">{{ post.content }}</a></div>
+              
+                {% if (post.picture) %}
+                
+                  <div class="row">
+                    <div class="span1"><div class="image"><img src="{{ post.picture }}" /></a></div></div>
+                    {% if (post.link-info) %}
+                      <div class="span3"><div class="info"><a href="{{ post.url }}">{{ post.link-info }}</a></div></div>
+                    {% endif %}
+                  </div>
+                
+                {% endif %}
+              
+              
+              </div>
+
+            {% endfor %}
+
+          </div>
+
+          <div id="popular-tags">
+            <div class="header">Popular Tags</div>
+            
+            {{ site.tags | popular_tags }}
+            
+          </div>
+
+        </div>
 			</div>
 
-		</div>
-		
+		</div>		
 	</div>
-
 </div>
+
+{% include footer.html %}
+
+</body>

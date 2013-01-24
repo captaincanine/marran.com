@@ -1,5 +1,7 @@
 module Jekyll
 
+  require 'fast_stemmer'
+
   class SearchIndex < Page
     def initialize(site, base, dir, letters)
       @site = site
@@ -80,10 +82,7 @@ module Jekyll
     end
     
     def createindex!
-        
-      require 'lingua/stemmer'
-      stemmer = Lingua::Stemmer.new
-      
+              
       searchwords = Hash.new
       postlist = Hash.new
 					
@@ -103,18 +102,20 @@ module Jekyll
 			
           postlist[i] = self.posts[i]
         
-          word = stemmer.stem(word)
-          letter = word[0,2]
+          letter = word.stem[0,2]
           
+          # does the two-letter version exist? if not, add it
           if !searchwords.key?(letter)
             searchwords[letter] = Hash.new
           end
           
-          if !searchwords[letter].key?(word)
-            searchwords[letter][word] = Array.new
+          # does the full stem version exist? if not, add it
+          if !searchwords[letter].key?(word.stem)
+            searchwords[letter][word.stem] = Array.new
           end
           
-          searchwords[letter][word].push(i)
+          # add the post key to the hash
+          searchwords[letter][word.stem].push(i)
           
         end
 				

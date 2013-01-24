@@ -72,7 +72,8 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
   color:       @cyan;
   line-height: 1.2em;
   margin:      20px 0;
-  position: relative;
+  position:    relative;
+   -webkit-font-smoothing: antialiased;
 
   #logo     { font-size: 72px; line-height: 72px; color: @cyan; }
   #about    { font-size: 20px; line-height: 18px; color: @maroon; padding-top: 72px; }
@@ -128,8 +129,10 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
   
 }
 
-.first.row .title     { font-size: 42px; line-height: 42px; }
-.second.row .title    { font-size: 36px; line-height: 42px; }
+.first.row .title     { font-size: 42px !important; line-height: 42px !important; }
+.second.row .title    { font-size: 36px !important; line-height: 42px !important; }
+.third.row .title,
+.fourth.row .title    { font-size: 30px !important; line-height: 30px !important; }
 .third.row .keyword,
 .fourth.row .keyword   { background-image: none; }
 
@@ -187,14 +190,31 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
     
     &.selected  { background: @grayLighter; }
     
-    a         { color: @textColor; }
-    .title    { font-family: @displayFontFamily; font-size: 18px; line-height: 22px; background: none; }
-    .title a  { color: @maroon !important; }
+    a           { color: @textColor; }
+    .title      { font-family: @displayFontFamily; -webkit-font-smoothing: antialiased; font-size: 18px; line-height: 22px; background: none; }
+    .title a    { color: @maroon !important; }
     .timestamp  { font-size: 11px; color: @grayLight; }
-    .date     { display: none; }
+    .date       { display: none; }
 
   }
 
+}
+
+.index  {
+
+  #main {
+    .title  {
+      background: @orange url('/images/stripes-gold.png') no-repeat bottom right; 
+      padding: 8px 12px 5px;
+      color: @white; font-family: @displayFontFamily; font-size: 36px; line-height: 36px; -webkit-font-smoothing: antialiased;
+    }
+
+    .teaser {
+      margin-top: 20px;
+      .title  { background: none; padding: 0; line-height: 36px; color: inherit; margin: 0 0 8px; }
+      img     { margin-top: 4px; }
+    }
+  }
 }
 
 .article {
@@ -206,35 +226,17 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
     padding: 8px 12px 5px;
     color: @white; font-family: @displayFontFamily; font-size: 36px; line-height: 36px; -webkit-font-smoothing: antialiased;
   }
+  
 }
 
 #middle {
 
-  .series-box {
-    .box-header {
-      .title  { 
-        font-size: 36px; line-height: 28px; margin-top: 6px; 
-      }
-    }
-    
-    .series-item {
-      margin: 0 0 20px;
-      a         { color: @maroon; }
-      .title    { font-family: @displayFontFamily; font-size: 24px; line-height: 21px; margin-top: 6px; text-transform: uppercase; }      
-      &.current { background: url('/images/red-dot.png') top left no-repeat; padding-left: 32px; }
-      .info     { line-height: 1.4em; }
-    }
-        
-  }
-
   .next-box		{ 
-    background: @grayLighter; 
     margin: 40px 0 10px; 
-    padding: 12px;
-    .series-title		{ font-family: @displayFontFamily; text-transform: uppercase; font-size: 24px; text-decoration: none; margin: 8px 0 12px; }
+    .series-title		{ font-family: @displayFontFamily; -webkit-font-smoothing: antialiased; font-size: 24px; text-decoration: none; margin: 8px 0 12px; }
     .help				    { margin: 4px 0; }
     .next-link			{ margin: 8px 0 4px; }
-    .title		      { font-size: 36px !important; line-height: 36px; font-family: @displayFontFamily; text-transform: uppercase; margin: 0 0 8px; background: none; padding: 0; color: inherit; }
+    .title		      { font-size: 36px !important; line-height: 36px; font-family: @displayFontFamily; -webkit-font-smoothing: antialiased; margin: 0 0 8px; background: none; padding: 0; color: inherit; }
     .title a        { color: @maroon; }
   }
 
@@ -261,7 +263,7 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
   }
 
   .related-post		{ margin-bottom: 1.5em; }
-  .related-title a	{ font-family: @displayFontFamily; text-transform: uppercase; font-size: 24px; line-height: 21px; text-decoration: none; color: @navy; }
+  .related-title a	{ font-family: @displayFontFamily; -webkit-font-smoothing: antialiased; text-transform: uppercase; font-size: 24px; line-height: 21px; text-decoration: none; color: @navy; }
   .related-meta		        { 
     font-size: 11px;
     .timeago	{ color: @grayLight; margin-right: 8px; }
@@ -271,7 +273,7 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
   .category-index { 
     h1			  { font-size: 24px; }
     img	      { width: 100%; border: 1px solid @navy; margin: 10px 0 !important; }
-    .title		{ font-size: 24px !important; font-family: @displayFontFamily; text-transform: uppercase; }
+    .title		{ font-size: 24px !important; font-family: @displayFontFamily; -webkit-font-smoothing: antialiased; text-transform: uppercase; }
     .title a	{ color: @navy; text-decoration: none; }
   }
 
@@ -301,20 +303,21 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
     padding: 20px 0 36px; 
     border-top: 1px dotted @cyan;
     font-family: @displayFontFamily; 
-    color: @cyan; 
+    -webkit-font-smoothing: antialiased;
+    color: @orange; 
     font-size: 20px;
   }
 }
 
 .pager  {
-  margin: 0 !important;
+  margin: 20px 0 !important;
   a, span {
-    padding: 5px 14px;
-    background-color: @babyblue;
-    border: 1px solid @navy;
-    -webkit-border-radius: 6px;
-    -moz-border-radius: 6px;
-    border-radius: 6px;
+    padding: 0;
+    background: none;
+    border: none;
+    font-family: @displayFontFamily;
+    font-size: 18px;
+    -webkit-font-smoothing: antialiased;
   }
 }
 
@@ -347,8 +350,9 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
 
 .download-box {
   margin: 20px 0 20px 40px; 
-  .icon-download  { margin-right: 4px; }
-  .details        { font-size: 11px; margin-left: 20px; }
+  .icon-download  { margin-right: 8px; }
+  .details        { font-size: 11px; margin-left: 24px; }
+  .title          { background: none !important; font-size: 14px !important; font-family: @baseFontFamily !important; padding: 0 !important; }
 }
 
 .read-more    { margin-top: 6px; }
