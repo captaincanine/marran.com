@@ -65,6 +65,9 @@
 
 h2,h3   { font-family: @displayFontFamily; color: @maroon; }
 
+
+/* HEADER */
+
 #header { 
 
   font-family: @displayFontFamily;
@@ -75,7 +78,7 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
   position:    relative;
    -webkit-font-smoothing: antialiased;
 
-  #logo     { font-size: 72px; line-height: 72px; color: @cyan; }
+  #logo     { font-size: 72px; line-height: 68px; color: @cyan; }
   #about    { font-size: 20px; line-height: 18px; color: @maroon; padding-top: 72px; }
 
   a:hover   { text-decoration: none; color: @cyan; }
@@ -104,11 +107,21 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
     .follow-links   { padding-top: 10px; }
     img       { width: 36px; height: 36px; }
   }
+    
+  @media (max-width: 480px) {
+    #logo   { font-size: 50px; line-height: 50px; }
+    #about  { padding-top: 60px; }
+  }
   
   #logo a   { position: absolute; display: block; }
   .sketched { font-family: 'Londrina Sketch'; position: absolute; color: @black; display: block; }
 
 }
+
+
+
+
+
 
 .teaser     {
 
@@ -136,6 +149,14 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
 .third.row .keyword,
 .fourth.row .keyword   { background-image: none; }
 
+@media (max-width: 480px) {
+  .first.row .title,
+  .second.row .title,
+  .third.row .title,
+  .fourth.row .title    { font-size: 30px !important; line-height: 30px !important; }
+}
+
+
 #sidebar {
 
   .header   {
@@ -156,6 +177,8 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
   }
 
 }
+
+/* SEARCH */
 
 #search { 
 
@@ -199,6 +222,14 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
   }
 
 }
+
+@media (max-width: 979px) { 
+  #search .form-search input  { width: 120px; }
+}
+
+
+
+/* INDEX PAGES */
 
 .index  {
 
