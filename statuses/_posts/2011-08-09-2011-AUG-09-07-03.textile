@@ -9,7 +9,7 @@ link: http://mint.com/
 name: Free Personal Finance Software, Budget Software, Online Money Management and Budget Planner | Mint.c
 caption: www.mint.com
 description: Does anyone out there use mint.com? Any reviews?
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/192186300844623
@@ -19,12 +19,42 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2011-08-09T11:03:03+0000
 updated_time: 2011-08-10T22:52:19+0000
 comments: 
   data: 
+  - id: 790499637_192186300844623_2002594
+    from: 
+      name: Brian Begy
+      id: "658570916"
+    message: It is really good.  Not perfect, but really useful.
+    created_time: 2011-08-09T11:30:12+0000
+  - id: 790499637_192186300844623_2002920
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: Hmm. Is this a Quicken analog? Free you say? Hmm.
+    created_time: 2011-08-09T13:02:03+0000
+  - id: 790499637_192186300844623_2003022
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Not perfect but really good. It was a huge help in our marriage in regards to talking about budget and it actually got me to care a little about having a budget. My husband was smart to make the budget like a video game for me. Highly recommend
+    created_time: 2011-08-09T13:31:58+0000
+  - id: 790499637_192186300844623_2003950
+    from: 
+      name: JoyEllen Snellgrove
+      id: "1655943118"
+    message: |-
+      Caveats:  Mint is targeted-advertising-supported, so expect to be nagged about how you can get a better interest rate with a variety of partners.
+      
+      Also, they don't have significant competitors, so they don't implement user friendly features that don't serve their business model.  For instance, you can't import old transactions.  Forget about loading all of 2011 into mint and looking at your trends for the year.  If you care about that, you may want to wait until 2012 to switch to mint.
+    created_time: 2011-08-09T17:20:47+0000
   - id: 790499637_192186300844623_2003956
     from: 
       name: JoyEllen Snellgrove
@@ -38,8 +68,8 @@ comments:
     message: Well...firing up mint.com was as close to a bucket of ice water in my face as I can imagine. I think I was happier with my head in the sand.
     created_time: 2011-08-10T22:52:19+0000
   count: 6
-layout: facebook-link
-title: Tuesday, Aug  9, 2011 - 07:03AM
+layout: status-link
+title: Tuesday, Aug  9, 2011 around 07:03AM
 link-info: Free personal finance software to assist you to manage your money, financial planning, and budget planning tools. Achieve your financial goals with Mint.
 date: 2011-08-09 07:03:03 -04:00
 

@@ -9,7 +9,7 @@ link: http://io9.com/5954595/10-reasons-why-speed-racer-is-an-unsung-masterpiece
 name: 10 Reasons Why Speed Racer Is an Unsung Masterpiece
 caption: io9.com
 description: Wait a sec...was Speed Racer a good movie? It was the first Wachowski siblings movie I didn't see because it was so panned. Now I'm thinking I might have missed out.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/299304676848842
@@ -19,6 +19,8 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
 status_type: shared_story
@@ -26,9 +28,33 @@ application:
   name: Share_bookmarklet
   id: "5085647995"
 created_time: 2012-10-25T03:00:06+0000
-updated_time: 2012-10-25T03:47:17+0000
+updated_time: 2012-10-27T14:36:04+0000
 comments: 
   data: 
+  - id: 790499637_299304676848842_1469180
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: Josh liked it
+    message_tags: 
+    - id: "621816545"
+      name: Josh
+      type: user
+      offset: 0
+      length: 4
+    created_time: 2012-10-25T03:00:43+0000
+  - id: 790499637_299304676848842_1469189
+    from: 
+      name: T'ai Chu-Richardson
+      id: "14101146"
+    message: it's insane and very fun but should almost certainly be watched while extremely high.
+    created_time: 2012-10-25T03:02:23+0000
+  - id: 790499637_299304676848842_1469203
+    from: 
+      name: T'ai Chu-Richardson
+      id: "14101146"
+    message: in fact, I'm pretty sure it's deliberately designed for that.
+    created_time: 2012-10-25T03:04:35+0000
   - id: 790499637_299304676848842_1469212
     from: 
       name: Josh Siegel
@@ -38,7 +64,7 @@ comments:
     likes: 1
   - id: 790499637_299304676848842_1469228
     from: 
-      name: T'ai Boo-Witchardskeleton
+      name: T'ai Chu-Richardson
       id: "14101146"
     message: there are literally only two bad parts to the movie, both involving Spritle and Chim Chim, and the rest is excellent. oh, and also one additional part that isn't bad but *looks* bad. Josh, if you're curious, I'm referring to the poo-flinging, the part on the Segway, and the bit where Speed's older brother picks him up from school.
     created_time: 2012-10-25T03:08:35+0000
@@ -57,13 +83,19 @@ comments:
     likes: 2
   - id: 790499637_299304676848842_1469340
     from: 
-      name: T'ai Boo-Witchardskeleton
+      name: T'ai Chu-Richardson
       id: "14101146"
     message: The final race is absolutely amazing, and the family drama is actually quite well done (in my opinion).
     created_time: 2012-10-25T03:47:17+0000
-  count: 7
-layout: facebook-link
-title: Wednesday, Oct 24, 2012 - 11:00PM
+  - id: 790499637_299304676848842_1478601
+    from: 
+      name: "Matt Kn\xC3\xACfe"
+      id: "100003991505837"
+    message: It was better than I expected.  It is visually amazing
+    created_time: 2012-10-27T14:36:04+0000
+  count: 8
+layout: status-link
+title: Wednesday, Oct 24, 2012 around 11:00PM
 link-info: "This Friday we'll get to see the Wachowskis' latest crazy, gorgeous, and mind-blowing epic, Cloud Atlas. Most people know the Wachowskis for the Matrix trilogy, but we think their version of Speed Racer \xE2\x80\x94"
 date: 2012-10-24 23:00:06 -04:00
 

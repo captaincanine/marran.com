@@ -13,12 +13,27 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-07-05T21:48:10+0000
 updated_time: 2011-07-05T22:05:24+0000
 comments: 
   data: 
+  - id: 790499637_10150362418189638_19655355
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: I would.
+    created_time: 2011-07-05T21:55:20+0000
+  - id: 790499637_10150362418189638_19655538
+    from: 
+      name: Torrey Cornwell
+      id: "593335901"
+    message: It does have the word "gladiator" in it...ahem.
+    created_time: 2011-07-05T22:02:49+0000
   - id: 790499637_10150362418189638_19655577
     from: 
       name: Keith Marran
@@ -33,8 +48,8 @@ comments:
     message: Because swordfighting on the Wii destroys oneself, so it just follows ;)
     created_time: 2011-07-05T22:05:24+0000
   count: 4
-layout: facebook-status
-title: Tuesday, Jul  5, 2011 - 05:48PM
+layout: status
+title: Tuesday, Jul  5, 2011 around 05:48PM
 date: 2011-07-05 17:48:10 -04:00
 
 ---

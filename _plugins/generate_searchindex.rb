@@ -29,7 +29,9 @@ module Jekyll
       self.data['type'] = post.data['type']
       self.data['link'] = post.url
       self.data['date'] = post.data['date']
+      self.data['name'] = post.data['name']
       self.data['picture'] = post.data['picture']
+      self.data['images'] = post.data['images']
       self.data['date'] = post.data['date']
       
       if (post.data['type'] == nil)

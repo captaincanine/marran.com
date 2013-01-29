@@ -8,8 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCibwPhPLr22daC&w=90&h=9
 link: http://ravel.me/keiffer/ahffab
 name: "Ravelry: keiffer's Stripey Boyfriend Hat"
 caption: www.ravelry.com
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/218164244922654
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -37,6 +42,30 @@ likes:
   count: 5
 comments: 
   data: 
+  - id: 790499637_218164244922654_1935116
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: I'll take one in black, white, and yellow, to support my Steelers!
+    created_time: 2011-11-17T04:03:59+0000
+  - id: 790499637_218164244922654_1937111
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Could you get me a pattern?  I'll flip it to crochet!
+    created_time: 2011-11-17T15:15:16+0000
+  - id: 790499637_218164244922654_1937225
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Sure! It's here: http://stephanieknits.blogspot.com/2007/03/keeping-boyfriends-ears-warm-since-2006.html. The first time I made this, I followed the pattern and it came out loose and too short. The second time I made it I went down a size on the needles and made it 7.5 inches before starting the decreases. The size and shape is much better that way. And the next time I do it, I'm going to do a 1x1 rib for the first 8 rows to make sure it stays tight at the bottom."
+    created_time: 2011-11-17T15:30:49+0000
+  - id: 790499637_218164244922654_1937242
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Perfect!    I can convert this to a crochet pattern & knock out a hat over a gloomy weekend.  Thanks!  You look so good in yours I think Rob needs one!
+    created_time: 2011-11-17T15:35:13+0000
   - id: 790499637_218164244922654_1937261
     from: 
       name: Keith Marran
@@ -50,10 +79,10 @@ comments:
     message: Nice!  Crochet is quicker than knitting... It will take me a little time to translate the knit stitches to crochet, after that it's a cinch!
     created_time: 2011-11-17T15:44:24+0000
   count: 6
-layout: facebook-link
-title: Wednesday, Nov 16, 2011 - 09:45PM
+layout: status-link
+title: Wednesday, Nov 16, 2011 around 09:45PM
 link-info: I just finished my latest knitting project. This was a hat I made for a friend. It's based on The Boyfriend Hat. I've found it to be a good, all-purpose winter hat project with some modifications. This is made from a super-soft merino wool.
 date: 2011-11-16 21:45:10 -05:00
 
 ---
-
+Keith Marran shared a link.

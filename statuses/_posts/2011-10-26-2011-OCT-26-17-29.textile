@@ -9,7 +9,7 @@ link: http://shar.es/bdZU4
 name: NYCC 2011 MASQUERADE PHOENIX FAN DANCE
 caption: www.geeksout.org
 description: I'm so happy to see that gay fan dancing is not a lost art form. This also shows off just how incredibly geeky and anything-goes NYCC is.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/188491487896334
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -50,8 +55,8 @@ comments:
     message: Just keepin' ya honest.
     created_time: 2011-10-26T21:34:07+0000
   count: 3
-layout: facebook-link
-title: Wednesday, Oct 26, 2011 - 05:29PM
+layout: status-link
+title: Wednesday, Oct 26, 2011 around 05:29PM
 link-info: Met him at the con. A Very nice young gentleman!
 date: 2011-10-26 17:29:10 -04:00
 

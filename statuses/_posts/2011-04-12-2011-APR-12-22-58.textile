@@ -9,7 +9,7 @@ link: http://video.nytimes.com/video/2011/03/28/movies/100000000747984/akira.htm
 name: "Critics' Picks: 'Akira' - Video Library - The New York Times"
 caption: video.nytimes.com
 description: "I have been thinking of the movie Akira a lot lately and I stumbled across this video review. He hits at the core of it quite well. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/123258264418501
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2011-04-13T02:58:42+0000
 updated_time: 2011-04-14T23:47:55+0000
 comments: 
@@ -38,8 +41,8 @@ comments:
     message: "No, I haven't. I lived the movie, but I haven't written anything. "
     created_time: 2011-04-14T23:47:55+0000
   count: 2
-layout: facebook-link
-title: Tuesday, Apr 12, 2011 - 10:58PM
+layout: status-link
+title: Tuesday, Apr 12, 2011 around 10:58PM
 link-info: A. O. Scott discusses the anime classic and the obsession with disaster in Japanese pop culture.
 date: 2011-04-12 22:58:42 -04:00
 

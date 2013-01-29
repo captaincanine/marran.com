@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-02-04T15:09:41+0000
 updated_time: 2011-02-04T19:56:25+0000
 likes: 
@@ -30,6 +33,53 @@ likes:
   count: 11
 comments: 
   data: 
+  - id: 790499637_200183769995373_2799618
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Or all of the above.  Sounds like a great moment.
+    created_time: 2011-02-04T15:10:13+0000
+    likes: 1
+  - id: 790499637_200183769995373_2799999
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: How did you like it?  Heard SO many things... both good and bad.  (Even beyond the accidents associated with it)
+    created_time: 2011-02-04T16:13:29+0000
+  - id: 790499637_200183769995373_2800217
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      There were several things that all modern musicals do that I don't like: Everything is a song. There are some moments that should have been a well-written scene, not a song. Everything is played at 100% hit-you-over-the-head level, so you can't tell the difference between a small moment and the climax of the show.
+      
+      I had heard that the problem is with the score. Not so. The music was good, not great, and had some very fine moments. A couple of the songs would have been fine if performed by U2 and perfected in a studio, but in a live setting done by non-mega-pop-stars, it just didn't translate as well. 
+      
+      The design, sets, and a stunts were AMAZING! The costumes, masks, and set design were fantastic. Dead on. The aerial stunts were breathtaking. Seeing Spider-man leap through the air was perfect and very spider-man-like. 
+      
+      They had to stop once to fix a technical problem. They had the show up and running in 5 minutes.
+      
+      However, the book is terrible. There are some glaring errors that being the whole play down to bad-student-production at times. I think Julie Taymor suffers from the "Emperor's New Clothes syndrome in which no one will tell her when something is just flat out bad. They needed a real playwright to whip it into shape. And besides some very specifically bad things, the entire second act is like being lost in a forest and thinking "Maybe this path will lead us home." 
+      
+      However, the stunts are so amazing that when you hear the music, and Spider-man flies to save Mary Jane, you forget everything bad about the show. 
+      
+      In general, when you try to re-invent something as iconic as Spider-man, you can change the content (within reason) but not the formula. And they lose sight of the formula in the second act.
+      
+      So...not a great show, but a flawed show with some breath-taking moments. I think it will run a while, but not pay back the investors.
+    created_time: 2011-02-04T16:44:41+0000
+    likes: 2
+  - id: 790499637_200183769995373_2800255
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: That's precisely what I've been hearing... really, just exactly those things.  So it must be true.  Thanks, Keith, for taking the time to write all that out.  :)
+    created_time: 2011-02-04T16:49:56+0000
+  - id: 790499637_200183769995373_2800282
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Especially the part about that the score is good... it's just meant for Bono to sing... quite interesting, but not unexpected, I guess.
+    created_time: 2011-02-04T16:52:26+0000
   - id: 790499637_200183769995373_2800752
     from: 
       name: Brett Bishop
@@ -44,8 +94,8 @@ comments:
     message: awww, all of the above. Can you take care of Claudio next week?
     created_time: 2011-02-04T19:56:25+0000
   count: 7
-layout: facebook-status
-title: Friday, Feb  4, 2011 - 10:09AM
+layout: status
+title: Friday, Feb  4, 2011 around 10:09AM
 date: 2011-02-04 10:09:41 -05:00
 
 ---

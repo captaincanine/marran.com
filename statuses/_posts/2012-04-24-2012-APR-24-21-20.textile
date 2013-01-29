@@ -9,7 +9,7 @@ link: http://www.cracked.com/blog/7-commonly-corrected-grammar-errors-that-arent
 name: 7 Commonly Corrected Grammar Errors (That Aren't Mistakes)
 caption: www.cracked.com
 description: Do I agree with all of these? No. Did I laught reading this article? Yes. And while we're on the subject...why is it so imperative that we never end a sentence with a preposition?
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/y2/x/0HZPW6-lhQu.png
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/366530216730623
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Likes
   id: "2409997254"
@@ -60,8 +63,8 @@ comments:
     message: "I read this yesterday and laughed and thought that was the end of it. Today as I worked, my brain kept interjecting: \"Why don't you just scrawl it on the floor in feces?\""
     created_time: 2012-04-26T01:18:51+0000
   count: 3
-layout: facebook-link
-title: Tuesday, Apr 24, 2012 - 09:20PM
+layout: status-link
+title: Tuesday, Apr 24, 2012 around 09:20PM
 link-info: If you've written anything on the Internet in the past twenty years or so, whether on a forum, comment thread, or the Denny's corporate blog you maint...
 date: 2012-04-24 21:20:41 -04:00
 

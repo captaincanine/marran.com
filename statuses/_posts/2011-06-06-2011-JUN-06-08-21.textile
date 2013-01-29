@@ -8,8 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQATC5mt-NuW7WpT&w=90&h=9
 link: http://www.marran.com/blog/the-run-walk-plan/
 name: The Run Walk Plan
 caption: www.marran.com
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/124403930975291
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -54,10 +57,10 @@ comments:
     message: Healthy foods in abundance vs. lots of strong black coffee (a.k.a. the Fashion Editor Diet)
     created_time: 2011-06-06T19:44:58+0000
   count: 3
-layout: facebook-link
-title: Monday, Jun  6, 2011 - 08:21AM
+layout: status-link
+title: Monday, Jun  6, 2011 around 08:21AM
 link-info: Well, it's time to get in shape. I've been kind of half-assed about it for several months, but the weather is good and there's no reason I shouldn't be outside being active.
 date: 2011-06-06 08:21:03 -04:00
 
 ---
-
+Keith Marran shared a link.

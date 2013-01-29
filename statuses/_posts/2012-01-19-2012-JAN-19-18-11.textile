@@ -7,8 +7,8 @@ story: Keith Marran shared a link.
 link: http://www.geeksout.org/blogs/your-male-superheroes-are-they-sexy-enough
 name: "Your (Male) Superheroes: Are They Sexy Enough?"
 caption: www.geeksout.org
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/120750468046129
@@ -17,7 +17,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Links
   id: "2309869772"
@@ -30,10 +35,10 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Thursday, Jan 19, 2012 - 06:11PM
+layout: status-link
+title: Thursday, Jan 19, 2012 around 06:11PM
 link-info: Via ComicsAlliance's Andrew Wheeler, a tongue-in-cheek call for more beefcake in superhero comics.
 date: 2012-01-19 18:11:16 -05:00
 
 ---
-
+Keith Marran shared a link.

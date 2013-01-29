@@ -9,7 +9,7 @@ link: http://gawker.com/5912012/american-idiots-congress-dumbs-itself-down-one-f
 name: "American Idiots: Congress Dumbs Itself Down One Full Grade Level"
 caption: gawker.com
 description: SHOCKER!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/y2/x/0HZPW6-lhQu.png
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/427315140620952
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Likes
   id: "2409997254"
@@ -35,8 +38,8 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Monday, May 21, 2012 - 03:14PM
+layout: status-link
+title: Monday, May 21, 2012 around 03:14PM
 link-info: "In more news that will take the wind out of my father's sails\xE2\x80\x94Congress appears to be getting collectively dumber.  The Sunglight foundation analyzed Congressional speech and found that over the past seven years they've gone from talking like high school juniors to sophomores."
 date: 2012-05-21 15:14:18 -04:00
 

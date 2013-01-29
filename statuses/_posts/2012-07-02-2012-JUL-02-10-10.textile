@@ -9,7 +9,7 @@ link: http://shar.es/sTVbc
 name: Spider-Man Flying Out of Anuses Everywhere
 caption: geeksout.org
 description: The internet has really revived my ability to giggle like an 8-year-old at immature things.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/261278263973521
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -30,11 +35,11 @@ likes:
     id: "592820863"
   - name: Greg Pflugfelder
     id: "1072680095"
-  - name: Marcie Morton Sobelman
-    id: "1275161562"
   - name: Sreedhar Yedavalli
     id: "1199970155"
-  count: 6
+  - name: Brenda Gregoline
+    id: "1236717380"
+  count: 5
 comments: 
   data: 
   - id: 790499637_261278263973521_1021054
@@ -44,8 +49,8 @@ comments:
     message: Lorenz is laughing hard.
     created_time: 2012-07-02T15:10:08+0000
   count: 1
-layout: facebook-link
-title: Monday, Jul  2, 2012 - 10:10AM
+layout: status-link
+title: Monday, Jul  2, 2012 around 10:10AM
 link-info: "In my ongoing series of Spider-Man related toilet humor, we have this latest gem: a poorly timed advertising overlay for The Amazing Spider-Man results in the appearance of Spider-Man swinging out of a baseball player's butt. "
 date: 2012-07-02 10:10:37 -04:00
 

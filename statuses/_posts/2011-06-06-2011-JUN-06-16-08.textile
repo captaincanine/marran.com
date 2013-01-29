@@ -9,7 +9,7 @@ link: http://gawker.com/5809003/catholics-take-on-the-republican-cult-of-ayn-ran
 name: Catholics Take on the Republican Cult of Ayn Rand
 caption: gawker.com
 description: This article is kind of funny and interesting, but the comments make it really come alive.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/135888279819862
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -28,8 +31,8 @@ created_time: 2011-06-06T20:08:14+0000
 updated_time: 2011-06-06T20:08:14+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Monday, Jun  6, 2011 - 04:08PM
+layout: status-link
+title: Monday, Jun  6, 2011 around 04:08PM
 link-info: Right-wingers have long been fascinated by Ayn Rand, the mid-century pop philosopher who defined moral behavior as doing whatever will make you, the individual, happy, and opposed any government intervention in the economy or charitable giving.
 date: 2011-06-06 16:08:14 -04:00
 

@@ -9,7 +9,7 @@ link: http://www.theawl.com/2011/04/inside-the-post-it-note-anti-obama-revolutio
 name: Inside the Post-It Note Anti-Obama Revolution
 caption: www.theawl.com
 description: I hate it when people that I disagree with politically are more creative and mischievous than the people in my corner. This campaign is very clever and - I'm sure - very effective.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/195609233816870
@@ -19,14 +19,17 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2011-04-29T21:18:35+0000
 updated_time: 2011-04-29T21:18:35+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Friday, Apr 29, 2011 - 05:18PM
+layout: status-link
+title: Friday, Apr 29, 2011 around 05:18PM
 link-info: "The last time gas prices spiked over $4 per gallon, the Tea Party exploded with rage against the sitting president, hanging the totality of the blame on his administration. Of course, by \"exploded with rage,\" I mean \"didn't exist.\"  This time around, the Tea Party is taking action to draw attention "
 date: 2011-04-29 17:18:35 -04:00
 

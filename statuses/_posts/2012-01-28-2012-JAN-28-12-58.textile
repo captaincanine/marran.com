@@ -9,7 +9,7 @@ link: http://www.buzzfeed.com/gavon/a-chihuaha-dressed-as-a-donkey
 name: A Chihuaha Dressed As A Donkey
 caption: www.buzzfeed.com
 description: This must be shared.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/358861274142725
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Links
   id: "2309869772"
@@ -44,8 +49,8 @@ comments:
     message: My chihuahua would not be very happy with me!
     created_time: 2012-01-28T18:26:29+0000
   count: 2
-layout: facebook-link
-title: Saturday, Jan 28, 2012 - 12:58PM
+layout: status-link
+title: Saturday, Jan 28, 2012 around 12:58PM
 link-info: "A Chihuaha Dressed As A Donkey: Did you ever think you'd lead a virtuous enough life to be rewarded with such riches? Nor I..."
 date: 2012-01-28 12:58:21 -05:00
 

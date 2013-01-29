@@ -1,28 +1,31 @@
 --- 
-id: 790499637_10150451664579638
+id: 790499637_10150451664584638
 from: 
   name: Keith Marran
   id: "790499637"
 message: We passed this bag and jewelery store in Hanoi. I don't think they knew what they were saying when they put this on their store window.
 picture: http://photos-e.ak.fbcdn.net/hphotos-ak-ash4/317211_10150451664549638_433092161_s.jpg
-link: http://www.facebook.com/photo.php?fbid=10150451664549638&set=a.229486624637.178410.790499637&type=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+link: http://www.facebook.com/photo.php?fbid=10150451664549638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
 actions: 
 - name: Comment
-  link: http://www.facebook.com/790499637/posts/10150451664579638
+  link: http://www.facebook.com/790499637/posts/10150451664584638
 - name: Like
-  link: http://www.facebook.com/790499637/posts/10150451664579638
+  link: http://www.facebook.com/790499637/posts/10150451664584638
 privacy: 
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: photo
+status_type: added_photos
 object_id: "10150451664549638"
 application: 
   name: Aperture
   id: "101622214608"
-created_time: 2011-09-21T10:11:26+0000
+created_time: 2011-09-21T10:11:27+0000
 updated_time: 2011-09-21T20:09:04+0000
 shares: 
   count: 1
@@ -39,13 +42,38 @@ likes:
   count: 8
 comments: 
   data: 
-  - id: 790499637_10150451664579638_6836861
+  - id: 790499637_10150451664584638_6835006
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: They ask so politely, it seems rude to refuse.
+    created_time: 2011-09-21T10:12:55+0000
+    likes: 3
+  - id: 790499637_10150451664584638_6835277
+    from: 
+      name: Brad Christen
+      id: "1149460967"
+    message: WTF?!?!?!?  LMAO!!!
+    created_time: 2011-09-21T11:41:22+0000
+  - id: 790499637_10150451664584638_6835524
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: so how was it?
+    created_time: 2011-09-21T12:43:09+0000
+  - id: 790499637_10150451664584638_6835799
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: Best. Sign. Ever.
+    created_time: 2011-09-21T13:35:41+0000
+  - id: 790499637_10150451664584638_6836861
     from: 
       name: Sandra MacLeod
       id: "1265114452"
     message: LOL!  Did you go in Keith??  :)
     created_time: 2011-09-21T16:42:21+0000
-  - id: 790499637_10150451664579638_6838001
+  - id: 790499637_10150451664584638_6838001
     from: 
       name: Keith Marran
       id: "790499637"
@@ -53,9 +81,12 @@ comments:
     created_time: 2011-09-21T20:09:04+0000
     likes: 1
   count: 6
-layout: facebook-photo
-title: Wednesday, Sep 21, 2011 - 06:11AM
-date: 2011-09-21 06:11:26 -04:00
+layout: status-photo
+title: Wednesday, Sep 21, 2011 around 06:11AM
+images: 
+- thumbnail: /statuses/photo/317211_10150451664549638_433092161_s.jpg
+  fullsize: /statuses/photo/317211_10150451664549638_433092161_n.jpg
+date: 2011-09-21 06:11:27 -04:00
 
 ---
 We passed this bag and jewelery store in Hanoi. I don't think they knew what they were saying when they put this on their store window.

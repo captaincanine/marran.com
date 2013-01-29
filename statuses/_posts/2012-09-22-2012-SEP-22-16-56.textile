@@ -9,7 +9,7 @@ link: http://m.lifehacker.com/5849229/how-to-configure-ios-5s-awesome-built+in-t
 name: "Do Yourself a Favor: Set Up These Custom Typing Shortcuts on Your iPhone Right Now"
 caption: lifehacker.com
 description: "Text shortcuts have been a feature of iOS for over a year now and I JUST found out about them. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/408267312561042
@@ -18,6 +18,10 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
 status_type: shared_story
 application: 
@@ -39,8 +43,8 @@ comments:
     message: "Thanks. I just added a few myself. "
     created_time: 2012-09-22T23:37:45+0000
   count: 1
-layout: facebook-link
-title: Saturday, Sep 22, 2012 - 04:56PM
+layout: status-link
+title: Saturday, Sep 22, 2012 around 04:56PM
 link-info: It seems Apple added text expansion to iOS 5 and decided not to mention it.  This is a great, highly-desired feature that can save you tons of time typing frequent phrases and long words.
 date: 2012-09-22 16:56:39 -04:00
 

@@ -8,7 +8,7 @@ link: http://codeforamerica.org/
 name: Code for America | A New Kind of Public Service
 caption: codeforamerica.org
 description: Is anyone familiar with codeforamerica.org? A friend was asking about it and I had never heard of it before.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/362136063872432
@@ -18,6 +18,8 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
 status_type: shared_story
@@ -30,8 +32,8 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Wednesday, Oct 10, 2012 - 05:44PM
+layout: status-link
+title: Wednesday, Oct 10, 2012 around 05:44PM
 link-info: Helping governments work better for everyone with the people and the power of the web.
 date: 2012-10-10 17:44:35 -04:00
 

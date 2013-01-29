@@ -9,7 +9,7 @@ link: http://ping.fm/z7FpQ
 name: At the Villa Borghese
 caption: www.marran.com
 description: The rest of the trip to Italy is posted. And it concludes with a story about two French prostitutes in Chicago! Start here to work your way to the end
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/175852622460371
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Ping.fm
   namespace: pingdotfm
@@ -29,8 +32,8 @@ created_time: 2011-02-27T12:46:21+0000
 updated_time: 2011-02-27T12:46:21+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Sunday, Feb 27, 2011 - 07:46AM
+layout: status-link
+title: Sunday, Feb 27, 2011 around 07:46AM
 link-info: Our second full day in Rome, we took a morning tour of the Villa Borghese and then strolled through the gardens.
 date: 2011-02-27 07:46:21 -05:00
 

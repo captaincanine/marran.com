@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 application: 
   name: Facebook for iPhone
   namespace: fbiphone
@@ -40,8 +45,8 @@ comments:
     created_time: 2012-05-18T19:37:21+0000
     likes: 3
   count: 1
-layout: facebook-status
-title: Friday, May 18, 2012 - 03:33PM
+layout: status
+title: Friday, May 18, 2012 around 03:33PM
 date: 2012-05-18 15:33:48 -04:00
 
 ---

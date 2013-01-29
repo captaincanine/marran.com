@@ -8,8 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDp024ow_S0EpjP&w=90&h=9
 link: http://lifehacker.com/5854926/why-i-take-sketch-breaks-instead-of-internet-surfing
 name: Why I Take Sketch Breaks Instead of Internet Surfing
 caption: lifehacker.com
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/266977776672210
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -26,10 +31,10 @@ created_time: 2011-11-01T11:35:04+0000
 updated_time: 2011-11-01T11:35:04+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Tuesday, Nov  1, 2011 - 07:35AM
+layout: status-link
+title: Tuesday, Nov  1, 2011 around 07:35AM
 link-info: Staring at a pair of monitors for 10+ hours a day can get rather taxing. That's why I pepper in small breaks throughout the day, like most people. When I need five minutes to untangle my brain I reach for my pile of art pens and the closest post it note (the back of a print out will also suffice).
 date: 2011-11-01 07:35:04 -04:00
 
 ---
-
+Keith Marran shared a link.

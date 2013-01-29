@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2012-06-18T21:31:57+0000
 updated_time: 2012-06-19T18:08:36+0000
 likes: 
@@ -24,6 +29,33 @@ likes:
   count: 2
 comments: 
   data: 
+  - id: 790499637_10151207419359638_27150165
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: |-
+      Actually, I just made one for myself the other day!  As long as you can know/recall that only one has a double, here it is:
+      "I'll C/see you at the occasion."
+    created_time: 2012-06-18T21:58:05+0000
+  - id: 790499637_10151207419359638_27150414
+    from: 
+      name: Gregory Seta
+      id: "100002115994439"
+    message: An occasion is when you go TO SEE someone and not make AN ASS of yourself?
+    created_time: 2012-06-18T22:13:43+0000
+    likes: 1
+  - id: 790499637_10151207419359638_27150484
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: "\"If a fire should start to burn/then there's something you should learn/something something something/then you'll see/you've escaped catastrophe.\""
+    created_time: 2012-06-18T22:19:36+0000
+  - id: 790499637_10151207419359638_27151436
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: HA! I KNOW WHAT YOU MEAN!!! I have a similar issue w assessment....too many 's'.....
+    created_time: 2012-06-18T23:44:46+0000
   - id: 790499637_10151207419359638_27152426
     from: 
       name: Andrea Miklasz
@@ -37,8 +69,8 @@ comments:
     message: I think Greg nailed it. What would we do without our "ASS" based phrases? (i.e. "never assume, it makes an ASS out of U and ME")
     created_time: 2012-06-19T18:08:36+0000
   count: 6
-layout: facebook-status
-title: Monday, Jun 18, 2012 - 05:31PM
+layout: status
+title: Monday, Jun 18, 2012 around 05:31PM
 date: 2012-06-18 17:31:57 -04:00
 
 ---

@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-08-15T22:39:15+0000
 updated_time: 2011-08-16T08:03:19+0000
 likes: 
@@ -30,6 +33,31 @@ likes:
   count: 6
 comments: 
   data: 
+  - id: 790499637_10150405631739638_20720109
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Have a great time!!
+    created_time: 2011-08-15T22:42:39+0000
+  - id: 790499637_10150405631739638_20720294
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: Travel safely!
+    created_time: 2011-08-15T22:51:51+0000
+  - id: 790499637_10150405631739638_20720413
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Thanks!
+    created_time: 2011-08-15T22:58:36+0000
+    likes: 1
+  - id: 790499637_10150405631739638_20723719
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    message: Have an awesome trip!
+    created_time: 2011-08-16T01:40:13+0000
   - id: 790499637_10150405631739638_20726131
     from: 
       name: Parizad Motiwala O'Donnell
@@ -43,8 +71,8 @@ comments:
     message: Enjoy!!  I'm so envious!!  :-)
     created_time: 2011-08-16T08:03:19+0000
   count: 6
-layout: facebook-status
-title: Monday, Aug 15, 2011 - 06:39PM
+layout: status
+title: Monday, Aug 15, 2011 around 06:39PM
 date: 2011-08-15 18:39:15 -04:00
 
 ---

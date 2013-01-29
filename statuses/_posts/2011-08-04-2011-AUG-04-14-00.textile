@@ -9,7 +9,7 @@ link: http://nymag.com/daily/entertainment/2011/08/zach_braff.html
 name: "Scrubs Creator Is Very Unhappy About Vulture\xE2\x80\x99s Review of Zach Braff\xE2\x80\x99s Play"
 caption: nymag.com
 description: I have zero opinion on Zach Braff's play running Off-Broadway right now. However, a standing ovation goes to these two duking it out with words over Scott Brown's review.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/241350732566434
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -42,9 +45,9 @@ comments:
     message: Ha ha ha. Good for Zach. I hate it when a critic doesn't actually review the work, but does what this guy does. It's like, clearly i can't take your view of this work seriously, you are far to biased.
     created_time: 2011-08-04T18:09:09+0000
   count: 1
-layout: facebook-link
-title: Thursday, Aug  4, 2011 - 02:00PM
-link-info: "\"I can\xE2\x80\x99t talk about how much I liked Zach's play. I know and love him; I'd be too biased. My only option, then, is to indulge every bitter writer's fantasy. I'm going to review your review.\""
+layout: status-link
+title: Thursday, Aug  4, 2011 around 02:00PM
+link-info: "\"I can\xE2\x80\x99t talk about how much I liked Zach\xE2\x80\x99s play. I know and love him; I\xE2\x80\x99d be too biased. My only option, then, is to indulge every bitter writer\xE2\x80\x99s fantasy. I\xE2\x80\x99m going to review your review.\""
 date: 2011-08-04 14:00:42 -04:00
 
 ---

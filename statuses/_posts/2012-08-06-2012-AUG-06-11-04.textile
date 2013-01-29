@@ -12,6 +12,10 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
 status_type: mobile_status_update
 created_time: 2012-08-06T15:04:03+0000
@@ -20,12 +24,12 @@ likes:
   data: 
   - name: David Nudo
     id: "703436193"
+  - name: Renee Kent
+    id: "531319519"
   - name: Genny Huffman
     id: "1416423932"
   - name: Dawn Richmond Breazile
     id: "1834622505"
-  - name: Catherine Everett Hawes
-    id: "1403433546"
   count: 21
 comments: 
   data: 
@@ -36,8 +40,8 @@ comments:
     message: Mmmmm... just so you know, I'm hoping to have the painting wrapped up by mid-August...
     created_time: 2012-08-06T19:02:28+0000
   count: 1
-layout: facebook-status
-title: Monday, Aug  6, 2012 - 11:04AM
+layout: status
+title: Monday, Aug  6, 2012 around 11:04AM
 date: 2012-08-06 11:04:03 -04:00
 
 ---

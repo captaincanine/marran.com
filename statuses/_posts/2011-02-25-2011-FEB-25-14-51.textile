@@ -16,12 +16,102 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-02-25T19:51:11+0000
 updated_time: 2011-02-27T21:27:41+0000
 comments: 
   data: 
+  - id: 790499637_10150190118594638_16211200
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      But isn't the "playfulness" part of what offends about BSF?  For me what is shocking about that one is not necessarily the worldview or the actual scenes, but rather picturing it getting made.  Who were those people? Sardus never appeared in another movie; Ralphus only in one "mainstream" pornographic film.  Utterly bizarre as a time-capsule piece.
+      
+      Salo, was morally, philosophically and aesthetically degenerate.  I agree that it hollows you out as art.
+      
+      You know what is on my list?  "Very Bad Things."  It wasn't even a very good movie, but for some reason it left me feeling empty for days.  Can't quite explain why.
+    created_time: 2011-02-25T20:00:27+0000
+  - id: 790499637_10150190118594638_16211404
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: |-
+      "Lolita" is really disturbing. The combination of eroticizing a 12-year-old and putting you on the pedophile's side is excruciatingly uncomfortable (and yes.. funny, and brilliant, and...)
+      I haven't read it in years, but I think "Geek Love" was pretty shocking as well...
+    created_time: 2011-02-25T20:09:07+0000
+  - id: 790499637_10150190118594638_16211758
+    from: 
+      name: Kirsten Murray
+      id: "575571081"
+    message: Do you remember when we watched The Cook/Thief/Wife/Lover movie long, long ago?
+    created_time: 2011-02-25T20:24:45+0000
+  - id: 790499637_10150190118594638_16212092
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: When I was 15, I read American Psycho. Even though it was censored here, a friend somehow managed to get her hands on a copy. It scared the bee-jesus out of me. I think the sight of men in suits and ties freaked me out for a long time afterwards. And as for movies, SAW terrified me beyond belief....
+    created_time: 2011-02-25T20:41:00+0000
+  - id: 790499637_10150190118594638_16218363
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: Dogville
+    created_time: 2011-02-26T01:31:16+0000
+  - id: 790499637_10150190118594638_16219034
+    from: 
+      name: Dyan Maitland-Bledsoe
+      id: "786609558"
+    message: The Cook, the Thief, His Wife, and her Lover (I think that's the title). Left me with that sick feeling in the pit of my stomach.
+    created_time: 2011-02-26T02:09:10+0000
+  - id: 790499637_10150190118594638_16222370
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: Dancer in the Dark
+    created_time: 2011-02-26T05:23:33+0000
+  - id: 790499637_10150190118594638_16228309
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Leslie - It sounds like I need to catch up on my Lars von Triers movies. I'm downloading "Dogville." Also, I ran across "The Idiots" and it looks really good.
+      
+      I love "The Cook, The Thief, His Wife, and Her Lover." The scenes of the grotesque feasts that the thieves would have were the first time I considered going vegetarian. And I love the scene where the Thief realizes his wife has left him for another man and shouts "I'M GOING TO KILL HIM. AND THEN I'M GOING TO EAT HIM!"
+      
+      Joel - I don't understand what's disturbing about the idea of BSF being made. Honestly, I think everyone had a great time. Everyone is so over-the-top, how could they not? FYI - The actor playing Sardu never made another movie because he was stabbed to death by a burglar the year after BSF came out.
+    created_time: 2011-02-26T14:53:29+0000
+  - id: 790499637_10150190118594638_16228410
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      Dogville is really good, but be sure to watch it with your full attention.  It's awesomeness could kind of slide by if you just idly watch it.
+      
+      As for BSF, I dunno, calling it an over the top giggle fest seems a bit revisionist.
+    created_time: 2011-02-26T14:59:19+0000
+  - id: 790499637_10150190118594638_16228465
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I never said giggle-fest. I said the actors appear to be having a fun time being over-the-top.
+    created_time: 2011-02-26T15:02:25+0000
+  - id: 790499637_10150190118594638_16228546
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Remember that one time we bitterly fought about "War of the Roses?"
+    created_time: 2011-02-26T15:07:45+0000
+  - id: 790499637_10150190118594638_16240328
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: "Wait, you're going to download Dogville? So you WANT to be disturbed? Well if you must...Joel's right though: no knitting while you watch it. But honestly, I would probably un-watch Dancer in the Dark if I could. I saw it 10 years ago and it haunts me still."
+    created_time: 2011-02-27T01:14:19+0000
   - id: 790499637_10150190118594638_16250269
     from: 
       name: Joel Muchmore
@@ -41,8 +131,8 @@ comments:
       Thanks.
     created_time: 2011-02-27T21:27:41+0000
   count: 14
-layout: facebook-status
-title: Friday, Feb 25, 2011 - 02:51PM
+layout: status
+title: Friday, Feb 25, 2011 around 02:51PM
 date: 2011-02-25 14:51:11 -05:00
 
 ---

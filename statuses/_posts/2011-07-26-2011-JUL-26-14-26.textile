@@ -9,7 +9,7 @@ link: http://gawker.com/5824694/michele-bachmann-has-no-comment-on-the-teen-suic
 name: Michele Bachmann Has No Comment On the Teen Suicide Epidemic in Her Own Backyard
 caption: gawker.com
 description: Usually, I read Gawker for its snarky and trashy writing, but this is a real article worth reading.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/146283582117271
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -46,8 +49,8 @@ comments:
     message: "I certainly don't think Michelle Bachmann is responsible for the suicides of the teens mentioned in this article (though I find her comments about teen bullying disappointingly unsympathetic). And while teen suicide happens in liberal areas, 9 students in one district over the course of two years is a LOT. The original article talks more about what was going on with the students and the school district and is definitely worth a read: http://motherjones.com/politics/2011/07/michele-bachmann-teen-suicide. (It's good to note that a theater teacher was one of the adults trying to create a safe-haven for students - gay and straight.)"
     created_time: 2011-07-26T20:50:03+0000
   count: 2
-layout: facebook-link
-title: Tuesday, Jul 26, 2011 - 02:26PM
+layout: status-link
+title: Tuesday, Jul 26, 2011 around 02:26PM
 link-info: Gay-hating presidential aspirant Michele Bachmann represents a district of Minnesota which public health officials have labeled a "suicide contagion area," according to a deeply disturbing piece in Mother Jones.
 date: 2011-07-26 14:26:14 -04:00
 

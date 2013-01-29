@@ -6,12 +6,12 @@ from:
 message: Feeding the Monks at Luang Prabang
 picture: http://vthumb.ak.fbcdn.net/hvthumb-ak-ash4/244456_10150429159204638_10150429158914638_57708_327_b.jpg
 link: http://www.facebook.com/photo.php?v=10150429158914638
-source: http://video.ak.fbcdn.net/cfs-ak-snc6/v/349730/792/10150429158914638_23693.mp4?oh=8e55525247312ff4381d4a5a94968a79&oe=4FEB9B00&__gda__=1340840704_fa3f1a4da0896e1b9b567afd18cac7c7
+source: http://video.ak.fbcdn.net/cfs-ak-snc6/v/349730/792/10150429158914638_23693.mp4?oh=1b6ca600bde7eb3eb211721c28a01147&oe=5108AB9B&__gda__=1359573440_c313003e012524cd4d3e2660b11e6701
 name: MAH01201
 properties: 
 - name: Length
   text: "0:07"
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/DggDhA4z4tO.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/ys/x/DggDhA4z4tO.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10150429158914638
@@ -21,8 +21,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: video
+status_type: added_video
 object_id: "10150429158914638"
 application: 
   name: Aperture
@@ -36,8 +39,11 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-video
-title: Tuesday, Sep  6, 2011 - 05:59AM
+layout: status-video
+title: Tuesday, Sep  6, 2011 around 05:59AM
+images: 
+- thumbnail: /statuses/photo/244456_10150429159204638_10150429158914638_57708_327_t.jpg
+video: /statuses/video/10150429158914638_36466.mp4
 date: 2011-09-06 05:59:18 -04:00
 
 ---

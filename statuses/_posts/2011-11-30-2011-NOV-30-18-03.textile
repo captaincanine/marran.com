@@ -9,7 +9,7 @@ link: http://www.metropolitanclubnyc.org/default.aspx?p=DynamicModule&pageid=289
 name: Metropolitan Club of New York - House Rules
 caption: www.metropolitanclubnyc.org
 description: "I'm off to a Mt. Sinai function and happened to look at the website of where I'm going and it turns out that they don't allow people wearing ASCOTS! I broke out my winter ascot especially for this evening! "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/248913555170112
@@ -18,11 +18,34 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2011-11-30T23:03:14+0000
 updated_time: 2011-12-01T12:18:04+0000
 comments: 
   data: 
+  - id: 790499637_248913555170112_2675623
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    message: Wear one just to bait them and when they say something, throw it on the floor in a huff.
+    created_time: 2011-11-30T23:10:53+0000
+  - id: 790499637_248913555170112_2676091
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: I'm sure Mr. Marran would give great ascot-induced huff....
+    created_time: 2011-12-01T01:26:48+0000
+  - id: 790499637_248913555170112_2676400
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: rules are made to be broken.
+    created_time: 2011-12-01T02:34:47+0000
   - id: 790499637_248913555170112_2676688
     from: 
       name: Patti Brown
@@ -36,8 +59,8 @@ comments:
     message: What an odd rule!!
     created_time: 2011-12-01T12:18:04+0000
   count: 5
-layout: facebook-link
-title: Wednesday, Nov 30, 2011 - 06:03PM
+layout: status-link
+title: Wednesday, Nov 30, 2011 around 06:03PM
 link-info: Metropolitan Club of New York
 date: 2011-11-30 18:03:14 -05:00
 

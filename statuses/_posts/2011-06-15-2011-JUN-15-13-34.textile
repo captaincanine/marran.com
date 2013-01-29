@@ -9,7 +9,7 @@ link: http://gawker.com/5812192/the-spider+man-musical-is-still-pretty-bad-btw
 name: The Spider-Man Musical Is Still Pretty Bad, BTW
 caption: gawker.com
 description: If the producers wanted to make their money back, they should have retooled Spider-Man to be a musical about the MAKING of Spider-Man. You can use the same set and costumes, the same music, and cast people as Julie Taymor, Bono, and a producer or two. You can keep all the stunts, but add a bit or two where actors fall off the set and injure themselves. It would be the world's first Post-Modern Broadway experience! Th
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/111492415606642
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -46,8 +49,8 @@ comments:
     message: Hear hear!  (or is it "Here here!"?  Either way, well thought, Keith!)
     created_time: 2011-06-15T17:38:48+0000
   count: 1
-layout: facebook-link
-title: Wednesday, Jun 15, 2011 - 01:34PM
+layout: status-link
+title: Wednesday, Jun 15, 2011 around 01:34PM
 link-info: "The Broadway shitsplosion Spider-Man: Turn Off the Dark finally, finally, officially opened last night, meaning this morning the (new) reviews came in."
 date: 2011-06-15 13:34:58 -04:00
 

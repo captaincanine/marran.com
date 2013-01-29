@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2011-10-27T21:25:41+0000
 updated_time: 2011-10-28T18:57:26+0000
 likes: 
@@ -24,6 +29,27 @@ likes:
   count: 2
 comments: 
   data: 
+  - id: 790499637_10150507938849638_22513493
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      Dude, that's a John song, isn't it?
+      
+      A great one, regardless.
+    created_time: 2011-10-27T22:01:52+0000
+  - id: 790499637_10150507938849638_22516648
+    from: 
+      name: Tommaso Lesnick
+      id: "523791546"
+    message: "It's so good I even like it when Rufus Wainwright sings it. "
+    created_time: 2011-10-28T00:46:23+0000
+  - id: 790499637_10150507938849638_22529992
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    message: I thought George wrote the lyrics, but I could be really wrong. Lol. Still, a beautiful, strange song.
+    created_time: 2011-10-28T15:20:34+0000
   - id: 790499637_10150507938849638_22534031
     from: 
       name: Keith Marran
@@ -38,8 +64,8 @@ comments:
     created_time: 2011-10-28T18:57:26+0000
     likes: 1
   count: 5
-layout: facebook-status
-title: Thursday, Oct 27, 2011 - 05:25PM
+layout: status
+title: Thursday, Oct 27, 2011 around 05:25PM
 date: 2011-10-27 17:25:41 -04:00
 
 ---

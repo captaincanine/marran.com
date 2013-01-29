@@ -9,7 +9,7 @@ link: http://www.zdnet.com/blog/perlow/exclusive-adobe-ceases-development-on-mob
 name: "Exclusive: Adobe ceases development on mobile browser Flash, refocuses efforts on HTML5 | ZDNet"
 caption: www.zdnet.com
 description: Hmm...maybe this will eventually lead to restaurant websites that don't have stupid flash animations before you get to the content.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/276623002379634
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2011-11-09T14:24:32+0000
 updated_time: 2011-11-09T14:37:34+0000
 likes: 
@@ -43,8 +48,8 @@ comments:
     message: dream big, Keith.
     created_time: 2011-11-09T14:37:34+0000
   count: 2
-layout: facebook-link
-title: Wednesday, Nov  9, 2011 - 09:24AM
+layout: status-link
+title: Wednesday, Nov  9, 2011 around 09:24AM
 link-info: Adobe has briefed developers on the impending cessation of mobile flash browser plugin development.
 date: 2011-11-09 09:24:32 -05:00
 

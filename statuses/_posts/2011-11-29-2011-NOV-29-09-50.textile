@@ -9,7 +9,7 @@ link: http://lifehacker.com/5863307/itether-is-a-cross+platform-wired-tethering-
 name: iTether Is a Cross-Platform Wired Tethering Option for iOS, No Jailbreak Required
 caption: lifehacker.com
 description: Get it NOW! A tethering app for your iPhone that does not require jailbreaking.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/296279367069103
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2011-11-29T14:50:46+0000
 updated_time: 2011-11-29T18:43:01+0000
 comments: 
@@ -30,8 +35,8 @@ comments:
     message: ...and it just got pulled from the App Store.
     created_time: 2011-11-29T18:43:01+0000
   count: 1
-layout: facebook-link
-title: Tuesday, Nov 29, 2011 - 09:50AM
+layout: status-link
+title: Tuesday, Nov 29, 2011 around 09:50AM
 link-info: "iOS/Mac/Windows: Get it while it lasts\xE2\x80\x94iTether has somehow managed to get Apple's blessing and, for $14.99, offers easy wired tethering to your Mac OS or Windows PC from your iOS device without jailbreaking it."
 date: 2011-11-29 09:50:46 -05:00
 

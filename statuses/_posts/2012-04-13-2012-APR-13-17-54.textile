@@ -9,7 +9,7 @@ link: http://gawker.com/5901863/todays-song-company-b-fascinated
 name: "Today's Song: Company B 'Fascinated'"
 caption: gawker.com
 description: "I think Rich Juzwiak may revive my interest in Gawker. This video must be digested. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/368817283157243
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -26,8 +31,8 @@ created_time: 2012-04-13T21:54:17+0000
 updated_time: 2012-04-13T21:54:17+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Friday, Apr 13, 2012 - 05:54PM
+layout: status-link
+title: Friday, Apr 13, 2012 around 05:54PM
 link-info: "Company B's weird freestyle/house hybrid \"Fascinated\" (from 1986) contains my second-favorite first line in pop music: \"I want to play with you tonight.\" Really into the direct approach here."
 date: 2012-04-13 17:54:17 -04:00
 

@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2012-02-14T22:50:23+0000
 updated_time: 2012-02-15T01:40:01+0000
 likes: 
@@ -29,8 +34,8 @@ comments:
     message: Pepsi Sparta?
     created_time: 2012-02-15T01:40:01+0000
   count: 1
-layout: facebook-status
-title: Tuesday, Feb 14, 2012 - 05:50PM
+layout: status
+title: Tuesday, Feb 14, 2012 around 05:50PM
 date: 2012-02-14 17:50:23 -05:00
 
 ---

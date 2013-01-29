@@ -9,7 +9,7 @@ link: http://shar.es/rt0a3
 name: "Flex Mentallo: Man of Muscle Mystery Deluxe by Grant Morrison - Powell's Books"
 caption: www.powells.com
 description: If I had to pick ONE graphic novel/comic book to have on a desserted island or to force all my friends to read, this would be it. After years of being held up in potential litigation, it's finally in print again!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/289471544464004
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -31,6 +36,22 @@ likes:
   count: 1
 comments: 
   data: 
+  - id: 790499637_289471544464004_1959394
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    message: I think mine should arrive today! Can't wait to read it!
+    created_time: 2012-04-10T19:22:28+0000
+    likes: 1
+  - id: 790499637_289471544464004_1959447
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: |-
+      I'm more of a boring classicalist with respect to Graphic Novels. After 20 years, I still can't get enough.
+      
+      http://www.dccomics.com/graphic-novels/batman-the-killing-joke-special-edition
+    created_time: 2012-04-10T19:40:09+0000
   - id: 790499637_289471544464004_1959465
     from: 
       name: Keith Marran
@@ -47,8 +68,8 @@ comments:
       You are right, of course, Keith. I must expand my graphic horizons.
     created_time: 2012-04-10T19:51:03+0000
   count: 4
-layout: facebook-link
-title: Tuesday, Apr 10, 2012 - 03:21PM
+layout: status-link
+title: Tuesday, Apr 10, 2012 around 03:21PM
 link-info: "Flex Mentallo by Grant Morrison: Collected for the first time, an early classic from the ALL-STAR SUPERMAN team of Grant Morrison and Frank Quitely, newly recolored. Once he was Hero of the Beach . . . and of the Doom Patrol. Now Flex Mentallo, the Man of Muscle Mystery, returns..."
 date: 2012-04-10 15:21:33 -04:00
 

@@ -5,8 +5,8 @@ from:
   id: "790499637"
 message: Within hours of arriving in Vienna, we made it to Demel. I meant to take a picture of our pastries, but ... they were ... eaten.
 picture: http://photos-g.ak.fbcdn.net/hphotos-ak-ash4/252669_10150319365239638_710794_s.jpg
-link: http://www.facebook.com/photo.php?fbid=10150319365239638&set=a.490588709637.298813.790499637&type=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+link: http://www.facebook.com/photo.php?fbid=10150319365239638&set=a.490588709637.298813.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yM/x/og8V99JVf8G.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10150319365269638
@@ -16,8 +16,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: photo
+status_type: added_photos
 object_id: "10150319365239638"
 application: 
   name: Facebook for iPhone
@@ -38,8 +41,11 @@ likes:
   count: 9
 comments: 
   count: 0
-layout: facebook-photo
-title: Tuesday, May 31, 2011 - 09:34AM
+layout: status-photo
+title: Tuesday, May 31, 2011 around 09:34AM
+images: 
+- thumbnail: /statuses/photo/252669_10150319365239638_710794_s.jpg
+  fullsize: /statuses/photo/252669_10150319365239638_710794_n.jpg
 date: 2011-05-31 09:34:31 -04:00
 
 ---

@@ -9,7 +9,7 @@ link: http://www.nytimes.com/2011/08/15/opinion/stop-coddling-the-super-rich.htm
 name: Stop Coddling the Super-Rich
 caption: www.nytimes.com
 description: Yay. It's about time we heard a voice of reason amongst the super-rich. It is in their best interest to have a healthy economy and a financially healthy working class.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/119720054792957
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -39,8 +42,8 @@ likes:
   count: 5
 comments: 
   count: 0
-layout: facebook-link
-title: Monday, Aug 15, 2011 - 08:43PM
+layout: status-link
+title: Monday, Aug 15, 2011 around 08:43PM
 link-info: We mega-rich should not continue to get extraordinary tax breaks while most Americans struggle to make ends meet.
 date: 2011-08-15 20:43:17 -04:00
 

@@ -26,8 +26,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: app_created_story
 application: 
   name: NextMovie.com Flux
   id: "150604574976684"
@@ -35,8 +38,8 @@ created_time: 2011-01-26T20:59:37+0000
 updated_time: 2011-01-26T20:59:37+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Wednesday, Jan 26, 2011 - 03:59PM
+layout: status-link
+title: Wednesday, Jan 26, 2011 around 03:59PM
 date: 2011-01-26 15:59:37 -05:00
 
 ---

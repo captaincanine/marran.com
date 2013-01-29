@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 application: 
   name: Facebook for iPhone
   namespace: fbiphone
@@ -23,15 +26,13 @@ created_time: 2011-12-28T12:12:34+0000
 updated_time: 2011-12-28T12:47:08+0000
 likes: 
   data: 
-  - name: Marcie Morton Sobelman
-    id: "1275161562"
   - name: Jono Jarrett
     id: "1343303598"
   - name: T'ai Chu-Richardson
     id: "14101146"
   - name: Patrick Kee Kietsrichart
     id: "1334676583"
-  count: 4
+  count: 3
 comments: 
   data: 
   - id: 790499637_10150648501974638_23910308
@@ -40,7 +41,6 @@ comments:
       id: "800419"
     message: Occupy DC is actually going strong.
     created_time: 2011-12-28T12:32:09+0000
-    likes: 1
   - id: 790499637_10150648501974638_23910457
     from: 
       name: Keith Marran
@@ -48,8 +48,8 @@ comments:
     message: "Glad to hear it. I should visit when I get back. "
     created_time: 2011-12-28T12:47:08+0000
   count: 2
-layout: facebook-status
-title: Wednesday, Dec 28, 2011 - 07:12AM
+layout: status
+title: Wednesday, Dec 28, 2011 around 07:12AM
 date: 2011-12-28 07:12:34 -05:00
 
 ---

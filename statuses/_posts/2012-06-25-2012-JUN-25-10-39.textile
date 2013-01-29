@@ -8,8 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAKEwE0AKhvXxAS&w=90&h=9
 link: http://shar.es/sAjtX
 name: The Turing Test
 caption: www.geeksout.org
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/374681469253521
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -26,10 +31,10 @@ created_time: 2012-06-25T14:39:55+0000
 updated_time: 2012-06-25T14:39:55+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Monday, Jun 25, 2012 - 10:39AM
+layout: status-link
+title: Monday, Jun 25, 2012 around 10:39AM
 link-info: "What a great nexus of celebrations this weekend: we have Gay Pride in full-swing here in NYC and we have the 100th birthday of Alan Turing - one of the great gay geeks in history."
 date: 2012-06-25 10:39:55 -04:00
 
 ---
-
+Keith Marran shared a link.

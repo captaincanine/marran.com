@@ -8,8 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQA8o4SlAsEfvhQy&w=90&h=9
 link: http://gawker.com/5815920/bachmann-compares-self-to-gay-rapist-clown-serial-killer
 name: Bachmann Compares Self to Gay Rapist Clown Serial Killer
 caption: gawker.com
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/246971778653675
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -35,10 +38,10 @@ likes:
   count: 2
 comments: 
   count: 0
-layout: facebook-link
-title: Monday, Jun 27, 2011 - 09:04PM
+layout: status-link
+title: Monday, Jun 27, 2011 around 09:04PM
 link-info: "Kicking off her presidential campaign in Waterloo, Iowa, Michele Bachmann explained the geographic significance to Fox News: \"Well what I want them to know is just like, John Wayne was from Waterloo, Iowa."
 date: 2011-06-27 21:04:09 -04:00
 
 ---
-
+Keith Marran shared a link.

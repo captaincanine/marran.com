@@ -5,16 +5,31 @@
     {% if (page.title) %}<div class="title">{{ page.title }}</div>{% endif %}
     <div class="description">{{ page.description }}</div>
 
-    {% if (page.picture) %}
+    {% if (page.type == 'video') %}
+
+      <div class="row">
+        <div class="span4"><img src="{{ page.images[0].teaser }}" /></div>
+      </div>
+
+    {% endif %}
+
+    {% if (page.type == 'photo') %}
+
+      <div class="row">
+        <div class="span4"><img src="{{ page.images[0].fullsize }}" /></div>
+      </div>
+
+    {% endif %}
+  
+    {% if (page.type == 'link') %}
     
       <div class="row">
-        <div class="span1"><div class="image"><img src="{{ page.picture }}" /></a></div></div>
-        {% if (page.link-info) %}
-          <div class="span3"><div class="info"><a href="{{ page.url }}">{{ page.link-info }}</a></div></div>
-        {% endif %}
+        <div class="span1"><div class="image"><img src="{{ page.picture }}" /></div></div>
+        <div class="span3"><div class="info">{{ page.name }}</div></div>
       </div>
     
     {% endif %}
+
 
     {% if (page.date) %}<div class="date">{{ page.date }}</div>{% endif %}
 

@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-08-10T21:54:05+0000
 updated_time: 2011-08-11T20:54:10+0000
 likes: 
@@ -30,6 +33,88 @@ likes:
   count: 4
 comments: 
   data: 
+  - id: 790499637_10150400633404638_20597814
+    from: 
+      name: Steve Jerrett
+      id: "1118604751"
+    message: Don't forget "their", ""there and "they're." And " lose" and "loose". And "then" and "than."
+    created_time: 2011-08-10T22:00:35+0000
+    likes: 1
+  - id: 790499637_10150400633404638_20598038
+    from: 
+      name: Linda Rosenson Coe
+      id: "1440111516"
+    message: Your and you're
+    created_time: 2011-08-10T22:11:17+0000
+    likes: 3
+  - id: 790499637_10150400633404638_20598889
+    from: 
+      name: Thomas Rogers
+      id: "538628386"
+    message: Its and it's
+    created_time: 2011-08-10T22:53:48+0000
+  - id: 790499637_10150400633404638_20599134
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: and then there's the misuse of the 's.....
+    created_time: 2011-08-10T23:07:52+0000
+  - id: 790499637_10150400633404638_20599193
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: I think the solution is to replace "to," "too," and "two" with "2."  That was there is no confusion and all our lives will be more like Prince songs.
+    created_time: 2011-08-10T23:10:48+0000
+    likes: 3
+  - id: 790499637_10150400633404638_20599747
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: I weep daily about the fact that every word ending in S now seems to need an apostrophe
+    created_time: 2011-08-10T23:44:37+0000
+    likes: 1
+  - id: 790499637_10150400633404638_20600061
+    from: 
+      name: Gregory Seta
+      id: "100002115994439"
+    message: Don't even get me started on 'that' and 'which'.
+    created_time: 2011-08-11T00:03:03+0000
+  - id: 790499637_10150400633404638_20603003
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: you are sounding stable and mature these days
+    created_time: 2011-08-11T02:15:10+0000
+  - id: 790499637_10150400633404638_20605211
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: As an English teacher, I have routinely fought the good fight, only to be disregarded by my students in favor of musical artists who prefer rhyme and simplicity to correct grammar.  Lazy-assed bastards...
+    created_time: 2011-08-11T04:27:11+0000
+  - id: 790499637_10150400633404638_20608171
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: It's just too much!
+    created_time: 2011-08-11T07:45:39+0000
+  - id: 790499637_10150400633404638_20610055
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Oh, there are so many examples of lazy grammar!!  I'm so not perfect myself, but get really annoyed at blantant mistakes - in English as well as Swedish!!
+    created_time: 2011-08-11T10:40:08+0000
+  - id: 790499637_10150400633404638_20610061
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: ...blatant.  Bad spelling annoys me too!  ;-)
+    created_time: 2011-08-11T10:40:35+0000
+  - id: 790499637_10150400633404638_20612458
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: That bothers me, two!  (BWAHAHAHA)
+    created_time: 2011-08-11T14:08:54+0000
   - id: 790499637_10150400633404638_20612508
     from: 
       name: Keith Marran
@@ -49,8 +134,8 @@ comments:
     message: The last 15 years of teaching, I was appalled at the number of students who seemed unaware of the differences between their, there, and they're;  your and you're, and anything using (or not using) an apostrophe,  and assumed Spell Check was the ultimate word.  Email, FB and texting have done nothing to improve the situation.  I am a grammar grouch.
     created_time: 2011-08-11T20:54:10+0000
   count: 15
-layout: facebook-status
-title: Wednesday, Aug 10, 2011 - 05:54PM
+layout: status
+title: Wednesday, Aug 10, 2011 around 05:54PM
 date: 2011-08-10 17:54:05 -04:00
 
 ---

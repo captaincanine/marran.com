@@ -20,18 +20,21 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: app_created_story
 application: 
-  name: "foursquare "
+  name: Foursquare
   namespace: playfoursquare
   id: "86734274142"
 created_time: 2011-08-12T20:44:52+0000
 updated_time: 2011-08-12T20:44:52+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Friday, Aug 12, 2011 - 04:44PM
+layout: status-link
+title: Friday, Aug 12, 2011 around 04:44PM
 link-info: foursquare
 date: 2011-08-12 16:44:52 -04:00
 

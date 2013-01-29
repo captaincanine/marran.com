@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 application: 
   name: Facebook for iPhone
   namespace: fbiphone
@@ -28,6 +33,48 @@ likes:
   count: 2
 comments: 
   data: 
+  - id: 790499637_10150966692959638_26139499
+    from: 
+      name: Ian Geoghegan
+      id: "502447480"
+    message: It is because of the lady in red.
+    created_time: 2012-04-20T01:11:18+0000
+  - id: 790499637_10150966692959638_26139547
+    from: 
+      name: Gregory Seta
+      id: "100002115994439"
+    message: "No, but now it's in mine. \xC2\xA1Gracias!"
+    created_time: 2012-04-20T01:14:24+0000
+  - id: 790499637_10150966692959638_26139556
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: "Condolences "
+    created_time: 2012-04-20T01:15:13+0000
+  - id: 790499637_10150966692959638_26139776
+    from: 
+      name: David L Steele
+      id: "1407655463"
+    message: For the same reason 'Muscrat Love' from Captain and Tennille is stuck in my head. Meh.
+    created_time: 2012-04-20T01:28:47+0000
+  - id: 790499637_10150966692959638_26140111
+    from: 
+      name: Cerelle Centeno
+      id: "723168856"
+    message: Julio solo, or duet with Willie Nelson?
+    created_time: 2012-04-20T01:50:54+0000
+  - id: 790499637_10150966692959638_26140242
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Aigh! I had forgotten that Willie was in that as well. Ah...the 80's. http://countryuniverse.files.wordpress.com/2008/10/juliowillie.jpg
+    created_time: 2012-04-20T01:58:51+0000
+  - id: 790499637_10150966692959638_26140268
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I keep trying to rewrite the lyrics but I'm having a problem with the meter in the second line. I'm trying to rhyme "loved before" with "my backdoor". Any help would be appreciated.
+    created_time: 2012-04-20T01:59:53+0000
   - id: 790499637_10150966692959638_26141447
     from: 
       name: Sandra MacLeod
@@ -36,13 +83,13 @@ comments:
     created_time: 2012-04-20T03:11:29+0000
   - id: 790499637_10150966692959638_26145313
     from: 
-      name: "Antonio Jos\xC3\xA9 Borracho Alioto"
+      name: Antonio de la Madrugada
       id: "1133067992"
     message: ... who sauntered in through my backdoor?
     created_time: 2012-04-20T08:52:58+0000
   count: 9
-layout: facebook-status
-title: Thursday, Apr 19, 2012 - 08:48PM
+layout: status
+title: Thursday, Apr 19, 2012 around 08:48PM
 date: 2012-04-19 20:48:15 -04:00
 
 ---

@@ -8,8 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBCgHRLfqBZQvWB&w=90&h=9
 link: http://www.buzzfeed.com/mjs538/unhappiest-etsy-pug-models
 name: The 30 Unhappiest Etsy Pug Models
 caption: www.buzzfeed.com
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/183544111777053
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Links
   id: "2309869772"
@@ -31,10 +36,10 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Thursday, Jul 12, 2012 - 06:53AM
+layout: status-link
+title: Thursday, Jul 12, 2012 around 06:53AM
 link-info: You all look beautiful to me.
 date: 2012-07-12 06:53:06 -04:00
 
 ---
-
+Keith Marran shared a link.

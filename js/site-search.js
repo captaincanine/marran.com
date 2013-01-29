@@ -153,9 +153,9 @@ siteSearch = function(w) {
       var obj = $(ts);
       if (obj.find('.date').length > 0) {
         var date = $.timeago(obj.find('.date').text());
-        obj.children('a').append('<div class="timestamp">' + date + '</div>');
       }
-      $('#search-results').append(obj);
+      $('#search-results').append(obj.hide());
+      obj.slideDown('slow');
     }
     
     o.clearResults = function() {

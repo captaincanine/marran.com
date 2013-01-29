@@ -9,7 +9,7 @@ link: http://gawker.com/5918116/funnyjunks-lawyer-surprised-by-internets-negativ
 name: FunnyJunk's Lawyer Surprised by Internet's Negative Response to His Legal Threats, Wants to Pull Plu
 caption: gawker.com
 description: This story just gets funnier and funnier...
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/333287653416162
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -26,8 +31,8 @@ created_time: 2012-06-13T23:55:42+0000
 updated_time: 2012-06-13T23:55:42+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Wednesday, Jun 13, 2012 - 07:55PM
+layout: status-link
+title: Wednesday, Jun 13, 2012 around 07:55PM
 link-info: "\"I really did not expect that he would marshal an army of people who would besiege my website and send me a string of obscene emails,\" FunnyJunk's lawyer Charles Carreon told Digital Life's Rosa Golijan."
 date: 2012-06-13 19:55:42 -04:00
 

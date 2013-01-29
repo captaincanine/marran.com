@@ -63,7 +63,7 @@
 
 @import url("http://fonts.googleapis.com/css?family=Londrina+Solid|Londrina+Sketch|Londrina+Outline|Londrina+Shadow");
 
-h2,h3   { font-family: @displayFontFamily; color: @maroon; }
+h2,h3   { font-family: @displayFontFamily; color: @maroon; -webkit-font-smoothing: antialiased; }
 
 
 /* HEADER */
@@ -76,7 +76,7 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
   line-height: 1.2em;
   margin:      20px 0;
   position:    relative;
-   -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
 
   #logo     { font-size: 72px; line-height: 68px; color: @cyan; }
   #about    { font-size: 20px; line-height: 18px; color: @maroon; padding-top: 72px; }
@@ -149,11 +149,11 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
 .third.row .keyword,
 .fourth.row .keyword   { background-image: none; }
 
-@media (max-width: 480px) {
+@media (max-width: 768px) {
   .first.row .title,
   .second.row .title,
   .third.row .title,
-  .fourth.row .title    { font-size: 30px !important; line-height: 30px !important; }
+  .fourth.row .title    { font-size: 24px !important; line-height: 24px !important; }
 }
 
 
@@ -169,6 +169,12 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
     .teaser       { padding: 8px 0 0; border-top: 1px dotted @grayLight; }
     .teaser.first { border-top: none; }
     a  { color: @textColor; }
+    img     { margin: 0; }
+    .info  { 
+      font-size: 13px; line-height: 14px; 
+      a   { color: @linkColor; }
+    }
+    .description  { margin-bottom: 6px; }
   }
 
   #popular-tags   {
@@ -209,7 +215,8 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
 
   .search-entry { 
   
-    padding: 10px 20px; 
+    padding: 12px 0 10px; 
+    border-bottom: 1px dotted @grayLight;
     
     &.selected  { background: @grayLighter; }
     
@@ -218,6 +225,7 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
     .title a    { color: @maroon !important; }
     .timestamp  { font-size: 11px; color: @grayLight; }
     .date       { display: none; }
+    .description  { margin-bottom: 6px; }
 
   }
 
@@ -260,6 +268,53 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
   
 }
 
+.status {
+
+  h3    { color: @orange; font-size: 18px; }
+  
+  .comments { 
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 18px;
+    
+    padding: 0 40px; 
+    
+    .comment    { margin: 12px 0; }
+    .commentor  { color: @grayLight; font-size: 13px; line-height: 14px; margin: 4px 0 0 20px; }
+  
+  }
+
+  .content { margin: 20px 0 40px; font-size: 28px; line-height: 36px; font-weight: bold; }
+  
+  #main .title  {
+    background: @orange url('/images/stripes-gold.png') no-repeat bottom right; 
+    padding: 8px 12px 5px;
+    color: @white; font-family: @displayFontFamily; font-size: 18px; line-height: 18px; -webkit-font-smoothing: antialiased;
+  }
+  
+  .video {
+    margin: 20px 0; 
+    video { max-width: 100%; }
+  }
+  
+  .link {
+    font-size: 14px; 
+    line-height: 18px;
+    font-weight: normal;
+    margin: 20px 0;
+    .icon { 
+      float: left; margin-right: 10px; max-width: 200px;
+      img     { margin-top: 0 !important; }
+    }
+    .caption {
+      color: @grayLight; 
+      font-size: 12px;
+    }
+  
+  }
+
+}
+
 #middle {
 
   .next-box		{ 
@@ -271,7 +326,7 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; }
     .title a        { color: @maroon; }
   }
 
-  img         { margin: 18px 0; border: 1px solid @gray; }
+  img         { margin: 18px 0; border: 1px solid @grayLighter; }
   .main img   { margin-top: 0; border: 0; width: 100%; }
 
   .photoset {

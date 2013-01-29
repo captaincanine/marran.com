@@ -4,16 +4,19 @@ from:
   name: Keith Marran
   id: "790499637"
 story: Keith Marran added 2 new photos.
-picture: http://photos-d.ak.fbcdn.net/hphotos-ak-snc6/188572_10150192950989638_950535_s.jpg
-link: http://www.facebook.com/photo.php?fbid=10150192950989638&set=a.490588709637.298813.790499637&type=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+picture: http://photos-b.xx.fbcdn.net/hphotos-snc6/189483_10150192951764638_2854924_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150192951764638&set=a.490588709637.298813.790499637&type=1&relevant_count=2
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yM/x/og8V99JVf8G.gif
 privacy: 
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: photo
-object_id: "10150192950989638"
+status_type: added_photos
+object_id: "10150192951764638"
 application: 
   name: Facebook for iPhone
   namespace: fbiphone
@@ -22,9 +25,12 @@ created_time: 2011-02-28T23:44:40+0000
 updated_time: 2011-02-28T23:44:40+0000
 comments: 
   count: 0
-layout: facebook-photo
-title: Monday, Feb 28, 2011 - 06:44PM
+layout: status-photo
+title: Monday, Feb 28, 2011 around 06:44PM
+images: 
+- thumbnail: /statuses/photo/189483_10150192951764638_2854924_s.jpg
+  fullsize: /statuses/photo/189483_10150192951764638_2854924_n.jpg
 date: 2011-02-28 18:44:40 -05:00
 
 ---
-
+Keith Marran added 2 new photos.

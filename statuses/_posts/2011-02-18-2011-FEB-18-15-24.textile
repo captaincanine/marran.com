@@ -9,7 +9,7 @@ link: http://ping.fm/9L0Pn
 name: What Theater Should I see in NYC?
 caption: www.marran.com
 description: Per the request of a friend, I put together my list of plays running in NYC for the next few months
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/142705475793032
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Ping.fm
   namespace: pingdotfm
@@ -38,8 +41,8 @@ likes:
   count: 3
 comments: 
   count: 0
-layout: facebook-link
-title: Friday, Feb 18, 2011 - 03:24PM
+layout: status-link
+title: Friday, Feb 18, 2011 around 03:24PM
 link-info: I often get asked what's currently running in the NYC theater scene, so I decided to put it in a blog post for anyone else that may be interested.
 date: 2011-02-18 15:24:47 -05:00
 

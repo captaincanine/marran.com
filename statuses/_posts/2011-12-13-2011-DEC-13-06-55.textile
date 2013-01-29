@@ -8,8 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCxkK053r-HqNyR&w=90&h=9
 link: http://www.geeksout.org/blogs/george-takei-zen-gay-geek-warrior
 name: George Takei - Zen, Gay, Geek Warrior
 caption: www.geeksout.org
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/160408427392947
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2011-12-13T11:55:59+0000
 updated_time: 2011-12-13T11:55:59+0000
 likes: 
@@ -30,10 +35,10 @@ likes:
   count: 2
 comments: 
   count: 0
-layout: facebook-link
-title: Tuesday, Dec 13, 2011 - 06:55AM
+layout: status-link
+title: Tuesday, Dec 13, 2011 around 06:55AM
 link-info: Icons of Star Trek and Star Wars recently took to the internet arguing that their franchise reigned supreme. When things got personal, George Takei--the only actor who has worked in both--stepped in to broker the peace by identifying a mutual threat.
 date: 2011-12-13 06:55:59 -05:00
 
 ---
-
+Keith Marran shared a link.

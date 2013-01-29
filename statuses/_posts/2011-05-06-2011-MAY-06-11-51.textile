@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 application: 
   name: Facebook for iPhone
   namespace: fbiphone
@@ -28,6 +31,43 @@ likes:
   count: 1
 comments: 
   data: 
+  - id: 790499637_10150287667629638_18094548
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: whip it, whip it good. whip it, whip it real good!
+    created_time: 2011-05-06T15:53:45+0000
+    likes: 2
+  - id: 790499637_10150287667629638_18094625
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Could be yummy.  Report please! :)
+    created_time: 2011-05-06T15:57:04+0000
+  - id: 790499637_10150287667629638_18094635
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Good luck!
+    created_time: 2011-05-06T15:57:34+0000
+  - id: 790499637_10150287667629638_18094776
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: It's a snap, and well worth it!
+    created_time: 2011-05-06T16:02:42+0000
+  - id: 790499637_10150287667629638_18096931
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Well...two attempts and two batches of olive oil soup. I'll try again another day and use a whisk instead of an immersion blender. And I will add the olive oil painfully slowly.
+    created_time: 2011-05-06T17:33:51+0000
+  - id: 790499637_10150287667629638_18097517
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: sounds like over-mixing. I like the Joy of Cooking blender mayo receipt myself.  better luck next time!
+    created_time: 2011-05-06T17:57:32+0000
   - id: 790499637_10150287667629638_18097648
     from: 
       name: Keith Marran
@@ -41,8 +81,8 @@ comments:
     message: Whiz it up in the food processor, and drizzle the oil slowly through the little opening in the top. Should come together and thicken up easily.
     created_time: 2011-05-06T18:22:46+0000
   count: 8
-layout: facebook-status
-title: Friday, May  6, 2011 - 11:51AM
+layout: status
+title: Friday, May  6, 2011 around 11:51AM
 date: 2011-05-06 11:51:00 -04:00
 
 ---

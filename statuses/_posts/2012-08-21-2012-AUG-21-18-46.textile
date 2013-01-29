@@ -6,7 +6,7 @@ from:
 message: Just a few feet from a Bighorn Ram in The Badlands.
 picture: http://photos-h.ak.fbcdn.net/hphotos-ak-snc7/387118_10151370635189638_1774908460_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151370635189638&set=a.490588709637.298813.790499637&type=1&relevant_count=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yM/x/og8V99JVf8G.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151370636229638
@@ -15,6 +15,10 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: photo
 status_type: added_photos
 object_id: "10151370635189638"
@@ -37,8 +41,11 @@ likes:
   count: 5
 comments: 
   count: 0
-layout: facebook-photo
-title: Tuesday, Aug 21, 2012 - 06:46PM
+layout: status-photo
+title: Tuesday, Aug 21, 2012 around 06:46PM
+images: 
+- thumbnail: /statuses/photo/387118_10151370635189638_1774908460_s.jpg
+  fullsize: /statuses/photo/387118_10151370635189638_1774908460_n.jpg
 date: 2012-08-21 18:46:45 -04:00
 
 ---

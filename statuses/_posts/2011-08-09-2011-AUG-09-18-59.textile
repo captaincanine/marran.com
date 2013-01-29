@@ -9,7 +9,7 @@ link: http://www.popcrunch.com/most-confusing-films/
 name: 15 Of The Most Confusing Films Ever Made
 caption: www.popcrunch.com
 description: "How could this be? I've seen most of the movies on this list, but I hadn't even HEARD of #1!?"
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/117094575056002
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -28,6 +31,37 @@ created_time: 2011-08-09T22:59:13+0000
 updated_time: 2011-08-19T03:26:40+0000
 comments: 
   data: 
+  - id: 790499637_117094575056002_93023
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Primer was AWESOME!  Incomprehensible, but the web helped a lot.  highly recommended.
+    created_time: 2011-08-09T23:26:22+0000
+  - id: 790499637_117094575056002_93274
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Great list!
+    created_time: 2011-08-10T01:35:01+0000
+  - id: 790499637_117094575056002_93846
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: Joel is right. See Primer immediately!
+    created_time: 2011-08-10T05:11:56+0000
+  - id: 790499637_117094575056002_94041
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Leslie is right.  See it immediately!  Attached is a link to the timeline that was essential to even coming close to following the movie.  But the important thing is that the movie is charming and cool even before it becomes a mindfuck.  http://neuwanstein.fw.hu/primer_timeline.html
+    created_time: 2011-08-10T06:45:35+0000
+    likes: 1
+  - id: 790499637_117094575056002_94317
+    from: 
+      name: Cor Kalkman
+      id: "100000143812901"
+    message: Great list! I am going to catch up on the one's I missed..
+    created_time: 2011-08-10T08:50:47+0000
   - id: 790499637_117094575056002_96735
     from: 
       name: Keith Marran
@@ -41,8 +75,8 @@ comments:
     message: Always trust you to post some good stuff! Thanks for the list.
     created_time: 2011-08-19T03:26:40+0000
   count: 7
-layout: facebook-link
-title: Tuesday, Aug  9, 2011 - 06:59PM
+layout: status-link
+title: Tuesday, Aug  9, 2011 around 06:59PM
 link-info: "Most films are pretty linear and easy to follow in their story telling. Others are muddled, but make sense when you think about them \xE2\x80\x94 like Memento. But"
 date: 2011-08-09 18:59:13 -04:00
 

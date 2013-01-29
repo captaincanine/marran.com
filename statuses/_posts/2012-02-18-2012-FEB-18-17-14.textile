@@ -1,23 +1,26 @@
 --- 
-id: 790499637_10150798348714638
+id: 790499637_10150798348719638
 from: 
   name: Keith Marran
   id: "790499637"
 message: I got a nice greeting from Oz last night when he got home from the office. TGIF!
 picture: http://photos-a.ak.fbcdn.net/hphotos-ak-snc7/427052_10150798348664638_397386933_s.jpg
-link: http://www.facebook.com/photo.php?fbid=10150798348664638&set=a.229486624637.178410.790499637&type=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+link: http://www.facebook.com/photo.php?fbid=10150798348664638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
 actions: 
 - name: Comment
-  link: http://www.facebook.com/790499637/posts/10150798348714638
+  link: http://www.facebook.com/790499637/posts/10150798348719638
 - name: Like
-  link: http://www.facebook.com/790499637/posts/10150798348714638
+  link: http://www.facebook.com/790499637/posts/10150798348719638
 privacy: 
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: photo
+status_type: added_photos
 object_id: "10150798348664638"
 application: 
   name: Aperture
@@ -37,19 +40,19 @@ likes:
   count: 5
 comments: 
   data: 
-  - id: 790499637_10150798348714638_8044605
+  - id: 790499637_10150798348719638_8044605
     from: 
       name: David L Steele
       id: "1407655463"
     message: Cute doggy.
     created_time: 2012-02-18T22:26:42+0000
-  - id: 790499637_10150798348714638_8044923
+  - id: 790499637_10150798348719638_8044923
     from: 
       name: Eric M. Kaufman
       id: "578090465"
     message: Mine always try to slip me the tongue...
     created_time: 2012-02-18T23:15:49+0000
-  - id: 790499637_10150798348714638_8050923
+  - id: 790499637_10150798348719638_8050923
     from: 
       name: Uma Nt
       id: "100000074495843"
@@ -58,8 +61,11 @@ comments:
       You seem to have lost a lot of weight.
     created_time: 2012-02-19T17:11:57+0000
   count: 3
-layout: facebook-photo
-title: Saturday, Feb 18, 2012 - 05:14PM
+layout: status-photo
+title: Saturday, Feb 18, 2012 around 05:14PM
+images: 
+- thumbnail: /statuses/photo/427052_10150798348664638_397386933_s.jpg
+  fullsize: /statuses/photo/427052_10150798348664638_397386933_n.jpg
 date: 2012-02-18 17:14:38 -05:00
 
 ---

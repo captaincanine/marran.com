@@ -9,7 +9,7 @@ link: http://deadspin.com/5924827/american-baby-names-are-somehow-getting-even-w
 name: American Baby Names Are Somehow Getting Even Worse
 caption: deadspin.com
 description: Now I want a kid. Just so I can name him Zebulon.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/390826107639526
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -30,13 +35,56 @@ likes:
     id: "502849778"
   - name: Linda Rosenson Coe
     id: "1440111516"
-  - name: Marcie Morton Sobelman
-    id: "1275161562"
   - name: Andrea Miklasz
     id: "629554115"
-  count: 6
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 5
 comments: 
   data: 
+  - id: 790499637_390826107639526_76918426
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Let's not show this to Claudio.
+    created_time: 2012-07-14T13:36:43+0000
+  - id: 790499637_390826107639526_76918457
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    message: And Xylethia if it's a girl?
+    created_time: 2012-07-14T13:49:02+0000
+  - id: 790499637_390826107639526_76918592
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: I thought we were being a little offbeat and cool just naming our son Lucas, though he dreads that name now and only will answer to "Luke." The reality? There are THREE Lucas' in his class. Who knew?
+    created_time: 2012-07-14T14:31:24+0000
+  - id: 790499637_390826107639526_76918596
+    from: 
+      name: Josh Siegel
+      id: "621816545"
+    message: A lot of these would actually be pretty awesome middle names.
+    created_time: 2012-07-14T14:33:30+0000
+  - id: 790499637_390826107639526_76918598
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Xylenthia is if it's a pharmaceutical.
+    created_time: 2012-07-14T14:33:45+0000
+    likes: 3
+  - id: 790499637_390826107639526_76918754
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: Zeb's a cute name.
+    created_time: 2012-07-14T15:28:27+0000
+  - id: 790499637_390826107639526_76918769
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: "\"Zerrika\" reminds me of The Flaming Lips' experimental album \"Zaireeka\" which was a clusterfuck, yet brilliant. I agree with Debbie that \"Zeb\" is a cute name, but I would formalize it as \"Zebediah.\" And \"Diesel?\" WTF is that?"
+    created_time: 2012-07-14T15:33:37+0000
   - id: 790499637_390826107639526_76918998
     from: 
       name: Jennifer Brown
@@ -50,8 +98,8 @@ comments:
     message: You can have my son, Keith.  He turned 5 today and I'm ready to exchange him for a toaster...
     created_time: 2012-07-15T01:24:35+0000
   count: 9
-layout: facebook-link
-title: Saturday, Jul 14, 2012 - 09:19AM
+layout: status-link
+title: Saturday, Jul 14, 2012 around 09:19AM
 link-info: My wife has a subscription to Parents magazine, and the fun thing about Parents magazine is that every issue is virtually identical.  Whether you pick up the June 2008 issue or the March 2012 issue, you're still getting all the same shit, including items like "567 fun knitting crafts to help stave.....
 date: 2012-07-14 09:19:55 -04:00
 

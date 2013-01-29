@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 application: 
   name: Facebook for iPhone
   namespace: fbiphone
@@ -32,8 +35,8 @@ likes:
   count: 3
 comments: 
   count: 0
-layout: facebook-status
-title: Saturday, May 21, 2011 - 04:39AM
+layout: status
+title: Saturday, May 21, 2011 around 04:39AM
 date: 2011-05-21 04:39:04 -04:00
 
 ---

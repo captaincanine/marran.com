@@ -6,13 +6,15 @@ from:
 story: Keith Marran was tagged in Rob Velasco's photo.
 picture: http://photos-c.ak.fbcdn.net/hphotos-ak-snc7/581617_4248927234697_1689567582_s.jpg
 link: http://www.facebook.com/photo.php?fbid=4248927234697&set=at.4248898353975.164384.1631202087.790499637&type=1&relevant_count=1
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+description: Keith Marran was tagged in Rob Velasco's photo.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151468032849638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151468032849638
+privacy: 
+  value: ""
 type: photo
 status_type: tagged_in_photo
 object_id: "4248927234697"
@@ -28,10 +30,13 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-photo
-title: Sunday, Oct 14, 2012 - 03:15PM
+layout: status-photo
+title: Sunday, Oct 14, 2012 around 03:15PM
 link-info: Geeks Out Rule!
+images: 
+- thumbnail: /statuses/photo/581617_4248927234697_1689567582_s.jpg
+  fullsize: /statuses/photo/581617_4248927234697_1689567582_n.jpg
 date: 2012-10-14 15:15:49 -04:00
 
 ---
-
+Keith Marran was tagged in Rob Velasco's photo.

@@ -9,7 +9,7 @@ link: http://gawker.com/5842995/a-starlets-guide-to-dealing-with-upskirt-photogr
 name: A Starlet's Guide to Dealing With Upskirt Photographs, Featuring Upskirt Photographs
 caption: gawker.com
 description: I don't know why I find this so funny.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/262643287108843
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -26,8 +31,8 @@ created_time: 2011-09-25T22:13:20+0000
 updated_time: 2011-09-25T22:13:20+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Sunday, Sep 25, 2011 - 06:13PM
+layout: status-link
+title: Sunday, Sep 25, 2011 around 06:13PM
 link-info: "Royal horror: Pippa Middle got into an upskirt photo situation at London Fashion Week. Now, the easiest way to avoid an upskirt photograph is to plan ahead (no floaty skirts on windy days) or wear a longer skirt or pants."
 date: 2011-09-25 18:13:20 -04:00
 

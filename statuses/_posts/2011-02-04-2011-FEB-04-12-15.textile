@@ -13,12 +13,47 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-02-04T17:15:46+0000
 updated_time: 2011-02-04T23:05:00+0000
 comments: 
   data: 
+  - id: 790499637_162136370504608_1811546
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: Veggie Lasagna with garlic bread is always an easy feast. Opening with Veg Minestrone and Grape juice for the yougins. Chianti for the adults.
+    created_time: 2011-02-04T17:18:45+0000
+    likes: 1
+  - id: 790499637_162136370504608_1811598
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Kirsten and and I are discussing your dilemma. We say we like the mac n cheese.  But you need some veg to lighten it up, something decidedly un-creamy.  Roasted veggies?  Salad?  Like roasted brussels sprouts with balsamic? Or maybe sauteed kale and white beans? This recipe is so good! http://www.foodnetwork.com/recipes/aarti-sequeira/greens-n-beans-recipe/index.html
+    created_time: 2011-02-04T17:24:40+0000
+    likes: 1
+  - id: 790499637_162136370504608_1811624
+    from: 
+      name: Veronique Wolwowicz Rader
+      id: "604902503"
+    message: spaghetti bolognese with TVP ( textured vegetable protein instead of beef) . Tastes like the real thing and my kids love it ! also little egg casserole (w/eggs or similar) in a 12 muffin pan, with indeed spinach, tomato cheddar or swiss. It small , very colorful and kid friendly. Adults can add tabasco ! there is a wold of possibilities...and if you want to cook with Tofu...then it is never ending...
+    created_time: 2011-02-04T17:27:35+0000
+  - id: 790499637_162136370504608_1811659
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: All good suggestions so far. I had not considered making baked eggs in a muffin pan for a group. That's a great idea. I'm now thinking minestrone with a ton of veggies, mac & cheese, and baked eggs with spinach and tomato and a little cheese on top.
+    created_time: 2011-02-04T17:30:51+0000
+  - id: 790499637_162136370504608_1811899
+    from: 
+      name: Brett Bishop
+      id: "1203637433"
+    message: how about spanakopita?
+    created_time: 2011-02-04T18:08:26+0000
   - id: 790499637_162136370504608_1812917
     from: 
       name: Andrew Farrell
@@ -32,8 +67,8 @@ comments:
     message: lentil and ricotta patties can be placed in a burger bun and eaten like a hamburger or made into little bite size balls as a starter. Add a little curry to the mixture before cooking and they're yuuuummm!!
     created_time: 2011-02-04T23:05:00+0000
   count: 7
-layout: facebook-status
-title: Friday, Feb  4, 2011 - 12:15PM
+layout: status
+title: Friday, Feb  4, 2011 around 12:15PM
 date: 2011-02-04 12:15:46 -05:00
 
 ---

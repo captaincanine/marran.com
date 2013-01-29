@@ -9,7 +9,7 @@ link: http://thewirecutter.com/2011/10/steve-jobs-was-always-kind-to-me-or-regre
 name: Steve Jobs Was Always Kind To Me (Or, Regrets of An Asshole)
 caption: thewirecutter.com
 description: Very sweet story about Steve Jobs.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/y2/x/0HZPW6-lhQu.png
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/257157287655305
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Likes
   id: "2409997254"
@@ -33,8 +36,8 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Thursday, Oct  6, 2011 - 06:50AM
+layout: status-link
+title: Thursday, Oct  6, 2011 around 06:50AM
 link-info: I met Steve Jobs while I worked at Gizmodo. He was always a gentleman. Steve liked me and he liked Gizmodo. And I liked him back. Some of my friends who I use
 date: 2011-10-06 06:50:07 -04:00
 

@@ -8,8 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBFUe5oTTsjmFVh&w=90&h=9
 link: http://shar.es/fdfX9
 name: T-Rex Trying...
 caption: trextrying.tumblr.com
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/248292291915958
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -26,10 +31,10 @@ created_time: 2012-02-04T18:37:17+0000
 updated_time: 2012-02-04T18:37:17+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Saturday, Feb  4, 2012 - 01:37PM
+layout: status-link
+title: Saturday, Feb  4, 2012 around 01:37PM
 link-info: The Unfortunate Trials of The Tyrant Lizard King, By Hugh Murphy Follow @TRexTrying hit counter
 date: 2012-02-04 13:37:17 -05:00
 
 ---
-
+Keith Marran shared a link.

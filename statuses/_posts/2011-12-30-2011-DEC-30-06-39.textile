@@ -13,11 +13,14 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 application: 
   name: Facebook for iPad
-  namespace: fbipad
+  namespace: fbipad_
   id: "173847642670370"
 created_time: 2011-12-30T11:39:41+0000
 updated_time: 2011-12-30T15:57:25+0000
@@ -34,6 +37,18 @@ likes:
   count: 7
 comments: 
   data: 
+  - id: 790499637_10150653632199638_23953434
+    from: 
+      name: Robert Lucas
+      id: "100000816082478"
+    message: Enjoy every $100 of your purchases! 2012 is the year of the Euro-hipster.
+    created_time: 2011-12-30T12:12:14+0000
+  - id: 790499637_10150653632199638_23955906
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: What will your duty tax be like when you come home???
+    created_time: 2011-12-30T15:17:05+0000
   - id: 790499637_10150653632199638_23955952
     from: 
       name: Kirsten Murray
@@ -47,8 +62,8 @@ comments:
     message: "I thought I was done shopping, but the Heathrow Pink store squeezed a few more pounds out of me. "
     created_time: 2011-12-30T15:57:25+0000
   count: 4
-layout: facebook-status
-title: Friday, Dec 30, 2011 - 06:39AM
+layout: status
+title: Friday, Dec 30, 2011 around 06:39AM
 date: 2011-12-30 06:39:41 -05:00
 
 ---

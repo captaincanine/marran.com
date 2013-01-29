@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-03-17T16:50:58+0000
 updated_time: 2011-03-17T22:07:39+0000
 likes: 
@@ -30,6 +33,25 @@ likes:
   count: 7
 comments: 
   data: 
+  - id: 790499637_10150209396234638_16735778
+    from: 
+      name: Dave Gonzales
+      id: "1331442386"
+    message: You and me both.  I couldn't even do them this year.  Had to have my hubby do them for me.  Thank god for willing partners.  lol
+    created_time: 2011-03-17T16:53:51+0000
+  - id: 790499637_10150209396234638_16737170
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: To save myself the trouble, I just gave them everything I had of value - my checkbook, the deed to my house, the pink slips to our cars, and all my future earnings.  They wrote back and said that I still owed them everything I have of sentimental value as well - kids' drawings, photos, etc.  After I sent them all that stuff (postage paid, of course) they cited some obscure provision of the tax code and said that they needed to -- and had the right to -- punch me in the face.  I accepted those terms immediately as well and booked a flight to D.C.  Will give you further updates as this tense negotiation continues.
+    created_time: 2011-03-17T18:00:10+0000
+    likes: 2
+  - id: 790499637_10150209396234638_16737360
+    from: 
+      name: Dave Gonzales
+      id: "1331442386"
+    message: LOL
+    created_time: 2011-03-17T18:09:05+0000
   - id: 790499637_10150209396234638_16743163
     from: 
       name: Keith Marran
@@ -43,8 +65,8 @@ comments:
     message: Ha ha! Me too. I am going to do that deed on Saturday.
     created_time: 2011-03-17T22:07:39+0000
   count: 5
-layout: facebook-status
-title: Thursday, Mar 17, 2011 - 12:50PM
+layout: status
+title: Thursday, Mar 17, 2011 around 12:50PM
 date: 2011-03-17 12:50:58 -04:00
 
 ---

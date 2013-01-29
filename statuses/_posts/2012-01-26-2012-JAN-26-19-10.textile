@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2012-01-27T00:10:12+0000
 updated_time: 2012-01-27T04:12:30+0000
 likes: 
@@ -28,6 +33,24 @@ likes:
   count: 7
 comments: 
   data: 
+  - id: 790499637_10150728244549638_24554082
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: May it not be a "Titanic" moment :-)
+    created_time: 2012-01-27T00:21:44+0000
+  - id: 790499637_10150728244549638_24554249
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: You found one?  I can't locate one out of stock everywhere!
+    created_time: 2012-01-27T00:31:14+0000
+  - id: 790499637_10150728244549638_24554362
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: What makes it ultra-gay?  I guess the one we have is a boring hetero...
+    created_time: 2012-01-27T00:37:07+0000
   - id: 790499637_10150728244549638_24555150
     from: 
       name: Sara Holoubek
@@ -41,8 +64,8 @@ comments:
     message: You need to post a pic of you using it!
     created_time: 2012-01-27T04:12:30+0000
   count: 5
-layout: facebook-status
-title: Thursday, Jan 26, 2012 - 07:10PM
+layout: status
+title: Thursday, Jan 26, 2012 around 07:10PM
 date: 2012-01-26 19:10:12 -05:00
 
 ---

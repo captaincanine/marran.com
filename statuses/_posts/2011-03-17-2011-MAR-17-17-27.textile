@@ -9,7 +9,7 @@ link: http://www.flickr.com/photos/keith-marran/5535813462/
 name: Second Knitting Project
 caption: www.flickr.com
 description: "I finally finished David's winter scarf. It's now a 2011-12 winter scarf. I'm starting work on a hat to match. I hope to be done before October. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/206237546069066
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2011-03-17T21:27:47+0000
 updated_time: 2011-03-18T03:36:06+0000
 likes: 
@@ -36,6 +39,36 @@ likes:
   count: 4
 comments: 
   data: 
+  - id: 790499637_206237546069066_2939839
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Pattern is great! And it looks to be very smooth and even, excellent job for only your second project! :-)
+    created_time: 2011-03-17T21:54:18+0000
+  - id: 790499637_206237546069066_2939845
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Thank you! There are a couple of rough spots that are hidden, but overall it came out well. The pattern was so dull that I never want to do a scarf again. After this it's hats and gloves - shorter and more interesting projects.
+    created_time: 2011-03-17T21:56:34+0000
+  - id: 790499637_206237546069066_2939991
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: Awesome! You're a machine (speaking to the uniformity of the pattern).
+    created_time: 2011-03-17T22:30:57+0000
+  - id: 790499637_206237546069066_2939999
+    from: 
+      name: Kirsten Anderson
+      id: "1514824300"
+    message: Looks great! So how are those gloves coming along? The ones I was supposed to give you finger-making help on, and I don't think I ever actually did?
+    created_time: 2011-03-17T22:32:56+0000
+  - id: 790499637_206237546069066_2940050
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: You can work on a scarf for me if ya want?  :)
+    created_time: 2011-03-17T22:45:43+0000
   - id: 790499637_206237546069066_2941099
     from: 
       name: Uma Nt
@@ -51,8 +84,8 @@ comments:
     message: You continue to amaze me Keith!  Love you.
     created_time: 2011-03-18T03:36:06+0000
   count: 7
-layout: facebook-link
-title: Thursday, Mar 17, 2011 - 05:27PM
+layout: status-link
+title: Thursday, Mar 17, 2011 around 05:27PM
 link-info: My second knitting project was a scarf for David.
 date: 2011-03-17 17:27:47 -04:00
 

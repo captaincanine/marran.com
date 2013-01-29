@@ -61,32 +61,7 @@ layout: html
 
           {% include search.html %}
 
-          <div id="statuses">
-            <div class="header">Off the cuff</div>
-          
-            {% for post in site.categories['statuses'] limit:10 %}
-
-              <div class="teaser{% if (forloop.first) %} first{% endif %}">
-                <div class="timestamp"><script language="javascript">document.write($.timeago('{{ post.date }}'))</script></div>
-                <div class="description"><a href="{{ post.url }}">{{ post.content }}</a></div>
-              
-                {% if (post.picture) %}
-                
-                  <div class="row">
-                    <div class="span1"><div class="image"><img src="{{ post.picture }}" /></a></div></div>
-                    {% if (post.link-info) %}
-                      <div class="span3"><div class="info"><a href="{{ post.url }}">{{ post.link-info }}</a></div></div>
-                    {% endif %}
-                  </div>
-                
-                {% endif %}
-              
-              
-              </div>
-
-            {% endfor %}
-
-          </div>
+          {% include statuses.html %}
 
           <div id="popular-tags">
             <div class="header">Popular Tags</div>

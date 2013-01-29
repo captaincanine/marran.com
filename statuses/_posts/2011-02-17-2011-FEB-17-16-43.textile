@@ -9,7 +9,7 @@ link: http://ping.fm/fHfjr
 name: Arrival in Rome
 caption: www.marran.com
 description: The first two days of our trip to Rome are posted on my site (with pictures!). More is on the way.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/126906344048675
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Ping.fm
   namespace: pingdotfm
@@ -41,8 +44,8 @@ comments:
     message: Love the via dei coronari shot. We rented an apt last year right around the corner from there, near santa maria della pace. So lovely.
     created_time: 2011-02-17T22:27:56+0000
   count: 1
-layout: facebook-link
-title: Thursday, Feb 17, 2011 - 04:43PM
+layout: status-link
+title: Thursday, Feb 17, 2011 around 04:43PM
 link-info: David was short of making Executive Platinum on American Airlines by just a couple of thousand miles. The end result was a trip to Rome for the week of Christmas, and I could not have been happier.
 date: 2011-02-17 16:43:54 -05:00
 

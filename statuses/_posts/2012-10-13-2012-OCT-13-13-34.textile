@@ -6,13 +6,15 @@ from:
 story: Keith Marran was tagged in Geeks OUT's photo.
 picture: http://photos-b.xx.fbcdn.net/hphotos-ash3/47929_484449631589805_116963549_s.jpg
 link: http://www.facebook.com/photo.php?fbid=484449631589805&set=at.484125674955534.114788.157044360997002.790499637&type=1&relevant_count=1
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+description: Keith Marran was tagged in Geeks OUT's photo.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151466173834638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151466173834638
+privacy: 
+  value: ""
 type: photo
 status_type: tagged_in_photo
 object_id: "484449631589805"
@@ -34,6 +36,19 @@ likes:
   count: 15
 comments: 
   data: 
+  - id: 790499637_10151466173834638_1286911
+    from: 
+      name: Andy Lefkowitz
+      id: "13808889"
+    message: Adorable!
+    created_time: 2012-10-13T17:36:27+0000
+  - id: 790499637_10151466173834638_1287177
+    from: 
+      name: Adam Cohen
+      id: "100002476985343"
+    message: Ooh. A Tabak in a cape.
+    created_time: 2012-10-13T21:45:48+0000
+    likes: 1
   - id: 790499637_10151466173834638_1287396
     from: 
       name: Marc D'Urso
@@ -48,10 +63,13 @@ comments:
     message: I have no idea what this photo is about but Keith, you are looking very sweet!!
     created_time: 2012-10-14T10:39:15+0000
   count: 4
-layout: facebook-photo
-title: Saturday, Oct 13, 2012 - 01:34PM
+layout: status-photo
+title: Saturday, Oct 13, 2012 around 01:34PM
 link-info: Just a sample of some of the fabulous people that stopped by our booth this year!
+images: 
+- thumbnail: /statuses/photo/47929_484449631589805_116963549_s.jpg
+  fullsize: /statuses/photo/47929_484449631589805_116963549_n.jpg
 date: 2012-10-13 13:34:48 -04:00
 
 ---
-
+Keith Marran was tagged in Geeks OUT's photo.

@@ -9,7 +9,7 @@ link: http://lifehacker.com/5921433/two-lists-you-should-look-at-every-morning
 name: Two Lists You Should Look at Every Morning
 caption: lifehacker.com
 description: I think this is my new daily habit...
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/400781126625332
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -31,8 +36,8 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Tuesday, Jun 26, 2012 - 09:28PM
+layout: status-link
+title: Tuesday, Jun 26, 2012 around 09:28PM
 link-info: The speed with which information hurtles towards us is unavoidable, and it's getting worse. But trying to catch up is counterproductive. Strategic advisor Peter Bregman explains how two simple lists can help us organize what's important. I was late for my meeting with the CEO of a technology...
 date: 2012-06-26 21:28:59 -04:00
 

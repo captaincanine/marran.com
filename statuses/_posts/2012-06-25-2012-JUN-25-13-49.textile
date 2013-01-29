@@ -9,7 +9,7 @@ link: http://lifehacker.com/5921095/facebook-just-changed-your-email-without-per
 name: Facebook Just Changed Your Email Without Permission; Here's How to Get It Back
 caption: lifehacker.com
 description: Oh Facebook. Did you really think we would not notice this?
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/383163448410132
@@ -18,15 +18,18 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2012-06-25T17:49:02+0000
 updated_time: 2012-06-25T17:49:02+0000
-shares: 
-  count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Monday, Jun 25, 2012 - 01:49PM
+layout: status-link
+title: Monday, Jun 25, 2012 around 01:49PM
 link-info: Facebook just removed everyone's email address from their profile and replaced it with an @facebook.com email address without asking you. Here's how to easily fix the problem.
 date: 2012-06-25 13:49:02 -04:00
 

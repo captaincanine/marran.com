@@ -5,8 +5,8 @@ from:
   id: "790499637"
 message: And here is the awkward photo
 picture: http://photos-c.ak.fbcdn.net/hphotos-ak-snc6/230002_10150278737129638_4807684_s.jpg
-link: http://www.facebook.com/photo.php?fbid=10150278737129638&set=a.490588709637.298813.790499637&type=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+link: http://www.facebook.com/photo.php?fbid=10150278737129638&set=a.490588709637.298813.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yM/x/og8V99JVf8G.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10150278737184638
@@ -16,8 +16,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: photo
+status_type: added_photos
 object_id: "10150278737129638"
 application: 
   name: Facebook for iPhone
@@ -38,6 +41,62 @@ likes:
   count: 5
 comments: 
   data: 
+  - id: 790499637_10150278737184638_5688962
+    from: 
+      name: Melissa Agar
+      id: "530351528"
+    message: Very Passage to India goes to New York.  Dashing!
+    created_time: 2011-04-27T22:47:09+0000
+  - id: 790499637_10150278737184638_5689257
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Hooray!  It did happen!
+    created_time: 2011-04-27T23:39:41+0000
+  - id: 790499637_10150278737184638_5689261
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: It looks like an old fashioned night shirt!
+    created_time: 2011-04-27T23:40:12+0000
+  - id: 790499637_10150278737184638_5689414
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I forgot that medical students don't like non-conformity. It's funny to see "the kids" not know what to do with this attire. The adults loved it.
+    created_time: 2011-04-28T00:09:17+0000
+  - id: 790499637_10150278737184638_5689556
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: It's so funny you use the word awkward in your caption.  This is my 11 year old girls new word to use.  She tells me I am awkward all the time.  I don't think she knows what this means.
+    created_time: 2011-04-28T00:33:39+0000
+  - id: 790499637_10150278737184638_5689740
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: You say awkward, I say fabulous. From here on out, I am only interviewing candidates while wearing garb from abroad.
+    created_time: 2011-04-28T01:07:34+0000
+  - id: 790499637_10150278737184638_5690264
+    from: 
+      name: Uma Nt
+      id: "100000074495843"
+    message: |-
+      On the contrary Keith.
+      Is this the bollywood room?
+    created_time: 2011-04-28T02:21:28+0000
+  - id: 790499637_10150278737184638_5692648
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Excellent!  Goes really well with the 'stach too!!
+    created_time: 2011-04-28T11:47:25+0000
+  - id: 790499637_10150278737184638_5694626
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: Somebody call the Empire! One of its ambassadors has gone native!
+    created_time: 2011-04-28T17:44:02+0000
   - id: 790499637_10150278737184638_5703985
     from: 
       name: Rosemary Feneziani
@@ -51,8 +110,11 @@ comments:
     message: That looks fantastic. You should wear it more often.
     created_time: 2011-08-24T14:49:05+0000
   count: 11
-layout: facebook-photo
-title: Wednesday, Apr 27, 2011 - 06:43PM
+layout: status-photo
+title: Wednesday, Apr 27, 2011 around 06:43PM
+images: 
+- thumbnail: /statuses/photo/230002_10150278737129638_4807684_s.jpg
+  fullsize: /statuses/photo/230002_10150278737129638_4807684_n.jpg
 date: 2011-04-27 18:43:18 -04:00
 
 ---

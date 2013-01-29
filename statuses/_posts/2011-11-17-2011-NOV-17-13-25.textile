@@ -21,10 +21,13 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: app_created_story
 application: 
-  name: "foursquare "
+  name: Foursquare
   namespace: playfoursquare
   id: "86734274142"
 created_time: 2011-11-17T18:25:27+0000
@@ -38,8 +41,8 @@ likes:
   count: 2
 comments: 
   count: 0
-layout: facebook-link
-title: Thursday, Nov 17, 2011 - 01:25PM
+layout: status-link
+title: Thursday, Nov 17, 2011 around 01:25PM
 link-info: "Rice, beans, cheese, cilantro \xE2\x80\x93 why eat anything else when you can get all the important food groups wrapped into one delicious pound of foil? Now pass those nachos, will ya? It\xE2\x80\x99s time to guac and roll.\n\n\
   Refried Warrior!"
 date: 2011-11-17 13:25:27 -05:00

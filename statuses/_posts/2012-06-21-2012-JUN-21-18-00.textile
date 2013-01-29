@@ -9,7 +9,7 @@ link: http://abcnews.go.com/US/sandusky-trial-rocked-adopted-son-abused/story?id
 name: Sandusky's Son Says He Was Abused Too
 caption: abcnews.go.com
 description: Every time I think this story can't get any worse, it does. Sandusky's wife's testimony was sickening. And now this.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/y2/x/0HZPW6-lhQu.png
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/123021944504424
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Likes
   id: "2409997254"
@@ -28,8 +31,8 @@ created_time: 2012-06-21T22:00:16+0000
 updated_time: 2012-06-21T22:00:16+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Thursday, Jun 21, 2012 - 06:00PM
+layout: status-link
+title: Thursday, Jun 21, 2012 around 06:00PM
 link-info: Jerry Sandusky jury is deliberating on 48 charges.
 date: 2012-06-21 18:00:16 -04:00
 

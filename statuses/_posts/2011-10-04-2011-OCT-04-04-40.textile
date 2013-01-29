@@ -9,7 +9,7 @@ link: http://stoppoliticalcalls.org/ht/d/sp/i/301145/pid/301145
 name: Stop Political Robocalls
 caption: stoppoliticalcalls.org
 description: "Ugh. The Government is voting to allow themselves to start harassing your cell phone. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/200412503360897
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -34,8 +39,8 @@ comments:
     created_time: 2011-10-04T09:39:27+0000
     likes: 2
   count: 1
-layout: facebook-link
-title: Tuesday, Oct  4, 2011 - 04:40AM
+layout: status-link
+title: Tuesday, Oct  4, 2011 around 04:40AM
 link-info: The National Political Do Not Contact Registry is where all voters, regardless of political affiliation, can register their phone number to stop political phone calls.
 date: 2011-10-04 04:40:03 -04:00
 

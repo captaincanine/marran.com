@@ -9,7 +9,7 @@ link: http://gawker.com/5813906/bulgarian-war-memorial-vandalized-awesomely
 name: Bulgarian War Memorial Vandalized, Awesomely
 caption: gawker.com
 description: This is possible the most awesome act of graffiti I've ever seen. Those Eastern Europeans can produce some great stuff when oppressed.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/216861898354383
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -37,8 +40,8 @@ likes:
   count: 3
 comments: 
   count: 0
-layout: facebook-link
-title: Tuesday, Jun 21, 2011 - 06:26AM
+layout: status-link
+title: Tuesday, Jun 21, 2011 around 06:26AM
 link-info: A public monument to the Soviet Armed Forces in Sofia, Bulgaria was vandalized spectacularly over the weekend. The statues of the Second World War soldiers were painted to resemble such candy-colored figures of capitalist iconography as Superman, Ronald McDonald, Santa Claus, Captain America and...
 date: 2011-06-21 06:26:53 -04:00
 

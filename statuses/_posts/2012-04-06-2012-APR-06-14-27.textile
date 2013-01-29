@@ -20,8 +20,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: app_created_story
 application: 
   name: The Travel List Challenge
   namespace: onehundredplaces
@@ -30,8 +33,8 @@ created_time: 2012-04-06T18:27:46+0000
 updated_time: 2012-04-06T18:27:46+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Friday, Apr  6, 2012 - 02:27PM
+layout: status-link
+title: Friday, Apr  6, 2012 around 02:27PM
 date: 2012-04-06 14:27:46 -04:00
 
 ---

@@ -9,7 +9,7 @@ link: http://www.fxnetwork.com/shows/originals/wilfred/
 name: Wilfred Official Website | Only on FX
 caption: www.fxnetwork.com
 description: I watched season one of Wilfred and loved it. I highly recommend it to people that have dogs, are unsure of their path in life, or like weird comedy.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/315271068503985
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2012-01-01T11:27:03+0000
 updated_time: 2012-01-01T14:48:40+0000
 likes: 
@@ -43,8 +46,8 @@ comments:
     message: Yes. It was originally an Australian show that they adapted.
     created_time: 2012-01-01T14:48:40+0000
   count: 2
-layout: facebook-link
-title: Sunday, Jan  1, 2012 - 06:27AM
+layout: status-link
+title: Sunday, Jan  1, 2012 around 06:27AM
 link-info: Official site. FX original comedy stars Elijah Wood. Based on the critically-acclaimed Australian series.
 date: 2012-01-01 06:27:03 -05:00
 

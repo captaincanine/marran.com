@@ -9,7 +9,7 @@ link: http://gawker.com/5830101/completely-evil-kids-for-cash-judge-is-going-to-
 name: Completely Evil 'Kids for Cash' Judge Is Going to Jail
 caption: gawker.com
 description: "To call this man evil is an understatement. I generally try not to wish harm on people, but I hope this guy's next 28 years are an endless nightmare. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/100383586730849
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -35,8 +38,8 @@ comments:
     message: Holy shit.  I had not heard about that.  There is an embedded video in the comments that is excruciating.  I know it sounds naive, but it really is astonishing to me that someone could be so cynical with human life.  Not nameless faceless people, but kids right in front of him.  Seriously.  It is easy to wish him real, physical and emotional harm.
     created_time: 2011-08-11T22:39:07+0000
   count: 1
-layout: facebook-link
-title: Thursday, Aug 11, 2011 - 05:47PM
+layout: status-link
+title: Thursday, Aug 11, 2011 around 05:47PM
 link-info: Perhaps you've heard of former Luzerne County, Pennsylvania Judge Mark Ciavarella Jr., an objectively evil person who took bribes to send kids to private prisons.
 date: 2011-08-11 17:47:10 -04:00
 

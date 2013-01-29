@@ -9,7 +9,7 @@ link: http://gawker.com/5812257/these-manhattanites-have-a-pool-in-their-living-
 name: These Manhattanites Have a Pool in Their Living Room
 caption: gawker.com
 description: Hey! These people live just a few doors down! When we moved in, they invited us to come use the pool but now they snub us on the sidewalk. I guess that's what happens when someone tells you your place is worth $11M.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/224727217546950
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -33,6 +36,19 @@ likes:
   count: 1
 comments: 
   data: 
+  - id: 790499637_224727217546950_3395116
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: And really...they should have said that it was a former CONFIRMED bachelor pad (wink wink).
+    created_time: 2011-06-15T20:12:47+0000
+    likes: 1
+  - id: 790499637_224727217546950_3395237
+    from: 
+      name: Brett Bishop
+      id: "1203637433"
+    message: It has a swing over the pool. Again, I restate...a SWING OVER THE POOL. We could never live here with the parties we throw - half our friends would accidentally kill themselves.
+    created_time: 2011-06-15T20:50:47+0000
   - id: 790499637_224727217546950_3395327
     from: 
       name: Patrick Kee Kietsrichart
@@ -46,8 +62,8 @@ comments:
     message: If you can afford to have a townhouse in Manhattan, I'm sure you can afford an occasional body disposal.
     created_time: 2011-06-15T21:22:14+0000
   count: 4
-layout: facebook-link
-title: Wednesday, Jun 15, 2011 - 04:12PM
+layout: status-link
+title: Wednesday, Jun 15, 2011 around 04:12PM
 link-info: "Today in rich people things: Here is a Manhattan couple selling their Chelsea townhouse that has a full-sized swimming pool in the living room. Yes, that's right."
 date: 2011-06-15 16:12:13 -04:00
 

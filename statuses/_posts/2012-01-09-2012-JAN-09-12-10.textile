@@ -12,11 +12,48 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2012-01-09T17:10:14+0000
 updated_time: 2012-01-10T03:21:22+0000
 comments: 
   data: 
+  - id: 790499637_10150680099689638_24177447
+    from: 
+      name: T'ai Chu-Richardson
+      id: "14101146"
+    message: I'm already planning to come, but if there is pflaumenkuchen I will come twice.
+    created_time: 2012-01-09T17:24:09+0000
+    likes: 1
+  - id: 790499637_10150680099689638_24178158
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: "What?!  No Dairy Queen ice cream cake with sprinkles?!  But seriously: How about a flan with strawberries from Oregon and French custard?"
+    created_time: 2012-01-09T18:03:27+0000
+  - id: 790499637_10150680099689638_24178219
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: If only I could get berries from Oregon. They are woefully deprived of good berries on the East Coast. It's maddening. The strawberries are usually good for two weeks during the peak of the season. Every time I go back to the West Coast, I get to remind myself of what blackberries are supposed to taste like.
+    created_time: 2012-01-09T18:07:14+0000
+    likes: 1
+  - id: 790499637_10150680099689638_24178933
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: Something boozy with a hint of salt. Maybe vanilla and bourbon with salted caramel?
+    created_time: 2012-01-09T18:51:42+0000
+  - id: 790499637_10150680099689638_24179215
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: I am a purist. Chocolate with chocolate frosting.
+    created_time: 2012-01-09T19:09:33+0000
   - id: 790499637_10150680099689638_24182279
     from: 
       name: Sara Holoubek
@@ -30,8 +67,8 @@ comments:
     message: How about one of these? http://www.cakewrecks.com/home/2010/7/12/the-men-of-marvel.html
     created_time: 2012-01-10T03:21:22+0000
   count: 7
-layout: facebook-status
-title: Monday, Jan  9, 2012 - 12:10PM
+layout: status
+title: Monday, Jan  9, 2012 around 12:10PM
 date: 2012-01-09 12:10:14 -05:00
 
 ---

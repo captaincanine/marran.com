@@ -28,7 +28,7 @@ link: http://www.marran.com/travel/the-badlands/
 name: The Badlands
 caption: www.marran.com
 description: Day 2 of Our Great American Road Trip. Catch up on the shenanigans of Christine Marran and David Reich!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/157029917768773
@@ -38,6 +38,8 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
 status_type: shared_story
@@ -50,8 +52,8 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Sunday, Sep 23, 2012 - 05:15PM
+layout: status-link
+title: Sunday, Sep 23, 2012 around 05:15PM
 link-info: It's day 2 of our Great American Road Trip to Mount Rushmore. We have hit the heart of the trip with its alluring roadside attractions. Would we stop at Wall Drug for free ice water?
 date: 2012-09-23 17:15:37 -04:00
 

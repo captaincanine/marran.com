@@ -9,7 +9,7 @@ link: http://gawker.com/5865612/amazon-launches-christmas-attack-on-local-shops
 name: Amazon Launches Christmas Attack on Local Shops
 caption: gawker.com
 description: Okay. That's it. After stories of tormenting temporary employees with heat exhaustion and now attempts to drive local business into the ground, I am done with Amazon. They have crossed the line into evil a few too many times.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/333569296669598
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2011-12-06T20:54:36+0000
 updated_time: 2011-12-06T22:23:45+0000
 comments: 
@@ -43,8 +48,8 @@ comments:
     created_time: 2011-12-06T22:23:45+0000
     likes: 1
   count: 3
-layout: facebook-link
-title: Tuesday, Dec  6, 2011 - 03:54PM
+layout: status-link
+title: Tuesday, Dec  6, 2011 around 03:54PM
 link-info: Apparently concerned that it's not already doing enough to undermine local physical retailers across the country, Amazon.com announced it will pay customers $5 to go into a local store, scan an item, walk out, and buy the same item on Amazon.
 date: 2011-12-06 15:54:36 -05:00
 

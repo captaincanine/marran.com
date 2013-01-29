@@ -9,7 +9,7 @@ link: http://www.amazon.com/Heavenly-Creatures-Uncut-Version-Blu-ray/dp/B005Q4CK
 name: Heavenly Creatures [Blu-ray]
 caption: www.amazon.com
 description: Yay! Finally!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/187997534622943
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Links
   id: "2309869772"
@@ -31,8 +36,8 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Tuesday, Dec  6, 2011 - 03:39PM
+layout: status-link
+title: Tuesday, Dec  6, 2011 around 03:39PM
 link-info: From acclaimed director Peter Jackson (The Lord of the Rings, King Kong) comes a true-life story of the shocking crime that stunned a nation. When circumstances bring together two imaginative teenage schoolgirls, they quickly form an unwavering bond, creating a fantasy world that only they can sh...
 date: 2011-12-06 15:39:10 -05:00
 

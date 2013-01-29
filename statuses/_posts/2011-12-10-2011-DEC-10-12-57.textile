@@ -4,15 +4,15 @@ from:
   name: Keith Marran
   id: "790499637"
 story: Keith Marran shared George Takei's photo.
-picture: http://photos-h.ak.fbcdn.net/hphotos-ak-snc7/381385_326628097366650_588390419_s.jpg
+picture: http://photos-b.xx.fbcdn.net/hphotos-snc7/381385_326628097366650_588390419_s.jpg
 link: http://www.facebook.com/photo.php?fbid=326628097366650&set=a.293639293998864.121791.205344452828349&type=1
 name: HootSuite Photos
 caption: Krafty boxes...
 properties: 
 - name: By
   text: George Takei
-  href: http://www.facebook.com/georgehtakei
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+  href: http://www.facebook.com/georgehtakei?ref=stream
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/310422012324907
@@ -21,7 +21,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: photo
+status_type: shared_story
 object_id: "326628097366650"
 application: 
   name: Links
@@ -37,9 +42,12 @@ likes:
   count: 2
 comments: 
   count: 0
-layout: facebook-photo
-title: Saturday, Dec 10, 2011 - 12:57PM
+layout: status-photo
+title: Saturday, Dec 10, 2011 around 12:57PM
+images: 
+- thumbnail: /statuses/photo/381385_326628097366650_588390419_s.jpg
+  fullsize: /statuses/photo/381385_326628097366650_588390419_n.jpg
 date: 2011-12-10 12:57:13 -05:00
 
 ---
-
+Keith Marran shared George Takei's photo.

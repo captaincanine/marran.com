@@ -8,7 +8,7 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCUopxL9zJSIQzQ&w=90&h=9
 link: http://occupygeorge.com/
 name: occupygeorge.com
 caption: occupygeorge.com
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/y2/x/0HZPW6-lhQu.png
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/234208423301597
@@ -18,8 +18,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Likes
   id: "2409997254"
@@ -32,8 +35,8 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Monday, Oct 17, 2011 - 05:13PM
+layout: status-link
+title: Monday, Oct 17, 2011 around 05:13PM
 date: 2011-10-17 17:13:13 -04:00
 
 ---

@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Friends
   value: ALL_FRIENDS
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 application: 
   name: Friendly
   namespace: oecoway_friendly
@@ -39,8 +44,8 @@ comments:
     message: That's a scene out of a South Indian village. I guess India/Vietnam, not that much different.
     created_time: 2011-08-26T17:13:08+0000
   count: 1
-layout: facebook-status
-title: Friday, Aug 26, 2011 - 05:48AM
+layout: status
+title: Friday, Aug 26, 2011 around 05:48AM
 date: 2011-08-26 05:48:04 -04:00
 
 ---

@@ -9,7 +9,7 @@ link: http://lifehacker.com/5843969/facebook-is-tracking-your-every-move-on-the-
 name: Facebook Is Tracking Your Every Move on the Web; Here's How to Stop It
 caption: lifehacker.com
 description: I'm having a Charleton Heston in Soylent Green moment. Facebook has completely taken over the web. We've all been so obsessed with popularity that we didn't notice that Facebook now tracks practically every thing you do on the web - whether you're logged in or not! "It's Facebook. Soylent Green is Facebook!"
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/253808871330679
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -33,6 +38,25 @@ likes:
   count: 1
 comments: 
   data: 
+  - id: 790499637_253808871330679_3473233
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Oh great. Now Facebook knows you you know that they know...
+    created_time: 2011-09-27T22:48:53+0000
+    likes: 1
+  - id: 790499637_253808871330679_3474054
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: Now they know that I like that Sara knows that you know that they know.
+    created_time: 2011-09-28T01:26:21+0000
+  - id: 790499637_253808871330679_3474649
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: we're f*d
+    created_time: 2011-09-28T03:15:04+0000
   - id: 790499637_253808871330679_3477379
     from: 
       name: Keith Marran
@@ -46,8 +70,8 @@ comments:
     message: I do own www.unfriendster.com and www.unsocialnetwork.com
     created_time: 2011-09-29T02:35:50+0000
   count: 5
-layout: facebook-link
-title: Tuesday, Sep 27, 2011 - 03:07PM
+layout: status-link
+title: Tuesday, Sep 27, 2011 around 03:07PM
 link-info: Over the weekend, Dave Winer wrote an article at Scripting.com explaining how Facebook keeps track of where you are on the web after logging in without your consent.
 date: 2011-09-27 15:07:56 -04:00
 

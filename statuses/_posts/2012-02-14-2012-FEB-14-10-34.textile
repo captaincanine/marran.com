@@ -12,11 +12,47 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2012-02-14T15:34:56+0000
 updated_time: 2012-02-14T20:04:43+0000
 comments: 
   data: 
+  - id: 790499637_10150785487344638_24927037
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: What compelled you to do this?
+    created_time: 2012-02-14T15:39:12+0000
+  - id: 790499637_10150785487344638_24927071
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Well, it probably goes back about 15 years when I first saw this poster in NY: http://lunkiandsika.files.wordpress.com/2011/05/chopper-2000-eric-bana-posing-on-poster.png. I am still riding the high of Eric Bana in that movie. But actually, his playlist is quite good."
+    created_time: 2012-02-14T15:41:52+0000
+    likes: 2
+  - id: 790499637_10150785487344638_24927173
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: LOL.  I'll have to take a listen :-)
+    created_time: 2012-02-14T15:46:23+0000
+  - id: 790499637_10150785487344638_24927268
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: But did you ever think of saying it and reject it many times and thusly hath surprised thyself?
+    created_time: 2012-02-14T15:52:52+0000
+  - id: 790499637_10150785487344638_24927307
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Sorry, Peter, I have no idea what you're talking about.
+    created_time: 2012-02-14T15:55:33+0000
   - id: 790499637_10150785487344638_24927457
     from: 
       name: Peter Von Brown
@@ -30,8 +66,8 @@ comments:
     message: aussies have great taste in.......EVERYTHING!
     created_time: 2012-02-14T20:04:43+0000
   count: 7
-layout: facebook-status
-title: Tuesday, Feb 14, 2012 - 10:34AM
+layout: status
+title: Tuesday, Feb 14, 2012 around 10:34AM
 date: 2012-02-14 10:34:56 -05:00
 
 ---

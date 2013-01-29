@@ -9,7 +9,7 @@ link: http://homesicktexan.blogspot.com/2007/07/hat-skirt-and-some-squash-blosso
 name: A hat, a skirt and some squash blossoms | Homesick Texan
 caption: homesicktexan.blogspot.com
 description: What's for dinner you ask? Why squash blossom quesadillas!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/146067838808555
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2011-08-03T23:20:12+0000
 updated_time: 2011-08-04T02:49:24+0000
 likes: 
@@ -36,6 +39,18 @@ likes:
   count: 4
 comments: 
   data: 
+  - id: 790499637_146067838808555_585521
+    from: 
+      name: Parizad Motiwala O'Donnell
+      id: "1386266174"
+    message: YUM! thanks for sharing this!
+    created_time: 2011-08-03T23:53:14+0000
+  - id: 790499637_146067838808555_585765
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Sounds great!
+    created_time: 2011-08-04T01:13:37+0000
   - id: 790499637_146067838808555_585816
     from: 
       name: Keith Marran
@@ -49,8 +64,8 @@ comments:
     message: I want!
     created_time: 2011-08-04T02:49:24+0000
   count: 4
-layout: facebook-link
-title: Wednesday, Aug  3, 2011 - 07:20PM
+layout: status-link
+title: Wednesday, Aug  3, 2011 around 07:20PM
 link-info: "I was on the hunt for a cowboy hat in San Miguel de Allende\xE2\x80\x99s outdoor market. As my friends and I weaved our way through the various stalls, we spied a woman sitting on the ground, her long full skirt topped with a display of squash blossoms. \xE2\x80\x9CLook, squash blossoms!\xE2\x80\x9D one friend said. As we were on a..."
 date: 2011-08-03 19:20:12 -04:00
 

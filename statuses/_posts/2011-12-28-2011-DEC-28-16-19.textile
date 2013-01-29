@@ -9,7 +9,7 @@ link: http://gawker.com/5871636/partner-accuses-amazon-of-being-totally-evil
 name: Partner Accuses Amazon of Being Totally Evil
 caption: gawker.com
 description: Well...I went from trying to severe my dependency on Amazon to now totally boycotting them. It's a shame. They used to be about making a great product. Now they're just about squashing all competition.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/269585936429745
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -28,8 +31,8 @@ created_time: 2011-12-28T21:19:26+0000
 updated_time: 2011-12-28T21:19:26+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Wednesday, Dec 28, 2011 - 04:19PM
+layout: status-link
+title: Wednesday, Dec 28, 2011 around 04:19PM
 link-info: After launching an electronic assault on local shops and abusing sick and pregnant warehouse workers, Amazon.com has been sued for ripping off and royally screwing over in every other possible way a partner that made Kindle cases.
 date: 2011-12-28 16:19:26 -05:00
 

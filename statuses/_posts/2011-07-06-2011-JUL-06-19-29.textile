@@ -9,7 +9,7 @@ link: http://gawker.com/5818664/new-york-audiences-too-wimpy-for-rabbit-skinning
 name: New York Audiences Too Wimpy for Rabbit Skinning on Stage
 caption: gawker.com
 description: Boo to RSC for skinning a real rabbit on stage for entertainment. And boo to Gawker for bad logic. I'm glad they cut the scene. However, it made for some hilarious Gawker comments (be sure to click "All" in the comments).
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/124283290992343
@@ -19,14 +19,17 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2011-07-06T23:29:17+0000
 updated_time: 2011-07-06T23:29:17+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Wednesday, Jul  6, 2011 - 07:29PM
+layout: status-link
+title: Wednesday, Jul  6, 2011 around 07:29PM
 link-info: "When the Royal Shakespeare Company opens its production of Shakespearean classic As You Like It (which is right up there in popularity with Cymbeline) in New York this week, there is going to be one part missing:"
 date: 2011-07-06 19:29:17 -04:00
 

@@ -9,7 +9,7 @@ link: http://gawker.com/5890725/sears-debuts-best-way-to-show-your-appreciation-
 name: Sears Debuts Best Way To Show Your Appreciation of Butt Plugs
 caption: gawker.com
 description: Gawker just redeemed itself.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/342109389165346
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -33,14 +38,14 @@ comments:
   data: 
   - id: 790499637_342109389165346_4302338
     from: 
-      name: "Antonio Jos\xC3\xA9 Borracho Alioto"
+      name: Antonio de la Madrugada
       id: "1133067992"
     message: Wow, and I thought their edible panties collection was edgy.
     created_time: 2012-03-06T11:41:12+0000
     likes: 1
   count: 1
-layout: facebook-link
-title: Monday, Mar  5, 2012 - 09:52PM
+layout: status-link
+title: Monday, Mar  5, 2012 around 09:52PM
 link-info: Now on sale at Sears, I Heart Butt Plugs t-shirts. I don't understand you, Sears, but goddammit if I don't respect you.  [pic via sears.com]
 date: 2012-03-05 21:52:32 -05:00
 

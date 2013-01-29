@@ -9,7 +9,7 @@ link: http://gawker.com/5933952/watch-the-late-david-rakoffs-last-onstage-dance
 name: Watch the Late David Rakoff's Last Onstage Dance
 caption: gawker.com
 description: This is the most beautiful 15 minutes I have experienced this year. Please watch.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/272971786141874
@@ -18,6 +18,10 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
 status_type: shared_story
 application: 
@@ -39,8 +43,8 @@ comments:
     message: He was a genius.
     created_time: 2012-08-12T04:20:17+0000
   count: 1
-layout: facebook-link
-title: Saturday, Aug 11, 2012 - 09:23PM
+layout: status-link
+title: Saturday, Aug 11, 2012 around 09:23PM
 link-info: "There have been countless reactions to writer and performer David Rakoff's death Thursday night, but few are as poignant as what Ira Glass posted on the This American Life website. He muses, briefly\xE2\x80\x94 David Rakoff died last night."
 date: 2012-08-11 21:23:50 -04:00
 

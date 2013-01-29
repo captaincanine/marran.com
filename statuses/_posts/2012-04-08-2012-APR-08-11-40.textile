@@ -9,7 +9,7 @@ link: http://jezebel.com/5898359/mad-men-fat-betty
 name: "Mad Men: Fat Betty"
 caption: jezebel.com
 description: Seeing Betty this season hit a raw nerve. I could barely look at her when she was on screen. She's the one character on the show I can't bear to see fat. What does that say about me?
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/176994765754554
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -34,8 +39,8 @@ comments:
     created_time: 2012-04-08T15:44:33+0000
     likes: 1
   count: 1
-layout: facebook-link
-title: Sunday, Apr  8, 2012 - 11:40AM
+layout: status-link
+title: Sunday, Apr  8, 2012 around 11:40AM
 link-info: Fans of the show were wondering how Mad Men would handle January Jones' pregnancy. Would Betty stand behind a lot of flower arrangements or carry large bags?
 date: 2012-04-08 11:40:17 -04:00
 

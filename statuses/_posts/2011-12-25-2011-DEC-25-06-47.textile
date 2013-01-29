@@ -9,7 +9,7 @@ link: http://io9.com/5871036/portal-christmas-tree-is-absolutely-genius
 name: Portal Christmas tree is absolutely genius
 caption: io9.com
 description: Merry Christmas!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/245354315532763
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -40,8 +45,8 @@ comments:
     message: Merry Christmas to you too!
     created_time: 2011-12-25T14:24:23+0000
   count: 1
-layout: facebook-link
-title: Sunday, Dec 25, 2011 - 06:47AM
+layout: status-link
+title: Sunday, Dec 25, 2011 around 06:47AM
 link-info: Here's further proof that basically everything goes better with Portal. Redditor Tyamykal has posted a photo of his Portal-fied Christmas tree, which certainly beats the hell out of the 20 years' worth of musty tinsel I festooned all over my folks' Tannenbaum this very evening.
 date: 2011-12-25 06:47:39 -05:00
 

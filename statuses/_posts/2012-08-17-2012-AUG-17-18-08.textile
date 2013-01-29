@@ -20,7 +20,7 @@ link: http://t.co/XnIqbMX2
 name: 900 Great 90s Songs - A Playlist by Dave Huge
 caption: open.spotify.com
 description: Last night, I drunkenly and smart-assedly commented that music sucked in the 90's. DJ Extraordinaire Dave Stringer Hughes floated the idea that I, perhaps, had no idea what I was talking about. And now he's forwarded me his Spotify playlist of 900 Great Songs of the 90's. We shall see (or hear, actually) who was right.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/y0/r/nAApRnfWfNW.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/y8/x/nAApRnfWfNW.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/346840528731422
@@ -29,6 +29,10 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
 status_type: shared_story
 created_time: 2012-08-17T22:08:26+0000
@@ -46,6 +50,38 @@ likes:
   count: 8
 comments: 
   data: 
+  - id: 790499637_346840528731422_2171495
+    from: 
+      name: Dirk McCall
+      id: "502849778"
+    message: Hope there is some Saint Etienne on there!
+    created_time: 2012-08-17T22:09:21+0000
+  - id: 790499637_346840528731422_2171498
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: Chris Isaak wrote 900 songs?!
+    created_time: 2012-08-17T22:10:37+0000
+    likes: 1
+  - id: 790499637_346840528731422_2171510
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: When you track down all of Chris Isaak's bootlegs and live recordings, yes.
+    created_time: 2012-08-17T22:15:26+0000
+  - id: 790499637_346840528731422_2171511
+    from: 
+      name: Dave Stringer Hughes
+      id: "800419"
+    message: I actually just added "Only Love Can Break Your Heart." Bad omission.
+    created_time: 2012-08-17T22:15:51+0000
+  - id: 790499637_346840528731422_2171516
+    from: 
+      name: Dave Stringer Hughes
+      id: "800419"
+    message: "True story: I went to a wedding where \"Wicked Game\" was the couple's song once. They didn't last."
+    created_time: 2012-08-17T22:17:09+0000
+    likes: 2
   - id: 790499637_346840528731422_2171526
     from: 
       name: Dave Stringer Hughes
@@ -75,8 +111,8 @@ comments:
     message: I love drunken, smart ass
     created_time: 2012-08-18T03:37:56+0000
   count: 9
-layout: facebook-link
-title: Friday, Aug 17, 2012 - 06:08PM
+layout: status-link
+title: Friday, Aug 17, 2012 around 06:08PM
 link-info: 900 Great 90s Songs - A Playlist by Dave Huge, a playlist by Dave Stringer Hughes on Spotify.
 date: 2012-08-17 18:08:26 -04:00
 

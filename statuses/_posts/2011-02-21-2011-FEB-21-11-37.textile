@@ -8,7 +8,7 @@ link: http://dougscripts.com/itunes/scripts/ss.php?sp=newplayedcount
 name: "Doug's AppleScripts for iTunes \xE2\x99\xAB New Play Count v2.0"
 caption: dougscripts.com
 description: "In my new Queen frenzy, I had to convert songs from a \"Greatest Hits\" album to their original album and wanted to preserve the play count in iTunes. This resource was invaluable: http://dougscripts.com/itunes/scripts/ss.php?sp=newplayedcount"
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/104463822966200
@@ -18,12 +18,33 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2011-02-21T16:37:20+0000
 updated_time: 2011-02-21T18:33:50+0000
 comments: 
   data: 
+  - id: 790499637_104463822966200_57035
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: What I'm wondering is why play count even matters...
+    created_time: 2011-02-21T16:42:18+0000
+  - id: 790499637_104463822966200_57071
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I have playlists set up by play count and those playlists get synced to my iPhone so that I always have my most popular music with me. It would be a bummer to lose that data.
+    created_time: 2011-02-21T16:51:09+0000
+  - id: 790499637_104463822966200_57076
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: ok.  that's all way too complicated for me... I just make a playlist and move stuff in and out that I want to hear.  :)
+    created_time: 2011-02-21T16:52:20+0000
   - id: 790499637_104463822966200_57289
     from: 
       name: Joel Muchmore
@@ -38,8 +59,8 @@ comments:
     message: Thanks for sharing...this is v.useful to me!
     created_time: 2011-02-21T18:33:50+0000
   count: 5
-layout: facebook-link
-title: Monday, Feb 21, 2011 - 11:37AM
+layout: status-link
+title: Monday, Feb 21, 2011 around 11:37AM
 link-info: Download over 400 free AppleScripts for iTunes on the Mac, plus get tips and information on writing your own iTunes AppleScripts. This site is weblished by Doug Adams. Dupin the iTunes Duplicates Manager. iTunes Library Manager. Join Together join iTunes tracks as one and add bookmarkable chapters.
 date: 2011-02-21 11:37:20 -05:00
 

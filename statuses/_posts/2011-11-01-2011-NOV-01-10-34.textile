@@ -9,7 +9,7 @@ link: http://www.biotele.com/magenta.html
 name: Magenta Ain't A Colour
 caption: www.biotele.com
 description: I just found out that magenta is not a natural color. It's inorganic. It's downright UNHOLY!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/212717182134378
@@ -18,12 +18,17 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2011-11-01T14:34:47+0000
 updated_time: 2011-11-01T15:40:09+0000
 likes: 
   data: 
-  - name: Granville Eric Miller
+  - name: Granville E Miller
     id: "689920456"
   count: 1
 comments: 
@@ -43,8 +48,8 @@ comments:
     created_time: 2011-11-01T15:40:09+0000
     likes: 1
   count: 2
-layout: facebook-link
-title: Tuesday, Nov  1, 2011 - 10:34AM
+layout: status-link
+title: Tuesday, Nov  1, 2011 around 10:34AM
 link-info: "                                     \t\t\t\t\t\t\t\tAll the colours in the   \t\t\t\t\t\t\t\tlight spectrum have complements that exist within   \t\t\t\t\t\t\t\tthe spectrum \xE2\x80\x93 except green. There seems to be some   \t\t\t\t\t\t\t\tkind of imbalance. What is going on? Is green somehow   \t\t\t\t\t\t\t\tbeing discriminated against?The ligh..."
 date: 2011-11-01 10:34:47 -04:00
 

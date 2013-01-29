@@ -7,13 +7,13 @@ message: "I miss the Pacific Northwest. "
 story: Keith Marran shared Oregon Museum of Science and Industry (OMSI)'s photo.
 picture: http://photos-g.ak.fbcdn.net/hphotos-ak-ash4/302047_10150391597403739_93155240_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10150391597403739&set=a.95914933738.87343.9903008738&type=1
-name: Wall Photos
+name: Timeline Photos
 caption: "The shadow of Washington State\xE2\x80\x99s Mt. Rainier cast along the clouds at sunrise! More at: http://www.komonews.com/weather/blogs/scott/132629943.html"
 properties: 
 - name: By
   text: Oregon Museum of Science and Industry (OMSI)
-  href: http://www.facebook.com/OMSI.Museum
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+  href: http://www.facebook.com/OMSI.Museum?ref=stream
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/144385905661469
@@ -22,7 +22,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: photo
+status_type: shared_story
 object_id: "10150391597403739"
 application: 
   name: Links
@@ -42,8 +47,11 @@ likes:
   count: 6
 comments: 
   count: 0
-layout: facebook-photo
-title: Wednesday, Nov  9, 2011 - 09:25AM
+layout: status-photo
+title: Wednesday, Nov  9, 2011 around 09:25AM
+images: 
+- thumbnail: /statuses/photo/302047_10150391597403739_93155240_s.jpg
+  fullsize: /statuses/photo/302047_10150391597403739_93155240_n.jpg
 date: 2011-11-09 09:25:49 -05:00
 
 ---

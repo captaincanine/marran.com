@@ -6,7 +6,7 @@ from:
 message: My 6-year-old nephew, Lorenz, is already writing and drawing comic books. His latest epic? "The Avengrs and the Mastr Ayleeins"
 picture: http://photos-c.ak.fbcdn.net/hphotos-ak-ash3/546579_10151383280669638_1396628151_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151383280669638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151383280829638
@@ -15,24 +15,52 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: photo
 status_type: added_photos
 object_id: "10151383280669638"
 created_time: 2012-08-26T14:24:27+0000
-updated_time: 2012-08-26T15:59:46+0000
+updated_time: 2013-01-05T21:15:02+0000
 likes: 
   data: 
+  - name: Genny Huffman
+    id: "1416423932"
+  - name: Terri Davis
+    id: "100000452612692"
   - name: Catherine Everett Hawes
     id: "1403433546"
   - name: Justin Winslow
     id: "1201684433"
-  - name: Parizad Motiwala O'Donnell
-    id: "1386266174"
-  - name: Debbie Glass
-    id: "1613911702"
-  count: 10
+  count: 12
 comments: 
   data: 
+  - id: 790499637_10151383280829638_9763320
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I'm trying to get him a contract with Marvel.
+    created_time: 2012-08-26T14:24:51+0000
+  - id: 790499637_10151383280829638_9763408
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: That is awesome!  I remember when I got my first comic book......and one of you bday parties when we were in grade school......don't remember what it was though :(
+    created_time: 2012-08-26T14:37:20+0000
+  - id: 790499637_10151383280829638_9763419
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Really? I did that? That's kind of neat.
+    created_time: 2012-08-26T14:38:50+0000
+  - id: 790499637_10151383280829638_9763425
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: Yes you did :)
+    created_time: 2012-08-26T14:39:45+0000
   - id: 790499637_10151383280829638_9763622
     from: 
       name: Dawn Richmond Breazile
@@ -57,9 +85,24 @@ comments:
       id: "621816545"
     message: Ha! I noticed that it had a dot in the center like Iron Man. Now it totally makes sense!
     created_time: 2012-08-26T15:59:46+0000
-  count: 8
-layout: facebook-photo
-title: Sunday, Aug 26, 2012 - 10:24AM
+  - id: 790499637_10151383280829638_10955346
+    from: 
+      name: Catherine Everett Hawes
+      id: "1403433546"
+    message: Uhhh....he is 6 & 3/4's! His words not mine!
+    created_time: 2013-01-05T21:14:47+0000
+  - id: 790499637_10151383280829638_10955350
+    from: 
+      name: Catherine Everett Hawes
+      id: "1403433546"
+    message: ;)
+    created_time: 2013-01-05T21:15:02+0000
+  count: 10
+layout: status-photo
+title: Sunday, Aug 26, 2012 around 10:24AM
+images: 
+- thumbnail: /statuses/photo/546579_10151383280669638_1396628151_s.jpg
+  fullsize: /statuses/photo/546579_10151383280669638_1396628151_n.jpg
 date: 2012-08-26 10:24:27 -04:00
 
 ---

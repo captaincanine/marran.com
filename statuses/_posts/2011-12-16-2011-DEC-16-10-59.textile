@@ -9,7 +9,7 @@ link: http://lifehacker.com/5868170/updated-the-best-email-client-for-mac
 name: "Updated: The Best Email Client for Mac"
 caption: lifehacker.com
 description: I used to use GMail on the web, but I realized I was constantly distracted by checking the page with GMail. So I started using Apple Mail and liked it better than I thought I would. But I kept going back and forth between the two because GMail's interface is so rich and Apple's is so spartan. Then I read this article, gave Sparrow a try, and now I think it's the mail client that Goldilocks would have picked. Simple, rich, and unobtrusive.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/233727556698917
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -38,8 +43,8 @@ comments:
     message: "Will check this out....I use Mail now to combine work (Exchange) and personal (.mac and Gmail)...pretty handy but not optimal. "
     created_time: 2011-12-16T17:41:40+0000
   count: 1
-layout: facebook-link
-title: Friday, Dec 16, 2011 - 10:59AM
+layout: status-link
+title: Friday, Dec 16, 2011 around 10:59AM
 link-info: When first choosing the best email client on the Mac, we went with the pricey MailMate knowing that someday Sparrow would mature into a contender that could take its place.
 date: 2011-12-16 10:59:30 -05:00
 

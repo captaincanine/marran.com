@@ -9,7 +9,7 @@ link: http://www.reuters.com/article/2012/01/03/us-death-ranger-idUSTRE8000I9201
 name: Mount Rainier body confirmed as suspected gunman
 caption: www.reuters.com
 description: Besides Rambo, what other Stallone movies will turn odd to be sadly prophetic?
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/170354863064133
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -35,8 +38,8 @@ comments:
     message: My money is on Over the Top
     created_time: 2012-01-03T05:15:27+0000
   count: 1
-layout: facebook-link
-title: Monday, Jan  2, 2012 - 08:52PM
+layout: status-link
+title: Monday, Jan  2, 2012 around 08:52PM
 link-info: SEATTLE (Reuters) - A body found face down in the snow at Mount Rainier National Park is that of an Iraq war veteran suspected of killing a park ranger, then fleeing into the wilderness, authorities said
 date: 2012-01-02 20:52:35 -05:00
 

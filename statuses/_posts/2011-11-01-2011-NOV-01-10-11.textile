@@ -9,7 +9,7 @@ link: http://animalstalkinginallcaps.tumblr.com/post/12177781521/im-ahahaa-hhhha
 name: ANIMALS TALKING IN ALL CAPS
 caption: animalstalkinginallcaps.tumblr.com
 description: More Kim Kardashian jokes
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/195907350483593
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2011-11-01T14:11:41+0000
 updated_time: 2011-11-01T14:11:41+0000
 likes: 
@@ -28,8 +33,8 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Tuesday, Nov  1, 2011 - 10:11AM
+layout: status-link
+title: Tuesday, Nov  1, 2011 around 10:11AM
 link-info: "I\xE2\x80\x99M- AHAHAA HHHHAAAHAHAH! AHA HHAAAAH HA- I\xE2\x80\x99M SORRY, IT\xE2\x80\x99S JUST- HAHAHAH HAAAAH! HAAHAH! HAHAHAA AHHHA AHA- I DON\xE2\x80\x99T MEAN TO LAUGH THIS HARD, BUT ARE YOU TRYING TO MAKE ANOTHER \xE2\x80\x98SANCTITY OF MARRIAGE\xE2\x80\x99..."
 date: 2011-11-01 10:11:41 -04:00
 

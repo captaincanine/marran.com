@@ -12,6 +12,10 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
 status_type: mobile_status_update
 application: 
@@ -32,6 +36,38 @@ likes:
   count: 18
 comments: 
   data: 
+  - id: 790499637_10151451857709638_28765497
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Wheee!  Since I got hitched I'm a weepy weddin' JUNQUIE!!!!  Post pics when possible!
+    created_time: 2012-10-05T16:03:38+0000
+  - id: 790499637_10151451857709638_28766381
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: I love a good kleinfeld's moment
+    created_time: 2012-10-05T17:02:33+0000
+  - id: 790499637_10151451857709638_28768721
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Yes, it's my wedding. I'm not even going to share it with David. It's MINE MINE MINE!
+    created_time: 2012-10-05T19:57:10+0000
+    likes: 1
+  - id: 790499637_10151451857709638_28768735
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: And by the way, there's something about going to places like Kleinfeld's that practically BEG you to turn into a Groomzilla. They were 15 minutes late for my appointment and I was ready to start pushing over mannequins in the menswear department.
+    created_time: 2012-10-05T19:58:37+0000
+    likes: 1
+  - id: 790499637_10151451857709638_28768740
+    from: 
+      name: Patrick Yacco
+      id: "507963176"
+    message: Can I call you Keithzilla from now on?
+    created_time: 2012-10-05T19:59:11+0000
   - id: 790499637_10151451857709638_28768747
     from: 
       name: Patrick Yacco
@@ -51,9 +87,9 @@ comments:
     message: Emily - Thank you so much for the kind words! If we end up in The Times, you can be sure that I will let the whole world know!
     created_time: 2012-10-06T13:15:45+0000
     likes: 1
-  count: 9
-layout: facebook-status
-title: Friday, Oct  5, 2012 - 11:57AM
+  count: 8
+layout: status
+title: Friday, Oct  5, 2012 around 11:57AM
 date: 2012-10-05 11:57:11 -04:00
 
 ---

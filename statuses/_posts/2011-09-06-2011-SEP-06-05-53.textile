@@ -1,22 +1,27 @@
 --- 
-id: 790499637_10150429155604638
+id: 790499637_10150429155609638
 from: 
   name: Keith Marran
   id: "790499637"
 message: Waterfall at Luang Prabang
 picture: http://photos-a.ak.fbcdn.net/hphotos-ak-ash4/293120_10150429155569638_3875908_s.jpg
-link: http://www.facebook.com/photo.php?fbid=10150429155569638&set=a.10150429155479638.449770.790499637&type=1
+link: http://www.facebook.com/photo.php?fbid=10150429155569638&set=a.10150429155479638.449770.790499637&type=1&relevant_count=1
 name: Indochina '11 (2)
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
 actions: 
 - name: Comment
-  link: http://www.facebook.com/790499637/posts/10150429155604638
+  link: http://www.facebook.com/790499637/posts/10150429155609638
 - name: Like
-  link: http://www.facebook.com/790499637/posts/10150429155604638
+  link: http://www.facebook.com/790499637/posts/10150429155609638
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: photo
+status_type: added_photos
 object_id: "10150429155569638"
 application: 
   name: Aperture
@@ -34,8 +39,11 @@ likes:
   count: 3
 comments: 
   count: 0
-layout: facebook-photo
-title: Tuesday, Sep  6, 2011 - 05:53AM
+layout: status-photo
+title: Tuesday, Sep  6, 2011 around 05:53AM
+images: 
+- thumbnail: /statuses/photo/293120_10150429155569638_3875908_s.jpg
+  fullsize: /statuses/photo/293120_10150429155569638_3875908_n.jpg
 date: 2011-09-06 05:53:20 -04:00
 
 ---

@@ -8,7 +8,7 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDtConASPim2sgv&w=90&h=9
 link: http://screenshotsofdespair.tumblr.com/
 name: Screenshots of Despair
 caption: screenshotsofdespair.tumblr.com
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/332034756853293
@@ -17,20 +17,23 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2012-03-25T11:49:18+0000
 updated_time: 2012-03-25T11:49:18+0000
 likes: 
   data: 
-  - name: Marcie Morton Sobelman
-    id: "1275161562"
   - name: David L Steele
     id: "1407655463"
-  count: 2
+  count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Sunday, Mar 25, 2012 - 07:49AM
+layout: status-link
+title: Sunday, Mar 25, 2012 around 07:49AM
 date: 2012-03-25 07:49:18 -04:00
 
 ---

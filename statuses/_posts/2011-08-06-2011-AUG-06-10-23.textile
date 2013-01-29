@@ -9,7 +9,7 @@ link: http://www.marran.com/blog/make-your-own-neat-o-qr-code/#.Tj1OAXnHmbY.face
 name: Make Your Own Neat-O QR Code
 caption: www.marran.com
 description: For my geeky and webby friends, I did some research on QR codes...
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/157592457648397
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -45,9 +48,9 @@ comments:
       id: "790499637"
     message: "The shocking thing about goatse (beyond the obvious) is how many cakes and cookies have been made of that image: http://www.google.com/search?q=goatse+cake&um=1&ie=UTF-8&tbm=isch&source=og&sa=N&hl=en&tab=wi&biw=2053&bih=1120"
     created_time: 2011-08-07T03:18:19+0000
-  count: 4
-layout: facebook-link
-title: Saturday, Aug  6, 2011 - 10:23AM
+  count: 2
+layout: status-link
+title: Saturday, Aug  6, 2011 around 10:23AM
 link-info: QR codes have slowly been gaining popularity in the past year. I had often seen QR codes on signs that had a creative element to them such as a logo in the middle and I wondered how they did it. Very easily, actually.
 date: 2011-08-06 10:23:07 -04:00
 

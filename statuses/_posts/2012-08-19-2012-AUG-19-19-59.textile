@@ -1,58 +1,67 @@
 --- 
-id: 790499637_10151365660484638
+id: 790499637_10151365660479638
 from: 
   name: Keith Marran
   id: "790499637"
-story: Keith Marran was tagged in his own photo.
+message: Sister Keith and Sister Lorenz Give Thanks for Dinner
 picture: http://photos-f.ak.fbcdn.net/hphotos-ak-ash4/390930_10151365659374638_1561572800_s.jpg
-link: http://www.facebook.com/photo.php?fbid=10151365659374638&set=at.490588709637.298813.790499637.790499637&type=1&relevant_count=1
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+link: http://www.facebook.com/photo.php?fbid=10151365659374638&set=a.490588709637.298813.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yM/x/og8V99JVf8G.gif
 actions: 
 - name: Comment
-  link: http://www.facebook.com/790499637/posts/10151365660484638
+  link: http://www.facebook.com/790499637/posts/10151365660479638
 - name: Like
-  link: http://www.facebook.com/790499637/posts/10151365660484638
+  link: http://www.facebook.com/790499637/posts/10151365660479638
+privacy: 
+  description: Public
+  value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: photo
-status_type: tagged_in_photo
+status_type: added_photos
 object_id: "10151365659374638"
 application: 
-  name: Photos
-  id: "2305272732"
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
 created_time: 2012-08-19T23:59:26+0000
 updated_time: 2012-08-20T14:03:35+0000
 likes: 
   data: 
   - name: Keith Marran
     id: "790499637"
+  - name: Terri Davis
+    id: "100000452612692"
   - name: Craig Choma
     id: "100001269764839"
   - name: Brett Bishop
     id: "1203637433"
   - name: Ron Schneider
     id: "1214250839"
-  - name: Charlotte Hertander
-    id: "577154539"
-  count: 24
+  count: 25
 comments: 
   data: 
-  - id: 790499637_10151365660484638_9701454
+  - id: 790499637_10151365660479638_9701454
     from: 
       name: Hank Horn
       id: "1220531741"
     message: Yiou both look so angelic!!
     created_time: 2012-08-20T02:02:32+0000
-  - id: 790499637_10151365660484638_9705548
+  - id: 790499637_10151365660479638_9705548
     from: 
       name: Brett Bishop
       id: "1203637433"
     message: Oh, I see that you're a funny uncle too.
     created_time: 2012-08-20T14:03:35+0000
   count: 2
-layout: facebook-photo
-title: Sunday, Aug 19, 2012 - 07:59PM
-link-info: Sister Keith and Sister Lorenz Give Thanks for Dinner
+layout: status-photo
+title: Sunday, Aug 19, 2012 around 07:59PM
+images: 
+- thumbnail: /statuses/photo/390930_10151365659374638_1561572800_s.jpg
+  fullsize: /statuses/photo/390930_10151365659374638_1561572800_n.jpg
 date: 2012-08-19 19:59:26 -04:00
 
 ---
-
+Sister Keith and Sister Lorenz Give Thanks for Dinner

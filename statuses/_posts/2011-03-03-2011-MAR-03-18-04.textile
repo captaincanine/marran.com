@@ -11,7 +11,7 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAZE8gcaKpPTHXB&w=90&h=9
 link: http://www.92y.org/shop/92Tri_event_detail.asp?productid=T-MM5CM29
 name: The Nib and Pick Society Presents...FISTICUFFS!
 caption: www.92y.org
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/114716181939636
@@ -21,8 +21,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2011-03-03T23:04:15+0000
 updated_time: 2011-03-03T23:26:23+0000
 likes: 
@@ -39,8 +42,8 @@ comments:
     message: and we learned the difference between a "caption" and a "thing"
     created_time: 2011-03-03T23:26:23+0000
   count: 1
-layout: facebook-link
-title: Thursday, Mar  3, 2011 - 06:04PM
+layout: status-link
+title: Thursday, Mar  3, 2011 around 06:04PM
 date: 2011-03-03 18:04:15 -05:00
 
 ---

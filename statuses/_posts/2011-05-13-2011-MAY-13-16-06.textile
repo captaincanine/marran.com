@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-05-13T20:06:03+0000
 updated_time: 2011-05-14T01:40:07+0000
 likes: 
@@ -35,8 +38,8 @@ comments:
     message: Time sure is funny!
     created_time: 2011-05-14T01:40:07+0000
   count: 1
-layout: facebook-status
-title: Friday, May 13, 2011 - 04:06PM
+layout: status
+title: Friday, May 13, 2011 around 04:06PM
 date: 2011-05-13 16:06:03 -04:00
 
 ---

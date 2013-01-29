@@ -9,7 +9,7 @@ link: http://www.wired.com/underwire/2010/12/superhero-travel-posters/
 name: "Retro Posters Show Off Superheroes\xE2\x80\x99 Home Cities"
 caption: www.wired.com
 description: The one for Metropolis is stunning.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yf/r/0HZPW6-lhQu.png
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/y2/x/0HZPW6-lhQu.png
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/311670575518828
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Likes
   id: "2409997254"
@@ -33,8 +36,8 @@ likes:
   count: 1
 comments: 
   count: 0
-layout: facebook-link
-title: Friday, Dec  2, 2011 - 06:31AM
+layout: status-link
+title: Friday, Dec  2, 2011 around 06:31AM
 link-info: As if the fictional worlds from comic books and sci-fi flicks weren't already on most geek's destination wish lists, Justin Van Genderen's n...
 date: 2011-12-02 06:31:17 -05:00
 

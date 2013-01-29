@@ -4,7 +4,7 @@ from:
   name: Keith Marran
   id: "790499637"
 story: Keith Marran shared Justin Winslow's photo.
-picture: http://photos-f.ak.fbcdn.net/hphotos-ak-snc6/282379_4139251758562_2063331470_s.jpg
+picture: http://photos-b.xx.fbcdn.net/hphotos-snc6/282379_4139251758562_2063331470_s.jpg
 link: http://www.facebook.com/photo.php?fbid=4139251758562&set=a.3949116085289.178198.1201684433&type=1
 name: Instagram Photos
 caption: Nickelodeon designer extraordinaire, Skip Hursh, and I collaborated on a drawing for the empty space above my bed. http://instagr.am/p/LbjgDMm6rE/
@@ -12,7 +12,7 @@ properties:
 - name: By
   text: Justin Winslow
   href: http://www.facebook.com/justinnw00
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/378176692242179
@@ -21,7 +21,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: photo
+status_type: shared_story
 object_id: "4139251758562"
 application: 
   name: Photos
@@ -42,9 +47,12 @@ comments:
     message: Thanks for sharing this, Keith :)
     created_time: 2012-06-05T19:22:29+0000
   count: 1
-layout: facebook-photo
-title: Monday, Jun  4, 2012 - 07:39PM
+layout: status-photo
+title: Monday, Jun  4, 2012 around 07:39PM
+images: 
+- thumbnail: /statuses/photo/282379_4139251758562_2063331470_s.jpg
+  fullsize: /statuses/photo/282379_4139251758562_2063331470_n.jpg
 date: 2012-06-04 19:39:30 -04:00
 
 ---
-
+Keith Marran shared Justin Winslow's photo.

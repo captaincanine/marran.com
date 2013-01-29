@@ -12,6 +12,10 @@ actions:
 privacy: 
   description: Friends
   value: ALL_FRIENDS
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
 status_type: mobile_status_update
 application: 
@@ -26,6 +30,26 @@ likes:
   count: 1
 comments: 
   data: 
+  - id: 790499637_10151429065429638_28557621
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: I wondered the same thing, so I'm nervously waiting to see what those braver than I report back.
+    created_time: 2012-09-22T11:15:38+0000
+  - id: 790499637_10151429065429638_28558254
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I decided to be brave, backed up my address book, and synced with Facebook. It worked great. It didn't overwrite any existing data. "
+    created_time: 2012-09-22T12:49:48+0000
+    likes: 1
+  - id: 790499637_10151429065429638_28558810
+    from: 
+      name: Ben Hirby
+      id: "571302296"
+    message: It just adds those addresses, doesn't overwrite. I think iOS has a new ability to link contacts together that originate from different services (FB, twitter, Skype, g+. I've been waiting for that.
+    created_time: 2012-09-22T13:53:25+0000
+    likes: 1
   - id: 790499637_10151429065429638_28558831
     from: 
       name: Keith Marran
@@ -52,8 +76,8 @@ comments:
     message: I decided to pass on this iPhone (for now). I just got my 4S in December, so I don't feel compelled to upgrade.
     created_time: 2012-09-22T16:47:41+0000
   count: 7
-layout: facebook-status
-title: Saturday, Sep 22, 2012 - 07:07AM
+layout: status
+title: Saturday, Sep 22, 2012 around 07:07AM
 date: 2012-09-22 07:07:42 -04:00
 
 ---

@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2011-10-29T22:00:59+0000
 updated_time: 2011-10-29T22:00:59+0000
 likes: 
@@ -28,8 +33,8 @@ likes:
   count: 5
 comments: 
   count: 0
-layout: facebook-status
-title: Saturday, Oct 29, 2011 - 06:00PM
+layout: status
+title: Saturday, Oct 29, 2011 around 06:00PM
 date: 2011-10-29 18:00:59 -04:00
 
 ---

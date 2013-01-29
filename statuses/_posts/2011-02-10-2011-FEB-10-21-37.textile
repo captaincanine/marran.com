@@ -9,7 +9,7 @@ link: http://www.hollywoodreporter.com/blogs/heat-vision/logan-s-run-back-race-9
 name: "\xE2\x80\x98Logan\xE2\x80\x99s Run\xE2\x80\x99 Back in the Race with Ryan Gosling Starring - Heat Vision"
 caption: www.hollywoodreporter.com
 description: "Well, I have been fearing this day for a long time, but at the same time, shocked that it didn't come sooner. They are remaking Logan's Run - one of my all-time favorite movies as a kid. The movie is a such a product of the 70's, I can't imagine what they'll do to it. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/188192117878336
@@ -19,12 +19,45 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 created_time: 2011-02-11T02:37:15+0000
 updated_time: 2011-02-11T22:49:08+0000
 comments: 
   data: 
+  - id: 790499637_188192117878336_2533868
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Because it varies ridiculously from the book.  "There is no Sanctuary" isn't even in it,as I recall.  When I'd heard about this years ago, they claimed they were sticking closer to the book.  I liked the movie, too, then read the book and hated it.  ;)  That's why.
+    created_time: 2011-02-11T07:07:47+0000
+  - id: 790499637_188192117878336_2534208
+    from: 
+      name: David L Steele
+      id: "1407655463"
+    message: The retool of Battlestar Galactica went quite well until they Lost-ified it at the end... just a thought.  Logan's Run was one of my favourites as a kid, as well.  Hope they don't F it up.
+    created_time: 2011-02-11T08:46:08+0000
+  - id: 790499637_188192117878336_2535126
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Thanks, Pete. Maybe I'll check out the book. I've also thought that Logan's Run could benefit from a "Battlestar Galactica" style reboot.
+    created_time: 2011-02-11T12:08:12+0000
+  - id: 790499637_188192117878336_2536469
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: In general I am against remakes... but some, just some, are warranted.  One of cooler (or more distubing, depending on how one looks at it) is the cut-off age in the book.   It's not 30.  It's more like 18 (not sure if exactly that, s'been a while, but it's close)  Can you IMAGINE a world run by no one older than 18??
+    created_time: 2011-02-11T15:53:38+0000
+  - id: 790499637_188192117878336_2536473
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: (altho it would seem they are upping the age again - sigh)
+    created_time: 2011-02-11T15:53:58+0000
   - id: 790499637_188192117878336_2538881
     from: 
       name: Brett Bishop
@@ -38,8 +71,8 @@ comments:
     message: What I'm more concerned about is the remake of the 1939 'Wizard of OZ' (no, not going to the actual book, but the 1939 movie script) and also the remake of "Highlander"  OY.
     created_time: 2011-02-11T22:49:08+0000
   count: 7
-layout: facebook-link
-title: Thursday, Feb 10, 2011 - 09:37PM
+layout: status-link
+title: Thursday, Feb 10, 2011 around 09:37PM
 link-info: "Producers Joel Silver and Akiva Goldsman are lining up Nicolas Winding Refn to sit in the director\xE2\x80\x99s chair."
 date: 2011-02-10 21:37:15 -05:00
 

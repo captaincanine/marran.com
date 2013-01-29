@@ -9,7 +9,7 @@ link: http://lifehacker.com/5791032/improve-your-luck-by-relaxing-keeping-an-ope
 name: What Lucky People Do Differently than Unlucky People
 caption: lifehacker.com
 description: I'm sure this applies to a lot of people - not just me. It turns out there's a skill to being lucky.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/123963701012901
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -44,8 +47,8 @@ comments:
     message: If I agree, it would only be partially.
     created_time: 2011-04-13T19:47:19+0000
   count: 1
-layout: facebook-link
-title: Wednesday, Apr 13, 2011 - 10:09AM
+layout: status-link
+title: Wednesday, Apr 13, 2011 around 10:09AM
 link-info: What makes a person lucky?  Often it's less about actual luck than it is about a person's general outlook.  Here's why. Entrepreneur Jonathan Fields, in his personal blog, points to a fascinating study by a psychologist Richard Wiseman.
 date: 2011-04-13 10:09:06 -04:00
 

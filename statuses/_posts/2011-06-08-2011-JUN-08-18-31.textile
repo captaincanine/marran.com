@@ -9,7 +9,7 @@ link: http://gawker.com/5810072/anthony-weiners-wife-is-pregnant
 name: Anthony Weiner's Wife Is Pregnant
 caption: gawker.com
 description: Wow. This story continues its slow sink into awfulness.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/135304033214460
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -42,8 +45,8 @@ comments:
     created_time: 2011-06-08T22:35:25+0000
     likes: 1
   count: 2
-layout: facebook-link
-title: Wednesday, Jun  8, 2011 - 06:31PM
+layout: status-link
+title: Wednesday, Jun  8, 2011 around 06:31PM
 link-info: "Here's one theory as to why Huma Abedin, the digitally cuckolded wife of Anthony Weiner, has kept a low profile in the wake of her husband's humiliation and quietly signaled that their marriage will survive:"
 date: 2011-06-08 18:31:41 -04:00
 

@@ -9,7 +9,7 @@ link: http://batsandbones.tumblr.com/post/23418483425/my-venn-diagram-of-neil-ga
 name: "My venn diagram of Neil Gaiman\xE2\x80\x99s advice for..."
 caption: batsandbones.tumblr.com
 description: I like to think that I hit orange most of the time. Sometimes white.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/172744082856965
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2012-06-18T14:10:44+0000
 updated_time: 2012-06-18T20:01:43+0000
 likes: 
@@ -53,8 +58,8 @@ comments:
     message: Erin - Thank you so much for prompting me to watch the video. It was stunning.
     created_time: 2012-06-18T20:01:43+0000
   count: 3
-layout: facebook-link
-title: Monday, Jun 18, 2012 - 10:10AM
+layout: status-link
+title: Monday, Jun 18, 2012 around 10:10AM
 link-info: "My venn diagram of Neil Gaiman\xE2\x80\x99s advice for working freelance from this amazing speech http://vimeo.com/42372767"
 date: 2012-06-18 10:10:44 -04:00
 

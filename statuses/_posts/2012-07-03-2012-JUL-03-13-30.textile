@@ -9,7 +9,7 @@ link: http://opinionator.blogs.nytimes.com/2012/06/30/the-busy-trap/
 name: The 'Busy' Trap
 caption: opinionator.blogs.nytimes.com
 description: I wish I had time to read this, but it's been a crazy week. I'm so busy. Busier than you, probably. I barely have time to update my Facebook status. That's how busy I am.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/260049117430672
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Links
   id: "2309869772"
@@ -56,8 +61,8 @@ comments:
     message: I should be studying...more...but...
     created_time: 2012-07-04T02:23:28+0000
   count: 3
-layout: facebook-link
-title: Tuesday, Jul  3, 2012 - 01:30PM
+layout: status-link
+title: Tuesday, Jul  3, 2012 around 01:30PM
 link-info: The "crazy busy" existence so many of us complain about is almost entirely self-imposed.
 date: 2012-07-03 13:30:21 -04:00
 

@@ -8,8 +8,8 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDW36UX6js8R6kM&w=90&h=9
 link: http://www.marran.com/blog/forcing-your-fingers/
 name: Forcing Your Fingers
 caption: www.marran.com
-description: 
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/144946252240100
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -28,10 +31,10 @@ created_time: 2011-04-25T18:37:06+0000
 updated_time: 2011-04-25T18:37:06+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Monday, Apr 25, 2011 - 02:37PM
+layout: status-link
+title: Monday, Apr 25, 2011 around 02:37PM
 link-info: John Hodgman's words on fighting procrastination really strike a chord with me. Sometimes you just have to force your fingers to start typing.
 date: 2011-04-25 14:37:06 -04:00
 
 ---
-
+Keith Marran shared a link.

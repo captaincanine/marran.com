@@ -9,7 +9,7 @@ link: http://sethgodin.typepad.com/seths_blog/2011/03/are-you-making-something.h
 name: "Seth's Blog: Are you making something?"
 caption: sethgodin.typepad.com
 description: Yikes. This hits a little too close to home. I think it might be time to remove Facebook, MacRumors, and Gawker links from my work computer and use the iPad for non-productive browsing.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/142522152480046
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -28,6 +31,25 @@ created_time: 2011-03-23T20:19:29+0000
 updated_time: 2011-03-24T16:30:31+0000
 comments: 
   data: 
+  - id: 790499637_142522152480046_1088124
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Sigh.  It makes sense....but I just don't WANT to.....
+    created_time: 2011-03-23T20:27:37+0000
+  - id: 790499637_142522152480046_1088145
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I hear ya. Why can't life just work out the way I want without all these sacrifices?
+    created_time: 2011-03-23T20:32:57+0000
+  - id: 790499637_142522152480046_1088147
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Note that I am on Facebook right now, commenting on my plan to severely limit my Facebook time.
+    created_time: 2011-03-23T20:33:27+0000
+    likes: 1
   - id: 790499637_142522152480046_1088166
     from: 
       name: Thomas Sproat
@@ -41,8 +63,8 @@ comments:
     message: His points are salient and similarly close to home.
     created_time: 2011-03-24T16:30:31+0000
   count: 5
-layout: facebook-link
-title: Wednesday, Mar 23, 2011 - 04:19PM
+layout: status-link
+title: Wednesday, Mar 23, 2011 around 04:19PM
 link-info: Making something is work. Let's define work, for a moment, as something you create that has a lasting value in the market. Twenty years ago, my friend Jill discovered Tetris. Unfortunately, she was working on her Ph.D. thesis at the...
 date: 2011-03-23 16:19:29 -04:00
 

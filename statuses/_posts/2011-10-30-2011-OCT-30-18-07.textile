@@ -1,5 +1,5 @@
 --- 
-id: 790499637_10150512306659638
+id: 790499637_10150512306674638
 from: 
   name: Keith Marran
   id: "790499637"
@@ -12,18 +12,23 @@ with_tags:
   - name: Robb Bloom
     id: "1095747683"
 message: Bravo to the Italians for inventing Tortelli di Zucca. An thanks to Robb for teaching me how to make it.
-picture: http://photos-c.ak.fbcdn.net/hphotos-ak-ash4/316851_10150512304264638_31873075_s.jpg
-link: http://www.facebook.com/photo.php?fbid=10150512304264638&set=a.490588709637.298813.790499637&type=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+picture: http://photos-a.xx.fbcdn.net/hphotos-ash4/316851_10150512304264638_31873075_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150512304264638&set=a.490588709637.298813.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yM/x/og8V99JVf8G.gif
 actions: 
 - name: Comment
-  link: http://www.facebook.com/790499637/posts/10150512306659638
+  link: http://www.facebook.com/790499637/posts/10150512306674638
 - name: Like
-  link: http://www.facebook.com/790499637/posts/10150512306659638
+  link: http://www.facebook.com/790499637/posts/10150512306674638
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: photo
+status_type: added_photos
 object_id: "10150512304264638"
 application: 
   name: Facebook for iPhone
@@ -41,24 +46,82 @@ likes:
     id: "1386266174"
   - name: T'ai Chu-Richardson
     id: "14101146"
-  count: 11
+  count: 10
 comments: 
   data: 
-  - id: 790499637_10150512306659638_7148298
+  - id: 790499637_10150512306674638_7143235
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: AWWWW! Thx Keith!
+    created_time: 2011-10-30T22:10:57+0000
+  - id: 790499637_10150512306674638_7143236
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: (my god that looks good)
+    created_time: 2011-10-30T22:11:06+0000
+  - id: 790499637_10150512306674638_7143343
+    from: 
+      name: Gregory Seta
+      id: "100002115994439"
+    message: As an Italian, you're welcome. As a neighbor, YES PLEASE.
+    created_time: 2011-10-30T22:20:02+0000
+    likes: 1
+  - id: 790499637_10150512306674638_7143402
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: What's inside? They look divine!
+    created_time: 2011-10-30T22:25:55+0000
+  - id: 790499637_10150512306674638_7143788
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Wonderful. Just looked up a recipe. Did you use macaroons and some weird spicy pear ingredient?  That was what was in the recipe I found.
+    created_time: 2011-10-30T23:02:36+0000
+  - id: 790499637_10150512306674638_7145422
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: The insides are pumpkin, parmigiano reggiano, amaretti, and mostarda di fruitta (a special Italian concoction with candied fruit soaked in mustard). It's a bizarre list of ingredients that combines to one of the best pasta dishes I've ever had. I originally had it in Mantova in Italy and wrote down the name of the name of the dish so I would never forget it.
+    created_time: 2011-10-31T02:10:29+0000
+  - id: 790499637_10150512306674638_7145451
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: Wow! That sounds delicious. What kind of sauce do you serve over it, if any?
+    created_time: 2011-10-31T02:12:57+0000
+  - id: 790499637_10150512306674638_7145552
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Just butter and a sprinkle of parmiggiano reggiano. This is the recipe to follow: http://ricette.giallozafferano.it/Tortelli-di-zucca.html. Google will translate the page for you. The hard part is finding the mostarda di fruitta (it's important and there's no substitute for it), but I have an Italian grocery store a block away."
+    created_time: 2011-10-31T02:25:26+0000
+  - id: 790499637_10150512306674638_7145591
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: I'm lucky to live in a neighborhood with a bevy of Italian markets...I will HAVE to try this. Thanks for the idea!
+    created_time: 2011-10-31T02:31:01+0000
+  - id: 790499637_10150512306674638_7148298
     from: 
       name: Renee Kent
       id: "531319519"
     message: I think I have found course 1 of Christmas Eve dinner. :-)  Now to find the mostarda di fruitta....
     created_time: 2011-10-31T11:24:29+0000
-  - id: 790499637_10150512306659638_7152671
+  - id: 790499637_10150512306674638_7152671
     from: 
       name: Anne Maxfield
       id: "1541077932"
     message: Looks and sounds delicious!
     created_time: 2011-10-31T20:12:17+0000
   count: 11
-layout: facebook-photo
-title: Sunday, Oct 30, 2011 - 06:07PM
+layout: status-photo
+title: Sunday, Oct 30, 2011 around 06:07PM
+images: 
+- thumbnail: /statuses/photo/316851_10150512304264638_31873075_s.jpg
+  fullsize: /statuses/photo/316851_10150512304264638_31873075_n.jpg
 date: 2011-10-30 18:07:39 -04:00
 
 ---

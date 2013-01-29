@@ -9,7 +9,7 @@ link: http://arstechnica.com/microsoft/news/2011/11/the-end-of-an-era-internet-e
 name: "The end of an era: Internet Explorer drops below 50% of Web usage"
 caption: arstechnica.com
 description: "Die, IE, DIE! "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/SC2ZmEkfI-X.png
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/ya/x/SC2ZmEkfI-X.png
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/240197172700490
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2011-11-02T23:11:56+0000
 updated_time: 2011-11-03T05:13:29+0000
 likes: 
@@ -54,8 +59,8 @@ comments:
     message: However there are certain websites that never work quite right with Firefox or Safari and on my pc at work, I'll revert to using IE when nothing else will quite do it.
     created_time: 2011-11-03T05:13:29+0000
   count: 3
-layout: facebook-link
-title: Wednesday, Nov  2, 2011 - 07:11PM
+layout: status-link
+title: Wednesday, Nov  2, 2011 around 07:11PM
 link-info: "Two things happened during October: Internet Explorer lost its majority share of the browser market, and here at Ars, Chrome overtook Firefox for the first time ever. We think the cause could be the same: geeks set the agenda when it comes to browser usage, and the browser geeks love at the moment i..."
 date: 2011-11-02 19:11:56 -04:00
 

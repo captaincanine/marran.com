@@ -28,8 +28,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: app_created_story
 application: 
   name: Eventbrite
   namespace: eventbriteog
@@ -38,8 +41,8 @@ created_time: 2011-05-27T10:05:55+0000
 updated_time: 2011-05-27T10:05:55+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Friday, May 27, 2011 - 06:05AM
+layout: status-link
+title: Friday, May 27, 2011 around 06:05AM
 date: 2011-05-27 06:05:55 -04:00
 
 ---

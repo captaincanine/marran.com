@@ -12,11 +12,52 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2011-12-04T20:30:02+0000
 updated_time: 2011-12-09T02:07:16+0000
 comments: 
   data: 
+  - id: 790499637_10150587444269638_23382638
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Have you tried soaking the mac nuts and whipping them into cream in the highspeed blender?Then flavor, use a little coconut oil and when it is refrigerated it should be a scoopable cream you could coat in chocolate.
+    created_time: 2011-12-04T21:09:10+0000
+  - id: 790499637_10150587444269638_23383285
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: It turns out the lemon myrtle needed more sugar. The nougatine solved it. Thanks for the help, though!
+    created_time: 2011-12-04T21:35:18+0000
+  - id: 790499637_10150587444269638_23479270
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: Are you using the lemon myrtle leaves or oil? You can also buy it ground. Interesting to know how it worked out. Where are you sourcing it?
+    created_time: 2011-12-08T20:23:13+0000
+  - id: 790499637_10150587444269638_23481843
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: I want to know where you get mostarda di frutta for those tortelloni.  Also, can you repost the recipe you used?
+    created_time: 2011-12-08T22:10:40+0000
+  - id: 790499637_10150587444269638_23484682
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I'm using the lemon myrtle leaves. I got them from a tea company in the U.S. We just finished that batch and it turned out great. I can send you a recipe for macadamia and lemon myrtle brittle. "
+    created_time: 2011-12-09T00:35:45+0000
+  - id: 790499637_10150587444269638_23484709
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Renee, I'll post the recipe for tortelli do zucca next week. We get mostarda do frutta at an Italian import store a block from our house. There's got to be an online source for it. I think it's great. I chopped it up and used it to glaze acorn squashes for Thanksgiving. "
+    created_time: 2011-12-09T00:37:20+0000
   - id: 790499637_10150587444269638_23484803
     from: 
       name: Renee Kent
@@ -30,8 +71,8 @@ comments:
     message: "This is the place I get it from: http://buonitalia.com/dettaglio.asp?subcatid=836&id=200&search=frutta&r="
     created_time: 2011-12-09T02:07:16+0000
   count: 8
-layout: facebook-status
-title: Sunday, Dec  4, 2011 - 03:30PM
+layout: status
+title: Sunday, Dec  4, 2011 around 03:30PM
 date: 2011-12-04 15:30:02 -05:00
 
 ---

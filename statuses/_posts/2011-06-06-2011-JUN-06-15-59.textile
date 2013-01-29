@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-06-06T19:59:46+0000
 updated_time: 2011-06-06T19:59:46+0000
 likes: 
@@ -28,8 +31,8 @@ likes:
   count: 3
 comments: 
   count: 0
-layout: facebook-status
-title: Monday, Jun  6, 2011 - 03:59PM
+layout: status
+title: Monday, Jun  6, 2011 around 03:59PM
 date: 2011-06-06 15:59:46 -04:00
 
 ---

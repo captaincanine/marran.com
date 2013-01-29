@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2012-01-05T23:35:15+0000
 updated_time: 2012-01-06T13:45:03+0000
 likes: 
@@ -28,6 +33,126 @@ likes:
   count: 5
 comments: 
   data: 
+  - id: 790499637_10150670513254638_24099420
+    from: 
+      name: Gregory Seta
+      id: "100002115994439"
+    message: I'm making a tortilla-based dinner tonight too, but mine aren't crying yet.  What brand do you use?
+    created_time: 2012-01-05T23:40:40+0000
+  - id: 790499637_10150670513254638_24099509
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I have occasionally thought about buying a tortilla press because homemade tortillas really are that much better than store-bought. But that's a level of gaydom I'm not sure I want to hit just yet.
+    created_time: 2012-01-05T23:46:18+0000
+    likes: 3
+  - id: 790499637_10150670513254638_24099547
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Really, Keith? Really? Shall we review previous posts? Homemade tortillas won't be in the top 10. Just saying.....
+    created_time: 2012-01-05T23:48:54+0000
+    likes: 6
+  - id: 790499637_10150670513254638_24099552
+    from: 
+      name: Gregory Seta
+      id: "100002115994439"
+    message: "But if (when?) you hit it, let me know: I'm totally gay enough to say yes to a tortilla-pressing party."
+    created_time: 2012-01-05T23:49:06+0000
+    likes: 1
+  - id: 790499637_10150670513254638_24099581
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: "This reminds me of you at dinner @ The Jumping Bean... Your food came, you looked at it with dismay growing in your eyes and you said 'Why did I get chimichangas?  I ALWAYS get chimichangas. And I'm sick of them' (or thereabouts) "
+    created_time: 2012-01-05T23:50:47+0000
+  - id: 790499637_10150670513254638_24099592
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: LOL!  Keith you are too funny!  I make a mexican lasagna.  You layer alternately a meat mixture consisting of Hamburger, tomato sauce, and seasoning, with layers of cheese, flour tortillas, and olives.  It's really easy and very yummy!  Just put it in a casserole dish, and bake for about 20 minutes, just until the cheese is melted.  You are basically using the tortillas in place of the noodles.
+    created_time: 2012-01-05T23:51:18+0000
+  - id: 790499637_10150670513254638_24099822
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: "Now I am just confused re:  gaydom.  I'd press tortillas, and I doubt my gaydom is higher than 29/100.  However, you DO knit stocking caps, which I might avoid for that exact reason."
+    created_time: 2012-01-06T00:05:04+0000
+  - id: 790499637_10150670513254638_24100201
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: There is nothing gay about knitting! Soldiers in WWI and WWII used to knit their own gloves, hats, and scarves. And remember, Jamie Lee Curtis was almost able to stop Michael Meyers by jamming knitting needles in his neck. Hmm...maybe if I saw someone take down a horror movie monster with a tortilla press, I'd feel more butch about owning one.
+    created_time: 2012-01-06T00:25:16+0000
+    likes: 3
+  - id: 790499637_10150670513254638_24100215
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Peter - I don't doubt that it happened, but I have no memory of that. Your memory is impeccable. And I'm guessing that chimichangas were not the first thing I ingested that night.
+    created_time: 2012-01-06T00:26:24+0000
+  - id: 790499637_10150670513254638_24100226
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: "Knitting...hrm....maybe #24 on the list.  Homemade tortillas?  Still not top 10."
+    created_time: 2012-01-06T00:27:03+0000
+  - id: 790499637_10150670513254638_24100241
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Sandy - Thanks for the recipe. That sounds great and easy.
+    created_time: 2012-01-06T00:27:54+0000
+  - id: 790499637_10150670513254638_24100248
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: This post is cracking me up!  And you're welcome!
+    created_time: 2012-01-06T00:28:25+0000
+  - id: 790499637_10150670513254638_24100273
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      I am pretty sure someone died from a tortilla press in El Mariachi.  Or maybe from Dusk till Dawn.
+      
+      And besides, I am pretty sure some soldiers in WWI and WWII engaged in gay sex, but that doesn't make it any less gay.  :-)
+    created_time: 2012-01-06T00:29:48+0000
+    likes: 1
+  - id: 790499637_10150670513254638_24100401
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: It wouldn't be the sex making the soldiers gay it would be the time that one of them said "Everyone! Take a gander at my latest cowl neck sweater vest! Who's jealous?" as someone else said "I LOVE the cabling! You have got to teach me that."
+    created_time: 2012-01-06T00:37:28+0000
+    likes: 2
+  - id: 790499637_10150670513254638_24100463
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: Keith I miss you!  LOL!!!  Whenever I come to New York, you have got to show me around!  :)
+    created_time: 2012-01-06T00:40:27+0000
+  - id: 790499637_10150670513254638_24100487
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: This is so funny, so I know these posts have ads on the side that pertain to what the subject is...And it's a tortilla press for $12.99! From thelatinproducts.com Hahahahaha!
+    created_time: 2012-01-06T00:42:14+0000
+  - id: 790499637_10150670513254638_24100708
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Well...that is tempting. 
+      
+      Sandy, if you come to NYC, I promise not to abandon you in any graveyards this time.
+    created_time: 2012-01-06T00:54:53+0000
+  - id: 790499637_10150670513254638_24102094
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: I am getting you the biggest, gayest tortilla press ever for your birthday.
+    created_time: 2012-01-06T02:04:21+0000
   - id: 790499637_10150670513254638_24102102
     from: 
       name: Sara Holoubek
@@ -42,8 +167,8 @@ comments:
     message: I got a tortilla cozy and was supposed to get a press for Christmas but it was back ordered and they ran out!  Evan owes me a tortilla press. Totally not gay.  Homemade tortillas kick the ass of storebought.
     created_time: 2012-01-06T13:45:03+0000
   count: 20
-layout: facebook-status
-title: Thursday, Jan  5, 2012 - 06:35PM
+layout: status
+title: Thursday, Jan  5, 2012 around 06:35PM
 date: 2012-01-05 18:35:15 -05:00
 
 ---

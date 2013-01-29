@@ -12,7 +12,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: status
+status_type: mobile_status_update
 created_time: 2011-10-28T18:47:14+0000
 updated_time: 2011-10-29T02:09:52+0000
 likes: 
@@ -22,6 +27,81 @@ likes:
   count: 1
 comments: 
   data: 
+  - id: 790499637_10150509193924638_22535429
+    from: 
+      name: Tim Paul
+      id: "649587941"
+    message: |-
+      I think he hurt himself. I honestly think Anya deserved it. She might have the most experience or the best skills, but her talent and sense of style really is advanced. 
+      
+      Learning to make certain kinds of garments is simply a matter of time.
+    created_time: 2011-10-28T20:05:53+0000
+    likes: 1
+  - id: 790499637_10150509193924638_22535479
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: Also, a "Victor-y" would've been so expected.
+    created_time: 2011-10-28T20:08:22+0000
+  - id: 790499637_10150509193924638_22535991
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I'm happy that she won. As you say, you can teach someone to sew, you can't teach someone taste. And she's got style and taste galore. Still...I think Victor's best pieces were phenomenal.  Heidi practically ripped that jacket off of the model on last week's episode.
+    created_time: 2011-10-28T20:33:56+0000
+  - id: 790499637_10150509193924638_22536629
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: I really liked Anya's collection a LOT.  But I had wished Kimberly to win.  I thought it the most thought out in terms of "concept."  And it rocked.  Joshua I hated from day one, methinks.  WHAT's with that GREEN he liked?? Victor's I liked to, but I agree that it had been two different sets... the prints I liked, the others, no.
+    created_time: 2011-10-28T21:06:05+0000
+  - id: 790499637_10150509193924638_22537162
+    from: 
+      name: Tim Paul
+      id: "649587941"
+    message: Josh has skills galore, but lacked taste, knowledge and really was more craft and skill over talent. Explaining the two is hard.
+    created_time: 2011-10-28T21:40:11+0000
+  - id: 790499637_10150509193924638_22537190
+    from: 
+      name: Tim Paul
+      id: "649587941"
+    message: Victor had talent, taste, but lacked knowledge and education, but honestly, I felt his sense of style came more from looking at what others had done, what he was seeing being sold. Hence the lack of education. He seemed like his inventiveness is mostly rooted in basing it on what others have done before him.
+    created_time: 2011-10-28T21:41:53+0000
+  - id: 790499637_10150509193924638_22537208
+    from: 
+      name: Tim Paul
+      id: "649587941"
+    message: Kimberly was good all around, but she seriously lacked the ability to take in information and process it, and come up with a result. IN TIME, that is something you can build and learn and work with. Experience will change her into something more.
+    created_time: 2011-10-28T21:42:57+0000
+  - id: 790499637_10150509193924638_22537235
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I agree. I respected a lot of Victor's designs, but I was rarely excited by them. You always knew you were going to see something solidly built with Victor, but he wasn't going to knock your socks off. However, I thought the fabric prints he made for his final collection really did take his work to a whole new level. I wish I had just explored that one thing really clearly.
+    created_time: 2011-10-28T21:44:50+0000
+  - id: 790499637_10150509193924638_22537258
+    from: 
+      name: Tim Paul
+      id: "649587941"
+    message: |-
+      Anya. Like I said, she can learn to make different things. The information is out there. She has taste. She has skill, it's just not as developed as Josh's and Victors. What she has over the others, is the ability to take in and process, and come up with a workable solution.
+      
+      Every time Kimberly hit a wall, she stopped. Anya would just pull out a wow moment when she hit a wall. Anya never viewed herself as accomplished or there, which is why she did such amazing work, because she truly was reaching inside herself and seeing what she could come up with. 
+      
+      Which I think the judges saw. Like Micheal said, he could see what her work would be if she did a handbag, or this or that. Which is different then saying, your work is going to be predictable. Two different things
+    created_time: 2011-10-28T21:46:41+0000
+  - id: 790499637_10150509193924638_22537269
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I was thinking about Anna and how she went back home and had a bit of a crisis. I remember wondering where she found her fabrics, as the Caribbean is not a place of high-end textile production. Nor is it a place where you get a lot done. It's a land of inspiration, but not necessarily of accomplishment. My own trips to the Caribbean usually result in border-line narcolepsy. I feel like Anna needed to come back to New York to get back into the head space of cranking out work. I could be wrong. It's just a theory. Move to NYC, Anna!
+    created_time: 2011-10-28T21:47:29+0000
+  - id: 790499637_10150509193924638_22537274
+    from: 
+      name: Tim Paul
+      id: "649587941"
+    message: "@ Keith, and I think that's where he hurt himself in the end. He backed away from his very original, amazing pieces, and went with something he thought would be safer, and more acceptable. And they weren't."
+    created_time: 2011-10-28T21:47:53+0000
   - id: 790499637_10150509193924638_22537301
     from: 
       name: Tim Paul
@@ -35,8 +115,8 @@ comments:
     message: We have to get a copy of Anya's sex tape!
     created_time: 2011-10-29T02:09:52+0000
   count: 13
-layout: facebook-status
-title: Friday, Oct 28, 2011 - 02:47PM
+layout: status
+title: Friday, Oct 28, 2011 around 02:47PM
 date: 2011-10-28 14:47:14 -04:00
 
 ---

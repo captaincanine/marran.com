@@ -13,12 +13,63 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-02-28T14:46:16+0000
 updated_time: 2011-02-28T23:09:42+0000
 comments: 
   data: 
+  - id: 790499637_10150192530374638_16277932
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: I'm with David on this.  Stick with the classic.
+    created_time: 2011-02-28T14:46:50+0000
+  - id: 790499637_10150192530374638_16277972
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: Make two batches. Stardard recipe and the Marran special dong.
+    created_time: 2011-02-28T14:48:29+0000
+    likes: 1
+  - id: 790499637_10150192530374638_16278212
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: You have a way with words, Sree!
+    created_time: 2011-02-28T15:03:05+0000
+  - id: 790499637_10150192530374638_16278393
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: I am a board-certified cunning linguist.
+    created_time: 2011-02-28T15:13:55+0000
+  - id: 790499637_10150192530374638_16283179
+    from: 
+      name: Ben Hirby
+      id: "571302296"
+    message: Do you still forgo the milk and double the butter in your Mac & Cheese?
+    created_time: 2011-02-28T19:02:30+0000
+  - id: 790499637_10150192530374638_16284617
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: what are ding dongs?
+    created_time: 2011-02-28T20:06:23+0000
+  - id: 790499637_10150192530374638_16284907
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Ben - I haven't made Kraft Mac & Cheese in eons. Though I occasionally search for a good homemade recipe, I have yet to find one.
+      
+      Rosie - These are ding dongs: http://3.bp.blogspot.com/_f_vuJiN9ZO8/TNYYwKKMpaI/AAAAAAAAB6o/LdaDrt7NxJY/s400/DingDongs.jpg
+      
+      I assume there's an Australian equivalent. They're sort of a universal concept in my mind.
+    created_time: 2011-02-28T20:19:39+0000
   - id: 790499637_10150192530374638_16285553
     from: 
       name: Ben Hirby
@@ -32,8 +83,8 @@ comments:
     message: Wow, ding dongs! That takes me back only a few years to my school days and bagged lunches.
     created_time: 2011-02-28T23:09:42+0000
   count: 9
-layout: facebook-status
-title: Monday, Feb 28, 2011 - 09:46AM
+layout: status
+title: Monday, Feb 28, 2011 around 09:46AM
 date: 2011-02-28 09:46:16 -05:00
 
 ---

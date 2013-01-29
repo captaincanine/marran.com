@@ -13,6 +13,8 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
 status_type: mobile_status_update
@@ -31,8 +33,8 @@ likes:
   count: 2
 comments: 
   count: 0
-layout: facebook-status
-title: Tuesday, Aug 28, 2012 - 09:19AM
+layout: status
+title: Tuesday, Aug 28, 2012 around 09:19AM
 date: 2012-08-28 09:19:28 -04:00
 
 ---

@@ -9,7 +9,7 @@ link: http://www.theatlantic.com/magazine/archive/2011/07/how-to-land-your-kid-i
 name: How to Land Your Kid in Therapy
 caption: www.theatlantic.com
 description: "This is a very interesting article, especially if you have kids. I think we have an ever-growing epidemic of optimism in this country that is doing us more harm than good. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/129301473824737
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Links
   id: "2309869772"
@@ -48,8 +51,8 @@ comments:
     message: Something about this article bothers me.  I smell another media-invented culture war.  The author lays out a false choice - overprotective parent v. tiger mom, and implies that mainstream childrearing thought endorses the first.  Then the author retreats to anecdote to "prove" it.
     created_time: 2011-07-19T19:16:04+0000
   count: 2
-layout: facebook-link
-title: Monday, Jul 18, 2011 - 10:08AM
+layout: status-link
+title: Monday, Jul 18, 2011 around 10:08AM
 link-info: "Why the obsession with our kids\xE2\x80\x99 happiness may be dooming them to unhappy adulthoods. A therapist and mother reports."
 date: 2011-07-18 10:08:10 -04:00
 

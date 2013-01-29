@@ -20,7 +20,7 @@ link: http://gawker.com/5948387/human-body-parts-made-out-of-meat-make-perfect-h
 name: Human Body Parts Made Out of Meat Make Perfect Halloween Appetizers, Cases for Cannibalism
 caption: gawker.com
 description: Whenever I find something really gross and offensive, I think "Oh. Robert Russin would really like that." But in reality, I have many friends with dark or completely absent taste. So enjoy, all you psychos...
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yq/r/SC2ZmEkfI-X.png
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/ya/x/SC2ZmEkfI-X.png
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/490880784268881
@@ -30,6 +30,8 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
 status_type: shared_story
@@ -63,8 +65,8 @@ comments:
     message: How WELL you know me after all these years!  *sniff*
     created_time: 2012-10-03T19:08:47+0000
   count: 3
-layout: facebook-link
-title: Tuesday, Oct  2, 2012 - 07:34PM
+layout: status-link
+title: Tuesday, Oct  2, 2012 around 07:34PM
 link-info: Halloween is less than a month away, which means it's time to start scrambling for a menu of thematic treats you can lay out on a spread for all the sexy devils, sexy pirates, sexy references to current events, and whatever other sexy things your kids' classmates will be dressed as when they...
 date: 2012-10-02 19:34:01 -04:00
 

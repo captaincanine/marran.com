@@ -9,7 +9,7 @@ link: http://ping.fm/wAoOT
 name: First Day in Rome, On Our Own
 caption: www.marran.com
 description: Another day of the Rome trip is posted.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/136736359726937
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Ping.fm
   namespace: pingdotfm
@@ -29,8 +32,8 @@ created_time: 2011-02-18T06:16:28+0000
 updated_time: 2011-02-18T06:16:28+0000
 comments: 
   count: 0
-layout: facebook-link
-title: Friday, Feb 18, 2011 - 01:16AM
+layout: status-link
+title: Friday, Feb 18, 2011 around 01:16AM
 link-info: After our tour with Marco, we decided to go back and tour some of our favorite spots that we didn't have quite enough time to see with Marco.
 date: 2011-02-18 01:16:28 -05:00
 

@@ -13,8 +13,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: status
+status_type: mobile_status_update
 created_time: 2011-03-26T18:03:44+0000
 updated_time: 2011-03-27T05:28:58+0000
 likes: 
@@ -28,6 +31,24 @@ likes:
   count: 3
 comments: 
   data: 
+  - id: 790499637_10150218428699638_16985092
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "It's national book week. The rules: grab the closest book to you, turn to page 56, post the 5th sentence as your status. Don't mention the title. Copy the rules as part of your status."
+    created_time: 2011-03-26T18:03:55+0000
+  - id: 790499637_10150218428699638_16985436
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: OK, I know it's against the rules... but what's that from? Very nice.
+    created_time: 2011-03-26T18:23:27+0000
+  - id: 790499637_10150218428699638_16986484
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Not sayin'. If I tell you, you will roll your eyes so hard that you will get optical nerve damage.
+    created_time: 2011-03-26T19:09:12+0000
   - id: 790499637_10150218428699638_16989196
     from: 
       name: Robb Bloom
@@ -44,8 +65,8 @@ comments:
       Definitely NOT what I had in mind!
     created_time: 2011-03-27T05:28:58+0000
   count: 5
-layout: facebook-status
-title: Saturday, Mar 26, 2011 - 02:03PM
+layout: status
+title: Saturday, Mar 26, 2011 around 02:03PM
 date: 2011-03-26 14:03:44 -04:00
 
 ---

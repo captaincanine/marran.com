@@ -9,7 +9,7 @@ link: http://www.washingtonpost.com/opinions/lets-just-say-it-the-republicans-ar
 name: "Let\xE2\x80\x99s just say it: The Republicans are the problem."
 caption: www.washingtonpost.com
 description: I usually didn't agree with the Republican party, but I used to at least understand what they stood for. Now I don't understand them at all. Where's their plan? What's their vision for the future? It seems to just be "Absolute Power for Billionaires".
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/415037168515176
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Links
   id: "2309869772"
@@ -33,8 +38,8 @@ likes:
   count: 2
 comments: 
   count: 0
-layout: facebook-link
-title: Saturday, Apr 28, 2012 - 10:30AM
+layout: status-link
+title: Saturday, Apr 28, 2012 around 10:30AM
 link-info: How Republicans have made Washington worse.
 date: 2012-04-28 10:30:29 -04:00
 

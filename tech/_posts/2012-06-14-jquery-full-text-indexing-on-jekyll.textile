@@ -88,14 +88,13 @@ class SearchGenerator < Generator
 end
 {% endhighlight %}
 
-You'll notice that I marked this as not safe. This plugin will not on Github because I included stemming. And for stemming to work, you have to run it on your own machine and upload the files to Github separately. 
+You'll notice that I marked this as not safe. This plugin will not run on Github because I included stemming. And for stemming to work, you have to run it on your own machine and upload the files to Github separately. 
 
-NOTE ON STEMMING: I use stemming so that "running" returns "runs" or "run" or "running". I decided that it was sort of a must-have for a basic search engine. I'm using @ruby-stemmer@ from "https://github.com/aurelian/ruby-stemmer":https://github.com/aurelian/ruby-stemmer. 
+NOTE ON STEMMING: I use stemming so that "running" returns "runs" or "run" or "running". I decided that it was sort of a must-have for a basic search engine. I was originally using @ruby-stemmer@ from "https://github.com/aurelian/ruby-stemmer":https://github.com/aurelian/ruby-stemmer, but I have since switched to @fast_stemmer@, which is much faster (hence, the name).
 
 Here's the important code:
 
 {% highlight ruby %}
-
 class Site
 
   attr_accessor :search_index, :search_posts
@@ -133,10 +132,7 @@ class Site
   end
   
   def createindex!
-      
-    require 'lingua/stemmer'
-    stemmer = Lingua::Stemmer.new
-    
+            
     searchwords = Hash.new
     postlist = Hash.new
         
@@ -156,18 +152,20 @@ class Site
     
         postlist[i] = self.posts[i]
       
-        word = stemmer.stem(word)
-        letter = word[0,2]
+        letter = word.stem[0,2]
         
+        # does the two-letter version exist? if not, add it
         if !searchwords.key?(letter)
           searchwords[letter] = Hash.new
         end
         
-        if !searchwords[letter].key?(word)
-          searchwords[letter][word] = Array.new
+        # does the full stem version exist? if not, add it
+        if !searchwords[letter].key?(word.stem)
+          searchwords[letter][word.stem] = Array.new
         end
         
-        searchwords[letter][word].push(i)
+        # add the post key to the hash
+        searchwords[letter][word.stem].push(i)
         
       end
       
@@ -181,9 +179,11 @@ class Site
 end
 {% endhighlight %}
 
-This code creates two big hash variables in the @createindex!@ method. One stores the association of words to post ids. The other stores a hash of post ids to their posts. 
+This code creates two big hash variables in the @createindex!@ method. One stores the association of words to post ids. The code creates a series of JSON files and puts them in @search/terms@. 
 
-Then, the code creates a series of JSON files and puts it in @search/terms@. It puts an HTML file for each post in @search/posts@.
+For instance, in the @al.json@ file, you would see the word "alone" with several ids after it. Then you would see the word "align" with different ids. Each id is a post that contains that word. And that id relates specifically to the other big hash variable that was created.
+
+That other hash variable stores a relationship of post ids to their posts. For instance, @23.html@ is the snippet of HTML that shows a search result entry for the post that we've called "23". When a search is performed, it gets a list of all the ids that contain those words, then retrieves all the search result items for those ids. Those variables are put in @search/posts@.
 
 Whew. 
 
@@ -342,13 +342,13 @@ siteSearch = function(w) {
 };
 {% endhighlight %}
 
-The only thing complicated about this code is the AJAX-iness of it. Essentially, it takes what's currently in the #search-text box, converts it to lower case, stems it, and then loads the JSON files based on the first two letters of each search word. Once it gets those responses, it takes all the post ids in those objects and goes to get an HTML snippet for that post - based on the id. 
+The only thing complicated about this code is the AJAX-iness of it. Essentially, it takes what's currently in the #search-text box, converts it to lower case, stems it, and then loads the JSON files based on the first two letters of each search word. Within that JSON file, it finds the specific word it's looking for and creates an array of post ids. If there are multiple words, it gets multiple lists of ids and merges them into one array. 
 
-There are some current limitations that I always mean to build but have yet to get around to it. It should listen for arrow commands from the user and highlight results. It should also listen for a return command and take the user to a search results page. Actually, that's how I was originally going to build it, but I decided that a popup was more convenient. The logic for a dedicated search results page would be the same: go to a page whose only responsibility was to run this Javascript and populate itself with results. 
+Once it has a list of all the ids, it has to get a search result item for each of those ids, so it makes another JSON call - this time to get the search result snippet. 
 
-Also, I'd like to add pagination at some point. 
+If you look at the code on Github, you'll see that the JQuery code is a little fancier than what I've described here. It interprets key commands and allows the user to easily highlight an item with arrow keys and go to that page using the return key. 
 
-There are some bugs in it which I have not had the time to trace down. It works pretty well most of the time. 
+I'd like to add pagination at some point, but that's a ways down the line.
 
 You can see the whole thing working at marran.com. And all the source code is in "https://github.com/captaincanine/marran.com":https://github.com/captaincanine/marran.com.
 

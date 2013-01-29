@@ -9,7 +9,7 @@ link: http://gawker.com/5910661/why-have-a-therapist-when-a-mean-friend-will-suf
 name: Why Have a Therapist When a Mean Friend Will Suffice?
 caption: gawker.com
 description: Your welcome, friends. I'm only helping you save money that you would normally spend on a therapist.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/406431389389871
@@ -18,7 +18,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -37,8 +42,8 @@ likes:
   count: 5
 comments: 
   count: 0
-layout: facebook-link
-title: Wednesday, May 16, 2012 - 06:59AM
+layout: status-link
+title: Wednesday, May 16, 2012 around 06:59AM
 link-info: The Wall Street Journal ran a story Tuesday featuring whiny people whining about how their old therapists let them whine too much.  According to the WSJ, these crybabies are now turning enlisting the services of brusque super bitchy therapists who cut them off mid-hot date story, set strict limits.....
 date: 2012-05-16 06:59:56 -04:00
 

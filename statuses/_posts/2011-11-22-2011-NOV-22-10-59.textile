@@ -21,10 +21,13 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: app_created_story
 application: 
-  name: "foursquare "
+  name: Foursquare
   namespace: playfoursquare
   id: "86734274142"
 created_time: 2011-11-22T15:59:28+0000
@@ -38,8 +41,8 @@ comments:
     message: "*bows in respect"
     created_time: 2011-11-22T16:04:03+0000
   count: 1
-layout: facebook-link
-title: Tuesday, Nov 22, 2011 - 10:59AM
+layout: status-link
+title: Tuesday, Nov 22, 2011 around 10:59AM
 link-info: foursquare
 date: 2011-11-22 10:59:28 -05:00
 

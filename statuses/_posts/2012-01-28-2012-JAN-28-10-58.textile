@@ -7,8 +7,8 @@ to:
   data: 
   - name: T'ai Chu-Richardson
     id: "14101146"
-  - name: Geeks OUT
-    category: Community organization
+  - category: Community
+    name: Geeks OUT
     id: "157044360997002"
 message: Thanks to T'ai for sharing this with me. It came up in a conversation at last night's Geeks OUT event.
 message_tags: 
@@ -29,7 +29,7 @@ link: http://johnl.org/2009/08/27/stalin-vs-hitler/
 name: "Stalin vs Hitler \xE2\x80\x93 comic relettered | johnl.org"
 caption: johnl.org
 description: Thanks to T'ai for sharing this with me. It came up in a conversation at last night's Geeks OUT event.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/310602368991258
@@ -38,7 +38,12 @@ actions:
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: link
+status_type: shared_story
 created_time: 2012-01-28T15:58:53+0000
 updated_time: 2012-01-28T15:58:53+0000
 likes: 
@@ -52,8 +57,8 @@ likes:
   count: 3
 comments: 
   count: 0
-layout: facebook-link
-title: Saturday, Jan 28, 2012 - 10:58AM
+layout: status-link
+title: Saturday, Jan 28, 2012 around 10:58AM
 link-info: This is a comic shown to me by friend Meron. It was originally in Russian by Alexey Lipatov, but an anonymous individual translated it the dialogue into English. It was re-formatted by Thomas Silbey. I went one step further and re-lettered the comic in English, in 2005.
 date: 2012-01-28 10:58:53 -05:00
 

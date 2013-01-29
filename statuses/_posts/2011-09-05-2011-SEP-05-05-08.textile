@@ -9,7 +9,7 @@ link: http://gawker.com/5837317/google-doodle-honors-freddie-mercurys-65th-birth
 name: Google Doodle Honors Freddie Mercury's 65th Birthday
 caption: gawker.com
 description: If only this weren't a giant ad for Google, I'd love it even more. But it starts good and gets more awesome as it goes.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/171106772965845
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -40,8 +43,8 @@ comments:
     message: Excellent choice of song for the clip.  The gawker link to the vid has gone dead, but I found it on the Washington Post site.
     created_time: 2011-09-05T14:39:48+0000
   count: 1
-layout: facebook-link
-title: Monday, Sep  5, 2011 - 05:08AM
+layout: status-link
+title: Monday, Sep  5, 2011 around 05:08AM
 link-info: Tomorrow marks the 65th birthday anniversary of legendary Queen frontman Freddie Mercury, and to celebrate the Googles have come up with this animated tribute inspired by the late, great(est) singer's lyrics, whimsical style, and flashy stage costumes.
 date: 2011-09-05 05:08:19 -04:00
 

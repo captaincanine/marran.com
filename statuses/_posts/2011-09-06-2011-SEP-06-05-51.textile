@@ -1,22 +1,27 @@
 --- 
-id: 790499637_10150429154609638
+id: 790499637_10150429154614638
 from: 
   name: Keith Marran
   id: "790499637"
 message: Sunrise over Luang Prabang
 picture: http://photos-f.ak.fbcdn.net/hphotos-ak-ash4/309292_10150429154584638_7166749_s.jpg
-link: http://www.facebook.com/photo.php?fbid=10150429154584638&set=a.10150429154474638.449769.790499637&type=1
+link: http://www.facebook.com/photo.php?fbid=10150429154584638&set=a.10150429154474638.449769.790499637&type=1&relevant_count=1
 name: Indochina '11 (1)
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
 actions: 
 - name: Comment
-  link: http://www.facebook.com/790499637/posts/10150429154609638
+  link: http://www.facebook.com/790499637/posts/10150429154614638
 - name: Like
-  link: http://www.facebook.com/790499637/posts/10150429154609638
+  link: http://www.facebook.com/790499637/posts/10150429154614638
 privacy: 
   description: Public
   value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
 type: photo
+status_type: added_photos
 object_id: "10150429154584638"
 application: 
   name: Aperture
@@ -32,8 +37,11 @@ likes:
   count: 2
 comments: 
   count: 0
-layout: facebook-photo
-title: Tuesday, Sep  6, 2011 - 05:51AM
+layout: status-photo
+title: Tuesday, Sep  6, 2011 around 05:51AM
+images: 
+- thumbnail: /statuses/photo/309292_10150429154584638_7166749_s.jpg
+  fullsize: /statuses/photo/309292_10150429154584638_7166749_n.jpg
 date: 2011-09-06 05:51:31 -04:00
 
 ---

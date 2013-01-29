@@ -6,7 +6,7 @@ from:
 message: David brought me a Hakone parquetry puzzle box from Japan. It requires 10 steps in sequence to open. They're awesome! (no cenobites appeared when I finally solved it.)
 picture: http://photos-g.ak.fbcdn.net/hphotos-ak-snc6/217848_10151421454404638_1216083415_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151421454404638&set=a.490588709637.298813.790499637&type=1&relevant_count=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yM/x/og8V99JVf8G.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151421454439638
@@ -16,6 +16,8 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: photo
 status_type: added_photos
@@ -28,17 +30,54 @@ created_time: 2012-09-17T16:11:03+0000
 updated_time: 2012-09-19T22:41:09+0000
 likes: 
   data: 
+  - name: Terri Davis
+    id: "100000452612692"
   - name: Andrea Miklasz
     id: "629554115"
   - name: Dave Stringer Hughes
     id: "800419"
   - name: Bryan John Ellicott
     id: "522695258"
-  - name: Stacey Combs Gardner
-    id: "1241205823"
-  count: 23
+  count: 24
 comments: 
   data: 
+  - id: 790499637_10151421454439638_9967589
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: you could put yer weeeed in thar!   JK  BEAUTIFUL!
+    created_time: 2012-09-17T16:20:15+0000
+  - id: 790499637_10151421454439638_9967763
+    from: 
+      name: Stephen S. Wade
+      id: "1206335"
+    message: PANDORICA!
+    created_time: 2012-09-17T16:41:22+0000
+  - id: 790499637_10151421454439638_9969200
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Why did you risk it?
+    created_time: 2012-09-17T19:33:16+0000
+  - id: 790499637_10151421454439638_9969485
+    from: 
+      name: Justin Winslow
+      id: "1201684433"
+    message: "\"no cenobites appeared when I finally solved it.\" lol"
+    created_time: 2012-09-17T20:00:13+0000
+  - id: 790499637_10151421454439638_9975528
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Joel - the moral of Hellraiser was that no matter what you did to accidentally summon demons, there's always someone else more deserving of endless torture that you can pawn them off on. So I wasn't worried.
+    created_time: 2012-09-18T11:59:45+0000
+    likes: 1
+  - id: 790499637_10151421454439638_9984917
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: "\"..more deserving of endless torture...\"  That would be me.  Glad I can keep the demons away..."
+    created_time: 2012-09-19T13:21:59+0000
   - id: 790499637_10151421454439638_9987628
     from: 
       name: Joel Muchmore
@@ -67,8 +106,11 @@ comments:
     message: With my lack of spatial orientation skills, that'd drive me mad. My son, however, would master it in about an hour.
     created_time: 2012-09-19T22:41:09+0000
   count: 10
-layout: facebook-photo
-title: Monday, Sep 17, 2012 - 12:11PM
+layout: status-photo
+title: Monday, Sep 17, 2012 around 12:11PM
+images: 
+- thumbnail: /statuses/photo/217848_10151421454404638_1216083415_s.jpg
+  fullsize: /statuses/photo/217848_10151421454404638_1216083415_n.jpg
 date: 2012-09-17 12:11:03 -04:00
 
 ---

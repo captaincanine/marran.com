@@ -9,7 +9,7 @@ link: http://www.marran.com/travel/the-laos-y-start-of-our-trip/#.TnR2V0q1pdU.fa
 name: The Laos-y Start of Our Trip
 caption: www.marran.com
 description: I have the first set of our Indochina travelog up. And it has video!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/124862307614354
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -39,8 +42,8 @@ likes:
   count: 4
 comments: 
   count: 0
-layout: facebook-link
-title: Saturday, Sep 17, 2011 - 06:29AM
+layout: status-link
+title: Saturday, Sep 17, 2011 around 06:29AM
 link-info: The start of our trip through Indochina began with Laos. I knew next to nothing about Laos before we got there other than the fact that a good friend had recommended it. The country is known as a vacation spot to locals, but it is largely off the tourist path.
 date: 2011-09-17 06:29:20 -04:00
 

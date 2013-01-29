@@ -9,7 +9,7 @@ link: http://gawker.com/5811494/sarah-palins-chief-propagandist-turns-on-her
 name: Sarah Palin's Chief Propagandist Turns On Her
 caption: gawker.com
 description: If Sarah Palin ever stops grabbing the media spotlight, what will we, the people of America, do? We've had her around for so long I can't imagine life without her high-jinks!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/159645717434192
@@ -19,8 +19,11 @@ privacy:
   description: "Friends; Except: Family"
   value: CUSTOM
   friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
   deny: "116609519637"
 type: link
+status_type: shared_story
 application: 
   name: Share_bookmarklet
   id: "5085647995"
@@ -48,8 +51,8 @@ comments:
     message: So irritating!
     created_time: 2011-06-14T20:30:05+0000
   count: 2
-layout: facebook-link
-title: Monday, Jun 13, 2011 - 06:26PM
+layout: status-link
+title: Monday, Jun 13, 2011 around 06:26PM
 link-info: "John Ziegler, a talk-radio host and filmmaker whose zeal in defending Sarah Palin's every move and utterance over the past two years zoomed past advocacy and into creepiness has now done what all stalkers do eventually:"
 date: 2011-06-13 18:26:07 -04:00
 
