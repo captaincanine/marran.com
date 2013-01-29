@@ -1,0 +1,31 @@
+--- 
+id: 790499637_109149769637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/109149769637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/109149769637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2009-05-30T03:19:51+0000
+updated_time: 2009-05-30T03:19:51+0000
+comments: 
+  count: 0
+layout: status
+title: Friday, May 29, 2009 around 11:19PM
+link-info: Keith saved 3 bookmarks on DeliciousBuena Vista Furniture, http://www.demejico.com/, and Casa Salazar - Fine Mexican Furniture and Accessories
+date: 2009-05-29 23:19:51 -04:00
+
+---
+

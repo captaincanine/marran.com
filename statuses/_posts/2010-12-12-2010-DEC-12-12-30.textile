@@ -1,0 +1,70 @@
+--- 
+id: 790499637_151643618217353
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I started knitting and "Children of Men" came on TV. I had forgotten what a punch to the gut that movie is. I'm shocked more than ever that it didn't win any oscars the year it came out.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/151643618217353
+- name: Like
+  link: http://www.facebook.com/790499637/posts/151643618217353
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2010-12-12T17:30:42+0000
+updated_time: 2010-12-13T18:01:41+0000
+comments: 
+  data: 
+  - id: 790499637_151643618217353_1501458
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      I should probably re-watch that.  I thought it was a great plot, but was unimpressed with the twists and turns it took and overall thought that it was awfully clean for such a  gritty idea.
+      
+      But sometimes when you watch a movie with high expectations related to your vision of how it should be, then you rewatch they are much better the second time.  Blah blah blah.  Glad your morning is awesome!
+    created_time: 2010-12-12T17:47:46+0000
+  - id: 790499637_151643618217353_1501464
+    from: 
+      name: Andrew Farrell
+      id: "546949607"
+    message: A great movie.  I fell in love once again with Michael Caine as I always seem to do whenever he comes out with a movie. You should check out the book by PD James.  Quite different.  Still wrenching, just in a different way.  Came out in the early 90's and the whole subplot with the Fishes enacting terrorist acts was not a factor.  That was all Cuaron's brilliance. Still a great read.
+    created_time: 2010-12-12T17:49:35+0000
+  - id: 790499637_151643618217353_1507788
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      I've heard that the book is quite good. Maybe one of my New Year's resolutions should be to read on a more regular basis. I tend to read in fits and starts. 
+      
+      Joel - definitely check out the movie again without any expectations. I think the director did a great job of cinematically capturing life trying to push its way through modern chaos. Several of the scenes had been burned into my memory and I didn't notice that until I saw it a second time.
+    created_time: 2010-12-13T15:57:46+0000
+  - id: 790499637_151643618217353_1507818
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      Too many people whose opinions I respect love that movie for me not to watch it again.
+      
+      The problem with reading is that your can't knit and read.  Not that that I have any personal experience...
+    created_time: 2010-12-13T16:02:50+0000
+  - id: 790499637_151643618217353_1508935
+    from: 
+      name: Andrew Farrell
+      id: "546949607"
+    message: Yeah my reading habits are equally erratic.  Audiobooks!  Knit and "read" at the same time.
+    created_time: 2010-12-13T18:01:41+0000
+  count: 5
+layout: status
+title: Sunday, Dec 12, 2010 around 12:30PM
+date: 2010-12-12 12:30:42 -05:00
+
+---
+I started knitting and "Children of Men" came on TV. I had forgotten what a punch to the gut that movie is. I'm shocked more than ever that it didn't win any oscars the year it came out.

@@ -1,0 +1,64 @@
+--- 
+id: 790499637_444712974637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just got thoroughly scolded by 6 elderly Brits for my rude plane exiting behavior.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/444712974637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/444712974637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14497994037
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-22T14:59:00+0000
+updated_time: 2010-05-23T07:50:32+0000
+likes: 
+  data: 
+  - name: Christine Marran
+    id: "1327144819"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_444712974637_13493009
+    from: 
+      name: Linda Rosenson Coe
+      id: "1440111516"
+    message: Tell them that Dame Edna would have approved!
+    created_time: 2010-05-22T15:01:15+0000
+  - id: 790499637_444712974637_13493123
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: What did you do, for Queen's sake?!
+    created_time: 2010-05-22T15:27:07+0000
+  - id: 790499637_444712974637_13497962
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      We had 45 minutes to make a connection at Heathrow. Our bags were in the overhead space four rows behind us. I did one of those things where just before the seat belt light turned off, I got up and ran back 4 rows and started getting the bags. The old farts in those rows still decided to get up and pretend I didn't exist and I didn't budge - I held my ground and kept getting our bags. They started shouting at me "I have never seen anything so rude in my entire life!" I totally ignored them. One of them next to the aisle said "He's been standing on my foot for the past 5 minutes!" which was not true at all. Eventually, their rants changed into "And look at him, he doesn't even care, does he?" and someone else would chime in "No, he doesn't care one lick." 
+      
+      They were so stereotypically "Elderly British", that I almost burst out laughing. They eventually realized that their indignation was having no effect whatsoever and just shut up.
+    created_time: 2010-05-23T07:50:32+0000
+  count: 3
+layout: status
+title: Saturday, May 22, 2010 around 10:59AM
+date: 2010-05-22 10:59:00 -04:00
+
+---
+I just got thoroughly scolded by 6 elderly Brits for my rude plane exiting behavior.

@@ -1,0 +1,46 @@
+--- 
+id: 790499637_125892404116912
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: It's true...I've looked down my nose at Comic Sans.
+link: http://www.mcsweeneys.net/links/monologues/15comicsans.html
+name: "Timothy McSweeney's Internet Tendency: I'm Comic Sans, Asshole."
+caption: www.mcsweeneys.net
+description: It's true...I've looked down my nose at Comic Sans.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/125892404116912
+- name: Like
+  link: http://www.facebook.com/790499637/posts/125892404116912
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2010-06-17T10:00:00+0000
+updated_time: 2010-06-17T15:07:11+0000
+comments: 
+  data: 
+  - id: 790499637_125892404116912_714729
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: And comic sans is back to defend its relevance to the vernacular!
+    created_time: 2010-06-17T15:07:11+0000
+  count: 1
+layout: status-link
+title: Thursday, Jun 17, 2010 around 06:00AM
+link-info: John Brandon's second novel, Citrus County,has arrived, and it's already drawing ravereviews from the folks at The RumpusBook Club. Pick up your copy today... or get Cirtus County and Arkansas in ourJohn Brandon Bundle.
+date: 2010-06-17 06:00:00 -04:00
+
+---
+It's true...I've looked down my nose at Comic Sans.

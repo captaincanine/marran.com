@@ -1,0 +1,83 @@
+--- 
+id: 790499637_424086820789
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just lost two weeks of data on Google Docs. No file revisions...nothing. I will never trust Google Docs again.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/424086820789
+- name: Like
+  link: http://www.facebook.com/790499637/posts/424086820789
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-01-21T20:24:48+0000
+updated_time: 2010-01-21T21:45:42+0000
+comments: 
+  data: 
+  - id: 790499637_424086820789_10879285
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: NO!!! NO!!! I love Google Docs.  I use it all the time!! Don't say that!
+    created_time: 2010-01-21T20:43:52+0000
+  - id: 790499637_424086820789_10879404
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Back up everything onto a hard drive. As soon as I Googled my problem I discovered that I am by no means the first person that this has happened to. "
+    created_time: 2010-01-21T20:46:07+0000
+  - id: 790499637_424086820789_10879481
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: GAH!!!  Shared documents?  Did every collaborator lose it?  I'm going to barf.
+    created_time: 2010-01-21T20:47:47+0000
+  - id: 790499637_424086820789_10879588
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Yes. The file reverted to its first version with no revisions since the file was created. For all users. I've tried on several machines and with all the collaborators.
+    created_time: 2010-01-21T20:49:45+0000
+  - id: 790499637_424086820789_10879776
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: F-word.  Thanks for the heads up.
+    created_time: 2010-01-21T20:53:00+0000
+  - id: 790499637_424086820789_10880431
+    from: 
+      name: Patrick Kee Kietsrichart
+      id: "1334676583"
+    message: "Thanks for the info. "
+    created_time: 2010-01-21T21:05:54+0000
+  - id: 790499637_424086820789_10880688
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "FYI - This is the article I found that showed me that it wasn't just me: http://www.google.com/support/forum/p/Google+Docs/thread?tid=69620928853f4820&hl=en"
+    created_time: 2010-01-21T21:10:42+0000
+  - id: 790499637_424086820789_10882346
+    from: 
+      name: Ian Geoghegan
+      id: "502447480"
+    message: This is that "reduce" part of map/reduce.
+    created_time: 2010-01-21T21:45:42+0000
+  count: 8
+layout: status
+title: Thursday, Jan 21, 2010 around 03:24PM
+date: 2010-01-21 15:24:48 -05:00
+
+---
+I just lost two weeks of data on Google Docs. No file revisions...nothing. I will never trust Google Docs again.

@@ -1,0 +1,53 @@
+--- 
+id: 790499637_443826139637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I stood naked in a room with two clothed men. They poured steaming mud out of a hose on to a bed. They told me to lie down. It was fun.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/443826139637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/443826139637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14352427842
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-20T10:21:31+0000
+updated_time: 2010-05-20T11:35:03+0000
+likes: 
+  data: 
+  - name: Rosemary Feneziani
+    id: "573541002"
+  - name: Thomas Sproat
+    id: "573477249"
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 3
+comments: 
+  data: 
+  - id: 790499637_443826139637_13476555
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: So just a normal Wednesday, right?! :-)
+    created_time: 2010-05-20T11:35:03+0000
+  count: 1
+layout: status
+title: Thursday, May 20, 2010 around 06:21AM
+date: 2010-05-20 06:21:31 -04:00
+
+---
+I stood naked in a room with two clothed men. They poured steaming mud out of a hose on to a bed. They told me to lie down. It was fun.

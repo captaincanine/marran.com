@@ -1,0 +1,50 @@
+--- 
+id: 790499637_113360934637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v43/112/12565253092/app_2_12565253092_8453.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/113360934637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/113360934637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Last.fm
+  namespace: feedcrawl_lastfm
+  id: "12565253092"
+created_time: 2009-06-09T23:21:02+0000
+updated_time: 2009-06-10T15:01:57+0000
+comments: 
+  data: 
+  - id: 790499637_113360934637_2345357
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: LOVE that song!!  Camp classic for sure.
+    created_time: 2009-06-09T23:47:52+0000
+  - id: 790499637_113360934637_2353063
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I think I did something evil. I made a genius playlist off of this song. I'm now listening to Bread, The Carpenters, Barry Manilow - lots of songs I had no idea were in my library. It's kinda scary.
+    created_time: 2009-06-10T09:49:34+0000
+  - id: 790499637_113360934637_2357717
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: I am absolutely unashamed to admit that my library is full of those artists!  And more.....
+    created_time: 2009-06-10T15:01:57+0000
+  count: 3
+layout: status
+title: Tuesday, Jun  9, 2009 around 07:21PM
+link-info: Keith loved I've Never Been to Me by Charlene on Last.fm
+date: 2009-06-09 19:21:02 -04:00
+
+---
+

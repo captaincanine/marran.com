@@ -1,0 +1,49 @@
+--- 
+id: 790499637_465502255053
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAfgg5Ktmqn4IEt&w=90&h=90&url=http%3A%2F%2Ffarm2.static.flickr.com%2F1069%2F571859127_df3c81d3bc_t.jpg
+link: http://www.marran.com/personal/blog/nlp/pomodoro-time
+name: A Pomodoro in Time | Keith Marran
+caption: www.marran.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/465502255053
+- name: Like
+  link: http://www.facebook.com/790499637/posts/465502255053
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-01-28T22:11:19+0000
+updated_time: 2010-01-29T11:16:25+0000
+likes: 
+  data: 
+  - name: Jay Forsyth
+    id: "718958430"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_465502255053_11409536
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Oh, how funny - he's Swedish!  Don't know anything about him or his book though...
+    created_time: 2010-01-29T11:16:25+0000
+  count: 1
+layout: status-link
+title: Thursday, Jan 28, 2010 around 05:11PM
+link-info: "I just finished reading a book called \xE2\x80\x9CPomodoro Technique Illustrated\xE2\x80\x9D by Staffan N\xC3\xB6teberg (http://www.amazon.com/Pomodoro-Technique-Illustrated-Really-Minutes/dp/1\xE2\x80\xA6). I guess it\xE2\x80\x99s  ..."
+date: 2010-01-28 17:11:19 -05:00
+
+---
+Keith Marran shared a link.

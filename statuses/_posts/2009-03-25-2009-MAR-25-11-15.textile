@@ -1,0 +1,34 @@
+--- 
+id: 790499637_63456876081
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: played the Know-It-All 'Do you Know Musicals?' challenge!
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=58041106729&v=1&size=z&cksum=c37966ef06cee33b22b2b7c794c24437&src=http%3A%2F%2Fcdntrivia.applatform.com%2Fimg%2F%3Fid%3D17216%26ts%3D1236983715
+link: http://apps.facebook.com/trv-do-you-kno-imls/?source=9
+description: played the Know-It-All 'Do you Know Musicals?' challenge!
+icon: http://www.facebook.com/images/icons/default_app_icon.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/63456876081
+- name: Like
+  link: http://www.facebook.com/790499637/posts/63456876081
+privacy: 
+  value: ""
+type: link
+status_type: app_created_story
+application: 
+  name: Do you Know Musicals?
+  namespace: trv-do-you-kno-imls
+  id: "58041106729"
+created_time: 2009-03-25T15:15:11+0000
+updated_time: 2009-03-25T15:15:11+0000
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Mar 25, 2009 around 11:15AM
+link-info: Keith scored 2099 points on the Know-It-All 'Do you Know Musicals?' trivia challenge!Can you beat this score? Prove it!
+date: 2009-03-25 11:15:11 -04:00
+
+---
+played the Know-It-All 'Do you Know Musicals?' challenge!

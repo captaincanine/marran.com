@@ -1,0 +1,44 @@
+--- 
+id: 790499637_66282243857
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAijpXZdcZUnksN&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Flogo.png
+link: http://www.marran.com/personal/blog/dogs/westminster-dog-show-2009
+name: Westminster Dog Show 2009 | Keith Marran
+caption: www.marran.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/66282243857
+- name: Like
+  link: http://www.facebook.com/790499637/posts/66282243857
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-02-16T20:15:08+0000
+updated_time: 2009-02-17T00:48:49+0000
+comments: 
+  data: 
+  - id: 790499637_66282243857_809303
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: "\"Booted and Tassled\" (image 9) is brilliant!"
+    created_time: 2009-02-17T00:48:49+0000
+  count: 1
+layout: status-link
+title: Monday, Feb 16, 2009 around 03:15PM
+link-info: A couple of weekends ago, Evan & Renee (Gogo & Oz's breeders) came to New York City for a visit. They had two of their dogs competing in the Westminster Dog Show. I was able to tag along for the Canaan Dog competition.
+date: 2009-02-16 15:15:08 -05:00
+
+---
+Keith Marran shared a link.

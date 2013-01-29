@@ -1,0 +1,27 @@
+--- 
+id: 790499637_455973429637
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran was tagged in Veronique Wolwowicz Rader's album Knox 1989-91.
+picture: http://photos-a.ak.fbcdn.net/hphotos-ak-prn1/35559_392664162503_7421625_s.jpg
+link: http://www.facebook.com/photo.php?fbid=392664162503&set=at.392384557503.168215.604902503.790499637&type=1&relevant_count=2
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+privacy: 
+  value: ""
+type: photo
+status_type: tagged_in_photo
+object_id: "392664162503"
+created_time: 2010-06-19T03:10:57+0000
+updated_time: 2010-06-19T03:10:57+0000
+comments: 
+  count: 0
+layout: status-photo
+title: Friday, Jun 18, 2010 around 11:10PM
+images: 
+- thumbnail: /statuses/photo/35559_392664162503_7421625_s.jpg
+  fullsize: /statuses/photo/35559_392664162503_7421625_n.jpg
+date: 2010-06-18 23:10:57 -04:00
+
+---
+Keith Marran was tagged in Veronique Wolwowicz Rader's album Knox 1989-91.

@@ -1,0 +1,64 @@
+--- 
+id: 790499637_57260377031
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: ate roasted goat liver prepared by a Massai medicine man - much to David's disapproval.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/57260377031
+- name: Like
+  link: http://www.facebook.com/790499637/posts/57260377031
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-02-26T04:18:43+0000
+updated_time: 2009-02-26T12:55:22+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_57260377031_869905
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Some people are just no fun.  Where's the sense of adventure?
+    created_time: 2009-02-26T04:25:53+0000
+  - id: 790499637_57260377031_870018
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: Did it taste like chicken???
+    created_time: 2009-02-26T04:47:20+0000
+  - id: 790499637_57260377031_870084
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: Prepared by a Massai medicine man is really the ONLY way to have roasted goat liver.  I mean, prepared by a Himba medicine man is ok... but everyone knows Massai is where it's at.
+    created_time: 2009-02-26T04:58:41+0000
+  - id: 790499637_57260377031_871852
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: I prefer the vegan version of Massai medicine-man roasted goat liver--tastes just like the real thing!
+    created_time: 2009-02-26T12:55:22+0000
+  count: 4
+layout: status
+title: Wednesday, Feb 25, 2009 around 11:18PM
+date: 2009-02-25 23:18:43 -05:00
+
+---
+ate roasted goat liver prepared by a Massai medicine man - much to David's disapproval.

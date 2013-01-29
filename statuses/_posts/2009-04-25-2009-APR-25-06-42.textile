@@ -1,0 +1,33 @@
+--- 
+id: 790499637_96516484637
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=5125879882&v=1&size=z&cksum=352b0ad39574b9a917428ff34a315ff2&src=http%3A%2F%2Fprettythings.pullbot.com%2Fartworks%2F346150%2FEXM-Cv43_feed.jpg
+link: http://apps.facebook.com/comicbooks/titles/ex-machina?ref=mf&ref_e=525943
+description: 
+icon: http://photos-b.ak.fbcdn.net/photos-ak-snc7/v43/46/5125879882/app_2_5125879882_5012.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/96516484637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/96516484637
+privacy: 
+  value: ""
+type: link
+status_type: app_created_story
+application: 
+  name: Comic Books Beta
+  namespace: comicbooks
+  id: "5125879882"
+created_time: 2009-04-25T10:42:32+0000
+updated_time: 2009-04-25T10:42:32+0000
+comments: 
+  count: 0
+layout: status-link
+title: Saturday, Apr 25, 2009 around 06:42AM
+link-info: Keith added 3 Comic Book Titles to Keith's Pull List.Keith added New Avengers (2005), Thor [v3] (2007), and Ex Machina to Keith's Pull List.
+date: 2009-04-25 06:42:32 -04:00
+
+---
+

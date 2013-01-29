@@ -1,0 +1,64 @@
+--- 
+id: 790499637_457131249637
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=72c264b2afb1b1ce84f1e5415b9ed68a&src=http%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.7458183%2F-74.0055308%2Fmap.png
+link: http://foursquare.com/venue/21682
+name: Cookshop
+caption: Keith just checked-in @ Cookshop (w/ 2 others) (New York, NY)
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/457131249637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/457131249637
+- name: Keith on foursquare
+  link: http://foursquare.com/user/-90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: app_created_story
+application: 
+  name: Foursquare
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2010-06-22T01:45:51+0000
+updated_time: 2010-06-22T16:41:48+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_457131249637_13754584
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: "Oh.  Sorry. I thought it said....well, never mind. "
+    created_time: 2010-06-22T12:51:39+0000
+  - id: 790499637_457131249637_13755530
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I cannot for the life of me figure out what you thought it said. "
+    created_time: 2010-06-22T15:41:24+0000
+  - id: 790499637_457131249637_13755912
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: I can!!  Naughty!!  *blush*
+    created_time: 2010-06-22T16:41:48+0000
+  count: 3
+layout: status-link
+title: Monday, Jun 21, 2010 around 09:45PM
+date: 2010-06-21 21:45:51 -04:00
+
+---
+

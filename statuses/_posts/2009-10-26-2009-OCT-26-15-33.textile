@@ -1,0 +1,31 @@
+--- 
+id: 790499637_195820604637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/195820604637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/195820604637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2009-10-26T19:33:34+0000
+updated_time: 2009-10-26T19:33:34+0000
+comments: 
+  count: 0
+layout: status
+title: Monday, Oct 26, 2009 around 03:33PM
+link-info: Keith saved Adi Nes - Wikipedia, the free encyclopedia on Delicious
+date: 2009-10-26 15:33:34 -04:00
+
+---
+

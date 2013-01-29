@@ -1,0 +1,68 @@
+--- 
+id: 790499637_144998485528622
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have to stop reading stories about this guy. He is living out my dream.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCrx3ZBv9tNcjq-&w=90&h=90&url=http%3A%2F%2Fcache-01.gawkerassets.com%2Fassets%2Fimages%2F7%2F2010%2F08%2F0810_steven.jpg
+link: http://gawker.com/5609201/cranky-earth-flight-attendant-was-banging-his-boyfriend-when-the-cops-showed-up
+name: Cranky Earth Flight Attendant Was Banging His Boyfriend When the Cops Showed Up
+caption: gawker.com
+description: I have to stop reading stories about this guy. He is living out my dream.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/144998485528622
+- name: Like
+  link: http://www.facebook.com/790499637/posts/144998485528622
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2010-08-10T19:45:20+0000
+updated_time: 2010-08-11T02:36:56+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  - name: Louise Sloan
+    id: "736913182"
+  - name: Linda Rosenson Coe
+    id: "1440111516"
+  count: 3
+comments: 
+  data: 
+  - id: 790499637_144998485528622_1241602
+    from: 
+      name: Louise Sloan
+      id: "736913182"
+    message: Seriously!
+    created_time: 2010-08-10T20:40:09+0000
+  - id: 790499637_144998485528622_1243716
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: I was going to suggest that you engage the inflatable slide this am
+    created_time: 2010-08-11T02:08:37+0000
+  - id: 790499637_144998485528622_1243928
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: Sigh. I wish I had an inflatable slide.
+    created_time: 2010-08-11T02:36:56+0000
+  count: 3
+layout: status-link
+title: Tuesday, Aug 10, 2010 around 03:45PM
+link-info: "The tale of Steven Slater\xE2\x80\x94the JetBlue flight attendant who became a folk hero by storming off the job via his plane's inflatable slide\xE2\x80\x94keeps getting better. Gay sex, happy bragging, family tragedy, and a confused ex-wife ahead."
+date: 2010-08-10 15:45:20 -04:00
+
+---
+I have to stop reading stories about this guy. He is living out my dream.

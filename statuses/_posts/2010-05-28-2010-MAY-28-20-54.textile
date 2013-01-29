@@ -1,0 +1,40 @@
+--- 
+id: 790499637_447516429637
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=07b44f1a7cf55db37ba27de36de9fa25&src=http%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.74025%2F-73.988736%2Fmap.png
+link: http://foursquare.com/venue/65240
+name: Almond
+caption: Keith just checked-in @ Almond (New York, NY)
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/447516429637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/447516429637
+- name: Keith on foursquare
+  link: http://foursquare.com/user/-90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: app_created_story
+application: 
+  name: Foursquare
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2010-05-29T00:54:27+0000
+updated_time: 2010-05-29T00:54:27+0000
+comments: 
+  count: 0
+layout: status-link
+title: Friday, May 28, 2010 around 08:54PM
+date: 2010-05-28 20:54:27 -04:00
+
+---
+

@@ -1,0 +1,61 @@
+--- 
+id: 790499637_116026441751941
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just made my first mayorship on FourSquare. Here comes that sense of accomplishment that has been missing in my life thus far.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/116026441751941
+- name: Like
+  link: http://www.facebook.com/790499637/posts/116026441751941
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-24T17:00:48+0000
+updated_time: 2010-04-24T22:47:42+0000
+likes: 
+  data: 
+  - name: Robert A. Mayer
+    id: "508770447"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_116026441751941_375176
+    from: 
+      name: Evan Kent
+      id: "1362251279"
+    message: ok - I'm out of it, what is FourSquare?  I've seen it around a few posts.
+    created_time: 2010-04-24T17:14:18+0000
+  - id: 790499637_116026441751941_375459
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      When you go to places (like restaurants), you check-in on FourSquare. Then you can see other people that are in that location. If you check into a place more than anyone else, you become mayor of that place. Some businesses use it to advertise deals or give specials to the mayor. You get badges for various actions. It's like a video game for going places. 
+      
+      I have to admit that I didn't really get into it when I first heard about it. But once you start using it, it gets addictive.
+    created_time: 2010-04-24T17:55:13+0000
+  - id: 790499637_116026441751941_377014
+    from: 
+      name: Evan Kent
+      id: "1362251279"
+    message: "Thanks Mayor Marran!  "
+    created_time: 2010-04-24T22:47:42+0000
+  count: 3
+layout: status
+title: Saturday, Apr 24, 2010 around 01:00PM
+date: 2010-04-24 13:00:48 -04:00
+
+---
+I just made my first mayorship on FourSquare. Here comes that sense of accomplishment that has been missing in my life thus far.

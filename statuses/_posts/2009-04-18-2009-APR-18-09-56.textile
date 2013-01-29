@@ -1,0 +1,47 @@
+--- 
+id: 790499637_73150329029
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: First tea parties, now anti-pepsi demonstration. When did humble American belt-tightening evolve into to angry mobs? http://snurl.com/g4n97
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/73150329029
+- name: Like
+  link: http://www.facebook.com/790499637/posts/73150329029
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-04-18T13:56:16+0000
+updated_time: 2009-04-18T15:34:37+0000
+comments: 
+  data: 
+  - id: 790499637_73150329029_1440772
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: All I can find are parodies of it... Can you help me find the original? (The Power link doesn't work no more...)
+    created_time: 2009-04-18T15:27:48+0000
+  - id: 790499637_73150329029_1440843
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: Found the link (http://www.youtube.com/watch?v=Wp76ly2_NoI) but it has nothing to do with Pepsi.
+    created_time: 2009-04-18T15:34:37+0000
+  count: 2
+layout: status
+title: Saturday, Apr 18, 2009 around 09:56AM
+date: 2009-04-18 09:56:16 -04:00
+
+---
+First tea parties, now anti-pepsi demonstration. When did humble American belt-tightening evolve into to angry mobs? http://snurl.com/g4n97

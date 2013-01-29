@@ -1,0 +1,44 @@
+--- 
+id: 790499637_83895525039
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDOa4BOL2pbsURm&w=90&h=90&url=http%3A%2F%2Fwww.theonion.com%2Fcontent%2Ffiles%2Fimages%2FAPARTMENT_FIRES_article.frontpage_thumbnail.jpg
+link: http://www.theonion.com/content/video/police_slog_through_40_000
+name: Police Slog Through 40,000 Insipid Party Pics To Find Cause Of Dorm Fire | The Onion - America's Fin
+caption: www.theonion.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/ya/x/SC2ZmEkfI-X.png
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/83895525039
+- name: Like
+  link: http://www.facebook.com/790499637/posts/83895525039
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-05-19T15:40:50+0000
+updated_time: 2009-05-19T16:01:11+0000
+comments: 
+  data: 
+  - id: 790499637_83895525039_1903800
+    from: 
+      name: Michael Jagger
+      id: "1076191441"
+    message: Holy SH*T!!  I think I was at that fire party!!!
+    created_time: 2009-05-19T16:01:11+0000
+  count: 1
+layout: status-link
+title: Tuesday, May 19, 2009 around 11:40AM
+link-info: The fire was ruled an accident after a tedious review of thousands of digital photos documenting every second of the five hour party.
+date: 2009-05-19 11:40:50 -04:00
+
+---
+Keith Marran shared a link.

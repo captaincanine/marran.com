@@ -1,0 +1,87 @@
+--- 
+id: 790499637_182273951788186
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I used to hate James Franco. What was I thinking? Every time I see him now, he's doing something playful, sexy, and/or bizarre. This qualifies as all three.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAZS1wHuPiivVKe&w=90&h=90&url=http%3A%2F%2Fcache-01.gawkerassets.com%2Fassets%2Fimages%2F13242%2F2010%2F12%2Fscreen_shot_2010-12-08_at_2.16.04_pm.png
+link: http://tv.gawker.com/5709475/watch-james-franco-make-out-with-himself-in-a-mirror
+name: Watch James Franco Make Out With Himself
+caption: tv.gawker.com
+description: I used to hate James Franco. What was I thinking? Every time I see him now, he's doing something playful, sexy, and/or bizarre. This qualifies as all three.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/182273951788186
+- name: Like
+  link: http://www.facebook.com/790499637/posts/182273951788186
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-12-08T23:53:42+0000
+updated_time: 2010-12-15T14:10:44+0000
+likes: 
+  data: 
+  - name: Richard M Carlson Jr
+    id: "1437848272"
+  - name: Linda Rosenson Coe
+    id: "1440111516"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_182273951788186_2264920
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Love this!
+    created_time: 2010-12-09T00:31:09+0000
+  - id: 790499637_182273951788186_2267476
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: "Did you watch Freaks and Geeks? Loved him sooo much in that that I was almost able to forgive his Spiderman forays and unappealing gay roles. BTW: Did you see Pineapple Express? I thought it was surprisingly hilarious."
+    created_time: 2010-12-09T08:58:39+0000
+  - id: 790499637_182273951788186_2269258
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I haven't seen Freaks and Geeks. I'll check it out. Yes, I had written him off after seeing his bad Spider-Man performances, but now I'm having to re-evaluate.
+    created_time: 2010-12-09T15:05:25+0000
+  - id: 790499637_182273951788186_2273307
+    from: 
+      name: Veronique Wolwowicz Rader
+      id: "604902503"
+    message: That's funny He was also  quite hilarious in his 30 rock episode when in love with a japanese pillow girl ! One can only be good looking so long...y a gotta be funny too !
+    created_time: 2010-12-10T02:06:50+0000
+  - id: 790499637_182273951788186_2273454
+    from: 
+      name: Veronique Wolwowicz Rader
+      id: "604902503"
+    message: is there a link to watch the whole 14 ?
+    created_time: 2010-12-10T02:28:05+0000
+  - id: 790499637_182273951788186_2279608
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: http://tv.gawker.com/5709641/the-ny-times-fourteen-actors-acting-really-pretentious?skyline=true&s=i
+    created_time: 2010-12-10T19:31:18+0000
+  - id: 790499637_182273951788186_2316104
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: Will you watch the new movie/doco he's starring in called 127 Hours? It's about the guy who was mountain climbing in Utah who performed DIY amputation to free his arm when it became trapped by a falling rock.....
+    created_time: 2010-12-15T14:10:44+0000
+  count: 7
+layout: status-link
+title: Wednesday, Dec  8, 2010 around 06:53PM
+link-info: "As a part of the New York Times' collection \"Fourteen Actors Acting,\" James Franco takes to a mirror and gets down with his bad self. We can honestly say it's done in the classiest way possible, though! Ladies: You're welcome."
+date: 2010-12-08 18:53:42 -05:00
+
+---
+I used to hate James Franco. What was I thinking? Every time I see him now, he's doing something playful, sexy, and/or bizarre. This qualifies as all three.

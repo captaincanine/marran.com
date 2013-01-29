@@ -1,0 +1,97 @@
+--- 
+id: 790499637_183740723948
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Once you get over the sharp different-ness of coffee with agave and brazil nut milk, it's actually pretty good.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/183740723948
+- name: Like
+  link: http://www.facebook.com/790499637/posts/183740723948
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-10-29T13:08:16+0000
+updated_time: 2009-10-30T11:49:05+0000
+comments: 
+  data: 
+  - id: 790499637_183740723948_6683555
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Oh but why?
+    created_time: 2009-10-29T13:25:52+0000
+  - id: 790499637_183740723948_6683905
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I was forced to live a week without dairy in China and found that I'm much happier without it. No more stuffed sinuses, skin is softer/smoother, I have more energy, etc. The only time I really miss it is in coffee. But I can live happily with this substitution.
+    created_time: 2009-10-29T13:36:09+0000
+  - id: 790499637_183740723948_6683941
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Ah.  Wouldn't it be easier to just suck it up and drink it black??
+    created_time: 2009-10-29T13:37:13+0000
+  - id: 790499637_183740723948_6684058
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I tried that last week. Usually just a shot of espresso. But I don't really like the taste of black coffee. The brazil nut milk mellows it out for me. It takes 10 minutes to make a batch of nut milk, so it's not really that much more work.
+    created_time: 2009-10-29T13:40:47+0000
+  - id: 790499637_183740723948_6687147
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: Is there a difference between nut milk and nut butter? Or is nut milk just nut butter but with more water?
+    created_time: 2009-10-29T15:07:36+0000
+  - id: 790499637_183740723948_6692612
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      This one continues to plague me.  I was happier without dairy, but it would require a ton of diet reorg, not just remove dairy.  Like, I tried my staple salad bars, but couldn't put anything together that was satisfying.  I am not saying it can't be done, I was just having trouble and got discouraged.  I spent a lot of afternoons very sad after disappointing meals.
+      
+      Oh, and I will unlikely be thinking of you without reference to your "softer" skin for some time now.
+    created_time: 2009-10-29T17:38:05+0000
+  - id: 790499637_183740723948_6707088
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Try oat milk too, it has a creamy feel. Me I'm back on half n half in tea/coffee.
+    created_time: 2009-10-30T00:03:42+0000
+  - id: 790499637_183740723948_6723777
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Dagny - I've heard that you can make nut milk by adding nut butter to water, thought I use the old-fashioned method in which I use raw nuts. 
+      
+      Joel - Yes, I am like feminine beauty commercial with my softer skin. And I hear you about the need to do a lot of reorg. Parts of my diet have gotten a little worse since quitting dairy, but I'm confident I will eventually get it all back. I think the closer to vegan you get, the more you have to use whole grains and beans to get that "full" feeling back. And I'm not going to make a big deal about a little parmesan in a salad. The goal is to have as little dairy as possible and still be happy.
+      
+      Renee - Isn't it funny that cream in the coffee is the hardest part of giving up dairy? It really takes the fun out of coffee to have it black.
+    created_time: 2009-10-30T11:30:34+0000
+  - id: 790499637_183740723948_6724232
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: For me, it isn't worth having without creamer. I was off coffee for so long, but I have had a few cups of decaf recently. I'm a social coffee drinker.  I like the nutbutter/nutmilk only when its going to be used as the base of a smoothie not on its own.
+    created_time: 2009-10-30T11:49:05+0000
+  count: 9
+layout: status
+title: Thursday, Oct 29, 2009 around 09:08AM
+date: 2009-10-29 09:08:16 -04:00
+
+---
+Once you get over the sharp different-ness of coffee with agave and brazil nut milk, it's actually pretty good.

@@ -1,0 +1,40 @@
+--- 
+id: 790499637_155256087831307
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAU2-mZQ52Eblc9&w=90&h=90&url=http%3A%2F%2Fs-ak.buzzfed.com%2Fstatic%2Fcampaign_images%2Fweb02%2F2010%2F8%2F28%2F4%2Fhipster-dinosaurs-9933-1282983504-10.jpg
+link: http://www.buzzfeed.com/ihatedinosaurs/hipster-dinosaurs-ppz
+name: Hipster Dinosaurs
+caption: www.buzzfeed.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/155256087831307
+- name: Like
+  link: http://www.facebook.com/790499637/posts/155256087831307
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2010-09-30T13:55:40+0000
+updated_time: 2010-09-30T13:55:40+0000
+comments: 
+  count: 0
+layout: status-link
+title: Thursday, Sep 30, 2010 around 09:55AM
+link-info: "Hipster Dinosaurs: Well, would you look at these f*cking hipster dinosaurs! Created by Molly Lewis , with crayons..."
+date: 2010-09-30 09:55:40 -04:00
+
+---
+Keith Marran shared a link.

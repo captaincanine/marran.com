@@ -1,0 +1,56 @@
+--- 
+id: 790499637_466853499637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The Mel Gibson tapes are worse than heroin. I told myself I wasn't going to listen to the latest one...but...guess what I'm doing.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/466853499637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/466853499637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=18533957254
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-07-14T17:01:09+0000
+updated_time: 2010-07-15T23:47:09+0000
+comments: 
+  data: 
+  - id: 790499637_466853499637_13947477
+    from: 
+      name: Dyan Maitland-Bledsoe
+      id: "786609558"
+    message: I agree. And they make me slightly nauseous.
+    created_time: 2010-07-15T06:00:39+0000
+  - id: 790499637_466853499637_13953707
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: You will feel much more intellectual about the whole thing when you look at the wordle charts. http://gawker.com/5585971/mel-gibsons-rants-visualized
+    created_time: 2010-07-15T23:12:19+0000
+  - id: 790499637_466853499637_13953962
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I really like the wordle from rant #1. Maybe I could get a professional print of it and have it framed. Hmmm..."
+    created_time: 2010-07-15T23:47:09+0000
+  count: 3
+layout: status
+title: Wednesday, Jul 14, 2010 around 01:01PM
+date: 2010-07-14 13:01:09 -04:00
+
+---
+The Mel Gibson tapes are worse than heroin. I told myself I wasn't going to listen to the latest one...but...guess what I'm doing.

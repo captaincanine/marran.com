@@ -1,0 +1,36 @@
+--- 
+id: 790499637_467356279637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/467356279637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/467356279637
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2010-07-15T14:24:38+0000
+updated_time: 2010-07-15T14:24:38+0000
+comments: 
+  count: 0
+layout: status
+title: Thursday, Jul 15, 2010 around 10:24AM
+link-info: Keith saved PHP - Atomicorp Wiki on Delicious
+date: 2010-07-15 10:24:38 -04:00
+
+---
+

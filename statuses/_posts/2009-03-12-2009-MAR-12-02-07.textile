@@ -1,0 +1,59 @@
+--- 
+id: 790499637_57155018565
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: is leaving for the airport soon. 3.5 weeks in Africa! Whew!
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/57155018565
+- name: Like
+  link: http://www.facebook.com/790499637/posts/57155018565
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-03-12T06:07:41+0000
+updated_time: 2009-03-13T13:48:51+0000
+comments: 
+  data: 
+  - id: 790499637_57155018565_995000
+    from: 
+      name: Patrick Kee Kietsrichart
+      id: "1334676583"
+    message: Welcome back to the REAL jungle with WILD driving and HUMAN roaring.
+    created_time: 2009-03-12T12:06:43+0000
+  - id: 790499637_57155018565_996512
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: Africa is a country I'd like to visit someday.
+    created_time: 2009-03-12T15:41:44+0000
+  - id: 790499637_57155018565_996640
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: OK, Jeff.  There has to be a story behind that abomination of a comment....
+    created_time: 2009-03-12T15:58:33+0000
+  - id: 790499637_57155018565_1006061
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: What? I'm rehearsing my Miss America speech.
+    created_time: 2009-03-13T13:48:51+0000
+  count: 4
+layout: status
+title: Thursday, Mar 12, 2009 around 02:07AM
+date: 2009-03-12 02:07:41 -04:00
+
+---
+is leaving for the airport soon. 3.5 weeks in Africa! Whew!

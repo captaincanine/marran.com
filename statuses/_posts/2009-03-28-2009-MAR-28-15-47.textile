@@ -1,0 +1,31 @@
+--- 
+id: 790499637_77309724637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/77309724637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/77309724637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2009-03-28T19:47:52+0000
+updated_time: 2009-03-28T19:47:52+0000
+comments: 
+  count: 0
+layout: status
+title: Saturday, Mar 28, 2009 around 03:47PM
+link-info: Keith saved Git for OS X on Delicious
+date: 2009-03-28 15:47:52 -04:00
+
+---
+

@@ -1,0 +1,95 @@
+--- 
+id: 790499637_112519508774262
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: It's things like afternoon nude yoga lessons that make me want to never touch foot in a cubicle again.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/112519508774262
+- name: Like
+  link: http://www.facebook.com/790499637/posts/112519508774262
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-05T22:32:40+0000
+updated_time: 2010-04-06T13:02:49+0000
+comments: 
+  data: 
+  - id: 790499637_112519508774262_253148
+    from: 
+      name: Brad Christen
+      id: "1149460967"
+    message: What?!?!?!
+    created_time: 2010-04-05T22:37:48+0000
+  - id: 790499637_112519508774262_253305
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I think that's pretty self-explanatory.
+    created_time: 2010-04-05T23:11:40+0000
+  - id: 790499637_112519508774262_253312
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: You did a nude yoga lesson?  Info please!
+    created_time: 2010-04-05T23:12:58+0000
+  - id: 790499637_112519508774262_253941
+    from: 
+      name: Patrick Kee Kietsrichart
+      id: "1334676583"
+    message: I hope you did a full stretch. :-)
+    created_time: 2010-04-06T01:00:11+0000
+  - id: 790499637_112519508774262_253975
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I know it all sounds very shocking and titillating, but it really was just a standard yoga class from a very good teacher and it just happened to be done without clothes. I'm trying to get rid of some built up neck and shoulder tension. We focused on cow face, the rabbit, the bridge, and camel pose.
+    created_time: 2010-04-06T01:07:29+0000
+  - id: 790499637_112519508774262_254123
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Bradley, dear. Can you keep it cleaner on my wall, please?
+    created_time: 2010-04-06T01:30:48+0000
+  - id: 790499637_112519508774262_254156
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: "I'd go. Too bad I don't live in city. no such thing as naked yoga out here in the country. "
+    created_time: 2010-04-06T01:36:13+0000
+  - id: 790499637_112519508774262_255704
+    from: 
+      name: Brad Christen
+      id: "1149460967"
+    message: Whoops...my bad Keith.  It's gone!
+    created_time: 2010-04-06T05:42:16+0000
+  - id: 790499637_112519508774262_255774
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: Wait? Are you condemning or praising the cubicle?
+    created_time: 2010-04-06T05:58:34+0000
+  - id: 790499637_112519508774262_257956
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Condeming! And I am not in favor of companies offering midday naked yoga sessions for employees, either.
+    created_time: 2010-04-06T13:02:49+0000
+  count: 10
+layout: status
+title: Monday, Apr  5, 2010 around 06:32PM
+date: 2010-04-05 18:32:40 -04:00
+
+---
+It's things like afternoon nude yoga lessons that make me want to never touch foot in a cubicle again.

@@ -1,0 +1,31 @@
+--- 
+id: 790499637_90373294637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/90373294637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/90373294637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2009-04-08T18:10:26+0000
+updated_time: 2009-04-08T18:10:26+0000
+comments: 
+  count: 0
+layout: status
+title: Wednesday, Apr  8, 2009 around 02:10PM
+link-info: Keith saved Rails Framework Documentation on Delicious
+date: 2009-04-08 14:10:26 -04:00
+
+---
+

@@ -1,0 +1,68 @@
+--- 
+id: 790499637_330558214073
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I don't want to leave Bolinas. I needed a few more days here. I consider it my personal sacred ground.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/330558214073
+- name: Like
+  link: http://www.facebook.com/790499637/posts/330558214073
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-02-26T20:59:22+0000
+updated_time: 2010-02-26T22:30:32+0000
+comments: 
+  data: 
+  - id: 790499637_330558214073_11622769
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Which is why it must be taken from you, it's the way of the world ... ;)
+    created_time: 2010-02-26T21:14:07+0000
+  - id: 790499637_330558214073_11622811
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: But you are coming straight to see us, yes?  Um.  Do you have digits?  Shouldn't we talk on the phone?
+    created_time: 2010-02-26T21:14:52+0000
+  - id: 790499637_330558214073_11623189
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Yes, I'm coming to see you. Sorry, thought that was all finalized. I'll be there at 6:30pm. I'll call when I'm back in the East Bay and have cell phone reception.
+    created_time: 2010-02-26T21:22:26+0000
+  - id: 790499637_330558214073_11623221
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      No no, I knew it was finalized.  I just didn't know if you had phone numbers, addresses, etc.
+      
+      See you tonight!
+    created_time: 2010-02-26T21:23:18+0000
+  - id: 790499637_330558214073_11626154
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Yes. Your capable wife has given me all your info just shy of social security numbers. "
+    created_time: 2010-02-26T22:30:32+0000
+  count: 5
+layout: status
+title: Friday, Feb 26, 2010 around 03:59PM
+date: 2010-02-26 15:59:22 -05:00
+
+---
+I don't want to leave Bolinas. I needed a few more days here. I consider it my personal sacred ground.

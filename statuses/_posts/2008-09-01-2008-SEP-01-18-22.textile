@@ -1,0 +1,34 @@
+--- 
+id: 790499637_25924937965
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: David and I just saw "I Served the King of England". It's fantastic. Go see it.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/25924937965
+- name: Like
+  link: http://www.facebook.com/790499637/posts/25924937965
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2008-09-01T22:22:44+0000
+updated_time: 2008-09-01T22:22:44+0000
+comments: 
+  count: 0
+layout: status
+title: Monday, Sep  1, 2008 around 06:22PM
+date: 2008-09-01 18:22:44 -04:00
+
+---
+David and I just saw "I Served the King of England". It's fantastic. Go see it.

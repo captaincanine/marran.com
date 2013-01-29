@@ -1,0 +1,61 @@
+--- 
+id: 790499637_460904564637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: David admitted that not only has he seen all the Twilight films, but that he had been hiding that fact from me. Both good signs.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/460904564637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/460904564637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=17463076784
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-07-01T03:11:59+0000
+updated_time: 2010-07-02T05:57:46+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_460904564637_13828533
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: There's hope for him yet!!! :-)
+    created_time: 2010-07-01T12:01:26+0000
+  - id: 790499637_460904564637_13829559
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "My first question was \"Are you Team Edward or Team Jacob?\" Before I finished the sentence, David said \"Team Edward\" with an excited flush. "
+    created_time: 2010-07-01T15:01:34+0000
+  - id: 790499637_460904564637_13836023
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: I find it titillating that David has a furtive side.
+    created_time: 2010-07-02T05:57:46+0000
+  count: 3
+layout: status
+title: Wednesday, Jun 30, 2010 around 11:11PM
+date: 2010-06-30 23:11:59 -04:00
+
+---
+David admitted that not only has he seen all the Twilight films, but that he had been hiding that fact from me. Both good signs.

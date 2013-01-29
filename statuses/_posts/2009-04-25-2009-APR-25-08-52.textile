@@ -1,0 +1,33 @@
+--- 
+id: 790499637_96541684637
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=5125879882&v=1&size=z&cksum=78c09fb137d81045b58a17c7288a8890&src=http%3A%2F%2Fprettythings.pullbot.com%2Fartworks%2F351141%2F48_FANTASTIC_FOUR_568_feed.jpg
+link: http://apps.facebook.com/comicbooks/titles/fantastic-four-v3-1997?ref=mf&ref_e=525944
+description: 
+icon: http://photos-b.ak.fbcdn.net/photos-ak-snc7/v43/46/5125879882/app_2_5125879882_5012.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/96541684637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/96541684637
+privacy: 
+  value: ""
+type: link
+status_type: app_created_story
+application: 
+  name: Comic Books Beta
+  namespace: comicbooks
+  id: "5125879882"
+created_time: 2009-04-25T12:52:19+0000
+updated_time: 2009-04-25T12:52:19+0000
+comments: 
+  count: 0
+layout: status-link
+title: Saturday, Apr 25, 2009 around 08:52AM
+link-info: "Keith added 8 Comic Book Titles to Keith's Pull List.Keith added Dark Avengers (2009), Batman: Battle For The Cowl (2009), Fantastic Four [v3] (1997), Justice League Of America [v2], and 4 more to Keith's Pull List."
+date: 2009-04-25 08:52:19 -04:00
+
+---
+

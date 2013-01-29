@@ -1,0 +1,70 @@
+--- 
+id: 790499637_166258693397261
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: We had some power outages last night. We sat in the palace amongst stuffed animals lit by candelabras. When the power came back on we had a music and dance performance on the front steps.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/166258693397261
+- name: Like
+  link: http://www.facebook.com/790499637/posts/166258693397261
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2010-11-13T23:12:27+0000
+updated_time: 2010-11-14T23:58:24+0000
+likes: 
+  data: 
+  - name: Robert Lucas
+    id: "100000816082478"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_166258693397261_1884985
+    from: 
+      name: Robert Lucas
+      id: "100000816082478"
+    message: did you dance?
+    created_time: 2010-11-14T05:48:00+0000
+  - id: 790499637_166258693397261_1885032
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Stuffed animals? I initially had an image of you sitting among a whole load of teddy bears and such! :-) I'm guessing that's not what you meant though... Heehee!
+    created_time: 2010-11-14T06:05:01+0000
+  - id: 790499637_166258693397261_1886217
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I left the dancing to the pros.
+    created_time: 2010-11-14T12:12:08+0000
+  - id: 790499637_166258693397261_1888819
+    from: 
+      name: Parizad Motiwala O'Donnell
+      id: "1386266174"
+    message: Which palace was this? WHen you get back stateside, would love to see your itinerary - we're planning to take the kids in December for their introductory trip to India.
+    created_time: 2010-11-14T19:52:11+0000
+  - id: 790499637_166258693397261_1890391
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "This was in Karauli. The whole town was great - a fantastic old palace, a chaotic Krishna temple, a good bazaar, and a visit to a hand loom center. The people were super friendly and obviously rarely see westerners. I'll give you the whole itinerary when I get back. "
+    created_time: 2010-11-14T23:58:24+0000
+  count: 5
+layout: status
+title: Saturday, Nov 13, 2010 around 06:12PM
+date: 2010-11-13 18:12:27 -05:00
+
+---
+We had some power outages last night. We sat in the palace amongst stuffed animals lit by candelabras. When the power came back on we had a music and dance performance on the front steps.

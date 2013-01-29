@@ -1,0 +1,34 @@
+--- 
+id: 790499637_137413781004
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: For those in the NY area, Red Jacket Orchards' apricots are at their peak.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/137413781004
+- name: Like
+  link: http://www.facebook.com/790499637/posts/137413781004
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-08-19T13:08:04+0000
+updated_time: 2009-08-19T13:08:04+0000
+comments: 
+  count: 0
+layout: status
+title: Wednesday, Aug 19, 2009 around 09:08AM
+date: 2009-08-19 09:08:04 -04:00
+
+---
+For those in the NY area, Red Jacket Orchards' apricots are at their peak.

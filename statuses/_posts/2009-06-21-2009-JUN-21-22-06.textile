@@ -1,0 +1,31 @@
+--- 
+id: 790499637_118381279637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/118381279637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/118381279637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2009-06-22T02:06:40+0000
+updated_time: 2009-06-22T02:06:40+0000
+comments: 
+  count: 0
+layout: status
+title: Sunday, Jun 21, 2009 around 10:06PM
+link-info: Keith saved 2 bookmarks on DeliciousColores del Pueblo. Fair Trade Latin American crafts, Fair Trade Guatemalan crafts, Guatemalan crafts, Guatemalan textiles, Mexican crafts, Mayan and Guatemalan textiles, huipils, masks and santos. and Fair Trade Quilts & Crafts
+date: 2009-06-21 22:06:40 -04:00
+
+---
+

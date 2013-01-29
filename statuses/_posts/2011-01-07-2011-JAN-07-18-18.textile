@@ -1,0 +1,42 @@
+--- 
+id: 790499637_174663705903215
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "As much as I love the look of the iPhone 4, I need more organics in my life. So I got a bamboo cover from Grove Made. It's gorgeous and exactly what I wanted. It came with a 20%-off coupon. If anyone wants it, let me know. "
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBvCn8_iRr26v7A&w=90&h=90&url=http%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0041%2F0802%2Fproducts%2Famber_junichi_1_medium.png%3F1291684242
+link: http://www.grovemade.com/collections/iphone-4-case-artist-series/products/japanesque-iphone4
+name: Japanesque (i4) by Stubborn Sideburn | Grove Made - Laser Engraved Bamboo iPhone 4 Cases
+caption: www.grovemade.com
+description: "As much as I love the look of the iPhone 4, I need more organics in my life. So I got a bamboo cover from Grove Made. It's gorgeous and exactly what I wanted. It came with a 20%-off coupon. If anyone wants it, let me know. "
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/174663705903215
+- name: Like
+  link: http://www.facebook.com/790499637/posts/174663705903215
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2011-01-07T23:18:34+0000
+updated_time: 2011-01-07T23:18:34+0000
+likes: 
+  data: 
+  - name: Jay Forsyth
+    id: "718958430"
+  count: 1
+comments: 
+  count: 0
+layout: status-link
+title: Friday, Jan  7, 2011 around 06:18PM
+link-info: "Japanesque (i4) \xE2\x80\x94              Junichi Tsuneoka aka Stubborn Sideburn           Seattle, WA            Junichi was born and raised in Japan and upon graduating Wased..."
+date: 2011-01-07 18:18:34 -05:00
+
+---
+As much as I love the look of the iPhone 4, I need more organics in my life. So I got a bamboo cover from Grove Made. It's gorgeous and exactly what I wanted. It came with a 20%-off coupon. If anyone wants it, let me know. 

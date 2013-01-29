@@ -1,0 +1,41 @@
+--- 
+id: 790499637_108007929236194
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I don't believe it. I was able to upgrade my MacBook Pro's optical and hard drive. For future reference, it's easier to pay someone else.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/108007929236194
+- name: Like
+  link: http://www.facebook.com/790499637/posts/108007929236194
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-10T18:21:21+0000
+updated_time: 2010-04-11T03:12:37+0000
+comments: 
+  data: 
+  - id: 790499637_108007929236194_191597
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: "Duh. "
+    created_time: 2010-04-11T03:12:37+0000
+  count: 1
+layout: status
+title: Saturday, Apr 10, 2010 around 02:21PM
+date: 2010-04-10 14:21:21 -04:00
+
+---
+I don't believe it. I was able to upgrade my MacBook Pro's optical and hard drive. For future reference, it's easier to pay someone else.

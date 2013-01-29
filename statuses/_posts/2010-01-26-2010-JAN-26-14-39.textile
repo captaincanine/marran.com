@@ -1,0 +1,56 @@
+--- 
+id: 790499637_453582210156
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I finished reading "Pomodoro Technique Illustrated" and am a transformed man. I'm adopting the Pomodoro technique 100%.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/453582210156
+- name: Like
+  link: http://www.facebook.com/790499637/posts/453582210156
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-01-26T19:39:14+0000
+updated_time: 2010-01-26T21:08:19+0000
+comments: 
+  data: 
+  - id: 790499637_453582210156_11316613
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: I've been intrigued.  Did you buy one of those tomato-shaped timers?  What else do you have to say?
+    created_time: 2010-01-26T20:41:32+0000
+  - id: 790499637_453582210156_11317786
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Just buy one of the tomato timers. That's it. Your productivity will increase.
+      
+      Seriously...I'm going to write a longer post about it later in the week. The book that I mention takes the basic concept and improves a little bit and really explains on a deep level why it works. They recommend a physical timer that you have to wind up rather than software because your brain enjoys the tangible act of winding it up and watching it count down.
+    created_time: 2010-01-26T21:02:51+0000
+  - id: 790499637_453582210156_11318102
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Cool.  Post something, I will definitely read it.  I am intrigued, as I often find myself overwhelmed by the hugeness and staggering diversity of tasks in front of me, I get exhausted before I begin, and tuck my tail between my legs and retreat.  If this method is about digesting and attacking the daunting world in limited increments, it might be my thing.
+    created_time: 2010-01-26T21:08:19+0000
+  count: 3
+layout: status
+title: Tuesday, Jan 26, 2010 around 02:39PM
+date: 2010-01-26 14:39:14 -05:00
+
+---
+I finished reading "Pomodoro Technique Illustrated" and am a transformed man. I'm adopting the Pomodoro technique 100%.

@@ -1,0 +1,76 @@
+--- 
+id: 790499637_211801783664
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: How nice it is when people that see you primarily in your underwear ask you if you've lost weight.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/211801783664
+- name: Like
+  link: http://www.facebook.com/790499637/posts/211801783664
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-11-12T19:38:42+0000
+updated_time: 2009-11-12T23:51:28+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_211801783664_7229137
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Congrats!!
+    created_time: 2009-11-12T19:39:36+0000
+  - id: 790499637_211801783664_7231453
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: um, thanks for sharing?
+    created_time: 2009-11-12T20:31:10+0000
+  - id: 790499637_211801783664_7231695
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: I, unfortunately, do not know this feeling.
+    created_time: 2009-11-12T20:36:45+0000
+  - id: 790499637_211801783664_7232375
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: The towel boy at the bath-house?
+    created_time: 2009-11-12T20:51:03+0000
+  - id: 790499637_211801783664_7232671
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I was waiting for someone to ask...it was at my acupuncture studio. They're so relaxed about semi-nudity that it's like being back in San Francisco.
+    created_time: 2009-11-12T20:57:11+0000
+  - id: 790499637_211801783664_7239304
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: ....too much information.....
+    created_time: 2009-11-12T23:51:28+0000
+  count: 6
+layout: status
+title: Thursday, Nov 12, 2009 around 02:38PM
+date: 2009-11-12 14:38:42 -05:00
+
+---
+How nice it is when people that see you primarily in your underwear ask you if you've lost weight.

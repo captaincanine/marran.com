@@ -1,0 +1,71 @@
+--- 
+id: 790499637_185099482471
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I was thinking of making an apple pie for T'giving, but now I'm thinking of making strudel for the 1st time. What do you think, too risky?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/185099482471
+- name: Like
+  link: http://www.facebook.com/790499637/posts/185099482471
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-11-18T15:20:55+0000
+updated_time: 2009-11-19T10:30:38+0000
+comments: 
+  data: 
+  - id: 790499637_185099482471_7378014
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Thanksgiving is a chance to walk on the wild side.  Go for strudel :-)
+    created_time: 2009-11-18T15:22:08+0000
+  - id: 790499637_185099482471_7379952
+    from: 
+      name: Heidi Washburn
+      id: "1486937956"
+    message: mmmmm - can I come over?
+    created_time: 2009-11-18T16:17:43+0000
+  - id: 790499637_185099482471_7384093
+    from: 
+      name: Brian Erickson
+      id: "1439074587"
+    message: I'm sure the Germans appreciate T'giving as well.  Go for it!
+    created_time: 2009-11-18T18:15:44+0000
+  - id: 790499637_185099482471_7399636
+    from: 
+      name: Eric Kelhoffer
+      id: "671590942"
+    message: " Do Apfel Strudel"
+    created_time: 2009-11-19T00:50:58+0000
+  - id: 790499637_185099482471_7411962
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: If you want, I'll get my grandma on the phone to walk you through it. Her strudel advice was "keep whacking  the dough like it's your husband." Of course, she gave me a rolling pin for my wedding. A must for every kitchen arsenal.
+    created_time: 2009-11-19T08:49:57+0000
+  - id: 790499637_185099482471_7413857
+    from: 
+      name: David Reich
+      id: "1641745987"
+    message: I'm ambivalent about the spousal abuse advice!
+    created_time: 2009-11-19T10:30:38+0000
+  count: 6
+layout: status
+title: Wednesday, Nov 18, 2009 around 10:20AM
+date: 2009-11-18 10:20:55 -05:00
+
+---
+I was thinking of making an apple pie for T'giving, but now I'm thinking of making strudel for the 1st time. What do you think, too risky?

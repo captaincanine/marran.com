@@ -1,0 +1,67 @@
+--- 
+id: 790499637_202594678648
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I've rediscovered Queen's "The Game". How did I ever forget songs like "Don't Try Suicide"? So close to being one of the great 80's albums.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/202594678648
+- name: Like
+  link: http://www.facebook.com/790499637/posts/202594678648
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-12-01T15:22:48+0000
+updated_time: 2009-12-01T19:11:09+0000
+comments: 
+  data: 
+  - id: 790499637_202594678648_7841698
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: "That was the first \"album\" I ever bought. The vinyl was sold out so I got the 8 track. I'm rediscovering it vicariously. Don't Try Suicide\xE2\x80\x94awesome. While it might seem obvious, how about Crazy Little Thing Called Love? Sail Away Sweet Sister? Dubious. But I'll take it as part of the package:)"
+    created_time: 2009-12-01T18:13:12+0000
+  - id: 790499637_202594678648_7842931
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Looking back on it, I think my pre-pubescent mind could not make sense of Freddie Mercury at the time.
+      
+      I remember being transfixed by the video of Crazy Little Thing Called Love - his leather biker outfit, the clapping hands coming out of the stage...I can only guess how my mind filed those images away.
+      
+      And now when I listen to "Play the Game", I practically swoon like a 14-year-old girl. Freddie's smooth and breathy vocals seduce me every time.
+      
+      And I do love Sail Away Sweet Sister. I agree - is it a great song? No. But it fits in so well. And I love "Coming Soon" for no discernible reason.
+    created_time: 2009-12-01T18:46:00+0000
+  - id: 790499637_202594678648_7843725
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: "My mind has the uncanny ability to ignore what it can't adapt\xE2\x80\x94like leather clad Freddie. I just figured that he was a rock star and everyone wore mustaches back then.\n\n\
+      In that vein, I remember being in the caf, week 1 sitting with a young km who commented on the good looks of a collegiate foot ball player. I just thought. what a curious generosity of spirit that would let one teenage boy be so complimentary of another."
+    created_time: 2009-12-01T19:06:58+0000
+  - id: 790499637_202594678648_7843893
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: HAHA! That's hilarious! It's so easy to forget that you're a Kansas girl at heart.
+    created_time: 2009-12-01T19:11:09+0000
+  count: 4
+layout: status
+title: Tuesday, Dec  1, 2009 around 10:22AM
+date: 2009-12-01 10:22:48 -05:00
+
+---
+I've rediscovered Queen's "The Game". How did I ever forget songs like "Don't Try Suicide"? So close to being one of the great 80's albums.

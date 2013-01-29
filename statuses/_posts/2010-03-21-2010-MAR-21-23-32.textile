@@ -1,0 +1,41 @@
+--- 
+id: 790499637_106688606026443
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I was at the southernmost tip of the 50 states today.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/106688606026443
+- name: Like
+  link: http://www.facebook.com/790499637/posts/106688606026443
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-03-22T03:32:06+0000
+updated_time: 2010-03-22T06:26:32+0000
+comments: 
+  data: 
+  - id: 790499637_106688606026443_98291
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: when are heading to India.....or have you already been there?
+    created_time: 2010-03-22T06:26:32+0000
+  count: 1
+layout: status
+title: Sunday, Mar 21, 2010 around 11:32PM
+date: 2010-03-21 23:32:06 -04:00
+
+---
+I was at the southernmost tip of the 50 states today.

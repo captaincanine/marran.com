@@ -1,0 +1,44 @@
+--- 
+id: 790499637_130898380279887
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This was the number one news story on my feed today. What the hell? The story gets crazier past the headline.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQC7Bv7CZmf74gVh&w=90&h=90&url=http%3A%2F%2Fd.yimg.com%2Fa%2Fp%2Fap%2F20100706%2Fcapt.2081ab79bd3047fd8f2fc69254487f51-2081ab79bd3047fd8f2fc69254487f51-0.jpg%3Fx%3D213%26y%3D139%26xc%3D2%26yc%3D1%26wc%3D408%26hc%3D266%26q%3D85%26sig%3DgPXAshmS4ZvpexoDmQye_g--
+link: http://news.yahoo.com/s/ap/20100709/ap_on_fe_st/eu_germany_octopus_oracle_world_cup
+name: "Octopus Paul: Germany will win 3rd place - Yahoo! News"
+caption: news.yahoo.com
+description: This was the number one news story on my feed today. What the hell? The story gets crazier past the headline.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/130898380279887
+- name: Like
+  link: http://www.facebook.com/790499637/posts/130898380279887
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-07-09T15:19:26+0000
+updated_time: 2010-07-09T15:34:16+0000
+comments: 
+  data: 
+  - id: 790499637_130898380279887_860152
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: And here we thought the good old USA had the market cornered on vapid news headlines!
+    created_time: 2010-07-09T15:34:16+0000
+  count: 1
+layout: status-link
+title: Friday, Jul  9, 2010 around 11:19AM
+link-info: Octopus oracle Paul is predicting Germany will win over Uruguay at the World Cup in the fight for third place.
+date: 2010-07-09 11:19:26 -04:00
+
+---
+This was the number one news story on my feed today. What the hell? The story gets crazier past the headline.

@@ -1,0 +1,37 @@
+--- 
+id: 790499637_109326827560
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I made this recipe on Sunday and it's a keeper.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAijpXZdcZUnksN&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Flogo.png
+link: http://www.marran.com/personal/recipes/dish/salads/sugar-snap-pea-salad
+name: www.marran.com
+caption: www.marran.com
+description: I made this recipe on Sunday and it's a keeper.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/109326827560
+- name: Like
+  link: http://www.facebook.com/790499637/posts/109326827560
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-07-08T17:20:28+0000
+updated_time: 2009-07-08T17:20:28+0000
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Jul  8, 2009 around 01:20PM
+link-info: Our CSA has resulted in me having to learn a bunch of new recipes. Last week, we got 2 pounds of sugar snap peas. I've never really used sugar snap peas, so I did a web search and found the following recipe. ...
+date: 2009-07-08 13:20:28 -04:00
+
+---
+I made this recipe on Sunday and it's a keeper.

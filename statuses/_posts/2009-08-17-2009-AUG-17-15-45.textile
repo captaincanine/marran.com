@@ -1,0 +1,50 @@
+--- 
+id: 790499637_118381539499
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "I remember reading the issue for #2 on this list. It was just as bizarre and unnerving as they describe. And yet it was one of my favorite Avengers' issues."
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQA1BtRY5mqQj6rt&w=90&h=90&url=http%3A%2F%2Fcdn-i.dmdentertainment.com%2Ffunpages%2Fcms_content%2F17626%2Fcomic_sex_small.jpg
+link: http://www.cracked.com/article_17626_5-creepiest-sex-scenes-in-comics.html
+name: The 5 Creepiest Sex Scenes in Comics
+caption: www.cracked.com
+description: "I remember reading the issue for #2 on this list. It was just as bizarre and unnerving as they describe. And yet it was one of my favorite Avengers' issues."
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/118381539499
+- name: Like
+  link: http://www.facebook.com/790499637/posts/118381539499
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-08-17T19:45:47+0000
+updated_time: 2009-08-17T20:47:28+0000
+comments: 
+  data: 
+  - id: 790499637_118381539499_3937786
+    from: 
+      name: Tony Lopez
+      id: "1188372735"
+    message: Oh, Astro-Boy! Who knew?!?
+    created_time: 2009-08-17T20:37:39+0000
+  - id: 790499637_118381539499_3938075
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: The astroboy bits are fun
+    created_time: 2009-08-17T20:47:28+0000
+  count: 2
+layout: status-link
+title: Monday, Aug 17, 2009 around 03:45PM
+link-info: The 5 Creepiest Sex Scenes in Comics. More like Asstro Boy...Seriously.
+date: 2009-08-17 15:45:47 -04:00
+
+---
+I remember reading the issue for #2 on this list. It was just as bizarre and unnerving as they describe. And yet it was one of my favorite Avengers' issues.

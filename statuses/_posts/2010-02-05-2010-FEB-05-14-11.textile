@@ -1,0 +1,55 @@
+--- 
+id: 790499637_292040977025
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Who shops at a store called "Hippo Shoes"?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/292040977025
+- name: Like
+  link: http://www.facebook.com/790499637/posts/292040977025
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-02-05T19:11:19+0000
+updated_time: 2010-02-05T20:40:10+0000
+comments: 
+  data: 
+  - id: 790499637_292040977025_10735357
+    from: 
+      name: Kirsten Murray
+      id: "575571081"
+    message: hip po' people?
+    created_time: 2010-02-05T20:04:38+0000
+  - id: 790499637_292040977025_10736875
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: The selection is limited but I found the prices to be just right. They shoues match my ever increasing midrift.
+    created_time: 2010-02-05T20:40:04+0000
+  - id: 790499637_292040977025_10736883
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: |
+      shoes.
+
+    created_time: 2010-02-05T20:40:10+0000
+  count: 3
+layout: status
+title: Friday, Feb  5, 2010 around 02:11PM
+date: 2010-02-05 14:11:19 -05:00
+
+---
+Who shops at a store called "Hippo Shoes"?

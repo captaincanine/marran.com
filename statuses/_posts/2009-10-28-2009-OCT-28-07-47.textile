@@ -1,0 +1,42 @@
+--- 
+id: 790499637_164613839715
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: A friend sent me this link. It's highlights from a 1962 textbook called "When You Marry." It includes bigoted teachings on race and gender and has a healthy dose of eugenics! And it has cartoons.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBS8rjE8Toa4k2B&w=90&h=90&url=http%3A%2F%2Fcontexts.org%2Fsocimages%2Ffiles%2F2009%2F10%2Fbook-1-346x500.jpg
+link: http://contexts.org/socimages/2009/10/21/when-you-marry-1962-textbook/
+name: "\xE2\x80\x9CWhen You Marry\xE2\x80\x9D: 1962 Textbook \xC2\xBB Sociological Images"
+caption: contexts.org
+description: A friend sent me this link. It's highlights from a 1962 textbook called "When You Marry." It includes bigoted teachings on race and gender and has a healthy dose of eugenics! And it has cartoons.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/164613839715
+- name: Like
+  link: http://www.facebook.com/790499637/posts/164613839715
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-10-28T11:47:42+0000
+updated_time: 2009-10-28T11:47:42+0000
+likes: 
+  data: 
+  - name: Rosemary Feneziani
+    id: "573541002"
+  count: 1
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Oct 28, 2009 around 07:47AM
+link-info: Sociological Images encourages people to exercise and develop their sociological imaginations with discussions of compelling visuals that span the breadth of sociological inquiry.
+date: 2009-10-28 07:47:42 -04:00
+
+---
+A friend sent me this link. It's highlights from a 1962 textbook called "When You Marry." It includes bigoted teachings on race and gender and has a healthy dose of eugenics! And it has cartoons.

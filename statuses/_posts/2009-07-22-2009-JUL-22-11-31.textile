@@ -1,0 +1,59 @@
+--- 
+id: 790499637_238466630453
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Blue Jays Outside My Window
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCtCrPSBbKMY4-B&w=90&h=90&url=http%3A%2F%2Ffarm4.static.flickr.com%2F3424%2F3745698915_5417dbf6a9.jpg
+link: http://www.marran.com/personal/blog/nyc/blue-jays-outside-my-window
+name: www.marran.com
+caption: www.marran.com
+description: Blue Jays Outside My Window
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/238466630453
+- name: Like
+  link: http://www.facebook.com/790499637/posts/238466630453
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-07-22T15:31:36+0000
+updated_time: 2009-07-22T19:15:31+0000
+comments: 
+  data: 
+  - id: 790499637_238466630453_3458107
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: You kiddin'?  Blue jays are SO narcissistic!  And bossy.  And loud.  We have an ongoing battle between the squirrels and the jays here over who gets the critter feed meant for the raccoons.
+    created_time: 2009-07-22T16:19:39+0000
+  - id: 790499637_238466630453_3462438
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Where do you live? Alaska? 
+      
+      Here in the big city, we are not so picky about our exposures to nature. Most windows in NYC don't have a tree branch right outside, let alone one with a non-pigeon bird on it.
+    created_time: 2009-07-22T19:08:17+0000
+  - id: 790499637_238466630453_3462627
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: Alaska!  Hahaha!! Close... Ohio.  And I remember the joy of non-pigeon nature from the years in Chicago.  I just meant that should you see blue jays, don't be surprised if they pose for you.  They just can't help themselves!  Aviary divas.
+    created_time: 2009-07-22T19:15:31+0000
+  count: 3
+layout: status-link
+title: Wednesday, Jul 22, 2009 around 11:31AM
+link-info: I had a treat today. Outside my office window, I was visited by two blue jays. I had been seeing them around the neighborhood recently, but these two hung out for quite a while just a foot outside my window. They didn't even seem bothered by my movement to get a camera and take photos.
+date: 2009-07-22 11:31:36 -04:00
+
+---
+Blue Jays Outside My Window

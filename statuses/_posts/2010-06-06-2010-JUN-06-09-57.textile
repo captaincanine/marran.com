@@ -1,0 +1,51 @@
+--- 
+id: 790499637_450884284637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: If you only go to one castle this year, make it Windsor Castle.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/450884284637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/450884284637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=15557047414
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-06-06T13:57:25+0000
+updated_time: 2010-06-06T20:36:53+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_450884284637_13620528
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: ...though I find White Castle to be perfectly appropriate for a family on a budget......
+    created_time: 2010-06-06T20:36:53+0000
+  count: 1
+layout: status
+title: Sunday, Jun  6, 2010 around 09:57AM
+date: 2010-06-06 09:57:25 -04:00
+
+---
+If you only go to one castle this year, make it Windsor Castle.

@@ -1,0 +1,34 @@
+--- 
+id: 790499637_208476646211
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm definitely going to be there taking photos. If anyone wants to join me, please let know!
+story: Keith Marran shared an event.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/208476646211
+- name: Like
+  link: http://www.facebook.com/790499637/posts/208476646211
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Events
+  id: "2344061033"
+created_time: 2009-11-24T20:56:44+0000
+updated_time: 2009-11-24T20:56:44+0000
+comments: 
+  count: 0
+layout: status
+title: Tuesday, Nov 24, 2009 around 03:56PM
+date: 2009-11-24 15:56:44 -05:00
+
+---
+I'm definitely going to be there taking photos. If anyone wants to join me, please let know!

@@ -1,0 +1,37 @@
+--- 
+id: 790499637_440709369637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The thing that amazes me about 23rd st is how many people won't get out of the way when they see a blind person tapping toward them.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/440709369637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/440709369637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=13921536921
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-13T16:06:47+0000
+updated_time: 2010-05-13T16:06:47+0000
+comments: 
+  count: 0
+layout: status
+title: Thursday, May 13, 2010 around 12:06PM
+date: 2010-05-13 12:06:47 -04:00
+
+---
+The thing that amazes me about 23rd st is how many people won't get out of the way when they see a blind person tapping toward them.

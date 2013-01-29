@@ -1,0 +1,47 @@
+--- 
+id: 790499637_106289509400831
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "One of the coolest things I've seen in a while: graph of scientific evidence for popular health supplements: http://bit.ly/dmmhdR"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/106289509400831
+- name: Like
+  link: http://www.facebook.com/790499637/posts/106289509400831
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-03-22T16:52:46+0000
+updated_time: 2010-03-22T17:27:44+0000
+comments: 
+  data: 
+  - id: 790499637_106289509400831_90514
+    from: 
+      name: Brenda Gregoline
+      id: "1236717380"
+    message: "What a gorgeous, wonderful thing! Edward Tufte is probably drooling with jealousy. "
+    created_time: 2010-03-22T17:15:57+0000
+  - id: 790499637_106289509400831_90633
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: That is both cool & useful!  Thank you!
+    created_time: 2010-03-22T17:27:44+0000
+  count: 2
+layout: status
+title: Monday, Mar 22, 2010 around 12:52PM
+date: 2010-03-22 12:52:46 -04:00
+
+---
+One of the coolest things I've seen in a while: graph of scientific evidence for popular health supplements: http://bit.ly/dmmhdR

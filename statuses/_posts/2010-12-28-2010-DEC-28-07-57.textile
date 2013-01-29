@@ -1,0 +1,66 @@
+--- 
+id: 790499637_155124231201785
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The standby lists for flights to NYC are well over 100 names long. Every one of these flights is like Oscar night when they start calling for standbys. I have to remember not to gloat and squeal too much if my name gets called.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/155124231201785
+- name: Like
+  link: http://www.facebook.com/790499637/posts/155124231201785
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2010-12-28T12:57:52+0000
+updated_time: 2010-12-28T15:43:43+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_155124231201785_1613084
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: I hope your name is called next, and you safely make it back to NYC!
+    created_time: 2010-12-28T13:47:37+0000
+  - id: 790499637_155124231201785_1613123
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Does IAD have one of those mini-spas? I vote that you park it there during the wait. Like a true star. Your entourage can apprise you.
+    created_time: 2010-12-28T13:54:59+0000
+  - id: 790499637_155124231201785_1613366
+    from: 
+      name: Patrick Kee Kietsrichart
+      id: "1334676583"
+    message: Just kiss David and walk elegantly to the front. Make sure nobody steps on your train. ;-)
+    created_time: 2010-12-28T14:44:45+0000
+  - id: 790499637_155124231201785_1613663
+    from: 
+      name: Alice Nighswonger
+      id: "1519519676"
+    message: I'm flying standby from NYC to Chicago today. Want to do a house swap if we don't get out?
+    created_time: 2010-12-28T15:43:43+0000
+  count: 4
+layout: status
+title: Tuesday, Dec 28, 2010 around 07:57AM
+date: 2010-12-28 07:57:52 -05:00
+
+---
+The standby lists for flights to NYC are well over 100 names long. Every one of these flights is like Oscar night when they start calling for standbys. I have to remember not to gloat and squeal too much if my name gets called.

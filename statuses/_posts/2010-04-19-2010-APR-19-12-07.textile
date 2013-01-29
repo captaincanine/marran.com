@@ -1,0 +1,65 @@
+--- 
+id: 790499637_114754555211532
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Second day back at Aerospace. I didn't feel like throwing up this time, but now I am ready to eat everything in sight.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/114754555211532
+- name: Like
+  link: http://www.facebook.com/790499637/posts/114754555211532
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-19T16:07:18+0000
+updated_time: 2010-04-19T18:18:46+0000
+comments: 
+  data: 
+  - id: 790499637_114754555211532_336989
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Step in the right direction!
+    created_time: 2010-04-19T16:26:51+0000
+  - id: 790499637_114754555211532_337697
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Sounds like they work you out hard enough that you should be ALLOWED to eat everything in sight!
+    created_time: 2010-04-19T18:04:03+0000
+  - id: 790499637_114754555211532_337746
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: That used to be my attitude. Lifting weights gave me a huge appetite and I would give in to it. And as a consequence, I gained weight. I an now attempting to spiritually embrace hunger and craving as a good thing.
+    created_time: 2010-04-19T18:10:14+0000
+  - id: 790499637_114754555211532_337795
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Try just a small portion of a protein drink (Naked Protein works great - the small size).  Reasonable calories, puts protein in, and takes the edge off.....
+    created_time: 2010-04-19T18:16:25+0000
+  - id: 790499637_114754555211532_337813
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Thanks, Tom. I'll try it.
+    created_time: 2010-04-19T18:18:46+0000
+  count: 5
+layout: status
+title: Monday, Apr 19, 2010 around 12:07PM
+date: 2010-04-19 12:07:18 -04:00
+
+---
+Second day back at Aerospace. I didn't feel like throwing up this time, but now I am ready to eat everything in sight.

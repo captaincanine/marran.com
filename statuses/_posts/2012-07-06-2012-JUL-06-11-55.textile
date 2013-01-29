@@ -1,0 +1,32 @@
+--- 
+id: 790499637_10151253184774638
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: "Keith Marran was tagged in Geeks OUT's album Geeks OUT: A Mighty Mutant Marriage Extravaganza."
+picture: http://photos-e.ak.fbcdn.net/hphotos-ak-ash3/580757_447508621950573_1353312779_s.jpg
+link: http://www.facebook.com/photo.php?fbid=447508621950573&set=at.437851699582932.103211.157044360997002.790499637&type=1&relevant_count=3
+description: "Keith Marran was tagged in Geeks OUT's album Geeks OUT: A Mighty Mutant Marriage Extravaganza."
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+privacy: 
+  value: ""
+type: photo
+status_type: tagged_in_photo
+object_id: "447508621950573"
+application: 
+  name: Photos
+  id: "2305272732"
+created_time: 2012-07-06T15:55:00+0000
+updated_time: 2012-07-06T15:55:00+0000
+comments: 
+  count: 0
+layout: status-photo
+title: Friday, Jul  6, 2012 around 11:55AM
+link-info: "Geeks OUT celebrates Kyle and Northstar's Marriage in Astonishing X-Men #51 and the one year anniversary of marriage equality in New York State! Images courtesy Gustavo Monroy/Next Magazine and Dominic Perri"
+images: 
+- thumbnail: /statuses/photo/580757_447508621950573_1353312779_s.jpg
+  fullsize: /statuses/photo/580757_447508621950573_1353312779_n.jpg
+date: 2012-07-06 11:55:00 -04:00
+
+---
+Keith Marran was tagged in Geeks OUT's album Geeks OUT: A Mighty Mutant Marriage Extravaganza.

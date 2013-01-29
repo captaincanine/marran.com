@@ -1,0 +1,77 @@
+--- 
+id: 790499637_10150120149399638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I couldn't resist a little tourist indulgence.
+picture: http://photos-d.ak.fbcdn.net/hphotos-ak-prn1/149510_10150120149254638_7039813_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10150120149254638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150120149399638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150120149399638
+privacy: 
+  description: Public
+  value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
+type: photo
+status_type: added_photos
+object_id: "10150120149254638"
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2010-11-15T07:17:20+0000
+updated_time: 2010-11-16T01:36:18+0000
+likes: 
+  data: 
+  - name: Richard M Carlson Jr
+    id: "1437848272"
+  - name: Robert Lucas
+    id: "100000816082478"
+  - name: Gretchen Berkebile
+    id: "1454349544"
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 11
+comments: 
+  data: 
+  - id: 790499637_10150120149399638_4423583
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: That's one hell of a "I was there" shot!
+    created_time: 2010-11-15T13:44:59+0000
+  - id: 790499637_10150120149399638_4424495
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Of course, got to be done! Isn't that the bench where Lady Di sat? Shame it's almost impossible to get the shot without crowds in the background though. :-)
+    created_time: 2010-11-15T16:03:51+0000
+  - id: 790499637_10150120149399638_4424581
+    from: 
+      name: Lisa Hart Garpestad
+      id: "762164473"
+    message: how could you not?  Beautiful.
+    created_time: 2010-11-15T16:16:34+0000
+  - id: 790499637_10150120149399638_4428436
+    from: 
+      name: Dyan Maitland-Bledsoe
+      id: "786609558"
+    message: Great picture! I might have to cut and paste myself on that bench.
+    created_time: 2010-11-16T01:36:18+0000
+  count: 4
+layout: status-photo
+title: Monday, Nov 15, 2010 around 02:17AM
+images: 
+- thumbnail: /statuses/photo/149510_10150120149254638_7039813_s.jpg
+  fullsize: /statuses/photo/149510_10150120149254638_7039813_n.jpg
+date: 2010-11-15 02:17:20 -05:00
+
+---
+I couldn't resist a little tourist indulgence.

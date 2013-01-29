@@ -1,0 +1,47 @@
+--- 
+id: 790499637_129846167060700
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Ugh. It looks like Sarah Palin is gearing up to be the next Orwellian nightmare.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQB2VmbYqe-NJjya&w=90&h=90&url=http%3A%2F%2Fact.credoaction.com%2Fimages%2Fcampaigns%2Fpalin-on-discovery_fb.jpg
+link: http://act.credoaction.com/campaign/palin_discovery/?rc=fb_share1
+name: Keep Sarah Palin off Discovery
+caption: act.credoaction.com
+description: Ugh. It looks like Sarah Palin is gearing up to be the next Orwellian nightmare.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/129846167060700
+- name: Like
+  link: http://www.facebook.com/790499637/posts/129846167060700
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2010-08-09T13:52:23+0000
+updated_time: 2010-08-09T14:34:14+0000
+comments: 
+  data: 
+  - id: 790499637_129846167060700_836641
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: yikes.
+    created_time: 2010-08-09T14:34:14+0000
+  count: 1
+layout: status-link
+title: Monday, Aug  9, 2010 around 09:52AM
+link-info: "Tell Discovery: Someone who vocally advocates for habitat-destroying oil drilling, denies global warming is a human-caused threat, and spearheaded a brutal wolf-slaughter program as governor of Alaska has no place in your eco-conscious lineup of shows."
+date: 2010-08-09 09:52:23 -04:00
+
+---
+Ugh. It looks like Sarah Palin is gearing up to be the next Orwellian nightmare.

@@ -1,0 +1,52 @@
+--- 
+id: 790499637_116647831737823
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: We have arrived at the Hilton in Rome. I am having a huge Betty Draper moment.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/116647831737823
+- name: Like
+  link: http://www.facebook.com/790499637/posts/116647831737823
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2010-12-21T14:43:45+0000
+updated_time: 2010-12-21T19:00:42+0000
+likes: 
+  data: 
+  - name: Sara Holoubek
+    id: "659585353"
+  - name: Leslie Gardner
+    id: "667633377"
+  - name: Jeff Bond
+    id: "1108401510"
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 13
+comments: 
+  data: 
+  - id: 790499637_116647831737823_416426
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Wow, you made it! Excellent news. :-) Have a fantastic time!!
+    created_time: 2010-12-21T19:00:42+0000
+  count: 1
+layout: status
+title: Tuesday, Dec 21, 2010 around 09:43AM
+date: 2010-12-21 09:43:45 -05:00
+
+---
+We have arrived at the Hilton in Rome. I am having a huge Betty Draper moment.

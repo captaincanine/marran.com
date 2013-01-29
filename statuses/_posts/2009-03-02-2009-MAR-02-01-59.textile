@@ -1,0 +1,59 @@
+--- 
+id: 790499637_54295646934
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: has been having nightly hyena visits to his camp.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/54295646934
+- name: Like
+  link: http://www.facebook.com/790499637/posts/54295646934
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-03-02T06:59:39+0000
+updated_time: 2009-03-03T00:17:50+0000
+comments: 
+  data: 
+  - id: 790499637_54295646934_912994
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: OK...that's not so cool. I've seen "The Lion King" too many times....:-)
+    created_time: 2009-03-02T07:10:16+0000
+  - id: 790499637_54295646934_915506
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: Oh... you're serious.  I figured it was some sort of euphemism.
+    created_time: 2009-03-02T15:57:25+0000
+  - id: 790499637_54295646934_919029
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Are you sure that you're not just holed up in your library in Chelsea?
+    created_time: 2009-03-02T22:09:14+0000
+  - id: 790499637_54295646934_920202
+    from: 
+      name: Evan Kent
+      id: "1362251279"
+    message: Very cool!!!
+    created_time: 2009-03-03T00:17:50+0000
+  count: 4
+layout: status
+title: Monday, Mar  2, 2009 around 01:59AM
+date: 2009-03-02 01:59:39 -05:00
+
+---
+has been having nightly hyena visits to his camp.

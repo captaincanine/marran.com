@@ -1,0 +1,40 @@
+--- 
+id: 790499637_125024994210172
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBliIKzySL5el2y&w=90&h=90&url=http%3A%2F%2Fact.credoaction.com%2Fimages%2Fcampaigns%2Fgoogle_dont_be_evil180.jpg
+link: http://act.credoaction.com/campaign/google_verizon/?rc=fb_share1
+name: "Tell Google: Don't be evil"
+caption: act.credoaction.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/125024994210172
+- name: Like
+  link: http://www.facebook.com/790499637/posts/125024994210172
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2010-08-06T18:53:38+0000
+updated_time: 2010-08-06T18:53:38+0000
+comments: 
+  count: 0
+layout: status-link
+title: Friday, Aug  6, 2010 around 02:53PM
+link-info: Google's motto is "Don't be evil," but Google is about to cut a deal with Verizon that would end the Internet as we know it. It would create fast Internet lanes for the largest corporations and slow lanes for the rest of us. If enough of us speak out, we can stop it.
+date: 2010-08-06 14:53:38 -04:00
+
+---
+Keith Marran shared a link.

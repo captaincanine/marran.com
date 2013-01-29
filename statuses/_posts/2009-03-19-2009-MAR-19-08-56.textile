@@ -1,0 +1,36 @@
+--- 
+id: 790499637_74316244637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v43/184/8584254940/app_2_8584254940_4465.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/74316244637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/74316244637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Yelp
+  namespace: feedcrawl_yelp
+  id: "8584254940"
+created_time: 2009-03-19T12:56:10+0000
+updated_time: 2009-03-19T12:56:10+0000
+likes: 
+  data: 
+  - name: Christine Marran
+    id: "1327144819"
+  count: 1
+comments: 
+  count: 0
+layout: status
+title: Thursday, Mar 19, 2009 around 08:56AM
+link-info: Keith reviewed Taim Falafel & Smoothie Bar on Yelp
+date: 2009-03-19 08:56:10 -04:00
+
+---
+

@@ -1,0 +1,43 @@
+--- 
+id: 790499637_176171625738708
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Thanks to friends that are concerned about us in Rome. We had no idea anything was going on until we get email from friends overseas.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/176171625738708
+- name: Like
+  link: http://www.facebook.com/790499637/posts/176171625738708
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2010-12-23T17:25:44+0000
+updated_time: 2010-12-23T19:31:14+0000
+comments: 
+  data: 
+  - id: 790499637_176171625738708_2217707
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Yikes... glad to hear you and David are OK.
+    created_time: 2010-12-23T17:49:34+0000
+  - id: 790499637_176171625738708_2218449
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Good to hear you were happily unaware!!
+    created_time: 2010-12-23T19:31:14+0000
+  count: 2
+layout: status
+title: Thursday, Dec 23, 2010 around 12:25PM
+date: 2010-12-23 12:25:44 -05:00
+
+---
+Thanks to friends that are concerned about us in Rome. We had no idea anything was going on until we get email from friends overseas.

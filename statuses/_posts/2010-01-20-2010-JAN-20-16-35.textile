@@ -1,0 +1,76 @@
+--- 
+id: 790499637_261629404585
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I think I really want one of these but I don't know how to fit it in my home office. http://www.lebeanock.com/index.htm
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/261629404585
+- name: Like
+  link: http://www.facebook.com/790499637/posts/261629404585
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-01-20T21:35:32+0000
+updated_time: 2010-01-21T17:00:42+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_261629404585_9992062
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Ummmmm......I'm on my fifth comment, and none still appropriate for Facebook.....:-)
+    created_time: 2010-01-20T22:18:25+0000
+  - id: 790499637_261629404585_9993211
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Just post them on Robb's status. He loves it.
+    created_time: 2010-01-20T22:44:37+0000
+  - id: 790499637_261629404585_9993758
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: HEY! WTF? I said I LIKED the sling you wanted for the office.
+    created_time: 2010-01-20T22:57:12+0000
+  - id: 790499637_261629404585_9994567
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: THAT'S what I'm talking about....seats at least 3-4.  Could be fun :-)
+    created_time: 2010-01-20T23:18:38+0000
+  - id: 790499637_261629404585_10009445
+    from: 
+      name: Eric Forbes
+      id: "1077099687"
+    message: I like it! (Now where's my stud-finder and eye bolts?)
+    created_time: 2010-01-21T06:10:55+0000
+  - id: 790499637_261629404585_10026301
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: heh heh heh
+    created_time: 2010-01-21T17:00:42+0000
+  count: 6
+layout: status
+title: Wednesday, Jan 20, 2010 around 04:35PM
+date: 2010-01-20 16:35:32 -05:00
+
+---
+I think I really want one of these but I don't know how to fit it in my home office. http://www.lebeanock.com/index.htm

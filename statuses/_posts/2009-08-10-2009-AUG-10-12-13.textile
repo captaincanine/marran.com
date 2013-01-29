@@ -1,0 +1,34 @@
+--- 
+id: 790499637_142144659637
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran was tagged in Robb Bloom's photo.
+picture: http://photos-c.ak.fbcdn.net/hphotos-ak-ash3/6740_1134372354923_5903735_s.jpg
+link: http://www.facebook.com/photo.php?fbid=1134372354923&set=at.1134366274771.2021492.1095747683.790499637&type=1&relevant_count=1
+description: Keith Marran was tagged in Robb Bloom's photo.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/142144659637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/142144659637
+privacy: 
+  value: ""
+type: photo
+status_type: tagged_in_photo
+object_id: "1134372354923"
+created_time: 2009-08-10T16:13:17+0000
+updated_time: 2009-08-10T16:13:17+0000
+comments: 
+  count: 0
+layout: status-photo
+title: Monday, Aug 10, 2009 around 12:13PM
+link-info: Milo worshiping Keith.
+images: 
+- thumbnail: /statuses/photo/6740_1134372354923_5903735_s.jpg
+  fullsize: /statuses/photo/6740_1134372354923_5903735_n.jpg
+date: 2009-08-10 12:13:17 -04:00
+
+---
+Keith Marran was tagged in Robb Bloom's photo.

@@ -1,0 +1,31 @@
+--- 
+id: 790499637_75457649637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/75457649637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/75457649637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2009-03-23T03:32:23+0000
+updated_time: 2009-03-23T03:32:23+0000
+comments: 
+  count: 0
+layout: status
+title: Sunday, Mar 22, 2009 around 11:32PM
+link-info: Keith saved Implement "forgot password" in restful authentication plugin - Rails Forum - Ruby on Rails Help and Discussion Forum on Delicious
+date: 2009-03-22 23:32:23 -04:00
+
+---
+

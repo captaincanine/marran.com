@@ -1,0 +1,80 @@
+--- 
+id: 790499637_111025136513
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: in honor of Pride Day, I suggest you play the gayest song you can find and spend some time dancing around like a ninny. My recommendation is "Your Disco Needs You" by Kylie Minogue, but I'm open to suggestions.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/111025136513
+- name: Like
+  link: http://www.facebook.com/790499637/posts/111025136513
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2009-06-28T15:13:25+0000
+updated_time: 2009-06-29T10:46:45+0000
+comments: 
+  data: 
+  - id: 790499637_111025136513_2696458
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Yesterday my otherwise classic rock/rock station played the "wig down from the shelf" song from Hedwig.  That sufficed very nicely.
+    created_time: 2009-06-28T15:21:34+0000
+  - id: 790499637_111025136513_2697875
+    from: 
+      name: David Nudo
+      id: "703436193"
+    message: I would have to go with the most obvious, and say GO WEST or anything from the Village People.
+    created_time: 2009-06-28T16:49:45+0000
+  - id: 790499637_111025136513_2699729
+    from: 
+      name: Jamie Querciagrossa
+      id: "1028555899"
+    message: The boys next door have Cher streaming today.  Hey, hey!  I sent Liliana to the parade all decked out in rainbows.  Is 5 years old too early to learn that there are two meanings of the words "fairies"  and "queens".
+    created_time: 2009-06-28T18:34:18+0000
+  - id: 790499637_111025136513_2699941
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: |-
+      I just drove across SF and while I made an effort to skirt Pride I was surprised at how little overt gayness I encountered. I thought I was dangerously close to Civic Center. 
+      
+      In any case, I'll go find some Kylie Minogue now.
+    created_time: 2009-06-28T18:47:20+0000
+  - id: 790499637_111025136513_2706529
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Jamie - Maybe those two types of fairies are not so different as you think. Hmm?
+    created_time: 2009-06-29T01:44:17+0000
+  - id: 790499637_111025136513_2712693
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: "\"Don't Leave Me this Way\" by Bronski Beat. We love 'our' Kylie, though"
+    created_time: 2009-06-29T09:32:56+0000
+  - id: 790499637_111025136513_2713617
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: ....or "It's Raining Men" by The Weather Girls
+    created_time: 2009-06-29T10:46:45+0000
+  count: 7
+layout: status
+title: Sunday, Jun 28, 2009 around 11:13AM
+date: 2009-06-28 11:13:25 -04:00
+
+---
+in honor of Pride Day, I suggest you play the gayest song you can find and spend some time dancing around like a ninny. My recommendation is "Your Disco Needs You" by Kylie Minogue, but I'm open to suggestions.

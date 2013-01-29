@@ -1,0 +1,39 @@
+<div id="statuses">
+  <div class="header">Off the cuff</div>
+
+  {% for post in site.categories['statuses'] limit:10 %}
+
+    <div class="teaser{% if (forloop.first) %} first{% endif %}">
+      <div class="timestamp"><script language="javascript">document.write($.timeago('{{ post.date }}'))</script></div>
+      <div class="description"><a href="{{ post.url }}">{{ post.content }}</a></div>
+
+      {% if (post.layout == 'status-video') %}
+
+        <div class="row">
+          <div class="span4"><a href="{{ post.url }}"><img src="{{ post.images[0].teaser }}" /></a></div>
+        </div>
+
+      {% endif %}
+
+      {% if (post.layout == 'status-photo') %}
+
+        <div class="row">
+          <div class="span4"><a href="{{ post.url }}"><img src="{{ post.images[0].fullsize }}" /></a></div>
+        </div>
+
+      {% endif %}
+    
+      {% if (post.layout == 'status-link') %}
+      
+        <div class="row">
+          <div class="span1"><div class="image"><a href="{{ post.url }}"><img src="{{ post.picture }}" /></a></div></div>
+          <div class="span3"><div class="info"><a href="{{ post.url }}">{{ post.name }}</a></div></div>
+        </div>
+      
+      {% endif %}
+    
+    </div>
+
+  {% endfor %}
+
+</div>

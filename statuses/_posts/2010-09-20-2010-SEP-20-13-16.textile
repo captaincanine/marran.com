@@ -1,0 +1,46 @@
+--- 
+id: 790499637_127864253931710
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The Hotel is Really, Really Nice
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDCqD2-UpDJpwvy&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Flogo.jpg
+link: http://ping.fm/6LD0a
+name: The Hotel is Really, Really Nice | Keith Marran
+caption: www.marran.com
+description: The Hotel is Really, Really Nice
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/127864253931710
+- name: Like
+  link: http://www.facebook.com/790499637/posts/127864253931710
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Ping.fm
+  namespace: pingdotfm
+  id: "10732101402"
+created_time: 2010-09-20T17:16:02+0000
+updated_time: 2010-09-20T17:16:02+0000
+likes: 
+  data: 
+  - name: Robert Lucas
+    id: "100000816082478"
+  count: 1
+comments: 
+  count: 0
+layout: status-link
+title: Monday, Sep 20, 2010 around 01:16PM
+link-info: So...David and I had a nice flight to China. It went by really quickly for some reason. I'm sure that being in business class helped. And now it's 1am, we're settled into our hotel, and we're wide awake.
+date: 2010-09-20 13:16:02 -04:00
+
+---
+The Hotel is Really, Really Nice

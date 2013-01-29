@@ -1,0 +1,53 @@
+--- 
+id: 790499637_431440150248522
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Like Olestra, this just makes you poop more. What is God trying to tell us about weight loss?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBopqQb1TdBK4BW&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F1857n8xrvajh0jpg%2Ffb.jpg
+link: http://gawker.com/5960224/new-fat+blocking-pepsi-will-soon-render-all-non+soda-liquids-redundant
+name: New Fat-Blocking Pepsi Will Soon Render All Non-Soda Liquids Redundant
+caption: gawker.com
+description: Like Olestra, this just makes you poop more. What is God trying to tell us about weight loss?
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/ya/x/SC2ZmEkfI-X.png
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/431440150248522
+- name: Like
+  link: http://www.facebook.com/790499637/posts/431440150248522
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-11-14T15:10:04+0000
+updated_time: 2012-11-15T18:26:32+0000
+comments: 
+  data: 
+  - id: 790499637_431440150248522_4015851
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: We're full of it?
+    created_time: 2012-11-15T17:35:34+0000
+  - id: 790499637_431440150248522_4016021
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Exactly!
+    created_time: 2012-11-15T18:26:32+0000
+  count: 2
+layout: status-link
+title: Wednesday, Nov 14, 2012 around 10:10AM
+link-info: "At long last, God has answered our prayers: \"fat-blocking\" soda has arrived. Unfortunately, because He is a tricky God, the new fat-blocking soda is Pepsi."
+date: 2012-11-14 10:10:04 -05:00
+
+---
+Like Olestra, this just makes you poop more. What is God trying to tell us about weight loss?

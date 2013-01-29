@@ -1,0 +1,41 @@
+--- 
+id: 790499637_177696734600
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Delicious. I don't think I've ever seen this brand out East.
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=8175068095&v=1&size=z&cksum=bb258abbc00b47715619d3be25d34e09&src=http%3A%2F%2F67.225.142.163%2F%7Evsyrup%2Fgifting%2Fapps%2F248%2Fimages%2Fclass1-object9-75.gif
+link: http://apps.facebook.com/sendbeers/&target=object&object_id=9&source=feed_acceptobject
+description: Delicious. I don't think I've ever seen this brand out East.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v43/103/8175068095/app_2_8175068095_5562.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/177696734600
+- name: Like
+  link: http://www.facebook.com/790499637/posts/177696734600
+privacy: 
+  value: ""
+type: link
+status_type: app_created_story
+application: 
+  name: Send Beer
+  namespace: sendbeers
+  id: "8175068095"
+created_time: 2009-10-28T11:22:00+0000
+updated_time: 2009-10-28T11:22:00+0000
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Oct 28, 2009 around 07:22AM
+link-info: |-
+  Keith 
+          accepted a delicious Beer,
+          Pacifico Beer Bottle 12 pack,
+          from Dawn Richmond Breazile
+          View this Beer | 
+      
+        Send Beer to friends
+date: 2009-10-28 07:22:00 -04:00
+
+---
+Delicious. I don't think I've ever seen this brand out East.

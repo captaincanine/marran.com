@@ -1,0 +1,109 @@
+--- 
+id: 790499637_140517934863
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I arrived in Australia. I am not stranded on a bizarre, magical island in the Pacific.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/140517934863
+- name: Like
+  link: http://www.facebook.com/790499637/posts/140517934863
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-09-30T21:28:01+0000
+updated_time: 2009-10-01T06:32:18+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_140517934863_5412423
+    from: 
+      name: Jake Baker-Brown
+      id: "520211262"
+    message: |-
+      It's not bizzare?  It's not magical??
+      
+      I'm disappointed.
+    created_time: 2009-09-30T21:31:27+0000
+  - id: 790499637_140517934863_5412447
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Yowsa!  Glad you are safe down under.  The world seems to be trying to come apart down there!!
+    created_time: 2009-09-30T21:32:16+0000
+  - id: 790499637_140517934863_5414597
+    from: 
+      name: Jay Forsyth
+      id: "718958430"
+    message: You will have to travel north to find bizarre and magical.
+    created_time: 2009-09-30T22:45:03+0000
+  - id: 790499637_140517934863_5415703
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: Well, where are you then!?? We are all magical and a little bizarre here. x
+    created_time: 2009-09-30T23:24:20+0000
+  - id: 790499637_140517934863_5415813
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: .....and what do you mean we're trying to come apart here?
+    created_time: 2009-09-30T23:28:43+0000
+  - id: 790499637_140517934863_5417704
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I was trying to make a Lost joke and it failed. Maybe I should have mentioned Oceanic Airways instead. And so far, everything seems to be holding together fantastically down here. "
+    created_time: 2009-10-01T00:35:53+0000
+  - id: 790499637_140517934863_5417806
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Not so much for the rest of the southern hemisphere. Earthquakes in Samoa, Indonesia and Peru. Toss in a tsunami and i say things are a bit rocky on your side of the world!!
+    created_time: 2009-10-01T00:39:23+0000
+  - id: 790499637_140517934863_5418728
+    from: 
+      name: Evan Kent
+      id: "1362251279"
+    message: haha, I got it.  Have you checked out Flash Forward?  Good show...and there is advertising for Oceanic Airways
+    created_time: 2009-10-01T01:08:44+0000
+  - id: 790499637_140517934863_5425503
+    from: 
+      name: Jake Baker-Brown
+      id: "520211262"
+    message: "[grins sheepishly] Apparently, we were all lost."
+    created_time: 2009-10-01T05:03:40+0000
+  - id: 790499637_140517934863_5425878
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: Yes, yes, sister too got the Lost joke not having seen Lost but seen an obsession in the making . . .
+    created_time: 2009-10-01T05:26:14+0000
+  - id: 790499637_140517934863_5426973
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: oh,.....sorry, that post left me a little lost.......
+    created_time: 2009-10-01T06:32:18+0000
+  count: 11
+layout: status
+title: Wednesday, Sep 30, 2009 around 05:28PM
+date: 2009-09-30 17:28:01 -04:00
+
+---
+I arrived in Australia. I am not stranded on a bizarre, magical island in the Pacific.

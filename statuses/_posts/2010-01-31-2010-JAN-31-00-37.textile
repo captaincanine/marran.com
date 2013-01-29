@@ -1,0 +1,39 @@
+--- 
+id: 790499637_283804071058
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Saw the Met's new production of Carmen. Excellent. The Zuniga was a dead ringer for Claudio.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/283804071058
+- name: Like
+  link: http://www.facebook.com/790499637/posts/283804071058
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-01-31T05:37:51+0000
+updated_time: 2010-01-31T05:37:51+0000
+likes: 
+  data: 
+  - name: Sara Holoubek
+    id: "659585353"
+  count: 1
+comments: 
+  count: 0
+layout: status
+title: Sunday, Jan 31, 2010 around 12:37AM
+date: 2010-01-31 00:37:51 -05:00
+
+---
+Saw the Met's new production of Carmen. Excellent. The Zuniga was a dead ringer for Claudio.

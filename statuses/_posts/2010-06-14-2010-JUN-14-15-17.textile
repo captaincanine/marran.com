@@ -1,0 +1,47 @@
+--- 
+id: 790499637_454183529637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Rediscovering how great the album "Sweet Dreams" is. There was a time when it felt very "80's". Now it feels like its own thing.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/454183529637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/454183529637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=16170121957
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-06-14T19:17:42+0000
+updated_time: 2010-06-15T17:16:49+0000
+comments: 
+  data: 
+  - id: 790499637_454183529637_13695930
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      I agree!  Some 80s stuff gets dated and cheesy with age and some drifts to avant garde minimalism.  "Sweet Dreams" is the latter (though I only know that song and "Love is a Stranger").
+      
+      They never carried through on their early promise for me.  Like, I always though "Savage" should have been a great album, but it was, in fact, kind of a bad album.  My second favorite is probably the soundtrack to "1984" in that same kind of "its own thing" way.
+    created_time: 2010-06-15T17:16:49+0000
+  count: 1
+layout: status
+title: Monday, Jun 14, 2010 around 03:17PM
+date: 2010-06-14 15:17:42 -04:00
+
+---
+Rediscovering how great the album "Sweet Dreams" is. There was a time when it felt very "80's". Now it feels like its own thing.

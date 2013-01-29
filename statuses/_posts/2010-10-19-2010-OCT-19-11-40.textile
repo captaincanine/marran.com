@@ -1,0 +1,45 @@
+--- 
+id: 790499637_162190483806114
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: It's not just universities with the problem. If you have a business with a website, you might want to find out why people go to your site because you're probably pushing the wrong agenda.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAVuiwlB32eWyD2&w=90&h=90&url=http%3A%2F%2Fimgs.xkcd.com%2Fcomics%2Funiversity_website.png
+link: http://idaconcpts.com/2010/09/02/things-people-want-on-university-website-front-page/
+name: "Things People Want on University Website Front Pages \xC2\xAB idaconcpts"
+caption: idaconcpts.com
+description: It's not just universities with the problem. If you have a business with a website, you might want to find out why people go to your site because you're probably pushing the wrong agenda.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/162190483806114
+- name: Like
+  link: http://www.facebook.com/790499637/posts/162190483806114
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2010-10-19T15:40:26+0000
+updated_time: 2010-10-19T15:40:26+0000
+likes: 
+  data: 
+  - name: JoyEllen Snellgrove
+    id: "1655943118"
+  count: 1
+comments: 
+  count: 0
+layout: status-link
+title: Tuesday, Oct 19, 2010 around 11:40AM
+link-info: Putting ideas and concepts to work in ecommerce.
+date: 2010-10-19 11:40:26 -04:00
+
+---
+It's not just universities with the problem. If you have a business with a website, you might want to find out why people go to your site because you're probably pushing the wrong agenda.

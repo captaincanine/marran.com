@@ -1,0 +1,37 @@
+--- 
+id: 790499637_466476344637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Oops. I made the mistake of listening to the Mel Gibson tapes. It's really sad, terrifying and awful on just about every level.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/466476344637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/466476344637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=18461856699
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-07-13T19:49:25+0000
+updated_time: 2010-07-13T19:49:25+0000
+comments: 
+  count: 0
+layout: status
+title: Tuesday, Jul 13, 2010 around 03:49PM
+date: 2010-07-13 15:49:25 -04:00
+
+---
+Oops. I made the mistake of listening to the Mel Gibson tapes. It's really sad, terrifying and awful on just about every level.

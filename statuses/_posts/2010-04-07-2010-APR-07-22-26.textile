@@ -1,0 +1,160 @@
+--- 
+id: 790499637_111656708856730
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Everyone. Please help me convince David that this is our new living room wallpaper: http://bit.ly/cUfm84"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/111656708856730
+- name: Like
+  link: http://www.facebook.com/790499637/posts/111656708856730
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-08T02:26:39+0000
+updated_time: 2010-04-11T17:27:40+0000
+comments: 
+  data: 
+  - id: 790499637_111656708856730_231697
+    from: 
+      name: Angela Murray Mahoney
+      id: "562162454"
+    message: He should just nod and say, "yes, dear."
+    created_time: 2010-04-08T03:54:51+0000
+  - id: 790499637_111656708856730_231735
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: It's pretty awesome!  How hard could that be?
+    created_time: 2010-04-08T04:00:59+0000
+  - id: 790499637_111656708856730_231779
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: Ummm....sorry, I am with David on this one!  :)
+    created_time: 2010-04-08T04:07:29+0000
+  - id: 790499637_111656708856730_234060
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Sorry Keith. I am with David.  But you could update your office from the 70s shag to whatever you would call that?
+    created_time: 2010-04-08T12:22:37+0000
+  - id: 790499637_111656708856730_234550
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: I like it!  Graphic, a touch retro.  Who says the husband gets a say in decorating?  Repeat after me "Don't worry about it, write the check."  Repeat as needed until you feel properly nested!
+    created_time: 2010-04-08T13:23:02+0000
+  - id: 790499637_111656708856730_234873
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Oh honey.  No....just no.....
+    created_time: 2010-04-08T14:01:13+0000
+  - id: 790499637_111656708856730_235569
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: I think it's beautiful... especially in the Silhouette color.
+    created_time: 2010-04-08T15:29:05+0000
+  - id: 790499637_111656708856730_235616
+    from: 
+      name: Alice Nighswonger
+      id: "1519519676"
+    message: I LOVE IT!  EXCELLENT CHOICE!
+    created_time: 2010-04-08T15:36:03+0000
+  - id: 790499637_111656708856730_235972
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: I can't believe we are all talking about the same paper.  It is cool and beautiful.  You *could* make your tastes regress to the norm.  Or you could keep on truckin'.
+    created_time: 2010-04-08T16:25:21+0000
+  - id: 790499637_111656708856730_236010
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      The second I saw that wallpaper, it was a done deal in my head. I may still try to convince David. He forgets that when people see the rooms that I've made most of the decisions on, people ooo and ahh. He once seriously got upset with me after people wouldn't stop raving about the X-Men bathroom - and that was a room in which I blatantly refused to budge on my design. 
+      
+      Maybe I'll order a sample and just tack it to the wall for a while and see if I can wear him down...
+      
+      When else are you going to walk into a room with Art Nouveau wallpaper of octopi and jellyfish?!
+    created_time: 2010-04-08T16:29:57+0000
+  - id: 790499637_111656708856730_236052
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      Look, octopi and jellyfish are apriori cool.  Add a genuinely cool and thoughtful design and color scheme you are charting new waters.
+      
+      Is that expensive for wallpaper?  I have never bought any.
+    created_time: 2010-04-08T16:35:51+0000
+  - id: 790499637_111656708856730_236091
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Yes, it is very expensive. My office took 6-8 rolls, I believe and my office is small. And I think I spent around $20/roll. So at $180 per roll, to do the largest room in the house would be - yes - terribly expensive. So maybe I'll cool it with the wallpaper until next year.
+      
+      I still ordered a sample. Just to see it.
+    created_time: 2010-04-08T16:40:36+0000
+  - id: 790499637_111656708856730_236145
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Maybe after you're back from India and David's all blissed-out...
+    created_time: 2010-04-08T16:45:55+0000
+  - id: 790499637_111656708856730_237227
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: I think it's fabulous. I'm surprised it's so polarizing. Tacking up a sample is a good idea. I do that often and after a few weeks discover that I have a fickle heart.
+    created_time: 2010-04-08T19:07:35+0000
+  - id: 790499637_111656708856730_238094
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: I vote yes. Beautiful!!
+    created_time: 2010-04-08T20:54:34+0000
+  - id: 790499637_111656708856730_238118
+    from: 
+      name: Mike Prosser
+      id: "687691698"
+    message: Which one? Or will it be all three color choices?
+    created_time: 2010-04-08T20:58:46+0000
+  - id: 790499637_111656708856730_238520
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Epoch (the greenish one) is the one that would most fit the furniture in the room.
+    created_time: 2010-04-08T21:50:29+0000
+  - id: 790499637_111656708856730_238565
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: Sorry, can't help you there... good luck!
+    created_time: 2010-04-08T21:57:19+0000
+  - id: 790499637_111656708856730_260729
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Either that wallpaper goes or I do! ;-)
+    created_time: 2010-04-11T17:27:40+0000
+  count: 19
+layout: status
+title: Wednesday, Apr  7, 2010 around 10:26PM
+date: 2010-04-07 22:26:39 -04:00
+
+---
+Everyone. Please help me convince David that this is our new living room wallpaper: http://bit.ly/cUfm84

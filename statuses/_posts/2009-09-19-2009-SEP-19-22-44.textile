@@ -1,0 +1,39 @@
+--- 
+id: 790499637_135337614393
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: My god, everything is on YouTube. I saw this movie years ago. It is hands down the best opening of a movie I have ever seen.
+link: http://www.youtube.com/watch?v=x3cD7N3Mleo&feature=related
+name: www.youtube.com
+caption: www.youtube.com
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/135337614393
+- name: Like
+  link: http://www.facebook.com/790499637/posts/135337614393
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-09-20T02:44:53+0000
+updated_time: 2009-09-20T02:44:53+0000
+likes: 
+  data: 
+  - name: Nathan Bugh
+    id: "508328275"
+  count: 1
+comments: 
+  count: 0
+layout: status-link
+title: Saturday, Sep 19, 2009 around 10:44PM
+date: 2009-09-19 22:44:53 -04:00
+
+---
+My god, everything is on YouTube. I saw this movie years ago. It is hands down the best opening of a movie I have ever seen.

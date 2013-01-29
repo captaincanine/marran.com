@@ -1,0 +1,41 @@
+--- 
+id: 790499637_152193754803130
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: &id001 |-
+  I found out something interesting yesterday. You know this planned mosque near the WTC that's making some people very upset? It's already a mosque (or at least a place of worship for Muslims). The group that's trying to buy it has been there for over a year - and they have recently decided to buy the whole building.
+  
+  In other words, this mosque that's supposedly so close to Ground Zero as to be offensive has been there for a year and no one really noticed.
+link: "http://www.observer.com/2010/real-estate/45-park-place\xE2\x80\x99s-place"
+name: "45 Park Place\xE2\x80\x99s Place  | The New York Observer"
+caption: www.observer.com
+description: *id001
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/152193754803130
+- name: Like
+  link: http://www.facebook.com/790499637/posts/152193754803130
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-09-14T18:36:25+0000
+updated_time: 2010-09-14T18:36:25+0000
+comments: 
+  count: 0
+layout: status-link
+title: Tuesday, Sep 14, 2010 around 02:36PM
+link-info: "It's an unlikely sanctuary, the room filling quietly with worshippers. It might be a deserted trading floor or a hastily thrown-up sound stage\xE2\x80\x94the industrial carpeting running wide and clean and a little unrelenting, the matted electric cords and walls that don't quite reach the ceiling. There's a s..."
+date: 2010-09-14 14:36:25 -04:00
+
+---
+I found out something interesting yesterday. You know this planned mosque near the WTC that's making some people very upset? It's already a mosque (or at least a place of worship for Muslims). The group that's trying to buy it has been there for over a year - and they have recently decided to buy the whole building.
+
+In other words, this mosque that's supposedly so close to Ground Zero as to be offensive has been there for a year and no one really noticed.

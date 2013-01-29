@@ -1,0 +1,39 @@
+--- 
+id: 790499637_228843909369
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: iTunes decided I needed to hear Eurythmics "Right By Your Side". How right you are, iTunes.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/228843909369
+- name: Like
+  link: http://www.facebook.com/790499637/posts/228843909369
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-12-31T22:43:39+0000
+updated_time: 2009-12-31T22:43:39+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  count: 0
+layout: status
+title: Thursday, Dec 31, 2009 around 05:43PM
+date: 2009-12-31 17:43:39 -05:00
+
+---
+iTunes decided I needed to hear Eurythmics "Right By Your Side". How right you are, iTunes.

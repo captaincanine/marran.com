@@ -1,0 +1,78 @@
+--- 
+id: 790499637_122538241137063
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Gogo and Oz had a full love session with a woman on the street today. After all the petting and tail wagging, the woman stood up and it was ...drum roll... Joanna Lumley! (Patsy from Ab Fab if you have to ask) I stifled a squeal and said "Good Morning" with a Steeplechase smile.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/122538241137063
+- name: Like
+  link: http://www.facebook.com/790499637/posts/122538241137063
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2010-10-19T14:45:46+0000
+updated_time: 2010-10-19T18:05:27+0000
+likes: 
+  data: 
+  - name: Brett Bishop
+    id: "1203637433"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Thomas Sproat
+    id: "573477249"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  count: 5
+comments: 
+  data: 
+  - id: 790499637_122538241137063_621326
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: I AM SO JEALOUS I ALMOST HATE U RIGHT NOW!!!!  KEWL!  (I would have squealed...I did when I read your post! i LOVE her!!)
+    created_time: 2010-10-19T14:54:46+0000
+  - id: 790499637_122538241137063_621702
+    from: 
+      name: Richard M Carlson Jr
+      id: "1437848272"
+    message: I am so jealous too.  That is fantastic!!! Can I take your dogs for a walk some time?
+    created_time: 2010-10-19T15:48:13+0000
+  - id: 790499637_122538241137063_621716
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: WHAT!!!! Holy crap, that is awesome.
+    created_time: 2010-10-19T15:50:06+0000
+  - id: 790499637_122538241137063_622576
+    from: 
+      name: Jim Tumminello
+      id: "555444007"
+    message: I totally would have whipped out a quarter and bounced it on GoGo's buns...and then invited her back for some champs and nibbly things!
+    created_time: 2010-10-19T17:33:44+0000
+  - id: 790499637_122538241137063_622630
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Fab!! :-)
+    created_time: 2010-10-19T17:41:03+0000
+  - id: 790499637_122538241137063_622843
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: OMG! Love, love, love. I would have hugged her.
+    created_time: 2010-10-19T18:05:27+0000
+  count: 6
+layout: status
+title: Tuesday, Oct 19, 2010 around 10:45AM
+date: 2010-10-19 10:45:46 -04:00
+
+---
+Gogo and Oz had a full love session with a woman on the street today. After all the petting and tail wagging, the woman stood up and it was ...drum roll... Joanna Lumley! (Patsy from Ab Fab if you have to ask) I stifled a squeal and said "Good Morning" with a Steeplechase smile.

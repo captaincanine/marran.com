@@ -1,0 +1,55 @@
+--- 
+id: 790499637_467819919637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: A lavender farmer gave me a sprig of lavender that I placed behind my ear.  I'm adorable.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/467819919637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/467819919637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=18709693619
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-07-16T19:17:26+0000
+updated_time: 2010-07-16T22:48:32+0000
+likes: 
+  data: 
+  - name: Rosemary Feneziani
+    id: "573541002"
+  - name: Kirsten Murray
+    id: "575571081"
+  - name: Robb Bloom
+    id: "1095747683"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_467819919637_13961837
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: that must be a sight!!  :)
+    created_time: 2010-07-16T22:48:32+0000
+  count: 1
+layout: status
+title: Friday, Jul 16, 2010 around 03:17PM
+date: 2010-07-16 15:17:26 -04:00
+
+---
+A lavender farmer gave me a sprig of lavender that I placed behind my ear.  I'm adorable.

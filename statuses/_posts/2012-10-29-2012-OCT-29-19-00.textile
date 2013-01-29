@@ -1,0 +1,157 @@
+--- 
+id: 790499637_10151495963464638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Okay. A building down the block just collapsed. I'm starting to freak.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151495963464638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151495963464638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2012-10-29T23:00:04+0000
+updated_time: 2012-10-30T18:57:18+0000
+likes: 
+  data: 
+  - name: Richard M Carlson Jr
+    id: "1437848272"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_10151495963464638_29152292
+    from: 
+      name: Ian Geoghegan
+      id: "502447480"
+    message: Where are you?
+    created_time: 2012-10-29T23:00:56+0000
+  - id: 790499637_10151495963464638_29152296
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: Oh my word!
+    created_time: 2012-10-29T23:01:04+0000
+  - id: 790499637_10151495963464638_29152298
+    from: 
+      name: Melissa Agar
+      id: "530351528"
+    message: Holy crap!  Because of the storm?!?!?
+    created_time: 2012-10-29T23:01:14+0000
+  - id: 790499637_10151495963464638_29152309
+    from: 
+      name: David Pengel
+      id: "36503306"
+    message: 92 8th Ave, a multiple dwelling building.
+    created_time: 2012-10-29T23:01:48+0000
+  - id: 790499637_10151495963464638_29152366
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Everyone is apparently safe: http://www.businessinsider.com/major-building-collapse-in-manhattan-at-8th-and-14th-street-2012-10"
+    created_time: 2012-10-29T23:04:28+0000
+  - id: 790499637_10151495963464638_29152381
+    from: 
+      name: Ian Geoghegan
+      id: "502447480"
+    message: Thank god.
+    created_time: 2012-10-29T23:05:04+0000
+    likes: 1
+  - id: 790499637_10151495963464638_29152415
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: Scary!  Glad to hear everyone is safe.
+    created_time: 2012-10-29T23:06:57+0000
+  - id: 790499637_10151495963464638_29152447
+    from: 
+      name: Linda Rosenson Coe
+      id: "1440111516"
+    message: Stay safe!
+    created_time: 2012-10-29T23:08:50+0000
+  - id: 790499637_10151495963464638_29152448
+    from: 
+      name: David Pengel
+      id: "36503306"
+    message: Not the first time it happened to that building, apparently?
+    created_time: 2012-10-29T23:08:56+0000
+  - id: 790499637_10151495963464638_29152451
+    from: 
+      name: Erin Salisbury
+      id: "1061715061"
+    message: "Cripes! Keith: thinking about you here from the safety of Oregon, anxious that you all weather it safely."
+    created_time: 2012-10-29T23:09:06+0000
+  - id: 790499637_10151495963464638_29152476
+    from: 
+      name: Kirsten Murray
+      id: "575571081"
+    message: whoa!
+    created_time: 2012-10-29T23:10:22+0000
+  - id: 790499637_10151495963464638_29152601
+    from: 
+      name: Mike Prosser
+      id: "687691698"
+    message: Time for a make-over.
+    created_time: 2012-10-29T23:16:46+0000
+  - id: 790499637_10151495963464638_29152868
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: <3
+    created_time: 2012-10-29T23:28:48+0000
+  - id: 790499637_10151495963464638_29153953
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: Are the puppies freaking out?
+    created_time: 2012-10-30T00:17:27+0000
+  - id: 790499637_10151495963464638_29154107
+    from: 
+      name: David Nudo
+      id: "703436193"
+    message: Keith, that is scary. What are the details? Out terrace is in shambles. These winds are just horrendous.
+    created_time: 2012-10-30T00:25:49+0000
+  - id: 790499637_10151495963464638_29154193
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Gogo and Oz are totally fine actually. I think they know that something is up because I'm not projecting calm, but that's about it. Most of the time, it's totally fine, but then a terrifying gust will come through and you can hear things crashing somewhere nearby.
+    created_time: 2012-10-30T00:30:35+0000
+  - id: 790499637_10151495963464638_29156175
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Love you!  Stay zen.
+    created_time: 2012-10-30T02:19:35+0000
+  - id: 790499637_10151495963464638_29158218
+    from: 
+      name: Evita Arce
+      id: "511774626"
+    message: Oh my God Keith are you guys OK!?
+    created_time: 2012-10-30T04:48:07+0000
+  - id: 790499637_10151495963464638_29158654
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Scary.... Hope you are all still OK.
+    created_time: 2012-10-30T05:40:12+0000
+  - id: 790499637_10151495963464638_29167524
+    from: 
+      name: Eric Forbes
+      id: "1077099687"
+    message: Stay safe and keep breathing, eh?
+    created_time: 2012-10-30T18:57:18+0000
+  count: 20
+layout: status
+title: Monday, Oct 29, 2012 around 07:00PM
+date: 2012-10-29 19:00:04 -04:00
+
+---
+Okay. A building down the block just collapsed. I'm starting to freak.

@@ -1,0 +1,46 @@
+--- 
+id: 790499637_418679274879341
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: From out of the blue, I got all nostalgic for Freakies cereal. Does anyone else remember these?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCfGwNf9ajf1GXi&w=90&h=90&url=http%3A%2F%2Fwww.mysteryisland.net%2Ffreakiestoys.jpg
+link: http://www.mysteryisland.net/freakies
+name: "FREAKIES Cereal article by Bradley Mason Hamlin for Mystery Island Publications: http://mysteryislan"
+caption: www.mysteryisland.net
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/418679274879341
+- name: Like
+  link: http://www.facebook.com/790499637/posts/418679274879341
+privacy: 
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
+type: link
+status_type: shared_story
+application: 
+  name: Buffer
+  namespace: buffer-app
+  id: "103667826405103"
+created_time: 2013-01-16T13:59:26+0000
+updated_time: 2013-01-16T14:37:32+0000
+comments: 
+  data: 
+  - id: 790499637_418679274879341_10722003
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Yes, yes I do.
+    created_time: 2013-01-16T14:37:32+0000
+  count: 1
+layout: status-link
+title: Wednesday, Jan 16, 2013 around 08:59AM
+date: 2013-01-16 08:59:26 -05:00
+
+---
+From out of the blue, I got all nostalgic for Freakies cereal. Does anyone else remember these?

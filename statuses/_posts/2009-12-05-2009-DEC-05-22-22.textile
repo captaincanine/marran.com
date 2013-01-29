@@ -1,0 +1,38 @@
+--- 
+id: 790499637_216334623828
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQC0Yvt7PQWDqkHb&w=90&h=90&url=http%3A%2F%2Fs3.amazonaws.com%2Ftheoatmeal-img%2Fcomics%2Fdesign_hell%2F9.jpg
+link: http://theoatmeal.com/comics/design_hell
+name: How a Web Design Goes Straight to Hell - The Oatmeal
+caption: theoatmeal.com
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/216334623828
+- name: Like
+  link: http://www.facebook.com/790499637/posts/216334623828
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2009-12-06T03:22:03+0000
+updated_time: 2009-12-06T03:22:03+0000
+comments: 
+  count: 0
+layout: status-link
+title: Saturday, Dec  5, 2009 around 10:22PM
+date: 2009-12-05 22:22:03 -05:00
+
+---
+Keith Marran shared a link.

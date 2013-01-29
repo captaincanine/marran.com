@@ -1,0 +1,78 @@
+--- 
+id: 790499637_10151657673564638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Did I dream I was listening to early Adam Ant? I think I did.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151657673564638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151657673564638
+privacy: 
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
+type: status
+status_type: mobile_status_update
+application: 
+  name: Buffer
+  namespace: buffer-app
+  id: "103667826405103"
+created_time: 2013-01-24T19:01:58+0000
+updated_time: 2013-01-24T23:07:03+0000
+likes: 
+  data: 
+  - name: Carmine Nicholas Tzavis
+    id: "100000813165354"
+  - name: Melissa Agar
+    id: "530351528"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_10151657673564638_30498639
+    from: 
+      name: Dirk McCall
+      id: "502849778"
+    message: Early Adam Ant was (and is) fabulous.  Was it Stand and Deliver or Prince Charming?
+    created_time: 2013-01-24T19:04:01+0000
+  - id: 790499637_10151657673564638_30498676
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Antmusic?
+    created_time: 2013-01-24T19:05:58+0000
+  - id: 790499637_10151657673564638_30498804
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: It was a dream, so it wasn't an exact song. But it sounded like Kings of the Wild Frontier. I asked someone if it was Adam Ant and they said yes.
+    created_time: 2013-01-24T19:13:03+0000
+  - id: 790499637_10151657673564638_30499986
+    from: 
+      name: Dirk McCall
+      id: "502849778"
+    message: Kings of the Wild Frontier was great, but their best album name remains "Dirk wears White Sox". :)
+    created_time: 2013-01-24T20:32:48+0000
+  - id: 790499637_10151657673564638_30500330
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Is that how your mother named you?
+    created_time: 2013-01-24T20:55:07+0000
+  - id: 790499637_10151657673564638_30502182
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: I was just listening to them yesterday!  So wonderful.  So very wonderful.
+    created_time: 2013-01-24T23:07:03+0000
+  count: 6
+layout: status
+title: Thursday, Jan 24, 2013 around 02:01PM
+date: 2013-01-24 14:01:58 -05:00
+
+---
+Did I dream I was listening to early Adam Ant? I think I did.

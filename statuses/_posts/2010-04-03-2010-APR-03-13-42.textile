@@ -1,0 +1,76 @@
+--- 
+id: 790499637_101698949872506
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have succumbed to iPressure
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/101698949872506
+- name: Like
+  link: http://www.facebook.com/790499637/posts/101698949872506
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-03T17:42:14+0000
+updated_time: 2010-04-03T20:01:20+0000
+likes: 
+  data: 
+  - name: John F. Duckett
+    id: "567340649"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_101698949872506_33963
+    from: 
+      name: Cerelle Centeno
+      id: "723168856"
+    message: What?! Did you get one?
+    created_time: 2010-04-03T17:52:50+0000
+  - id: 790499637_101698949872506_34004
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I did. I always forget how enjoyable it is to buy things at the Apple Store. They really play up the whole cult experience of it all. "
+    created_time: 2010-04-03T18:01:08+0000
+  - id: 790499637_101698949872506_34093
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: how is it? Did you wait in line all night again?
+    created_time: 2010-04-03T18:11:48+0000
+  - id: 790499637_101698949872506_34136
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: It's still syncing. I haven't really played with it yet. I only waited in line a minute. Most people wanted to play with it before deciding, and there was a line for that. But if you just wanted to buy it, they took you right away.
+    created_time: 2010-04-03T18:19:50+0000
+  - id: 790499637_101698949872506_34468
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: OMG, you held out for what, 2 hours? :)
+    created_time: 2010-04-03T19:26:29+0000
+  - id: 790499637_101698949872506_34643
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Oh come on. It was at least 4 hours. "
+    created_time: 2010-04-03T20:01:20+0000
+  count: 6
+layout: status
+title: Saturday, Apr  3, 2010 around 01:42PM
+date: 2010-04-03 13:42:14 -04:00
+
+---
+I have succumbed to iPressure

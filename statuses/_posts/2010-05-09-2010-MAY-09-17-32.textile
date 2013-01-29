@@ -1,0 +1,71 @@
+--- 
+id: 790499637_118303501534846
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: What do you do when your houseboy keeps abusing the open printer privileges? Keep asking him to stop? Cut him off? Ignore it?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/118303501534846
+- name: Like
+  link: http://www.facebook.com/790499637/posts/118303501534846
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-09T21:32:04+0000
+updated_time: 2010-05-10T03:46:05+0000
+comments: 
+  data: 
+  - id: 790499637_118303501534846_455657
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: OK. This is he poster post for "high end problem"...
+    created_time: 2010-05-09T21:58:41+0000
+  - id: 790499637_118303501534846_455928
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Ask the 8-ball
+    created_time: 2010-05-09T22:48:04+0000
+  - id: 790499637_118303501534846_457197
+    from: 
+      name: Tracy Gregory
+      id: "1406670048"
+    message: So what exactly does open printer mean? If it's open then how can there be abuse?
+    created_time: 2010-05-10T02:44:59+0000
+  - id: 790499637_118303501534846_457208
+    from: 
+      name: Tracy Gregory
+      id: "1406670048"
+    message: I'm also afraid to ask what a houseboy is? I've got a vision of Dobby in my mind.
+    created_time: 2010-05-10T02:46:29+0000
+  - id: 790499637_118303501534846_457510
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: Houseboy?!? WANT!
+    created_time: 2010-05-10T03:38:13+0000
+  - id: 790499637_118303501534846_457540
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Dobby is a surprisingly accurate description. He's someone that cleans around the house, helps with parties, dog sits when we're out of town, etc. He's extremely helpful when he isn't accidentally printing 30 pages that all come out entirely black.
+    created_time: 2010-05-10T03:46:05+0000
+  count: 6
+layout: status
+title: Sunday, May  9, 2010 around 05:32PM
+date: 2010-05-09 17:32:04 -04:00
+
+---
+What do you do when your houseboy keeps abusing the open printer privileges? Keep asking him to stop? Cut him off? Ignore it?

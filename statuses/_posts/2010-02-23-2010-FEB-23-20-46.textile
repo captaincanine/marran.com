@@ -1,0 +1,72 @@
+--- 
+id: 790499637_322505918596
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I know I'm coming to this a little late, but I think I'm now addicted to Glee. I went through the first 3 episodes on the flight to SFO.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/322505918596
+- name: Like
+  link: http://www.facebook.com/790499637/posts/322505918596
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-02-24T01:46:11+0000
+updated_time: 2010-02-24T16:28:15+0000
+comments: 
+  data: 
+  - id: 790499637_322505918596_11991861
+    from: 
+      name: Ej Klingler
+      id: "632726709"
+    message: I love that show - nice to have another convert.
+    created_time: 2010-02-24T02:59:24+0000
+  - id: 790499637_322505918596_11992038
+    from: 
+      name: Torrey Cornwell
+      id: "593335901"
+    message: Keith its awesome. Reminds me of the thespian days in high school. Someone was always busting out in song or Dramatic monologue.
+    created_time: 2010-02-24T03:03:59+0000
+  - id: 790499637_322505918596_11998744
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: Keith, do you remember the time we went into Fred Meyers, and staged a fight?  That just came to mind.  We would act like we just broke up.  Those were great times!  That, and the cannery, and Rocky Horror picture show at the clinton street theater.  We had some good times! Next time you're in town, I would love to get together with you!
+    created_time: 2010-02-24T06:27:44+0000
+  - id: 790499637_322505918596_12008520
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: That show makes me smile for a whole hour.
+    created_time: 2010-02-24T13:17:16+0000
+  - id: 790499637_322505918596_12009758
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I had completely forgotten that, Sandy. When you mentioned it, I drew a complete blank. Andthen the memories flooded back. \n\n\
+      By the time I was a senior in college, I had honed my \"misbehaving in public\" skills. "
+    created_time: 2010-02-24T13:48:59+0000
+  - id: 790499637_322505918596_12016422
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Welcome!!  LOVE this show.....
+    created_time: 2010-02-24T16:28:15+0000
+  count: 6
+layout: status
+title: Tuesday, Feb 23, 2010 around 08:46PM
+date: 2010-02-23 20:46:11 -05:00
+
+---
+I know I'm coming to this a little late, but I think I'm now addicted to Glee. I went through the first 3 episodes on the flight to SFO.

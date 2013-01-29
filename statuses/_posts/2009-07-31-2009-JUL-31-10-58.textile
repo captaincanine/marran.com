@@ -1,0 +1,62 @@
+--- 
+id: 790499637_137237232817
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I think I just passed Oliver Stone at my gym.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/137237232817
+- name: Like
+  link: http://www.facebook.com/790499637/posts/137237232817
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-07-31T14:58:45+0000
+updated_time: 2009-07-31T16:55:23+0000
+comments: 
+  data: 
+  - id: 790499637_137237232817_3540863
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: so you were a Stone's throw away?
+    created_time: 2009-07-31T15:42:10+0000
+  - id: 790499637_137237232817_3541147
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Hmmm...think OS is doing a docudrama about Rosenbergershausen?
+    created_time: 2009-07-31T15:54:14+0000
+  - id: 790499637_137237232817_3542507
+    from: 
+      name: Jake Baker-Brown
+      id: "520211262"
+    message: |-
+      That's MUCH better than passing a kidney stone at your gym (or anywhere else).
+      
+      ;)
+    created_time: 2009-07-31T16:40:51+0000
+  - id: 790499637_137237232817_3542927
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: No one would believe a docudrama on that subject.
+    created_time: 2009-07-31T16:55:23+0000
+  count: 4
+layout: status
+title: Friday, Jul 31, 2009 around 10:58AM
+date: 2009-07-31 10:58:45 -04:00
+
+---
+I think I just passed Oliver Stone at my gym.

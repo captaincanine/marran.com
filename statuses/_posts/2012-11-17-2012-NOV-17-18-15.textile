@@ -1,0 +1,69 @@
+--- 
+id: 790499637_441297685929966
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Wait, what?! No more Ho-Hos? No more Ding Dongs!?
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDfOc71-fzIPTQU&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F185j9t8v4wlfejpg%2Ffb.jpg
+link: http://io9.com/5961385/farewell-to-twinkies-americas-most-futuristic-food
+name: Farewell to Twinkies, America's most futuristic food
+caption: io9.com
+description: Wait, what?! No more Ho-Hos? No more Ding Dongs!?
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/441297685929966
+- name: Like
+  link: http://www.facebook.com/790499637/posts/441297685929966
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2012-11-17T23:15:36+0000
+updated_time: 2012-11-18T05:01:26+0000
+comments: 
+  data: 
+  - id: 790499637_441297685929966_4248124
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Honey - that's what I said when I came out of the closet...
+    created_time: 2012-11-17T23:16:37+0000
+    likes: 4
+  - id: 790499637_441297685929966_4248220
+    from: 
+      name: Paula Sorenson Kosirog
+      id: "1651080978"
+    message: are we still allowed to say DING DONG the witch is dead?
+    created_time: 2012-11-17T23:52:13+0000
+    likes: 1
+  - id: 790499637_441297685929966_4248248
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: You're about to get married. You should know the grown-up names for things.
+    created_time: 2012-11-18T00:00:23+0000
+    likes: 3
+  - id: 790499637_441297685929966_4249048
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Jono - please sit me down before the wedding and let me know what I can expect on the honeymoon.
+    created_time: 2012-11-18T05:01:26+0000
+    likes: 1
+  count: 4
+layout: status-link
+title: Saturday, Nov 17, 2012 around 06:15PM
+link-info: Today Hostess, maker of Twinkies and Ding Dongs and HoHos and every other geometrically precise cake, announced it was closing its doors. You have less than a week to buy your last Twinkie before the troubled corporation vanishes forever.
+date: 2012-11-17 18:15:36 -05:00
+
+---
+Wait, what?! No more Ho-Hos? No more Ding Dongs!?

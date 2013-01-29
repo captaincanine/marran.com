@@ -1,0 +1,46 @@
+--- 
+id: 790499637_173793674757
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I can't decide if I should keep learning Mandarin, learn Spanish (which would be useful), or Italian (which I've always wanted)?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/173793674757
+- name: Like
+  link: http://www.facebook.com/790499637/posts/173793674757
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-11-08T22:10:42+0000
+updated_time: 2009-11-08T22:19:11+0000
+likes: 
+  data: 
+  - name: David Rivera
+    id: "703242963"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_173793674757_7280073
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Get Rosetta Stone and learn them all.
+    created_time: 2009-11-08T22:19:11+0000
+  count: 1
+layout: status
+title: Sunday, Nov  8, 2009 around 05:10PM
+date: 2009-11-08 17:10:42 -05:00
+
+---
+I can't decide if I should keep learning Mandarin, learn Spanish (which would be useful), or Italian (which I've always wanted)?

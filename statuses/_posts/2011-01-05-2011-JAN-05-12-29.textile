@@ -1,0 +1,35 @@
+--- 
+id: 790499637_154129801302650
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "DC is reprinting Flex Mentallo later this year! If I had to pick four comics that were thrilling, mind-warping, consciousness-expanding, and goose-bump inducing...it would be Flex Mentallo. And how it maintains an innocent homo-eroticism is beyond me. I smile and giggle a little every time I see the words \"Flex Mentallo\". "
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCIn3tcCfbxqeS9&w=90&h=90&url=http%3A%2F%2Fi18.photobucket.com%2Falbums%2Fb123%2Fflex_mentallo%2Fflexmentall.jpg
+link: http://i18.photobucket.com/albums/b123/flex_mentallo/flexmentall.jpg
+name: Flex Mentallo
+caption: i18.photobucket.com
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/154129801302650
+- name: Like
+  link: http://www.facebook.com/790499637/posts/154129801302650
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2011-01-05T17:29:03+0000
+updated_time: 2011-01-05T17:29:03+0000
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Jan  5, 2011 around 12:29PM
+date: 2011-01-05 12:29:03 -05:00
+
+---
+DC is reprinting Flex Mentallo later this year! If I had to pick four comics that were thrilling, mind-warping, consciousness-expanding, and goose-bump inducing...it would be Flex Mentallo. And how it maintains an innocent homo-eroticism is beyond me. I smile and giggle a little every time I see the words "Flex Mentallo". 

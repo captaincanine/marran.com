@@ -1,0 +1,39 @@
+--- 
+id: 790499637_163532796993892
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This is an excellent Monday morning time-killer (though I dislike both super hero movie trailers). Why are the horror movie trailers all so good? I remember seeing them as a kid and getting nightmares.
+link: http://www.avclub.com/articles/comingattraction-attractions-24-movie-trailers-tha,45589/1/
+name: "Coming-attraction attractions: 24 movie trailers that function as standalone works of art"
+caption: www.avclub.com
+description: This is an excellent Monday morning time-killer (though I dislike both super hero movie trailers). Why are the horror movie trailers all so good? I remember seeing them as a kid and getting nightmares.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/163532796993892
+- name: Like
+  link: http://www.facebook.com/790499637/posts/163532796993892
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2010-09-27T15:40:55+0000
+updated_time: 2010-09-27T15:40:55+0000
+comments: 
+  count: 0
+layout: status-link
+title: Monday, Sep 27, 2010 around 11:40AM
+link-info: The A.V. Club's weekly list.
+date: 2010-09-27 11:40:55 -04:00
+
+---
+This is an excellent Monday morning time-killer (though I dislike both super hero movie trailers). Why are the horror movie trailers all so good? I remember seeing them as a kid and getting nightmares.

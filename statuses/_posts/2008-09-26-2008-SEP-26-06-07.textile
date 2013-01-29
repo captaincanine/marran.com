@@ -1,0 +1,34 @@
+--- 
+id: 790499637_29454557962
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm glad that we're having a few days of rain in NYC.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/29454557962
+- name: Like
+  link: http://www.facebook.com/790499637/posts/29454557962
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2008-09-26T10:07:44+0000
+updated_time: 2008-09-26T10:07:44+0000
+comments: 
+  count: 0
+layout: status
+title: Friday, Sep 26, 2008 around 06:07AM
+date: 2008-09-26 06:07:44 -04:00
+
+---
+I'm glad that we're having a few days of rain in NYC.

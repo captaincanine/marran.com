@@ -1,0 +1,55 @@
+--- 
+id: 790499637_143590295658989
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Your daily bear backing. Yes, this is real.
+link: http://yogibear.warnerbros.com/downloads/posters/yogi_booboo.jpg
+name: http://yogibear.warnerbros.com/downloads/posters/yogi_booboo.jpg
+caption: yogibear.warnerbros.com
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/143590295658989
+- name: Like
+  link: http://www.facebook.com/790499637/posts/143590295658989
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2010-08-06T16:20:45+0000
+updated_time: 2010-08-06T17:37:03+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_143590295658989_1157945
+    from: 
+      name: Brian Kroski
+      id: "558811827"
+    message: "That poster is kind of creepy. Then again large mascots (and clowns) have always creeped me out also.  "
+    created_time: 2010-08-06T17:05:30+0000
+  - id: 790499637_143590295658989_1158116
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: 3-D no less.  The future is now and it is hairy.
+    created_time: 2010-08-06T17:37:03+0000
+  count: 2
+layout: status-link
+title: Friday, Aug  6, 2010 around 12:20PM
+date: 2010-08-06 12:20:45 -04:00
+
+---
+Your daily bear backing. Yes, this is real.

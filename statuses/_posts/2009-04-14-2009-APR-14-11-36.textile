@@ -1,0 +1,69 @@
+--- 
+id: 790499637_85571024921
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: has posted the lessons he learned in making last year's chocolates.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBSbbjAGb0zUB0n&w=90&h=90&url=http%3A%2F%2Ffarm4.static.flickr.com%2F3647%2F3441991412_fc53feff78_m.jpg
+link: http://www.marran.com/personal/blog/food/chocolate-post-mortem
+name: www.marran.com
+caption: www.marran.com
+description: has posted the lessons he learned in making last year's chocolates.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/85571024921
+- name: Like
+  link: http://www.facebook.com/790499637/posts/85571024921
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-04-14T15:36:00+0000
+updated_time: 2009-04-14T16:21:02+0000
+likes: 
+  data: 
+  - name: Andrea Miklasz
+    id: "629554115"
+  - name: "M\xC3\xB3nica Dion\xC3\xA9 Andrade-Diaz"
+    id: "1186058325"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_85571024921_1396954
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Fabulous!
+    created_time: 2009-04-14T15:51:02+0000
+  - id: 790499637_85571024921_1397200
+    from: 
+      name: "M\xC3\xB3nica Dion\xC3\xA9 Andrade-Diaz"
+      id: "1186058325"
+    message: They look great and delicious!
+    created_time: 2009-04-14T16:09:31+0000
+  - id: 790499637_85571024921_1397219
+    from: 
+      name: Amy Prosser
+      id: "814933738"
+    message: Those are the most beautiful chocolates ever!
+    created_time: 2009-04-14T16:10:57+0000
+  - id: 790499637_85571024921_1397331
+    from: 
+      name: Ian Geoghegan
+      id: "502447480"
+    message: Holy crap! Those are amazing!
+    created_time: 2009-04-14T16:21:02+0000
+  count: 4
+layout: status-link
+title: Tuesday, Apr 14, 2009 around 11:36AM
+link-info: This was my third year making holiday-time chocolates for friends, family, and co-workers. This year Mom helped me hit a record of 1080 individual pieces of chocolate. Every year I learn a lot about the process and I'm convinced I'll remember it all the following year. ...
+date: 2009-04-14 11:36:00 -04:00
+
+---
+has posted the lessons he learned in making last year's chocolates.

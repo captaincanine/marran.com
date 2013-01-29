@@ -1,0 +1,53 @@
+--- 
+id: 790499637_186790518672
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "I've decided my next book should be a \"classic\" - so I chose a book by a fellow Oregonian: One Flew Over the Cuckoo's Nest."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/186790518672
+- name: Like
+  link: http://www.facebook.com/790499637/posts/186790518672
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-11-12T22:56:40+0000
+updated_time: 2009-11-12T23:37:10+0000
+comments: 
+  data: 
+  - id: 790499637_186790518672_7167264
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: That's a good read.  However, approach "Sometimes a Great Notion" with extreme caution.
+    created_time: 2009-11-12T23:05:38+0000
+  - id: 790499637_186790518672_7167597
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Does that mean "don't read it"? Or does it mean that I will become a gun-toting survivalist after reading it?
+    created_time: 2009-11-12T23:15:51+0000
+  - id: 790499637_186790518672_7168288
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Nothing so exciting.  Just veeeeeeery hard to get through.
+    created_time: 2009-11-12T23:37:10+0000
+  count: 3
+layout: status
+title: Thursday, Nov 12, 2009 around 05:56PM
+date: 2009-11-12 17:56:40 -05:00
+
+---
+I've decided my next book should be a "classic" - so I chose a book by a fellow Oregonian: One Flew Over the Cuckoo's Nest.

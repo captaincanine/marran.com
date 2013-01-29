@@ -1,0 +1,106 @@
+--- 
+id: 790499637_372969734874
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: In the past 24 hours, David and I have booked tickets to London, Vienna, and Beijing.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/372969734874
+- name: Like
+  link: http://www.facebook.com/790499637/posts/372969734874
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-03-17T01:59:03+0000
+updated_time: 2010-03-19T11:16:02+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Leslie Gardner
+    id: "667633377"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  - name: Ian Geoghegan
+    id: "502447480"
+  count: 8
+comments: 
+  data: 
+  - id: 790499637_372969734874_12506762
+    from: 
+      name: Celeste Tenacious C Thompson
+      id: "797828355"
+    message: When are you going to Vienna? I'll be there in May.
+    created_time: 2010-03-17T02:07:58+0000
+  - id: 790499637_372969734874_12506951
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      We fly in May 17th and leave May 22nd, but we are only using Vienna as a port. We will be spending our time in Bratislava. 
+      
+      Have you been to Vienna? It is in my top 5 favorite European cities. I would put a visit to Demel and a viewing of Bosch's "The Last Judgement" as the two must-dos for Vienna.
+    created_time: 2010-03-17T02:12:43+0000
+  - id: 790499637_372969734874_12507231
+    from: 
+      name: Celeste Tenacious C Thompson
+      id: "797828355"
+    message: "Thank you for the suggestions--I've added them to my list. \n\
+      This will be my first time visiting Europe. We're flying to Prague on May 12 and then taking the train to Vienna on the 17th. "
+    created_time: 2010-03-17T02:19:36+0000
+  - id: 790499637_372969734874_12533117
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Wow, Celeste. What a great trip. I have advice on Prague, too. 
+      
+      Beware of pickpocketers. People say that about everywhere, but it's really true there. The only place in the world we've ever been pickpocketed is in Prague.
+      
+      Of course, do all the big stuff - the castle, the clock, the Jewish Cemetery, the Golem, etc. I really enjoyed the Loreta (near the castle) which has a statue of a crucified female saint with a beard. There's a full story inside the chapel about it.
+      
+      But the MUST DO in Prague is get to a small town outside the city called Kutna Hora (you can rent a car or take the train). On the outskirts of that town is The Sedlec Ossuary. We had to ask directions from the locals to find it. It is one of the most bizarre places I have ever seen in my life. I don't want to tell you too much about it because if I tell you that it's decorated with human bones you wouldn't understand what it's really like. It has to be seen to be believed.
+    created_time: 2010-03-17T15:54:50+0000
+  - id: 790499637_372969734874_12540824
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Oh, how exciting!  What a travelling pair you guys are!  Any plans for Sweden, or Copenhagen perhaps?  ;-)
+    created_time: 2010-03-17T18:40:30+0000
+  - id: 790499637_372969734874_12556670
+    from: 
+      name: Celeste Tenacious C Thompson
+      id: "797828355"
+    message: "Thanks for the great tips. I've been intrigued by the Sedlec Ossuary ever since I saw Jan \xC5\xA0vankmajer's short film \"Kostnice.\" I hope to see it. \n\n\
+      When are you traveling to London and Beijing?"
+    created_time: 2010-03-18T00:09:20+0000
+  - id: 790499637_372969734874_12617892
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "No plans for Sweden or Copenhagen yet, though they have been on out list for years. "
+    created_time: 2010-03-19T11:15:01+0000
+  - id: 790499637_372969734874_12617904
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "London is in June and will include a flight to Edinburgh, Scotland. Beijing is in September. "
+    created_time: 2010-03-19T11:16:02+0000
+  count: 8
+layout: status
+title: Tuesday, Mar 16, 2010 around 09:59PM
+date: 2010-03-16 21:59:03 -04:00
+
+---
+In the past 24 hours, David and I have booked tickets to London, Vienna, and Beijing.

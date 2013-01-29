@@ -1,0 +1,42 @@
+--- 
+id: 790499637_448100729637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I never thought much of the song "Poker Face" but it was great on Glee. And now that I think of it, I like Eric Cartman's version, too.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/448100729637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/448100729637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=15052374711
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-30T16:45:21+0000
+updated_time: 2010-05-30T16:45:21+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  count: 0
+layout: status
+title: Sunday, May 30, 2010 around 12:45PM
+date: 2010-05-30 12:45:21 -04:00
+
+---
+I never thought much of the song "Poker Face" but it was great on Glee. And now that I think of it, I like Eric Cartman's version, too.

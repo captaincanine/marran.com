@@ -1,0 +1,37 @@
+--- 
+id: 790499637_440384309637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I've been practically living off of champagne mangos the past two months. I hope the season never ends.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/440384309637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/440384309637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=13872374968
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-12T21:16:42+0000
+updated_time: 2010-05-12T21:16:42+0000
+comments: 
+  count: 0
+layout: status
+title: Wednesday, May 12, 2010 around 05:16PM
+date: 2010-05-12 17:16:42 -04:00
+
+---
+I've been practically living off of champagne mangos the past two months. I hope the season never ends.

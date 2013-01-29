@@ -1,0 +1,59 @@
+--- 
+id: 790499637_288069835290
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: After complaining about the abundance of fedoras in NYC, I guess it would be hypocritical to get a really cool one that looks great on me.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/288069835290
+- name: Like
+  link: http://www.facebook.com/790499637/posts/288069835290
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-10-07T01:52:44+0000
+updated_time: 2009-10-07T20:27:06+0000
+comments: 
+  data: 
+  - id: 790499637_288069835290_6115570
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: Yes, it would be hypocritical, but you have sis's permission if you promise to post a pose on facetube.
+    created_time: 2009-10-07T02:00:27+0000
+  - id: 790499637_288069835290_6118637
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: I'm a yes on the fedora. Just don't get sucked into a manpurse. Oh, that was Italy...
+    created_time: 2009-10-07T03:30:07+0000
+  - id: 790499637_288069835290_6128842
+    from: 
+      name: Robert Cowie
+      id: "669622808"
+    message: Definitely dude, get it!
+    created_time: 2009-10-07T11:58:19+0000
+  - id: 790499637_288069835290_6148028
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Fedoras are cool.
+    created_time: 2009-10-07T20:27:06+0000
+  count: 4
+layout: status
+title: Tuesday, Oct  6, 2009 around 09:52PM
+date: 2009-10-06 21:52:44 -04:00
+
+---
+After complaining about the abundance of fedoras in NYC, I guess it would be hypocritical to get a really cool one that looks great on me.

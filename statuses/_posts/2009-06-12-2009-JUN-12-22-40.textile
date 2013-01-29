@@ -1,0 +1,31 @@
+--- 
+id: 790499637_114616794637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v43/112/12565253092/app_2_12565253092_8453.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/114616794637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/114616794637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Last.fm
+  namespace: feedcrawl_lastfm
+  id: "12565253092"
+created_time: 2009-06-13T02:40:33+0000
+updated_time: 2009-06-13T02:40:33+0000
+comments: 
+  count: 0
+layout: status
+title: Friday, Jun 12, 2009 around 10:40PM
+link-info: Keith loved My Doorbell by The White Stripes on Last.fm
+date: 2009-06-12 22:40:33 -04:00
+
+---
+

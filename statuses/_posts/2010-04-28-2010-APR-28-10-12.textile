@@ -1,0 +1,83 @@
+--- 
+id: 790499637_118280548190031
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just found out that there was no new episode of Lost last night. I'm trying not to throw a hissy fit.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/118280548190031
+- name: Like
+  link: http://www.facebook.com/790499637/posts/118280548190031
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-28T14:12:06+0000
+updated_time: 2010-04-28T17:59:35+0000
+comments: 
+  data: 
+  - id: 790499637_118280548190031_418389
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: me too
+    created_time: 2010-04-28T14:15:15+0000
+  - id: 790499637_118280548190031_418627
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: "Ditto. "
+    created_time: 2010-04-28T15:05:21+0000
+  - id: 790499637_118280548190031_418661
+    from: 
+      name: Lisa Hart Garpestad
+      id: "762164473"
+    message: I had the same reaction when I found out.
+    created_time: 2010-04-28T15:13:14+0000
+  - id: 790499637_118280548190031_418677
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: In some ways, I will be happy when Lost is over. I can't stand the waiting. I'm ready for the island to be done with me.
+    created_time: 2010-04-28T15:15:24+0000
+  - id: 790499637_118280548190031_418682
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: It has a purpose for us. Maybe to teach us patience and how to enjoy the journey instead of focusing on the destination.
+    created_time: 2010-04-28T15:16:21+0000
+  - id: 790499637_118280548190031_418685
+    from: 
+      name: Lisa Hart Garpestad
+      id: "762164473"
+    message: Much like the island, it has had a hold on me too.  I have to agree, time for this obsession to end.
+    created_time: 2010-04-28T15:16:54+0000
+  - id: 790499637_118280548190031_418898
+    from: 
+      name: Kelly Lynn Hogan
+      id: "817029182"
+    message: NOOOOO!!!!  Really?  Watching it online is what gets me through hump day!
+    created_time: 2010-04-28T16:01:25+0000
+  - id: 790499637_118280548190031_419600
+    from: 
+      name: Andrew Farrell
+      id: "546949607"
+    message: I am so ready for that show to be over.  I mean it's great and everything but I am definitely experiencing fatigue.
+    created_time: 2010-04-28T17:59:35+0000
+  count: 8
+layout: status
+title: Wednesday, Apr 28, 2010 around 10:12AM
+date: 2010-04-28 10:12:06 -04:00
+
+---
+I just found out that there was no new episode of Lost last night. I'm trying not to throw a hissy fit.

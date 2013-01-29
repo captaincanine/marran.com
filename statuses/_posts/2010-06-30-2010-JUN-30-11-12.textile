@@ -1,0 +1,40 @@
+--- 
+id: 790499637_129445220429781
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: A landmark cinematic achievement worth revisiting.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDUgHVwODcYZOpu&w=90&h=90&url=http%3A%2F%2Fgraphics8.nytimes.com%2Fimages%2F2010%2F06%2F27%2Farts%2F27airplane-span%2F27airplane-span-articleLarge.jpg
+link: http://www.nytimes.com/2010/06/27/movies/27airplane.html
+name: "Film - Surely It\xE2\x80\x99s 30 (Don\xE2\x80\x99t Call Me Shirley!) - NYTimes.com"
+caption: www.nytimes.com
+description: A landmark cinematic achievement worth revisiting.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/129445220429781
+- name: Like
+  link: http://www.facebook.com/790499637/posts/129445220429781
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2010-06-30T15:12:57+0000
+updated_time: 2010-06-30T15:12:57+0000
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Jun 30, 2010 around 11:12AM
+link-info: "Three decades ago \xE2\x80\x9CAirplane!\xE2\x80\x9D landed in theaters. Its anarchic humor has influenced many screen comedies since."
+date: 2010-06-30 11:12:57 -04:00
+
+---
+A landmark cinematic achievement worth revisiting.

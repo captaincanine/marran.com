@@ -1,0 +1,67 @@
+--- 
+id: 790499637_116143211742025
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: It's Flunk Day! Quick! Everyone do drugs!
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/116143211742025
+- name: Like
+  link: http://www.facebook.com/790499637/posts/116143211742025
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-26T15:31:14+0000
+updated_time: 2010-04-26T21:58:55+0000
+likes: 
+  data: 
+  - name: Danielle Mari
+    id: "1125746508"
+  - name: Alice Nighswonger
+    id: "1519519676"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_116143211742025_383962
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: What? I spent all winter saving up this stash.
+    created_time: 2010-04-26T18:23:12+0000
+  - id: 790499637_116143211742025_385393
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: "?"
+    created_time: 2010-04-26T21:37:54+0000
+  - id: 790499637_116143211742025_385526
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Dawn, Flunk Day is...hard to describe. Try this: http://www.thewikifire.org/index.php?title=Flunk_Day and this: http://www.thewikifire.org/index.php?title=Flunk_Day_activities
+      
+      It's a mysterious day that occurs in the spring semester at Knox. The bells ring at about 5am signaling no classes. There are movies, activities, bands, and general Bacchic mayhem.
+      
+      REM played on Flunk Day one year. In "Its the End of the World as We Know It", one verse starts with "The other night I tripped at Knox" and this is in reference to their Flunk Day appearance.
+      
+      Ah...Flunk Day. I have many fond memories.
+    created_time: 2010-04-26T21:58:55+0000
+  count: 3
+layout: status
+title: Monday, Apr 26, 2010 around 11:31AM
+date: 2010-04-26 11:31:14 -04:00
+
+---
+It's Flunk Day! Quick! Everyone do drugs!

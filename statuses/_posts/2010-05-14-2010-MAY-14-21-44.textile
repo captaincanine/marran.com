@@ -1,0 +1,62 @@
+--- 
+id: 790499637_441313874637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Tickets money passport! Tickets money passport!
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/441313874637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/441313874637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14010289902
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-15T01:44:35+0000
+updated_time: 2010-05-15T11:52:06+0000
+comments: 
+  data: 
+  - id: 790499637_441313874637_13430239
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Get it together Edina.
+    created_time: 2010-05-15T02:02:45+0000
+  - id: 790499637_441313874637_13430296
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Actually, it's more like "iPad, Camera, Sleeping Pills! iPad, Camera, Sleeping Pills!"
+    created_time: 2010-05-15T02:11:51+0000
+  - id: 790499637_441313874637_13432326
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: where are you off to now?
+    created_time: 2010-05-15T11:41:15+0000
+  - id: 790499637_441313874637_13432368
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Slovakia!
+    created_time: 2010-05-15T11:52:06+0000
+  count: 4
+layout: status
+title: Friday, May 14, 2010 around 09:44PM
+date: 2010-05-14 21:44:35 -04:00
+
+---
+Tickets money passport! Tickets money passport!

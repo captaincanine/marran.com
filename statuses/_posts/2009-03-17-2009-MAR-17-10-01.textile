@@ -1,0 +1,92 @@
+--- 
+id: 790499637_57736272916
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "is shocked that Barnes & Noble's website is built on ASP. It's not even .NET! It's no surprise that the site is \xC3\xBCber-buggy."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/57736272916
+- name: Like
+  link: http://www.facebook.com/790499637/posts/57736272916
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-03-17T14:01:18+0000
+updated_time: 2009-03-19T04:44:11+0000
+comments: 
+  data: 
+  - id: 790499637_57736272916_1043454
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Damn. Where's the moral outrage?  Public uprising?  This is unacceptable.
+    created_time: 2009-03-17T14:02:18+0000
+  - id: 790499637_57736272916_1043472
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: I for one don't intend to stand for it.  I assume, of course, you are sharing client trade secrets.
+    created_time: 2009-03-17T14:04:25+0000
+  - id: 790499637_57736272916_1043524
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Will someone geeky please legitimately share my outrage? 
+      
+      There has got to be some employee abuse here. Those poor developers are stuck working in a technology that has brought their careers to a dead-end.
+    created_time: 2009-03-17T14:11:07+0000
+  - id: 790499637_57736272916_1044867
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: I'm geeky and I'll share your outrage! That doesn't mean I know what you're talking about, however.
+    created_time: 2009-03-17T16:27:57+0000
+  - id: 790499637_57736272916_1065041
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: I'm geeky too, but I haven't a clue what you're talking about.
+    created_time: 2009-03-19T04:23:07+0000
+  - id: 790499637_57736272916_1065046
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: See?! And Eileen is MUCH more geeky than I am!!
+    created_time: 2009-03-19T04:24:56+0000
+  - id: 790499637_57736272916_1065048
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: (No offense, Eileen.)
+    created_time: 2009-03-19T04:25:22+0000
+  - id: 790499637_57736272916_1065054
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: Mr. Bond, is that meant as a compliment or an insult?  I'm not quite sure.  ;-)
+    created_time: 2009-03-19T04:26:51+0000
+  - id: 790499637_57736272916_1065142
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: A compliment. I can only hope to one day be as geeky as you, Ms. Eileen. A boy can dream, though, yes?
+    created_time: 2009-03-19T04:44:11+0000
+  count: 9
+layout: status
+title: Tuesday, Mar 17, 2009 around 10:01AM
+date: 2009-03-17 10:01:18 -04:00
+
+---
+is shocked that Barnes & Noble's website is built on ASP. It's not even .NET! It's no surprise that the site is über-buggy.

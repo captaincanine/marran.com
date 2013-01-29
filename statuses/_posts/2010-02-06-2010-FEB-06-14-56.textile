@@ -1,0 +1,59 @@
+--- 
+id: 790499637_292291667069
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: For the 3rd time, I've had to listen to Toto singing about the rains in Africa in my local grocery store. What do they know about Africa?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/292291667069
+- name: Like
+  link: http://www.facebook.com/790499637/posts/292291667069
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-02-06T19:56:56+0000
+updated_time: 2010-02-08T14:17:43+0000
+comments: 
+  data: 
+  - id: 790499637_292291667069_10761502
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: "That's one of my favorite Toto songs!  "
+    created_time: 2010-02-06T20:16:57+0000
+  - id: 790499637_292291667069_10762841
+    from: 
+      name: Celeste Tenacious C Thompson
+      id: "797828355"
+    message: "You might enjoy this: Steve Almond's critical analysis of the 1983 hit \"Africa\" by Toto: http://www.literary-arts.org/podcast/LApod-11.Almond.m4a"
+    created_time: 2010-02-06T20:57:11+0000
+  - id: 790499637_292291667069_10781825
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: A few years back I was watching the Rose Parade when I heard the strains of "Africa" behind the umpteenth rendition of "Louie Louie" by a high school band. It turned out to be the actual lead singer of Toto on a float in the Portland Grand Floral Parade singing Africa over and over again as they tootled up Alder. It was awesome.
+    created_time: 2010-02-07T11:27:29+0000
+  - id: 790499637_292291667069_10826299
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Celeste - thanks for that link. Yes, he aptly sums up how I feel about the song. "
+    created_time: 2010-02-08T14:17:43+0000
+  count: 4
+layout: status
+title: Saturday, Feb  6, 2010 around 02:56PM
+date: 2010-02-06 14:56:56 -05:00
+
+---
+For the 3rd time, I've had to listen to Toto singing about the rains in Africa in my local grocery store. What do they know about Africa?

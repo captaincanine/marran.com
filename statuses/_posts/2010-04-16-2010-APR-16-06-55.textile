@@ -1,0 +1,54 @@
+--- 
+id: 790499637_118504304833764
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have been chickening out of going to my latest gym because the workouts outs are so exhaustingly difficult. But I am going today. Feel free to ask me how it went later. Because I will have gone.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/118504304833764
+- name: Like
+  link: http://www.facebook.com/790499637/posts/118504304833764
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2010-04-16T10:55:56+0000
+updated_time: 2010-04-16T15:58:21+0000
+likes: 
+  data: 
+  - name: Kevin Coto
+    id: "1260038500"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_118504304833764_392195
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Take me with you!  My gym motivation has vanished...urg.
+    created_time: 2010-04-16T14:14:49+0000
+  - id: 790499637_118504304833764_392513
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: You can do it, Tom! At the risk of sounding...well, gay...I was inspired by the finale of Ugly Betty. I decided I needed to be naive, courageous, and blindly optimistic. It got me through the door.
+    created_time: 2010-04-16T14:55:11+0000
+  - id: 790499637_118504304833764_392996
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: LOL.  Very gay (not that there's anything wrong with that!).   So - here's the plan.  I'll veg on the couch and catch up on the last 5 episodes of Ugly Betty to see if I can catch the same motivation :-)
+    created_time: 2010-04-16T15:58:21+0000
+  count: 3
+layout: status
+title: Friday, Apr 16, 2010 around 06:55AM
+date: 2010-04-16 06:55:56 -04:00
+
+---
+I have been chickening out of going to my latest gym because the workouts outs are so exhaustingly difficult. But I am going today. Feel free to ask me how it went later. Because I will have gone.

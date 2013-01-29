@@ -1,0 +1,59 @@
+--- 
+id: 790499637_90818618051
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Man purses are all the rage in Milan. I still wouldn't be caught dead with one.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/90818618051
+- name: Like
+  link: http://www.facebook.com/790499637/posts/90818618051
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-06-07T17:51:06+0000
+updated_time: 2009-06-10T16:15:26+0000
+comments: 
+  data: 
+  - id: 790499637_90818618051_2249099
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Thank God.  Just say no to the man-purse.....
+    created_time: 2009-06-07T18:16:48+0000
+  - id: 790499637_90818618051_2257363
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: My brother-in-law, who's from Milan, was just complaining to about not being to use a man-purse in the US. He misses his.
+    created_time: 2009-06-08T04:06:22+0000
+  - id: 790499637_90818618051_2259168
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: As a US male, we are only allowed beat-up messenger bags (not too small to be dainty and not too big to be purse-like) or cargo pants with all the pockets filled. It's sad that we are only allowed to be practical in small confined.
+    created_time: 2009-06-08T07:41:49+0000
+  - id: 790499637_90818618051_2310197
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Welcome back... and thank god you're still man-purse-less. You must be well aware that Milan's design community has been trying to get the rest of the western world to embrace that ill-conceived idea for years. It's a massive conspiracy, like the Illuminati or Opus Dei or something... it's sure to be featured in the next Dan Brown novel. RESIST!
+    created_time: 2009-06-10T16:15:26+0000
+  count: 4
+layout: status
+title: Sunday, Jun  7, 2009 around 01:51PM
+date: 2009-06-07 13:51:06 -04:00
+
+---
+Man purses are all the rage in Milan. I still wouldn't be caught dead with one.

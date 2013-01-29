@@ -1,0 +1,49 @@
+--- 
+id: 790499637_144640768903431
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just heard the term "sextortion" for the first time on CNN. Do you think we're a little sex-obsessed in this country?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/144640768903431
+- name: Like
+  link: http://www.facebook.com/790499637/posts/144640768903431
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2010-08-23T12:50:11+0000
+updated_time: 2010-08-23T15:10:05+0000
+comments: 
+  data: 
+  - id: 790499637_144640768903431_1246726
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "And when are we going to start seeing some \"sexcommunication\" scandals in the church? "
+    created_time: 2010-08-23T12:54:43+0000
+  - id: 790499637_144640768903431_1247286
+    from: 
+      name: Linda Rosenson Coe
+      id: "1440111516"
+    message: sexactly.
+    created_time: 2010-08-23T14:18:50+0000
+  - id: 790499637_144640768903431_1247591
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: sexting.  (sex texting)
+    created_time: 2010-08-23T15:10:05+0000
+  count: 3
+layout: status
+title: Monday, Aug 23, 2010 around 08:50AM
+date: 2010-08-23 08:50:11 -04:00
+
+---
+I just heard the term "sextortion" for the first time on CNN. Do you think we're a little sex-obsessed in this country?

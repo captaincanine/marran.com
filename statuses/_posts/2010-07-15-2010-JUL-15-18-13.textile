@@ -1,0 +1,71 @@
+--- 
+id: 790499637_124072907638159
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: |-
+  Our housekeeper is out sick this week for the first time in at least 11 years. I am doing laundry. Everyone laughs when I tell them. They snicker and say "YOU'RE doing LAUNDRY?!" 
+  
+  What is so damn funny about the thought of me doing laundry?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/124072907638159
+- name: Like
+  link: http://www.facebook.com/790499637/posts/124072907638159
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2010-07-15T22:13:36+0000
+updated_time: 2010-07-16T02:14:22+0000
+likes: 
+  data: 
+  - name: Sara Holoubek
+    id: "659585353"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_124072907638159_655850
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: "\"oh, let them eat cake!\" I say stomp off to your cottage to scrub the linens amongst the milking cows and chickens. "
+    created_time: 2010-07-15T23:14:38+0000
+  - id: 790499637_124072907638159_656040
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: And when I do laundry, I take the washboard down to the Hudson. So there.
+    created_time: 2010-07-15T23:48:26+0000
+  - id: 790499637_124072907638159_656054
+    from: 
+      name: Torrey Cornwell
+      id: "593335901"
+    message: Its ok Keith. When my teen leaves I have to remember how to take out the trash. Change is hard.
+    created_time: 2010-07-15T23:50:46+0000
+  - id: 790499637_124072907638159_656066
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Just to make sure I never have to do laundry again, I'm throwing a ton of bleach into the final load and playing stupid about it.
+    created_time: 2010-07-15T23:52:26+0000
+  - id: 790499637_124072907638159_656901
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Oh honey.  You doing laundry is like me doing cheap wine.  It just doesn't happen.....
+    created_time: 2010-07-16T02:14:22+0000
+  count: 5
+layout: status
+title: Thursday, Jul 15, 2010 around 06:13PM
+date: 2010-07-15 18:13:36 -04:00
+
+---
+Our housekeeper is out sick this week for the first time in at least 11 years. I am doing laundry. Everyone laughs when I tell them. They snicker and say "YOU'RE doing LAUNDRY?!" 
+
+What is so damn funny about the thought of me doing laundry?

@@ -1,0 +1,67 @@
+--- 
+id: 790499637_455039449637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I downloaded a copy of "I Love You Philip Morris" and the movie hasn't even been released yet. The internet is a very giving place.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/455039449637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/455039449637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=16328345033
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-06-16T19:05:59+0000
+updated_time: 2010-06-16T22:13:56+0000
+likes: 
+  data: 
+  - name: Melissa Agar
+    id: "530351528"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_455039449637_13706185
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Pirate Bay?
+    created_time: 2010-06-16T19:31:09+0000
+  - id: 790499637_455039449637_13706241
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Something similar. I followed the advice on this site: http://www.applemediacenter.com/"
+    created_time: 2010-06-16T19:38:55+0000
+  - id: 790499637_455039449637_13707385
+    from: 
+      name: Patrick Kee Kietsrichart
+      id: "1334676583"
+    message: "The movie had been released in Europe and Asia for a while now. US distributor had not paid the license fee so it is delay in US. "
+    created_time: 2010-06-16T21:58:56+0000
+  - id: 790499637_455039449637_13707523
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Ahh...that explains it. Thanks.
+    created_time: 2010-06-16T22:13:56+0000
+  count: 4
+layout: status
+title: Wednesday, Jun 16, 2010 around 03:05PM
+date: 2010-06-16 15:05:59 -04:00
+
+---
+I downloaded a copy of "I Love You Philip Morris" and the movie hasn't even been released yet. The internet is a very giving place.

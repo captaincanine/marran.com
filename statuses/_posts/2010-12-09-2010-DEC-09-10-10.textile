@@ -1,0 +1,60 @@
+--- 
+id: 790499637_170125233027047
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Black Swan was described as "psychosexual" which I'm hoping is my personal theme for 2011.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/170125233027047
+- name: Like
+  link: http://www.facebook.com/790499637/posts/170125233027047
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2010-12-09T15:10:31+0000
+updated_time: 2010-12-13T18:38:12+0000
+likes: 
+  data: 
+  - name: Jeff Bond
+    id: "1108401510"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_170125233027047_2104914
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: Does that word mean what I think it means?
+    created_time: 2010-12-09T18:05:36+0000
+  - id: 790499637_170125233027047_2105151
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: Keith, I've noticed a more risque theme to your recent posts. What happened to you in India?!? ;-)  Hope you are well. Miss you guys!
+    created_time: 2010-12-09T18:42:39+0000
+  - id: 790499637_170125233027047_2105254
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: India. I'm still dreaming about it. I will post photos and travelogue soon.
+    created_time: 2010-12-09T19:00:18+0000
+  - id: 790499637_170125233027047_2134579
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Maybe you opened a new chakra!
+    created_time: 2010-12-13T18:38:12+0000
+  count: 4
+layout: status
+title: Thursday, Dec  9, 2010 around 10:10AM
+date: 2010-12-09 10:10:31 -05:00
+
+---
+Black Swan was described as "psychosexual" which I'm hoping is my personal theme for 2011.

@@ -1,0 +1,59 @@
+--- 
+id: 790499637_74668172126
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: had forgotten how hard it is to learn a new computer language.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/74668172126
+- name: Like
+  link: http://www.facebook.com/790499637/posts/74668172126
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-04-06T14:58:58+0000
+updated_time: 2009-04-06T20:00:59+0000
+comments: 
+  data: 
+  - id: 790499637_74668172126_1285206
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: What'ya learnin'?
+    created_time: 2009-04-06T16:38:18+0000
+  - id: 790499637_74668172126_1285865
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Ruby on Rails.
+    created_time: 2009-04-06T17:34:56+0000
+  - id: 790499637_74668172126_1285955
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: The easy stuff is very easy to learn, but I'm trying to do something a bit more complicated than the boilerplate website. And so it's complex.
+    created_time: 2009-04-06T17:41:45+0000
+  - id: 790499637_74668172126_1287815
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: Ew.  You're all... like... nerdy.
+    created_time: 2009-04-06T20:00:59+0000
+  count: 4
+layout: status
+title: Monday, Apr  6, 2009 around 10:58AM
+date: 2009-04-06 10:58:58 -04:00
+
+---
+had forgotten how hard it is to learn a new computer language.

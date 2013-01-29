@@ -1,0 +1,29 @@
+--- 
+id: 790499637_125602024637
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran was tagged in Charlotte Hertander's album Random old pics from FGHS '88-'89.
+picture: http://photos-h.ak.fbcdn.net/hphotos-ak-snc6/5890_119839994539_6178632_s.jpg
+link: http://www.facebook.com/photo.php?fbid=119839994539&set=at.119839609539.121755.577154539.790499637&type=1&relevant_count=3
+description: Keith Marran was tagged in Charlotte Hertander's album Random old pics from FGHS '88-'89.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+privacy: 
+  value: ""
+type: photo
+status_type: tagged_in_photo
+object_id: "119839994539"
+created_time: 2009-07-08T18:56:37+0000
+updated_time: 2009-07-08T18:56:37+0000
+comments: 
+  count: 0
+layout: status-photo
+title: Wednesday, Jul  8, 2009 around 02:56PM
+link-info: Pictures taken during my exchange student year at Forest Grove High School, Forest Grove, OR
+images: 
+- thumbnail: /statuses/photo/5890_119839994539_6178632_s.jpg
+  fullsize: /statuses/photo/5890_119839994539_6178632_n.jpg
+date: 2009-07-08 14:56:37 -04:00
+
+---
+Keith Marran was tagged in Charlotte Hertander's album Random old pics from FGHS '88-'89.

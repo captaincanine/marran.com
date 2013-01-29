@@ -1,0 +1,47 @@
+--- 
+id: 790499637_147552178604839
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDDrW8xElcuVqJ4&w=90&h=90&url=http%3A%2F%2Fact.credoaction.com%2Fimages%2Fcampaigns%2Fnet_neutrality_200.gif
+link: http://act.credoaction.com/campaign/tell_fcc/?rc=fb_share1
+name: "Tell the FCC: It's up to you, not Google and Verizon, to regulate the Internet"
+caption: act.credoaction.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/147552178604839
+- name: Like
+  link: http://www.facebook.com/790499637/posts/147552178604839
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2010-08-10T13:30:37+0000
+updated_time: 2010-08-10T13:30:37+0000
+likes: 
+  data: 
+  - name: Gretchen Berkebile
+    id: "1454349544"
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 2
+comments: 
+  count: 0
+layout: status-link
+title: Tuesday, Aug 10, 2010 around 09:30AM
+link-info: Google and Verizon just jointly announced a proposed policy framework for net neutrality, and it's bad. But the fact of the matter is that it's not Google's place to write regulations--that's the job of the FCC, which has failed to act quickly to protect American consumers. Tell the FCC to stop dela...
+date: 2010-08-10 09:30:37 -04:00
+
+---
+Keith Marran shared a link.

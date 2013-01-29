@@ -1,0 +1,115 @@
+--- 
+id: 790499637_10151494802714638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: It's a good thing they closed down all the NYC subways 12 hours ago because we've had at least 5 drops of rain since then.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151494802714638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151494802714638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2012-10-29T10:57:33+0000
+updated_time: 2012-10-29T20:47:32+0000
+likes: 
+  data: 
+  - name: Justin Winslow
+    id: "1201684433"
+  - name: Anthony Sass
+    id: "826229635"
+  - name: Dagny Prieto
+    id: "592820863"
+  - name: Jono Jarrett
+    id: "1343303598"
+  count: 6
+comments: 
+  data: 
+  - id: 790499637_10151494802714638_29141591
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Sure enough, as soon as I posted a snide and sarcastic comment about the lack of rain, I started hearing drops on the roof.
+    created_time: 2012-10-29T11:03:54+0000
+  - id: 790499637_10151494802714638_29141836
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: Stay safe!!
+    created_time: 2012-10-29T11:33:40+0000
+  - id: 790499637_10151494802714638_29141942
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Be prepared!! ...and stay safe!
+    created_time: 2012-10-29T11:46:34+0000
+  - id: 790499637_10151494802714638_29142562
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: That is Murphy at work for ya!   Seriously, Stay safe!  Keeping you all in our thoughts and prayers!
+    created_time: 2012-10-29T12:42:30+0000
+  - id: 790499637_10151494802714638_29143678
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Curmudgeon!
+    created_time: 2012-10-29T14:14:10+0000
+  - id: 790499637_10151494802714638_29145900
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Actually, last night and this morning was so calm in my neighborhood that I now think we should have one day a week without public transportation. Everyone in NYC should plan their lives around staying in their own neighborhood on Sunday night. It's good for us.
+    created_time: 2012-10-29T16:38:33+0000
+    likes: 4
+  - id: 790499637_10151494802714638_29148297
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: How are your things your end now? Seen some news here and it's at least looking very wet and windy right now.... That expected giant wave sounds worrying. Hope you're OK!
+    created_time: 2012-10-29T19:11:35+0000
+  - id: 790499637_10151494802714638_29148565
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Giant wave?! I haven't heard of that one! In my neighborhood, it's mildly wet and that's about it. I hear that the water level has risen over the sidewalks on the edge of town.
+    created_time: 2012-10-29T19:27:42+0000
+  - id: 790499637_10151494802714638_29148608
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Downtown there has been flooding. Con Ed just called to say that they may pre-emptively shut down power here (salt water + the grid = bad bad bad)
+    created_time: 2012-10-29T19:30:12+0000
+  - id: 790499637_10151494802714638_29148654
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Supposedly, this is supposed to peak for NYC at 5:30pm. I've got my iPad mostly charged. I'm really hoping we don't lose power.
+    created_time: 2012-10-29T19:33:17+0000
+  - id: 790499637_10151494802714638_29148677
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Yeah, so much for my netflix plan for the evening. Boo.
+    created_time: 2012-10-29T19:34:28+0000
+  - id: 790499637_10151494802714638_29149935
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Well, I haven't any details of this giant wave and no real concept of the expected hit area. Let's hope It's exaggerated...
+    created_time: 2012-10-29T20:47:32+0000
+  count: 12
+layout: status
+title: Monday, Oct 29, 2012 around 06:57AM
+date: 2012-10-29 06:57:33 -04:00
+
+---
+It's a good thing they closed down all the NYC subways 12 hours ago because we've had at least 5 drops of rain since then.

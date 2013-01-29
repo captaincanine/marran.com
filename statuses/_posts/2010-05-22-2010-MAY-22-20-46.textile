@@ -1,0 +1,49 @@
+--- 
+id: 790499637_444900344637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: How nice to be home and have two puppies smiling from ear to ear at our return.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/444900344637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/444900344637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14525570718
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-23T00:46:35+0000
+updated_time: 2010-05-23T05:27:23+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_444900344637_13497428
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: Welcome home!!
+    created_time: 2010-05-23T05:27:23+0000
+  count: 1
+layout: status
+title: Saturday, May 22, 2010 around 08:46PM
+date: 2010-05-22 20:46:35 -04:00
+
+---
+How nice to be home and have two puppies smiling from ear to ear at our return.

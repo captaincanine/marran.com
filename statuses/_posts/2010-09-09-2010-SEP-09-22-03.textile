@@ -1,0 +1,102 @@
+--- 
+id: 790499637_158952084120128
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: It seems like I've seen a lot of cringe-inducing crazy rants lately. This one was different. It was hilarious and I felt no guilt whatsoever for this clearly disturbed person. I think I would have given him a standing ovation had I been there.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQA2HvkxsbxoVrfe&w=90&h=90&url=http%3A%2F%2Fcache-01.gawkerassets.com%2Fassets%2Fimages%2F7%2F2010%2F09%2F0909_crazy.jpg
+link: http://gawker.com/5634055/the-craziest-political-speech-youll-see-this-fall
+name: The Craziest Political Speech You'll See This Fall
+caption: gawker.com
+description: It seems like I've seen a lot of cringe-inducing crazy rants lately. This one was different. It was hilarious and I felt no guilt whatsoever for this clearly disturbed person. I think I would have given him a standing ovation had I been there.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/158952084120128
+- name: Like
+  link: http://www.facebook.com/790499637/posts/158952084120128
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2010-09-10T02:03:08+0000
+updated_time: 2010-09-12T01:34:03+0000
+likes: 
+  data: 
+  - name: Melissa Agar
+    id: "530351528"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_158952084120128_1589011
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Ha! Just saw this on Rachel Maddow. INFESTATION!!!
+    created_time: 2010-09-10T02:15:39+0000
+  - id: 790499637_158952084120128_1589026
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: AND A MASTER'S DEGREE... IN COMMUNICATION!!!!!
+    created_time: 2010-09-10T02:17:22+0000
+  - id: 790499637_158952084120128_1589426
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: Again.... hillarifying.
+    created_time: 2010-09-10T03:10:37+0000
+  - id: 790499637_158952084120128_1589438
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: And I believe in the axiom that "all politics is loco."
+    created_time: 2010-09-10T03:11:22+0000
+  - id: 790499637_158952084120128_1591752
+    from: 
+      name: Veronique Wolwowicz Rader
+      id: "604902503"
+    message: He lost but I am sure someone can find a job somewhere as dictator of the year ( he sounds a lot like the little guy with the mustache and the comb over ! ). This guy has some conviction and he also probably forgot to take his meds ! Good find Keith !
+    created_time: 2010-09-10T12:45:33+0000
+  - id: 790499637_158952084120128_1594974
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Wow. That was really something.  Too bad it is not always a good idea to reach deep down and speak from your gut.  Ouch.
+    created_time: 2010-09-10T21:07:33+0000
+  - id: 790499637_158952084120128_1595680
+    from: 
+      name: Melissa Agar
+      id: "530351528"
+    message: Definitely showing this to my speech class!
+    created_time: 2010-09-10T23:06:55+0000
+  - id: 790499637_158952084120128_1603898
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: FYI, I can't stop watching this.  I think my new favorite part comes around 1:38 when he starts to tell his "most favorite quote of all times in the history of the spoken word" and misquotes it.  He does this cute little horrified bark thing right after, "in the middle of opportunity" (bark!)... "excuse me, in the middle of DIFFICULTY..." Take a minute to watch that part again.  It's so worth it.
+    created_time: 2010-09-12T01:27:09+0000
+  - id: 790499637_158952084120128_1603917
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: |-
+      OK.  I'm officially obsessed.  Now watch this... it's super short.  And also terrilarious.
+      http://www.youtube.com/watch?v=ZsTTvKWPZGw
+    created_time: 2010-09-12T01:34:03+0000
+  count: 9
+layout: status-link
+title: Thursday, Sep  9, 2010 around 10:03PM
+link-info: "Stark County, Ohio's GOP picked its nominee for treasurer last night! You knew that, sure, but here's the meeting's highlight anyway: terrifying candidate Phil Davidson screaming, pacing, and half-crying in the most insane stump speech ever. He lost! Clip below."
+date: 2010-09-09 22:03:08 -04:00
+
+---
+It seems like I've seen a lot of cringe-inducing crazy rants lately. This one was different. It was hilarious and I felt no guilt whatsoever for this clearly disturbed person. I think I would have given him a standing ovation had I been there.

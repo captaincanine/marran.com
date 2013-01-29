@@ -1,0 +1,39 @@
+--- 
+id: 790499637_111017272266927
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The video is hilarious.
+link: https://www.buytvhatnow.com/flare/next?etag=asotv
+name: As Seen On TV Hat - Official Site - www.Buytvhat.com
+caption: www.buytvhatnow.com
+description: The video is hilarious.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/111017272266927
+- name: Like
+  link: http://www.facebook.com/790499637/posts/111017272266927
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2010-04-21T17:37:07+0000
+updated_time: 2010-04-21T17:37:07+0000
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Apr 21, 2010 around 01:37PM
+link-info: The As Seen On TV Hat allows you to play movies from your Ipod, Iphone or Blackberry. Great for families on the go. Buy 1 Get 1 Free $19.95.
+date: 2010-04-21 13:37:07 -04:00
+
+---
+The video is hilarious.

@@ -1,0 +1,46 @@
+--- 
+id: 790499637_351973603792
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Listening to "And the Grass Won't Pay No Mind" and thinking that Neil Diamond is severely underrated (perhaps not amongst housewives, tho).
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/351973603792
+- name: Like
+  link: http://www.facebook.com/790499637/posts/351973603792
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-02-17T01:58:49+0000
+updated_time: 2010-02-18T01:48:44+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_351973603792_11506641
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: "I \xE2\x99\xA5 Neil Diamond so much it's sick!  Plus he's a Jew with a Christmas album, so that just makes the eggnog easier to swallow!"
+    created_time: 2010-02-18T01:48:44+0000
+  count: 1
+layout: status
+title: Tuesday, Feb 16, 2010 around 08:58PM
+date: 2010-02-16 20:58:49 -05:00
+
+---
+Listening to "And the Grass Won't Pay No Mind" and thinking that Neil Diamond is severely underrated (perhaps not amongst housewives, tho).

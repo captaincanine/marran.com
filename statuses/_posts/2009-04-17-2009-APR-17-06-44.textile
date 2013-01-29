@@ -1,0 +1,31 @@
+--- 
+id: 790499637_93822789637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v43/134/14852940614/app_2_14852940614_5998.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/93822789637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/93822789637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Birthday Cards
+  namespace: rybirthday
+  id: "14852940614"
+created_time: 2009-04-17T10:44:54+0000
+updated_time: 2009-04-17T10:44:54+0000
+comments: 
+  count: 0
+layout: status
+title: Friday, Apr 17, 2009 around 06:44AM
+link-info: Keith is using the Birthday Cards application to keep track of favorite birthdays!
+date: 2009-04-17 06:44:54 -04:00
+
+---
+

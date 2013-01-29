@@ -1,0 +1,44 @@
+--- 
+id: 790499637_106435984093
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "RT @Pogue: Verizon CEO sends a \"rebuttal\" to my column (http://bit.ly/Txi7U)...but ignores EVERY ONE of my points! (http://bit.ly/zzphq)"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/106435984093
+- name: Like
+  link: http://www.facebook.com/790499637/posts/106435984093
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-07-27T14:40:11+0000
+updated_time: 2009-07-27T15:23:01+0000
+comments: 
+  data: 
+  - id: 790499637_106435984093_3484070
+    from: 
+      name: Sarah Livingston Moore
+      id: "607352676"
+    message: |-
+      Interesting. Thanks for the links.
+      
+      I just made the switch to Verizon after 4 reasonably contented years with AT&T (my husband's company cell is with Verizon), and I'm already feeling vaguely bitter. Their customer service has been unimpressive, at best.
+    created_time: 2009-07-27T15:23:01+0000
+  count: 1
+layout: status
+title: Monday, Jul 27, 2009 around 10:40AM
+date: 2009-07-27 10:40:11 -04:00
+
+---
+RT @Pogue: Verizon CEO sends a "rebuttal" to my column (http://bit.ly/Txi7U)...but ignores EVERY ONE of my points! (http://bit.ly/zzphq)

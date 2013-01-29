@@ -1,0 +1,37 @@
+--- 
+id: 790499637_440898124637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Poor Oz got a little manscaping done at the vet today.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/440898124637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/440898124637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=13944636473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-14T00:37:20+0000
+updated_time: 2010-05-14T00:37:20+0000
+comments: 
+  count: 0
+layout: status
+title: Thursday, May 13, 2010 around 08:37PM
+date: 2010-05-13 20:37:20 -04:00
+
+---
+Poor Oz got a little manscaping done at the vet today.

@@ -1,0 +1,18 @@
+{% if page.comments.count > 0 %}              
+
+  <div class="comments">
+
+    <h3>Some comments from Facebook...</h3>
+
+    {% for comment in page.comments.data %}
+    
+      <div class="comment">
+        <div class="message">{{ comment.message }}</div>
+        <div class="commentor">{{ comment.from.name }}</div>
+      </div>
+              
+    {% endfor %}
+  
+  </div>
+
+{% endif %}

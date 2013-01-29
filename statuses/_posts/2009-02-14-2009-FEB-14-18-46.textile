@@ -1,0 +1,34 @@
+--- 
+id: 790499637_66128713635
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: was on Vista for the first time. I see what all the complaining is about. They've taken unintuitive to a new extreme.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/66128713635
+- name: Like
+  link: http://www.facebook.com/790499637/posts/66128713635
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-02-14T23:46:54+0000
+updated_time: 2009-02-14T23:46:54+0000
+comments: 
+  count: 0
+layout: status
+title: Saturday, Feb 14, 2009 around 06:46PM
+date: 2009-02-14 18:46:54 -05:00
+
+---
+was on Vista for the first time. I see what all the complaining is about. They've taken unintuitive to a new extreme.

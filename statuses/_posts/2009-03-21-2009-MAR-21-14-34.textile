@@ -1,0 +1,47 @@
+--- 
+id: 790499637_161977890552
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: had another incredible meal at Shake Shack. It's a good thing the lines are long.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/161977890552
+- name: Like
+  link: http://www.facebook.com/790499637/posts/161977890552
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-03-21T18:34:22+0000
+updated_time: 2009-03-21T21:30:55+0000
+comments: 
+  data: 
+  - id: 790499637_161977890552_1214464
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: It must be good, I've passed it so many times and went... hell, I'm not waiting on that line.
+    created_time: 2009-03-21T20:53:31+0000
+  - id: 790499637_161977890552_1214864
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I did the same thing for years. One day I passed by and the line wasn't so long, so I checked it out. It really is worth it.
+    created_time: 2009-03-21T21:30:55+0000
+  count: 2
+layout: status
+title: Saturday, Mar 21, 2009 around 02:34PM
+date: 2009-03-21 14:34:22 -04:00
+
+---
+had another incredible meal at Shake Shack. It's a good thing the lines are long.

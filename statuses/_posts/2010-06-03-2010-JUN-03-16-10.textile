@@ -1,0 +1,69 @@
+--- 
+id: 790499637_449877369637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: In homage to Gary Coleman, I'm listening to Avenue Q.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/449877369637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/449877369637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=15348796223
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-06-03T20:10:20+0000
+updated_time: 2010-06-04T02:24:12+0000
+likes: 
+  data: 
+  - name: LeAnn Davis
+    id: "791989691"
+  - name: Allison Adams
+    id: "594440081"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_449877369637_13595514
+    from: 
+      name: Beth Roper
+      id: "687251063"
+    message: I did that too - and I read they are rewriting parts of it, now out of respect for him.
+    created_time: 2010-06-03T20:26:29+0000
+  - id: 790499637_449877369637_13597972
+    from: 
+      name: Patrick Kee Kietsrichart
+      id: "1334676583"
+    message: "Oh no~ hope they don't rewrite anything. Love the show!  There is a fine fine line between doing a right thing and doing P.C, "
+    created_time: 2010-06-04T01:40:13+0000
+  - id: 790499637_449877369637_13598284
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "As much as I love the show, I think they need to change some things (The song \"It Sucks To Be Me\" ends with everyone agreeing that Gary Coleman has it the worst). I can't imagine being the actress that had to play Gary Coleman on the day he died. I assume they made an announcement to the audience before the show. "
+    created_time: 2010-06-04T02:13:43+0000
+  - id: 790499637_449877369637_13598390
+    from: 
+      name: Patrick Kee Kietsrichart
+      id: "1334676583"
+    message: "I think I am ok for changes if the writer think that the show is dated or it can be even better/funnier with re-write.  However, I think Gary Coleman is part of the history of the show.  It is kind of suck to to be him so in any case that line should be even stronger.  I guess I'm a little insensitive but certainly not with disrespect.    "
+    created_time: 2010-06-04T02:24:12+0000
+  count: 4
+layout: status
+title: Thursday, Jun  3, 2010 around 04:10PM
+date: 2010-06-03 16:10:20 -04:00
+
+---
+In homage to Gary Coleman, I'm listening to Avenue Q.

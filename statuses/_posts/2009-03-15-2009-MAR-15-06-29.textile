@@ -1,0 +1,34 @@
+--- 
+id: 790499637_68973234336
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: just joined the West Village CSA.  http://bit.ly/Y9qg
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/68973234336
+- name: Like
+  link: http://www.facebook.com/790499637/posts/68973234336
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-03-15T10:29:00+0000
+updated_time: 2009-03-15T10:29:00+0000
+comments: 
+  count: 0
+layout: status
+title: Sunday, Mar 15, 2009 around 06:29AM
+date: 2009-03-15 06:29:00 -04:00
+
+---
+just joined the West Village CSA.  http://bit.ly/Y9qg

@@ -1,0 +1,41 @@
+--- 
+id: 790499637_53031609916
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: followed two elephants that wandered into camp.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/53031609916
+- name: Like
+  link: http://www.facebook.com/790499637/posts/53031609916
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-03-02T05:20:46+0000
+updated_time: 2009-03-02T06:43:29+0000
+comments: 
+  data: 
+  - id: 790499637_53031609916_878964
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: You are killing me.  I truly can't wait to hear about your adventures.  Also can't imagine the pics that you must be getting....
+    created_time: 2009-03-02T06:43:29+0000
+  count: 1
+layout: status
+title: Monday, Mar  2, 2009 around 12:20AM
+date: 2009-03-02 00:20:46 -05:00
+
+---
+followed two elephants that wandered into camp.

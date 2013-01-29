@@ -1,0 +1,33 @@
+--- 
+id: 790499637_10150252059889638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: " has new Holiday Cards to ring in the New Year!"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=2601240224&v=1&size=f&cksum=dc416cf9b847215ac80fd278a32f9f4d&src=http%3A%2F%2Fapps.rockyou.com%2Fimages%2Ffacebook%2Fapps%2Fsuperwall%2Fnewyears_feed1.jpg
+link: http://www.rockyou.com/events/track.php?event=wall-pta-newyears&url=http%3A%2F%2Fapps.facebook.com%2Fsuperwall%2Fview_all_send.php
+description: " has new Holiday Cards to ring in the New Year!"
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/97/469657213087201/app_101_469657213087201_147832016.png
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150252059889638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150252059889638
+privacy: 
+  value: ""
+type: link
+application: 
+  name: Movie Blitz
+  namespace: movieblitz
+  id: "2601240224"
+created_time: 2007-12-31T06:22:49+0000
+updated_time: 2007-12-31T06:22:49+0000
+comments: 
+  count: 0
+layout: status-link
+title: Monday, Dec 31, 2007 around 01:22AM
+link-info: Wish your friends a Happy New Year. Start the countdown to New Years 2008!
+date: 2007-12-31 01:22:49 -05:00
+
+---
+ has new Holiday Cards to ring in the New Year!

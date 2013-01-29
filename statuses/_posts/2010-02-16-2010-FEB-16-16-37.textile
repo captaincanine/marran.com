@@ -1,0 +1,37 @@
+--- 
+id: 790499637_304562938962
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDpYS1V048A9twQ&w=90&h=90&url=http%3A%2F%2Ffarm5.static.flickr.com%2F4035%2F4360576299_3d4007c65c_t.jpg
+link: http://www.marran.com/personal/blog/lorenz/sis-lorenz-visit-nyc
+name: Sis & Lorenz Visit NYC | Keith Marran
+caption: www.marran.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/304562938962
+- name: Like
+  link: http://www.facebook.com/790499637/posts/304562938962
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-02-16T21:37:18+0000
+updated_time: 2010-02-16T21:37:18+0000
+comments: 
+  count: 0
+layout: status-link
+title: Tuesday, Feb 16, 2010 around 04:37PM
+link-info: I just said goodbye to Sis and Lorenz. David was kind enough to use his miles to purchase tickets for Sis and Lorenz for a little winter visit. Looking back on it, it's hard to believe that it was just over two days. I'm surprised Lorenz' head didn't burst after all the activities we threw his way.
+date: 2010-02-16 16:37:18 -05:00
+
+---
+Keith Marran shared a link.

@@ -1,0 +1,47 @@
+--- 
+id: 790499637_112356785450426
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I somehow convinced myself that Lost was on last night and now I can't accept that I still have 24 hours to go.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/112356785450426
+- name: Like
+  link: http://www.facebook.com/790499637/posts/112356785450426
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-06T13:04:29+0000
+updated_time: 2010-04-07T02:14:49+0000
+comments: 
+  data: 
+  - id: 790499637_112356785450426_238975
+    from: 
+      name: Kelly Lynn Hogan
+      id: "817029182"
+    message: I have fallen into this trap many a week.
+    created_time: 2010-04-06T14:57:22+0000
+  - id: 790499637_112356785450426_243576
+    from: 
+      name: Jamie Querciagrossa
+      id: "1028555899"
+    message: "So stuck on the smoke monster.  Not missing kung fu guy. Haven't watched tonight.  Girls just went to sleep. "
+    created_time: 2010-04-07T02:14:49+0000
+  count: 2
+layout: status
+title: Tuesday, Apr  6, 2010 around 09:04AM
+date: 2010-04-06 09:04:29 -04:00
+
+---
+I somehow convinced myself that Lost was on last night and now I can't accept that I still have 24 hours to go.

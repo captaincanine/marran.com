@@ -1,0 +1,44 @@
+--- 
+id: 790499637_448400339637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: RT @gawker Subway Finally Agrees to Tessellate Cheese http://bit.ly/9KSzv8
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/448400339637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/448400339637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=15099577760
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-31T10:39:23+0000
+updated_time: 2010-05-31T17:16:55+0000
+comments: 
+  data: 
+  - id: 790499637_448400339637_13565447
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: You never fail to keep me up to date on the most vital of topics!!  Thanks Capt'n!!
+    created_time: 2010-05-31T17:16:55+0000
+  count: 1
+layout: status
+title: Monday, May 31, 2010 around 06:39AM
+date: 2010-05-31 06:39:23 -04:00
+
+---
+RT @gawker Subway Finally Agrees to Tessellate Cheese http://bit.ly/9KSzv8

@@ -1,0 +1,34 @@
+--- 
+id: 790499637_377212607891
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Feminist Bookstore: This is an oldie (in internet years), but bears repeating. Perhaps one of the funniest short videos I've ever seen. The thing that makes this amazing, is that I believe they are improvising based on real bookstore flyers."
+link: http://www.thunderant.com/?p=18
+name: THUNDERANT
+caption: www.thunderant.com
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/377212607891
+- name: Like
+  link: http://www.facebook.com/790499637/posts/377212607891
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-03-01T14:55:48+0000
+updated_time: 2010-03-01T14:55:48+0000
+comments: 
+  count: 0
+layout: status-link
+title: Monday, Mar  1, 2010 around 09:55AM
+date: 2010-03-01 09:55:48 -05:00
+
+---
+Feminist Bookstore: This is an oldie (in internet years), but bears repeating. Perhaps one of the funniest short videos I've ever seen. The thing that makes this amazing, is that I believe they are improvising based on real bookstore flyers.

@@ -1,0 +1,44 @@
+--- 
+id: 790499637_166442574921
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Beyond the Valley of the Dolls is easily in top 5 of favorite movies. Here is a little clip...
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQA-y7icoSyraE46&w=90&h=90&url=http%3A%2F%2Fi.media-imdb.com%2Fimages%2Fnb15%2Flogo2.gif
+link: http://www.imdb.com/video/hulu/vi4170776601/
+name: "IMDb Video: Good Sex Requires Guilt"
+caption: www.imdb.com
+description: Beyond the Valley of the Dolls is easily in top 5 of favorite movies. Here is a little clip...
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/166442574921
+- name: Like
+  link: http://www.facebook.com/790499637/posts/166442574921
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-09-20T02:37:39+0000
+updated_time: 2009-09-20T02:42:15+0000
+comments: 
+  data: 
+  - id: 790499637_166442574921_5161113
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: "\"This is my happening and it freaks me out.\"  My God in Heaven, do I love, love, love this movie. I can't really call it a guilty pleasure since I harbor no guilt for adoring it as I do."
+    created_time: 2009-09-20T02:42:15+0000
+  count: 1
+layout: status-link
+title: Saturday, Sep 19, 2009 around 10:37PM
+link-info: "Good Sex Requires Guilt on IMDb: Movies, TV, Celebs, and more..."
+date: 2009-09-19 22:37:39 -04:00
+
+---
+Beyond the Valley of the Dolls is easily in top 5 of favorite movies. Here is a little clip...

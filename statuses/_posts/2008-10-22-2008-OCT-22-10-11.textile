@@ -1,0 +1,41 @@
+--- 
+id: 790499637_36179927250
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: My Fall Funk seems to have lifted. Could it be the Air Supply?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/36179927250
+- name: Like
+  link: http://www.facebook.com/790499637/posts/36179927250
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2008-10-22T14:11:05+0000
+updated_time: 2008-10-22T16:58:18+0000
+comments: 
+  data: 
+  - id: 790499637_36179927250_172999
+    from: 
+      name: John F. Duckett
+      id: "567340649"
+    message: Of course it is. Ha.
+    created_time: 2008-10-22T16:58:18+0000
+  count: 1
+layout: status
+title: Wednesday, Oct 22, 2008 around 10:11AM
+date: 2008-10-22 10:11:05 -04:00
+
+---
+My Fall Funk seems to have lifted. Could it be the Air Supply?

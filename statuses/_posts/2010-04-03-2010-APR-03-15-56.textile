@@ -1,0 +1,79 @@
+--- 
+id: 790499637_111328285551590
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "First impressions of my iPad: it's not as hard to type as I thought. And it is worth the hype."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/111328285551590
+- name: Like
+  link: http://www.facebook.com/790499637/posts/111328285551590
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-03T19:56:28+0000
+updated_time: 2010-04-04T15:30:08+0000
+likes: 
+  data: 
+  - name: Evan Kent
+    id: "1362251279"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_111328285551590_218450
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "And comic books are surprisingly awesome on it. "
+    created_time: 2010-04-03T20:02:00+0000
+  - id: 790499637_111328285551590_218852
+    from: 
+      name: Izzy Rodrigz
+      id: "774964359"
+    message: I'm with you Keith! The iBook App alone is worth it!
+    created_time: 2010-04-03T21:13:03+0000
+  - id: 790499637_111328285551590_219274
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: What do you find yourself using it for most, Keith? Do you also have an iPhone?
+    created_time: 2010-04-03T22:48:58+0000
+  - id: 790499637_111328285551590_219491
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      So far, I've just been playing with all of it. I primarily got it for long flights and watching the final episodes of Lost. But it's clear that it's going to be very powerful as more and more apps become available. The NYTimes looks great on it. Email is as good as working on a desktop. 
+      
+      And yes I have an iPhone, and I was one of the lucky few that got Netshare, so I can tether my iPad to my phone for a 3G connection when I might need it.
+    created_time: 2010-04-03T23:36:23+0000
+  - id: 790499637_111328285551590_219494
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: And streaming movies from Netflix for free is kind of amazing.
+    created_time: 2010-04-03T23:36:56+0000
+  - id: 790499637_111328285551590_223128
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: You can stream on the ipad? That changes everything.
+    created_time: 2010-04-04T15:30:08+0000
+  count: 6
+layout: status
+title: Saturday, Apr  3, 2010 around 03:56PM
+date: 2010-04-03 15:56:28 -04:00
+
+---
+First impressions of my iPad: it's not as hard to type as I thought. And it is worth the hype.

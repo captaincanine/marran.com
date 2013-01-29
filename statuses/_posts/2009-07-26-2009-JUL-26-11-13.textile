@@ -1,0 +1,36 @@
+--- 
+id: 790499637_127064108828
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=133355920829&v=1&size=z&cksum=31adb7b71447a200e010ef0689bac818&src=http%3A%2F%2Fs3.amazonaws.com%2Fquizmonster_production%2Ficons%2F7737242%2Fsesame-street-muppet.jpg
+link: http://apps.facebook.com/whicholdschogaylft/quiz/questions
+description: 
+icon: http://www.facebook.com/images/icons/default_app_icon.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/127064108828
+- name: Like
+  link: http://www.facebook.com/790499637/posts/127064108828
+privacy: 
+  value: ""
+type: link
+status_type: app_created_story
+application: 
+  name: Which Old School Obscure Seasame Street character are you?
+  namespace: whicholdschogaylft
+  id: "133355920829"
+created_time: 2009-07-26T15:13:56+0000
+updated_time: 2009-07-26T15:13:56+0000
+comments: 
+  count: 0
+layout: status-link
+title: Sunday, Jul 26, 2009 around 11:13AM
+link-info: |-
+  Keith completed the quiz "Which Old School Obscure Seasame Street character are you?" with the result Roosevelt Franklin.You're hip, know where it's at and outta sight! You love to count and recite the alphabet... as long as you can scat while doing it. You make up silly analogies when you talk like, "My mother's gonna find me like a moose finds moose juice!"
+  
+  Apparently, you are also too cool for Sesame Street. You were dropped from the show for being an politically incorrect black stereotype..
+date: 2009-07-26 11:13:56 -04:00
+
+---
+

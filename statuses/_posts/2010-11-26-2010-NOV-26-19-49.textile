@@ -1,0 +1,54 @@
+--- 
+id: 790499637_167387443302078
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Please do not ever say that I'm hard to shop for. I just found out what I want for Christmas, birthday, or any other flimsy reason to get me a gift: Pornographic latch hook pillow kits. Models V.3 and V.4 would go well with my office, in fact."
+link: http://www.dirtypillowz.net/
+name: DIRTYPILLOWZ.NET- Tasteful Adult Crafts
+caption: www.dirtypillowz.net
+description: "Please do not ever say that I'm hard to shop for. I just found out what I want for Christmas, birthday, or any other flimsy reason to get me a gift: Pornographic latch hook pillow kits. Models V.3 and V.4 would go well with my office, in fact."
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/167387443302078
+- name: Like
+  link: http://www.facebook.com/790499637/posts/167387443302078
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-11-27T00:49:11+0000
+updated_time: 2010-11-27T04:38:54+0000
+likes: 
+  data: 
+  - name: Rosemary Feneziani
+    id: "573541002"
+  - name: Renee Kent
+    id: "531319519"
+  - name: Thomas Sproat
+    id: "573477249"
+  - name: Sara Holoubek
+    id: "659585353"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_167387443302078_1979477
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Oh my god... THIS is your follow-up to knitting? It must be the jet lag...
+    created_time: 2010-11-27T04:38:54+0000
+  count: 1
+layout: status-link
+title: Friday, Nov 26, 2010 around 07:49PM
+link-info: Dirty Pillowz is the perfect site for lovers of 70's Crafts and 70's Porn. We create tasteful Adult-Themed latch hook kits. Hot n' Crafty!
+date: 2010-11-26 19:49:11 -05:00
+
+---
+Please do not ever say that I'm hard to shop for. I just found out what I want for Christmas, birthday, or any other flimsy reason to get me a gift: Pornographic latch hook pillow kits. Models V.3 and V.4 would go well with my office, in fact.

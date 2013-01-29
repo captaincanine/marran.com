@@ -1,0 +1,37 @@
+--- 
+id: 790499637_469433444637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Testing Out Tumblr - Does anyone out there use Tumblr on a regular basis? I usually use Twitter as my \xE2\x80\x9Cthought broadcaster\xE2\x80\x9D but I\xE2\x80\x99m getting annoyed by the 140 character limit. Tumblr seems like a better micro-blogging platform to me."
+icon: http://photos-e.ak.fbcdn.net/photos-ak-snc7/v85006/135/48119224995/app_2_48119224995_1442841513.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/469433444637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/469433444637
+- name: View post
+  link: http://captaincanine.tumblr.com/post/836011764/testing-out-tumblr
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Tumblr
+  namespace: tumblr-feed
+  id: "48119224995"
+created_time: 2010-07-20T11:08:51+0000
+updated_time: 2010-07-20T11:08:51+0000
+comments: 
+  count: 0
+layout: status
+title: Tuesday, Jul 20, 2010 around 07:08AM
+date: 2010-07-20 07:08:51 -04:00
+
+---
+Testing Out Tumblr - Does anyone out there use Tumblr on a regular basis? I usually use Twitter as my “thought broadcaster” but I’m getting annoyed by the 140 character limit. Tumblr seems like a better micro-blogging platform to me.

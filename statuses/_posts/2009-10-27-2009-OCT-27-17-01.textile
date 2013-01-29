@@ -1,0 +1,37 @@
+--- 
+id: 790499637_161349240035
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: My Facebook account has been disabled for over 2 days. I log in today and FB says I have no friends. Is there no limit to FB's cruelty?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/161349240035
+- name: Like
+  link: http://www.facebook.com/790499637/posts/161349240035
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2009-10-27T21:01:55+0000
+updated_time: 2009-10-27T21:34:28+0000
+comments: 
+  data: 
+  - id: 790499637_161349240035_6385251
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: FB has been downright awful the past couple of days... be thankful you missed it, although it might still be bahaving badly... and this News/Live Feed toggle is just part of it.
+    created_time: 2009-10-27T21:34:28+0000
+  count: 1
+layout: status
+title: Tuesday, Oct 27, 2009 around 05:01PM
+date: 2009-10-27 17:01:55 -04:00
+
+---
+My Facebook account has been disabled for over 2 days. I log in today and FB says I have no friends. Is there no limit to FB's cruelty?

@@ -1,0 +1,68 @@
+--- 
+id: 790499637_442464109637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I am about to have 4 nights in a row of dining with anesthesiologists in Slovakia. Can anyone help with a plausible excuse?
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/442464109637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/442464109637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14168286971
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-17T15:43:29+0000
+updated_time: 2010-05-17T18:28:02+0000
+comments: 
+  data: 
+  - id: 790499637_442464109637_13449524
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: "Oh man.....that is harsh. "
+    created_time: 2010-05-17T16:04:57+0000
+  - id: 790499637_442464109637_13450197
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Sounds...  exciting??  :-)
+    created_time: 2010-05-17T17:18:53+0000
+  - id: 790499637_442464109637_13450550
+    from: 
+      name: Brenda Gregoline
+      id: "1236717380"
+    message: "Just ask if they can give you something for the pain. "
+    created_time: 2010-05-17T18:05:44+0000
+  - id: 790499637_442464109637_13450553
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Sounds ETHER-ial... wish I could make a witty pun-filled excuse up for you, but it's Monday & that's all I have for you.
+    created_time: 2010-05-17T18:06:07+0000
+  - id: 790499637_442464109637_13450814
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: "ouch! I feel your pain! "
+    created_time: 2010-05-17T18:28:02+0000
+  count: 5
+layout: status
+title: Monday, May 17, 2010 around 11:43AM
+date: 2010-05-17 11:43:29 -04:00
+
+---
+I am about to have 4 nights in a row of dining with anesthesiologists in Slovakia. Can anyone help with a plausible excuse?

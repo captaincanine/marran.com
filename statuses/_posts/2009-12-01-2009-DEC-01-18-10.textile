@@ -1,0 +1,30 @@
+--- 
+id: 790499637_206549286736
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Watch out, World. I'm getting my office organized! (cue Laverne & Shirley theme music...)
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/206549286736
+- name: Like
+  link: http://www.facebook.com/790499637/posts/206549286736
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2009-12-01T23:10:24+0000
+updated_time: 2009-12-01T23:10:24+0000
+comments: 
+  count: 0
+layout: status
+title: Tuesday, Dec  1, 2009 around 06:10PM
+date: 2009-12-01 18:10:24 -05:00
+
+---
+Watch out, World. I'm getting my office organized! (cue Laverne & Shirley theme music...)

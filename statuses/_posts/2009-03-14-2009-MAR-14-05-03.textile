@@ -1,0 +1,34 @@
+--- 
+id: 790499637_61671175839
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: just wrote his first Ruby on Rails app! Yay, jet lag!
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/61671175839
+- name: Like
+  link: http://www.facebook.com/790499637/posts/61671175839
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-03-14T09:03:48+0000
+updated_time: 2009-03-14T09:03:48+0000
+comments: 
+  count: 0
+layout: status
+title: Saturday, Mar 14, 2009 around 05:03AM
+date: 2009-03-14 05:03:48 -04:00
+
+---
+just wrote his first Ruby on Rails app! Yay, jet lag!

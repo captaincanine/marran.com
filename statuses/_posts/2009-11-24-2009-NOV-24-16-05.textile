@@ -1,0 +1,48 @@
+--- 
+id: 790499637_217906784637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Two Sailors on Shore Leave in NYC
+picture: http://photos-g.ak.fbcdn.net/hphotos-ak-prn1/12833_217906409637_7179762_s.jpg
+link: http://www.facebook.com/photo.php?fbid=217906409637&set=a.217906344637.174300.790499637&type=1&relevant_count=1
+name: Mayhem in NYC
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/217906784637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/217906784637
+privacy: 
+  description: Friends of Friends
+  value: FRIENDS_OF_FRIENDS
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
+type: photo
+status_type: added_photos
+object_id: "217906409637"
+application: 
+  name: Exporter for Aperture
+  id: "2278821838"
+created_time: 2009-11-24T21:05:59+0000
+updated_time: 2009-11-24T21:05:59+0000
+likes: 
+  data: 
+  - name: David L Steele
+    id: "1407655463"
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 2
+comments: 
+  count: 0
+layout: status-photo
+title: Tuesday, Nov 24, 2009 around 04:05PM
+images: 
+- thumbnail: /statuses/photo/12833_217906409637_7179762_s.jpg
+  fullsize: /statuses/photo/12833_217906409637_7179762_n.jpg
+date: 2009-11-24 16:05:59 -05:00
+
+---
+Two Sailors on Shore Leave in NYC

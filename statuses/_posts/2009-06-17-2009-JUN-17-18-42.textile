@@ -1,0 +1,66 @@
+--- 
+id: 790499637_129543433344
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "I asked my massage therapist for advice on combating knots in my shoulders. He suggested a device that's a silicone pyramid. It turns out he meant this: http://www.conezone.info/ WARNING: link goes to a tame, but adult-themed site"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/129543433344
+- name: Like
+  link: http://www.facebook.com/790499637/posts/129543433344
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2009-06-17T22:42:59+0000
+updated_time: 2009-06-18T02:06:28+0000
+comments: 
+  data: 
+  - id: 790499637_129543433344_2520288
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: This is just appalling. And on a family-themed site like Friendbook? You should be ashamed.
+    created_time: 2009-06-17T23:01:07+0000
+  - id: 790499637_129543433344_2520822
+    from: 
+      name: Jake Baker-Brown
+      id: "520211262"
+    message: This looks very helpful.  I might try it on my "knots".
+    created_time: 2009-06-17T23:34:59+0000
+  - id: 790499637_129543433344_2520903
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: |-
+      well, I guess this makes it OK...
+      
+      "The Cone Gets The Royal Seal of Approval": 
+      
+      Prince William's girlfriend Kate Middleton was reportedly seen buying The Cone in Ann Summers Soho, London just before Christmas. Apparently bought with a sexy Santa outfit, it looks like Prince William was in for quite a treat over Christmas! Let's hope The Cone got a Royal Seal of approval!
+    created_time: 2009-06-17T23:41:25+0000
+  - id: 790499637_129543433344_2520966
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: "\"Gyrating like a slag in a nightclub\"?"
+    created_time: 2009-06-17T23:45:55+0000
+  - id: 790499637_129543433344_2523076
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Jeff - I guess my massage therapist knows the real me.
+    created_time: 2009-06-18T02:06:28+0000
+  count: 5
+layout: status
+title: Wednesday, Jun 17, 2009 around 06:42PM
+date: 2009-06-17 18:42:59 -04:00
+
+---
+I asked my massage therapist for advice on combating knots in my shoulders. He suggested a device that's a silicone pyramid. It turns out he meant this: http://www.conezone.info/ WARNING: link goes to a tame, but adult-themed site

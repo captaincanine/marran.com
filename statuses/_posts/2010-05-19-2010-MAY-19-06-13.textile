@@ -1,0 +1,62 @@
+--- 
+id: 790499637_443362889637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm in the 1970's Slovakian equivalent of the hotel from The Shining. It must be experienced to be believed.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/443362889637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/443362889637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14286539018
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-19T10:13:23+0000
+updated_time: 2010-05-19T13:25:09+0000
+comments: 
+  data: 
+  - id: 790499637_443362889637_13466878
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: RED RUM! RED RUM!
+    created_time: 2010-05-19T10:30:47+0000
+  - id: 790499637_443362889637_13467520
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Sounds amazing. Good photo op?!
+    created_time: 2010-05-19T12:11:54+0000
+  - id: 790499637_443362889637_13468059
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I took some photos, but photos lack the stark contrast between old world culture and Communist era tackiness, they miss the smell of the sulphuric waters that hit you when you walk into the door, the old people in bathrobes roving the hallways, the terrible muzak (of which a string version of Alphaville's Forever Young was a highlight), the bare tile spa rooms run by surly Slovakians...no, photos don't do it justice.
+    created_time: 2010-05-19T13:20:51+0000
+  - id: 790499637_443362889637_13468083
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Wow. But that narrative did!! Very cool/creepy!!
+    created_time: 2010-05-19T13:25:09+0000
+  count: 4
+layout: status
+title: Wednesday, May 19, 2010 around 06:13AM
+date: 2010-05-19 06:13:23 -04:00
+
+---
+I'm in the 1970's Slovakian equivalent of the hotel from The Shining. It must be experienced to be believed.

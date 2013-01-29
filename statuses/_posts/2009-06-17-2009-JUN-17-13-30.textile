@@ -1,0 +1,42 @@
+--- 
+id: 790499637_107274883728
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Keith & David's Milan Trip - is it as exciting as a home slideshow? You decide.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAm7Vj4K-fEFO9O&w=90&h=90&url=http%3A%2F%2Ffarm4.static.flickr.com%2F3563%2F3619119189_2723422ae6_t.jpg
+link: http://www.marran.com/personal/travel/italy/milan-and-lake-region
+name: www.marran.com
+caption: www.marran.com
+description: Keith & David's Milan Trip - is it as exciting as a home slideshow? You decide.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/107274883728
+- name: Like
+  link: http://www.facebook.com/790499637/posts/107274883728
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-06-17T17:30:27+0000
+updated_time: 2009-06-17T17:30:27+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 1
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Jun 17, 2009 around 01:30PM
+link-info: Every time we go to Italy, I say that we don't go to Italy enough. Why does it only happen once every few years? We had dinner with one of David's colleagues in Milan that tells us she goes to Rome twice a year. ...
+date: 2009-06-17 13:30:27 -04:00
+
+---
+Keith & David's Milan Trip - is it as exciting as a home slideshow? You decide.

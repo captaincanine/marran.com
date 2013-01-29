@@ -1,0 +1,119 @@
+--- 
+id: 790499637_159731074173576
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Does anybody like Christmas music anymore? Can we all collectively agree that it's irritating and ask stores and restuarants to save it for the week before Christmas?
+story: Keith Marran shared Global Secular Humanist Movement's photo.
+picture: http://photos-f.ak.fbcdn.net/hphotos-ak-ash3/550190_546356308723134_898571862_s.jpg
+link: http://www.facebook.com/photo.php?fbid=546356308723134&set=a.168498623175573.46743.153786011313501&type=1
+name: Timeline Photos
+caption: "!!!!"
+description: Does anybody like Christmas music anymore? Can we all collectively agree that it's irritating and ask stores and restuarants to save it for the week before Christmas?
+properties: 
+- name: By
+  text: Global Secular Humanist Movement
+  href: http://www.facebook.com/GSHMP?ref=stream
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/159731074173576
+- name: Like
+  link: http://www.facebook.com/790499637/posts/159731074173576
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: photo
+status_type: shared_story
+object_id: "546356308723134"
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2012-11-02T14:31:00+0000
+updated_time: 2012-11-02T16:24:00+0000
+likes: 
+  data: 
+  - name: Andrea Miklasz
+    id: "629554115"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_159731074173576_453949
+    from: 
+      name: Tim Paul
+      id: "649587941"
+    message: I love Christmas music. The trick is to not let others spoil things for you.
+    created_time: 2012-11-02T14:31:45+0000
+    likes: 1
+  - id: 790499637_159731074173576_453960
+    from: 
+      name: Michael J. Murphy
+      id: "658485083"
+    message: It's all I can do to keep from playing it now. But I'm determined to hold off until after Thanksgiving.
+    created_time: 2012-11-02T14:32:49+0000
+    likes: 1
+  - id: 790499637_159731074173576_453969
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: I'll make sure the DJ at your wedding is fully apprised as you how much you LOOOOOVE Christmas music. Your first dance will be "Grandma Got Run Over by a Reindeer."
+    created_time: 2012-11-02T14:33:59+0000
+  - id: 790499637_159731074173576_453970
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Okay. I guess I'm the only Scrooge around here. Enjoy Paul McCartney singing about his simply wonderful Christmas time.
+    created_time: 2012-11-02T14:34:12+0000
+  - id: 790499637_159731074173576_453974
+    from: 
+      name: Michael J. Murphy
+      id: "658485083"
+    message: Ok, well nobody likes THAT song.
+    created_time: 2012-11-02T14:34:29+0000
+    likes: 1
+  - id: 790499637_159731074173576_453977
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: NO ONE SAID ANYTHING ABOUT PAUL MCCARTNEY.
+    created_time: 2012-11-02T14:34:32+0000
+    likes: 1
+  - id: 790499637_159731074173576_453985
+    from: 
+      name: Tim Paul
+      id: "649587941"
+    message: 8 years of working at Pier 1 import through the 90's has given me the ability to tune out store music. I can shop freely. Second, why go in a store if you can avoid it?
+    created_time: 2012-11-02T14:35:56+0000
+  - id: 790499637_159731074173576_453988
+    from: 
+      name: Jono Jarrett
+      id: "1343303598"
+    message: "He was probably being chased by a band of rapists / looters: He's still below 23rd street."
+    created_time: 2012-11-02T14:36:44+0000
+  - id: 790499637_159731074173576_454060
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: How about Xmas every other year instead?  :P  It's ALWAYS here, it seems.
+    created_time: 2012-11-02T14:47:29+0000
+  - id: 790499637_159731074173576_454411
+    from: 
+      name: Andrea Miklasz
+      id: "629554115"
+    message: It's 11/2. But in Chicago-speak it's Christmas time. http://www.litefm.com/main.html
+    created_time: 2012-11-02T16:24:00+0000
+  count: 10
+layout: status-photo
+title: Friday, Nov  2, 2012 around 10:31AM
+link-info: Commitment to the use of critical reason, factual evidence, and scientific methods of inquiry, rather than faith and mysticism, in seeking solutions to human problems and answers to important human questions.
+images: 
+- thumbnail: /statuses/photo/550190_546356308723134_898571862_s.jpg
+  fullsize: /statuses/photo/550190_546356308723134_898571862_n.jpg
+date: 2012-11-02 10:31:00 -04:00
+
+---
+Does anybody like Christmas music anymore? Can we all collectively agree that it's irritating and ask stores and restuarants to save it for the week before Christmas?

@@ -1,0 +1,37 @@
+--- 
+id: 790499637_78846117678
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAijpXZdcZUnksN&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Flogo.png
+link: http://www.marran.com/personal/blog/family/last-trip-to-ithaca
+name: www.marran.com
+caption: www.marran.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/78846117678
+- name: Like
+  link: http://www.facebook.com/790499637/posts/78846117678
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-05-26T13:41:59+0000
+updated_time: 2009-05-26T13:41:59+0000
+comments: 
+  count: 0
+layout: status-link
+title: Tuesday, May 26, 2009 around 09:41AM
+link-info: "In May of 2009, Mom and Dad flew to New Jersey, spent a night with me, and then we all drove up to Ithaca for a family weekend. It was billed as a \xE2\x80\x9CPre-Mother\xE2\x80\x99s Day\xE2\x80\x9D event - since the timing did not work out for Mom and Dad to visit on actual Mother\xE2\x80\x99s Day. ..."
+date: 2009-05-26 09:41:59 -04:00
+
+---
+Keith Marran shared a link.

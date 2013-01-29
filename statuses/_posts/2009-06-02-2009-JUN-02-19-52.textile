@@ -1,0 +1,31 @@
+--- 
+id: 790499637_110598769637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v43/112/12565253092/app_2_12565253092_8453.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/110598769637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/110598769637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Last.fm
+  namespace: feedcrawl_lastfm
+  id: "12565253092"
+created_time: 2009-06-02T23:52:28+0000
+updated_time: 2009-06-02T23:52:28+0000
+comments: 
+  count: 0
+layout: status
+title: Tuesday, Jun  2, 2009 around 07:52PM
+link-info: Keith loved The Fallen by Franz Ferdinand on Last.fm
+date: 2009-06-02 19:52:28 -04:00
+
+---
+

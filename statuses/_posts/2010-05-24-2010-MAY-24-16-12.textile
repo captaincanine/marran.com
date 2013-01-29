@@ -1,0 +1,74 @@
+--- 
+id: 790499637_445732479637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have seen the LOST finale. It is now safe for me to be on the internet.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/445732479637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/445732479637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14644645196
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-24T20:12:41+0000
+updated_time: 2010-05-24T21:05:40+0000
+comments: 
+  data: 
+  - id: 790499637_445732479637_13510758
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: And what did you think?  (Just curious... I've never watched a single episode but always hear people raving about the show in general.)
+    created_time: 2010-05-24T20:22:22+0000
+  - id: 790499637_445732479637_13510774
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I thought it was a great finale. I could see where some people wouldn't like it, but I found it very moving. That show will rank up at the top of my list of best things I've ever watched.
+    created_time: 2010-05-24T20:24:16+0000
+  - id: 790499637_445732479637_13510819
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: Would you say it "answered all questions"?  (Glad to hear you liked it.  And you're not the first I've heard to rank it that high.)  :]
+    created_time: 2010-05-24T20:29:35+0000
+  - id: 790499637_445732479637_13511014
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Agree, Keith.  I know some people might be disappointed, but I found it remarkably moving.  Love the debate that exists about the final few minutes - that is a great lasting legacy as well.....
+    created_time: 2010-05-24T20:56:02+0000
+  - id: 790499637_445732479637_13511021
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: It did not answer all my questions. It didn't even try, really. But I sort of accepted a while ago that they were not going to wrap everything up about the island. It's all about the characters - and they did essentially wrap up all the characters' lives.
+    created_time: 2010-05-24T20:57:12+0000
+  - id: 790499637_445732479637_13511092
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: My reason for watching would be to wrap up the mysteries of the island, so to speak...  thanks for the replies.  :)
+    created_time: 2010-05-24T21:05:40+0000
+  count: 6
+layout: status
+title: Monday, May 24, 2010 around 04:12PM
+date: 2010-05-24 16:12:41 -04:00
+
+---
+I have seen the LOST finale. It is now safe for me to be on the internet.

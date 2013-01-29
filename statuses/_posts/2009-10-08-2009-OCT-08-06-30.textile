@@ -1,0 +1,52 @@
+--- 
+id: 790499637_84855739948
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Say good bye to Australia. (sniff) Say ni hao to China.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/84855739948
+- name: Like
+  link: http://www.facebook.com/790499637/posts/84855739948
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-10-08T10:30:33+0000
+updated_time: 2009-10-08T18:53:30+0000
+likes: 
+  data: 
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_84855739948_5479306
+    from: 
+      name: Sreedhar Yedavalli
+      id: "1199970155"
+    message: Are you auditioning for Amazing Race or something? Ni hao to you. If you could stop by Li's Barber Shop on Mao Ave. in Beijing. Best shaves on the planet.
+    created_time: 2009-10-08T13:34:17+0000
+  - id: 790499637_84855739948_5490086
+    from: 
+      name: Andrew Perez
+      id: "529289396"
+    message: I thouht it was "knee how".  Learn something new every day. Look forward to seeing you and Dave soon!
+    created_time: 2009-10-08T18:53:30+0000
+  count: 2
+layout: status
+title: Thursday, Oct  8, 2009 around 06:30AM
+date: 2009-10-08 06:30:33 -04:00
+
+---
+Say good bye to Australia. (sniff) Say ni hao to China.

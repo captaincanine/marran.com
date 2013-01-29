@@ -1,0 +1,40 @@
+--- 
+id: 790499637_183560478653
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This doesn't need an introduction, the story is just so good.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBFDDc9c240zFxo&w=90&h=90&url=http%3A%2F%2Fwww.news.com.au%2Fcommon%2Fimagedata%2F0%2C%2C7206102%2C00.jpg
+link: http://www.news.com.au/story/0,27574,26388459-401,00.html
+name: Man discovers Charles Manson is his real dad | World News | News.com.au
+caption: www.news.com.au
+description: This doesn't need an introduction, the story is just so good.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/183560478653
+- name: Like
+  link: http://www.facebook.com/790499637/posts/183560478653
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2009-11-23T20:31:12+0000
+updated_time: 2009-11-23T20:31:12+0000
+comments: 
+  count: 0
+layout: status-link
+title: Monday, Nov 23, 2009 around 03:31PM
+link-info: "A MAN who went in search of his biological father was shocked to learn it was famed serial killer Charles Manson. "
+date: 2009-11-23 15:31:12 -05:00
+
+---
+This doesn't need an introduction, the story is just so good.

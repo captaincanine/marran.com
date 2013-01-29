@@ -1,0 +1,44 @@
+--- 
+id: 790499637_292330284777
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Free Music Day, pt. 2. Today I'm posting the second CD mix I made. Be prepared to squeal in delight.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDRsCatR7wbMswg&w=90&h=90&url=http%3A%2F%2Ffarm5.static.flickr.com%2F4003%2F4268504359_5053006653_t.jpg
+link: http://www.marran.com/personal/blog/music/ive-got-kitsch-my-heart
+name: I've Got Kitsch in My Heart | Keith Marran
+caption: www.marran.com
+description: Free Music Day, pt. 2. Today I'm posting the second CD mix I made. Be prepared to squeal in delight.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/292330284777
+- name: Like
+  link: http://www.facebook.com/790499637/posts/292330284777
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-01-14T19:35:56+0000
+updated_time: 2010-01-15T15:09:14+0000
+comments: 
+  data: 
+  - id: 790499637_292330284777_10040412
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: I still have my cd-copy of this.  Do you think that it is worth anything?  Will you be posting "Got Problems?"
+    created_time: 2010-01-15T15:09:14+0000
+  count: 1
+layout: status-link
+title: Thursday, Jan 14, 2010 around 02:35PM
+link-info: "This was my second attempt at making a CD mix. I really felt like I hit my stride on this one. I borrowed lots of film clips \xE2\x80\x9CBeyond the Valley of the Dolls\xE2\x80\x9D and \xE2\x80\x9CBlood Sucking Freaks\xE2\x80\x9D. ..."
+date: 2010-01-14 14:35:56 -05:00
+
+---
+Free Music Day, pt. 2. Today I'm posting the second CD mix I made. Be prepared to squeal in delight.

@@ -1,0 +1,31 @@
+--- 
+id: 790499637_164649424637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/164649424637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/164649424637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2009-09-06T22:48:33+0000
+updated_time: 2009-09-06T22:48:33+0000
+comments: 
+  count: 0
+layout: status
+title: Sunday, Sep  6, 2009 around 06:48PM
+link-info: "Keith saved 3 bookmarks on DeliciousTyping Proper Pinyin on Mac | Times New Rohan, Antique Restoration Hardware for Home Renovators. Supply Yourself With Quality Restoration Hardware for Period Home Renovation Projects., and Unit Interactive :: Labs :: Unit PNG Fix"
+date: 2009-09-06 18:48:33 -04:00
+
+---
+

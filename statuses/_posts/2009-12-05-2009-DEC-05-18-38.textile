@@ -1,0 +1,85 @@
+--- 
+id: 790499637_192416998219
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I have avoided seeing Streetcar Named Desire in my life, waiting for the perfect production. I just saw it with Cate Blanchett at BAM.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/192416998219
+- name: Like
+  link: http://www.facebook.com/790499637/posts/192416998219
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-12-05T23:38:23+0000
+updated_time: 2009-12-06T16:30:08+0000
+likes: 
+  data: 
+  - name: Melissa Agar
+    id: "530351528"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_192416998219_8062384
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: "How amazing was that?!? I loved it. "
+    created_time: 2009-12-06T00:23:17+0000
+  - id: 790499637_192416998219_8064486
+    from: 
+      name: Melissa Agar
+      id: "530351528"
+    message: The review in the Times was amazing.
+    created_time: 2009-12-06T01:46:22+0000
+  - id: 790499637_192416998219_8064902
+    from: 
+      name: Jamie Querciagrossa
+      id: "1028555899"
+    message: Ohhh, tell me more.  Was it really perfect?  I just read the review that Melissa mentioned.  I want to run and see it (oh and stay at your swanky townhouse, Marran.)
+    created_time: 2009-12-06T02:02:19+0000
+  - id: 790499637_192416998219_8066314
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Yes, it was perfect and amazing. I can't imagine a better Blanche than Cate Blanchett. She was finely tuned to the subtle shifts between charm and her growing hysteria. And paced the descent expertly. My heart really went out to Blanche and I felt a kinship with her - it was far beyond the stereotype of the "Tennessee Williams Faded Belle" character. 
+      
+      The whole ensemble was excellent as well. Stanley in particular.
+    created_time: 2009-12-06T03:07:15+0000
+  - id: 790499637_192416998219_8066318
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: And no one upstaged the script. The story and dialogue was still front and center and was very well served by the production. I became convinced it's amongst the greatest plays ever written. It does such an excellent job of showing you how lascivious, absurd, and sad life is - even in its most mundane moments.
+    created_time: 2009-12-06T03:07:24+0000
+  - id: 790499637_192416998219_8081928
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: The direction was perfect as well.  Agree - just can't imagine a better production of this play.
+    created_time: 2009-12-06T15:44:53+0000
+  - id: 790499637_192416998219_8083275
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: Now you've got me curious... I saw the last production on Broadway and was underwhelmed, not really wanting to go see another production for a while.
+    created_time: 2009-12-06T16:30:08+0000
+  count: 7
+layout: status
+title: Saturday, Dec  5, 2009 around 06:38PM
+date: 2009-12-05 18:38:23 -05:00
+
+---
+I have avoided seeing Streetcar Named Desire in my life, waiting for the perfect production. I just saw it with Cate Blanchett at BAM.

@@ -1,0 +1,48 @@
+--- 
+id: 790499637_263061104255
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The gym was full of guys that could not have gained more than 2 grams of fat, all furiously trying to work off their holiday indulgences.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/263061104255
+- name: Like
+  link: http://www.facebook.com/790499637/posts/263061104255
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-12-29T11:15:24+0000
+updated_time: 2009-12-29T22:19:58+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  - name: Andrew Perez
+    id: "529289396"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_263061104255_9203519
+    from: 
+      name: Robert A. Mayer
+      id: "508770447"
+    message: mike and I gained at least 5lbs each!
+    created_time: 2009-12-29T22:19:58+0000
+  count: 1
+layout: status
+title: Tuesday, Dec 29, 2009 around 06:15AM
+date: 2009-12-29 06:15:24 -05:00
+
+---
+The gym was full of guys that could not have gained more than 2 grams of fat, all furiously trying to work off their holiday indulgences.

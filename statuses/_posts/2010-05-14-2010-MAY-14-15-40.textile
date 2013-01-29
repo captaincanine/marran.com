@@ -1,0 +1,40 @@
+--- 
+id: 790499637_128202487193371
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAgKYLEK145k-1b&w=90&h=90&url=http%3A%2F%2Fthefbomb.org%2Fwp-content%2Fthemes%2Ffbomb%2Fimages%2Ffbomb-footer.png
+link: http://thefbomb.org/2010/05/the-bronte-sisters-action-figures/
+name: The Bronte Sisters Action Figures | fbomb
+caption: thefbomb.org
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/128202487193371
+- name: Like
+  link: http://www.facebook.com/790499637/posts/128202487193371
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Links
+  id: "2309869772"
+created_time: 2010-05-14T19:40:08+0000
+updated_time: 2010-05-14T19:40:08+0000
+comments: 
+  count: 0
+layout: status-link
+title: Friday, May 14, 2010 around 03:40PM
+link-info: The FBomb.org is a blog/community created for teenage girls who care about their rights as women and want to be heard. Young feminists who are just a little bit pissed off and very outspoken are more than welcome here.
+date: 2010-05-14 15:40:08 -04:00
+
+---
+Keith Marran shared a link.

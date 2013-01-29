@@ -1,0 +1,36 @@
+--- 
+id: 790499637_172750161908
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Name That Movie: Six drawings per movie, in sequence, no movie stars. Sadly, I only got 3 in this set."
+link: http://www.drawger.com/paulrogers/?cat_id=437%3B
+name: www.drawger.com
+caption: www.drawger.com
+description: "Name That Movie: Six drawings per movie, in sequence, no movie stars. Sadly, I only got 3 in this set."
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/172750161908
+- name: Like
+  link: http://www.facebook.com/790499637/posts/172750161908
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-11-11T15:54:45+0000
+updated_time: 2009-11-11T15:54:45+0000
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Nov 11, 2009 around 10:54AM
+link-info: I started a series of drawings in my sketchbook, it's a kind of visual quiz of great movies. Each series is a sequence of six drawings of shots from classic films (in the order they appear on screen.) No portraits of movie stars, just iconic images from the film. ...
+date: 2009-11-11 10:54:45 -05:00
+
+---
+Name That Movie: Six drawings per movie, in sequence, no movie stars. Sadly, I only got 3 in this set.

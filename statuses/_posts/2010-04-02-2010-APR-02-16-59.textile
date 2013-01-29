@@ -1,0 +1,59 @@
+--- 
+id: 790499637_114366331911932
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: They were setting up barricades at the Apple Store. I didn't think the iPad was a frenzy-worthy device, but I misjudge our need for frenzy.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/114366331911932
+- name: Like
+  link: http://www.facebook.com/790499637/posts/114366331911932
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-02T20:59:05+0000
+updated_time: 2010-04-02T21:28:56+0000
+comments: 
+  data: 
+  - id: 790499637_114366331911932_277612
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: ANYTHING new from Apple becomes a frenzy-worthy device
+    created_time: 2010-04-02T21:00:43+0000
+  - id: 790499637_114366331911932_277698
+    from: 
+      name: Christopher Pace
+      id: "621544497"
+    message: I heard if you rub it on your wounds they will heal.
+    created_time: 2010-04-02T21:16:27+0000
+  - id: 790499637_114366331911932_277770
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: I'm really hoping that the annual pillow fight happens outside of an apple store. http://www.pillowfightday.com/
+    created_time: 2010-04-02T21:28:18+0000
+  - id: 790499637_114366331911932_277771
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Can't believe I'm not going to be in line for one.....
+    created_time: 2010-04-02T21:28:56+0000
+  count: 4
+layout: status
+title: Friday, Apr  2, 2010 around 04:59PM
+date: 2010-04-02 16:59:05 -04:00
+
+---
+They were setting up barricades at the Apple Store. I didn't think the iPad was a frenzy-worthy device, but I misjudge our need for frenzy.

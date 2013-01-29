@@ -1,0 +1,46 @@
+--- 
+id: 790499637_145181872192228
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=138711277798&v=1&size=z&cksum=fd39763c83bbd7f8ce44bfa1144cae51&src=http%3A%2F%2Fassets0.ordienetworks.com%2Ftmbs%2F4e70cc3b22%2Flarge_7.jpg%3Fd1f210b4
+link: http://www.funnyordie.com/videos/4e70cc3b22/g-a-y-s-guys-against-you-serving
+name: G.A.Y.S. (Guys Against You Serving)
+description: 
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/142/138711277798/app_2_138711277798_255431303.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/145181872192228
+- name: Like
+  link: http://www.facebook.com/790499637/posts/145181872192228
+- name: See more videos
+  link: http://www.funnyordie.com/
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: app_created_story
+application: 
+  name: Funny or Die
+  namespace: funnyordie
+  id: "138711277798"
+created_time: 2010-09-30T18:40:46+0000
+updated_time: 2010-09-30T18:40:46+0000
+likes: 
+  data: 
+  - name: Richard M Carlson Jr
+    id: "1437848272"
+  count: 1
+comments: 
+  count: 0
+layout: status-link
+title: Thursday, Sep 30, 2010 around 02:40PM
+link-info: A new organization tells you exactly why they don't want gays serving in the military.
+date: 2010-09-30 14:40:46 -04:00
+
+---
+

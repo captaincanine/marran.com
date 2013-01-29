@@ -1,0 +1,42 @@
+--- 
+id: 790499637_458530174637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: At one point in my life, I could do about 85 pushups in one set. Today I started the 100 pushups, 100 squats, and 200 crunches routines.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/458530174637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/458530174637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=17017295566
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-06-25T14:20:38+0000
+updated_time: 2010-06-25T14:20:38+0000
+likes: 
+  data: 
+  - name: Joel Muchmore
+    id: "1542470417"
+  count: 1
+comments: 
+  count: 0
+layout: status
+title: Friday, Jun 25, 2010 around 10:20AM
+date: 2010-06-25 10:20:38 -04:00
+
+---
+At one point in my life, I could do about 85 pushups in one set. Today I started the 100 pushups, 100 squats, and 200 crunches routines.

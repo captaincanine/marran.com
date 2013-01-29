@@ -1,0 +1,118 @@
+--- 
+id: 790499637_10151614397959638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm trying to read King's The Stand and it is slow going to say the least. Any words of encouragement to keep me going?
+icon: http://photos-b.ak.fbcdn.net/photos-ak-snc7/v85006/133/115463795461/app_2_115463795461_4008.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151614397959638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151614397959638
+- name: follow @CaptainCanine
+  link: http://twitter.com/CaptainCanine
+privacy: 
+  description: Public
+  value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Selective Tweets
+  namespace: selectivetwitter
+  id: "115463795461"
+created_time: 2013-01-03T00:50:09+0000
+updated_time: 2013-01-03T04:52:04+0000
+comments: 
+  data: 
+  - id: 790499637_10151614397959638_30166673
+    from: 
+      name: Melissa Agar
+      id: "530351528"
+    message: Hang in there. Once all the characters are on the canvas, it picks up.
+    created_time: 2013-01-03T00:51:32+0000
+  - id: 790499637_10151614397959638_30166698
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: LOVED that book. I remember being grabbed right away, though. I was NOT fond of the ending, but really enjoyed the ride.
+    created_time: 2013-01-03T00:53:15+0000
+    likes: 1
+  - id: 790499637_10151614397959638_30166744
+    from: 
+      name: Bob Harrison
+      id: "1346645434"
+    message: I've never read it. But I'm sure you can, Keith! Go for it! Whooooo!
+    created_time: 2013-01-03T00:56:14+0000
+  - id: 790499637_10151614397959638_30166760
+    from: 
+      name: Patrick Yacco
+      id: "507963176"
+    message: I remember promos of the miniseries from the 90s and Crowded House's "Don't Dream It's Over" played throughout the commercials. Just keep that in the back of your mind.
+    created_time: 2013-01-03T00:57:02+0000
+  - id: 790499637_10151614397959638_30166783
+    from: 
+      name: Dave Stringer Hughes
+      id: "800419"
+    message: "\"Don't Dream It's Over\" is actually *in* the miniseries, over a montage that kind of has to be seen to be believed."
+    created_time: 2013-01-03T00:58:22+0000
+  - id: 790499637_10151614397959638_30166789
+    from: 
+      name: Dave Stringer Hughes
+      id: "800419"
+    message: I think it's a pretty solid book. Are you reading the unabridged version?
+    created_time: 2013-01-03T00:58:49+0000
+  - id: 790499637_10151614397959638_30167166
+    from: 
+      name: Sarah Livingston Moore
+      id: "607352676"
+    message: It is a slow read, but well worth it. Some really great characters in that book.
+    created_time: 2013-01-03T01:31:21+0000
+  - id: 790499637_10151614397959638_30167287
+    from: 
+      name: Matthew Carlin
+      id: "608297071"
+    message: I loved it and echo those who said it starts slow, but picks up. There are so many characters to establish, and they are all important. The only thing I didn't like about it, is that he updated it a while after he wrote it and changed the year it's set in, but some of the pop-culture references were clearly from the earlier version (such as what movie was playing  the plague hit); I didn't understand how his editor didn't catch that. But otherwise, it stands out in my mind as one of the better novels I've read.
+    created_time: 2013-01-03T01:38:46+0000
+  - id: 790499637_10151614397959638_30167335
+    from: 
+      name: Matthew Carlin
+      id: "608297071"
+    message: ugh no pun intended.
+    created_time: 2013-01-03T01:42:31+0000
+    likes: 1
+  - id: 790499637_10151614397959638_30167630
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I'm reading the unabridged version. I wondered about the movie reference too. The character went to see one of the Nightmare on Elm Street sequels, which made no sense to me for timing. So I will have lots to read on the flight home from China. I expect I will get into it as we fly over the arctic circle.
+    created_time: 2013-01-03T02:08:07+0000
+  - id: 790499637_10151614397959638_30167641
+    from: 
+      name: Matthew Carlin
+      id: "608297071"
+    message: It only happens a couple of times and glad I'm not the only one who noticed!
+    created_time: 2013-01-03T02:09:02+0000
+  - id: 790499637_10151614397959638_30168588
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: I remember a bit of a lag when initially getting character backstories, but I still ended up liking each one. It has been a while, but that book still tops my list of best multi-character epic. Agree that the ending itself is weak, but the movement and coalescing of each story is staggering. I'll suffer the more than occasional clunker of a line for  story arc this massive with no complaints.
+    created_time: 2013-01-03T03:37:20+0000
+  - id: 790499637_10151614397959638_30169360
+    from: 
+      name: Matthew Carlin
+      id: "608297071"
+    message: I didn't think the ending was that weak. It's better than what they did in the mini-series.
+    created_time: 2013-01-03T04:52:04+0000
+  count: 13
+layout: status
+title: Wednesday, Jan  2, 2013 around 07:50PM
+date: 2013-01-02 19:50:09 -05:00
+
+---
+I'm trying to read King's The Stand and it is slow going to say the least. Any words of encouragement to keep me going?

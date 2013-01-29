@@ -1,0 +1,47 @@
+--- 
+id: 790499637_186333929319
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Just finished an online black Friday frenzy. Bought some much needed jeans and socks for myself.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/186333929319
+- name: Like
+  link: http://www.facebook.com/790499637/posts/186333929319
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-11-27T14:31:42+0000
+updated_time: 2009-11-27T17:07:51+0000
+comments: 
+  data: 
+  - id: 790499637_186333929319_7668465
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: It doesn't count as Black Friday unless you ripped something out of someone's hand or got trampled. Cheater.
+    created_time: 2009-11-27T17:01:58+0000
+  - id: 790499637_186333929319_7668665
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: I like how "jeans and socks" count as a "frenzy"
+    created_time: 2009-11-27T17:07:51+0000
+  count: 2
+layout: status
+title: Friday, Nov 27, 2009 around 09:31AM
+date: 2009-11-27 09:31:42 -05:00
+
+---
+Just finished an online black Friday frenzy. Bought some much needed jeans and socks for myself.

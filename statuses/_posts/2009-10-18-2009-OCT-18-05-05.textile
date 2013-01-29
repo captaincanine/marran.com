@@ -1,0 +1,64 @@
+--- 
+id: 790499637_154867704524
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The best part of not being able to sleep is watching actors humiliate themselves in late-night Extense infomercials.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/154867704524
+- name: Like
+  link: http://www.facebook.com/790499637/posts/154867704524
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-10-18T09:05:24+0000
+updated_time: 2009-10-18T20:01:18+0000
+likes: 
+  data: 
+  - name: Christine Marran
+    id: "1327144819"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_154867704524_6079506
+    from: 
+      name: Mike Prosser
+      id: "687691698"
+    message: Those are not actors... they are happy customers ;) Can't you tell, Marran?
+    created_time: 2009-10-18T09:07:39+0000
+  - id: 790499637_154867704524_6089333
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: I always get a grim pleasure from imagining the actors who auditioned for those parts and DIDN"T make the cut.
+    created_time: 2009-10-18T15:30:06+0000
+  - id: 790499637_154867704524_6092120
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "During this one, I imagined how many takes they had to do and the sorts of direction they were given. They were all so manically happy that you could tell the director made them do it over and over. "
+    created_time: 2009-10-18T16:45:49+0000
+  - id: 790499637_154867704524_6099677
+    from: 
+      name: Kenneth D. Vandehey
+      id: "1080870575"
+    message: Humiliated all the way to the BANK! With a closet full of "SHAMWOW"S"  Miss you Keith - thrilled 2 see you!
+    created_time: 2009-10-18T20:01:18+0000
+  count: 4
+layout: status
+title: Sunday, Oct 18, 2009 around 05:05AM
+date: 2009-10-18 05:05:24 -04:00
+
+---
+The best part of not being able to sleep is watching actors humiliate themselves in late-night Extense infomercials.

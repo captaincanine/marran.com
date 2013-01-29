@@ -1,0 +1,60 @@
+---
+layout: html
+---
+<body class="status">
+
+{% include header.html %}
+
+<div id="middle">
+
+  <div class="container">
+    
+    <div class="row">
+    
+      <div class="span8">
+        <div id="main">
+        
+          <div class="title">{{ page.title }}</div>
+          <div class="meta">
+            <div class="row">
+	            <div class="span8">{% include sharing.html %}</div>
+            </div>
+          </div>
+
+          <div class="content">
+          
+            {{ content }}
+            
+            {% include facebook-comments.html %}
+ 
+          </div>
+  
+          {% include comments.html %}
+
+        </div>
+      </div>
+
+			<div class="span4">
+			  <div id="sidebar">
+
+          {% include search.html %}
+
+          {% include statuses.html %}
+
+          <div id="popular-tags">
+            <div class="header">Popular Tags</div>
+            
+            {{ site.tags | popular_tags }}
+            
+          </div>
+
+        </div>
+			</div>
+
+		</div>		
+	</div>
+</div>
+
+{% include footer.html %}
+
+</body>

@@ -1,0 +1,41 @@
+--- 
+id: 790499637_456263859637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This is some of the best Indian food I've had in NYC.
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=09d836924765d49904e275d2a6491660&src=http%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.7142691%2F-74.0059729%2Fmap.png
+link: http://foursquare.com/venue/263219
+name: vermillion
+caption: Keith just checked-in @ vermillion (New York, NY)
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/456263859637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/456263859637
+- name: Keith on foursquare
+  link: http://foursquare.com/user/-90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: app_created_story
+application: 
+  name: Foursquare
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2010-06-20T00:22:22+0000
+updated_time: 2010-06-20T00:22:22+0000
+comments: 
+  count: 0
+layout: status-link
+title: Saturday, Jun 19, 2010 around 08:22PM
+date: 2010-06-19 20:22:22 -04:00
+
+---
+This is some of the best Indian food I've had in NYC.

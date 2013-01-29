@@ -1,0 +1,77 @@
+--- 
+id: 790499637_229486669637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: David got me a new fisheye lens. Why do animals look cuter through a fisheye lens?
+picture: http://photos-d.ak.fbcdn.net/hphotos-ak-ash3/12833_229486634637_6006025_s.jpg
+link: http://www.facebook.com/photo.php?fbid=229486634637&set=a.229486624637.178410.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/229486669637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/229486669637
+privacy: 
+  description: Public
+  value: EVERYONE
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
+type: photo
+status_type: added_photos
+object_id: "229486634637"
+created_time: 2009-12-08T20:36:14+0000
+updated_time: 2009-12-09T03:49:49+0000
+likes: 
+  data: 
+  - name: Eileen O'Donnell
+    id: "667235678"
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_229486669637_2268373
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: A boy and his toys - cute!
+    created_time: 2009-12-08T20:45:27+0000
+  - id: 790499637_229486669637_2268591
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: "And please note: this does not work with people.  At all."
+    created_time: 2009-12-08T22:02:27+0000
+  - id: 790499637_229486669637_2268732
+    from: 
+      name: Kevin Creedon
+      id: "1256081924"
+    message: Oz has a Ph.D. is cute anyway.
+    created_time: 2009-12-08T22:32:51+0000
+  - id: 790499637_229486669637_2269467
+    from: 
+      name: Andrew Perez
+      id: "529289396"
+    message: |
+      love the picture, what are the specs on the lens?
+
+    created_time: 2009-12-09T01:41:13+0000
+  - id: 790499637_229486669637_2270155
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: It's a 16mm fisheye lens - f2.8. Good for getting those sweeping panorama shots. And cute fuzzy animal shots.
+    created_time: 2009-12-09T03:49:49+0000
+  count: 5
+layout: status-photo
+title: Tuesday, Dec  8, 2009 around 03:36PM
+images: 
+- thumbnail: /statuses/photo/12833_229486634637_6006025_s.jpg
+  fullsize: /statuses/photo/12833_229486634637_6006025_n.jpg
+date: 2009-12-08 15:36:14 -05:00
+
+---
+David got me a new fisheye lens. Why do animals look cuter through a fisheye lens?

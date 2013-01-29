@@ -1,0 +1,52 @@
+--- 
+id: 790499637_120346541312010
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Photo and story of the 27 year old that drunkenly left his iPhone 4G for someone else to sell to the tech tabloids. I hope you can keep your job, buddy!
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAIIqpNOo0gzCL1&w=90&h=90&url=http%3A%2F%2Fseanpercival.s3.amazonaws.com%2Fblog%2Fwp-content%2Fuploads%2Fl_15068af6640e45b4a72ac56d73051f241.jpg
+link: http://www.seanpercival.com/blog/2010/04/20/gray-powell-the-iphone-guy/
+name: Gray Powell, the iPhone Guy - Sean Percival's Blog
+caption: www.seanpercival.com
+description: Photo and story of the 27 year old that drunkenly left his iPhone 4G for someone else to sell to the tech tabloids. I hope you can keep your job, buddy!
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/120346541312010
+- name: Like
+  link: http://www.facebook.com/790499637/posts/120346541312010
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-04-20T01:53:35+0000
+updated_time: 2010-04-20T02:38:35+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_120346541312010_433254
+    from: 
+      name: Uma Nt
+      id: "100000074495843"
+    message: |-
+      uh oh..
+      I too hope he can keep his job. 
+      If not, what a way to end a career at Apple!
+    created_time: 2010-04-20T02:38:35+0000
+  count: 1
+layout: status-link
+title: Monday, Apr 19, 2010 around 09:53PM
+link-info: Gizmodo has just revealed that theunluckychap who lost his iPhone prototype is Gray Powell. Turns out Gray also has a MySpace page in addition to the Facebook page mentioned in the article.
+date: 2010-04-19 21:53:35 -04:00
+
+---
+Photo and story of the 27 year old that drunkenly left his iPhone 4G for someone else to sell to the tech tabloids. I hope you can keep your job, buddy!

@@ -1,0 +1,47 @@
+--- 
+id: 790499637_114785448531829
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Ah...the magic of Portland...
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCnoBjKFCXREQZz&w=90&h=90&url=http%3A%2F%2Fwww.blogcdn.com%2Fwww.walletpop.com%2Fblog%2Fmedia%2F2010%2F03%2Fmick-full.jpg
+link: http://www.walletpop.com/blog/2010/03/30/in-unhappiest-u-s-city-one-man-spreads-joy/?sms_ss=facebook
+name: In unhappiest U.S. city, one man spreads joy
+caption: www.walletpop.com
+description: Ah...the magic of Portland...
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/114785448531829
+- name: Like
+  link: http://www.facebook.com/790499637/posts/114785448531829
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2010-03-31T11:36:22+0000
+updated_time: 2010-03-31T14:00:26+0000
+comments: 
+  data: 
+  - id: 790499637_114785448531829_273194
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Portland NOT the unhappiest city...It's so depressing everyone thinks that....God, I can't take it...AND it's raining...That's it!  I'm going to end it all!...Oh, wait...I GET it! ;-D
+    created_time: 2010-03-31T14:00:26+0000
+  count: 1
+layout: status-link
+title: Wednesday, Mar 31, 2010 around 07:36AM
+link-info: Pizza sign waver brightens lives
+date: 2010-03-31 07:36:22 -04:00
+
+---
+Ah...the magic of Portland...

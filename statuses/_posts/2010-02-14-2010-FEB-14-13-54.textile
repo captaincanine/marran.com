@@ -1,0 +1,65 @@
+--- 
+id: 790499637_340484095796
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: You can't buy happiness, but you can eat it - in the form of homemade donuts.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/340484095796
+- name: Like
+  link: http://www.facebook.com/790499637/posts/340484095796
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-02-14T18:54:30+0000
+updated_time: 2010-02-15T13:55:37+0000
+likes: 
+  data: 
+  - name: Rosemary Feneziani
+    id: "573541002"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  - name: Allison Adams
+    id: "594440081"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_340484095796_11246608
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      I agree with your conclusion, if not your premises.  Perhaps you can't buy love, but I am not entirely sure you can't buy happiness.  Or, as deftly presented by the Simpsons (when Kent Brockman won the lottery).
+      
+      Homer: Well, he may have all that money, but there is one thing he can't buy.
+      
+      Marge: (Annoyed)  What.  What. What can't he buy?
+      
+      Homer (Thinking):  A dinosaur!
+    created_time: 2010-02-14T19:53:47+0000
+  - id: 790499637_340484095796_11272042
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "The other Homer quote I will add is: \"Donuts. Is there anything they can't do?\""
+    created_time: 2010-02-15T13:55:37+0000
+  count: 2
+layout: status
+title: Sunday, Feb 14, 2010 around 01:54PM
+date: 2010-02-14 13:54:30 -05:00
+
+---
+You can't buy happiness, but you can eat it - in the form of homemade donuts.

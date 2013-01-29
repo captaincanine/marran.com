@@ -1,0 +1,41 @@
+--- 
+id: 790499637_117481456816
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Great optical illusion!
+link: http://www.buzzhunt.co.uk/2009/06/22/green-and-blue/
+name: www.buzzhunt.co.uk
+caption: www.buzzhunt.co.uk
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/117481456816
+- name: Like
+  link: http://www.facebook.com/790499637/posts/117481456816
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-06-30T11:01:50+0000
+updated_time: 2009-06-30T15:32:13+0000
+comments: 
+  data: 
+  - id: 790499637_117481456816_2696538
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Yes, THAT is weird.
+    created_time: 2009-06-30T15:32:13+0000
+  count: 1
+layout: status-link
+title: Tuesday, Jun 30, 2009 around 07:01AM
+date: 2009-06-30 07:01:50 -04:00
+
+---
+Great optical illusion!

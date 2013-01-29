@@ -1,0 +1,44 @@
+--- 
+id: 790499637_205626550916
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This is for swing dancers. It will read as total gobble-de-gook to anyone else.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAijpXZdcZUnksN&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Flogo.png
+link: http://www.marran.com/personal/blog/swing/some-hammerlock-swing-dance-moves
+name: A Hammerlock Swing Dance Move with Neat-o Exit | Keith Marran
+caption: www.marran.com
+description: This is for swing dancers. It will read as total gobble-de-gook to anyone else.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/205626550916
+- name: Like
+  link: http://www.facebook.com/790499637/posts/205626550916
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-11-19T23:19:03+0000
+updated_time: 2009-11-21T06:22:10+0000
+comments: 
+  data: 
+  - id: 790499637_205626550916_7612972
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: Very cool... I'd like to see it the next time you're out dancing.  I've been trying to learn to lead a couple of hammerlock moves too, so I'm curious.  :-)
+    created_time: 2009-11-21T06:22:10+0000
+  count: 1
+layout: status-link
+title: Thursday, Nov 19, 2009 around 06:19PM
+link-info: "I\xE2\x80\x99ve been meaning to write down some of the new dance moves I learn in private class so that I don\xE2\x80\x99t forget them. And what better place than a blog for others that might be curious?"
+date: 2009-11-19 18:19:03 -05:00
+
+---
+This is for swing dancers. It will read as total gobble-de-gook to anyone else.

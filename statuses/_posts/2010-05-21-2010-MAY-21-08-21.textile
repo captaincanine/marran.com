@@ -1,0 +1,55 @@
+--- 
+id: 790499637_444295419637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Made it to Vienna. Artery-clogging pastries, here I come!
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/444295419637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/444295419637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14424295251
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-21T12:21:56+0000
+updated_time: 2010-05-21T15:21:16+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_444295419637_13485583
+    from: 
+      name: Beth Roper
+      id: "687251063"
+    message: Jealous!
+    created_time: 2010-05-21T12:43:18+0000
+  - id: 790499637_444295419637_13486381
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Sounds delicious!!  :-)
+    created_time: 2010-05-21T15:21:16+0000
+  count: 2
+layout: status
+title: Friday, May 21, 2010 around 08:21AM
+date: 2010-05-21 08:21:56 -04:00
+
+---
+Made it to Vienna. Artery-clogging pastries, here I come!

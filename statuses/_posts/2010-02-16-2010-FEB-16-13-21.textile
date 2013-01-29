@@ -1,0 +1,36 @@
+--- 
+id: 790499637_349880869637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/349880869637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/349880869637
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2010-02-16T18:21:41+0000
+updated_time: 2010-02-16T18:21:41+0000
+comments: 
+  count: 0
+layout: status
+title: Tuesday, Feb 16, 2010 around 01:21PM
+link-info: Keith saved Contemporary Lighting, Modern Ceiling Fans, and Modern Home Accessories at Lumens.com on Delicious
+date: 2010-02-16 13:21:41 -05:00
+
+---
+

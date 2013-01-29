@@ -1,0 +1,41 @@
+--- 
+id: 790499637_250328848549
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: How dumb do you have to be to be a movie studio executive? http://bit.ly/8zpC9L
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/250328848549
+- name: Like
+  link: http://www.facebook.com/790499637/posts/250328848549
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-01-12T11:08:14+0000
+updated_time: 2010-01-12T11:16:55+0000
+comments: 
+  data: 
+  - id: 790499637_250328848549_9600692
+    from: 
+      name: Mike Prosser
+      id: "687691698"
+    message: I agree, baby. 100%! BUT what Raimi did to the last one, turning it into a musical was unforgivable. Malcovich as Vulture... golden. Stop the broadway routine with superheroes though. There is a time and a place to sing your thoughts and feelings... not in Spiderman movies.
+    created_time: 2010-01-12T11:16:55+0000
+  count: 1
+layout: status
+title: Tuesday, Jan 12, 2010 around 06:08AM
+date: 2010-01-12 06:08:14 -05:00
+
+---
+How dumb do you have to be to be a movie studio executive? http://bit.ly/8zpC9L

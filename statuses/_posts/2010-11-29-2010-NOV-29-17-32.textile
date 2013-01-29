@@ -1,0 +1,48 @@
+--- 
+id: 790499637_179428802068655
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Doodhi Chana Dal
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDCqD2-UpDJpwvy&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Flogo.jpg
+link: http://ping.fm/3gpqZ
+name: Doodhi Chana Dal | Keith Marran
+caption: www.marran.com
+description: Doodhi Chana Dal
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/179428802068655
+- name: Like
+  link: http://www.facebook.com/790499637/posts/179428802068655
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Ping.fm
+  namespace: pingdotfm
+  id: "10732101402"
+created_time: 2010-11-29T22:32:42+0000
+updated_time: 2010-11-30T04:08:22+0000
+comments: 
+  data: 
+  - id: 790499637_179428802068655_2216318
+    from: 
+      name: Uma Nt
+      id: "100000074495843"
+    message: We make this even in the South, Keith - minus the sugar. Gujaratis are known to add sugar/jaggery even to their savory dishes.
+    created_time: 2010-11-30T04:08:22+0000
+  count: 1
+layout: status-link
+title: Monday, Nov 29, 2010 around 05:32PM
+link-info: This is a typical dish from Gujarat and is a staple food for farmers in that region. There are many types of pumpkin, but the ones available in the Indian grocery stores are called "Iauki" or "doodhi." This dish is absolutely delicious eaten plain with chapattis.
+date: 2010-11-29 17:32:42 -05:00
+
+---
+Doodhi Chana Dal

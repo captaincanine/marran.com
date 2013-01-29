@@ -1,0 +1,58 @@
+--- 
+id: 790499637_150657058711
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The writing in Mad Men is so sharp this season. It's like haiku. And Peggy (as always) is my hero.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/150657058711
+- name: Like
+  link: http://www.facebook.com/790499637/posts/150657058711
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-08-26T02:20:03+0000
+updated_time: 2009-08-26T03:00:57+0000
+likes: 
+  data: 
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_150657058711_4316500
+    from: 
+      name: Melissa Agar
+      id: "530351528"
+    message: Oh, I SO love Mad Men!  I have a mad crush on Don Draper (of course).  I love the direction they're taking Peggy.  Mrs. Joan is dressing so much dowdier than Miss Joan.  I miss her swagger.  :(
+    created_time: 2009-08-26T02:22:37+0000
+  - id: 790499637_150657058711_4316992
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: I love that show!
+    created_time: 2009-08-26T02:38:05+0000
+  - id: 790499637_150657058711_4317660
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Have episodes on TiVo - can't wait to catch up with weekend.
+    created_time: 2009-08-26T03:00:57+0000
+  count: 3
+layout: status
+title: Tuesday, Aug 25, 2009 around 10:20PM
+date: 2009-08-25 22:20:03 -04:00
+
+---
+The writing in Mad Men is so sharp this season. It's like haiku. And Peggy (as always) is my hero.

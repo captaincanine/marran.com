@@ -1,0 +1,40 @@
+--- 
+id: 790499637_432202759637
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=5c5dc6b3ad6d1aaa5384865480ad651b&src=http%3A%2F%2Ffoursquare.com%2Fimg%2Fbadge%2Flocal.png
+link: http://foursquare.com/user/-90473/badges/2222081
+name: Local
+caption: Keith just unlocked the Local badge! You've been at the same place 3x in one week!
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/432202759637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/432202759637
+- name: Keith on foursquare
+  link: http://foursquare.com/user/-90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: app_created_story
+application: 
+  name: Foursquare
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2010-04-23T16:01:30+0000
+updated_time: 2010-04-23T16:01:30+0000
+comments: 
+  count: 0
+layout: status-link
+title: Friday, Apr 23, 2010 around 12:01PM
+date: 2010-04-23 12:01:30 -04:00
+
+---
+

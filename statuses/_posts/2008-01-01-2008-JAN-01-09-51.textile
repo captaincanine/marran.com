@@ -1,0 +1,32 @@
+--- 
+id: 790499637_10150252059894638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: " received new Holiday Cards to ring in the New Year!"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=2378983609&v=1&size=f&cksum=4c2db63778ae75dc1869b3153cd24b15&src=http%3A%2F%2Fitem.slide.com%2Fr%2F1%2F207%2Fi%2FrvysAu741D8fqn8EymMXehrqcZKiim6f%2F
+link: http://community.slide.com/fb?et=m_holiday&create=1&app=funpix&se=z0KPWfUrdWbFGUK4BLT0t_4ZqhhbUKe2IV_-mQ9G2D5c_TUDhJjEOtgJr3m_ohMGOy8LY8AVBF6eP7HlhI6CO4xkvWPDozfIDVr4qXNOAkdUNXbXyQxJQC1tMmtvozRy&view=0
+description: " received new Holiday Cards to ring in the New Year!"
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/37/2378983609/app_2_2378983609_306.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150252059894638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150252059894638
+privacy: 
+  value: ""
+type: link
+application: 
+  name: Slide FunSpace
+  id: "2378983609"
+created_time: 2008-01-01T14:51:08+0000
+updated_time: 2008-01-01T14:51:08+0000
+comments: 
+  count: 0
+layout: status-link
+title: Tuesday, Jan  1, 2008 around 09:51AM
+link-info: Wish your friends a Happy New Year. Send them a card today!
+date: 2008-01-01 09:51:08 -05:00
+
+---
+ received new Holiday Cards to ring in the New Year!

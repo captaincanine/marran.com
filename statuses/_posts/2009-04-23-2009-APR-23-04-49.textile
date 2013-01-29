@@ -1,0 +1,43 @@
+--- 
+id: 790499637_95859789637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v43/112/12565253092/app_2_12565253092_8453.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/95859789637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/95859789637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Last.fm
+  namespace: feedcrawl_lastfm
+  id: "12565253092"
+created_time: 2009-04-23T08:49:32+0000
+updated_time: 2009-04-26T21:36:04+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_95859789637_1595980
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: You know, I never listen to White Light/White Heat ... but this song is awesome.
+    created_time: 2009-04-26T21:36:04+0000
+  count: 1
+layout: status
+title: Thursday, Apr 23, 2009 around 04:49AM
+link-info: Keith loved Here She Comes Now by The Velvet Underground on Last.fm
+date: 2009-04-23 04:49:32 -04:00
+
+---
+

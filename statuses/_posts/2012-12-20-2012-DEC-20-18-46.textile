@@ -1,0 +1,119 @@
+--- 
+id: 790499637_10151588784824638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: My apologies to anyone offended by this. In Bhutan, they often paint penises on houses as a wish for fertility (makes sense). However, I have no idea what a "cum bar" is and couldn't stop giggling enough to ask.
+picture: http://photos-a.ak.fbcdn.net/hphotos-ak-ash4/425619_10151588779159638_1029748613_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10151588779159638&set=a.490588709637.298813.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yM/x/og8V99JVf8G.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151588784824638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151588784824638
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: photo
+status_type: added_photos
+object_id: "10151588779159638"
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2012-12-20T23:46:42+0000
+updated_time: 2012-12-21T12:15:16+0000
+shares: 
+  count: 3
+likes: 
+  data: 
+  - name: Justin Winslow
+    id: "1201684433"
+  - name: Stelian Serban
+    id: "1446730396"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  - name: Charlotte Hertander
+    id: "577154539"
+  count: 24
+comments: 
+  data: 
+  - id: 790499637_10151588784824638_10809707
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: I wonder what's on tap?
+    created_time: 2012-12-21T00:00:14+0000
+    likes: 2
+  - id: 790499637_10151588784824638_10809850
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: omg. OMG.
+    created_time: 2012-12-21T00:25:56+0000
+  - id: 790499637_10151588784824638_10809891
+    from: 
+      name: Torrey Cornwell
+      id: "593335901"
+    message: That is awesome!
+    created_time: 2012-12-21T00:34:02+0000
+  - id: 790499637_10151588784824638_10809900
+    from: 
+      name: Torrey Cornwell
+      id: "593335901"
+    message: Can I share this? Please?!
+    created_time: 2012-12-21T00:35:53+0000
+    likes: 1
+  - id: 790499637_10151588784824638_10809909
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Please do share it!
+    created_time: 2012-12-21T00:37:40+0000
+  - id: 790499637_10151588784824638_10810045
+    from: 
+      name: Dave Gonzales
+      id: "1331442386"
+    message: Oh, my!  I just might have to share this as well!  Lol
+    created_time: 2012-12-21T00:58:01+0000
+  - id: 790499637_10151588784824638_10810118
+    from: 
+      name: Michelle Gittelman
+      id: "1066642920"
+    message: Avoid the lattes.
+    created_time: 2012-12-21T01:07:20+0000
+    likes: 2
+  - id: 790499637_10151588784824638_10812305
+    from: 
+      name: Brad Christen
+      id: "1149460967"
+    message: Gorgeous!!  Sharing!
+    created_time: 2012-12-21T08:11:05+0000
+  - id: 790499637_10151588784824638_10812776
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Love it! :-D
+    created_time: 2012-12-21T10:11:36+0000
+  - id: 790499637_10151588784824638_10813389
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Stay AWAY from the cream ale!
+    created_time: 2012-12-21T12:15:16+0000
+    likes: 1
+  count: 10
+layout: status-photo
+title: Thursday, Dec 20, 2012 around 06:46PM
+images: 
+- thumbnail: /statuses/photo/425619_10151588779159638_1029748613_s.jpg
+  fullsize: /statuses/photo/425619_10151588779159638_1029748613_n.jpg
+date: 2012-12-20 18:46:42 -05:00
+
+---
+My apologies to anyone offended by this. In Bhutan, they often paint penises on houses as a wish for fertility (makes sense). However, I have no idea what a "cum bar" is and couldn't stop giggling enough to ask.

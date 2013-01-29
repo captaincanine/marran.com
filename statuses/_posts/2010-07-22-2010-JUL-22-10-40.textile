@@ -1,0 +1,52 @@
+--- 
+id: 790499637_470405519637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Oz is finally on the mend\n\
+  The past week has been a bit of a roller coaster with Oz being so ill. I kept thinking that Oz was making progress, but then he would spend the next two hours crying. I really can\xE2\x80\x99t think of very many things worse than..."
+icon: http://photos-e.ak.fbcdn.net/photos-ak-snc7/v85006/135/48119224995/app_2_48119224995_1442841513.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/470405519637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/470405519637
+- name: View post
+  link: http://captaincanine.tumblr.com/post/845325658/oz-is-finally-on-the-mend
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Tumblr
+  namespace: tumblr-feed
+  id: "48119224995"
+created_time: 2010-07-22T14:40:16+0000
+updated_time: 2010-07-23T19:19:25+0000
+comments: 
+  data: 
+  - id: 790499637_470405519637_14011195
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: I'm SO glad Oz is doing better.
+    created_time: 2010-07-22T15:36:34+0000
+  - id: 790499637_470405519637_14022379
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: "I was just checking your page to see how Oz was doing.  I'm glad he's doing better, nothing worse then your puppy so sick.  "
+    created_time: 2010-07-23T19:19:25+0000
+  count: 2
+layout: status
+title: Thursday, Jul 22, 2010 around 10:40AM
+date: 2010-07-22 10:40:16 -04:00
+
+---
+Oz is finally on the mend
+The past week has been a bit of a roller coaster with Oz being so ill. I kept thinking that Oz was making progress, but then he would spend the next two hours crying. I really can’t think of very many things worse than...

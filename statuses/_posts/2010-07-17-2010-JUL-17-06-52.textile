@@ -1,0 +1,72 @@
+--- 
+id: 790499637_468063564637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "I'm completely out of touch with pop culture. Case in point: Justin Bieber. I don't get the obsession. Not in the slightest."
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/468063564637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/468063564637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=18758781094
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-07-17T10:52:40+0000
+updated_time: 2010-07-17T20:18:12+0000
+comments: 
+  data: 
+  - id: 790499637_468063564637_13965095
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: It's like Shaun Cassidy. Didn't you have a mindblowing crush on Shaun Cassidy like everybody else? I did. I guess I just planted myself in the out of touch category with you though. Oh well. The more the merrier!
+    created_time: 2010-07-17T11:03:45+0000
+  - id: 790499637_468063564637_13965124
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I was all ready to defend Shaun Cassidy. Then I did an image search and...um yeah. He was the 70's Justin Bieber: http://nothingfancy1.files.wordpress.com/2009/02/shaun-cassidy-1.jpg. I guess we can tell all the Justin Bieber fans that one day you will look back at your obsession and feel slightly embarrassed."
+    created_time: 2010-07-17T11:12:11+0000
+    likes: 1
+  - id: 790499637_468063564637_13965996
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: That is because you are not a 12 year old girl.
+    created_time: 2010-07-17T14:17:21+0000
+  - id: 790499637_468063564637_13967797
+    from: 
+      name: Jake Baker-Brown
+      id: "520211262"
+    message: |-
+      http://www.bustedtees.com/cellphonespagersandbiebers
+      
+      ;-)
+    created_time: 2010-07-17T20:08:28+0000
+  - id: 790499637_468063564637_13967850
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: I am sick of him and I barely see/hear him.
+    created_time: 2010-07-17T20:18:12+0000
+  count: 5
+layout: status
+title: Saturday, Jul 17, 2010 around 06:52AM
+date: 2010-07-17 06:52:40 -04:00
+
+---
+I'm completely out of touch with pop culture. Case in point: Justin Bieber. I don't get the obsession. Not in the slightest.

@@ -1,0 +1,63 @@
+--- 
+id: 790499637_64718884637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The cover I made for David's disco birthday mix.
+picture: http://photos-h.ak.fbcdn.net/hphotos-ak-snc7/2153_64718874637_9884_s.jpg
+link: http://www.facebook.com/photo.php?fbid=64718874637&set=a.64718809637.90991.790499637&type=1&relevant_count=1
+name: Friends & Family
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/64718884637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/64718884637
+privacy: 
+  description: Friends of Friends
+  value: FRIENDS_OF_FRIENDS
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
+type: photo
+status_type: added_photos
+object_id: "64718874637"
+created_time: 2009-02-11T12:50:09+0000
+updated_time: 2009-02-21T18:54:26+0000
+comments: 
+  data: 
+  - id: 790499637_64718884637_1060286
+    from: 
+      name: David Reich
+      id: "1641745987"
+    message: And how am I supposed to resist untagging this?
+    created_time: 2009-02-12T00:04:48+0000
+  - id: 790499637_64718884637_1060642
+    from: 
+      name: Evan Kent
+      id: "1362251279"
+    message: Sweet!
+    created_time: 2009-02-12T02:03:39+0000
+  - id: 790499637_64718884637_1061158
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: Disco! Disco Duck!  Heh heh heh. Disco! Disco Duck!
+    created_time: 2009-02-12T04:19:31+0000
+  - id: 790499637_64718884637_1088231
+    from: 
+      name: Debbie Everett
+      id: "1125730062"
+    message: No this makes me laugh and I needed a good laugh!
+    created_time: 2009-02-21T18:54:26+0000
+  count: 4
+layout: status-photo
+title: Wednesday, Feb 11, 2009 around 07:50AM
+images: 
+- thumbnail: /statuses/photo/2153_64718874637_9884_s.jpg
+  fullsize: /statuses/photo/2153_64718874637_9884_n.jpg
+date: 2009-02-11 07:50:09 -05:00
+
+---
+The cover I made for David's disco birthday mix.

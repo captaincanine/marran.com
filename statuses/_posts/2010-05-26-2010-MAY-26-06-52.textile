@@ -1,0 +1,56 @@
+--- 
+id: 790499637_446458294637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Woke up with an immovable kink in my neck, one dog throwing up, and another eating plants. At 7am, there's lots of time to improve the day.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/446458294637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/446458294637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14755391795
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-26T10:52:40+0000
+updated_time: 2010-05-26T15:27:51+0000
+comments: 
+  data: 
+  - id: 790499637_446458294637_13525443
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Yikes!  Hope things get better!!
+    created_time: 2010-05-26T12:34:25+0000
+  - id: 790499637_446458294637_13525877
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: ":-("
+    created_time: 2010-05-26T13:41:29+0000
+  - id: 790499637_446458294637_13526580
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: No wonder I was getting emails from you at 4:30 am... Yikes.
+    created_time: 2010-05-26T15:27:51+0000
+  count: 3
+layout: status
+title: Wednesday, May 26, 2010 around 06:52AM
+date: 2010-05-26 06:52:40 -04:00
+
+---
+Woke up with an immovable kink in my neck, one dog throwing up, and another eating plants. At 7am, there's lots of time to improve the day.

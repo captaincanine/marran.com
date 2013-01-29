@@ -1,0 +1,34 @@
+--- 
+id: 790499637_119100723189
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "District 9 is a great movie. But be warned: it's not light fare. Think Smart Sci-Fi mixed with Horrors of Apartheid."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/119100723189
+- name: Like
+  link: http://www.facebook.com/790499637/posts/119100723189
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-08-15T15:12:49+0000
+updated_time: 2009-08-15T15:12:49+0000
+comments: 
+  count: 0
+layout: status
+title: Saturday, Aug 15, 2009 around 11:12AM
+date: 2009-08-15 11:12:49 -04:00
+
+---
+District 9 is a great movie. But be warned: it's not light fare. Think Smart Sci-Fi mixed with Horrors of Apartheid.

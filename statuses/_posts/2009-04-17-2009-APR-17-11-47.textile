@@ -1,0 +1,46 @@
+--- 
+id: 790499637_69673953338
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAijpXZdcZUnksN&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Flogo.png
+link: http://www.marran.com/personal/blog/self-improvement/anti-advice
+name: www.marran.com
+caption: www.marran.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/69673953338
+- name: Like
+  link: http://www.facebook.com/790499637/posts/69673953338
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-04-17T15:47:24+0000
+updated_time: 2009-04-17T15:47:24+0000
+likes: 
+  data: 
+  - name: Joel Muchmore
+    id: "1542470417"
+  - name: Thomas Sproat
+    id: "573477249"
+  - name: Ian Geoghegan
+    id: "502447480"
+  count: 3
+comments: 
+  count: 0
+layout: status-link
+title: Friday, Apr 17, 2009 around 11:47AM
+link-info: "Tell me if this sounds familiar. A close friend or relative is complaining about an obstacle that they have in life: problems at work, spousal frustrations, backstabbing friends, etc. You listen attentively and politely. ..."
+date: 2009-04-17 11:47:24 -04:00
+
+---
+Keith Marran shared a link.

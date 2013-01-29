@@ -1,0 +1,50 @@
+--- 
+id: 790499637_125942574135891
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: My favorite new word is "bathetic"
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/125942574135891
+- name: Like
+  link: http://www.facebook.com/790499637/posts/125942574135891
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2010-12-14T20:06:36+0000
+updated_time: 2010-12-14T22:16:28+0000
+comments: 
+  data: 
+  - id: 790499637_125942574135891_691031
+    from: 
+      name: Leslie Gardner
+      id: "667633377"
+    message: Can you use it in a sentence?
+    created_time: 2010-12-14T20:40:51+0000
+  - id: 790499637_125942574135891_691445
+    from: 
+      name: Beth Roper
+      id: "687251063"
+    message: as long as it is not "bethetic"...Wait, I kind of like that, even though it is condescending
+    created_time: 2010-12-14T21:42:39+0000
+  - id: 790499637_125942574135891_691585
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "It's based on the word \"bathos\" - which is emotion taken to the point of being laughable or unintentionally humorous. So bathetic is the adjective form. Sentence: \"I felt bad that the drag queen's wig fell off during the performance, but seeing her sobbing about it backstage is bathetic.\""
+    created_time: 2010-12-14T22:16:28+0000
+    likes: 1
+  count: 3
+layout: status
+title: Tuesday, Dec 14, 2010 around 03:06PM
+date: 2010-12-14 15:06:36 -05:00
+
+---
+My favorite new word is "bathetic"

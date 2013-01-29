@@ -1,0 +1,34 @@
+--- 
+id: 790499637_103680499368
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I took the Marvel superhero quiz and it gave me Spider-Man. Close, but not really. The X-Men quiz was dead-on, though, as long as you're talking about the Beast from the 70's and 80's - who was always the smartest, funniest, and coolest guy in the room.
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=63251413317&v=1&size=z&cksum=79c7cb7d0f02a55ceb021de4f5a17345&src=http%3A%2F%2Fs3.amazonaws.com%2Fquizmonster_production%2Ficons%2F931676%2FX-Men_pic_Good.jpg
+link: http://apps.facebook.com/whichofthexmenareyou/quiz/questions?quiz_metric%5Bactivated_at%5D=1242511463&quiz_metric%5Bclicked_attribute%5D=feeds_clicked
+description: I took the Marvel superhero quiz and it gave me Spider-Man. Close, but not really. The X-Men quiz was dead-on, though, as long as you're talking about the Beast from the 70's and 80's - who was always the smartest, funniest, and coolest guy in the room.
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v43/225/63251413317/app_2_63251413317_9807.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/103680499368
+- name: Like
+  link: http://www.facebook.com/790499637/posts/103680499368
+privacy: 
+  value: ""
+type: link
+status_type: app_created_story
+application: 
+  name: Which of the X men are you?
+  namespace: whichofthexmenareyou
+  id: "63251413317"
+created_time: 2009-05-17T16:19:24+0000
+updated_time: 2009-05-17T16:19:24+0000
+comments: 
+  count: 0
+layout: status-link
+title: Sunday, May 17, 2009 around 12:19PM
+link-info: Keith completed the quiz "Which of the X men are you?" with the result Beast.Obviously the intellectual superior of those around you, you suffer through their foolish pranks as they attempt to maintain something called 'cool'.  Your vermilitude is astounding as you combombulate the serrondipidus paradigm of your existence, while fools look on.  Course it's easy to be the smartest when you can't get a date.  Shame you're blue and furry really..
+date: 2009-05-17 12:19:24 -04:00
+
+---
+I took the Marvel superhero quiz and it gave me Spider-Man. Close, but not really. The X-Men quiz was dead-on, though, as long as you're talking about the Beast from the 70's and 80's - who was always the smartest, funniest, and coolest guy in the room.

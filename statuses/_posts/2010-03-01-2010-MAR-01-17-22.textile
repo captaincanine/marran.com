@@ -1,0 +1,49 @@
+--- 
+id: 790499637_375326841958
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: My mental acuity didn't arrive until 5pm today and coincided with a refresher course in Adam Ant. I am a bafflement to myself sometimes.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/375326841958
+- name: Like
+  link: http://www.facebook.com/790499637/posts/375326841958
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-03-01T22:22:16+0000
+updated_time: 2010-03-02T00:14:26+0000
+comments: 
+  data: 
+  - id: 790499637_375326841958_12199352
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Oddly enough, I have "goody two shoes" stuck in my head as I make dinner!
+    created_time: 2010-03-01T22:42:45+0000
+  - id: 790499637_375326841958_12203162
+    from: 
+      name: Jake Baker-Brown
+      id: "520211262"
+    message: "I just heard \"Strip\" yesterday for the first time in years.  Classic.\n\n\
+      Reminds me of the time I won tickets from KMJK to AA's concert in Portland, circa '83 or '84: of course my parents wouldn't let me go, so I had to call back and get the prize changed: the cassette of the Footloose soundtrack.\n\n\
+      :P"
+    created_time: 2010-03-02T00:14:26+0000
+  count: 2
+layout: status
+title: Monday, Mar  1, 2010 around 05:22PM
+date: 2010-03-01 17:22:16 -05:00
+
+---
+My mental acuity didn't arrive until 5pm today and coincided with a refresher course in Adam Ant. I am a bafflement to myself sometimes.

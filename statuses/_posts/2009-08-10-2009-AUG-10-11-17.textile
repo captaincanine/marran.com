@@ -1,0 +1,28 @@
+--- 
+id: 790499637_142115869637
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran was tagged in John F. Duckett's album Events - Canoeing on the Delaware 2009.
+picture: http://photos-e.ak.fbcdn.net/hphotos-ak-snc6/5411_236233200649_8341423_s.jpg
+link: http://www.facebook.com/photo.php?fbid=236233200649&set=at.236228595649.298804.567340649.790499637&type=1&relevant_count=10
+caption: 10 new photos
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+privacy: 
+  value: ""
+type: photo
+status_type: tagged_in_photo
+object_id: "236233200649"
+created_time: 2009-08-10T15:17:11+0000
+updated_time: 2009-08-10T15:17:11+0000
+comments: 
+  count: 0
+layout: status-photo
+title: Monday, Aug 10, 2009 around 11:17AM
+images: 
+- thumbnail: /statuses/photo/5411_236233200649_8341423_s.jpg
+  fullsize: /statuses/photo/5411_236233200649_8341423_n.jpg
+date: 2009-08-10 11:17:11 -04:00
+
+---
+Keith Marran was tagged in John F. Duckett's album Events - Canoeing on the Delaware 2009.

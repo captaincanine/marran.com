@@ -1,0 +1,49 @@
+--- 
+id: 790499637_297430211740
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQBZ9t4H8DJ9CdE4&w=90&h=90&url=http%3A%2F%2Ffarm3.static.flickr.com%2F2488%2F4345808101_2440d65074_t.jpg
+link: http://www.marran.com/personal/house/kitchen/quince-branches
+name: Quince Branches | Keith Marran
+caption: www.marran.com
+description: Keith Marran shared a link.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/297430211740
+- name: Like
+  link: http://www.facebook.com/790499637/posts/297430211740
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-02-10T17:44:15+0000
+updated_time: 2010-02-10T18:05:59+0000
+likes: 
+  data: 
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_297430211740_10905032
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Keith, they're gorgeous. We have a flowering quince upstate (not the quince tree with fruit, more of a giant bush)... the flowers are a deeper pink. I'll bring you some in April.
+    created_time: 2010-02-10T18:05:59+0000
+  count: 1
+layout: status-link
+title: Wednesday, Feb 10, 2010 around 12:44PM
+link-info: For David's 50th, our good friends Maria & Michael sent us some quince branches. I had never heard of keeping quince branches as a cut flower, but they have turned out to be beautiful.
+date: 2010-02-10 12:44:15 -05:00
+
+---
+Keith Marran shared a link.

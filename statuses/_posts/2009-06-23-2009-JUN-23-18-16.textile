@@ -1,0 +1,31 @@
+--- 
+id: 790499637_119346829637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/119346829637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/119346829637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2009-06-23T22:16:56+0000
+updated_time: 2009-06-23T22:16:56+0000
+comments: 
+  count: 0
+layout: status
+title: Tuesday, Jun 23, 2009 around 06:16PM
+link-info: "Keith saved 5 bookmarks on Deliciousbedspreads, Artesanos Mexican Imports Mexican Lighting, Wrought iron lighting-Wrought iron chandelier-Mexican lighting-Hand Forged Iron Lighting, Mexican Wall Sconces and Chandeliers: Casa Talavera, and Wrought iron chandelier-Mexican lighting-Wrought iron lighting"
+date: 2009-06-23 18:16:56 -04:00
+
+---
+

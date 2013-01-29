@@ -1,0 +1,71 @@
+--- 
+id: 790499637_63139836947
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: is writing you from the Serengeti forests.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/63139836947
+- name: Like
+  link: http://www.facebook.com/790499637/posts/63139836947
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-02-23T13:24:19+0000
+updated_time: 2009-02-24T00:48:05+0000
+comments: 
+  data: 
+  - id: 790499637_63139836947_862317
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Keith... Hope you guys are having an amazing time! Miss you...
+    created_time: 2009-02-23T14:06:31+0000
+  - id: 790499637_63139836947_862385
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: How cool!  Can't wait to see all the pics you post!  What an adventure!
+    created_time: 2009-02-23T14:16:44+0000
+  - id: 790499637_63139836947_862660
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Wow - now THAT is a status update.  Too cool....
+    created_time: 2009-02-23T15:02:57+0000
+  - id: 790499637_63139836947_863309
+    from: 
+      name: Kim Sampson Sloan
+      id: "1157321067"
+    message: Can't wait for the pictures!
+    created_time: 2009-02-23T16:35:26+0000
+  - id: 790499637_63139836947_863934
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: Bwanakeith!
+    created_time: 2009-02-23T17:51:26+0000
+  - id: 790499637_63139836947_867562
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: Roar!
+    created_time: 2009-02-24T00:48:05+0000
+  count: 6
+layout: status
+title: Monday, Feb 23, 2009 around 08:24AM
+date: 2009-02-23 08:24:19 -05:00
+
+---
+is writing you from the Serengeti forests.

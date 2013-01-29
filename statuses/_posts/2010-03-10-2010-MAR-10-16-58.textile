@@ -1,0 +1,52 @@
+--- 
+id: 790499637_10150143691280010
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Just made the Artichoke-Lemon Hummus recipe from Cook's Illustrated. Deliciousness in 10 minutes. It's a great recipe. http://bit.ly/aM8Vn9
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10150143691280010
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10150143691280010
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-03-10T21:58:01+0000
+updated_time: 2010-03-14T23:45:29+0000
+likes: 
+  data: 
+  - name: Gretchen Berkebile
+    id: "1454349544"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  - name: Allison Adams
+    id: "594440081"
+  - name: Renee Kent
+    id: "531319519"
+  count: 4
+comments: 
+  data: 
+  - id: 790499637_10150143691280010_13666631
+    from: 
+      name: Gretchen Berkebile
+      id: "1454349544"
+    message: "Thanks for sharing this. I just made a batch: 'tis lovely!"
+    created_time: 2010-03-14T23:45:29+0000
+  count: 1
+layout: status
+title: Wednesday, Mar 10, 2010 around 04:58PM
+date: 2010-03-10 16:58:01 -05:00
+
+---
+Just made the Artichoke-Lemon Hummus recipe from Cook's Illustrated. Deliciousness in 10 minutes. It's a great recipe. http://bit.ly/aM8Vn9

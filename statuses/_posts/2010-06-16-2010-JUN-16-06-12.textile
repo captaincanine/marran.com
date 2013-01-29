@@ -1,0 +1,44 @@
+--- 
+id: 790499637_454887129637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Yay! My favorite video game finally has a sequel. And it has the same passive-aggressive villain. http://bit.ly/cUf8MW
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/454887129637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/454887129637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=16295936913
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-06-16T10:12:44+0000
+updated_time: 2010-06-16T12:50:58+0000
+comments: 
+  data: 
+  - id: 790499637_454887129637_13703506
+    from: 
+      name: Brian Begy
+      id: "658570916"
+    message: Its hard to overstate my satisfaction.
+    created_time: 2010-06-16T12:50:58+0000
+  count: 1
+layout: status
+title: Wednesday, Jun 16, 2010 around 06:12AM
+date: 2010-06-16 06:12:44 -04:00
+
+---
+Yay! My favorite video game finally has a sequel. And it has the same passive-aggressive villain. http://bit.ly/cUf8MW

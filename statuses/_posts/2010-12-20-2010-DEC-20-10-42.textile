@@ -1,0 +1,60 @@
+--- 
+id: 790499637_150336135015781
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Our 10am flight to London was cancelled, so David called and got us on a 7am flight instead. Since we can't get to Rome through London, we are making the obvious route of NYC to Miami to The Dominican Republic to Madrid to Rome. Some how we will actually arrive in Rome sooner than our original flight. And we are business for the overnight flight, so I'm not complaining.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/150336135015781
+- name: Like
+  link: http://www.facebook.com/790499637/posts/150336135015781
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Friendly
+  namespace: oecoway_friendly
+  id: "146563558702544"
+created_time: 2010-12-20T15:42:47+0000
+updated_time: 2010-12-26T06:42:29+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_150336135015781_1483057
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Wow! That's some journey!! Hope all goes well with that many changes... Enjoy Rome! :-)
+    created_time: 2010-12-20T18:24:34+0000
+  - id: 790499637_150336135015781_1522566
+    from: 
+      name: Sara Holoubek
+      id: "659585353"
+    message: Any chance the blizzard will force you to retrace your steps? Get thee on a flight to Madrid > DR > Miami.
+    created_time: 2010-12-26T06:22:46+0000
+  - id: 790499637_150336135015781_1522606
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I hope not. Being stranded in London for a day or two would be preferable to that series of flights.
+    created_time: 2010-12-26T06:42:29+0000
+  count: 3
+layout: status
+title: Monday, Dec 20, 2010 around 10:42AM
+date: 2010-12-20 10:42:47 -05:00
+
+---
+Our 10am flight to London was cancelled, so David called and got us on a 7am flight instead. Since we can't get to Rome through London, we are making the obvious route of NYC to Miami to The Dominican Republic to Madrid to Rome. Some how we will actually arrive in Rome sooner than our original flight. And we are business for the overnight flight, so I'm not complaining.

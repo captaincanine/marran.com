@@ -1,0 +1,31 @@
+--- 
+id: 790499637_98546974637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v43/112/12565253092/app_2_12565253092_8453.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/98546974637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/98546974637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Last.fm
+  namespace: feedcrawl_lastfm
+  id: "12565253092"
+created_time: 2009-05-01T00:02:47+0000
+updated_time: 2009-05-01T00:02:47+0000
+comments: 
+  count: 0
+layout: status
+title: Thursday, Apr 30, 2009 around 08:02PM
+link-info: Keith loved Diamond Meadows by T. Rex on Last.fm
+date: 2009-04-30 20:02:47 -04:00
+
+---
+

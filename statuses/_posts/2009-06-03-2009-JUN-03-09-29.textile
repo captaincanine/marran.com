@@ -1,0 +1,34 @@
+--- 
+id: 790499637_107331487564
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "\"Drag Me To Hell\" shatters Christian beliefs of an afterlife better than any atheist. It also targets reckless bank lending."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/107331487564
+- name: Like
+  link: http://www.facebook.com/790499637/posts/107331487564
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-06-03T13:29:19+0000
+updated_time: 2009-06-03T13:29:19+0000
+comments: 
+  count: 0
+layout: status
+title: Wednesday, Jun  3, 2009 around 09:29AM
+date: 2009-06-03 09:29:19 -04:00
+
+---
+"Drag Me To Hell" shatters Christian beliefs of an afterlife better than any atheist. It also targets reckless bank lending.

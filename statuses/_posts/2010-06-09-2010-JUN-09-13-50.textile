@@ -1,0 +1,154 @@
+--- 
+id: 790499637_452250889637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I had full intentions of getting just a kilt. I walked out having ordered a hand-stitched kilt, jacket, and waistcoat, plus accessories.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/452250889637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/452250889637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=15792211817
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-06-09T17:50:51+0000
+updated_time: 2010-06-11T17:43:11+0000
+comments: 
+  data: 
+  - id: 790499637_452250889637_13646103
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Oh, I'm glad - you've got to have the whole thing if you're going to do the kilt - all or nothing mate!!  :-)
+    created_time: 2010-06-09T17:52:08+0000
+  - id: 790499637_452250889637_13646128
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: <insert shock here>......not.  Enjoy! I want photos!!
+    created_time: 2010-06-09T17:56:08+0000
+  - id: 790499637_452250889637_13646150
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Well, it won't be done until late August. But I'm pretty excited. I'll be able to wear the kilt casually around town or with the whole suit. I got the official NYC tartan.
+      
+      Here's a link to the store I visited: http://www.21stcenturykilts.com/
+      
+      He's done kilts for rock stars, fashion designers, all sorts of people. Vin Diesel wore one of his kilts to an awards ceremony.
+    created_time: 2010-06-09T17:59:15+0000
+  - id: 790499637_452250889637_13646157
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Cool!  Can't wait to see photos once you're all kitted out in August then!  :-)
+    created_time: 2010-06-09T18:00:19+0000
+  - id: 790499637_452250889637_13646245
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: Accessories!!!
+    created_time: 2010-06-09T18:10:45+0000
+  - id: 790499637_452250889637_13646308
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: I feel that I should comment... but I'm at a loss.
+    created_time: 2010-06-09T18:19:54+0000
+  - id: 790499637_452250889637_13646399
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: Admittedly I'm sort of at a loss too but I'm sure you will be stunning!
+    created_time: 2010-06-09T18:31:35+0000
+  - id: 790499637_452250889637_13646420
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: Why am I picturing Marilyn Monroe in "The 7 Year Itch"?
+    created_time: 2010-06-09T18:34:03+0000
+  - id: 790499637_452250889637_13646453
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Maybe because Keith's legs are so damn shapely. And he spends a lot of time standing over steam grates. Or at least he will in his kilt, trying to keep warm.
+    created_time: 2010-06-09T18:38:27+0000
+  - id: 790499637_452250889637_13646463
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: Keith, is this just an(other) excuse to go commando?
+    created_time: 2010-06-09T18:40:26+0000
+  - id: 790499637_452250889637_13656070
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Accessories for a kilt, eh?  So sporrin, tam'o'shanter and sock...flashers are they called that go on the stocking garters?
+    created_time: 2010-06-10T17:41:57+0000
+  - id: 790499637_452250889637_13658379
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: "Yes, the most important accessory will be the knee highs.  "
+    created_time: 2010-06-10T22:41:23+0000
+  - id: 790499637_452250889637_13661618
+    from: 
+      name: Chester Alexis LaRue
+      id: "1633901460"
+    message: And what, prithee,is the tartan.....and now will it be the Laird  MacDuff Marrran of Loch Ness? :)
+    created_time: 2010-06-11T06:28:07+0000
+  - id: 790499637_452250889637_13661963
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "The tailor is the son of one of the long-time kilt shops in the city. He started his own store about a year ago when he wanted to do more hip and modern kilts. He designs for fashion designers and celebrities. It's not your typical kilt shop.\n\n\
+      I had no idea where to start when I walked in. We spent about an hour picking out fabrics and things.\n\n\
+      There's an official NYC tartan, so I went with that. The accessories include a super cool shoulder holster for carrying cell phone, id and money; a bright orange airplane-buckle belt to use in place of a sporran (no fuzzy-animal-pelt sporrans for me); and instead of a dagger for the kilt pin, I'm getting a lightning bolt. He's picking out socks to match for me. The flashes will match the kilt. The jacket and waistcoat are made out of a different fabric that complements the kilt.\n\n\
+      Once I saw how insanely comfortable kilts are, I wanted to switch from cargo shorts to kilts for my standard summer dress. Since everyone outside of Scotland thinks you have to be Scottish to wear a kilt, David and I have invented My Scottish Grandmother - Claire MacGregor.  "
+    created_time: 2010-06-11T08:00:26+0000
+  - id: 790499637_452250889637_13663535
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: I cannot wait for pix....sounds too cool!
+    created_time: 2010-06-11T14:08:32+0000
+  - id: 790499637_452250889637_13663867
+    from: 
+      name: Jeff Bond
+      id: "1108401510"
+    message: Can't wait to see it. Sounds perfect for what is sure to be a very hot summer.
+    created_time: 2010-06-11T15:14:33+0000
+  - id: 790499637_452250889637_13663941
+    from: 
+      name: Chester Alexis LaRue
+      id: "1633901460"
+    message: So help me if you move on to bagpipes...you could singlehandedly rid the city streets of rats and small children....
+    created_time: 2010-06-11T15:31:05+0000
+  - id: 790499637_452250889637_13664761
+    from: 
+      name: Chester Alexis LaRue
+      id: "1633901460"
+    message: "And then the next time you baked you'd be The Pied Piper...or at least a doppelg\xC3\xA4nger "
+    created_time: 2010-06-11T17:43:11+0000
+  count: 18
+layout: status
+title: Wednesday, Jun  9, 2010 around 01:50PM
+date: 2010-06-09 13:50:51 -04:00
+
+---
+I had full intentions of getting just a kilt. I walked out having ordered a hand-stitched kilt, jacket, and waistcoat, plus accessories.

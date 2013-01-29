@@ -1,0 +1,41 @@
+--- 
+id: 790499637_107532399637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This could be a 70's album cover - it's so precious. Lorenz seems to be the only one that is appropriately disturbed.
+picture: http://photos-d.ak.fbcdn.net/hphotos-ak-snc7/4449_107532004637_2405423_s.jpg
+link: http://www.facebook.com/photo.php?fbid=107532004637&set=a.107531944637.117147.790499637&type=1&relevant_count=1
+name: Trip to Ithaca 3
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/107532399637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/107532399637
+privacy: 
+  description: Friends of Friends
+  value: FRIENDS_OF_FRIENDS
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
+type: photo
+status_type: added_photos
+object_id: "107532004637"
+application: 
+  name: Exporter for Aperture
+  id: "2278821838"
+created_time: 2009-05-25T22:39:44+0000
+updated_time: 2009-05-25T22:39:44+0000
+comments: 
+  count: 0
+layout: status-photo
+title: Monday, May 25, 2009 around 06:39PM
+images: 
+- thumbnail: /statuses/photo/4449_107532004637_2405423_s.jpg
+  fullsize: /statuses/photo/4449_107532004637_2405423_n.jpg
+date: 2009-05-25 18:39:44 -04:00
+
+---
+This could be a 70's album cover - it's so precious. Lorenz seems to be the only one that is appropriately disturbed.

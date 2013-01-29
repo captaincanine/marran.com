@@ -1,0 +1,64 @@
+--- 
+id: 790499637_311695449383
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Just purchased my season pass to Lost on iTunes. I'm all set to watch it commercial free and curled up on the sofa. C'mon, LOST!
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/311695449383
+- name: Like
+  link: http://www.facebook.com/790499637/posts/311695449383
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-02-02T11:16:14+0000
+updated_time: 2010-02-02T18:46:09+0000
+comments: 
+  data: 
+  - id: 790499637_311695449383_10791127
+    from: 
+      name: Renee Kent
+      id: "531319519"
+    message: what happened to the Bollywood Room?
+    created_time: 2010-02-02T12:18:48+0000
+  - id: 790499637_311695449383_10798514
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: How soon after airtime does the show become available on iTunes? I'm thinking of getting the season pass too. They stream the episodes in HD on their site for free, but it's not commercial-free and it's always "buffering."
+    created_time: 2010-02-02T15:37:29+0000
+  - id: 790499637_311695449383_10800994
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      The first 3 seasons I watched exclusively from iTunes. The 4th I tried watching via my DVR. It just wasn't the same. Lost really benefits from letting each scene flow into the next. I think I was the only person that wasn't disappointed with the beginning of season 3 - and I attribute that to watching it uninterrupted.
+      
+      If I had an AppleTV, I'd watch it in the Bollywood room, but I'm waiting until there's a product upgrade on the AppleTV. So until then, I curl up with my iPhone and earbuds. I'm as happy as can be. And I have had to get up and walk around the room for some of the season finales because I get over excited.
+      
+      The episodes usually show up the next day on iTunes. Sometimes it's between 24 and 48 hours, but most of the time I remember downloading it the morning after it airs and watching later that day.
+    created_time: 2010-02-02T16:36:26+0000
+  - id: 790499637_311695449383_10806514
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: OK, you sold me. I just bought a season pass. Now the tricky part will be avoiding spoilers from people who watch it live.
+    created_time: 2010-02-02T18:46:09+0000
+  count: 4
+layout: status
+title: Tuesday, Feb  2, 2010 around 06:16AM
+date: 2010-02-02 06:16:14 -05:00
+
+---
+Just purchased my season pass to Lost on iTunes. I'm all set to watch it commercial free and curled up on the sofa. C'mon, LOST!

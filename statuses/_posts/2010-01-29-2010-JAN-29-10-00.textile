@@ -1,0 +1,58 @@
+--- 
+id: 790499637_298978998637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: After 2-3 years of a morning and evening kakuro addiction, I am kicking the habit.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/298978998637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/298978998637
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-01-29T15:00:02+0000
+updated_time: 2010-01-29T20:11:58+0000
+likes: 
+  data: 
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_298978998637_10518687
+    from: 
+      name: Angie Simonton Lanter
+      id: "1283570540"
+    message: "Good luck!  :-)  "
+    created_time: 2010-01-29T15:01:55+0000
+  - id: 790499637_298978998637_10521409
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I actually quit 2 weeks ago and I don't really miss it. I'm reading a lot more now, which is good.
+    created_time: 2010-01-29T16:09:43+0000
+  - id: 790499637_298978998637_10531451
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: (at least you've finally stopped doing that thing in public)
+    created_time: 2010-01-29T20:11:58+0000
+  count: 3
+layout: status
+title: Friday, Jan 29, 2010 around 10:00AM
+date: 2010-01-29 10:00:02 -05:00
+
+---
+After 2-3 years of a morning and evening kakuro addiction, I am kicking the habit.

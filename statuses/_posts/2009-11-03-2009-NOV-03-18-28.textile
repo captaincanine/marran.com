@@ -1,0 +1,31 @@
+--- 
+id: 790499637_200802064637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v43/234/10538587062/app_2_10538587062_8363.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/200802064637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/200802064637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Delicious
+  namespace: feedcrawl_delicious
+  id: "10538587062"
+created_time: 2009-11-03T23:28:39+0000
+updated_time: 2009-11-03T23:28:39+0000
+comments: 
+  count: 0
+layout: status
+title: Tuesday, Nov  3, 2009 around 06:28PM
+link-info: "Keith saved 2 bookmarks on DeliciousTiled backgrounds designer and Rails Forms microformat \xC2\xAB Trek"
+date: 2009-11-03 18:28:39 -05:00
+
+---
+

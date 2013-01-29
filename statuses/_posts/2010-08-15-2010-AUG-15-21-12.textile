@@ -1,0 +1,43 @@
+--- 
+id: 790499637_126943930684785
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Every go see "Scott Pilgrim vs. The World". It may have a permanent spot in my top 10 favorite films.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/126943930684785
+- name: Like
+  link: http://www.facebook.com/790499637/posts/126943930684785
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2010-08-16T01:12:41+0000
+updated_time: 2010-08-18T23:13:39+0000
+comments: 
+  data: 
+  - id: 790499637_126943930684785_773816
+    from: 
+      name: Craig Bechtel
+      id: "689784678"
+    message: "any thoughts on why it came in at #5? Clunky title? Poor marketing?"
+    created_time: 2010-08-16T17:35:56+0000
+  - id: 790499637_126943930684785_790803
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I have no idea. I thought they marketed it to death, but I don't watch mainstream TV. I think it's a hard concept to sell, but once I explain it to someone, they think it's cool. Also, the comic book looks very "manga" which doesn't go over so well in this country. And I think people may be tired of Michael Cera - though he is not up to his old schtick in this movie.
+    created_time: 2010-08-18T23:13:39+0000
+  count: 2
+layout: status
+title: Sunday, Aug 15, 2010 around 09:12PM
+date: 2010-08-15 21:12:41 -04:00
+
+---
+Every go see "Scott Pilgrim vs. The World". It may have a permanent spot in my top 10 favorite films.

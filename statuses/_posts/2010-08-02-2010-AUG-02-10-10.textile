@@ -1,0 +1,53 @@
+--- 
+id: 790499637_145341932159354
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm obsessed with pre-fab mini homes
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDCqD2-UpDJpwvy&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Flogo.jpg
+link: http://ping.fm/qX9dI
+name: I'm obsessed with pre-fab mini homes | Keith Marran
+caption: www.marran.com
+description: I'm obsessed with pre-fab mini homes
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/145341932159354
+- name: Like
+  link: http://www.facebook.com/790499637/posts/145341932159354
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Ping.fm
+  namespace: pingdotfm
+  id: "10732101402"
+created_time: 2010-08-02T14:10:46+0000
+updated_time: 2010-08-02T14:44:51+0000
+likes: 
+  data: 
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_145341932159354_1206997
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: Go Minneapolis! http://www.weehouse.com/index.html#Phillips%20Garden
+    created_time: 2010-08-02T14:44:51+0000
+  count: 1
+layout: status-link
+title: Monday, Aug  2, 2010 around 10:10AM
+link-info: "Perhaps it was all the news footage of Chelsea Clinton's wedding, but I have become obsessed with the notion of getting a mini pre-fab home in the country. Sara had shown me this site a while ago: http://www.weehouse.com and I can't stop looking at the images. A little house upstate to retreat to......"
+date: 2010-08-02 10:10:46 -04:00
+
+---
+I'm obsessed with pre-fab mini homes

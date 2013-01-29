@@ -1,0 +1,41 @@
+--- 
+id: 790499637_150015848932
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I want a horse farm.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/150015848932
+- name: Like
+  link: http://www.facebook.com/790499637/posts/150015848932
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-09-12T14:45:46+0000
+updated_time: 2009-09-12T18:05:06+0000
+comments: 
+  data: 
+  - id: 790499637_150015848932_4828922
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: They're way too hard to plant, though...
+    created_time: 2009-09-12T18:05:06+0000
+  count: 1
+layout: status
+title: Saturday, Sep 12, 2009 around 10:45AM
+date: 2009-09-12 10:45:46 -04:00
+
+---
+I want a horse farm.

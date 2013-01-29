@@ -1,0 +1,49 @@
+--- 
+id: 790499637_198606061288
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: &id001 |-
+  One issue ago, I was legitimately scared of the approaching new Batman villain: The Flamingo. We didn't know much about him other than he's a reckless bio-engineered assassin gone rogue. He eats female model's faces. Now he's been revealed and um...well...I think the image speaks for itself. 
+  
+  I have no idea what to expect anymore.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQC9M-XSFK0kpt9o&w=90&h=90&url=http%3A%2F%2Fwww.toplessrobot.com%2Fbnr06_cvr%2520tr.jpg
+link: http://www.toplessrobot.com/2009/10/enter_the_flamingo.php
+name: Topless Robot - Enter... the Flamingo!
+caption: www.toplessrobot.com
+description: *id001
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/198606061288
+- name: Like
+  link: http://www.facebook.com/790499637/posts/198606061288
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2009-10-30T14:43:42+0000
+updated_time: 2009-10-30T15:09:28+0000
+comments: 
+  data: 
+  - id: 790499637_198606061288_6665360
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: So the question is - who will play "The Flamingo" in the movie version?
+    created_time: 2009-10-30T15:09:28+0000
+  count: 1
+layout: status-link
+title: Friday, Oct 30, 2009 around 10:43AM
+link-info: HOLY SHIT I THINK BATMAN'S GOING TO FIGHT THE LOVE-CHILD OF PRINCE AND FREDDIE MERCURY.
+date: 2009-10-30 10:43:42 -04:00
+
+---
+One issue ago, I was legitimately scared of the approaching new Batman villain: The Flamingo. We didn't know much about him other than he's a reckless bio-engineered assassin gone rogue. He eats female model's faces. Now he's been revealed and um...well...I think the image speaks for itself. 
+
+I have no idea what to expect anymore.

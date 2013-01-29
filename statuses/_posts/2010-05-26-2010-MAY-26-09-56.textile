@@ -1,0 +1,62 @@
+--- 
+id: 790499637_446500889637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Betty complimented me on my beautiful t-shirt. I decided not to tell her it's about a book in which a model decides to shoot her face off.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/446500889637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/446500889637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14764651450
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-26T13:56:49+0000
+updated_time: 2010-05-26T19:25:01+0000
+likes: 
+  data: 
+  - name: Rosemary Feneziani
+    id: "573541002"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_446500889637_13526299
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: Tell Betty 'Suzie' said hi
+    created_time: 2010-05-26T14:46:40+0000
+  - id: 790499637_446500889637_13527262
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Sounds like fun reading.  The book is....?
+    created_time: 2010-05-26T16:55:48+0000
+  - id: 790499637_446500889637_13528383
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Rosie - I will tell definitely tell Betty that Suzie says hi!\n\n\
+      Joel - the book is a lot of fun. It's \"Invisible Monsters\" by Chuck Palahniuk. Though it is not as well written as \"Fight Club\" or \"Survivor\", I think it is his most outrageously chaotic and joyously self-destructive book. I haven't really enjoyed any of his other books besides the 3 I just mentioned. "
+    created_time: 2010-05-26T19:25:01+0000
+  count: 3
+layout: status
+title: Wednesday, May 26, 2010 around 09:56AM
+date: 2010-05-26 09:56:49 -04:00
+
+---
+Betty complimented me on my beautiful t-shirt. I decided not to tell her it's about a book in which a model decides to shoot her face off.

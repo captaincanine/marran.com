@@ -1,0 +1,34 @@
+--- 
+id: 790499637_108447232506490
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: "Basis foods: http://www.basisfoods.com/ in NYC looking for local, traceable produce from farms delivered directly to home or office."
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/108447232506490
+- name: Like
+  link: http://www.facebook.com/790499637/posts/108447232506490
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-03-23T01:35:13+0000
+updated_time: 2010-03-23T01:35:13+0000
+comments: 
+  count: 0
+layout: status
+title: Monday, Mar 22, 2010 around 09:35PM
+date: 2010-03-22 21:35:13 -04:00
+
+---
+Basis foods: http://www.basisfoods.com/ in NYC looking for local, traceable produce from farms delivered directly to home or office.

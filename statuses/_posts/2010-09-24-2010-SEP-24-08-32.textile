@@ -1,0 +1,32 @@
+--- 
+id: 790499637_500474939637
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran was tagged in David Nudo's photo.
+picture: http://photos-h.ak.fbcdn.net/hphotos-ak-prn1/46860_426250041193_300171_s.jpg
+link: http://www.facebook.com/photo.php?fbid=426250041193&set=at.426244926193.203997.703436193.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/500474939637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/500474939637
+privacy: 
+  value: ""
+type: photo
+status_type: tagged_in_photo
+object_id: "426250041193"
+created_time: 2010-09-24T12:32:34+0000
+updated_time: 2010-09-24T12:32:34+0000
+comments: 
+  count: 0
+layout: status-photo
+title: Friday, Sep 24, 2010 around 08:32AM
+images: 
+- thumbnail: /statuses/photo/46860_426250041193_300171_s.jpg
+  fullsize: /statuses/photo/46860_426250041193_300171_n.jpg
+date: 2010-09-24 08:32:34 -04:00
+
+---
+Keith Marran was tagged in David Nudo's photo.

@@ -1,0 +1,59 @@
+--- 
+id: 790499637_289540983886
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm at a wine auction. The first lot of 3 bottles of wine went for $14,000.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/289540983886
+- name: Like
+  link: http://www.facebook.com/790499637/posts/289540983886
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-02-05T01:14:30+0000
+updated_time: 2010-02-05T07:04:37+0000
+comments: 
+  data: 
+  - id: 790499637_289540983886_10718065
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "My mistake. It was 6 bottles. "
+    created_time: 2010-02-05T01:18:55+0000
+  - id: 790499637_289540983886_10718497
+    from: 
+      name: Danielle Mari
+      id: "1125746508"
+    message: I was gonna say!
+    created_time: 2010-02-05T01:30:07+0000
+  - id: 790499637_289540983886_10721892
+    from: 
+      name: Angela Murray Mahoney
+      id: "562162454"
+    message: You are clearly not in the Grove any more.
+    created_time: 2010-02-05T03:15:38+0000
+  - id: 790499637_289540983886_10727686
+    from: 
+      name: Eric M. Kaufman
+      id: "578090465"
+    message: What was the label?  "Blood of Christ"?
+    created_time: 2010-02-05T07:04:37+0000
+  count: 4
+layout: status
+title: Thursday, Feb  4, 2010 around 08:14PM
+date: 2010-02-04 20:14:30 -05:00
+
+---
+I'm at a wine auction. The first lot of 3 bottles of wine went for $14,000.

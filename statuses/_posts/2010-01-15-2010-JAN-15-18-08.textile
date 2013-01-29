@@ -1,0 +1,53 @@
+--- 
+id: 790499637_273947414318
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: FREE MUSIC - Last day! I saved the best for last. Everything you need to become an aficionado in Blaxploitation music.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDDrDE-W6CpZFnO&w=90&h=90&url=http%3A%2F%2Ffarm5.static.flickr.com%2F4034%2F4269247696_ec41d1b30c_t.jpg
+link: http://www.marran.com/personal/blog/music/got-problems-baby
+name: Got Problems, Baby? | Keith Marran
+caption: www.marran.com
+description: FREE MUSIC - Last day! I saved the best for last. Everything you need to become an aficionado in Blaxploitation music.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/273947414318
+- name: Like
+  link: http://www.facebook.com/790499637/posts/273947414318
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-01-15T23:08:36+0000
+updated_time: 2010-01-15T23:39:59+0000
+comments: 
+  data: 
+  - id: 790499637_273947414318_9905805
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: "\"Black Enough\" by Melba Moore was an awesome discovery in this compilation.  Was that from a movie? "
+    created_time: 2010-01-15T23:27:24+0000
+  - id: 790499637_273947414318_9906250
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: |-
+      Yes. It's from "Cotton Comes to Harlem" - which I haven't seen. 
+      
+      I think I was more adventurous in my music purchasing in the days before digital downloads. I no longer just go to a store to browse the collections, which is how I found this one.
+    created_time: 2010-01-15T23:39:59+0000
+  count: 2
+layout: status-link
+title: Friday, Jan 15, 2010 around 06:08PM
+link-info: "If you skipped my other CD mixes, fine. This is the one to download. One night I dragged Benji to see Coffy at the Film Forum \xE2\x80\x93 not really knowing what to expect. I was transfixed. It was hard-core, it was sexy, it was righteous revenge, it was \xE2\x80\xA6 Pam Grier. ..."
+date: 2010-01-15 18:08:36 -05:00
+
+---
+FREE MUSIC - Last day! I saved the best for last. Everything you need to become an aficionado in Blaxploitation music.

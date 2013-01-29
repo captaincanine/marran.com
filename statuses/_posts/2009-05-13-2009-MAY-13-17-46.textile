@@ -1,0 +1,76 @@
+--- 
+id: 790499637_81315323811
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Star Trek, pizza, and new comic books. Today was a total geekfest.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/81315323811
+- name: Like
+  link: http://www.facebook.com/790499637/posts/81315323811
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-05-13T21:46:33+0000
+updated_time: 2009-05-14T04:05:57+0000
+likes: 
+  data: 
+  - name: "M\xC3\xB3nica Dion\xC3\xA9 Andrade-Diaz"
+    id: "1186058325"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_81315323811_1837141
+    from: 
+      name: "M\xC3\xB3nica Dion\xC3\xA9 Andrade-Diaz"
+      id: "1186058325"
+    message: How did you like Star Trek?
+    created_time: 2009-05-13T21:50:37+0000
+  - id: 790499637_81315323811_1837186
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: It was good not great. I loved it up until Leonard Nimoy made his entrance, then the story wasn't as engaging for me. How about you?
+    created_time: 2009-05-13T21:53:51+0000
+  - id: 790499637_81315323811_1837453
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: Did you see the Imax version or the regular?  Debating if it's worthwhile to see it on the really big screen.
+    created_time: 2009-05-13T22:16:30+0000
+  - id: 790499637_81315323811_1837474
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I did not see it on the IMAX screen, though I saw it at the Ziegfeld and thought it was more than adequate. That's the best theater I know of.
+    created_time: 2009-05-13T22:18:27+0000
+  - id: 790499637_81315323811_1841913
+    from: 
+      name: "M\xC3\xB3nica Dion\xC3\xA9 Andrade-Diaz"
+      id: "1186058325"
+    message: I liked it too, was better than I expected. Regarding Leonard Nimoy's appearance, it kind of remainded me of Back to the Future II when the characters from the past and the future had to avoid each other to avoid paradox or some crap like that. To answer Eileen's question about Imax, I think the regullar version is enough. All you get from Imax is a larger screen and you are out of $17.50. It is only worth paying that much for 3D movies.
+    created_time: 2009-05-14T04:03:40+0000
+  - id: 790499637_81315323811_1841935
+    from: 
+      name: Eileen O'Donnell
+      id: "667235678"
+    message: Ouch, I didn't realize IMax was that expensive.  The Ziegfeld would be an excellent place to see this movie.  I don't often see movies in the city (a little less expensive across the river), but it might just be worth it.
+    created_time: 2009-05-14T04:05:57+0000
+  count: 6
+layout: status
+title: Wednesday, May 13, 2009 around 05:46PM
+date: 2009-05-13 17:46:33 -04:00
+
+---
+Star Trek, pizza, and new comic books. Today was a total geekfest.

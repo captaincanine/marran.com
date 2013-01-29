@@ -1,0 +1,46 @@
+--- 
+id: 790499637_281247684637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I was recently looking for a place in the Lower East Side for some good Chinatown-style food. I'm a big fan of dumplings and this place looked busy (usually a good sign) and relatively clean. Insid...
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=97534753161&v=1&size=z&cksum=915f2f0d304f34ef9103f879cbc925d8&src=http%3A%2F%2Fstatic.px.yelp.com%2Fbphoto%2FPoNW4fLBolJ4zDDT9oTr0w%2Fm
+link: http://www.yelp.com/biz_photos/ZUBqQZwMGZSOVbfpOI_uyg?select=PoNW4fLBolJ4zDDT9oTr0w
+name: Vanessa's Dumplings on Yelp
+caption: Keith (5 reviews) reviewed Vanessa's Dumplings
+properties: 
+- name: Location
+  text: Gramercy/East Village, New York
+- name: Categories
+  text: Japanese, Chinese
+icon: http://photos-h.ak.fbcdn.net/photos-ak-snc7/v85006/194/303916123048298/app_101_303916123048298_2074033692.png
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/281247684637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/281247684637
+- name: Keith's Yelp Reviews
+  link: http://www.yelp.com/user_details?userid=z7XxaCIvc7hSzxumTar3dQ
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: app_created_story
+application: 
+  name: Yelp
+  namespace: yelpyelp
+  id: "97534753161"
+created_time: 2010-01-10T14:29:20+0000
+updated_time: 2010-01-10T14:29:20+0000
+comments: 
+  count: 0
+layout: status-link
+title: Sunday, Jan 10, 2010 around 09:29AM
+date: 2010-01-10 09:29:20 -05:00
+
+---
+I was recently looking for a place in the Lower East Side for some good Chinatown-style food. I'm a big fan of dumplings and this place looked busy (usually a good sign) and relatively clean. Insid...

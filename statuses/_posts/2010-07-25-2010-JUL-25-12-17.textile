@@ -1,0 +1,42 @@
+--- 
+id: 790499637_113188572065519
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran shared a link.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAijpXZdcZUnksN&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Flogo.png
+link: http://www.marran.com/saw-kids-are-alright
+name: Saw "The Kids Are Alright" | Keith Marran
+caption: www.marran.com
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/113188572065519
+- name: Like
+  link: http://www.facebook.com/790499637/posts/113188572065519
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-07-25T16:17:07+0000
+updated_time: 2010-07-25T16:17:07+0000
+likes: 
+  data: 
+  - name: Allison Adams
+    id: "594440081"
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 2
+comments: 
+  count: 0
+layout: status-link
+title: Sunday, Jul 25, 2010 around 12:17PM
+date: 2010-07-25 12:17:07 -04:00
+
+---
+Keith Marran shared a link.

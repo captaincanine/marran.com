@@ -1,0 +1,48 @@
+--- 
+id: 790499637_117432081658633
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: We had one hour before our flight to NYC was to leave when it was cancelled. Heathrow turned into a mess. We are now Flying to Chicago with the assumption that it will be easier to get home from there than in London.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/117432081658633
+- name: Like
+  link: http://www.facebook.com/790499637/posts/117432081658633
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Friendly
+  namespace: oecoway_friendly
+  id: "146563558702544"
+created_time: 2010-12-27T05:50:02+0000
+updated_time: 2010-12-27T08:27:02+0000
+comments: 
+  data: 
+  - id: 790499637_117432081658633_455140
+    from: 
+      name: Charlotte Hertander
+      id: "577154539"
+    message: Well, I always say it's easier to at least be on the right continent... Heathrow is always a nightmare, regardless of weather conditions!! Good luck, hope you get home soon. :-)
+    created_time: 2010-12-27T07:03:00+0000
+  - id: 790499637_117432081658633_455427
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Thanks, Charlotte. Yes, the closer to home, the better. "
+    created_time: 2010-12-27T08:27:02+0000
+    likes: 1
+  count: 2
+layout: status
+title: Monday, Dec 27, 2010 around 12:50AM
+date: 2010-12-27 00:50:02 -05:00
+
+---
+We had one hour before our flight to NYC was to leave when it was cancelled. Heathrow turned into a mess. We are now Flying to Chicago with the assumption that it will be easier to get home from there than in London.

@@ -1,0 +1,53 @@
+--- 
+id: 790499637_227996363274
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just learned the word "sexting" and now wish that I hadn't.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/227996363274
+- name: Like
+  link: http://www.facebook.com/790499637/posts/227996363274
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-12-03T19:36:01+0000
+updated_time: 2009-12-03T20:06:53+0000
+comments: 
+  data: 
+  - id: 790499637_227996363274_8216734
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: this does not sound like part of the pomodoro plan.
+    created_time: 2009-12-03T19:39:52+0000
+  - id: 790499637_227996363274_8216826
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: What's worse are the kids who are blubbering and bemoaning over the fact that their pix were leaked to everyone in the school... um, DUH.
+    created_time: 2009-12-03T19:43:01+0000
+  - id: 790499637_227996363274_8217726
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: It could be part of the pomodoro plan, in twenty-five sexting minute increments or course.
+    created_time: 2009-12-03T20:06:53+0000
+  count: 3
+layout: status
+title: Thursday, Dec  3, 2009 around 02:36PM
+date: 2009-12-03 14:36:01 -05:00
+
+---
+I just learned the word "sexting" and now wish that I hadn't.

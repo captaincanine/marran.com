@@ -1,0 +1,31 @@
+--- 
+id: 790499637_134927139637
+from: 
+  name: Keith Marran
+  id: "790499637"
+description: 
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v43/112/12565253092/app_2_12565253092_8453.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/134927139637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/134927139637
+privacy: 
+  value: ""
+type: status
+status_type: app_created_story
+application: 
+  name: Last.fm
+  namespace: feedcrawl_lastfm
+  id: "12565253092"
+created_time: 2009-07-28T01:47:09+0000
+updated_time: 2009-07-28T01:47:09+0000
+comments: 
+  count: 0
+layout: status
+title: Monday, Jul 27, 2009 around 09:47PM
+link-info: Keith loved Pruit igoe & prophecies by The Philip Glass Ensemble on Last.fm
+date: 2009-07-27 21:47:09 -04:00
+
+---
+

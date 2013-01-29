@@ -1,0 +1,61 @@
+--- 
+id: 790499637_443993959637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm watching a live performance of a Slovakian translation of "Summer Nights."
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/443993959637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/443993959637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=14380315962
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-05-20T19:14:19+0000
+updated_time: 2010-05-20T19:56:15+0000
+likes: 
+  data: 
+  - name: David G Zak
+    id: "1443246852"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_443993959637_13480080
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: Hopefully not from "Grease" :-)
+    created_time: 2010-05-20T19:52:42+0000
+  - id: 790499637_443993959637_13480100
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: Oh, definitely. Then they moved on to a Slovakian "Grease Lightning" with multiple key changes. It was kind of amazing.
+    created_time: 2010-05-20T19:55:21+0000
+  - id: 790499637_443993959637_13480106
+    from: 
+      name: Thomas Sproat
+      id: "573477249"
+    message: How wonderfully tragic!! Would love to be listening to this!!
+    created_time: 2010-05-20T19:56:15+0000
+  count: 3
+layout: status
+title: Thursday, May 20, 2010 around 03:14PM
+date: 2010-05-20 15:14:19 -04:00
+
+---
+I'm watching a live performance of a Slovakian translation of "Summer Nights."

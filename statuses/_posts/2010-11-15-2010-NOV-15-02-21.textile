@@ -1,0 +1,45 @@
+--- 
+id: 790499637_169841786374172
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: The Taj Mahal must be seen in person to be believed. It is both ethereal and massive. The only other thing I've seen that even comes close is St Peter's Cathedral in Rome.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/169841786374172
+- name: Like
+  link: http://www.facebook.com/790499637/posts/169841786374172
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: "6628568379"
+created_time: 2010-11-15T07:21:12+0000
+updated_time: 2010-11-15T07:21:12+0000
+likes: 
+  data: 
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Andrew Perez
+    id: "529289396"
+  - name: Jill Phillips Eikanas
+    id: "1007087445"
+  - name: Angie Simonton Lanter
+    id: "1283570540"
+  count: 9
+comments: 
+  count: 0
+layout: status
+title: Monday, Nov 15, 2010 around 02:21AM
+date: 2010-11-15 02:21:12 -05:00
+
+---
+The Taj Mahal must be seen in person to be believed. It is both ethereal and massive. The only other thing I've seen that even comes close is St Peter's Cathedral in Rome.

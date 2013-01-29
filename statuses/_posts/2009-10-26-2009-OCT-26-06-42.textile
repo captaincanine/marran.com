@@ -1,0 +1,42 @@
+--- 
+id: 790499637_160414883847
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Who says you need to go upstate for fall colors? We spent the day in Central Park taking in the autumnal colors - and a little roller disco!
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/160414883847
+- name: Like
+  link: http://www.facebook.com/790499637/posts/160414883847
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+created_time: 2009-10-26T10:42:08+0000
+updated_time: 2009-10-27T03:38:46+0000
+likes: 
+  data: 
+  - name: David Nudo
+    id: "703436193"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_160414883847_6399150
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: Lurve roller disco in Central Park!
+    created_time: 2009-10-27T03:38:46+0000
+  count: 1
+layout: status
+title: Monday, Oct 26, 2009 around 06:42AM
+date: 2009-10-26 06:42:08 -04:00
+
+---
+Who says you need to go upstate for fall colors? We spent the day in Central Park taking in the autumnal colors - and a little roller disco!

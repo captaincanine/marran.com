@@ -1,0 +1,71 @@
+--- 
+id: 790499637_431853264637
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=5ec22788ccf2a35f99408a34995e2b6a&src=http%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.73928685792001%2F-73.99239420890808%2Fmap.png
+link: http://foursquare.com/venue/46304
+name: Uncle Moe's
+caption: Keith just checked-in @ Uncle Moe's (New York, NY)
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/431853264637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/431853264637
+- name: Keith on foursquare
+  link: http://foursquare.com/user/-90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: app_created_story
+application: 
+  name: Foursquare
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2010-04-22T16:08:24+0000
+updated_time: 2010-04-22T17:49:06+0000
+comments: 
+  data: 
+  - id: 790499637_431853264637_13259650
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: You'll going to end up with a stalker.  :)
+    created_time: 2010-04-22T16:13:36+0000
+  - id: 790499637_431853264637_13259821
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: If it's the cute chorus boy that just moved to the city from Las Vegas that was chatting me up in the yoga studio's changing room, then I'm all for it!
+    created_time: 2010-04-22T16:50:55+0000
+  - id: 790499637_431853264637_13260057
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: Keith!  Quelle flirty!
+    created_time: 2010-04-22T17:23:51+0000
+  - id: 790499637_431853264637_13260199
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: A female friend of mine said that the one thing she missed about being single was the flirting. And she doesn't do it now not for fear of being caught, but for fear of being misunderstood that she was only flirting.
+    created_time: 2010-04-22T17:43:47+0000
+  - id: 790499637_431853264637_13260227
+    from: 
+      name: Dawn Richmond Breazile
+      id: "1834622505"
+    message: "I must flirt a little to keep in shape for flirting with my husband!  I know what she means though.  It's a dying art!  I think if more people took commitment a little more SERIOUSLY we could all have a lot more fun "
+    created_time: 2010-04-22T17:49:06+0000
+  count: 5
+layout: status-link
+title: Thursday, Apr 22, 2010 around 12:08PM
+date: 2010-04-22 12:08:24 -04:00
+
+---
+

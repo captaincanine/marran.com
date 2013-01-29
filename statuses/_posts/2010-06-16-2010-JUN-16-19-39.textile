@@ -1,0 +1,40 @@
+--- 
+id: 790499637_455136189637
+from: 
+  name: Keith Marran
+  id: "790499637"
+picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=86734274142&v=1&size=z&cksum=8544fbd39eb90c0f4db3a263fae4df98&src=http%3A%2F%2Ffoursquare.com%2Fmapproxy%2F40.7419%2F-74.001%2Fmap.png
+link: http://foursquare.com/venue/49896
+name: Cola's
+caption: Keith just checked-in @ Cola's (New York, NY)
+icon: http://photos-g.ak.fbcdn.net/photos-ak-snc7/v85005/138/86734274142/app_2_86734274142_3268.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/455136189637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/455136189637
+- name: Keith on foursquare
+  link: http://foursquare.com/user/-90473
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: app_created_story
+application: 
+  name: Foursquare
+  namespace: playfoursquare
+  id: "86734274142"
+created_time: 2010-06-16T23:39:03+0000
+updated_time: 2010-06-16T23:39:03+0000
+comments: 
+  count: 0
+layout: status-link
+title: Wednesday, Jun 16, 2010 around 07:39PM
+date: 2010-06-16 19:39:03 -04:00
+
+---
+

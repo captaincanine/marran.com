@@ -1,0 +1,34 @@
+--- 
+id: 790499637_107205002654773
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I tried this with halibut and it was perfectly cooked. I'm going to try it with chicken breasts as well. http://bit.ly/9Xodrc
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/107205002654773
+- name: Like
+  link: http://www.facebook.com/790499637/posts/107205002654773
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-20T18:53:42+0000
+updated_time: 2010-04-20T18:53:42+0000
+comments: 
+  count: 0
+layout: status
+title: Tuesday, Apr 20, 2010 around 02:53PM
+date: 2010-04-20 14:53:42 -04:00
+
+---
+I tried this with halibut and it was perfectly cooked. I'm going to try it with chicken breasts as well. http://bit.ly/9Xodrc

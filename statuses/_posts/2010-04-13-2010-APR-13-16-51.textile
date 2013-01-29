@@ -1,0 +1,96 @@
+--- 
+id: 790499637_114737601878041
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I'm listening to The Beatles "Tomorrow Never Knows" for the first time in years. I think I just had a spontaneous out of body experience.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/114737601878041
+- name: Like
+  link: http://www.facebook.com/790499637/posts/114737601878041
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-13T20:51:34+0000
+updated_time: 2010-04-13T23:10:59+0000
+comments: 
+  data: 
+  - id: 790499637_114737601878041_310546
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: " Listening to the Beatles often makes me think of you. :)  As does spirituality."
+    created_time: 2010-04-13T20:59:52+0000
+  - id: 790499637_114737601878041_310554
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      Spontaneous in that it wasn't planned?
+      
+      haha
+      
+      A local radio station plays four hours of Beatles every Saturday morning and I have been tuning in weekly.  It has been a fun way to revisit songs I know too well to put on the stereo.
+    created_time: 2010-04-13T21:00:29+0000
+  - id: 790499637_114737601878041_310592
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: "Some of my office mates have banned the Beatles in our office space. What kind of person does that? "
+    created_time: 2010-04-13T21:03:51+0000
+  - id: 790499637_114737601878041_310615
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "Thanks on both accounts, Peter!\n\n\
+      One of the things I occasionally miss about New York is being able to drive and listen to the radio. On a recent trip to California, the radio played \"Hey Jude\". And I think I said out loud - \"Of all the Beatles songs to choose and they pick this tired one.\" And about a minute into it, I was belting it out in the car like it was the most meaningful song in the world. \n\n\
+      Yeah, The Beatles.\n\n\
+      Have you ever seen \"The Eternal Sunshine of the Spotless Mind?\" I love the movie and I spent a while thinking if there was anything in my life or anything that I could imagine happening that would make me want to have my memory erased. And then I realized that I would have erased the entire Beatles catalog from my mind. Can you imagine being an adult and hearing all this music for the first time? "
+    created_time: 2010-04-13T21:06:19+0000
+  - id: 790499637_114737601878041_310688
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: "\"The Eternal  Sunshine........\" is a fantastic movie, love it too! Sam and Paul will sit and listen to The Beatles on a weekly basis. Sam believes \"Beautiful Boy\" was written about him........awwww!"
+    created_time: 2010-04-13T21:13:29+0000
+  - id: 790499637_114737601878041_310699
+    from: 
+      name: Peter Von Brown
+      id: "1128953787"
+    message: I've seen it.  Very freaky film... and what a deliciously creative use of the F-'d up concept.  Riffing off that ... I'd like to use it, perhaps, to erase my own books - for a great regret is that I can't experience them like everyone else.
+    created_time: 2010-04-13T21:14:20+0000
+  - id: 790499637_114737601878041_310788
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: |-
+      I loved it, a rare movie that was both avant garde and emotionally resonant.
+      
+      While I know what you mean about wiping out the Beatles, I think I would choose not to.  They are such the background of my life since elementary school.  I hear them now and it sends out visions and images of my childhood through now, a constant measure for where I have been and where I am going.  In that way, they have transcended music and are a a background that I project my life onto.
+      
+      While it would be fun to hear them as music again, a historical and emotional dowsing rod is a better use for them, IMHO.
+    created_time: 2010-04-13T21:22:54+0000
+  - id: 790499637_114737601878041_311602
+    from: 
+      name: Dagny Prieto
+      id: "592820863"
+    message: The Vatican agrees with you http://www.nytimes.com/2010/04/13/arts/music/13arts-VATICANGETSA_BRF.html
+    created_time: 2010-04-13T23:10:59+0000
+  count: 8
+layout: status
+title: Tuesday, Apr 13, 2010 around 04:51PM
+date: 2010-04-13 16:51:34 -04:00
+
+---
+I'm listening to The Beatles "Tomorrow Never Knows" for the first time in years. I think I just had a spontaneous out of body experience.

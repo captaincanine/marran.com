@@ -1,0 +1,77 @@
+--- 
+id: 790499637_250559109080
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I had gotten away from food journaling over the holidays. Tomorrow, I start recording everything I eat again.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/250559109080
+- name: Like
+  link: http://www.facebook.com/790499637/posts/250559109080
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-01-07T20:49:04+0000
+updated_time: 2010-01-08T03:22:29+0000
+comments: 
+  data: 
+  - id: 790499637_250559109080_9302223
+    from: 
+      name: Jill Phillips Eikanas
+      id: "1007087445"
+    message: "I need to start again. Good luck  "
+    created_time: 2010-01-07T20:53:23+0000
+  - id: 790499637_250559109080_9302336
+    from: 
+      name: Melissa Agar
+      id: "530351528"
+    message: I started this week.  I put it in an excel spreadsheet.  I'm nerdy that way.
+    created_time: 2010-01-07T20:55:33+0000
+  - id: 790499637_250559109080_9302557
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I have it in a Google Calendar hooked into Jott so I only need to call an 800 number to record it. I win the nerdy award.
+    created_time: 2010-01-07T20:59:05+0000
+  - id: 790499637_250559109080_9302582
+    from: 
+      name: Melissa Agar
+      id: "530351528"
+    message: I bow to your nerdiness, sir!
+    created_time: 2010-01-07T20:59:30+0000
+  - id: 790499637_250559109080_9311111
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: How soul crushing. When I read food journaling I was expecting a great NY restaurant and grocery tour. I'm sure you've got that in you too.
+    created_time: 2010-01-07T23:49:44+0000
+  - id: 790499637_250559109080_9321081
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: "I don't mind a little soul crushing as long as a healthy amount of fat gets crushed in the process. I was down several pounds before the holidays and getting compliments - and it was quite spiritually liberating. "
+    created_time: 2010-01-08T03:17:54+0000
+  - id: 790499637_250559109080_9321301
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: Right, that. A little less material in the material world can be very spiritually satisfying.
+    created_time: 2010-01-08T03:22:29+0000
+  count: 7
+layout: status
+title: Thursday, Jan  7, 2010 around 03:49PM
+date: 2010-01-07 15:49:04 -05:00
+
+---
+I had gotten away from food journaling over the holidays. Tomorrow, I start recording everything I eat again.

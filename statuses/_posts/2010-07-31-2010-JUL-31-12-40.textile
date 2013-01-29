@@ -1,0 +1,66 @@
+--- 
+id: 790499637_114312758618893
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Green Tripe to the Rescue
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCwkRW7z4lN9GXS&w=90&h=90&url=http%3A%2F%2Fwww.marran.com%2Fsites%2Fall%2Fthemes%2Fupandaway%2Fimages%2Ftoolbar.house.png
+link: http://ping.fm/xdvJA
+name: Green Tripe to the Rescue | Keith Marran
+caption: www.marran.com
+description: Green Tripe to the Rescue
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/114312758618893
+- name: Like
+  link: http://www.facebook.com/790499637/posts/114312758618893
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Ping.fm
+  namespace: pingdotfm
+  id: "10732101402"
+created_time: 2010-07-31T16:40:47+0000
+updated_time: 2010-08-02T19:17:09+0000
+comments: 
+  data: 
+  - id: 790499637_114312758618893_378728
+    from: 
+      name: Rosemary Feneziani
+      id: "573541002"
+    message: "Yuck! If it smells that bad going in, I'd hate to think what it will smell like coming out....! "
+    created_time: 2010-08-01T02:31:04+0000
+  - id: 790499637_114312758618893_380370
+    from: 
+      name: Idit Matot
+      id: "1409958859"
+    message: what a story!!! SOrry for not knowing thar something is going wrong in the family. crossing my fingers that everything will be back to order.... interesting that I have the same story with my... father...
+    created_time: 2010-08-01T10:17:34+0000
+  - id: 790499637_114312758618893_386362
+    from: 
+      name: Sarah Adelson Kloepfer
+      id: "100000080696270"
+    message: I hope that Oz is feeling better.  Please keep us posted.
+    created_time: 2010-08-02T08:07:20+0000
+  - id: 790499637_114312758618893_389932
+    from: 
+      name: Robb Bloom
+      id: "1095747683"
+    message: OK, Milo has GOT to try some green tripe...
+    created_time: 2010-08-02T19:17:09+0000
+  count: 4
+layout: status-link
+title: Saturday, Jul 31, 2010 around 12:40PM
+link-info: The big hurdle in Oz's recovery has been getting him to eat. The doctors initially warned us about not trying to feed him too much too quickly. In hindsight, that seems laughable that we were concerned about him eating too much. Some days it's better than others and he goes for it, but usually it's ...
+date: 2010-07-31 12:40:47 -04:00
+
+---
+Green Tripe to the Rescue

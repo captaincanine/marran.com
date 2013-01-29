@@ -1,0 +1,75 @@
+--- 
+id: 790499637_109178615775627
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Why is it that the worse Nicolas Cage gets as an actor, the more movies he appears in?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/109178615775627
+- name: Like
+  link: http://www.facebook.com/790499637/posts/109178615775627
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-03-27T01:40:58+0000
+updated_time: 2010-03-30T05:54:24+0000
+likes: 
+  data: 
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  - name: Robb Bloom
+    id: "1095747683"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_109178615775627_159821
+    from: 
+      name: Jake Baker-Brown
+      id: "520211262"
+    message: |-
+      He was pretty good under a pile of rubble in World Trade Center.
+      
+      ;)
+    created_time: 2010-03-27T03:18:43+0000
+  - id: 790499637_109178615775627_159826
+    from: 
+      name: Tracy Gregory
+      id: "1406670048"
+    message: "Are you saying he peaked in 'Valley Girl'? "
+    created_time: 2010-03-27T03:20:29+0000
+  - id: 790499637_109178615775627_159888
+    from: 
+      name: Sandra MacLeod
+      id: "1265114452"
+    message: no tracy.....peggy sue got married.  What a horrible acting job!
+    created_time: 2010-03-27T03:35:04+0000
+  - id: 790499637_109178615775627_185347
+    from: 
+      name: Michael Wallner
+      id: "1309367655"
+    message: He used to be so good, and one of my favorites. I just have a hard time watching any of his stuff now. David Lynch's, Wild at Heart was his best.
+    created_time: 2010-03-30T05:42:30+0000
+  - id: 790499637_109178615775627_185396
+    from: 
+      name: Jake Baker-Brown
+      id: "520211262"
+    message: "\"Did I ever tell ya that this here jacket represents a symbol of my individuality, and my belief in personal freedom?\""
+    created_time: 2010-03-30T05:54:24+0000
+  count: 5
+layout: status
+title: Friday, Mar 26, 2010 around 09:40PM
+date: 2010-03-26 21:40:58 -04:00
+
+---
+Why is it that the worse Nicolas Cage gets as an actor, the more movies he appears in?

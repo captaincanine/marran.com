@@ -1,0 +1,47 @@
+--- 
+id: 790499637_120786974638330
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: This video perfectly captures my own Facebook experience. I sit in a white room, turn a giant fan on, and look provocatively at the computer screen. Ah....Facebook. Facebook.
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCRgnJEvnb3VB6Q&w=90&h=90&url=http%3A%2F%2Fcache-01.gawkerassets.com%2Fassets%2Fimages%2F7%2F2010%2F08%2Ffrzgez2syfc.jpg
+link: http://gawker.com/5622300/this-turkish-music-video-about-facebook-is-better-than-the-social-network
+name: This Turkish Music Video About Facebook Is Better Than The Social Network
+caption: gawker.com
+description: This video perfectly captures my own Facebook experience. I sit in a white room, turn a giant fan on, and look provocatively at the computer screen. Ah....Facebook. Facebook.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/120786974638330
+- name: Like
+  link: http://www.facebook.com/790499637/posts/120786974638330
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+application: 
+  name: Share_bookmarklet
+  id: "5085647995"
+created_time: 2010-08-26T16:09:43+0000
+updated_time: 2010-08-27T04:51:00+0000
+comments: 
+  data: 
+  - id: 790499637_120786974638330_568606
+    from: 
+      name: Debbie Glass
+      id: "1613911702"
+    message: There is a lot of windy hair in this video.
+    created_time: 2010-08-27T04:51:00+0000
+  count: 1
+layout: status-link
+title: Thursday, Aug 26, 2010 around 12:09PM
+link-info: Yeah, yeah, everyone wants to see David Fincher's Facebook movie The Social Network but will it really be better than this music video for the Turkish song "Facebook"? Even with the coke and tits, I doubt it. [via]
+date: 2010-08-26 12:09:43 -04:00
+
+---
+This video perfectly captures my own Facebook experience. I sit in a white room, turn a giant fan on, and look provocatively at the computer screen. Ah....Facebook. Facebook.

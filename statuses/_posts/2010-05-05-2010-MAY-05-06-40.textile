@@ -1,0 +1,69 @@
+--- 
+id: 790499637_117070168324829
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Another hilarious story of a vocal anti-gay pastor getting caught hiring a renboy. And the story features one of my past employers!
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQA2zVKWWy4SQ9nI&w=90&h=90&url=http%3A%2F%2Fcache-01.gawkerassets.com%2Fassets%2Fimages%2F7%2F2010%2F05%2Frekers.jpg
+link: http://gawker.com/5531027/the-virulent-anti%20gay-activist-who-brought-a-rentboy-to-europe-updated
+name: The Virulent Anti-Gay Activist Who Brought a Rentboy to Europe (Updated) - The Gays - Gawker
+caption: gawker.com
+description: Another hilarious story of a vocal anti-gay pastor getting caught hiring a renboy. And the story features one of my past employers!
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/117070168324829
+- name: Like
+  link: http://www.facebook.com/790499637/posts/117070168324829
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: link
+status_type: shared_story
+created_time: 2010-05-05T10:40:52+0000
+updated_time: 2010-05-06T04:56:34+0000
+likes: 
+  data: 
+  - name: Rosemary Feneziani
+    id: "573541002"
+  - name: Dawn Richmond Breazile
+    id: "1834622505"
+  count: 2
+comments: 
+  data: 
+  - id: 790499637_117070168324829_421321
+    from: 
+      name: Robert A. Mayer
+      id: "508770447"
+    message: "This is my favorite story EVER. Thanks for sharing. "
+    created_time: 2010-05-05T14:21:08+0000
+  - id: 790499637_117070168324829_421440
+    from: 
+      name: Brenda Gregoline
+      id: "1236717380"
+    message: "He was just carrying his luggage! Or \"handling his bag,\" if you will. "
+    created_time: 2010-05-05T14:41:55+0000
+  - id: 790499637_117070168324829_422663
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: Dammit!  Brenda beat me to it.
+    created_time: 2010-05-05T17:26:08+0000
+  - id: 790499637_117070168324829_427581
+    from: 
+      name: Robert Lucas
+      id: "100000816082478"
+    message: I think I met him at the eagle last year.
+    created_time: 2010-05-06T04:56:34+0000
+  count: 4
+layout: status-link
+title: Wednesday, May  5, 2010 around 06:40AM
+link-info: The best thing about people who hate gay people is that they secretly all love gay people. Or at least having sex with gay people. Look at the recent case of Family Research Council co-founder George Rekers. There's a rentboy!
+date: 2010-05-05 06:40:52 -04:00
+
+---
+Another hilarious story of a vocal anti-gay pastor getting caught hiring a renboy. And the story features one of my past employers!

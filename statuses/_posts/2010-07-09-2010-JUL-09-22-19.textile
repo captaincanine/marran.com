@@ -1,0 +1,55 @@
+--- 
+id: 790499637_464803309637
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I think I have seriously fallen in love with Sufjan Stevens. I'm seriously thinking of writing "KM + SS = TLF" on all my notebooks.
+icon: http://photos-d.ak.fbcdn.net/photos-ak-snc7/v85006/23/2231777543/app_2_2231777543_2016407632.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/464803309637
+- name: Like
+  link: http://www.facebook.com/790499637/posts/464803309637
+- name: "@CaptainCanine on Twitter"
+  link: http://twitter.com/CaptainCanine?utm_source=fb&utm_medium=fb&utm_campaign=CaptainCanine&utm_content=18164819001
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: app_created_story
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-07-10T02:19:42+0000
+updated_time: 2010-07-10T02:51:47+0000
+likes: 
+  data: 
+  - name: Melissa Agar
+    id: "530351528"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_464803309637_13901999
+    from: 
+      name: Joel Muchmore
+      id: "1542470417"
+    message: EVEN ON YOUR TRAPPER KEEPERS!
+    created_time: 2010-07-10T02:38:29+0000
+  - id: 790499637_464803309637_13902071
+    from: 
+      name: Keith Marran
+      id: "790499637"
+    message: I'm more of a Pee Chee guy, I think.
+    created_time: 2010-07-10T02:51:47+0000
+  count: 2
+layout: status
+title: Friday, Jul  9, 2010 around 10:19PM
+date: 2010-07-09 22:19:42 -04:00
+
+---
+I think I have seriously fallen in love with Sufjan Stevens. I'm seriously thinking of writing "KM + SS = TLF" on all my notebooks.

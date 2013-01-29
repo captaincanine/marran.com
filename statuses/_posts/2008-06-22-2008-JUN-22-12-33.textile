@@ -1,0 +1,27 @@
+--- 
+id: 790499637_10150252060004638
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: "Keith Marran was tagged in M\xC3\xB3nica Dion\xC3\xA9 Andrade-Diaz's album Blues Performance April 2008."
+picture: http://photos-a.xx.fbcdn.net/hphotos-ash4/208180_1026123051769_4836_s.jpg
+link: http://www.facebook.com/photo.php?fbid=1026123051769&set=at.1026122771762.2004464.1186058325.790499637&type=1&relevant_count=2
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+privacy: 
+  value: ""
+type: photo
+status_type: tagged_in_photo
+object_id: "1026123051769"
+created_time: 2008-06-22T16:33:20+0000
+updated_time: 2008-06-22T16:33:20+0000
+comments: 
+  count: 0
+layout: status-photo
+title: Sunday, Jun 22, 2008 around 12:33PM
+images: 
+- thumbnail: /statuses/photo/208180_1026123051769_4836_s.jpg
+  fullsize: /statuses/photo/208180_1026123051769_4836_n.jpg
+date: 2008-06-22 12:33:20 -04:00
+
+---
+Keith Marran was tagged in Mónica Dioné Andrade-Diaz's album Blues Performance April 2008.

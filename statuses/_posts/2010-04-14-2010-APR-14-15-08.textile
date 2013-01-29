@@ -1,0 +1,39 @@
+--- 
+id: 790499637_117965348220554
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: Some supernatural force is preventing me from watching this week's episode of Lost. Is this the work of the MIB? Or Jacob?
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/117965348220554
+- name: Like
+  link: http://www.facebook.com/790499637/posts/117965348220554
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2010-04-14T19:08:15+0000
+updated_time: 2010-04-14T19:08:15+0000
+likes: 
+  data: 
+  - name: Thomas Sproat
+    id: "573477249"
+  count: 1
+comments: 
+  count: 0
+layout: status
+title: Wednesday, Apr 14, 2010 around 03:08PM
+date: 2010-04-14 15:08:15 -04:00
+
+---
+Some supernatural force is preventing me from watching this week's episode of Lost. Is this the work of the MIB? Or Jacob?

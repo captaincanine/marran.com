@@ -1,0 +1,52 @@
+--- 
+id: 790499637_199224864153
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: I just finished reading "One Flew Over the Cuckoo's Nest." What a wild and heart-breaking book - much bigger than I was expecting.
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/199224864153
+- name: Like
+  link: http://www.facebook.com/790499637/posts/199224864153
+privacy: 
+  description: "Friends; Except: Family"
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ""
+  allow: ""
+  deny: "116609519637"
+type: status
+status_type: mobile_status_update
+application: 
+  name: Twitter
+  namespace: twitter
+  id: "2231777543"
+created_time: 2009-12-11T16:29:45+0000
+updated_time: 2009-12-11T21:11:30+0000
+likes: 
+  data: 
+  - name: Leslie Gardner
+    id: "667633377"
+  count: 1
+comments: 
+  data: 
+  - id: 790499637_199224864153_8392085
+    from: 
+      name: Kirsten Murray
+      id: "575571081"
+    message: Still one of my favorite movies!
+    created_time: 2009-12-11T20:22:12+0000
+  - id: 790499637_199224864153_8393801
+    from: 
+      name: Kenneth D. Vandehey
+      id: "1080870575"
+    message: I played Billy a f f few years b b back, The play is great~one of my all time favorites.. My grandma use to deep sea fish off the Oregon coast with the authors mother!! Wierd right?
+    created_time: 2009-12-11T21:11:30+0000
+  count: 2
+layout: status
+title: Friday, Dec 11, 2009 around 11:29AM
+date: 2009-12-11 11:29:45 -05:00
+
+---
+I just finished reading "One Flew Over the Cuckoo's Nest." What a wild and heart-breaking book - much bigger than I was expecting.

@@ -1,0 +1,32 @@
+--- 
+id: 790499637_10150977723844638
+from: 
+  name: Keith Marran
+  id: "790499637"
+story: Keith Marran was tagged in Geeks OUT's album Takei Back the Night.
+picture: http://photos-f.ak.fbcdn.net/hphotos-ak-ash4/480185_392509607450475_704731473_s.jpg
+link: http://www.facebook.com/photo.php?fbid=392509607450475&set=at.392509540783815.96375.157044360997002.790499637&type=1&relevant_count=4
+description: Keith Marran was tagged in Geeks OUT's album Takei Back the Night.
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+privacy: 
+  value: ""
+type: photo
+status_type: tagged_in_photo
+object_id: "392509607450475"
+application: 
+  name: Photos
+  id: "2305272732"
+created_time: 2012-04-23T17:03:27+0000
+updated_time: 2012-04-23T17:03:27+0000
+comments: 
+  count: 0
+layout: status-photo
+title: Monday, Apr 23, 2012 around 01:03PM
+link-info: On April 20th, 2012, Geeks OUT held an art raffle / party for George Takei's 75th birthday. A grand time was had by all, especially by the people that won the fabulous artwork!
+images: 
+- thumbnail: /statuses/photo/480185_392509607450475_704731473_s.jpg
+  fullsize: /statuses/photo/480185_392509607450475_704731473_n.jpg
+date: 2012-04-23 13:03:27 -04:00
+
+---
+Keith Marran was tagged in Geeks OUT's album Takei Back the Night.
