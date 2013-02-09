@@ -207,7 +207,6 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; -webkit-font-smoothin
 
   display: none;
   overflow: scroll;
-  background: @white;
 
   padding: 6px 0;
   
@@ -227,6 +226,12 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; -webkit-font-smoothin
     .date       { display: none; }
     .description  { margin-bottom: 6px; }
 
+  }
+  
+  &.thinking {
+    display: block;
+    background: @white url('/images/animated-infinity.gif') no-repeat center 20px;
+    height: 60px;  
   }
 
 }
