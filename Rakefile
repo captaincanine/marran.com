@@ -18,7 +18,7 @@ task :post do
   slug = slug.gsub(/^\s+|\s+$/, '')
   slug = slug.gsub(/[-\s]+/, '-')
 
-  filename = "#{today}-#{slug}.textile"
+  filename = "#{today}-#{slug}.md"
   path = File.join("#{category}/_posts", filename)
   if File.exist? path; raise RuntimeError.new("Won't clobber #{path}"); end
   File.open(path, 'w') do |file|
