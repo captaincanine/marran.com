@@ -1,0 +1,48 @@
+--- 
+id: 790499637_10151725330299638
+from: 
+  name: Keith Marran
+  id: "790499637"
+message: My Sheperd Fairey iPad case has made me a complete iPad addict. It's now like a security blanket I take everywhere.
+picture: http://photos-h.ak.fbcdn.net/hphotos-ak-ash3/539563_10151725330194638_233960355_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10151725330194638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+actions: 
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151725330299638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151725330299638
+privacy: 
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ""
+  networks: ""
+  allow: ""
+  deny: ""
+type: photo
+status_type: added_photos
+object_id: "10151725330194638"
+application: 
+  name: Buffer
+  namespace: buffer-app
+  id: "103667826405103"
+created_time: 2013-02-11T20:55:09+0000
+updated_time: 2013-02-11T20:55:09+0000
+likes: 
+  data: 
+  - name: Eric Kelhoffer
+    id: "671590942"
+  - name: Matthew Shields
+    id: "729111833"
+  count: 2
+comments: 
+  count: 0
+layout: status-photo
+title: Monday, Feb 11, 2013 around 03:55PM
+images: 
+- thumbnail: /statuses/photo/539563_10151725330194638_233960355_s.jpg
+  fullsize: /statuses/photo/539563_10151725330194638_233960355_n.jpg
+date: 2013-02-11 15:55:09 -05:00
+
+---
+My Sheperd Fairey iPad case has made me a complete iPad addict. It's now like a security blanket I take everywhere.
