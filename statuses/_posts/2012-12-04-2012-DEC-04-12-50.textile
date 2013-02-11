@@ -14,7 +14,7 @@ message: |-
 picture: http://photos-g.ak.fbcdn.net/hphotos-ak-snc7/312706_10151560025789638_1979674923_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151560025789638&set=a.10151560025764638.601651.790499637&type=1&relevant_count=1
 name: Zeebly Photos
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151560025829638

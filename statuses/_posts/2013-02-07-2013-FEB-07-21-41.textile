@@ -7,7 +7,7 @@ message: Happy Birthday to David!
 picture: http://photos-b.ak.fbcdn.net/hphotos-ak-snc7/379244_10151716943109638_1534898230_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151716943109638&set=a.64718809637.90991.790499637&type=1&relevant_count=1
 name: Friends & Family
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151716943294638

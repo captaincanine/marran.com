@@ -7,7 +7,7 @@ story: Keith Marran added 2 new photos to the album iOS Photos.
 picture: http://photos-g.ak.fbcdn.net/hphotos-ak-ash4/400041_10151629762629638_79573107_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151629762629638&set=a.10151542188989638.599042.790499637&type=1&relevant_count=2
 name: iOS Photos
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151629689474638

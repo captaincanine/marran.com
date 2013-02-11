@@ -6,7 +6,7 @@ from:
 message: Something cute and wholesome to make up for my last post. Puppy Sleeping Outside The Temple Of The Divine Madman.
 picture: http://photos-c.ak.fbcdn.net/hphotos-ak-ash3/525058_10151588788004638_712018093_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151588788004638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151588788054638

@@ -7,7 +7,7 @@ story: Keith Marran was tagged in his own photo.
 picture: http://photos-a.ak.fbcdn.net/hphotos-ak-snc7/577857_10151609167944638_1311984001_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151609167944638&set=at.229486624637.178410.790499637.790499637&type=1&relevant_count=1
 description: Keith Marran was tagged in his own photo.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151609169599638

@@ -6,7 +6,7 @@ from:
 picture: http://photos-d.ak.fbcdn.net/hphotos-ak-prn1/542676_10151542190719638_1249631934_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151542190719638&set=a.10151542188989638.599042.790499637&type=1&relevant_count=2
 name: iOS Photos
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151542189289638

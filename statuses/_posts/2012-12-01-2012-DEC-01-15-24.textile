@@ -6,7 +6,7 @@ from:
 story: Keith Marran was tagged in Thomas Rogers's photo.
 picture: http://photos-h.ak.fbcdn.net/hphotos-ak-prn1/148777_10151184717363387_695923042_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151184717363387&set=at.10151184707543387.446677.538628386.790499637&type=1&relevant_count=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151554760559638

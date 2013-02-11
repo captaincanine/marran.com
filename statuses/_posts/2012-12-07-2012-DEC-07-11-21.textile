@@ -9,7 +9,7 @@ link: http://io9.com/5966524/pans-labyrinth-is-gonna-be-a-musical
 name: Pan's Labyrinth Is Gonna Be a Musical
 caption: io9.com
 description: "I was near-enraged by this news. Then I heard that Guillermo himself has been trying to make it happen and I thought \"well...maybe\". Then I heard that Paul Williams is involved. Bring it.  "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/181205475352646

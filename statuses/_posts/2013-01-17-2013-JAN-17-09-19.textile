@@ -8,7 +8,7 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAeP6xA39nZNKDA&w=90&h=9
 link: http://www.goat-trauma.org/
 name: The Childhood Goat Trauma Foundation
 caption: www.goat-trauma.org
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/151776668305664

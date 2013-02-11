@@ -15,7 +15,7 @@ story: Keith Marran was tagged in Rob Velasco's photo.
 picture: http://photos-h.ak.fbcdn.net/hphotos-ak-ash3/28055_4504380220862_1435947412_s.jpg
 link: http://www.facebook.com/photo.php?fbid=4504380220862&set=at.1091345737133.14348.1631202087.790499637&type=1&relevant_count=1
 description: Keith Marran was tagged in Rob Velasco's photo.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151562846389638
@@ -39,10 +39,10 @@ likes:
     id: "19602090"
   - name: Dennis Micah Fowler
     id: "763622599"
-  - name: Christopher Stansfield
-    id: "542530197"
   - name: Andrew Ritz
     id: "1321093639"
+  - name: Christopher Stansfield
+    id: "542530197"
   count: 17
 comments: 
   data: 

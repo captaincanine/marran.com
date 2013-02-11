@@ -9,7 +9,7 @@ link: http://io9.com/5961385/farewell-to-twinkies-americas-most-futuristic-food
 name: Farewell to Twinkies, America's most futuristic food
 caption: io9.com
 description: Wait, what?! No more Ho-Hos? No more Ding Dongs!?
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/441297685929966

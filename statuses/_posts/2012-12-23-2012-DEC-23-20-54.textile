@@ -9,7 +9,7 @@ link: http://act.watchdog.net/petitions/637?share_ref=Ifc7HcY-UpA
 name: "Tell Congress: Overturn Citizens United Decision NOW!"
 caption: act.watchdog.net
 description: "God only knows if these online petitions do anything, but I'll take any steps to overturn Citizens United. I think it's one of the most destructive decisions in recent American government. "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/306190516166051

@@ -12,7 +12,7 @@ properties:
 - name: By
   text: Awesome Sauce
   href: http://www.facebook.com/AwesomeCrud?ref=stream
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/413363498742269

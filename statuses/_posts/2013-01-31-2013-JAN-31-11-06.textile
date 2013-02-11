@@ -22,7 +22,7 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDW7ZjJK_t9YDMX&w=90&h=9
 link: http://www.queerculturalcenter.org/Pages/HalPages/GaySempg5.html
 name: Hal Fischer's Gay Semiotics 1977
 caption: www.queerculturalcenter.org
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/155814747903719

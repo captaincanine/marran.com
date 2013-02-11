@@ -6,7 +6,7 @@ from:
 message: My apologies to anyone offended by this. In Bhutan, they often paint penises on houses as a wish for fertility (makes sense). However, I have no idea what a "cum bar" is and couldn't stop giggling enough to ask.
 picture: http://photos-a.ak.fbcdn.net/hphotos-ak-ash4/425619_10151588779159638_1029748613_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151588779159638&set=a.490588709637.298813.790499637&type=1&relevant_count=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yM/x/og8V99JVf8G.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151588784824638

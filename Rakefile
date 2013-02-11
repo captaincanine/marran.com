@@ -37,8 +37,7 @@ EOS
 end
 
 task :deploy do
-  sh 'jekyll'
-  sh 'rsync -rzvc _site/ root@198.101.216.18:/var/www/html/'
+  sh 'jekyll /var/www/admin/marran.com /var/www/html'
 end
 
 task :commit do

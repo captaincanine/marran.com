@@ -7,7 +7,7 @@ story: Keith Marran was tagged in Rob Velasco's photo.
 picture: http://photos-d.ak.fbcdn.net/hphotos-ak-snc6/249585_4248926074668_715512697_s.jpg
 link: http://www.facebook.com/photo.php?fbid=4248926074668&set=at.4248898353975.164384.1631202087.790499637&type=1&relevant_count=1
 description: Keith Marran was tagged in Rob Velasco's photo.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151562433069638

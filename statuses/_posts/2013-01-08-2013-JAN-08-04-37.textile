@@ -9,7 +9,7 @@ link: http://www.marran.com/blog/my-new-years-resolutions/#.UOvoueKior0.facebook
 name: My New Year's Resolutions
 caption: www.marran.com
 description: I got to them a little later this year, but here are my New Year's resolutions. It's time for the NEW JAN BRADY!
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/216265481844370

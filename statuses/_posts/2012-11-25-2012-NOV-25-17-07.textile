@@ -6,7 +6,7 @@ from:
 story: Keith Marran was tagged in Patrick Yacco's album Keith and David Get Gay Married.
 picture: http://photos-e.ak.fbcdn.net/hphotos-ak-ash3/148113_10151183999123177_1281183362_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151183999123177&set=at.10151183572988177.451026.507963176.790499637&type=1&relevant_count=7
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 privacy: 
   value: ""
 type: photo

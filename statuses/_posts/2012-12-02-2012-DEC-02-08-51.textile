@@ -6,7 +6,7 @@ from:
 story: Keith Marran was tagged in Jesse M. Ehrenfeld's photo.
 picture: http://photos-c.ak.fbcdn.net/hphotos-ak-prn1/12271_585308869246_1594353502_s.jpg
 link: http://www.facebook.com/photo.php?fbid=585308869246&set=at.585308569846.2048924.7501935.790499637&type=1&relevant_count=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151555852289638

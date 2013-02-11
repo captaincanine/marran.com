@@ -6,7 +6,7 @@ from:
 message: I got some new kitchen toys. Gonna be doing some heavy duty banana carmelization!
 picture: http://photos-h.ak.fbcdn.net/hphotos-ak-prn1/62298_10151670643139638_96021563_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151670643139638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151670643199638

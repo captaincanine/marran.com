@@ -8,7 +8,7 @@ picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCfGwNf9ajf1GXi&w=90&h=9
 link: http://www.mysteryisland.net/freakies
 name: "FREAKIES Cereal article by Bradley Mason Hamlin for Mystery Island Publications: http://mysteryislan"
 caption: www.mysteryisland.net
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yN/x/aS8ecmYRys0.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/418679274879341

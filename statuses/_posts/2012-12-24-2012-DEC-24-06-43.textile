@@ -7,7 +7,7 @@ message: It's hard to stay truly warm here, so David and I went for a hot stone 
 picture: http://photos-g.ak.fbcdn.net/hphotos-ak-ash3/602839_10151594990519638_22084429_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151594990519638&set=a.10151542188989638.599042.790499637&type=1&relevant_count=1
 name: iOS Photos
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151594990584638

@@ -7,7 +7,7 @@ story: Keith Marran was tagged in Bureau of General Services-Queer Division's ph
 picture: http://photos-a.xx.fbcdn.net/hphotos-ash3/64658_383244795104508_982921384_s.jpg
 link: http://www.facebook.com/photo.php?fbid=383244795104508&set=at.383243741771280.84267.187808047981518.790499637&type=1&relevant_count=1
 description: Keith Marran was tagged in Bureau of General Services-Queer Division's photo.
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yb/x/StEh3RhPvjk.gif
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions: 
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151647392394638
