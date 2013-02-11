@@ -6,7 +6,7 @@ from:
 message: Yesterday was off the charts crazy. Here's a snippet from Trongsa Tsechu.
 picture: http://vthumb.ak.fbcdn.net/hvthumb-ak-prn1/632733_10151592494334638_10151592491504638_54956_445_b.jpg
 link: http://www.facebook.com/photo.php?v=10151592491504638
-source: http://video.ak.fbcdn.net/cfs-ak-snc6/v/721084/693/10151592491504638_57952.mp4?oh=5baa09d61c36cbaf82202702ca57dee5&oe=5108A0F2&__gda__=1359537897_69023cdab3a8c7a7ddfe9ac05a563bbe
+source: http://video.ak.fbcdn.net/cfs-ak-snc6/v/721084/693/10151592491504638_57952.mp4?oh=2a659eb3fddf1baeed05437b08f7036a&oe=511A6D32&__gda__=1360689897_180e3c18e81444b411629a8ff12d6b87
 name: Dec 22, 2012 9:37pm
 properties: 
 - name: Length

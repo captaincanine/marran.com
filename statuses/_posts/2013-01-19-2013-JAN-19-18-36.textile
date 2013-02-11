@@ -15,6 +15,17 @@ actions:
   link: http://www.facebook.com/790499637/posts/10151647392394638
 privacy: 
   value: ""
+place: 
+  id: "187808047981518"
+  name: Bureau of General Services-Queer Division
+  location: 
+    street: 27 Orchard St.
+    city: New York
+    state: NY
+    country: United States
+    zip: "10002"
+    latitude: 40.715553
+    longitude: -73.991798
 type: photo
 status_type: tagged_in_photo
 object_id: "383244795104508"

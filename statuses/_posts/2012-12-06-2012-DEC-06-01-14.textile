@@ -39,10 +39,10 @@ likes:
     id: "19602090"
   - name: Dennis Micah Fowler
     id: "763622599"
-  - name: Andrew Ritz
-    id: "1321093639"
   - name: Christopher Stansfield
     id: "542530197"
+  - name: Andrew Ritz
+    id: "1321093639"
   count: 17
 comments: 
   data: 

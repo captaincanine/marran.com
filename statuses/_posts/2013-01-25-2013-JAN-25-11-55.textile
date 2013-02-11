@@ -23,7 +23,7 @@ application:
   namespace: buffer-app
   id: "103667826405103"
 created_time: 2013-01-25T16:55:13+0000
-updated_time: 2013-01-27T00:11:49+0000
+updated_time: 2013-01-28T20:21:14+0000
 likes: 
   data: 
   - name: Suzanne Feinberg
@@ -115,7 +115,13 @@ comments:
       id: "729111833"
     message: The Webster
     created_time: 2013-01-27T00:11:49+0000
-  count: 11
+  - id: 790499637_10151659565024638_30556966
+    from: 
+      name: Robert Lucas
+      id: "100000816082478"
+    message: EVP
+    created_time: 2013-01-28T20:21:14+0000
+  count: 12
 layout: status
 title: Friday, Jan 25, 2013 around 11:55AM
 date: 2013-01-25 11:55:13 -05:00

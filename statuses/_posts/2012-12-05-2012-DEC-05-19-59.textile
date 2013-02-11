@@ -15,6 +15,17 @@ actions:
   link: http://www.facebook.com/790499637/posts/10151562433069638
 privacy: 
   value: ""
+place: 
+  id: "127617100677880"
+  name: Nyc Comic Con
+  location: 
+    street: ""
+    city: New York
+    state: NY
+    country: United States
+    zip: ""
+    latitude: 40.758005549222
+    longitude: -74.000396848621
 type: photo
 status_type: tagged_in_photo
 object_id: "4248926074668"
