@@ -1,3 +1,5 @@
+require 'ruby-debug'
+
 module Jekyll
 
   module Filters
@@ -39,6 +41,10 @@ module Jekyll
 		  URI.join(site_url, s).to_s
 		end
 	
+	  def meta_tag(s)
+      s.to_s.gsub(/\"/, '&quot;').gsub(/<.*?>/, '')
+	  end
+	  
 	end
 
 end

@@ -26,14 +26,14 @@
 
 	<meta property="og:site_name" content="Keith Marran"/>
 	<meta property="og:title" content="{{ page.title | strip_html }}"/>
-	{% if (page.description) %}<meta property="og:description" content="{{ page.description | strip_html }}"/>{% endif %}
+	{% if (page.description) %}<meta property="og:description" content="{{ page.description | meta_tag }}"/>{% endif %}
 	{% if (page.images) %}<meta property="og:image" content="{{ page.images[0] | format_teaser_image }}"/>{% endif %}
 
   <meta property="twitter:card" content="summary" />
   <meta property="twitter:creator" content="@captaincanine" />
   <meta property="twitter:url" content="{{ page.url | absolute_path }}" />
   <meta property="twitter:title" content="{{ page.title | strip_html }}" />
-  {% if (page.description) %}<meta property="twitter:description" content="{{ page.description | strip_html }}" />{% endif %}
+  {% if (page.description) %}<meta property="twitter:description" content="{{ page.description | meta_tag }}" />{% endif %}
 	{% if (page.images) %}<meta property="twitter:image" content="{{ page.images[0] | format_teaser_image }}" />{% endif %}
 
 	<script type="text/javascript">
