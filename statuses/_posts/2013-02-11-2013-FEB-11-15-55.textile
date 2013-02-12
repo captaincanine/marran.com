@@ -27,16 +27,27 @@ application:
   namespace: buffer-app
   id: "103667826405103"
 created_time: 2013-02-11T20:55:09+0000
-updated_time: 2013-02-11T20:55:09+0000
+updated_time: 2013-02-12T00:01:30+0000
 likes: 
   data: 
+  - name: Catherine Everett Hawes
+    id: "1403433546"
+  - name: Charlotte Hertander
+    id: "577154539"
+  - name: Justin Winslow
+    id: "1201684433"
   - name: Eric Kelhoffer
     id: "671590942"
-  - name: Matthew Shields
-    id: "729111833"
-  count: 2
+  count: 5
 comments: 
-  count: 0
+  data: 
+  - id: 790499637_10151725330299638_11279985
+    from: 
+      name: Christine Marran
+      id: "1327144819"
+    message: Cool. Did you get it on-line? Where can I get a cool case?
+    created_time: 2013-02-12T00:01:30+0000
+  count: 1
 layout: status-photo
 title: Monday, Feb 11, 2013 around 03:55PM
 images: 
