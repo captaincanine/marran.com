@@ -150,11 +150,13 @@ siteSearch = function(w) {
     };
 
     o.loadPostData = function(ts) {
+
       var obj = $(ts);
+
       if (obj.find('.date').length > 0) {
         var date = $.timeago(obj.find('.date').text());
       }
-<<<<<<< HEAD
+
       $('#search-results').removeClass('thinking');
       $('#search-results').css('display', 'block');
       $('#search-results').append(obj.hide());
@@ -168,21 +170,7 @@ siteSearch = function(w) {
       $('.form-search i').remove();
       $('.form-search input').val('');
     }
-    
-=======
-      $('#search-results').append(obj.hide());
-      obj.slideDown('slow');
-    }
-    
-    o.clearResults = function() {
-      $(document).unbind();
-      $('#search-results').empty();
-      $('#search-results').hide();
-      $('.form-search i').remove();
-      $('.form-search input').val('');
-    }
-    
->>>>>>> 8d20a2f2e5fe31086f1e5186b3b3b433862c1d09
+
     // here's the main code of the function
     
     clearTimeout(searchTimer);
@@ -194,28 +182,12 @@ siteSearch = function(w) {
           
     if ($.trim(w) != '') {
     
-<<<<<<< HEAD
       $('#search-results').addClass('thinking');
       $('#search-results').show();
 
       o.posts = new Array();
       o.words = o.parseWords(w);
       o.indexUrls = o.getIndexUrls(o.words);
-=======
-    o.loadIndexes(o.indexUrls);
-        
-    $(document).ajaxStop(function () { 
-    	if (o.posts.length) {
-
-    		o.getPosts();
-    		    		
-    		$('#search-results').css('top', $('.form-search').offset().top + 34); 
-    		$('#search-results').show()
-    		$('<i class="icon-remove"></i>').appendTo(".form-search").click(o.clearResults);
-    		
-    	}
-    });
->>>>>>> 8d20a2f2e5fe31086f1e5186b3b3b433862c1d09
     
       o.loadIndexes(o.indexUrls);
         
