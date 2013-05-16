@@ -1,0 +1,75 @@
+---
+id: 4bd9bb4ea4de2f5e26e06dbd
+createdAt: 1272560462
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 427ea800f964a520b0211fe3
+  name: Tamarind
+  contact:
+    phone: '2126747400'
+    formattedPhone: (212) 674-7400
+    twitter: tamarind22st
+  location:
+    address: 41 E 22nd St
+    crossStreet: Park Ave. S
+    lat: 40.73981961624037
+    lng: -73.98758558785896
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/tamarind/427ea800f964a520b0211fe3
+  categories:
+  - id: 4bf58dd8d48988d10f941735
+    name: Indian Restaurant
+    pluralName: Indian Restaurants
+    shortName: Indian
+    icon: https://foursquare.com/img/categories/food/indian.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 3196
+    usersCount: 2567
+    tipCount: 62
+  url: http://tamarinde22.com
+  likes:
+    count: 14
+    groups:
+    - type: others
+      count: 14
+      items: []
+    summary: 14 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=880&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/tamarind/427ea800f964a520b0211fe3/menu
+    mobileUrl: https://foursquare.com/v/427ea800f964a520b0211fe3/device_menu
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Tamarind
+icon: https://foursquare.com/img/categories/food/indian.png
+url: https://foursquare.com/v/tamarind/427ea800f964a520b0211fe3
+date: 2010-04-29 12:01:02.000000000 -05:00
+
+---

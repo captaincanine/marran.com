@@ -1,0 +1,95 @@
+---
+id: 5161ab5be4b0756d68e2ab3f
+createdAt: 1365355355
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4da09953c41ca143f22b4da3
+  name: MoCCA Festival
+  contact: {}
+  location:
+    address: Lexington Armory
+    crossStreet: 25th and Lexington
+    lat: 40.74152385241307
+    lng: -73.98437745502413
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/mocca-festival/4da09953c41ca143f22b4da3
+  categories:
+  - id: 4bf58dd8d48988d1f1931735
+    name: General Entertainment
+    pluralName: General Entertainment
+    shortName: Entertainment
+    icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+    parents:
+    - Arts & Entertainment
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 333
+    usersCount: 261
+    tipCount: 3
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '1911255'
+        firstName: Henry W.
+        lastName: N.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/RIQB1D5OA1EKM5S5.jpg
+        tips:
+          count: 87
+        lists:
+          groups:
+          - type: created
+            count: 19
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: henrywng
+          facebook: '777517497'
+      - id: '29797999'
+        firstName: Rosa
+        lastName: C.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/XBMSBHPPD4U3FA5N.jpg
+        tips:
+          count: 0
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '632772926'
+    summary: Henry W. N & Rosa C
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: MoCCA Festival
+icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+url: https://foursquare.com/v/mocca-festival/4da09953c41ca143f22b4da3
+date: 2013-04-07 12:22:35.000000000 -05:00
+
+---

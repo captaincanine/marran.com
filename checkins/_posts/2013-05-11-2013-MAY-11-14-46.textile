@@ -1,0 +1,112 @@
+---
+id: 518ea002498e8a718147f566
+createdAt: 1368301570
+type: checkin
+timeZone: America/Bogota
+timeZoneOffset: -300
+venue:
+  id: 4b51bb54f964a520cb5327e3
+  name: Sofitel Santa Clara
+  contact:
+    phone: '+5756646070'
+    formattedPhone: +57 5 6646070
+  location:
+    address: Calle del Torno 39-29
+    lat: 10.428211485112639
+    lng: -75.54786086082458
+    city: Cartagena
+    state: Bolívar
+    country: Colombia
+    cc: CO
+  canonicalUrl: https://foursquare.com/v/sofitel-santa-clara/4b51bb54f964a520cb5327e3
+  categories:
+  - id: 4bf58dd8d48988d1fa931735
+    name: Hotel
+    pluralName: Hotels
+    shortName: Hotel
+    icon: https://foursquare.com/img/categories/travel/hotel.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1689
+    usersCount: 751
+    tipCount: 21
+  url: http://www.hotelsantaclara.com
+  likes:
+    count: 16
+    groups:
+    - type: others
+      count: 16
+      items: []
+    summary: 16 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 1
+  items:
+  - id: 518ea007498e1e45eedcf9e1
+    createdAt: 1368301575
+    source:
+      name: foursquare for iPhone
+      url: https://foursquare.com/download/#/iphone
+    url: https://irs3.4sqi.net/img/general/original/90473_euvTb9S1t-y07oFnIGYqq_8nOZGK3JbldiIu27dKSRg.jpg
+    sizes:
+      count: 4
+      items:
+      - url: https://irs3.4sqi.net/img/general/original/90473_euvTb9S1t-y07oFnIGYqq_8nOZGK3JbldiIu27dKSRg.jpg
+        width: 1440
+        height: 1440
+      - url: https://irs3.4sqi.net/img/general/300x300/90473_euvTb9S1t-y07oFnIGYqq_8nOZGK3JbldiIu27dKSRg.jpg
+        width: 300
+        height: 300
+      - url: https://irs3.4sqi.net/img/general/100x100/90473_euvTb9S1t-y07oFnIGYqq_8nOZGK3JbldiIu27dKSRg.jpg
+        width: 100
+        height: 100
+      - url: https://irs3.4sqi.net/img/general/36x36/90473_euvTb9S1t-y07oFnIGYqq_8nOZGK3JbldiIu27dKSRg.jpg
+        width: 36
+        height: 36
+    user:
+      id: '90473'
+      firstName: Keith
+      lastName: Marran
+      gender: male
+      relationship: self
+      photo: https://is1.4sqi.net/userpix_thumbs/1YGKPO0XSQYS2HFP.jpg
+      tips:
+        count: 3
+      lists:
+        groups:
+        - type: created
+          count: 1
+          items: []
+      homeCity: New York, NY
+      bio: ''
+      contact:
+        phone: '6466235277'
+        email: keith@marran.com
+        twitter: captaincanine
+        facebook: '790499637'
+    visibility: public
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Sofitel Santa Clara
+icon: https://foursquare.com/img/categories/travel/hotel.png
+url: https://foursquare.com/v/sofitel-santa-clara/4b51bb54f964a520cb5327e3
+date: 2013-05-11 14:46:10.000000000 -05:00
+
+---

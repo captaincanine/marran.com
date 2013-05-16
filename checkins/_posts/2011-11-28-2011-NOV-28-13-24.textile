@@ -1,0 +1,129 @@
+---
+id: 4ed3d1c78231b9ef8c8f460d
+createdAt: 1322504647
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4cd837e8da85224bde684bca
+  name: Tuck Shop
+  contact:
+    phone: '2122552021'
+    formattedPhone: (212) 255-2021
+  location:
+    address: 75 9th Ave
+    crossStreet: btwn 15th & 16th St.
+    lat: 40.742288734369936
+    lng: -74.00639713655546
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/tuck-shop/4cd837e8da85224bde684bca
+  categories:
+  - id: 4bf58dd8d48988d169941735
+    name: Australian Restaurant
+    pluralName: Australian Restaurants
+    shortName: Australian
+    icon: https://foursquare.com/img/categories/food/australian.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 907
+    usersCount: 619
+    tipCount: 19
+  likes:
+    count: 4
+    groups:
+    - type: others
+      count: 4
+      items:
+      - id: '47900463'
+        firstName: Caitlin
+        lastName: C.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/2M5QVNZUWBV0WI0G.jpg
+        tips:
+          count: 184
+        lists:
+          groups:
+          - type: created
+            count: 16
+            items: []
+        homeCity: New York, NY
+        bio: filmmaker, grad student, bookworm, mac & cheese connoisseur, cinephile,
+          shutterbug, broadway junkie, okie, equestrian, proud member of the william
+          & mary tribe
+        contact:
+          twitter: cait7911
+          facebook: '1444980237'
+      - id: '39762641'
+        firstName: Edris
+        lastName: N.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/GS5O2UDBGQ0XYAQY.jpg
+        tips:
+          count: 26
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '1015533027'
+      - id: '1376477'
+        firstName: Thomas
+        lastName: D.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/PCI1WW11QZ3AOZWD.jpg
+        tips:
+          count: 23
+        homeCity: Albertson, NY
+        bio: ''
+        contact: {}
+      - id: '209890'
+        firstName: Brian
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/YP1OH2K3HGQBAXFB.jpg
+        tips:
+          count: 15
+        lists:
+          groups:
+          - type: created
+            count: 3
+            items: []
+        homeCity: Brooklyn, NY
+        bio: Booooooooooooooooooooo
+        contact: {}
+    summary: Caitlin C, Edris N, Thomas D & Brian S
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/tuck-shop/4cd837e8da85224bde684bca/menu
+    mobileUrl: https://foursquare.com/v/4cd837e8da85224bde684bca/device_menu
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Tuck Shop
+icon: https://foursquare.com/img/categories/food/australian.png
+url: https://foursquare.com/v/tuck-shop/4cd837e8da85224bde684bca
+date: 2011-11-28 13:24:07.000000000 -05:00
+
+---

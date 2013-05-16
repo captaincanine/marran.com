@@ -1,0 +1,26 @@
+---
+id: '790499637_10151620801134638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"I recommend getting one of..." on Joel Muchmore''s status.'
+story_tags:
+  '35':
+  - id: '1542470417'
+    name: Joel Muchmore
+    offset: 35
+    length: 13
+    type: user
+privacy:
+  value: ''
+type: status
+created_time: '2013-01-06T07:32:41+0000'
+updated_time: '2013-01-06T07:32:41+0000'
+comments:
+  count: 0
+layout: status
+title: Sunday, Jan  6, 2013 around 02:32AM
+date: 2013-01-06 02:32:41.000000000 -05:00
+
+---
+"I recommend getting one of..." on Joel Muchmore's status.

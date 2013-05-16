@@ -1,0 +1,108 @@
+---
+id: 4f048309e5faf0bb0c07fd69
+createdAt: 1325695753
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a61faabf964a520c0c21fe3
+  name: Jackson Square
+  contact: {}
+  location:
+    address: 13th St at 8th Ave
+    crossStreet: Horatio St & Greenwich Ave
+    lat: 40.73893324113601
+    lng: -74.00283336639404
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/jackson-square/4a61faabf964a520c0c21fe3
+  categories:
+  - id: 4bf58dd8d48988d163941735
+    name: Park
+    pluralName: Parks
+    shortName: Park
+    icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+    parents:
+    - Outdoors & Recreation
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 3631
+    usersCount: 1685
+    tipCount: 10
+  likes:
+    count: 3
+    groups:
+    - type: others
+      count: 3
+      items:
+      - id: '34278540'
+        firstName: Joey
+        lastName: L.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/0ZVVJZTPGULJEDUA.jpg
+        tips:
+          count: 33
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact:
+          twitter: joey_67
+      - id: '3892859'
+        firstName: Alexandre
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/BALHB2WJLO35TQIU.jpg
+        tips:
+          count: 25
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Curitiba, Brasil
+        bio: ''
+        contact:
+          twitter: alemaouc
+          facebook: '758574739'
+      - id: '758292'
+        firstName: Andrew
+        lastName: F.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/K3CP0IF1M35I2WQU.jpg
+        tips:
+          count: 6
+        homeCity: New York, NY
+        bio: Half-Mexican, half-Greek actor/waiter living in the Big Apple. Just chasing
+          a dream... These are my adventures...
+        contact:
+          twitter: 2fafou
+          facebook: '13908283'
+    summary: Joey L, Alexandre S & Andrew F
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Jackson Square
+icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+url: https://foursquare.com/v/jackson-square/4a61faabf964a520c0c21fe3
+date: 2012-01-04 11:49:13.000000000 -05:00
+
+---

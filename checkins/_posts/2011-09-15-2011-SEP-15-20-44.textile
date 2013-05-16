@@ -1,0 +1,96 @@
+---
+id: 4e72aa15b0fb38bb728fc9fb
+createdAt: 1316137493
+type: checkin
+timeZone: Asia/Jerusalem
+timeZoneOffset: 180
+venue:
+  id: 4bab6deef964a520d4a83ae3
+  name: King David Lounge
+  contact: {}
+  location:
+    address: Ben Gurion Airport, Ha-Mamri'im Rd.
+    lat: 32.00316303317436
+    lng: 34.87236499786377
+    city: Tel Aviv
+    state: Gush Dan
+    country: Israel
+    cc: IL
+  canonicalUrl: https://foursquare.com/v/king-david-lounge/4bab6deef964a520d4a83ae3
+  categories:
+  - id: 4eb1bc533b7b2c5b1d4306cb
+    name: Airport Lounge
+    pluralName: Airport Lounges
+    shortName: Lounge
+    icon: https://foursquare.com/img/categories/travel/airport.png
+    parents:
+    - Travel & Transport
+    - Airport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1899
+    usersCount: 592
+    tipCount: 17
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '159287'
+        firstName: Orli
+        lastName: Y.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/XQMPLE1AVMMIH02M.jpg
+        tips:
+          count: 4
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Tel Aviv, Israel
+        bio: Co-founder of Go2web20.net and owner of Scoutness.com, and ipad4kids.com
+        contact:
+          twitter: orli
+          facebook: '516724207'
+      - id: '747089'
+        firstName: Lior
+        lastName: M.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/JOG4OXAUGBR0QSTW.jpg
+        tips:
+          count: 3
+        homeCity: Israel
+        bio: ''
+        contact:
+          twitter: liormanor
+          facebook: '570108839'
+    summary: Orli Y & Lior M
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: King David Lounge
+icon: https://foursquare.com/img/categories/travel/airport.png
+url: https://foursquare.com/v/king-david-lounge/4bab6deef964a520d4a83ae3
+date: 2011-09-15 20:44:53.000000000 -05:00
+
+---

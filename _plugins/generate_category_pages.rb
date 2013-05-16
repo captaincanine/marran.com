@@ -51,7 +51,7 @@ module Jekyll
 			read_posts_articles dir
 			self.posts.each do |p| 
       
-        if (not p.categories.include?('statuses'))
+        if (not p.categories.include?('statuses') and not p.categories.include?('checkins'))
           self.articles << p
         end        
       

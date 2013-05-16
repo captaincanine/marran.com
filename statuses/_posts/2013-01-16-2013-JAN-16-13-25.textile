@@ -1,0 +1,28 @@
+---
+id: '790499637_10151641239999638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"Hey there, buddy! Happy Belated Birthday! I wish I could join you for the
+  debauched celebration. Let''s get together soon!" on John F. Duckett''s timeline.'
+story_tags:
+  '127':
+  - id: '567340649'
+    name: John F. Duckett
+    offset: 127
+    length: 15
+    type: user
+privacy:
+  value: ''
+type: status
+status_type: wall_post
+created_time: '2013-01-16T18:25:58+0000'
+updated_time: '2013-01-16T18:25:58+0000'
+comments:
+  count: 0
+layout: status
+title: Wednesday, Jan 16, 2013 around 01:25PM
+date: 2013-01-16 13:25:58.000000000 -05:00
+
+---
+"Hey there, buddy! Happy Belated Birthday! I wish I could join you for the debauched celebration. Let's get together soon!" on John F. Duckett's timeline.

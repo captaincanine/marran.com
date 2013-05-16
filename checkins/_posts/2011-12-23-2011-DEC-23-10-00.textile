@@ -1,0 +1,76 @@
+---
+id: 4ef4977c2c5b6efc37272964
+createdAt: 1324652412
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 45d1a484f964a520af421fe3
+  name: Cafe Grumpy
+  contact:
+    phone: '2122555511'
+    formattedPhone: (212) 255-5511
+    twitter: cafegrumpy
+  location:
+    address: 224 W 20th St
+    crossStreet: btwn 7th & 8th Ave
+    lat: 40.74277821468304
+    lng: -73.99833798408508
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/cafe-grumpy/45d1a484f964a520af421fe3
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 17495
+    usersCount: 5324
+    tipCount: 138
+  url: http://www.cafegrumpy.com
+  likes:
+    count: 95
+    groups:
+    - type: others
+      count: 95
+      items: []
+    summary: 95 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/cafe-grumpy/45d1a484f964a520af421fe3/menu
+    mobileUrl: https://foursquare.com/v/45d1a484f964a520af421fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Cafe Grumpy
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/cafe-grumpy/45d1a484f964a520af421fe3
+date: 2011-12-23 10:00:12.000000000 -05:00
+
+---

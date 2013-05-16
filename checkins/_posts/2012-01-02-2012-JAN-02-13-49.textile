@@ -1,0 +1,73 @@
+---
+id: 4f01fc49775bec6b457b51fd
+createdAt: 1325530185
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4ad3eccef964a520f6e620e3
+  name: Dickson's Farmstand Meats
+  contact:
+    phone: '2122422630'
+    formattedPhone: (212) 242-2630
+    twitter: eatmeaty
+  location:
+    address: 75 9th Ave
+    crossStreet: btwn 15th & 16th Sts
+    lat: 40.74257279412748
+    lng: -74.00567409103637
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/dicksons-farmstand-meats/4ad3eccef964a520f6e620e3
+  categories:
+  - id: 4bf58dd8d48988d11d951735
+    name: Butcher
+    pluralName: Butchers
+    shortName: Butcher
+    icon: https://foursquare.com/img/categories/shops/food_butcher.png
+    parents:
+    - Shop & Service
+    - Food & Drink Shop
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1915
+    usersCount: 924
+    tipCount: 48
+  url: http://dicksonsfarmstand.com
+  likes:
+    count: 16
+    groups:
+    - type: others
+      count: 16
+      items: []
+    summary: 16 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Dickson's Farmstand Meats
+icon: https://foursquare.com/img/categories/shops/food_butcher.png
+url: https://foursquare.com/v/dicksons-farmstand-meats/4ad3eccef964a520f6e620e3
+date: 2012-01-02 13:49:45.000000000 -05:00
+
+---

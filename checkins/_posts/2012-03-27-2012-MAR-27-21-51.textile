@@ -1,0 +1,77 @@
+---
+id: 4f727ca4e4b059045a8aecea
+createdAt: 1332903076
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4d960605daec224beab30c3e
+  name: Coppelia
+  contact:
+    phone: '2128585001'
+    formattedPhone: (212) 858-5001
+    twitter: coppelianyc
+  location:
+    address: 207 W 14th St
+    crossStreet: btwn 7th & 8th Ave.
+    lat: 40.73876404597558
+    lng: -74.00011917403295
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/coppelia/4d960605daec224beab30c3e
+  categories:
+  - id: 4bf58dd8d48988d154941735
+    name: Cuban Restaurant
+    pluralName: Cuban Restaurants
+    shortName: Cuban
+    icon: https://foursquare.com/img/categories/food/cuban.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 7204
+    usersCount: 3597
+    tipCount: 166
+  url: http://www.facebook.com/Coppelianyc?filter=3
+  likes:
+    count: 68
+    groups:
+    - type: others
+      count: 68
+      items: []
+    summary: 68 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+  listed:
+    groups:
+    - type: todos
+      count: 1
+      items: []
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Coppelia
+icon: https://foursquare.com/img/categories/food/cuban.png
+url: https://foursquare.com/v/coppelia/4d960605daec224beab30c3e
+date: 2012-03-27 21:51:16.000000000 -05:00
+
+---

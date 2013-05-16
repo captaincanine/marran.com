@@ -1,0 +1,17 @@
+---
+id: '790499637_10151732857894638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"I don''t think it was Hans..." on his own status.'
+privacy:
+  value: ''
+type: status
+created_time: '2013-02-14T22:46:15+0000'
+updated_time: '2013-02-14T22:46:15+0000'
+layout: status
+title: Thursday, Feb 14, 2013 around 05:46PM
+date: 2013-02-14 17:46:15.000000000 -05:00
+
+---
+"I don't think it was Hans..." on his own status.

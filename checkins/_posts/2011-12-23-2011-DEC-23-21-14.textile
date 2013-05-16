@@ -1,0 +1,99 @@
+---
+id: 4ef5358fb6342877b90f7558
+createdAt: 1324692879
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4b22829af964a5200a4824e3
+  name: Original Roy's Pizza
+  contact:
+    phone: '2122291810'
+    formattedPhone: (212) 229-1810
+  location:
+    address: 154 8th Ave
+    crossStreet: 17th & 18th
+    lat: 40.74204876157762
+    lng: -74.00081928608597
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/original-roys-pizza/4b22829af964a5200a4824e3
+  categories:
+  - id: 4bf58dd8d48988d1ca941735
+    name: Pizza Place
+    pluralName: Pizza Places
+    shortName: Pizza
+    icon: https://foursquare.com/img/categories/food/pizza.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 884
+    usersCount: 458
+    tipCount: 19
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '41428220'
+        firstName: Judith
+        lastName: J.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/YGGZNHFMYO0P4XEQ.jpg
+        tips:
+          count: 0
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact:
+          twitter: bxgirl88
+          facebook: '100000757392844'
+      - id: '35692'
+        firstName: Ryan
+        lastName: P.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/WLEPPFRZJCSSGIIU.jpg
+        tips:
+          count: 52
+        lists:
+          groups:
+          - type: created
+            count: 19
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: ryandpaul
+          facebook: '17807917'
+    summary: Judith J & Ryan P
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Original Roy's Pizza
+icon: https://foursquare.com/img/categories/food/pizza.png
+url: https://foursquare.com/v/original-roys-pizza/4b22829af964a5200a4824e3
+date: 2011-12-23 21:14:39.000000000 -05:00
+
+---

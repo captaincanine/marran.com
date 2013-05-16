@@ -1,0 +1,77 @@
+---
+id: '790499637_10151749784589638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: I'm outside a guitar shop thinking it's time to pick up the guitar again.
+  Or some musical instrument. Or play Guitar Hero more often.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151749784589638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151749784589638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-02-22T23:24:24+0000'
+updated_time: '2013-02-23T15:23:50+0000'
+likes:
+  data:
+  - name: Catherine Everett Hawes
+    id: '1403433546'
+  - name: Charlotte Hertander
+    id: '577154539'
+  - name: Partho Sengupta
+    id: '100000392214097'
+  - name: Linda Rosenson Coe
+    id: '1440111516'
+  count: 7
+comments:
+  data:
+  - id: '10151749784589638_30916748'
+    from:
+      name: Noah Fecks
+      id: '608492513'
+    message: all three...
+    can_remove: true
+    created_time: '2013-02-23T03:05:16+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151749784589638_30918675'
+    from:
+      name: Charlotte Hertander
+      id: '577154539'
+    message: Just do it!! :-)
+    can_remove: true
+    created_time: '2013-02-23T07:20:39+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151749784589638_30922292'
+    from:
+      name: Gabriel Berlin
+      id: '562174618'
+    message: sax-a-ma-phone. tu-ba-ba-ba.
+    can_remove: true
+    created_time: '2013-02-23T15:23:50+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: Mw==
+      before: MQ==
+layout: status
+title: Friday, Feb 22, 2013 around 06:24PM
+date: 2013-02-22 18:24:24.000000000 -05:00
+
+---
+I'm outside a guitar shop thinking it's time to pick up the guitar again. Or some musical instrument. Or play Guitar Hero more often.

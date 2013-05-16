@@ -1,0 +1,78 @@
+---
+id: 4e7626bfd4c0934472340874
+createdAt: 1316366015
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a30992cf964a52083991fe3
+  name: Gusto Ristorante
+  contact:
+    phone: '2129248000'
+    formattedPhone: (212) 924-8000
+    twitter: gustoristorante
+  location:
+    address: 60 Greenwich Ave
+    crossStreet: at 11th St & 7th Ave
+    lat: 40.736057
+    lng: -74.000767
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/gusto-ristorante/4a30992cf964a52083991fe3
+  categories:
+  - id: 4bf58dd8d48988d110941735
+    name: Italian Restaurant
+    pluralName: Italian Restaurants
+    shortName: Italian
+    icon: https://foursquare.com/img/categories/food/italian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2788
+    usersCount: 1936
+    tipCount: 51
+  url: http://www.gustonyc.com
+  likes:
+    count: 10
+    groups:
+    - type: others
+      count: 10
+      items: []
+    summary: 10 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=4223&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/gusto-ristorante/4a30992cf964a52083991fe3/menu
+    mobileUrl: https://foursquare.com/v/4a30992cf964a52083991fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Gusto Ristorante
+icon: https://foursquare.com/img/categories/food/italian.png
+url: https://foursquare.com/v/gusto-ristorante/4a30992cf964a52083991fe3
+date: 2011-09-18 12:13:35.000000000 -05:00
+
+---

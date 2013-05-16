@@ -1,0 +1,125 @@
+---
+id: 4ee8f3830e019eee5ea6d222
+createdAt: 1323889539
+type: checkin
+private: true
+visibility: private
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a982ad4f964a520c12a20e3
+  name: Pleasure Chest
+  contact:
+    phone: '2122422158'
+    formattedPhone: (212) 242-2158
+  location:
+    address: 156 7th Ave S
+    crossStreet: at Perry St.
+    lat: 40.73529128534676
+    lng: -74.00236129760742
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/pleasure-chest/4a982ad4f964a520c12a20e3
+  categories:
+  - id: 4bf58dd8d48988d1ff941735
+    name: Miscellaneous Shop
+    pluralName: Miscellaneous Shops
+    shortName: Shop
+    icon: https://foursquare.com/img/categories/shops/default.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1499
+    usersCount: 841
+    tipCount: 10
+  url: http://www.thepleasurechest.com
+  likes:
+    count: 9
+    groups:
+    - type: others
+      count: 9
+      items:
+      - id: '2575914'
+        firstName: Jessica
+        lastName: J.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/J1WTJM0VAEXTH51U.jpg
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 10
+            items: []
+        homeCity: Singapore
+        bio: ''
+        contact:
+          facebook: '616962'
+      - id: '45196995'
+        firstName: Malik
+        lastName: S.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/OSP0Z2FHGSOPSETH.jpg
+        tips:
+          count: 8
+        homeCity: Brooklyn, New York
+        bio: ! 'Allahu Akbar: Actor, humanitarian, consultant, creative director &
+          manager (NYC) Rymatica Models Network.www.RMNOnline.net & Malik@RMNOnline.net.'
+        contact:
+          twitter: malikshabazz85
+          facebook: '100005004308454'
+      - id: '8957832'
+        firstName: Aaron
+        lastName: E.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/LI4HNJFKVYJGQIXN.jpg
+        tips:
+          count: 23
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: evansace7287
+          facebook: '46001801'
+      - id: '33403266'
+        firstName: Justine
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/HUQJMDBOLG24V0HF.jpg
+        tips:
+          count: 12
+        homeCity: Clementon, NJ
+        bio: ''
+        contact:
+          twitter: tinaroy59
+          facebook: '100002549133188'
+    summary: Jessica J, Malik S, Aaron E & 6 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Pleasure Chest
+icon: https://foursquare.com/img/categories/shops/default.png
+url: https://foursquare.com/v/pleasure-chest/4a982ad4f964a520c12a20e3
+date: 2011-12-14 14:05:39.000000000 -05:00
+
+---

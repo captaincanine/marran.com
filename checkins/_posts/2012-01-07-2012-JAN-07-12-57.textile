@@ -1,0 +1,75 @@
+---
+id: 4f08878ae4b0882d232d6966
+createdAt: 1325959050
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 3fd66200f964a520cce51ee3
+  name: Trailer Park Lounge & Grill
+  contact:
+    phone: '2124638000'
+    formattedPhone: (212) 463-8000
+  location:
+    address: 271 W 23rd St.
+    crossStreet: btwn 7th & 8th Ave.
+    lat: 40.74514799387085
+    lng: -73.99811064164594
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/trailer-park-lounge--grill/3fd66200f964a520cce51ee3
+  categories:
+  - id: 4bf58dd8d48988d116941735
+    name: Bar
+    pluralName: Bars
+    shortName: Bar
+    icon: https://foursquare.com/img/categories/nightlife/bar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 7844
+    usersCount: 5747
+    tipCount: 70
+  url: http://trailerparklounge.com
+  likes:
+    count: 18
+    groups:
+    - type: others
+      count: 18
+      items: []
+    summary: 18 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/trailer-park-lounge--grill/3fd66200f964a520cce51ee3/menu
+    mobileUrl: https://foursquare.com/v/3fd66200f964a520cce51ee3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Trailer Park Lounge & Grill
+icon: https://foursquare.com/img/categories/nightlife/bar.png
+url: https://foursquare.com/v/trailer-park-lounge--grill/3fd66200f964a520cce51ee3
+date: 2012-01-07 12:57:30.000000000 -05:00
+
+---

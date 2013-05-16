@@ -1,0 +1,68 @@
+---
+id: 4e74da68b0fb968032ed09ff
+createdAt: 1316280936
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a411349f964a520bba41fe3
+  name: Better Burger
+  contact:
+    phone: '2129896688'
+    formattedPhone: (212) 989-6688
+  location:
+    address: 178 8th Ave
+    crossStreet: at 19th St
+    lat: 40.742821
+    lng: -74.000259
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/better-burger/4a411349f964a520bba41fe3
+  categories:
+  - id: 4bf58dd8d48988d16c941735
+    name: Burger Joint
+    pluralName: Burger Joints
+    shortName: Burgers
+    icon: https://foursquare.com/img/categories/food/burger.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 961
+    usersCount: 643
+    tipCount: 24
+  closed: true
+  url: http://betterburgernyc.com
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Better Burger
+icon: https://foursquare.com/img/categories/food/burger.png
+url: https://foursquare.com/v/better-burger/4a411349f964a520bba41fe3
+date: 2011-09-17 12:35:36.000000000 -05:00
+
+---

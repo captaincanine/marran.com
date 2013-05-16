@@ -1,0 +1,77 @@
+---
+id: 51081307e4b0d4a0624a5c87
+createdAt: 1359483655
+type: checkin
+shout: I discovered a Blue Bottle Coffee nearby. The New Orleans is entirely too addictive
+  for it to be this close to home.
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4f3a9e05bb3d2fbe725ca57a
+  name: Blue Bottle Coffee
+  contact:
+    twitter: bluebottchelsea
+  location:
+    address: 450 W 15th St.
+    crossStreet: btwn 9th & 10th Ave.
+    lat: 40.74247745309511
+    lng: -74.00684595108032
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/blue-bottle-coffee/4f3a9e05bb3d2fbe725ca57a
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 6225
+    usersCount: 2832
+    tipCount: 56
+  url: http://www.bluebottlecoffee.net
+  likes:
+    count: 94
+    groups:
+    - type: others
+      count: 94
+      items: []
+    summary: 94 likes
+  like: false
+  beenHere:
+    count: 5
+    marked: true
+  listed:
+    groups:
+    - type: dones
+      count: 1
+      items: []
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Blue Bottle Coffee
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/blue-bottle-coffee/4f3a9e05bb3d2fbe725ca57a
+date: 2013-01-29 13:20:55.000000000 -05:00
+
+---

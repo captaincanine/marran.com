@@ -1,0 +1,25 @@
+---
+id: '790499637_10151788851334638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: Keith Marran went to an event.
+story_tags:
+  '0':
+  - id: '790499637'
+    name: Keith Marran
+    offset: 0
+    length: 12
+    type: user
+link: http://www.facebook.com/events/496243813760049/
+privacy:
+  value: ''
+type: link
+created_time: '2013-03-09T22:02:42+0000'
+updated_time: '2013-03-09T22:02:42+0000'
+layout: status-link
+title: Saturday, Mar  9, 2013 around 05:02PM
+date: 2013-03-09 17:02:42.000000000 -05:00
+
+---
+Keith Marran went to an event.

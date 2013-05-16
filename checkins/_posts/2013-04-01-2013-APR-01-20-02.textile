@@ -1,0 +1,71 @@
+---
+id: 515a2e11e4b09355912a7141
+createdAt: 1364864529
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4b00f8a6f964a5208e4122e3
+  name: Gotham Comedy Club
+  contact:
+    phone: '2123679000'
+    formattedPhone: (212) 367-9000
+    twitter: gothamcomedy
+  location:
+    address: 208 W 23rd St
+    lat: 40.74427916680205
+    lng: -73.99640624193349
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/gotham-comedy-club/4b00f8a6f964a5208e4122e3
+  categories:
+  - id: 4bf58dd8d48988d18e941735
+    name: Comedy Club
+    pluralName: Comedy Clubs
+    shortName: Comedy Club
+    icon: https://foursquare.com/img/categories/arts_entertainment/comedyclub.png
+    parents:
+    - Arts & Entertainment
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 5685
+    usersCount: 4573
+    tipCount: 41
+  url: http://www.gothamcomedyclub.com
+  likes:
+    count: 22
+    groups:
+    - type: others
+      count: 22
+      items: []
+    summary: 22 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Gotham Comedy Club
+icon: https://foursquare.com/img/categories/arts_entertainment/comedyclub.png
+url: https://foursquare.com/v/gotham-comedy-club/4b00f8a6f964a5208e4122e3
+date: 2013-04-01 20:02:09.000000000 -05:00
+
+---

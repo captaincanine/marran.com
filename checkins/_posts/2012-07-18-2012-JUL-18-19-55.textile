@@ -1,0 +1,79 @@
+---
+id: 50075af6e4b056df76c6aed5
+createdAt: 1342659318
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 49c43598f964a520ad561fe3
+  name: ilili Restaurant
+  contact:
+    phone: '2126832929'
+    formattedPhone: (212) 683-2929
+    twitter: ililirestaurant
+    facebook: '63938193457'
+  location:
+    address: 236 5th Ave
+    crossStreet: btwn 27th & 28th St.
+    lat: 40.74428549628668
+    lng: -73.9874880246811
+    postalCode: '10001'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/ilili-restaurant/49c43598f964a520ad561fe3
+  categories:
+  - id: 4bf58dd8d48988d115941735
+    name: Middle Eastern Restaurant
+    pluralName: Middle Eastern Restaurants
+    shortName: Middle Eastern
+    icon: https://foursquare.com/img/categories/food/middleeastern.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 8760
+    usersCount: 6452
+    tipCount: 154
+  url: http://www.ililinyc.com
+  likes:
+    count: 63
+    groups:
+    - type: others
+      count: 63
+      items: []
+    summary: 63 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=15550&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/ilili-restaurant/49c43598f964a520ad561fe3/menu
+    mobileUrl: https://foursquare.com/v/49c43598f964a520ad561fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: ilili Restaurant
+icon: https://foursquare.com/img/categories/food/middleeastern.png
+url: https://foursquare.com/v/ilili-restaurant/49c43598f964a520ad561fe3
+date: 2012-07-18 19:55:18.000000000 -05:00
+
+---

@@ -1,0 +1,74 @@
+---
+id: 4ed14a7ae5faa5ec03e11488
+createdAt: 1322338938
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a3acdb3f964a5204ba01fe3
+  name: Disney's The Lion King at the Minskoff Theatre
+  contact:
+    phone: '8668702717'
+    formattedPhone: (866) 870-2717
+    twitter: thelionking
+    facebook: '148930827579'
+  location:
+    address: 200 W 45th St.
+    crossStreet: at Broadway
+    lat: 40.757985223340995
+    lng: -73.98603200912476
+    postalCode: '10036'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/disneys-the-lion-king-at-the-minskoff-theatre/4a3acdb3f964a5204ba01fe3
+  categories:
+  - id: 4bf58dd8d48988d137941735
+    name: Theater
+    pluralName: Theaters
+    shortName: Theater
+    icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+    parents:
+    - Arts & Entertainment
+    - Performing Arts Venue
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 8089
+    usersCount: 6916
+    tipCount: 63
+  url: http://www.lionking.com
+  likes:
+    count: 131
+    groups:
+    - type: others
+      count: 131
+      items: []
+    summary: 131 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Disney's The Lion King at the Minskoff Theatre
+icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+url: https://foursquare.com/v/disneys-the-lion-king-at-the-minskoff-theatre/4a3acdb3f964a5204ba01fe3
+date: 2011-11-26 15:22:18.000000000 -05:00
+
+---

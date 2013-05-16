@@ -1,0 +1,83 @@
+---
+id: 4eb6cd0df790d87d034d66a5
+createdAt: 1320602893
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4e727b27c65bf4cc2d1a5f00
+  name: ! '#OCCUPYWALLSTREET'
+  contact:
+    phone: '8778813020'
+    formattedPhone: (877) 881-3020
+    twitter: occupywallstnyc
+  location:
+    address: Liberty Plaza
+    crossStreet: at Broadway & Liberty
+    lat: 40.70915765856345
+    lng: -74.01104092597961
+    postalCode: '10006'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/occupywallstreet/4e727b27c65bf4cc2d1a5f00
+  categories:
+  - id: 4bf58dd8d48988d162941735
+    name: Other Great Outdoors
+    pluralName: Other Great Outdoors
+    shortName: Other Outdoors
+    icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+    parents:
+    - Outdoors & Recreation
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 10862
+    usersCount: 7547
+    tipCount: 141
+  closed: true
+  url: http://occupywallst.org
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '394032'
+        firstName: justinstoned
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/VRU4R4UKIUI0RVBH.jpg
+        tips:
+          count: 204
+        homeCity: '92101'
+        bio: ''
+        contact:
+          twitter: justinstoned
+    summary: justinstoned
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: ! '#OCCUPYWALLSTREET'
+icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+url: https://foursquare.com/v/occupywallstreet/4e727b27c65bf4cc2d1a5f00
+date: 2011-11-06 13:08:13.000000000 -05:00
+
+---

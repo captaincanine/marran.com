@@ -1,0 +1,137 @@
+---
+id: 4bd72d0ca4de2f5ef29e5ebd
+createdAt: 1272392972
+type: checkin
+isMayor: true
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 49e60c3ef964a520f8631fe3
+  name: Uncle Moe's
+  contact:
+    phone: '2127279400'
+    formattedPhone: (212) 727-9400
+  location:
+    address: 14 W 19th St
+    crossStreet: btwn 5th & 6th Ave.
+    lat: 40.73928685792001
+    lng: -73.99239420890808
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/uncle-moes/49e60c3ef964a520f8631fe3
+  categories:
+  - id: 4bf58dd8d48988d151941735
+    name: Taco Place
+    pluralName: Taco Places
+    shortName: Tacos
+    icon: https://foursquare.com/img/categories/food/tacos.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2809
+    usersCount: 1158
+    tipCount: 26
+  likes:
+    count: 9
+    groups:
+    - type: others
+      count: 9
+      items:
+      - id: '38587'
+        firstName: Daniel
+        lastName: H.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/WJEY0NMKDYENSKNE.jpg
+        tips:
+          count: 4
+        lists:
+          groups:
+          - type: created
+            count: 3
+            items: []
+        homeCity: New York, NY
+        bio: RSS Addict. Tech, Quirky stuff, Art, Games
+        contact:
+          twitter: danootz
+      - id: '17097283'
+        firstName: Jeremy
+        lastName: J.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/1HVQJ4ABRMCQW4WS.jpg
+        tips:
+          count: 0
+        homeCity: posted
+        bio: ''
+        contact:
+          twitter: quiktripshawty
+          facebook: '1117320059'
+      - id: '503344'
+        firstName: Brett
+        lastName: S.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/3IKIRRNADJLSZ2GV.jpg
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: '11021'
+        bio: Coffee. Scotch. Ice Cream. Breakfast. Lunch. Dinner.
+        contact: {}
+      - id: '43277327'
+        firstName: Ian
+        lastName: J.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/C5YWZB34H4WKF4ZU.jpg
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 3
+            items: []
+        homeCity: Mahwah, NJ
+        bio: ''
+        contact:
+          twitter: uniphistudios
+          facebook: '611687474'
+    summary: Daniel H, Jeremy J, Brett S & 6 others
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/uncle-moes/49e60c3ef964a520f8631fe3/menu
+    mobileUrl: https://foursquare.com/v/49e60c3ef964a520f8631fe3/device_menu
+  beenHere:
+    count: 55
+    marked: true
+  listed:
+    groups:
+    - type: dones
+      count: 1
+      items: []
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Uncle Moe's
+icon: https://foursquare.com/img/categories/food/tacos.png
+url: https://foursquare.com/v/uncle-moes/49e60c3ef964a520f8631fe3
+date: 2010-04-27 13:29:32.000000000 -05:00
+
+---

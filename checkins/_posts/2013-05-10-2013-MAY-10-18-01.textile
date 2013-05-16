@@ -1,0 +1,72 @@
+---
+id: 518d7c5e498ee44b9f91b628
+createdAt: 1368226910
+type: checkin
+timeZone: America/Bogota
+timeZoneOffset: -300
+venue:
+  id: 4bb2826a35f0c9b60262bb83
+  name: Terminal Puente Aéreo
+  contact:
+    phone: '+5714251000'
+    formattedPhone: +57 1 4251000
+    twitter: bog_eldorado
+  location:
+    address: Aeropuerto Internacional El Dorado
+    lat: 4.6935856345392875
+    lng: -74.13445472717285
+    postalCode: '110911'
+    city: Bogotá
+    state: Cundinamarca
+    country: Colombia
+    cc: CO
+  canonicalUrl: https://foursquare.com/v/terminal-puente-a%C3%A9reo/4bb2826a35f0c9b60262bb83
+  categories:
+  - id: 4bf58dd8d48988d1eb931735
+    name: Airport Terminal
+    pluralName: Airport Terminals
+    shortName: Terminal
+    icon: https://foursquare.com/img/categories/travel/airport_terminal.png
+    parents:
+    - Travel & Transport
+    - Airport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 46580
+    usersCount: 14825
+    tipCount: 308
+  url: http://www.eldorado.aero
+  likes:
+    count: 138
+    groups:
+    - type: others
+      count: 138
+      items: []
+    summary: 138 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Terminal Puente Aéreo
+icon: https://foursquare.com/img/categories/travel/airport_terminal.png
+url: https://foursquare.com/v/terminal-puente-a%C3%A9reo/4bb2826a35f0c9b60262bb83
+date: 2013-05-10 18:01:50.000000000 -05:00
+
+---

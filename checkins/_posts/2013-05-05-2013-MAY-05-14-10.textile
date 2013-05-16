@@ -1,0 +1,75 @@
+---
+id: 5186ae90498eeceb0659e261
+createdAt: 1367781008
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4101a680f964a5205a0b1fe3
+  name: Brass Monkey
+  contact:
+    phone: '2126756686'
+    formattedPhone: (212) 675-6686
+    twitter: brassmonkeynyc
+  location:
+    address: 55 Little West 12th St
+    lat: 40.740727951827786
+    lng: -74.00861104297583
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/brass-monkey/4101a680f964a5205a0b1fe3
+  categories:
+  - id: 4bf58dd8d48988d116941735
+    name: Bar
+    pluralName: Bars
+    shortName: Bar
+    icon: https://foursquare.com/img/categories/nightlife/bar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 24129
+    usersCount: 16000
+    tipCount: 96
+  url: http://brassmonkeynyc.com
+  likes:
+    count: 97
+    groups:
+    - type: others
+      count: 97
+      items: []
+    summary: 97 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/brass-monkey/4101a680f964a5205a0b1fe3/menu
+    mobileUrl: https://foursquare.com/v/4101a680f964a5205a0b1fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Brass Monkey
+icon: https://foursquare.com/img/categories/nightlife/bar.png
+url: https://foursquare.com/v/brass-monkey/4101a680f964a5205a0b1fe3
+date: 2013-05-05 14:10:08.000000000 -05:00
+
+---

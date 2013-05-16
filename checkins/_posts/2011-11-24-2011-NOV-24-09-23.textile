@@ -1,0 +1,68 @@
+---
+id: 4ece5376775bbb5f307b8ee8
+createdAt: 1322144630
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 40abf500f964a52035f31ee3
+  name: Washington Square Park
+  contact: {}
+  location:
+    address: W 4th St
+    crossStreet: btwn MacDougal St & University Pl
+    lat: 40.73083612189599
+    lng: -73.99764060974121
+    postalCode: '10012'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/washington-square-park/40abf500f964a52035f31ee3
+  categories:
+  - id: 4bf58dd8d48988d163941735
+    name: Park
+    pluralName: Parks
+    shortName: Park
+    icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+    parents:
+    - Outdoors & Recreation
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 94189
+    usersCount: 41053
+    tipCount: 303
+  likes:
+    count: 315
+    groups:
+    - type: others
+      count: 315
+      items: []
+    summary: 315 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Washington Square Park
+icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+url: https://foursquare.com/v/washington-square-park/40abf500f964a52035f31ee3
+date: 2011-11-24 09:23:50.000000000 -05:00
+
+---

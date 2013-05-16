@@ -29,7 +29,7 @@ layout: html
       </div>
       <div class="span6">
         <div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
-        <div class="description">{{ post.description }}</div>
+        <div class="description">{% if post.description %}{{ post.description }}{% else %}{{ post.content }}{% endif %}</div>
         <div class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">There's more? Yes! Let's go. »</a></div>
       </div>
     </div>
@@ -41,7 +41,7 @@ layout: html
     <div class="row">
       <div class="span8">
         <div class="title"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></div>
-        <div class="description">{{ post.description }}</div>
+        <div class="description">{% if post.description %}{{ post.description }}{% else %}{{ post.content }}{% endif %}</div>
         <div class="read-more"><a href="{{ post.url }}" title="{{ post.title }}">There's more? Yes! Let's go. »</a></div>
       </div>
     </div>

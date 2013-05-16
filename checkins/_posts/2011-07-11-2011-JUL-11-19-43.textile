@@ -1,0 +1,78 @@
+---
+id: 4e1b98a3e4cd1f7c5d79183c
+createdAt: 1310431395
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4dc59b7a2271f2705131c896
+  name: Hospoda
+  contact:
+    phone: '2128611038'
+    formattedPhone: (212) 861-1038
+    twitter: hospodanyc
+  location:
+    address: 321 E 73rd St.
+    crossStreet: btwn 1st & 2nd Ave.
+    lat: 40.768983852848855
+    lng: -73.9568679588325
+    postalCode: '10021'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/hospoda/4dc59b7a2271f2705131c896
+  categories:
+  - id: 4bf58dd8d48988d1c4941735
+    name: Restaurant
+    pluralName: Restaurants
+    shortName: Restaurant
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1273
+    usersCount: 755
+    tipCount: 22
+  url: https://www.facebook.com/hospodanyc
+  likes:
+    count: 11
+    groups:
+    - type: others
+      count: 11
+      items: []
+    summary: 11 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=60058&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/hospoda/4dc59b7a2271f2705131c896/menu
+    mobileUrl: https://foursquare.com/v/4dc59b7a2271f2705131c896/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Hospoda
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/hospoda/4dc59b7a2271f2705131c896
+date: 2011-07-11 19:43:15.000000000 -05:00
+
+---

@@ -1,0 +1,71 @@
+---
+id: 4ef9b41ae5fa4f286d4f7228
+createdAt: 1324987418
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4ac518ecf964a52071ac20e3
+  name: Harvey Nichols
+  contact:
+    phone: '+442072355000'
+    formattedPhone: +44 20 7235 5000
+    twitter: harveynichols
+  location:
+    address: 109-125 Knightsbridge
+    lat: 51.501635294043176
+    lng: -0.16014397144317627
+    postalCode: SW1X 7RJ
+    city: Kensington
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/harvey-nichols/4ac518ecf964a52071ac20e3
+  categories:
+  - id: 4bf58dd8d48988d1f6941735
+    name: Department Store
+    pluralName: Department Stores
+    shortName: Department Store
+    icon: https://foursquare.com/img/categories/shops/default.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 13205
+    usersCount: 8623
+    tipCount: 48
+  url: http://www.harveynichols.com
+  likes:
+    count: 126
+    groups:
+    - type: others
+      count: 126
+      items: []
+    summary: 126 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Harvey Nichols
+icon: https://foursquare.com/img/categories/shops/default.png
+url: https://foursquare.com/v/harvey-nichols/4ac518ecf964a52071ac20e3
+date: 2011-12-27 07:03:38.000000000 -05:00
+
+---

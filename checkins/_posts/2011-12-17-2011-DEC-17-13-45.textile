@@ -1,0 +1,125 @@
+---
+id: 4eece36077c82b92f75eccac
+createdAt: 1324147552
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4defaca6227170314ba95d77
+  name: Hale & Hearty
+  contact:
+    phone: '2127929922'
+    formattedPhone: (212) 792-9922
+  location:
+    address: 655 Avenue of the Americas
+    crossStreet: btwn 20th & 21st St.
+    lat: 40.741427687145595
+    lng: -73.99377787866159
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/hale--hearty/4defaca6227170314ba95d77
+  categories:
+  - id: 4bf58dd8d48988d1dd931735
+    name: Soup Place
+    pluralName: Soup Places
+    shortName: Soup
+    icon: https://foursquare.com/img/categories/food/soup.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 3727
+    usersCount: 1475
+    tipCount: 16
+  likes:
+    count: 8
+    groups:
+    - type: others
+      count: 8
+      items:
+      - id: '5275918'
+        firstName: Geanea
+        lastName: H.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/5KI4QZ3E5HDKXQLQ.jpg
+        tips:
+          count: 0
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: sweetdiavolina
+          facebook: '54702825'
+      - id: '53527773'
+        firstName: Lexie
+        gender: none
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 2
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+      - id: '3367'
+        firstName: bill
+        lastName: s.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/T2TKVJU0VIA3TLXW.jpg
+        tips:
+          count: 13
+        lists:
+          groups:
+          - type: created
+            count: 9
+            items: []
+        homeCity: NYC
+        bio: Interdisciplinarian.
+        contact:
+          twitter: shamam
+          facebook: '785447791'
+        superuser: 2
+      - id: '38191763'
+        firstName: Olu
+        lastName: A.
+        gender: female
+        photo: https://foursquare.com/img/blank_girl.png
+        tips:
+          count: 0
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: apoolhallace
+          facebook: '1571100009'
+    summary: Geanea H, Lexie, bill s & 5 others
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/hale--hearty/4defaca6227170314ba95d77/menu
+    mobileUrl: https://foursquare.com/v/4defaca6227170314ba95d77/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Hale & Hearty
+icon: https://foursquare.com/img/categories/food/soup.png
+url: https://foursquare.com/v/hale--hearty/4defaca6227170314ba95d77
+date: 2011-12-17 13:45:52.000000000 -05:00
+
+---

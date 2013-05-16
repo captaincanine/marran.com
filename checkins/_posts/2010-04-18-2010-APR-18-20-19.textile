@@ -1,0 +1,75 @@
+---
+id: 4bcbafaba4de2f5e1b011ebd
+createdAt: 1271639979
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 43850280f964a520fd2a1fe3
+  name: Cookshop
+  contact:
+    phone: '2129244440'
+    formattedPhone: (212) 924-4440
+    twitter: cookshopny
+  location:
+    address: 156 10th Ave
+    crossStreet: at W 20th St.
+    lat: 40.745677
+    lng: -74.0054679
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/cookshop/43850280f964a520fd2a1fe3
+  categories:
+  - id: 4bf58dd8d48988d14e941735
+    name: American Restaurant
+    pluralName: American Restaurants
+    shortName: American
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 13879
+    usersCount: 8971
+    tipCount: 199
+  url: http://cookshopny.com
+  likes:
+    count: 79
+    groups:
+    - type: others
+      count: 79
+      items: []
+    summary: 79 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=4380&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/cookshop/43850280f964a520fd2a1fe3/menu
+    mobileUrl: https://foursquare.com/v/43850280f964a520fd2a1fe3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Cookshop
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/cookshop/43850280f964a520fd2a1fe3
+date: 2010-04-18 20:19:39.000000000 -05:00
+
+---

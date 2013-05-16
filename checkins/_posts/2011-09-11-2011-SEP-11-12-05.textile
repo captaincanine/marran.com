@@ -1,0 +1,102 @@
+---
+id: 4e6cea58ae603c15efd4b86f
+createdAt: 1315760728
+type: checkin
+shout: Dining on the Mediterranean.
+timeZone: Asia/Jerusalem
+timeZoneOffset: 180
+venue:
+  id: 4bfd59b7f61dc9b608e49ede
+  name: Yulia (יוליה)
+  contact: {}
+  location:
+    lat: 32.095547072098356
+    lng: 34.772371912909215
+    city: Tel Aviv
+    country: Israel
+    cc: IL
+  canonicalUrl: https://foursquare.com/v/yulia-%D7%99%D7%95%D7%9C%D7%99%D7%94/4bfd59b7f61dc9b608e49ede
+  categories:
+  - id: 4bf58dd8d48988d1c4941735
+    name: Restaurant
+    pluralName: Restaurants
+    shortName: Restaurant
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 482
+    usersCount: 315
+    tipCount: 13
+  likes:
+    count: 3
+    groups:
+    - type: others
+      count: 3
+      items:
+      - id: '55901089'
+        firstName: Yoezer
+        lastName: G.
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 0
+        homeCity: Jerusalem
+        bio: ''
+        contact: {}
+      - id: '3266449'
+        firstName: Amber
+        lastName: H.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/OOI0YXWUZ24S5K4R.jpg
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: תל אביב יפו, ישראל
+        bio: ''
+        contact:
+          facebook: '1052085701'
+      - id: '31832869'
+        firstName: Sharon
+        lastName: Z.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/DSNAQ4KHBYZ4QOBF.jpg
+        tips:
+          count: 0
+        homeCity: Tel Aviv
+        bio: ''
+        contact:
+          facebook: '756142990'
+    summary: Yoezer G, Amber H & Sharon Z
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Yulia (יוליה)
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/yulia-%D7%99%D7%95%D7%9C%D7%99%D7%94/4bfd59b7f61dc9b608e49ede
+date: 2011-09-11 12:05:28.000000000 -05:00
+
+---

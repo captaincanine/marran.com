@@ -1,0 +1,92 @@
+---
+id: 4eb57030991165b76266bb60
+createdAt: 1320513584
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4c1c0d3c63750f47faf5b567
+  name: City Cakes
+  contact:
+    phone: '6466882286'
+    formattedPhone: (646) 688-2286
+    twitter: citycakes
+  location:
+    address: 251 W 18th St
+    crossStreet: btwn 7th & 8th
+    lat: 40.741991
+    lng: -74.000073
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/city-cakes/4c1c0d3c63750f47faf5b567
+  categories:
+  - id: 4bf58dd8d48988d1bc941735
+    name: Cupcake Shop
+    pluralName: Cupcake Shops
+    shortName: Cupcakes
+    icon: https://foursquare.com/img/categories/food/cupcakes.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 571
+    usersCount: 319
+    tipCount: 13
+  url: http://www.citycakesny.com
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '7294631'
+        firstName: Bat
+        lastName: M.
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 1
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact:
+          facebook: '100003141543454'
+      - id: '1842897'
+        firstName: Jackie
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/AC3MXVR40ARMFZ4F.jpg
+        tips:
+          count: 0
+        homeCity: Astoria, NY
+        bio: ''
+        contact: {}
+    summary: Bat M & Jackie
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: City Cakes
+icon: https://foursquare.com/img/categories/food/cupcakes.png
+url: https://foursquare.com/v/city-cakes/4c1c0d3c63750f47faf5b567
+date: 2011-11-05 12:19:44.000000000 -05:00
+
+---

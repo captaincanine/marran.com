@@ -1,0 +1,72 @@
+---
+id: 4eb421d0775b544c26b8a611
+createdAt: 1320427984
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a7dcf5cf964a520b5ef1fe3
+  name: Bed Bath & Beyond
+  contact:
+    phone: '2122553550'
+    formattedPhone: (212) 255-3550
+    twitter: bedbathbeyond
+  location:
+    address: 620 Avenue of the Americas
+    crossStreet: btwn 18th & 19th St.
+    lat: 40.73997400172246
+    lng: -73.99475921501585
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/bed-bath--beyond/4a7dcf5cf964a520b5ef1fe3
+  categories:
+  - id: 4bf58dd8d48988d1f8941735
+    name: Furniture / Home Store
+    pluralName: Furniture / Home Stores
+    shortName: Furniture / Home
+    icon: https://foursquare.com/img/categories/shops/furniture.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 23218
+    usersCount: 11586
+    tipCount: 66
+  url: http://www.bedbathandbeyond.com
+  likes:
+    count: 26
+    groups:
+    - type: others
+      count: 26
+      items: []
+    summary: 26 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Bed Bath & Beyond
+icon: https://foursquare.com/img/categories/shops/furniture.png
+url: https://foursquare.com/v/bed-bath--beyond/4a7dcf5cf964a520b5ef1fe3
+date: 2011-11-04 12:33:04.000000000 -05:00
+
+---

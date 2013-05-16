@@ -1,0 +1,111 @@
+---
+id: 517d59c3498e29c0b6a9fc1a
+createdAt: 1367169475
+type: checkin
+timeZone: America/Chicago
+timeZoneOffset: -300
+venue:
+  id: 4a9037fef964a5209b1620e3
+  name: Einstein Bros Bagels
+  contact:
+    phone: '3127550413'
+    formattedPhone: (312) 755-0413
+    twitter: einsteinbrosbgl
+  location:
+    address: 400 N Dearborn St
+    crossStreet: at Kinzie St
+    lat: 41.889379460094084
+    lng: -87.62982845306396
+    postalCode: '60610'
+    city: Chicago
+    state: IL
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/einstein-bros-bagels/4a9037fef964a5209b1620e3
+  categories:
+  - id: 4bf58dd8d48988d179941735
+    name: Bagel Shop
+    pluralName: Bagel Shops
+    shortName: Bagels
+    icon: https://foursquare.com/img/categories/food/bagels.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2343
+    usersCount: 1264
+    tipCount: 19
+  likes:
+    count: 3
+    groups:
+    - type: others
+      count: 3
+      items:
+      - id: '33931479'
+        firstName: Ishea
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/SKN2ODTHA4N4MFMD.jpg
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: Chicago, IL
+        bio: Blogger. Scuba Diver. Lover of life.
+        contact:
+          twitter: sixtwentyseven
+          facebook: '187100178'
+      - id: '12729782'
+        firstName: Josh
+        lastName: L.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/DKBXVAYDDVHCVQSK.jpg
+        tips:
+          count: 1
+        homeCity: Unnamed Location
+        bio: ''
+        contact:
+          twitter: jpleevs
+          facebook: '21412843'
+      - id: '6225043'
+        firstName: Michele
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/SSIGH1VC12ZEUSYY.jpg
+        tips:
+          count: 1
+        homeCity: Novara, Italia
+        bio: ''
+        contact:
+          twitter: mikispag
+          facebook: '1450628403'
+    summary: Ishea, Josh L & Michele S
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Einstein Bros Bagels
+icon: https://foursquare.com/img/categories/food/bagels.png
+url: https://foursquare.com/v/einstein-bros-bagels/4a9037fef964a5209b1620e3
+date: 2013-04-28 12:17:55.000000000 -05:00
+
+---

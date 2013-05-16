@@ -1,0 +1,144 @@
+---
+id: 4efdde5c6c25c5ce7f5e14c8
+createdAt: 1325260380
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4c9862642778224b60c8a368
+  name: American Airlines Admirals Club
+  contact:
+    twitter: americanair
+  location:
+    address: LHR Airport
+    crossStreet: Terminal 3, Lounge H
+    lat: 51.4703623466998
+    lng: -0.4609065461392471
+    postalCode: TW6 18T
+    city: Hounslow
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/american-airlines-admirals-club/4c9862642778224b60c8a368
+  categories:
+  - id: 4eb1bc533b7b2c5b1d4306cb
+    name: Airport Lounge
+    pluralName: Airport Lounges
+    shortName: Lounge
+    icon: https://foursquare.com/img/categories/travel/airport.png
+    parents:
+    - Travel & Transport
+    - Airport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2979
+    usersCount: 2006
+    tipCount: 33
+  url: http://www.aa.com/i18n/travelInformation/airportAmenities/AdmiralsLocations.jsp#LHR
+  likes:
+    count: 7
+    groups:
+    - type: others
+      count: 7
+      items:
+      - id: '16969257'
+        firstName: Lillycita
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/PZ3UG101E1T3MFJO.jpg
+        tips:
+          count: 25
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: NY
+        bio: ''
+        contact:
+          facebook: '759362809'
+      - id: '43486278'
+        firstName: Aolani
+        lastName: S.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/DR5XGJKTNQFDMFWE.jpg
+        tips:
+          count: 37
+        lists:
+          groups:
+          - type: created
+            count: 8
+            items: []
+        homeCity: NY &  CA - U.S.A.
+        bio: ! "http://www.reverbnation.com/virgobaby  \r\n® Freelance Photojournalist
+          @Demotix\r\nYale Student [Child Advocacy]\r\nMusic Lover\r\nTravel/food/sports/outdoors/pets/arts"
+        contact:
+          facebook: '568522452'
+      - id: '23572'
+        firstName: David
+        lastName: L.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/23572_1253535184405.jpg
+        tips:
+          count: 51
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: Kennebunk, ME
+        bio: CTO @theopengroup. Unabashed New Englander, technology fan, and hound
+          whisperer.
+        contact:
+          twitter: technodad
+          facebook: '616368891'
+        superuser: 1
+      - id: '399832'
+        firstName: Dan
+        lastName: K.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/G0EFPZMGPOHWYHSQ.jpg
+        type: celebrity
+        followers:
+          count: 3497
+          groups: []
+        tips:
+          count: 67
+        lists:
+          groups:
+          - type: created
+            count: 11
+            items: []
+        homeCity: Los Angeles, CA
+        bio: I make and sell frozen yogurt and smoothies.
+        contact:
+          twitter: dankimredmango
+          facebook: '1661814326'
+        superuser: 2
+    summary: Lillycita, Aolani S, David L & 4 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: American Airlines Admirals Club
+icon: https://foursquare.com/img/categories/travel/airport.png
+url: https://foursquare.com/v/american-airlines-admirals-club/4c9862642778224b60c8a368
+date: 2011-12-30 10:53:00.000000000 -05:00
+
+---

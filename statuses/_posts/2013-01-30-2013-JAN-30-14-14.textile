@@ -1,56 +1,74 @@
---- 
-id: 790499637_10151670504029638
-from: 
+---
+id: '790499637_10151670504029638'
+from:
   name: Keith Marran
-  id: "790499637"
-message: Does anyone have an iPad case/holder that they love? I have the Smart Cover and it is ... not so smart.
-actions: 
+  id: '790499637'
+message: Does anyone have an iPad case/holder that they love? I have the Smart Cover
+  and it is ... not so smart.
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151670504029638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151670504029638
-privacy: 
+privacy:
   description: Friends
   value: ALL_FRIENDS
-  friends: ""
-  networks: ""
-  allow: ""
-  deny: ""
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
 type: status
 status_type: mobile_status_update
-application: 
+application:
   name: Facebook for iPhone
   namespace: fbiphone
-  id: "6628568379"
-created_time: 2013-01-30T19:14:26+0000
-updated_time: 2013-01-30T23:38:01+0000
-comments: 
-  data: 
-  - id: 790499637_10151670504029638_30587323
-    from: 
+  id: '6628568379'
+created_time: '2013-01-30T19:14:26+0000'
+updated_time: '2013-01-30T23:38:01+0000'
+comments:
+  data:
+  - id: '10151670504029638_30587323'
+    from:
       name: Jon Herzog
-      id: "2600578"
-    message: |-
-      This is mine and I love it. The Moshi ones are pretty cool, but they have a huge selection at TekServe.
-      
-      http://www.tekserve.com/moshi-concerti-folio-case-for-ipad-3-metro-black.html
-    created_time: 2013-01-30T19:37:11+0000
-  - id: 790499637_10151670504029638_30587901
-    from: 
+      id: '2600578'
+    message: ! 'This is mine and I love it. The Moshi ones are pretty cool, but they
+      have a huge selection at TekServe.
+
+
+      http://www.tekserve.com/moshi-concerti-folio-case-for-ipad-3-metro-black.html'
+    can_remove: true
+    created_time: '2013-01-30T19:37:11+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151670504029638_30587901'
+    from:
       name: Jim Tumminello
-      id: "555444007"
-    message: I have the DoDo hardcover case (JCrew sells them or you can order online). Looks like an old school journal and may be too bulky but it makes for a great case if you carry it around a lot (not in a bag) or when using it as a reader. I love mine.
-    created_time: 2013-01-30T20:19:15+0000
-  - id: 790499637_10151670504029638_30590525
-    from: 
+      id: '555444007'
+    message: I have the DoDo hardcover case (JCrew sells them or you can order online).
+      Looks like an old school journal and may be too bulky but it makes for a great
+      case if you carry it around a lot (not in a bag) or when using it as a reader.
+      I love mine.
+    can_remove: true
+    created_time: '2013-01-30T20:19:15+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151670504029638_30590525'
+    from:
       name: Jeff Bond
-      id: "1108401510"
-    message: I got a cheapo one that was pretty sucky until I added a Velcro attachment to keep it in place. Then it was great.
-    created_time: 2013-01-30T23:38:01+0000
-  count: 3
+      id: '1108401510'
+    message: I got a cheapo one that was pretty sucky until I added a Velcro attachment
+      to keep it in place. Then it was great.
+    can_remove: true
+    created_time: '2013-01-30T23:38:01+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: Mw==
+      before: MQ==
 layout: status
 title: Wednesday, Jan 30, 2013 around 02:14PM
-date: 2013-01-30 14:14:26 -05:00
+date: 2013-01-30 14:14:26.000000000 -05:00
 
 ---
 Does anyone have an iPad case/holder that they love? I have the Smart Cover and it is ... not so smart.

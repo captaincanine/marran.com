@@ -1,0 +1,72 @@
+---
+id: 4f935ecbe4b04c3ff9d05e9e
+createdAt: 1335058123
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4e6dfab3b61cf2b03c254994
+  name: Flaming Saddles Saloon
+  contact:
+    phone: '2127130481'
+    formattedPhone: (212) 713-0481
+    twitter: flamingsaddles
+  location:
+    address: 793 9th Ave
+    crossStreet: at 53rd St.
+    lat: 40.765162620688834
+    lng: -73.98763149992548
+    postalCode: '10019'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/flaming-saddles-saloon/4e6dfab3b61cf2b03c254994
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 10941
+    usersCount: 4518
+    tipCount: 65
+  url: http://flamingsaddles.com
+  likes:
+    count: 45
+    groups:
+    - type: others
+      count: 45
+      items: []
+    summary: 45 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Flaming Saddles Saloon
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/flaming-saddles-saloon/4e6dfab3b61cf2b03c254994
+date: 2012-04-21 20:28:43.000000000 -05:00
+
+---

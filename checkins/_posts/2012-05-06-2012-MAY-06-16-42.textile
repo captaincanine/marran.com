@@ -1,0 +1,125 @@
+---
+id: 4fa6f030e4b08e1f89f6f30b
+createdAt: 1336340528
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4c55fefb973fc928cc5340c8
+  name: Ca Va Brasserie
+  contact:
+    phone: '2128034545'
+    formattedPhone: (212) 803-4545
+    twitter: cavabrasserie
+  location:
+    address: 310 W 44th St
+    crossStreet: at 8th Av
+    lat: 40.75898512072871
+    lng: -73.9894450177697
+    postalCode: '10036'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/ca-va-brasserie/4c55fefb973fc928cc5340c8
+  categories:
+  - id: 4bf58dd8d48988d10c941735
+    name: French Restaurant
+    pluralName: French Restaurants
+    shortName: French
+    icon: https://foursquare.com/img/categories/food/french.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2782
+    usersCount: 1918
+    tipCount: 40
+  url: http://cavatoddenglish.com
+  likes:
+    count: 7
+    groups:
+    - type: others
+      count: 7
+      items:
+      - id: '51767473'
+        firstName: Meghan
+        lastName: F.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/NS1B5DMNBBNAUJJH.jpg
+        tips:
+          count: 9
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: meghan_farrell
+          facebook: '100000819860846'
+      - id: '52437347'
+        firstName: Bob
+        lastName: W.
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 0
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+      - id: '43393322'
+        firstName: Sanders
+        lastName: A.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/ZAOP3EHMF3H5XRQD.jpg
+        tips:
+          count: 103
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: Moscow
+        bio: ''
+        contact: {}
+      - id: '3942279'
+        firstName: Sergey
+        lastName: M.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/WLKZUWZ2H42W24XQ.jpg
+        tips:
+          count: 1
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact: {}
+    summary: Meghan F, Bob W, Sanders A & 4 others
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=47098&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/ca-va-brasserie/4c55fefb973fc928cc5340c8/menu
+    mobileUrl: https://foursquare.com/v/4c55fefb973fc928cc5340c8/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Ca Va Brasserie
+icon: https://foursquare.com/img/categories/food/french.png
+url: https://foursquare.com/v/ca-va-brasserie/4c55fefb973fc928cc5340c8
+date: 2012-05-06 16:42:08.000000000 -05:00
+
+---

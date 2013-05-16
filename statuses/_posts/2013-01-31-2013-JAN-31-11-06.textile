@@ -1,60 +1,59 @@
---- 
-id: 790499637_155814747903719
-from: 
+---
+id: '790499637_155814747903719'
+from:
   name: Keith Marran
-  id: "790499637"
-to: 
-  data: 
+  id: '790499637'
+to:
+  data:
   - name: Brenda Gregoline
-    id: "1236717380"
-message: |-
-  This is my new super power: I can shout any of the phrases on this page and immediately transform into the person in the photo (each persona has its own associated special powers). "STREET FASHION FORTIES FUNK" Ka-blam! I'm in a silk scarf and grey flannel pants and ready to fight crime! 
-  
-  (all credit goes to Brenda Gregoline for this).
-message_tags: 
-  "311": 
-  - id: "1236717380"
+    id: '1236717380'
+message: ! "This is my new super power: I can shout any of the phrases on this page
+  and immediately transform into the person in the photo (each persona has its own
+  associated special powers). \"STREET FASHION FORTIES FUNK\" Ka-blam! I'm in a silk
+  scarf and grey flannel pants and ready to fight crime! \n\n(all credit goes to Brenda
+  Gregoline for this)."
+message_tags:
+  '311':
+  - id: '1236717380'
     name: Brenda Gregoline
     type: user
     offset: 311
     length: 16
-picture: http://external.ak.fbcdn.net/safe_image.php?d=AQDW7ZjJK_t9YDMX&w=90&h=90&url=http%3A%2F%2Fwww.queerculturalcenter.org%2FPages%2FHalPages%2F..%2F..%2FMedia%2FHalImgs%2FFig21_p48v2.jpg
+picture: https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBkVw4GznDoEQpX&w=154&h=154&url=http%3A%2F%2Fwww.queerculturalcenter.org%2FPages%2FHalPages%2F..%2F..%2FMedia%2FHalImgs%2FFig21_p48v2.jpg
 link: http://www.queerculturalcenter.org/Pages/HalPages/GaySempg5.html
 name: Hal Fischer's Gay Semiotics 1977
 caption: www.queerculturalcenter.org
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
-actions: 
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/155814747903719
 - name: Like
   link: http://www.facebook.com/790499637/posts/155814747903719
-privacy: 
+privacy:
   description: Friends
   value: ALL_FRIENDS
-  friends: ""
-  networks: ""
-  allow: ""
-  deny: ""
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
 type: link
 status_type: shared_story
-created_time: 2013-01-31T16:06:57+0000
-updated_time: 2013-01-31T16:06:57+0000
-likes: 
-  data: 
+created_time: '2013-01-31T16:06:57+0000'
+updated_time: '2013-01-31T16:06:57+0000'
+likes:
+  data:
   - name: Suzanne Feinberg
-    id: "100000599017740"
+    id: '100000599017740'
   - name: Leslie Gardner
-    id: "667633377"
+    id: '667633377'
   - name: Charlotte Hertander
-    id: "577154539"
+    id: '577154539'
   - name: Mark Barranco
-    id: "1222085707"
+    id: '1222085707'
   count: 5
-comments: 
-  count: 0
 layout: status-link
 title: Thursday, Jan 31, 2013 around 11:06AM
-date: 2013-01-31 11:06:57 -05:00
+date: 2013-01-31 11:06:57.000000000 -05:00
 
 ---
 This is my new super power: I can shout any of the phrases on this page and immediately transform into the person in the photo (each persona has its own associated special powers). "STREET FASHION FORTIES FUNK" Ka-blam! I'm in a silk scarf and grey flannel pants and ready to fight crime! 

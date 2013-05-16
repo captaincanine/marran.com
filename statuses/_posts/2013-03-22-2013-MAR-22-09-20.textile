@@ -1,0 +1,68 @@
+---
+id: '790499637_437427289675814'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: Keith Marran shared a link.
+picture: https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAEa0qXp9MxbdLs&w=154&h=154&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F18i6ba733gjiujpg%2Ffb.jpg
+link: http://gawker.com/5991687/no+talent-hack-cat-fired-from-broadway-for-sucking
+name: No-Talent Hack Cat Fired from Broadway for Sucking
+caption: gawker.com
+description: Keith Marran shared a link.
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yq/r/SC2ZmEkfI-X.png
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/437427289675814
+- name: Like
+  link: http://www.facebook.com/790499637/posts/437427289675814
+privacy:
+  description: Public
+  value: EVERYONE
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: link
+status_type: shared_story
+application:
+  name: Share_bookmarklet
+  id: '5085647995'
+created_time: '2013-03-22T14:20:40+0000'
+updated_time: '2013-03-22T14:27:03+0000'
+likes:
+  data:
+  - name: Dave Stringer Hughes
+    id: '800419'
+  - name: Bradley Nelson
+    id: '13911379'
+  - name: Patrick Yacco
+    id: '507963176'
+  - name: David Pengel
+    id: '36503306'
+  count: 4
+comments:
+  data:
+  - id: '437427289675814_2762201'
+    from:
+      name: David Pengel
+      id: '36503306'
+    message: gawker.com is making a great theonion.com impression... wait, this is
+      real.
+    can_remove: true
+    created_time: '2013-03-22T14:27:03+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: MQ==
+      before: MQ==
+layout: status-link
+title: Friday, Mar 22, 2013 around 09:20AM
+link-info: New York. The Big Apple. A universe dotted with thousands of stars. And
+  millions more who burned out before they ever got a chance to shine. Earlier this
+  week a dumb, no-talent cat was fired from a Broadway adaptation of Breakfast at
+  Tiffany's after it was discovered he couldn't act his way out of.....
+date: 2013-03-22 09:20:40.000000000 -05:00
+
+---
+Keith Marran shared a link.

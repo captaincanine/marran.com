@@ -1,0 +1,105 @@
+---
+id: 4f0b3da8e4b0671f2a745e82
+createdAt: 1326136744
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4b01b6c2f964a520c94422e3
+  name: Future Tan
+  contact: {}
+  location:
+    address: 53 Greenwich Ave
+    crossStreet: 7th Ave S
+    lat: 40.735910155452665
+    lng: -74.00060121867178
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/future-tan/4b01b6c2f964a520c94422e3
+  categories:
+  - id: 4d1cf8421a97d635ce361c31
+    name: Tanning Salon
+    pluralName: Tanning Salons
+    shortName: Tanning Salon
+    icon: https://foursquare.com/img/categories/shops/tanning_salon.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 751
+    usersCount: 196
+    tipCount: 5
+  likes:
+    count: 3
+    groups:
+    - type: others
+      count: 3
+      items:
+      - id: '6290938'
+        firstName: Anthony
+        lastName: R.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/POSZQS5HAAK4DNCW.jpg
+        tips:
+          count: 21
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: mranthonyraul
+          facebook: '713408502'
+      - id: '34029074'
+        firstName: Natalia
+        lastName: M.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/GFRWYZPSCF3WCBQB.jpg
+        tips:
+          count: 4
+        homeCity: New York, NY
+        bio: www.nataliamantini.wix.com/webfolio
+        contact: {}
+      - id: '1936566'
+        firstName: Marc Christopher
+        lastName: B.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/05URR2NQIJR5N1LO.jpg
+        tips:
+          count: 6
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+    summary: Anthony R, Natalia M & Marc Christopher B
+  like: false
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Future Tan
+icon: https://foursquare.com/img/categories/shops/tanning_salon.png
+url: https://foursquare.com/v/future-tan/4b01b6c2f964a520c94422e3
+date: 2012-01-09 14:19:04.000000000 -05:00
+
+---

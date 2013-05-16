@@ -1,0 +1,76 @@
+---
+id: 4fb99740e4b0ad8c87c94c9d
+createdAt: 1337562944
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 48c91543f964a520e4511fe3
+  name: Apothéke
+  contact:
+    phone: '2124060400'
+    formattedPhone: (212) 406-0400
+    twitter: apothekenyc
+  location:
+    address: 9 Doyers St
+    crossStreet: at Bowery
+    lat: 40.71445201047765
+    lng: -73.99801882251917
+    postalCode: '10013'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/apoth%C3%A9ke/48c91543f964a520e4511fe3
+  categories:
+  - id: 4bf58dd8d48988d11e941735
+    name: Cocktail Bar
+    pluralName: Cocktail Bars
+    shortName: Cocktail
+    icon: https://foursquare.com/img/categories/nightlife/cocktails.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 11322
+    usersCount: 7589
+    tipCount: 173
+  url: http://www.apothekenyc.com
+  likes:
+    count: 93
+    groups:
+    - type: others
+      count: 93
+      items: []
+    summary: 93 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/apoth%C3%A9ke/48c91543f964a520e4511fe3/menu
+    mobileUrl: https://foursquare.com/v/48c91543f964a520e4511fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Apothéke
+icon: https://foursquare.com/img/categories/nightlife/cocktails.png
+url: https://foursquare.com/v/apoth%C3%A9ke/48c91543f964a520e4511fe3
+date: 2012-05-20 20:15:44.000000000 -05:00
+
+---

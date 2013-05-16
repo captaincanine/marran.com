@@ -1,0 +1,67 @@
+---
+id: 4eeb9748f7903296f87f48bd
+createdAt: 1324062536
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4bdb13e4c79cc928ea0481e9
+  name: GameStop
+  contact:
+    phone: '6466021483'
+    formattedPhone: (646) 602-1483
+    twitter: gamestop
+  location:
+    address: 107 E 14th St
+    crossStreet: at Irving Pl.
+    lat: 40.734218522351334
+    lng: -73.9894220619547
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/gamestop/4bdb13e4c79cc928ea0481e9
+  categories:
+  - id: 4bf58dd8d48988d10b951735
+    name: Video Game Store
+    pluralName: Video Game Stores
+    shortName: Video Games
+    icon: https://foursquare.com/img/categories/shops/videogames.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 929
+    usersCount: 616
+    tipCount: 1
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: GameStop
+icon: https://foursquare.com/img/categories/shops/videogames.png
+url: https://foursquare.com/v/gamestop/4bdb13e4c79cc928ea0481e9
+date: 2011-12-16 14:08:56.000000000 -05:00
+
+---

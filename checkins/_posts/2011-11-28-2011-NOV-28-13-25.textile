@@ -1,0 +1,128 @@
+---
+id: 4ed3d2160e61efa3350b5719
+createdAt: 1322504726
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 46bff01ef964a520ec491fe3
+  name: Ronnybrook Farm Dairy Milk Bar
+  contact:
+    phone: '2127416455'
+    formattedPhone: (212) 741-6455
+  location:
+    address: 75 9th Ave
+    crossStreet: btwn W. 15th & 16th
+    lat: 40.74245030674216
+    lng: -74.00576590649185
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/ronnybrook-farm-dairy-milk-bar/46bff01ef964a520ec491fe3
+  categories:
+  - id: 4bf58dd8d48988d1c9941735
+    name: Ice Cream Shop
+    pluralName: Ice Cream Shops
+    shortName: Ice Cream
+    icon: https://foursquare.com/img/categories/food/icecream.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2357
+    usersCount: 1602
+    tipCount: 58
+  likes:
+    count: 9
+    groups:
+    - type: others
+      count: 9
+      items:
+      - id: '2333768'
+        firstName: Rodrigo
+        lastName: F.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/X1RXQVPV52FBSNXZ.jpg
+        tips:
+          count: 3
+        homeCity: Guarulhos, Brasil
+        bio: ! "Memento mori\U0001F480"
+        contact:
+          twitter: rodrigostpf
+      - id: '1628867'
+        firstName: Laura
+        lastName: V.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/AKUJLIAYDKF3OKID.jpg
+        tips:
+          count: 3
+        homeCity: Massapequa, NY
+        bio: ''
+        contact: {}
+      - id: '31568644'
+        firstName: Aileen
+        lastName: R.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/XZGNKELTJONJBVYU.jpg
+        tips:
+          count: 13
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: Great Meadows, NJ
+        bio: Web designer/developer that loves bulldogs and a good meal. Avid traveller
+          and always on some sort of adventure. :)
+        contact:
+          twitter: lilikat
+          facebook: '54900639'
+      - id: '1653780'
+        firstName: Randall
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/TQOE00UELWYRBZOV.jpg
+        tips:
+          count: 44
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '617373522'
+    summary: Rodrigo F, Laura V, Aileen R & 6 others
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/ronnybrook-farm-dairy-milk-bar/46bff01ef964a520ec491fe3/menu
+    mobileUrl: https://foursquare.com/v/46bff01ef964a520ec491fe3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Ronnybrook Farm Dairy Milk Bar
+icon: https://foursquare.com/img/categories/food/icecream.png
+url: https://foursquare.com/v/ronnybrook-farm-dairy-milk-bar/46bff01ef964a520ec491fe3
+date: 2011-11-28 13:25:26.000000000 -05:00
+
+---

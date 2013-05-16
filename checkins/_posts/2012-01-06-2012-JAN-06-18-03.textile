@@ -1,0 +1,124 @@
+---
+id: 4f077ddae4b05dd3a2274773
+createdAt: 1325891034
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 40fb0f00f964a520ee0a1fe3
+  name: Urge Lounge
+  contact:
+    phone: '2125335757'
+    formattedPhone: (212) 533-5757
+  location:
+    address: 33 2nd Ave
+    crossStreet: btw E 1st & E 2nd Sts
+    lat: 40.72459570391395
+    lng: -73.99055837150034
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/urge-lounge/40fb0f00f964a520ee0a1fe3
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 6521
+    usersCount: 2833
+    tipCount: 37
+  closed: true
+  likes:
+    count: 4
+    groups:
+    - type: others
+      count: 4
+      items:
+      - id: '29000'
+        firstName: Nick
+        lastName: J.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/HONLZCMRCKGNAH5V.jpg
+        tips:
+          count: 17
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: nickjablonski
+          facebook: '5508405'
+      - id: '5936316'
+        firstName: michell
+        lastName: k.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/OLKRV00FEOCJKXT3.jpg
+        tips:
+          count: 38
+        homeCity: Barcelona, Espanya
+        bio: ''
+        contact:
+          facebook: '580824608'
+      - id: '4662498'
+        firstName: Ilvin
+        lastName: N.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/0FTPTDEFXCPSW3EE.jpg
+        tips:
+          count: 2
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: ilvin
+          facebook: '657420717'
+      - id: '25084588'
+        firstName: Joeffre
+        lastName: Y.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/4VBYPX4IF2PWMVZ3.jpg
+        tips:
+          count: 2
+        homeCity: New York, NY
+        bio: If it’s so beautifully arranged on the plate – you know someone’s fingers
+          have been all over it.
+        contact:
+          twitter: joeffre
+          facebook: '26310441'
+    summary: Nick J, michell k, Ilvin N & Joeffre Y
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Urge Lounge
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/urge-lounge/40fb0f00f964a520ee0a1fe3
+date: 2012-01-06 18:03:54.000000000 -05:00
+
+---

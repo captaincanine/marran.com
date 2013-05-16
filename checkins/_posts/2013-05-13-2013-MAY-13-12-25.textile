@@ -1,0 +1,71 @@
+---
+id: 51912222498e1e4503d400b8
+createdAt: 1368465954
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4cdaa7644006a1435b13d3b2
+  name: American Airlines Admirals Club
+  contact:
+    twitter: americanair
+  location:
+    address: Miami International Airport D15
+    crossStreet: North Terminal, Concourse D, 3rd Fl Above Gate D15
+    lat: 25.79798940984536
+    lng: -80.27324637746118
+    postalCode: '33122'
+    city: Miami
+    state: FL
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/american-airlines-admirals-club/4cdaa7644006a1435b13d3b2
+  categories:
+  - id: 4eb1bc533b7b2c5b1d4306cb
+    name: Airport Lounge
+    pluralName: Airport Lounges
+    shortName: Lounge
+    icon: https://foursquare.com/img/categories/travel/airport.png
+    parents:
+    - Travel & Transport
+    - Airport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 7132
+    usersCount: 4655
+    tipCount: 48
+  url: http://www.aa.com/admiralsclub
+  likes:
+    count: 18
+    groups:
+    - type: others
+      count: 18
+      items: []
+    summary: 18 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: American Airlines Admirals Club
+icon: https://foursquare.com/img/categories/travel/airport.png
+url: https://foursquare.com/v/american-airlines-admirals-club/4cdaa7644006a1435b13d3b2
+date: 2013-05-13 12:25:54.000000000 -05:00
+
+---

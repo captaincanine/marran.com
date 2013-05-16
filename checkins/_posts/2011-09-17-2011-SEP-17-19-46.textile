@@ -1,0 +1,138 @@
+---
+id: 4e753f4e7d8b917602fd8b5e
+createdAt: 1316306766
+type: checkin
+shout: Free champagne! Private room!
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4d3dd5bd6e252c0f918fe23b
+  name: La Silhouette
+  contact:
+    phone: '2125812400'
+    formattedPhone: (212) 581-2400
+    twitter: lasilhouettenyc
+  location:
+    address: 362 W 53rd St
+    crossStreet: btwn 8th & 9th Ave.
+    lat: 40.76497629940835
+    lng: -73.98718385680834
+    postalCode: '10019'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/la-silhouette/4d3dd5bd6e252c0f918fe23b
+  categories:
+  - id: 4bf58dd8d48988d10c941735
+    name: French Restaurant
+    pluralName: French Restaurants
+    shortName: French
+    icon: https://foursquare.com/img/categories/food/french.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 966
+    usersCount: 730
+    tipCount: 30
+  url: http://www.la-silhouettenyc.com
+  likes:
+    count: 7
+    groups:
+    - type: others
+      count: 7
+      items:
+      - id: '14184080'
+        firstName: John
+        lastName: H.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/QD1QMRRHWXP1KIIP.jpg
+        tips:
+          count: 0
+        homeCity: Manhattan, NYC
+        bio: ''
+        contact: {}
+      - id: '39965255'
+        firstName: Lauren
+        lastName: L.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/DCBDGJTAGDHL41NE.jpg
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: Scottsdale, AZ
+        bio: ''
+        contact:
+          twitter: laur417
+          facebook: '1328010235'
+      - id: '10598155'
+        firstName: Steven
+        lastName: B.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/IHJX4EX5MXOGGCPL.jpg
+        tips:
+          count: 148
+        lists:
+          groups:
+          - type: created
+            count: 12
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: stevenbirkeland
+          facebook: '563112436'
+      - id: '39353229'
+        firstName: Katie
+        lastName: M.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/SBWLKWTEUJ3ZYCMX.jpg
+        tips:
+          count: 14
+        lists:
+          groups:
+          - type: created
+            count: 8
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+    summary: John H, Lauren L, Steven B & 4 others
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=51778&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/la-silhouette/4d3dd5bd6e252c0f918fe23b/menu
+    mobileUrl: https://foursquare.com/v/4d3dd5bd6e252c0f918fe23b/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 1
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: La Silhouette
+icon: https://foursquare.com/img/categories/food/french.png
+url: https://foursquare.com/v/la-silhouette/4d3dd5bd6e252c0f918fe23b
+date: 2011-09-17 19:46:06.000000000 -05:00
+
+---

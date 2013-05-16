@@ -1,0 +1,84 @@
+---
+id: 4efb6beb9a52c90844aef6bc
+createdAt: 1325100011
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4b993dd4f964a520d16c35e3
+  name: Zaffrani's
+  contact: {}
+  location:
+    address: Dagmar Passage
+    crossStreet: Cross Street
+    lat: 51.539282
+    lng: -0.101233
+    city: Islington
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/zaffranis/4b993dd4f964a520d16c35e3
+  categories:
+  - id: 4bf58dd8d48988d10f941735
+    name: Indian Restaurant
+    pluralName: Indian Restaurants
+    shortName: Indian
+    icon: https://foursquare.com/img/categories/food/indian.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 155
+    usersCount: 89
+    tipCount: 3
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '17245982'
+        firstName: Zoé
+        lastName: G.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/E120YYP0B11Y1AKT.jpg
+        tips:
+          count: 9
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: Newcastle Upon Tyne, UK
+        bio: ''
+        contact:
+          twitter: zoemariegotts
+          facebook: '603390225'
+    summary: Zoé G
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Zaffrani's
+icon: https://foursquare.com/img/categories/food/indian.png
+url: https://foursquare.com/v/zaffranis/4b993dd4f964a520d16c35e3
+date: 2011-12-28 14:20:11.000000000 -05:00
+
+---

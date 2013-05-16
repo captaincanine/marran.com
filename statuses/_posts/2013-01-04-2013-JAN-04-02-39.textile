@@ -1,0 +1,23 @@
+---
+id: '790499637_10151616882884638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"We are!" on his own post on Eileen O''Donnell''s wall.'
+privacy:
+  value: ''
+type: status
+application:
+  name: Facebook for iPad
+  namespace: fbipad_
+  id: '173847642670370'
+created_time: '2013-01-04T07:39:39+0000'
+updated_time: '2013-01-04T07:39:39+0000'
+comments:
+  count: 0
+layout: status
+title: Friday, Jan  4, 2013 around 02:39AM
+date: 2013-01-04 02:39:39.000000000 -05:00
+
+---
+"We are!" on his own post on Eileen O'Donnell's wall.

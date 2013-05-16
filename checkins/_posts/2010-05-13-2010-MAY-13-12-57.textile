@@ -1,0 +1,118 @@
+---
+id: 4bec3d8da4de2f5e32e1e2bd
+createdAt: 1273773453
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a5a7c30f964a5206aba1fe3
+  name: Don Giovanni Ristorante
+  contact:
+    phone: '2122429054'
+    formattedPhone: (212) 242-9054
+    twitter: dongiovannirest
+  location:
+    address: 214 10th Ave
+    crossStreet: 23rd street
+    lat: 40.74797223402779
+    lng: -74.00407791137695
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/don-giovanni-ristorante/4a5a7c30f964a5206aba1fe3
+  categories:
+  - id: 4bf58dd8d48988d110941735
+    name: Italian Restaurant
+    pluralName: Italian Restaurants
+    shortName: Italian
+    icon: https://foursquare.com/img/categories/food/italian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1335
+    usersCount: 1112
+    tipCount: 18
+  url: http://dongiovanni-ny.com
+  likes:
+    count: 4
+    groups:
+    - type: others
+      count: 4
+      items:
+      - id: '10778391'
+        firstName: Anjelika
+        lastName: K.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/SP2WXRH3SINZ2PB2.jpg
+        tips:
+          count: 5
+        lists:
+          groups:
+          - type: created
+            count: 8
+            items: []
+        homeCity: NY
+        bio: ''
+        contact:
+          twitter: anjelika_kour
+      - id: '12879345'
+        firstName: Don
+        lastName: G.
+        gender: none
+        photo: https://is1.4sqi.net/userpix_thumbs/JHQKDI1LGKM2BXXD.jpg
+        tips:
+          count: 2
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '500213801'
+      - id: '238980'
+        firstName: Juan
+        lastName: C.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/IEXSE5QEBB0SJA34.jpg
+        tips:
+          count: 13
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: ! 'New York, New York '
+        bio: ''
+        contact:
+          twitter: cariador
+          facebook: '63204370'
+        superuser: 2
+    summary: Anjelika K, Don G, Juan C & 1 other
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/don-giovanni-ristorante/4a5a7c30f964a5206aba1fe3/menu
+    mobileUrl: https://foursquare.com/v/4a5a7c30f964a5206aba1fe3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Don Giovanni Ristorante
+icon: https://foursquare.com/img/categories/food/italian.png
+url: https://foursquare.com/v/don-giovanni-ristorante/4a5a7c30f964a5206aba1fe3
+date: 2010-05-13 12:57:33.000000000 -05:00
+
+---

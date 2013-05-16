@@ -1,130 +1,164 @@
---- 
-id: 790499637_10151659565024638
-from: 
+---
+id: '790499637_10151659565024638'
+from:
   name: Keith Marran
-  id: "790499637"
-message: It's time for an obnoxious new job title. How does "Website Artisan" sound? Or "Internet Mason"? "MacGyver of the Web"? Votes/suggestions, please.
-actions: 
+  id: '790499637'
+message: It's time for an obnoxious new job title. How does "Website Artisan" sound?
+  Or "Internet Mason"? "MacGyver of the Web"? Votes/suggestions, please.
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151659565024638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151659565024638
-privacy: 
+privacy:
   description: Friends
   value: ALL_FRIENDS
-  friends: ""
-  networks: ""
-  allow: ""
-  deny: ""
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
 type: status
 status_type: mobile_status_update
-application: 
+application:
   name: Buffer
   namespace: buffer-app
-  id: "103667826405103"
-created_time: 2013-01-25T16:55:13+0000
-updated_time: 2013-01-28T20:21:14+0000
-likes: 
-  data: 
+  id: '103667826405103'
+created_time: '2013-01-25T16:55:13+0000'
+updated_time: '2013-01-28T20:21:14+0000'
+likes:
+  data:
   - name: Suzanne Feinberg
-    id: "100000599017740"
+    id: '100000599017740'
   - name: Charlotte Hertander
-    id: "577154539"
+    id: '577154539'
   - name: Noah Fecks
-    id: "608492513"
+    id: '608492513'
   - name: Carmine Nicholas Tzavis
-    id: "100000813165354"
+    id: '100000813165354'
   count: 4
-comments: 
-  data: 
-  - id: 790499637_10151659565024638_30513419
-    from: 
+comments:
+  data:
+  - id: '10151659565024638_30513419'
+    from:
       name: T'ai Chu-Richardson
-      id: "14101146"
+      id: '14101146'
     message: All I can tell you is that "guru" is so 2007.
-    created_time: 2013-01-25T17:02:53+0000
-  - id: 790499637_10151659565024638_30513528
-    from: 
+    can_remove: true
+    created_time: '2013-01-25T17:02:53+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151659565024638_30513528'
+    from:
       name: Keith Marran
-      id: "790499637"
+      id: '790499637'
     message: How about "Tantric Website Yogi"?
-    created_time: 2013-01-25T17:10:37+0000
-    likes: 2
-  - id: 790499637_10151659565024638_30513703
-    from: 
+    can_remove: true
+    created_time: '2013-01-25T17:10:37+0000'
+    like_count: 2
+    user_likes: false
+  - id: '10151659565024638_30513703'
+    from:
       name: Dawn Richmond Breazile
-      id: "1834622505"
+      id: '1834622505'
     message: Paladin of the Infobahn
-    created_time: 2013-01-25T17:23:23+0000
-    likes: 1
-  - id: 790499637_10151659565024638_30514325
-    from: 
+    can_remove: true
+    created_time: '2013-01-25T17:23:23+0000'
+    like_count: 1
+    user_likes: true
+  - id: '10151659565024638_30514325'
+    from:
       name: Patrick Yacco
-      id: "507963176"
+      id: '507963176'
     message: Social Media Sherpa
-    created_time: 2013-01-25T18:17:13+0000
-    likes: 1
-  - id: 790499637_10151659565024638_30514359
-    from: 
+    can_remove: true
+    created_time: '2013-01-25T18:17:13+0000'
+    like_count: 1
+    user_likes: true
+  - id: '10151659565024638_30514359'
+    from:
       name: Sara Holoubek
-      id: "659585353"
+      id: '659585353'
     message: Pick a feudal title
-    created_time: 2013-01-25T18:19:39+0000
-  - id: 790499637_10151659565024638_30514579
-    from: 
+    can_remove: true
+    created_time: '2013-01-25T18:19:39+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151659565024638_30514579'
+    from:
       name: Justin Winslow
-      id: "1201684433"
+      id: '1201684433'
     message: Domain Wrangler
-    created_time: 2013-01-25T18:35:50+0000
-    likes: 1
-  - id: 790499637_10151659565024638_30514747
-    from: 
+    can_remove: true
+    created_time: '2013-01-25T18:35:50+0000'
+    like_count: 1
+    user_likes: true
+  - id: '10151659565024638_30514747'
+    from:
       name: Jeff Bond
-      id: "1108401510"
+      id: '1108401510'
     message: Virtual Life Coach.
-    created_time: 2013-01-25T18:50:29+0000
-    likes: 1
-  - id: 790499637_10151659565024638_30517764
-    from: 
+    can_remove: true
+    created_time: '2013-01-25T18:50:29+0000'
+    like_count: 1
+    user_likes: true
+  - id: '10151659565024638_30517764'
+    from:
       name: Andrew Uhlenhopp
-      id: "615837841"
+      id: '615837841'
     message: eBricklayer
-    created_time: 2013-01-25T22:16:50+0000
-    likes: 2
-  - id: 790499637_10151659565024638_30519823
-    from: 
+    can_remove: true
+    created_time: '2013-01-25T22:16:50+0000'
+    like_count: 2
+    user_likes: true
+  - id: '10151659565024638_30519823'
+    from:
       name: Renee Kent
-      id: "531319519"
+      id: '531319519'
     message: Evan Kent refers to you as the Jedi webmaster I think
-    message_tags: 
-    - id: "1362251279"
+    message_tags:
+    - id: '1362251279'
       name: Evan Kent
       type: user
       offset: 0
       length: 9
-    created_time: 2013-01-26T00:55:20+0000
-  - id: 790499637_10151659565024638_30520950
-    from: 
+    can_remove: true
+    created_time: '2013-01-26T00:55:20+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151659565024638_30520950'
+    from:
       name: Mark Oppenlander
-      id: "42903628"
+      id: '42903628'
     message: Webimagineer.
-    created_time: 2013-01-26T02:45:58+0000
-  - id: 790499637_10151659565024638_30532955
-    from: 
+    can_remove: true
+    created_time: '2013-01-26T02:45:58+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151659565024638_30532955'
+    from:
       name: Matthew Shields
-      id: "729111833"
+      id: '729111833'
     message: The Webster
-    created_time: 2013-01-27T00:11:49+0000
-  - id: 790499637_10151659565024638_30556966
-    from: 
+    can_remove: true
+    created_time: '2013-01-27T00:11:49+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151659565024638_30556966'
+    from:
       name: Robert Lucas
-      id: "100000816082478"
+      id: '100000816082478'
     message: EVP
-    created_time: 2013-01-28T20:21:14+0000
-  count: 12
+    can_remove: true
+    created_time: '2013-01-28T20:21:14+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: MTI=
+      before: MQ==
 layout: status
 title: Friday, Jan 25, 2013 around 11:55AM
-date: 2013-01-25 11:55:13 -05:00
+date: 2013-01-25 11:55:13.000000000 -05:00
 
 ---
 It's time for an obnoxious new job title. How does "Website Artisan" sound? Or "Internet Mason"? "MacGyver of the Web"? Votes/suggestions, please.

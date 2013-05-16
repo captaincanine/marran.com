@@ -1,0 +1,75 @@
+---
+id: 4e7529ff483b0cf5eca27f9f
+createdAt: 1316301311
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 42055e00f964a520681f1fe3
+  name: Therapy NYC
+  contact:
+    phone: '2123971700'
+    formattedPhone: (212) 397-1700
+  location:
+    address: 348 W 52nd St
+    crossStreet: btwn 8th & 9th Ave.
+    lat: 40.76415461906297
+    lng: -73.9868969055432
+    postalCode: '10019'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/therapy-nyc/42055e00f964a520681f1fe3
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 24493
+    usersCount: 9591
+    tipCount: 90
+  url: http://www.therapy-nyc.com
+  likes:
+    count: 45
+    groups:
+    - type: others
+      count: 45
+      items: []
+    summary: 45 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/therapy-nyc/42055e00f964a520681f1fe3/menu
+    mobileUrl: https://foursquare.com/v/42055e00f964a520681f1fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Therapy NYC
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/therapy-nyc/42055e00f964a520681f1fe3
+date: 2011-09-17 18:15:11.000000000 -05:00
+
+---

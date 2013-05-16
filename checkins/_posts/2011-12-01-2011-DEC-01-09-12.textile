@@ -1,0 +1,89 @@
+---
+id: 4ed78b4b2c5b95fea1e2ebc8
+createdAt: 1322748747
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4bf1c24399d02d7f1a84c948
+  name: Chelsea Waterside Park
+  contact: {}
+  location:
+    address: 23rd st & 11th Ave
+    lat: 40.749110508786124
+    lng: -74.00710296406899
+    postalCode: '10001'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/chelsea-waterside-park/4bf1c24399d02d7f1a84c948
+  categories:
+  - id: 4bf58dd8d48988d163941735
+    name: Park
+    pluralName: Parks
+    shortName: Park
+    icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+    parents:
+    - Outdoors & Recreation
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 3132
+    usersCount: 1646
+    tipCount: 11
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '1127366'
+        firstName: ! "Jae R \U0001F482"
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/IRKZX5HXULGFJIH4.jpg
+        tips:
+          count: 27
+        homeCity: New York
+        bio: ''
+        contact:
+          facebook: '1187280853'
+      - id: '1945077'
+        firstName: Josef
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/ZDQIJFWOQCAXHYSU.png
+        tips:
+          count: 2
+        homeCity: New York, New York
+        bio: ''
+        contact:
+          twitter: josefstoli
+          facebook: '589367672'
+    summary: ! "Jae R \U0001F482 & Josef S"
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Chelsea Waterside Park
+icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+url: https://foursquare.com/v/chelsea-waterside-park/4bf1c24399d02d7f1a84c948
+date: 2011-12-01 09:12:27.000000000 -05:00
+
+---

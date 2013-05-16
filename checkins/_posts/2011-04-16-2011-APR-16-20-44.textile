@@ -1,0 +1,73 @@
+---
+id: 4daa45eda86e771ea721036b
+createdAt: 1303004653
+type: checkin
+shout: Neil Diamond Night!
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 3fd66200f964a520f7e51ee3
+  name: Joe's Pub
+  contact:
+    phone: '2125398776'
+    formattedPhone: (212) 539-8776
+    twitter: joespubnyc
+  location:
+    address: 425 Lafayette St
+    crossStreet: btwn Astor Pl & E 4th St
+    lat: 40.72930063756496
+    lng: -73.99192996850243
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/joes-pub/3fd66200f964a520f7e51ee3
+  categories:
+  - id: 4bf58dd8d48988d1e5931735
+    name: Music Venue
+    pluralName: Music Venues
+    shortName: Music Venue
+    icon: https://foursquare.com/img/categories/arts_entertainment/musicvenue.png
+    parents:
+    - Arts & Entertainment
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 9272
+    usersCount: 5959
+    tipCount: 68
+  url: http://www.joespub.com
+  likes:
+    count: 30
+    groups:
+    - type: others
+      count: 30
+      items: []
+    summary: 30 likes
+  like: false
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Joe's Pub
+icon: https://foursquare.com/img/categories/arts_entertainment/musicvenue.png
+url: https://foursquare.com/v/joes-pub/3fd66200f964a520f7e51ee3
+date: 2011-04-16 20:44:13.000000000 -05:00
+
+---

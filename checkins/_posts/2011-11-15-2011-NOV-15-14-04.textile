@@ -1,0 +1,70 @@
+---
+id: 4ec2b7afcc21c9a2b0fd4fdb
+createdAt: 1321383855
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a7a06f2f964a52039e81fe3
+  name: Purl Soho
+  contact:
+    phone: '2124208796'
+    formattedPhone: (212) 420-8796
+  location:
+    address: 459 Broome St
+    crossStreet: Mercer Street
+    lat: 40.722120049082775
+    lng: -74.00120258331299
+    postalCode: '10013'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/purl-soho/4a7a06f2f964a52039e81fe3
+  categories:
+  - id: 4bf58dd8d48988d127951735
+    name: Arts & Crafts Store
+    pluralName: Arts & Crafts Stores
+    shortName: Arts & Crafts
+    icon: https://foursquare.com/img/categories/shops/artstore.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1567
+    usersCount: 981
+    tipCount: 6
+  likes:
+    count: 17
+    groups:
+    - type: others
+      count: 17
+      items: []
+    summary: 17 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Purl Soho
+icon: https://foursquare.com/img/categories/shops/artstore.png
+url: https://foursquare.com/v/purl-soho/4a7a06f2f964a52039e81fe3
+date: 2011-11-15 14:04:15.000000000 -05:00
+
+---

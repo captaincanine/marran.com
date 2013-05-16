@@ -1,0 +1,76 @@
+---
+id: 4f034396f790570bd56081e9
+createdAt: 1325613974
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a3e69a3f964a520e6a21fe3
+  name: goodburger
+  contact:
+    phone: '2125299100'
+    formattedPhone: (212) 529-9100
+    twitter: mygoodburger
+  location:
+    address: 870 Broadway
+    crossStreet: btwn E 17th & 18th St.
+    lat: 40.737367546551965
+    lng: -73.99015090774017
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/goodburger/4a3e69a3f964a520e6a21fe3
+  categories:
+  - id: 4bf58dd8d48988d16c941735
+    name: Burger Joint
+    pluralName: Burger Joints
+    shortName: Burgers
+    icon: https://foursquare.com/img/categories/food/burger.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 6764
+    usersCount: 4022
+    tipCount: 70
+  url: http://www.goodburgerny.com
+  likes:
+    count: 21
+    groups:
+    - type: others
+      count: 21
+      items: []
+    summary: 21 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/goodburger/4a3e69a3f964a520e6a21fe3/menu
+    mobileUrl: https://foursquare.com/v/4a3e69a3f964a520e6a21fe3/device_menu
+  beenHere:
+    count: 4
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: goodburger
+icon: https://foursquare.com/img/categories/food/burger.png
+url: https://foursquare.com/v/goodburger/4a3e69a3f964a520e6a21fe3
+date: 2012-01-03 13:06:14.000000000 -05:00
+
+---

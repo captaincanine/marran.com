@@ -1,0 +1,70 @@
+---
+id: 5192bc2d498ee7d84168d56d
+createdAt: 1368570925
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a895649f964a520e60720e3
+  name: Anna Maria Pizza & Pasta
+  contact:
+    phone: '7185994550'
+    formattedPhone: (718) 599-4550
+  location:
+    address: 179 Bedford Ave
+    crossStreet: btwn N 7th & N 8th St.
+    lat: 40.71802617433132
+    lng: -73.95760840770957
+    postalCode: '11211'
+    city: Brooklyn
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/anna-maria-pizza--pasta/4a895649f964a520e60720e3
+  categories:
+  - id: 4bf58dd8d48988d1ca941735
+    name: Pizza Place
+    pluralName: Pizza Places
+    shortName: Pizza
+    icon: https://foursquare.com/img/categories/food/pizza.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 3861
+    usersCount: 2336
+    tipCount: 50
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Anna Maria Pizza & Pasta
+icon: https://foursquare.com/img/categories/food/pizza.png
+url: https://foursquare.com/v/anna-maria-pizza--pasta/4a895649f964a520e60720e3
+date: 2013-05-14 17:35:25.000000000 -05:00
+
+---

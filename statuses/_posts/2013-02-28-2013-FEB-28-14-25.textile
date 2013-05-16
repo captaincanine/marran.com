@@ -1,0 +1,47 @@
+---
+id: '790499637_466864456713507'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: This is my favorite comic series of the past couple of years. It's only 4
+  issues. It ranges from ultra-dark mature content to irrationally hopeful and innocent
+  themes. I blubbered 4 times in the final issue.
+picture: https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAi3ZSkioASnMqh&w=154&h=154&url=http%3A%2F%2Fimages.imagecomics.com%2Fc%2F2012%2Fmidsize%2FIMG120545_m.jpg
+link: http://www.imagecomics.com/comics/5219/Happy-4-of-4
+name: ! 'Happy! #4 (of 4)'
+caption: www.imagecomics.com
+description: This is my favorite comic series of the past couple of years. It's only
+  4 issues. It ranges from ultra-dark mature content to irrationally hopeful and innocent
+  themes. I blubbered 4 times in the final issue.
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/466864456713507
+- name: Like
+  link: http://www.facebook.com/790499637/posts/466864456713507
+privacy:
+  description: Public
+  value: EVERYONE
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: link
+status_type: shared_story
+created_time: '2013-02-28T19:25:24+0000'
+updated_time: '2013-02-28T19:25:24+0000'
+likes:
+  data:
+  - name: Partho Sengupta
+    id: '100000392214097'
+  count: 1
+layout: status-link
+title: Thursday, Feb 28, 2013 around 02:25PM
+link-info: Christmas is here and the bad men are about to open their presents! It's
+  showdown time but can Nick Sax save the day without Happy to help him - or will
+  he screw this up like everything else? You must not miss the blood-drenched conclusion
+  of our heartwarming Yuletide classic!
+date: 2013-02-28 14:25:24.000000000 -05:00
+
+---
+This is my favorite comic series of the past couple of years. It's only 4 issues. It ranges from ultra-dark mature content to irrationally hopeful and innocent themes. I blubbered 4 times in the final issue.

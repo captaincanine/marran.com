@@ -1,0 +1,69 @@
+---
+id: 4ec2b78493ad416bd41f0150
+createdAt: 1321383812
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4d13bfe28f4c60fcdb7bff1a
+  name: Jezebel&Toff
+  contact:
+    phone: '6464905174'
+    formattedPhone: (646) 490-5174
+    twitter: jezebelandtoff
+  location:
+    address: 110 Thompson St
+    crossStreet: btw Spring & Prince
+    lat: 40.725721
+    lng: -74.001864
+    postalCode: '10012'
+    city: Soho
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/jezebeltoff/4d13bfe28f4c60fcdb7bff1a
+  categories:
+  - id: 4bf58dd8d48988d104951735
+    name: Boutique
+    pluralName: Boutiques
+    shortName: Boutique
+    icon: https://foursquare.com/img/categories/shops/apparel_boutique.png
+    parents:
+    - Shop & Service
+    - Clothing Store
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 7
+    usersCount: 7
+    tipCount: 1
+  url: http://www.jezebelandtoff.com
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Jezebel&Toff
+icon: https://foursquare.com/img/categories/shops/apparel_boutique.png
+url: https://foursquare.com/v/jezebeltoff/4d13bfe28f4c60fcdb7bff1a
+date: 2011-11-15 14:03:32.000000000 -05:00
+
+---

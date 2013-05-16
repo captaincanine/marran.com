@@ -1,52 +1,50 @@
---- 
-id: 790499637_408423945908106
-from: 
+---
+id: '790499637_408423945908106'
+from:
   name: Keith Marran
-  id: "790499637"
-message: This is the video that is going to totally start your week off right. Hugely entertaining and imaginative.
-picture: http://platform.ak.fbcdn.net/www/app_full_proxy.php?app=19884028963&v=1&size=p&cksum=f2c95034c39289a2093ebf13d8a54f66&src=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F403%2F626%2F403626437_1280.jpg
+  id: '790499637'
+message: This is the video that is going to totally start your week off right. Hugely
+  entertaining and imaginative.
+picture: https://s-platform.ak.fbcdn.net/www/app_full_proxy.php?app=19884028963&v=1&size=p&cksum=f2c95034c39289a2093ebf13d8a54f66&src=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F403%2F626%2F403626437_1280.jpg
 link: http://vimeo.com/58179094
 source: http://vimeo.com/moogaloop.swf?clip_id=58179094&autoplay=1
 name: The Reward
-description: This is the video that is going to totally start your week off right. Hugely entertaining and imaginative.
+description: This is the video that is going to totally start your week off right.
+  Hugely entertaining and imaginative.
 height: 360
 width: 640
-icon: http://photos-f.ak.fbcdn.net/photos-ak-snc7/v27562/158/316258588478606/app_101_316258588478606_1254246121.png
-actions: 
+icon: https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-ash3/851557_10151482498328964_500248208_n.png
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/408423945908106
 - name: Like
   link: http://www.facebook.com/790499637/posts/408423945908106
-privacy: 
+privacy:
   description: Friends
   value: ALL_FRIENDS
-  friends: ""
-  networks: ""
-  allow: ""
-  deny: ""
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
 type: swf
 status_type: app_created_story
-application: 
+application:
   name: Vimeo
   namespace: og_vimeo
-  id: "19884028963"
-created_time: 2013-01-28T02:40:21+0000
-updated_time: 2013-01-28T02:40:21+0000
-likes: 
-  data: 
+  id: '19884028963'
+created_time: '2013-01-28T02:40:21+0000'
+updated_time: '2013-01-28T02:40:21+0000'
+likes:
+  data:
   - name: David Pietrandrea
-    id: "613790686"
-  - name: JoyEllen Snellgrove
-    id: "1655943118"
+    id: '613790686'
   - name: Veronique Wolwowicz Rader
-    id: "604902503"
-  count: 3
-comments: 
-  count: 0
+    id: '604902503'
+  count: 2
 layout: status-link
 title: Sunday, Jan 27, 2013 around 09:40PM
 link-info: Vimeo is the home for high-quality videos and the people who love them.
-date: 2013-01-27 21:40:21 -05:00
+date: 2013-01-27 21:40:21.000000000 -05:00
 
 ---
 This is the video that is going to totally start your week off right. Hugely entertaining and imaginative.

@@ -1,0 +1,78 @@
+---
+id: 4d8d44c2fa9437044d94e5c5
+createdAt: 1301103810
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 49cebdeaf964a520815a1fe3
+  name: Macao Trading Co.
+  contact:
+    phone: '2124318642'
+    formattedPhone: (212) 431-8642
+    twitter: macaotradingco
+  location:
+    address: 311 Church St
+    crossStreet: btwn Lipensard & Walker St.
+    lat: 40.71973985357507
+    lng: -74.00430833093392
+    postalCode: '10013'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/macao-trading-co/49cebdeaf964a520815a1fe3
+  categories:
+  - id: 4bf58dd8d48988d142941735
+    name: Asian Restaurant
+    pluralName: Asian Restaurants
+    shortName: Asian
+    icon: https://foursquare.com/img/categories/food/asian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 8782
+    usersCount: 6196
+    tipCount: 118
+  url: http://www.macaonyc.com
+  likes:
+    count: 40
+    groups:
+    - type: others
+      count: 40
+      items: []
+    summary: 40 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=27787&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/macao-trading-co/49cebdeaf964a520815a1fe3/menu
+    mobileUrl: https://foursquare.com/v/49cebdeaf964a520815a1fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Macao Trading Co.
+icon: https://foursquare.com/img/categories/food/asian.png
+url: https://foursquare.com/v/macao-trading-co/49cebdeaf964a520815a1fe3
+date: 2011-03-25 20:43:30.000000000 -05:00
+
+---

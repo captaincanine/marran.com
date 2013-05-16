@@ -1,0 +1,124 @@
+---
+id: 4ed6cb95b6346530cfac3b36
+createdAt: 1322699669
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 481f2ad1f964a520844f1fe3
+  name: Metropolitan Club
+  contact: {}
+  location:
+    address: 1 E 60th St
+    crossStreet: at Fifth Ave
+    lat: 40.76473648419522
+    lng: -73.97225034387054
+    postalCode: '10022'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/metropolitan-club/481f2ad1f964a520844f1fe3
+  categories:
+  - id: 4bf58dd8d48988d1fa931735
+    name: Hotel
+    pluralName: Hotels
+    shortName: Hotel
+    icon: https://foursquare.com/img/categories/travel/hotel.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1647
+    usersCount: 1206
+    tipCount: 7
+  likes:
+    count: 6
+    groups:
+    - type: others
+      count: 6
+      items:
+      - id: '17103062'
+        firstName: E
+        lastName: W.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/DY2UAOAVNZAIPFJL.jpg
+        tips:
+          count: 5
+        homeCity: New York, NY
+        bio: Coffee monger. Skier. Engineer. Sailor. MBA Candidate. Helicopter dude.
+        contact:
+          twitter: mistawest
+          facebook: '4802097'
+      - id: '43930069'
+        firstName: Armando
+        lastName: A.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/J12GLEHXOHVJHAGB.jpg
+        tips:
+          count: 3
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '1051779075'
+      - id: '66074'
+        firstName: Sumeet
+        lastName: S.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/O3PZN0PZDDKPTBJ2.jpg
+        tips:
+          count: 41
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: New York, NY
+        bio: http://happybatman.tumblr.com/
+        contact:
+          twitter: meetsu
+          facebook: '105305'
+      - id: '45906932'
+        firstName: Rhea
+        lastName: G.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/G21RXNN1I1ND4SYW.jpg
+        tips:
+          count: 29
+        lists:
+          groups:
+          - type: created
+            count: 11
+            items: []
+        homeCity: Astoria, NY
+        bio: Keepin' it swag-free, heaven-focused, and business savvy.
+        contact:
+          twitter: soundslikerhea
+    summary: E W, Armando A, Sumeet S & 3 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Metropolitan Club
+icon: https://foursquare.com/img/categories/travel/hotel.png
+url: https://foursquare.com/v/metropolitan-club/481f2ad1f964a520844f1fe3
+date: 2011-11-30 19:34:29.000000000 -05:00
+
+---

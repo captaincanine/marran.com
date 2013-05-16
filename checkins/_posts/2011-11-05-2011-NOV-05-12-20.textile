@@ -1,0 +1,67 @@
+---
+id: 4eb57047991165b76266c6e3
+createdAt: 1320513607
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4afca152f964a520912422e3
+  name: La Mano Pottery
+  contact:
+    phone: '2126279450'
+    formattedPhone: (212) 627-9450
+  location:
+    address: 110 W 26th St
+    crossStreet: btwn 6th & 7th Ave.
+    lat: 40.74507858941331
+    lng: -73.99206161499023
+    postalCode: '10001'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/la-mano-pottery/4afca152f964a520912422e3
+  categories:
+  - id: 4bf58dd8d48988d127951735
+    name: Arts & Crafts Store
+    pluralName: Arts & Crafts Stores
+    shortName: Arts & Crafts
+    icon: https://foursquare.com/img/categories/shops/artstore.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 314
+    usersCount: 75
+    tipCount: 1
+  url: http://www.lamanopottery.com
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: La Mano Pottery
+icon: https://foursquare.com/img/categories/shops/artstore.png
+url: https://foursquare.com/v/la-mano-pottery/4afca152f964a520912422e3
+date: 2011-11-05 12:20:07.000000000 -05:00
+
+---

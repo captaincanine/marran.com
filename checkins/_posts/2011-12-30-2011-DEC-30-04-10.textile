@@ -1,0 +1,82 @@
+---
+id: 4efd8010f790570bcfe3f12b
+createdAt: 1325236240
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4b9f64e0f964a520162037e3
+  name: Pret A Manger
+  contact:
+    phone: '+442079325403'
+    formattedPhone: +44 20 7932 5403
+    twitter: pret
+  location:
+    address: 27 Islington High Street
+    lat: 51.5328522715
+    lng: -0.106298262744
+    postalCode: N1 9LH
+    city: Islington, London
+    state: UK
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/pret-a-manger/4b9f64e0f964a520162037e3
+  categories:
+  - id: 4bf58dd8d48988d1c5941735
+    name: Sandwich Place
+    pluralName: Sandwich Places
+    shortName: Sandwiches
+    icon: https://foursquare.com/img/categories/food/sandwiches.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1292
+    usersCount: 435
+    tipCount: 10
+  url: http://www.pret.com
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '22828654'
+        firstName: Vatan
+        lastName: O.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/YLV5JTICTZUYB5RW.jpg
+        tips:
+          count: 5
+        homeCity: london
+        bio: ! "editor\r\ncoffee, travel,"
+        contact:
+          twitter: vatanoz
+    summary: Vatan O
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Pret A Manger
+icon: https://foursquare.com/img/categories/food/sandwiches.png
+url: https://foursquare.com/v/pret-a-manger/4b9f64e0f964a520162037e3
+date: 2011-12-30 04:10:40.000000000 -05:00
+
+---

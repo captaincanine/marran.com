@@ -1,0 +1,50 @@
+---
+id: '790499637_101143140083173'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: I've seen Mikala Bierman in my neighborhood twice this week, so I took it
+  as a sign to google her. I've spent the past 30 minutes laughing at her Uncastable
+  series.
+picture: https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCvONqMdvKIKJaZ&w=130&h=130&url=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FgeWzpfBXHe8%2Fhqdefault.jpg
+link: http://www.youtube.com/playlist?list=PLBAE89F4D4D8EC964&buffer_share=286aa&utm_source=buffer
+source: http://www.youtube.com/v/videoseries?version=3&list=SPBAE89F4D4D8EC964&autoplay=1
+name: Uncastable
+description: I've seen Mikala Bierman in my neighborhood twice this week, so I took
+  it as a sign to google her. I've spent the past 30 minutes laughing at her Uncastable
+  series.
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/101143140083173
+- name: Like
+  link: http://www.facebook.com/790499637/posts/101143140083173
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: video
+status_type: shared_story
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-03-29T15:34:17+0000'
+updated_time: '2013-03-29T15:34:17+0000'
+likes:
+  data:
+  - name: Christine Marran
+    id: '1327144819'
+  - name: Jono Jarrett
+    id: '1343303598'
+  count: 2
+layout: status-link
+title: Friday, Mar 29, 2013 around 10:34AM
+link-info: ! '"Uncastable", a playlist created by mikalabierma'
+date: 2013-03-29 10:34:17.000000000 -05:00
+
+---
+I've seen Mikala Bierman in my neighborhood twice this week, so I took it as a sign to google her. I've spent the past 30 minutes laughing at her Uncastable series.

@@ -1,0 +1,122 @@
+---
+id: 4ef9867fa69dea74fc7f0a74
+createdAt: 1324975743
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4aded6b0f964a520cf7621e3
+  name: Starbucks
+  contact:
+    twitter: starbucksuk
+  location:
+    address: 30 Upper St, Islington
+    crossStreet: near Duncan St.
+    lat: 51.534377136326285
+    lng: -0.10535717010498047
+    postalCode: N1 0PN
+    city: London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/starbucks/4aded6b0f964a520cf7621e3
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1348
+    usersCount: 766
+    tipCount: 6
+  url: http://starbucks.co.uk
+  likes:
+    count: 5
+    groups:
+    - type: others
+      count: 5
+      items:
+      - id: '13092203'
+        firstName: Xuân
+        lastName: C.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/SZBSA0LSB1ZXO2QL.jpg
+        tips:
+          count: 18
+        homeCity: Montigny-le-Bretonneux, France
+        bio: ''
+        contact:
+          twitter: sytharu
+          facebook: '100000463024096'
+      - id: '41730840'
+        firstName: Marcroix
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/AMQ0KJ5BOZLFZJ42.jpg
+        tips:
+          count: 7
+        homeCity: Shoreditch
+        bio: ! "Director of www.peopleofprint.com\r\n@people_of_print\r\n\r\nGraphic
+          Design / Illustration \r\nwww.marcroy.co.uk"
+        contact:
+          twitter: marcroy_smith
+          facebook: '500871732'
+      - id: '21954920'
+        firstName: Pete
+        lastName: G.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/SMSQSVFOHZ5KRAPE.jpg
+        tips:
+          count: 7
+        homeCity: London
+        bio: ''
+        contact:
+          twitter: cdr_peter
+          facebook: '604343326'
+      - id: '13034795'
+        firstName: Ellis
+        lastName: W.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/5V4DF15HXBHHOC2T.jpg
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: North East Lincolnshire, UK
+        bio: ''
+        contact:
+          facebook: '601673883'
+    summary: Xuân C, Marcroix S, Pete G & 2 others
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Starbucks
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/starbucks/4aded6b0f964a520cf7621e3
+date: 2011-12-27 03:49:03.000000000 -05:00
+
+---

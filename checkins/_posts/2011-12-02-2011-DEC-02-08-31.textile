@@ -1,0 +1,73 @@
+---
+id: 4ed8d32129c2b91226730cb1
+createdAt: 1322832673
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a149749f964a52055781fe3
+  name: Locanda Verde
+  contact:
+    phone: '2129253797'
+    formattedPhone: (212) 925-3797
+  location:
+    address: 377 Greenwich St
+    crossStreet: at N Moore St
+    lat: 40.720072628003614
+    lng: -74.01036809972409
+    postalCode: '10013'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/locanda-verde/4a149749f964a52055781fe3
+  categories:
+  - id: 4bf58dd8d48988d110941735
+    name: Italian Restaurant
+    pluralName: Italian Restaurants
+    shortName: Italian
+    icon: https://foursquare.com/img/categories/food/italian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 14908
+    usersCount: 9643
+    tipCount: 273
+  url: http://www.locandaverdenyc.com
+  likes:
+    count: 116
+    groups:
+    - type: others
+      count: 116
+      items: []
+    summary: 116 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=22762&ref=9601
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Locanda Verde
+icon: https://foursquare.com/img/categories/food/italian.png
+url: https://foursquare.com/v/locanda-verde/4a149749f964a52055781fe3
+date: 2011-12-02 08:31:13.000000000 -05:00
+
+---

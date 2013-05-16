@@ -1,0 +1,72 @@
+---
+id: 4bc9fa1fa4de2f5e51f313bd
+createdAt: 1271527967
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a1b592ef964a520ee7a1fe3
+  name: Good Stuff Diner
+  contact:
+    phone: '2129292555'
+    formattedPhone: (212) 929-2555
+  location:
+    address: 109 W 14th St
+    crossStreet: btw 6th & 7th Ave
+    lat: 40.737604
+    lng: -73.997361
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/good-stuff-diner/4a1b592ef964a520ee7a1fe3
+  categories:
+  - id: 4bf58dd8d48988d147941735
+    name: Diner
+    pluralName: Diners
+    shortName: Diner
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 6411
+    usersCount: 3591
+    tipCount: 53
+  url: http://www.goodstuffdiner.com
+  likes:
+    count: 20
+    groups:
+    - type: others
+      count: 20
+      items: []
+    summary: 20 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/good-stuff-diner/4a1b592ef964a520ee7a1fe3/menu
+    mobileUrl: https://foursquare.com/v/4a1b592ef964a520ee7a1fe3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Good Stuff Diner
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/good-stuff-diner/4a1b592ef964a520ee7a1fe3
+date: 2010-04-17 13:12:47.000000000 -05:00
+
+---

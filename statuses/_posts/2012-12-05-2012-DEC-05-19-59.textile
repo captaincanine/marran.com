@@ -1,59 +1,59 @@
---- 
-id: 790499637_10151562433069638
-from: 
+---
+id: '790499637_10151562433069638'
+from:
   name: Keith Marran
-  id: "790499637"
+  id: '790499637'
 story: Keith Marran was tagged in Rob Velasco's photo.
 picture: http://photos-d.ak.fbcdn.net/hphotos-ak-snc6/249585_4248926074668_715512697_s.jpg
 link: http://www.facebook.com/photo.php?fbid=4248926074668&set=at.4248898353975.164384.1631202087.790499637&type=1&relevant_count=1
 description: Keith Marran was tagged in Rob Velasco's photo.
 icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
-actions: 
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151562433069638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151562433069638
-privacy: 
-  value: ""
-place: 
-  id: "127617100677880"
+privacy:
+  value: ''
+place:
+  id: '127617100677880'
   name: Nyc Comic Con
-  location: 
-    street: ""
+  location:
+    street: ''
     city: New York
     state: NY
     country: United States
-    zip: ""
+    zip: ''
     latitude: 40.758005549222
     longitude: -74.000396848621
 type: photo
 status_type: tagged_in_photo
-object_id: "4248926074668"
-application: 
+object_id: '4248926074668'
+application:
   name: Photos
-  id: "2305272732"
-created_time: 2012-12-06T00:59:18+0000
-updated_time: 2012-12-06T00:59:18+0000
-likes: 
-  data: 
+  id: '2305272732'
+created_time: '2012-12-06T00:59:18+0000'
+updated_time: '2012-12-06T00:59:18+0000'
+likes:
+  data:
   - name: Catherine Everett Hawes
-    id: "1403433546"
-  - name: Sreedhar Yedavalli
-    id: "1199970155"
+    id: '1403433546'
   - name: Dean Van de Motter
-    id: "100001694468053"
+    id: '100001694468053'
+  - name: Sreedhar Yedavalli
+    id: '1199970155'
   - name: Alexandra Montoya
-    id: "100000148899744"
+    id: '100000148899744'
   count: 6
-comments: 
+comments:
   count: 0
 layout: status-photo
 title: Wednesday, Dec  5, 2012 around 07:59PM
 link-info: Geeks Out!
-images: 
+images:
 - thumbnail: /statuses/photo/249585_4248926074668_715512697_s.jpg
   fullsize: /statuses/photo/249585_4248926074668_715512697_n.jpg
-date: 2012-12-05 19:59:18 -05:00
+date: 2012-12-05 19:59:18.000000000 -05:00
 
 ---
 Keith Marran was tagged in Rob Velasco's photo.

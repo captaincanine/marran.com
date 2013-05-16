@@ -1,0 +1,82 @@
+---
+id: '790499637_10151805968674638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: My skin seems to be losing the battle against winter. I think it might be
+  time to start something drastic and that thing is giving up dairy.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151805968674638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151805968674638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-03-17T13:22:16+0000'
+updated_time: '2013-03-17T18:54:31+0000'
+likes:
+  data:
+  - name: Ron Kahn
+    id: '1520495082'
+  count: 1
+comments:
+  data:
+  - id: '10151805968674638_31211572'
+    from:
+      name: Brenda Gregoline
+      id: '1236717380'
+    message: sounds good except cheese is made of dairy.
+    can_remove: true
+    created_time: '2013-03-17T14:02:36+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151805968674638_31211594'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Well...let's just say "minimize dairy" then.
+    can_remove: true
+    created_time: '2013-03-17T14:05:06+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151805968674638_31211620'
+    from:
+      name: Thomas Sproat
+      id: '573477249'
+    message: Humidify and moisturize.  For gods' sakes, man, don't abandon cheese
+      or ice cream!
+    can_remove: true
+    created_time: '2013-03-17T14:07:23+0000'
+    like_count: 3
+    user_likes: false
+  - id: '10151805968674638_31214259'
+    from:
+      name: Renee Kent
+      id: '531319519'
+    message: I started wearing a hazelwood necklace. I think it's helping. But it
+      took 2 months. Been having dairy a bit a not breaking out in eczema
+    can_remove: true
+    created_time: '2013-03-17T18:54:31+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: NA==
+      before: MQ==
+layout: status
+title: Sunday, Mar 17, 2013 around 08:22AM
+date: 2013-03-17 08:22:16.000000000 -05:00
+
+---
+My skin seems to be losing the battle against winter. I think it might be time to start something drastic and that thing is giving up dairy.

@@ -1,0 +1,134 @@
+---
+id: 50378a9ce4b0024b23562d76
+createdAt: 1345817244
+type: checkin
+timeZone: America/Chicago
+timeZoneOffset: -300
+venue:
+  id: 43bff2a8f964a520262d1fe3
+  name: Urban Bean
+  contact:
+    phone: '6128246611'
+    formattedPhone: (612) 824-6611
+    twitter: urbanbeancoffee
+  location:
+    address: 3255 Bryant Ave S
+    crossStreet: 33rd St
+    lat: 44.942981
+    lng: -93.29057715
+    postalCode: '55408'
+    city: Minneapolis
+    state: MN
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/urban-bean/43bff2a8f964a520262d1fe3
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 3965
+    usersCount: 963
+    tipCount: 27
+  likes:
+    count: 9
+    groups:
+    - type: others
+      count: 9
+      items:
+      - id: '9424212'
+        firstName: Howard
+        lastName: K.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/Y1Y2YBSLUHCCJ4YH.jpg
+        tips:
+          count: 2
+        homeCity: Robbinsdale, MN
+        bio: ! "My friends call me Lelo.\r\nThat is all."
+        contact:
+          twitter: lelohk
+          facebook: '1222960796'
+      - id: '17296'
+        firstName: David
+        lastName: E.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/HYXHRRDKCATX2NYT.jpg
+        tips:
+          count: 70
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Saint Paul, MN
+        bio: Marketing / communications / PR / SEO / social media strategist, pop
+          culture junkie, football & baseball fan, blogger @TheDailyNumbers & @MNVikingsChat
+        contact:
+          twitter: derickson
+          facebook: '793363355'
+        superuser: 2
+      - id: '52423571'
+        firstName: Casey
+        lastName: L.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/U0PGJ2BQMWOLQZEB.jpg
+        tips:
+          count: 7
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Minneapolis, MN
+        bio: ''
+        contact:
+          facebook: '543936745'
+      - id: '151914'
+        firstName: Jachin
+        lastName: R.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/NUKAB5G5IM5FCMIK.jpg
+        tips:
+          count: 0
+        homeCity: Minneapolis, MN
+        bio: ''
+        contact:
+          twitter: jachin
+          facebook: '670673081'
+    summary: Howard K, David E, Casey L & 6 others
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/urban-bean/43bff2a8f964a520262d1fe3/menu
+    mobileUrl: https://foursquare.com/v/43bff2a8f964a520262d1fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Urban Bean
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/urban-bean/43bff2a8f964a520262d1fe3
+date: 2012-08-24 09:07:24.000000000 -05:00
+
+---

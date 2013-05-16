@@ -1,0 +1,80 @@
+---
+id: 4e6f7f8dd22de80163a34bbb
+createdAt: 1315929997
+type: checkin
+timeZone: Asia/Jerusalem
+timeZoneOffset: 180
+venue:
+  id: 4bdc1f392a3a0f47578db1b6
+  name: Boya
+  contact:
+    phone: '+97235446166'
+    formattedPhone: +972 3-544-6166
+  location:
+    address: The Old Hataarucha Gardens
+    crossStreet: Shefech Hayarkon vestibule
+    lat: 32.10127152890879
+    lng: 34.77514028549194
+    postalCode: '63509'
+    city: Tel Aviv
+    country: Israel
+    cc: IL
+  canonicalUrl: https://foursquare.com/v/boya/4bdc1f392a3a0f47578db1b6
+  categories:
+  - id: 4bf58dd8d48988d1db931735
+    name: Tapas Restaurant
+    pluralName: Tapas Restaurants
+    shortName: Tapas
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 453
+    usersCount: 366
+    tipCount: 9
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '34815784'
+        firstName: Boya
+        lastName: B.
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 0
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '100004167554254'
+    summary: Boya B
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Boya
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/boya/4bdc1f392a3a0f47578db1b6
+date: 2011-09-13 11:06:37.000000000 -05:00
+
+---

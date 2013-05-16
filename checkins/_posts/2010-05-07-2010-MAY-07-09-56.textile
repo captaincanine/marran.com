@@ -1,0 +1,74 @@
+---
+id: 4be42a2ba4de2f5ea153acbd
+createdAt: 1273244203
+type: checkin
+shout: Getting a green spice juice to avoid getting a cold.
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4b197424f964a5209bdd23e3
+  name: One Lucky Duck - Chelsea Market
+  contact:
+    phone: '2122554300'
+    formattedPhone: (212) 255-4300
+    twitter: oneluckyduck
+  location:
+    address: 75 9th Ave
+    crossStreet: btwn 15th & 16th St.
+    lat: 40.74229670458388
+    lng: -74.0063512289847
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/one-lucky-duck--chelsea-market/4b197424f964a5209bdd23e3
+  categories:
+  - id: 4bf58dd8d48988d1d3941735
+    name: Vegetarian / Vegan Restaurant
+    pluralName: Vegetarian / Vegan Restaurants
+    shortName: Vegetarian / Vegan
+    icon: https://foursquare.com/img/categories/food/vegetarian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1670
+    usersCount: 793
+    tipCount: 25
+  url: http://oneluckyduck.com
+  likes:
+    count: 23
+    groups:
+    - type: others
+      count: 23
+      items: []
+    summary: 23 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/one-lucky-duck--chelsea-market/4b197424f964a5209bdd23e3/menu
+    mobileUrl: https://foursquare.com/v/4b197424f964a5209bdd23e3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: One Lucky Duck - Chelsea Market
+icon: https://foursquare.com/img/categories/food/vegetarian.png
+url: https://foursquare.com/v/one-lucky-duck--chelsea-market/4b197424f964a5209bdd23e3
+date: 2010-05-07 09:56:43.000000000 -05:00
+
+---

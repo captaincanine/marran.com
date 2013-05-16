@@ -1,0 +1,72 @@
+---
+id: 4efc71cb93ad9a2798b6beec
+createdAt: 1325167051
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4ac518cef964a520f7a520e3
+  name: Tower of London
+  contact:
+    phone: '+448444827777'
+    formattedPhone: +44 844 482 7777
+    twitter: hrp_palaces
+  location:
+    address: Tower Hill
+    crossStreet: Tower Bridge Approach
+    lat: 51.50802127486276
+    lng: -0.07626056671142578
+    postalCode: EC3N 4AB
+    city: London
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/tower-of-london/4ac518cef964a520f7a520e3
+  categories:
+  - id: 4bf58dd8d48988d181941735
+    name: Museum
+    pluralName: Museums
+    shortName: Museum
+    icon: https://foursquare.com/img/categories/arts_entertainment/museum.png
+    parents:
+    - Arts & Entertainment
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 23260
+    usersCount: 19102
+    tipCount: 355
+  url: http://www.hrp.org.uk
+  likes:
+    count: 254
+    groups:
+    - type: others
+      count: 254
+      items: []
+    summary: 254 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Tower of London
+icon: https://foursquare.com/img/categories/arts_entertainment/museum.png
+url: https://foursquare.com/v/tower-of-london/4ac518cef964a520f7a520e3
+date: 2011-12-29 08:57:31.000000000 -05:00
+
+---

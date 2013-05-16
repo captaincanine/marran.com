@@ -1,0 +1,72 @@
+---
+id: 4e9a2ef730f87c966c2e2838
+createdAt: 1318727415
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4ad04456f964a520c7d720e3
+  name: Ritz Bar & Lounge
+  contact:
+    phone: '2123334177'
+    formattedPhone: (212) 333-4177
+    twitter: ritzbarlounge
+  location:
+    address: 369 W 46th St
+    crossStreet: btwn 8th & 9th Ave
+    lat: 40.760871
+    lng: -73.990166
+    postalCode: '10036'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/ritz-bar--lounge/4ad04456f964a520c7d720e3
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 18763
+    usersCount: 6783
+    tipCount: 57
+  url: http://www.facebook.com/ritznewyork
+  likes:
+    count: 31
+    groups:
+    - type: others
+      count: 31
+      items: []
+    summary: 31 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Ritz Bar & Lounge
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/ritz-bar--lounge/4ad04456f964a520c7d720e3
+date: 2011-10-15 20:10:15.000000000 -05:00
+
+---

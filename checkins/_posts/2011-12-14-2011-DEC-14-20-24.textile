@@ -1,0 +1,75 @@
+---
+id: 4ee94c5a4901326b60971d89
+createdAt: 1323912282
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4ddc9302887775ea9c44a155
+  name: Phoenix
+  contact:
+    phone: '2124779979'
+    formattedPhone: (212) 477-9979
+  location:
+    address: 447 E 13th St
+    crossStreet: at Avenue A
+    lat: 40.729923697132776
+    lng: -73.981243878201
+    postalCode: '10009'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/phoenix/4ddc9302887775ea9c44a155
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 4861
+    usersCount: 2586
+    tipCount: 24
+  url: http://newyork.gaycities.com/bardetail/416
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/phoenix/4ddc9302887775ea9c44a155/menu
+    mobileUrl: https://foursquare.com/v/4ddc9302887775ea9c44a155/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Phoenix
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/phoenix/4ddc9302887775ea9c44a155
+date: 2011-12-14 20:24:42.000000000 -05:00
+
+---

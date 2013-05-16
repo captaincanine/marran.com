@@ -1,0 +1,74 @@
+---
+id: 4e9870d330f87b6eacd52a4b
+createdAt: 1318613203
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 3fd66200f964a520b4e31ee3
+  name: Skylight Diner
+  contact:
+    phone: '2122440395'
+    formattedPhone: (212) 244-0395
+  location:
+    address: 402 W 34th St
+    crossStreet: 9th Ave
+    lat: 40.753414065622245
+    lng: -73.99658414294873
+    postalCode: '10001'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/skylight-diner/3fd66200f964a520b4e31ee3
+  categories:
+  - id: 4bf58dd8d48988d147941735
+    name: Diner
+    pluralName: Diners
+    shortName: Diner
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 4800
+    usersCount: 3123
+    tipCount: 60
+  likes:
+    count: 14
+    groups:
+    - type: others
+      count: 14
+      items: []
+    summary: 14 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/skylight-diner/3fd66200f964a520b4e31ee3/menu
+    mobileUrl: https://foursquare.com/v/3fd66200f964a520b4e31ee3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Skylight Diner
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/skylight-diner/3fd66200f964a520b4e31ee3
+date: 2011-10-14 12:26:43.000000000 -05:00
+
+---

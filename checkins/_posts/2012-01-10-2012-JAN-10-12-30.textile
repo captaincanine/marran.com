@@ -1,0 +1,73 @@
+---
+id: 4f0c75a1e4b02a8da6634d8b
+createdAt: 1326216609
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4d0ba4f66d26a0937a59792d
+  name: Elevation Burger
+  contact:
+    phone: '2129244448'
+    formattedPhone: (212) 924-4448
+    twitter: organic_burgers
+  location:
+    address: 103 W 14th St
+    crossStreet: btwn 6th & 7th Ave.
+    lat: 40.73743746199325
+    lng: -73.9972972869873
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/elevation-burger/4d0ba4f66d26a0937a59792d
+  categories:
+  - id: 4bf58dd8d48988d16c941735
+    name: Burger Joint
+    pluralName: Burger Joints
+    shortName: Burgers
+    icon: https://foursquare.com/img/categories/food/burger.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1491
+    usersCount: 862
+    tipCount: 30
+  closed: true
+  url: http://www.elevationburger.com
+  likes:
+    count: 0
+    groups: []
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/elevation-burger/4d0ba4f66d26a0937a59792d/menu
+    mobileUrl: https://foursquare.com/v/4d0ba4f66d26a0937a59792d/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Elevation Burger
+icon: https://foursquare.com/img/categories/food/burger.png
+url: https://foursquare.com/v/elevation-burger/4d0ba4f66d26a0937a59792d
+date: 2012-01-10 12:30:09.000000000 -05:00
+
+---

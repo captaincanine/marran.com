@@ -1,0 +1,133 @@
+---
+id: 4eaec6d0dab4a75e0aa637c7
+createdAt: 1320077008
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a427463f964a520e0a51fe3
+  name: D'Espresso
+  contact:
+    phone: '2129827030'
+    formattedPhone: (212) 982-7030
+    twitter: despresso1
+  location:
+    address: 100 Stanton St
+    crossStreet: Ludlow St
+    lat: 40.72130515984723
+    lng: -73.98816522689322
+    postalCode: '10002'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/despresso/4a427463f964a520e0a51fe3
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2746
+    usersCount: 1259
+    tipCount: 31
+  closed: true
+  url: http://www.despresso.com
+  likes:
+    count: 3
+    groups:
+    - type: others
+      count: 3
+      items:
+      - id: '7088316'
+        firstName: Rebecca
+        lastName: G.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/1GUXLZTEBBZ1VRUJ.jpg
+        tips:
+          count: 12
+        lists:
+          groups:
+          - type: created
+            count: 7
+            items: []
+        homeCity: New York City
+        bio: Living life in beta. Lover of iced chai, algorithms and high heels.
+        contact:
+          twitter: geekgirlweb
+          facebook: '735650064'
+      - id: '13159491'
+        firstName: James
+        lastName: B.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/JA4YLF4M5YULDXYH.jpg
+        tips:
+          count: 26
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: jamesbelfer
+          facebook: '2412165'
+      - id: '93971'
+        firstName: Jake
+        lastName: D.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/FJA01GZDHJCLSKNK.jpg
+        tips:
+          count: 10
+        lists:
+          groups:
+          - type: created
+            count: 7
+            items: []
+        homeCity: San Francisco, CA
+        bio: ''
+        contact:
+          twitter: jake_dwyer
+          facebook: '503615'
+    summary: Rebecca G, James B & Jake D
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/despresso/4a427463f964a520e0a51fe3/menu
+    mobileUrl: https://foursquare.com/v/4a427463f964a520e0a51fe3/device_menu
+  beenHere:
+    count: 1
+    marked: true
+  listed:
+    groups:
+    - type: dones
+      count: 1
+      items: []
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: D'Espresso
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/despresso/4a427463f964a520e0a51fe3
+date: 2011-10-31 11:03:28.000000000 -05:00
+
+---

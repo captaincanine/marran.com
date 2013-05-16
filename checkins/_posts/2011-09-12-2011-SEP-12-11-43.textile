@@ -1,0 +1,66 @@
+---
+id: 4e6e36a58998a706cdd7b73d
+createdAt: 1315845797
+type: checkin
+timeZone: Asia/Jerusalem
+timeZoneOffset: 180
+venue:
+  id: 4c153b7582a3c9b69683fef8
+  name: Vicky Cristina (ויקי כריסטינה)
+  contact: {}
+  location:
+    address: The Station
+    crossStreet: Neve Tzedek
+    lat: 32.05829291682891
+    lng: 34.76187343436771
+    city: Tel Aviv-Jaffa
+    country: Israel
+    cc: IL
+  canonicalUrl: https://foursquare.com/v/vicky-cristina-%D7%95%D7%99%D7%A7%D7%99-%D7%9B%D7%A8%D7%99%D7%A1%D7%98%D7%99%D7%A0%D7%94/4c153b7582a3c9b69683fef8
+  categories:
+  - id: 4bf58dd8d48988d1db931735
+    name: Tapas Restaurant
+    pluralName: Tapas Restaurants
+    shortName: Tapas
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1691
+    usersCount: 1215
+    tipCount: 26
+  likes:
+    count: 19
+    groups:
+    - type: others
+      count: 19
+      items: []
+    summary: 19 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Vicky Cristina (ויקי כריסטינה)
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/vicky-cristina-%D7%95%D7%99%D7%A7%D7%99-%D7%9B%D7%A8%D7%99%D7%A1%D7%98%D7%99%D7%A0%D7%94/4c153b7582a3c9b69683fef8
+date: 2011-09-12 11:43:17.000000000 -05:00
+
+---

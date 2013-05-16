@@ -1,0 +1,115 @@
+---
+id: 4f086edfe4b0671f2793f980
+createdAt: 1325952735
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a9bcc2ff964a5203b3520e3
+  name: Washington Market Park
+  contact: {}
+  location:
+    address: Greenwich St.
+    crossStreet: Reade St.
+    lat: 40.71704598853704
+    lng: -74.01109457015991
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/washington-market-park/4a9bcc2ff964a5203b3520e3
+  categories:
+  - id: 4bf58dd8d48988d1e7941735
+    name: Playground
+    pluralName: Playgrounds
+    shortName: Playground
+    icon: https://foursquare.com/img/categories/parks_outdoors/playground.png
+    parents:
+    - Outdoors & Recreation
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2193
+    usersCount: 862
+    tipCount: 3
+  likes:
+    count: 3
+    groups:
+    - type: others
+      count: 3
+      items:
+      - id: '1043498'
+        firstName: Ray
+        gender: none
+        photo: https://is0.4sqi.net/userpix_thumbs/WXNVA340LUX2SZN1.jpg
+        tips:
+          count: 228
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: New York, NY
+        bio: nyc
+        contact: {}
+      - id: '2928458'
+        firstName: Leo
+        lastName: M.
+        gender: none
+        photo: https://is1.4sqi.net/userpix_thumbs/WVG5RRY5MYL2S13M.jpg
+        tips:
+          count: 31
+        lists:
+          groups:
+          - type: created
+            count: 23
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: leo_mordis
+          facebook: '34603781'
+      - id: '19289452'
+        firstName: Masami
+        lastName: K.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/UN0P3SLIGH4TOEQS.jpg
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Queens, NY
+        bio: ''
+        contact:
+          twitter: marcycama
+          facebook: '1009184679'
+    summary: Ray, Leo M & Masami K
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Washington Market Park
+icon: https://foursquare.com/img/categories/parks_outdoors/playground.png
+url: https://foursquare.com/v/washington-market-park/4a9bcc2ff964a5203b3520e3
+date: 2012-01-07 11:12:15.000000000 -05:00
+
+---

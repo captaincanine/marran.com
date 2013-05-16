@@ -1,0 +1,99 @@
+---
+id: '790499637_10151860519244638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: Does Hollywood not understand that the story of "Carrie" is about the MOST
+  unpopular girl in school? And that there is no way that Chloë Moretz would EVER
+  be a candidate for that position?
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151860519244638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151860519244638
+privacy:
+  description: Public
+  value: EVERYONE
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+created_time: '2013-04-15T01:01:59+0000'
+updated_time: '2013-04-15T08:50:00+0000'
+likes:
+  data:
+  - name: Jono Jarrett
+    id: '1343303598'
+  - name: Carmine Nicholas Tzavis
+    id: '100000813165354'
+  - name: Allison Kolarik
+    id: '618429479'
+  - name: Noah Fecks
+    id: '608492513'
+  count: 5
+comments:
+  data:
+  - id: '10151860519244638_31576042'
+    from:
+      name: Chris Eades
+      id: '1420273116'
+    message: Yeah. I think she's great, but watching the trailer, she doesn't look
+      unpopular enough
+    can_remove: true
+    created_time: '2013-04-15T01:05:43+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151860519244638_31576098'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: I'm not even sure how Sissy Spacek pulled it off, but she did. She had
+      a hint of stupidity about the world that made you understand that people just
+      kind of hated her for no reason. Apparently she showed up at auditions with
+      vaseline in her hair, no makeup, and old clothes to look like a rag.
+    can_remove: true
+    created_time: '2013-04-15T01:11:29+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151860519244638_31576352'
+    from:
+      name: Chris Eades
+      id: '1420273116'
+    message: She just looked put upon, with the long, stringy hair and sad puppy dog
+      eyes. Chloe in the trailer just looks like a pretty girl who needs a brush.
+    can_remove: true
+    created_time: '2013-04-15T01:36:34+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151860519244638_31577086'
+    from:
+      name: Allison Kolarik
+      id: '618429479'
+    message: Needs more goiter. Like, right on the neck.
+    can_remove: true
+    created_time: '2013-04-15T02:48:28+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151860519244638_31579625'
+    from:
+      name: Peter Von Brown
+      id: '1128953787'
+    message: ! 'Saw the trailer at the theater.  My reaction (to trailer itself):
+      Um, you just showed the WHOLE movie. Yeah, even the blood. BOTH times.  R-really?  Not
+      even one surprise for those who are discovering it for the first time?'
+    can_remove: true
+    created_time: '2013-04-15T08:50:00+0000'
+    like_count: 1
+    user_likes: false
+  paging:
+    cursors:
+      after: NQ==
+      before: MQ==
+layout: status
+title: Sunday, Apr 14, 2013 around 08:01PM
+date: 2013-04-14 20:01:59.000000000 -05:00
+
+---
+Does Hollywood not understand that the story of "Carrie" is about the MOST unpopular girl in school? And that there is no way that Chloë Moretz would EVER be a candidate for that position?

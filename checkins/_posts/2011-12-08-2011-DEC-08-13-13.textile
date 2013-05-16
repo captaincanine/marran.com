@@ -1,0 +1,136 @@
+---
+id: 4ee0fe440aafbb3dbb322723
+createdAt: 1323368004
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a765117f964a520d4e21fe3
+  name: Eleni's New York
+  contact:
+    phone: '8884353647'
+    formattedPhone: (888) 435-3647
+    twitter: eleniscookiesny
+  location:
+    address: 75 9th Ave
+    crossStreet: at W 15th St.
+    lat: 40.74196941412302
+    lng: -74.00494530429557
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/elenis-new-york/4a765117f964a520d4e21fe3
+  categories:
+  - id: 4bf58dd8d48988d1d0941735
+    name: Dessert Shop
+    pluralName: Dessert Shops
+    shortName: Desserts
+    icon: https://foursquare.com/img/categories/food/dessert.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2409
+    usersCount: 1620
+    tipCount: 35
+  url: http://elenis.com
+  likes:
+    count: 7
+    groups:
+    - type: others
+      count: 7
+      items:
+      - id: '1628867'
+        firstName: Laura
+        lastName: V.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/AKUJLIAYDKF3OKID.jpg
+        tips:
+          count: 3
+        homeCity: Massapequa, NY
+        bio: ''
+        contact: {}
+      - id: '47900463'
+        firstName: Caitlin
+        lastName: C.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/2M5QVNZUWBV0WI0G.jpg
+        tips:
+          count: 184
+        lists:
+          groups:
+          - type: created
+            count: 16
+            items: []
+        homeCity: New York, NY
+        bio: filmmaker, grad student, bookworm, mac & cheese connoisseur, cinephile,
+          shutterbug, broadway junkie, okie, equestrian, proud member of the william
+          & mary tribe
+        contact:
+          twitter: cait7911
+          facebook: '1444980237'
+      - id: '3689357'
+        firstName: Samantha
+        lastName: F.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/QROKIW1HGWBV5IMU.jpg
+        tips:
+          count: 10
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: New York, NY
+        bio: A NYC foodie who loves trying new places,  and exploring different neighborhoods.
+        contact:
+          facebook: '36410843'
+      - id: '32926468'
+        firstName: LT
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/Q5YJBOXNVGBHRWP5.jpg
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: Berlin, Germany
+        bio: ''
+        contact:
+          facebook: '100341'
+    summary: Laura V, Caitlin C, Samantha F & 4 others
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/elenis-new-york/4a765117f964a520d4e21fe3/menu
+    mobileUrl: https://foursquare.com/v/4a765117f964a520d4e21fe3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Eleni's New York
+icon: https://foursquare.com/img/categories/food/dessert.png
+url: https://foursquare.com/v/elenis-new-york/4a765117f964a520d4e21fe3
+date: 2011-12-08 13:13:24.000000000 -05:00
+
+---

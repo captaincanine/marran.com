@@ -1,0 +1,128 @@
+---
+id: 518426e2498e2d591830a648
+createdAt: 1367615202
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4cdd66934006a143be17e5b2
+  name: Elm Health
+  contact:
+    phone: '2122556300'
+    formattedPhone: (212) 255-6300
+    twitter: elmhealth
+  location:
+    address: 56 7th Ave
+    crossStreet: at 14th St.
+    lat: 40.738374
+    lng: -73.999829
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/elm-health/4cdd66934006a143be17e5b2
+  categories:
+  - id: 4bf58dd8d48988d118951735
+    name: Grocery Store
+    pluralName: Grocery Stores
+    shortName: Grocery Store
+    icon: https://foursquare.com/img/categories/shops/food_grocery.png
+    parents:
+    - Shop & Service
+    - Food & Drink Shop
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1236
+    usersCount: 367
+    tipCount: 14
+  url: http://elmhealth.net
+  likes:
+    count: 5
+    groups:
+    - type: others
+      count: 5
+      items:
+      - id: '54800183'
+        firstName: Julie
+        lastName: B.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/1O5XVUYHPVRBYMIP.jpg
+        tips:
+          count: 1
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: giuliabrulli
+          facebook: '100005489859986'
+      - id: '45101152'
+        firstName: Amanda
+        lastName: D.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/YB0H51FKKSJJKPVR.jpg
+        tips:
+          count: 0
+        homeCity: Astoria, New York
+        bio: ''
+        contact:
+          facebook: '27609503'
+      - id: '136'
+        firstName: Nate
+        lastName: W.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/4a40156b99a30.jpg
+        tips:
+          count: 41
+        lists:
+          groups:
+          - type: created
+            count: 3
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: innonate
+          facebook: '9801402'
+        superuser: 1
+      - id: '38097711'
+        firstName: Scheckter's Organic Energy
+        gender: none
+        photo: https://is1.4sqi.net/userpix_thumbs/KNZS3PDVC5CVJPHE.jpg
+        tips:
+          count: 11
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: www.schecktersorganic.com
+        contact: {}
+    summary: Julie B, Amanda D, Nate W & 2 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Elm Health
+icon: https://foursquare.com/img/categories/shops/food_grocery.png
+url: https://foursquare.com/v/elm-health/4cdd66934006a143be17e5b2
+date: 2013-05-03 16:06:42.000000000 -05:00
+
+---

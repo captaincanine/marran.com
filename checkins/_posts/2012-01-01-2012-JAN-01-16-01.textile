@@ -1,0 +1,72 @@
+---
+id: 4f00c98ed3e364d5fd40ea6f
+createdAt: 1325451662
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 40f1d480f964a5206a0a1fe3
+  name: High Line
+  contact:
+    phone: '2125006035'
+    formattedPhone: (212) 500-6035
+    twitter: highlinenyc
+  location:
+    address: btwn Gansevoort & W 30th St
+    crossStreet: btwn 10th & 11th Ave
+    lat: 40.747061887498916
+    lng: -74.00519371032715
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/high-line/40f1d480f964a5206a0a1fe3
+  categories:
+  - id: 4bf58dd8d48988d163941735
+    name: Park
+    pluralName: Parks
+    shortName: Park
+    icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+    parents:
+    - Outdoors & Recreation
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 100391
+    usersCount: 58248
+    tipCount: 572
+  url: http://www.thehighline.org
+  likes:
+    count: 704
+    groups:
+    - type: others
+      count: 704
+      items: []
+    summary: 704 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: High Line
+icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+url: https://foursquare.com/v/high-line/40f1d480f964a5206a0a1fe3
+date: 2012-01-01 16:01:02.000000000 -05:00
+
+---

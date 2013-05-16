@@ -1,0 +1,71 @@
+---
+id: 4edac6ad77c8274efda74bcb
+createdAt: 1322960557
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4edae02c9911a3e78dd03897
+  name: Bareburger
+  contact:
+    phone: '2124142273'
+    formattedPhone: (212) 414-2273
+  location:
+    address: 153 8th Ave
+    crossStreet: btwn 17th & 18th St.
+    lat: 40.74204545087182
+    lng: -74.00076189994842
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/bareburger/4edae02c9911a3e78dd03897
+  categories:
+  - id: 4bf58dd8d48988d16c941735
+    name: Burger Joint
+    pluralName: Burger Joints
+    shortName: Burgers
+    icon: https://foursquare.com/img/categories/food/burger.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 5105
+    usersCount: 3387
+    tipCount: 58
+  url: http://www.bareburger.com
+  likes:
+    count: 46
+    groups:
+    - type: others
+      count: 46
+      items: []
+    summary: 46 likes
+  like: false
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Bareburger
+icon: https://foursquare.com/img/categories/food/burger.png
+url: https://foursquare.com/v/bareburger/4edae02c9911a3e78dd03897
+date: 2011-12-03 20:02:37.000000000 -05:00
+
+---

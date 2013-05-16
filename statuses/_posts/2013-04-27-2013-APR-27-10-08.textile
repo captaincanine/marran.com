@@ -1,0 +1,95 @@
+---
+id: '790499637_10151883748434638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: Out of all the Star Wars characters to dress up as, why would you dress up
+  as a storm trooper? You're essentially telling the world you have control issues.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151883748434638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151883748434638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-04-27T15:08:12+0000'
+updated_time: '2013-04-28T11:32:06+0000'
+likes:
+  data:
+  - name: Mike Stop Continues
+    id: '1590292620'
+  - name: Terri Davis
+    id: '100000452612692'
+  - name: Bryan Herb
+    id: '576974223'
+  - name: C Blaine Horton
+    id: '526558117'
+  count: 5
+comments:
+  data:
+  - id: '10151883748434638_31776205'
+    from:
+      name: Melissa Agar
+      id: '530351528'
+    message: And that you're kind of inept at your job.
+    can_remove: true
+    created_time: '2013-04-27T15:21:37+0000'
+    like_count: 2
+    user_likes: false
+  - id: '10151883748434638_31776231'
+    from:
+      name: Matthew Shields
+      id: '729111833'
+    message: Ditto Melissa.
+    can_remove: true
+    created_time: '2013-04-27T15:23:31+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151883748434638_31776407'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: And easily mind controlled.
+    can_remove: true
+    created_time: '2013-04-27T15:39:32+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151883748434638_31776454'
+    from:
+      name: Chris Eades
+      id: '1420273116'
+    message: And a really bad shot.
+    can_remove: true
+    created_time: '2013-04-27T15:43:03+0000'
+    like_count: 2
+    user_likes: false
+  - id: '10151883748434638_31788695'
+    from:
+      name: Mark Lai
+      id: '688363003'
+    message: And a bit of a fashion conformist.
+    can_remove: true
+    created_time: '2013-04-28T11:32:06+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: NQ==
+      before: MQ==
+layout: status
+title: Saturday, Apr 27, 2013 around 10:08AM
+date: 2013-04-27 10:08:12.000000000 -05:00
+
+---
+Out of all the Star Wars characters to dress up as, why would you dress up as a storm trooper? You're essentially telling the world you have control issues.

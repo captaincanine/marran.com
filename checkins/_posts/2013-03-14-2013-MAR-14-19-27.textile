@@ -1,0 +1,72 @@
+---
+id: 51426b04e4b00a30f84e8e4b
+createdAt: 1363307268
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4729e375f964a520e74b1fe3
+  name: The Pierre – A Taj Hotel
+  contact:
+    phone: '2128388000'
+    formattedPhone: (212) 838-8000
+    twitter: thepierreny
+  location:
+    address: 2 E 61st St
+    crossStreet: at 5th Ave
+    lat: 40.765179210057276
+    lng: -73.97187153868714
+    postalCode: '10065'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/the-pierre--a-taj-hotel/4729e375f964a520e74b1fe3
+  categories:
+  - id: 4bf58dd8d48988d1fa931735
+    name: Hotel
+    pluralName: Hotels
+    shortName: Hotel
+    icon: https://foursquare.com/img/categories/travel/hotel.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 5698
+    usersCount: 3474
+    tipCount: 20
+  url: http://www.tajhotels.com/pierre/
+  likes:
+    count: 27
+    groups:
+    - type: others
+      count: 27
+      items: []
+    summary: 27 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: The Pierre – A Taj Hotel
+icon: https://foursquare.com/img/categories/travel/hotel.png
+url: https://foursquare.com/v/the-pierre--a-taj-hotel/4729e375f964a520e74b1fe3
+date: 2013-03-14 19:27:48.000000000 -05:00
+
+---

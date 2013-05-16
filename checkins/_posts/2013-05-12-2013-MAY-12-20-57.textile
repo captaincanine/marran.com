@@ -1,0 +1,120 @@
+---
+id: 5190489d498e01b528ce4007
+createdAt: 1368410269
+type: checkin
+timeZone: America/Bogota
+timeZoneOffset: -300
+venue:
+  id: 4e60d304d164ddd5e50cb65d
+  name: Hilton Bogota
+  contact:
+    phone: '+5716006100'
+    formattedPhone: +57 1 6006100
+    twitter: hiltonbogota
+  location:
+    address: ! 'Carrera 7 # 72 - 41'
+    lat: 4.655573467841626
+    lng: -74.05529963873288
+    city: Bogotá
+    state: Bogotá D.C.
+    country: Colombia
+    cc: CO
+  canonicalUrl: https://foursquare.com/v/hilton-bogota/4e60d304d164ddd5e50cb65d
+  categories:
+  - id: 4bf58dd8d48988d1fa931735
+    name: Hotel
+    pluralName: Hotels
+    shortName: Hotel
+    icon: https://foursquare.com/img/categories/travel/hotel.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1888
+    usersCount: 1013
+    tipCount: 23
+  url: http://bit.ly/hiltonbog
+  likes:
+    count: 9
+    groups:
+    - type: others
+      count: 9
+      items:
+      - id: '9435277'
+        firstName: ! "•\U0001F302いとしい"
+        lastName: °.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/OXKGAJDGPY4NNW2W.jpg
+        tips:
+          count: 15
+        homeCity: ! '  バンコク ｀  タイ'
+        bio: ''
+        contact: {}
+      - id: '34151873'
+        firstName: Paul
+        lastName: F.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/D3FUG5OKM4RO45R2.jpg
+        tips:
+          count: 8
+        homeCity: Lima Province
+        bio: ''
+        contact:
+          twitter: masomier
+          facebook: '740375188'
+      - id: '4453434'
+        firstName: Alfonso
+        lastName: C.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/ZU1KGCCLPNWEMWII.jpg
+        tips:
+          count: 139
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: Barquisimeto, Venezuela
+        bio: Surving the Venezuelan common life one check-in at a time
+        contact:
+          twitter: alfonso_cast
+        superuser: 1
+      - id: '45370195'
+        firstName: Johana
+        lastName: C.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/RHT0SEFKY2MC1GDR.jpg
+        tips:
+          count: 14
+        homeCity: Bogota
+        bio: ''
+        contact:
+          facebook: '892585482'
+    summary: ! "•\U0001F302いとしい °, Paul F, Alfonso C & 6 others"
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Hilton Bogota
+icon: https://foursquare.com/img/categories/travel/hotel.png
+url: https://foursquare.com/v/hilton-bogota/4e60d304d164ddd5e50cb65d
+date: 2013-05-12 20:57:49.000000000 -05:00
+
+---

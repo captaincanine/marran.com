@@ -1,0 +1,73 @@
+---
+id: 4db365644b226b343d786468
+createdAt: 1303602532
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4ad919ecf964a5201b1821e3
+  name: ! '"THE BOOK OF MORMON" at the Eugene O''Neill Theatre'
+  contact:
+    phone: '2122396200'
+    formattedPhone: (212) 239-6200
+    twitter: bookofmormonbwy
+  location:
+    address: 230 W 49th St
+    crossStreet: btwn Broadway & 8th Ave
+    lat: 40.761140384149925
+    lng: -73.98567527532578
+    postalCode: '10036'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/the-book-of-mormon-at-the-eugene-oneill-theatre/4ad919ecf964a5201b1821e3
+  categories:
+  - id: 4bf58dd8d48988d137941735
+    name: Theater
+    pluralName: Theaters
+    shortName: Theater
+    icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+    parents:
+    - Arts & Entertainment
+    - Performing Arts Venue
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 21568
+    usersCount: 15528
+    tipCount: 139
+  url: http://bookofmormonbroadway.com
+  likes:
+    count: 84
+    groups:
+    - type: others
+      count: 84
+      items: []
+    summary: 84 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: ! '"THE BOOK OF MORMON" at the Eugene O''Neill Theatre'
+icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+url: https://foursquare.com/v/the-book-of-mormon-at-the-eugene-oneill-theatre/4ad919ecf964a5201b1821e3
+date: 2011-04-23 18:48:52.000000000 -05:00
+
+---

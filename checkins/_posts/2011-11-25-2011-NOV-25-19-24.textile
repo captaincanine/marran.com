@@ -1,0 +1,72 @@
+---
+id: 4ed031d7e5faa5ec0294c098
+createdAt: 1322267095
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4eb5e354b8f786e2756cb884
+  name: The Meatball Shop
+  contact:
+    phone: '2129828895'
+    formattedPhone: (212) 982-8895
+    twitter: meatballers
+  location:
+    address: 64 Greenwich Ave
+    crossStreet: at Perry St.
+    lat: 40.736013
+    lng: -74.001056
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/the-meatball-shop/4eb5e354b8f786e2756cb884
+  categories:
+  - id: 4bf58dd8d48988d110941735
+    name: Italian Restaurant
+    pluralName: Italian Restaurants
+    shortName: Italian
+    icon: https://foursquare.com/img/categories/food/italian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 10639
+    usersCount: 6597
+    tipCount: 111
+  url: http://www.themeatballshop.com
+  likes:
+    count: 100
+    groups:
+    - type: others
+      count: 100
+      items: []
+    summary: 100 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: The Meatball Shop
+icon: https://foursquare.com/img/categories/food/italian.png
+url: https://foursquare.com/v/the-meatball-shop/4eb5e354b8f786e2756cb884
+date: 2011-11-25 19:24:55.000000000 -05:00
+
+---

@@ -95,7 +95,10 @@ module Jekyll
         dir = self.config['tag_dir'] || '/tags'
         
         self.tags.keys.each do |tag|
-          self.write_tag_index(File.join(dir, Site.slugify(tag)), tag)
+          if tag.is_a? String 
+            slug = tag.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
+            self.write_tag_index(File.join(dir, slug), tag)
+          end
         end
         
       # Throw an exception if the layout couldn't be found.

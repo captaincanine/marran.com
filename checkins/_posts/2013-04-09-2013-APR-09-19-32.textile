@@ -1,0 +1,143 @@
+---
+id: 5164b33ae4b00bb1e212b3f1
+createdAt: 1365553978
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 5042d34ee4b003e2b3c35a5c
+  name: This n' That
+  contact:
+    phone: '7185995959'
+    formattedPhone: (718) 599-5959
+    twitter: tnt_bk
+  location:
+    address: 108 N 6th St
+    crossStreet: Berry Street
+    lat: 40.71837596229077
+    lng: -73.96020856614946
+    postalCode: '11249'
+    city: Brooklyn
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/this-n-that/5042d34ee4b003e2b3c35a5c
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1043
+    usersCount: 633
+    tipCount: 5
+  url: http://www.thisnthatbrooklyn.com
+  likes:
+    count: 9
+    groups:
+    - type: friends
+      count: 1
+      items:
+      - id: '8354602'
+        firstName: Carmine
+        lastName: Tzavis
+        gender: male
+        relationship: friend
+        photo: https://is1.4sqi.net/userpix_thumbs/W2MRW1XCCCRMAPOC.jpg
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: NY
+        bio: ''
+        contact:
+          email: djbigragoo@yahoo.com
+          twitter: djbigragoo
+          facebook: '100000813165354'
+    - type: others
+      count: 8
+      items:
+      - id: '1792027'
+        firstName: Jay Anthony
+        lastName: C.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/QC2PANWD4APSB5EF.jpg
+        tips:
+          count: 5
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '100000951530486'
+      - id: '34170883'
+        firstName: KT
+        lastName: G.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/EMAPDGI03PH4K5U4.jpg
+        tips:
+          count: 11
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: Museum lady person.
+        contact:
+          twitter: katrinagomez
+          facebook: '1379130089'
+      - id: '41657593'
+        firstName: Anthony
+        lastName: M.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/U3KC41SMK4DEGLRT.jpg
+        tips:
+          count: 7
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact: {}
+      - id: '17844164'
+        firstName: Diana
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/4JH1XHKD4IPMUL2V.jpg
+        tips:
+          count: 0
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact:
+          twitter: demitasseofdoom
+          facebook: '643270257'
+    summary: Carmine Tzavis, Jay Anthony C, KT G & 6 others
+  like: false
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: This n' That
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/this-n-that/5042d34ee4b003e2b3c35a5c
+date: 2013-04-09 19:32:58.000000000 -05:00
+
+---

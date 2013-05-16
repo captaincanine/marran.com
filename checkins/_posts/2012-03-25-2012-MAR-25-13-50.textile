@@ -1,0 +1,71 @@
+---
+id: 4f6f68e3e4b0e0075c5f9f24
+createdAt: 1332701411
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4b562ad3f964a5205a0328e3
+  name: Ciao For Now
+  contact:
+    phone: '2129298363'
+    formattedPhone: (212) 929-8363
+  location:
+    address: 107 W 10th St
+    crossStreet: at 6th Ave
+    lat: 40.734739
+    lng: -73.998891
+    postalCode: 10011-8345
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/ciao-for-now/4b562ad3f964a5205a0328e3
+  categories:
+  - id: 4bf58dd8d48988d1bc941735
+    name: Cupcake Shop
+    pluralName: Cupcake Shops
+    shortName: Cupcakes
+    icon: https://foursquare.com/img/categories/food/cupcakes.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 410
+    usersCount: 208
+    tipCount: 9
+  url: http://ciaofornow.net
+  likes:
+    count: 0
+    groups: []
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/ciao-for-now/4b562ad3f964a5205a0328e3/menu
+    mobileUrl: https://foursquare.com/v/4b562ad3f964a5205a0328e3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Ciao For Now
+icon: https://foursquare.com/img/categories/food/cupcakes.png
+url: https://foursquare.com/v/ciao-for-now/4b562ad3f964a5205a0328e3
+date: 2012-03-25 13:50:11.000000000 -05:00
+
+---

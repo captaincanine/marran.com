@@ -1,0 +1,68 @@
+---
+id: 4ecbc6de93adb4bd1b495760
+createdAt: 1321977566
+type: checkin
+shout: I just successfully bought lotus root using Chinese!
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4bee0a144daaa593cfb08f61
+  name: Kong Kee Food Corp.
+  contact:
+    phone: '2129661350'
+    formattedPhone: (212) 966-1350
+  location:
+    address: 240 Grand St
+    crossStreet: at Bowery
+    lat: 40.71835626585977
+    lng: -73.99422550639358
+    postalCode: '10002'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/kong-kee-food-corp/4bee0a144daaa593cfb08f61
+  categories:
+  - id: 4bf58dd8d48988d1d4941735
+    name: Speakeasy
+    pluralName: Speakeasies
+    shortName: Speakeasy / Secret Spot
+    icon: https://foursquare.com/img/categories/nightlife/secretbar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 175
+    usersCount: 87
+    tipCount: 1
+  url: http://www.kongkeefood.com
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Kong Kee Food Corp.
+icon: https://foursquare.com/img/categories/nightlife/secretbar.png
+url: https://foursquare.com/v/kong-kee-food-corp/4bee0a144daaa593cfb08f61
+date: 2011-11-22 10:59:26.000000000 -05:00
+
+---

@@ -1,0 +1,70 @@
+---
+id: 4e0131b0b61c90045004538b
+createdAt: 1308701104
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4c5c076c7735c9b6af0e8b72
+  name: General Assembly East
+  contact: {}
+  location:
+    address: 902 Broadway, Fl 4
+    crossStreet: btwn 20th & 21st St
+    lat: 40.73930718066654
+    lng: -73.98940086364746
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/general-assembly-east/4c5c076c7735c9b6af0e8b72
+  categories:
+  - id: 4bf58dd8d48988d125941735
+    name: Tech Startup
+    pluralName: Tech Startups
+    shortName: Tech Startup
+    icon: https://foursquare.com/img/categories/shops/technology.png
+    parents:
+    - Professional & Other Places
+    - Office
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 20504
+    usersCount: 5596
+    tipCount: 65
+  url: http://generalassemb.ly
+  likes:
+    count: 57
+    groups:
+    - type: others
+      count: 57
+      items: []
+    summary: 57 likes
+  like: false
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: General Assembly East
+icon: https://foursquare.com/img/categories/shops/technology.png
+url: https://foursquare.com/v/general-assembly-east/4c5c076c7735c9b6af0e8b72
+date: 2011-06-21 19:05:04.000000000 -05:00
+
+---

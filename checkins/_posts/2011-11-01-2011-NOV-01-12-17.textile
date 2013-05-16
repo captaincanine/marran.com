@@ -1,0 +1,70 @@
+---
+id: 4eb029a99a521bacdb931b72
+createdAt: 1320167849
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4ae1b6c2f964a520eb8621e3
+  name: Barnes & Noble
+  contact:
+    phone: '2126755500'
+    formattedPhone: (212) 675-5500
+  location:
+    address: 105 5th Avenue
+    crossStreet: at E 18th St
+    lat: 40.73839925448939
+    lng: -73.99183814641529
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/barnes--noble/4ae1b6c2f964a520eb8621e3
+  categories:
+  - id: 4bf58dd8d48988d114951735
+    name: Bookstore
+    pluralName: Bookstores
+    shortName: Bookstore
+    icon: https://foursquare.com/img/categories/shops/bookstore.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 5431
+    usersCount: 3111
+    tipCount: 22
+  likes:
+    count: 11
+    groups:
+    - type: others
+      count: 11
+      items: []
+    summary: 11 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Barnes & Noble
+icon: https://foursquare.com/img/categories/shops/bookstore.png
+url: https://foursquare.com/v/barnes--noble/4ae1b6c2f964a520eb8621e3
+date: 2011-11-01 12:17:29.000000000 -05:00
+
+---

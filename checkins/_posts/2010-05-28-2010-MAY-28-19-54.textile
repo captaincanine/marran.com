@@ -1,0 +1,75 @@
+---
+id: 4c0065c2a4de2f5ebe447cbe
+createdAt: 1275094466
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a4183a0f964a5205ba51fe3
+  name: Almond
+  contact:
+    phone: '2122287557'
+    formattedPhone: (212) 228-7557
+    twitter: almond_nyc
+  location:
+    address: 12 E 22nd St
+    crossStreet: btwn Park & Broadway
+    lat: 40.74033689217464
+    lng: -73.9886817354489
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/almond/4a4183a0f964a5205ba51fe3
+  categories:
+  - id: 4bf58dd8d48988d10c941735
+    name: French Restaurant
+    pluralName: French Restaurants
+    shortName: French
+    icon: https://foursquare.com/img/categories/food/french.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 10337
+    usersCount: 6272
+    tipCount: 83
+  url: http://www.almondnyc.com
+  likes:
+    count: 30
+    groups:
+    - type: others
+      count: 30
+      items: []
+    summary: 30 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=2494&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/almond/4a4183a0f964a5205ba51fe3/menu
+    mobileUrl: https://foursquare.com/v/4a4183a0f964a5205ba51fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Almond
+icon: https://foursquare.com/img/categories/food/french.png
+url: https://foursquare.com/v/almond/4a4183a0f964a5205ba51fe3
+date: 2010-05-28 19:54:26.000000000 -05:00
+
+---

@@ -1,0 +1,125 @@
+---
+id: 4efc7fe06da1f9b9d880c5cc
+createdAt: 1325170656
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4ac518cef964a5200da620e3
+  name: Lloyd's of London
+  contact:
+    phone: '+442073271000'
+    formattedPhone: +44 20 7327 1000
+    twitter: lloydsoflondon
+  location:
+    address: 1 Lime St
+    lat: 51.512995876302696
+    lng: -0.08242964744567871
+    postalCode: EC3M 7HA
+    city: London
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/lloyds-of-london/4ac518cef964a5200da620e3
+  categories:
+  - id: 4bf58dd8d48988d130941735
+    name: Building
+    pluralName: Buildings
+    shortName: Building
+    icon: https://foursquare.com/img/categories/building/default.png
+    parents:
+    - Professional & Other Places
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2606
+    usersCount: 702
+    tipCount: 12
+  url: http://www.lloyds.com
+  likes:
+    count: 7
+    groups:
+    - type: others
+      count: 7
+      items:
+      - id: '8023669'
+        firstName: Paul
+        lastName: K.
+        gender: none
+        photo: https://is1.4sqi.net/userpix_thumbs/FQVBQ3P4I1GHYGYT.jpg
+        tips:
+          count: 4
+        homeCity: Київ, Ukraine
+        bio: ''
+        contact:
+          twitter: oceaned
+          facebook: '100000071906599'
+      - id: '45403137'
+        firstName: Divya
+        lastName: K.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/NQTGTPU41HMDY5FZ.jpg
+        tips:
+          count: 6
+        homeCity: Karnataka
+        bio: Likes for people, places n cultures
+        contact:
+          facebook: '1008542200'
+      - id: '240800'
+        firstName: Luc
+        lastName: L.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/GTZZPKXIUDUI4ARM.jpg
+        tips:
+          count: 92
+        lists:
+          groups:
+          - type: created
+            count: 18
+            items: []
+        homeCity: Montfoort, The Netherlands
+        bio: ! "I love to make friends, listen\r\n music & traveling . I'm Chai lover
+          & hobby photographer, cinemaniac & 4sq fan."
+        contact: {}
+      - id: '5744366'
+        firstName: David
+        lastName: T.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/1NIK3FHTDCETXCEY.jpg
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Chelmsford, UK
+        bio: IT Consultant
+        contact: {}
+    summary: Paul K, Divya K, Luc L & 4 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Lloyd's of London
+icon: https://foursquare.com/img/categories/building/default.png
+url: https://foursquare.com/v/lloyds-of-london/4ac518cef964a5200da620e3
+date: 2011-12-29 09:57:36.000000000 -05:00
+
+---

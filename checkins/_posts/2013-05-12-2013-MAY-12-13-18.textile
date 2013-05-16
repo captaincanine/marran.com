@@ -1,0 +1,115 @@
+---
+id: 518fdcfde4b056cdf328a522
+createdAt: 1368382717
+type: checkin
+timeZone: America/Bogota
+timeZoneOffset: -300
+venue:
+  id: 4fea6b39e4b0f193ca0b9c19
+  name: Perú Fusion
+  contact: {}
+  location:
+    lat: 10.4241688999407
+    lng: -75.55074125753418
+    city: Cartagena
+    state: Bolívar
+    country: Colombia
+    cc: CO
+  canonicalUrl: https://foursquare.com/v/per%C3%BA-fusion/4fea6b39e4b0f193ca0b9c19
+  categories:
+  - id: 4bf58dd8d48988d1c4941735
+    name: Restaurant
+    pluralName: Restaurants
+    shortName: Restaurant
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 139
+    usersCount: 110
+    tipCount: 17
+  likes:
+    count: 5
+    groups:
+    - type: others
+      count: 5
+      items:
+      - id: '51706622'
+        firstName: Mauricio
+        lastName: A.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/KJG51EJLO5SLH5MJ.jpg
+        tips:
+          count: 4
+        homeCity: ''
+        bio: ''
+        contact: {}
+      - id: '51862529'
+        firstName: Ale
+        lastName: S.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/PRARQPDUMYJ55QZM.jpg
+        tips:
+          count: 1
+        homeCity: Mexico City, 09
+        bio: ''
+        contact:
+          facebook: '635562535'
+      - id: '47042290'
+        firstName: Angelica
+        lastName: W.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/QXXVF3SSQVD4TOW2.jpg
+        tips:
+          count: 7
+        homeCity: Bolívar
+        bio: ''
+        contact:
+          twitter: ngiehwalker
+          facebook: '778460356'
+      - id: '4953687'
+        firstName: Diana
+        lastName: R.
+        gender: female
+        photo: https://foursquare.com/img/blank_girl.png
+        tips:
+          count: 1
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: Colombia
+        bio: ''
+        contact:
+          twitter: dianiro
+          facebook: '506762432'
+    summary: Mauricio A, Ale S, Angelica W & 2 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Perú Fusion
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/per%C3%BA-fusion/4fea6b39e4b0f193ca0b9c19
+date: 2013-05-12 13:18:37.000000000 -05:00
+
+---

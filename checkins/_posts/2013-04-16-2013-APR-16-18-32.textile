@@ -1,0 +1,77 @@
+---
+id: 516ddf8ee4b067d576381d26
+createdAt: 1366155150
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4de987f018386283a3cd6d3c
+  name: Ngam
+  contact:
+    phone: '2127778428'
+    formattedPhone: (212) 777-8428
+  location:
+    address: 99 3rd Ave
+    crossStreet: at 13th St.
+    lat: 40.73239389746868
+    lng: -73.98783810408904
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/ngam/4de987f018386283a3cd6d3c
+  categories:
+  - id: 4bf58dd8d48988d149941735
+    name: Thai Restaurant
+    pluralName: Thai Restaurants
+    shortName: Thai
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2137
+    usersCount: 1672
+    tipCount: 50
+  url: http://ngamnyc.com
+  likes:
+    count: 26
+    groups:
+    - type: others
+      count: 26
+      items: []
+    summary: 26 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=73258&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/ngam/4de987f018386283a3cd6d3c/menu
+    mobileUrl: https://foursquare.com/v/4de987f018386283a3cd6d3c/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Ngam
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/ngam/4de987f018386283a3cd6d3c
+date: 2013-04-16 18:32:30.000000000 -05:00
+
+---

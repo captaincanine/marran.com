@@ -1,0 +1,127 @@
+---
+id: 4efb53cee3009306738e6830
+createdAt: 1325093838
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4b96a1a9f964a52019da34e3
+  name: The London Beatles Store
+  contact:
+    phone: '+442079354464'
+    formattedPhone: +44 20 7935 4464
+  location:
+    address: 231 Baker St.
+    crossStreet: Melcombe St.
+    lat: 51.523502502602675
+    lng: -0.15821610431126537
+    postalCode: NW1 6XE
+    city: London
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/the-london-beatles-store/4b96a1a9f964a52019da34e3
+  categories:
+  - id: 4bf58dd8d48988d128951735
+    name: Gift Shop
+    pluralName: Gift Shops
+    shortName: Gift Shop
+    icon: https://foursquare.com/img/categories/shops/giftshop.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 843
+    usersCount: 708
+    tipCount: 7
+  likes:
+    count: 8
+    groups:
+    - type: others
+      count: 8
+      items:
+      - id: '1099064'
+        firstName: Cassiano
+        lastName: R.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/AFMXGIW52ODD3SDJ.jpg
+        tips:
+          count: 24
+        lists:
+          groups:
+          - type: created
+            count: 21
+            items: []
+        homeCity: Curitiba
+        bio: aka cassijones
+        contact: {}
+        superuser: 1
+      - id: '8085650'
+        firstName: Reuben
+        lastName: M.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/PPHZ3FSQNKEWGBNV.jpg
+        tips:
+          count: 1
+        homeCity: België
+        bio: ''
+        contact: {}
+      - id: '20983264'
+        firstName: Bárbara
+        lastName: G.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/G4ZHCZ2RBCFMSEKJ.jpg
+        tips:
+          count: 3
+        homeCity: Sorocaba, Brazil
+        bio: ''
+        contact:
+          twitter: sugarsomebody
+          facebook: '100000762750785'
+      - id: '3146310'
+        firstName: Andrea
+        lastName: G.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/SD5BRKCLWZEI4KST.jpg
+        tips:
+          count: 9
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Pisa, Italia
+        bio: Web Developer & Sales Partner @2creAtiveLab, laureato in Informatica
+          Umanistica, appassionato di web, tecnologia e videogames. Deve dimagrire,
+          ma sorvoliamo...
+        contact:
+          twitter: agiovinazzi
+          facebook: '1343044283'
+    summary: Cassiano R, Reuben M, Bárbara G & 5 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: The London Beatles Store
+icon: https://foursquare.com/img/categories/shops/giftshop.png
+url: https://foursquare.com/v/the-london-beatles-store/4b96a1a9f964a52019da34e3
+date: 2011-12-28 12:37:18.000000000 -05:00
+
+---

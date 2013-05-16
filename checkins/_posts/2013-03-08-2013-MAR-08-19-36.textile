@@ -1,0 +1,78 @@
+---
+id: 513a840ee4b099af34934aaf
+createdAt: 1362789390
+type: checkin
+shout: I will never get over my discomfort eating at fancy places like The Four Seasons.
+  I should be here with Barbara Bush.
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4b3aa437f964a520bf6b25e3
+  name: The Four Seasons Restaurant
+  contact:
+    phone: '2127549494'
+    formattedPhone: (212) 754-9494
+  location:
+    address: 99 E 52nd St.
+    crossStreet: btwn Lexington & Park Ave.
+    lat: 40.75829781243068
+    lng: -73.97222164653425
+    postalCode: '10103'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/the-four-seasons-restaurant/4b3aa437f964a520bf6b25e3
+  categories:
+  - id: 4bf58dd8d48988d14e941735
+    name: American Restaurant
+    pluralName: American Restaurants
+    shortName: American
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2848
+    usersCount: 2167
+    tipCount: 43
+  likes:
+    count: 15
+    groups:
+    - type: others
+      count: 15
+      items: []
+    summary: 15 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=57400&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/the-four-seasons-restaurant/4b3aa437f964a520bf6b25e3/menu
+    mobileUrl: https://foursquare.com/v/4b3aa437f964a520bf6b25e3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: The Four Seasons Restaurant
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/the-four-seasons-restaurant/4b3aa437f964a520bf6b25e3
+date: 2013-03-08 19:36:30.000000000 -05:00
+
+---

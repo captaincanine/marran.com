@@ -1,0 +1,78 @@
+---
+id: 4ec70748d3e3e131f1bc9ac0
+createdAt: 1321666376
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a1aefc6f964a520a77a1fe3
+  name: DBGB Kitchen & Bar
+  contact:
+    phone: '2129335300'
+    formattedPhone: (212) 933-5300
+    facebook: '355724316455'
+  location:
+    address: 299 Bowery
+    crossStreet: at E Houston St
+    lat: 40.72436428193752
+    lng: -73.99249811668923
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/dbgb-kitchen--bar/4a1aefc6f964a520a77a1fe3
+  categories:
+  - id: 4bf58dd8d48988d155941735
+    name: Gastropub
+    pluralName: Gastropubs
+    shortName: Gastropub
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 19019
+    usersCount: 14151
+    tipCount: 237
+  url: http://www.dbgb.com
+  likes:
+    count: 79
+    groups:
+    - type: others
+      count: 79
+      items: []
+    summary: 79 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=30892&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/dbgb-kitchen--bar/4a1aefc6f964a520a77a1fe3/menu
+    mobileUrl: https://foursquare.com/v/4a1aefc6f964a520a77a1fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: DBGB Kitchen & Bar
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/dbgb-kitchen--bar/4a1aefc6f964a520a77a1fe3
+date: 2011-11-18 20:32:56.000000000 -05:00
+
+---

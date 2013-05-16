@@ -1,0 +1,71 @@
+---
+id: 5182a72d498e850758805979
+createdAt: 1367516973
+type: checkin
+shout: Time to juice.
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4abeb4b3f964a520818f20e3
+  name: Pita City
+  contact:
+    phone: '2127411405'
+    formattedPhone: (212) 741-1405
+  location:
+    address: 180 7th Ave
+    lat: 40.74260267340969
+    lng: -73.99664153033778
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/pita-city/4abeb4b3f964a520818f20e3
+  categories:
+  - id: 4bf58dd8d48988d1c0941735
+    name: Mediterranean Restaurant
+    pluralName: Mediterranean Restaurants
+    shortName: Mediterranean
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 314
+    usersCount: 196
+    tipCount: 3
+  url: http://pitacitynyc.com
+  likes:
+    count: 0
+    groups: []
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/pita-city/4abeb4b3f964a520818f20e3/menu
+    mobileUrl: https://foursquare.com/v/4abeb4b3f964a520818f20e3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Pita City
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/pita-city/4abeb4b3f964a520818f20e3
+date: 2013-05-02 12:49:33.000000000 -05:00
+
+---

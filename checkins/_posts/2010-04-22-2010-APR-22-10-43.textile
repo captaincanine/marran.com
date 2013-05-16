@@ -1,0 +1,95 @@
+---
+id: 4bd06eb3a4de2f5e3ece36bd
+createdAt: 1271951027
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4aea0f28f964a520eeb821e3
+  name: Dharma Yoga
+  contact:
+    phone: '2128898160'
+    formattedPhone: (212) 889-8160
+  location:
+    address: 297 3rd Ave
+    crossStreet: W 23rd St
+    lat: 40.738690011338086
+    lng: -73.98327554372553
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/dharma-yoga/4aea0f28f964a520eeb821e3
+  categories:
+  - id: 4bf58dd8d48988d102941735
+    name: Yoga Studio
+    pluralName: Yoga Studios
+    shortName: Yoga Studio
+    icon: https://foursquare.com/img/categories/building/gym.png
+    parents:
+    - Shop & Service
+    - Gym / Fitness Center
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 170
+    usersCount: 100
+    tipCount: 1
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '52406554'
+        firstName: Berni
+        lastName: A.
+        gender: female
+        photo: https://foursquare.com/img/blank_girl.png
+        tips:
+          count: 12
+        homeCity: ''
+        bio: ''
+        contact:
+          facebook: '683015166'
+      - id: '3397139'
+        firstName: Ali
+        lastName: H.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/QETJ1F2OLGMPRAPD.jpg
+        tips:
+          count: 18
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: i get around
+        contact:
+          twitter: bunnarama
+    summary: Berni A & Ali H
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Dharma Yoga
+icon: https://foursquare.com/img/categories/building/gym.png
+url: https://foursquare.com/v/dharma-yoga/4aea0f28f964a520eeb821e3
+date: 2010-04-22 10:43:47.000000000 -05:00
+
+---

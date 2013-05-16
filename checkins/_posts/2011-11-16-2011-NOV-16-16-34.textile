@@ -1,0 +1,117 @@
+---
+id: 4ec42c5561af4438d0b6f38b
+createdAt: 1321479253
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4b4e4313f964a52046e726e3
+  name: Time Machine
+  contact:
+    phone: '2126910380'
+    formattedPhone: (212) 691-0380
+  location:
+    address: 207 W 14th St
+    crossStreet: btwn 7th & 8th Ave.
+    lat: 40.738807
+    lng: -73.999993
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/time-machine/4b4e4313f964a52046e726e3
+  categories:
+  - id: 4bf58dd8d48988d114951735
+    name: Bookstore
+    pluralName: Bookstores
+    shortName: Bookstore
+    icon: https://foursquare.com/img/categories/shops/bookstore.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 365
+    usersCount: 135
+    tipCount: 5
+  likes:
+    count: 3
+    groups:
+    - type: others
+      count: 3
+      items:
+      - id: '82218'
+        firstName: Oren
+        lastName: D.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/CSAC1UPEO0OOSGDP.jpg
+        tips:
+          count: 5
+        lists:
+          groups:
+          - type: created
+            count: 7
+            items: []
+        homeCity: Brooklyn, NY
+        bio: Retired waiter/bartender Foodie, oenophile, coffee junkie always seekin
+          out the best spot!
+        contact:
+          facebook: '799520533'
+      - id: '8103859'
+        firstName: Pablo
+        lastName: M.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/2EZVVVPWTRPFRFGI.jpg
+        tips:
+          count: 6
+        homeCity: New York, NY
+        bio: Just a Latin American creative person looking to survive in this world
+          of possible destruction.
+        contact:
+          twitter: pabmarti
+          facebook: '100001419623070'
+      - id: '846'
+        firstName: Mike
+        lastName: S.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/XK3ULZFCSGJCMLB3.png
+        type: celebrity
+        followers:
+          count: 858
+          groups: []
+        tips:
+          count: 167
+        homeCity: New York, NY
+        bio: Engineer at foursquare
+        contact:
+          twitter: msingleton
+          facebook: '24401981'
+        superuser: 3
+    summary: Oren D, Pablo M & Mike S
+  like: false
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Time Machine
+icon: https://foursquare.com/img/categories/shops/bookstore.png
+url: https://foursquare.com/v/time-machine/4b4e4313f964a52046e726e3
+date: 2011-11-16 16:34:13.000000000 -05:00
+
+---

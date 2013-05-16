@@ -1,0 +1,74 @@
+---
+id: 4ebc292730f8ec57ef43795d
+createdAt: 1320954151
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 49e3a130f964a520a3621fe3
+  name: Ninth Street Espresso
+  contact:
+    phone: '2122282930'
+    formattedPhone: (212) 228-2930
+  location:
+    address: 75 9th Ave
+    crossStreet: at W 15th St.
+    lat: 40.74224984882722
+    lng: -74.00609493255615
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/ninth-street-espresso/49e3a130f964a520a3621fe3
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 7524
+    usersCount: 2765
+    tipCount: 87
+  likes:
+    count: 37
+    groups:
+    - type: others
+      count: 37
+      items: []
+    summary: 37 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/ninth-street-espresso/49e3a130f964a520a3621fe3/menu
+    mobileUrl: https://foursquare.com/v/49e3a130f964a520a3621fe3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Ninth Street Espresso
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/ninth-street-espresso/49e3a130f964a520a3621fe3
+date: 2011-11-10 14:42:31.000000000 -05:00
+
+---

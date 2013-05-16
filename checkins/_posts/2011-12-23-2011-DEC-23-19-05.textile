@@ -1,0 +1,70 @@
+---
+id: 4ef5175230f87cc518867165
+createdAt: 1324685138
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a4138ebf964a520f9a41fe3
+  name: Chelsea Clearview Cinemas
+  contact:
+    phone: '2126915519'
+    formattedPhone: (212) 691-5519
+  location:
+    address: 260 W 23rd St
+    crossStreet: at 8th Ave
+    lat: 40.74483736928336
+    lng: -73.9981565511928
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/chelsea-clearview-cinemas/4a4138ebf964a520f9a41fe3
+  categories:
+  - id: 4bf58dd8d48988d17f941735
+    name: Movie Theater
+    pluralName: Movie Theaters
+    shortName: Movie Theater
+    icon: https://foursquare.com/img/categories/arts_entertainment/movietheater.png
+    parents:
+    - Arts & Entertainment
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 29605
+    usersCount: 14372
+    tipCount: 109
+  likes:
+    count: 85
+    groups:
+    - type: others
+      count: 85
+      items: []
+    summary: 85 likes
+  like: false
+  beenHere:
+    count: 4
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Chelsea Clearview Cinemas
+icon: https://foursquare.com/img/categories/arts_entertainment/movietheater.png
+url: https://foursquare.com/v/chelsea-clearview-cinemas/4a4138ebf964a520f9a41fe3
+date: 2011-12-23 19:05:38.000000000 -05:00
+
+---

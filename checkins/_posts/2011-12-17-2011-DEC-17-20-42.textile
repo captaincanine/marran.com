@@ -1,0 +1,78 @@
+---
+id: 4eed45146c25c7f9d1dea196
+createdAt: 1324172564
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 3fd66200f964a5207de91ee3
+  name: Bryant Park Grill
+  contact:
+    phone: '2128406500'
+    formattedPhone: (212) 840-6500
+    twitter: bryantparkgrill
+  location:
+    address: 25 W 40th St
+    crossStreet: at NY Public Library
+    lat: 40.7535969389767
+    lng: -73.98314928265228
+    postalCode: '10018'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/bryant-park-grill/3fd66200f964a5207de91ee3
+  categories:
+  - id: 4bf58dd8d48988d14e941735
+    name: American Restaurant
+    pluralName: American Restaurants
+    shortName: American
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 8537
+    usersCount: 6644
+    tipCount: 45
+  url: http://bryantparkgrillnyc.com
+  likes:
+    count: 19
+    groups:
+    - type: others
+      count: 19
+      items: []
+    summary: 19 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=12019&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/bryant-park-grill/3fd66200f964a5207de91ee3/menu
+    mobileUrl: https://foursquare.com/v/3fd66200f964a5207de91ee3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Bryant Park Grill
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/bryant-park-grill/3fd66200f964a5207de91ee3
+date: 2011-12-17 20:42:44.000000000 -05:00
+
+---

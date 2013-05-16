@@ -1,0 +1,81 @@
+---
+id: 4efb4ceb490124bf9ce43fcf
+createdAt: 1325092075
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4b9298b6f964a5202f0834e3
+  name: Belstaff
+  contact: {}
+  location:
+    lat: 51.512505
+    lng: -0.141642
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/belstaff/4b9298b6f964a5202f0834e3
+  categories:
+  - id: 4bf58dd8d48988d104951735
+    name: Boutique
+    pluralName: Boutiques
+    shortName: Boutique
+    icon: https://foursquare.com/img/categories/shops/apparel_boutique.png
+    parents:
+    - Shop & Service
+    - Clothing Store
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 104
+    usersCount: 55
+    tipCount: 2
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '613979'
+        firstName: Slynky
+        lastName: C.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/USQB3DCTALP31F5H.jpg
+        tips:
+          count: 86
+        lists:
+          groups:
+          - type: created
+            count: 20
+            items: []
+        homeCity: Basingstoke and Deane, Hampshire
+        bio: ''
+        contact:
+          twitter: slynkycat
+          facebook: '728495559'
+    summary: Slynky C
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Belstaff
+icon: https://foursquare.com/img/categories/shops/apparel_boutique.png
+url: https://foursquare.com/v/belstaff/4b9298b6f964a5202f0834e3
+date: 2011-12-28 12:07:55.000000000 -05:00
+
+---

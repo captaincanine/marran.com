@@ -1,0 +1,77 @@
+---
+id: 50721968e4b04113b347947c
+createdAt: 1349654888
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 3fd66200f964a52073e31ee3
+  name: Wallsé
+  contact:
+    phone: '2123522300'
+    formattedPhone: (212) 352-2300
+  location:
+    address: 344 W 11th St
+    crossStreet: at Washington
+    lat: 40.735564928906946
+    lng: -74.00830229102529
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/walls%C3%A9/3fd66200f964a52073e31ee3
+  categories:
+  - id: 4bf58dd8d48988d10d941735
+    name: German Restaurant
+    pluralName: German Restaurants
+    shortName: German
+    icon: https://foursquare.com/img/categories/food/german.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1460
+    usersCount: 1009
+    tipCount: 26
+  url: http://wallse.com
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=2294&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/walls%C3%A9/3fd66200f964a52073e31ee3/menu
+    mobileUrl: https://foursquare.com/v/3fd66200f964a52073e31ee3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Wallsé
+icon: https://foursquare.com/img/categories/food/german.png
+url: https://foursquare.com/v/walls%C3%A9/3fd66200f964a52073e31ee3
+date: 2012-10-07 19:08:08.000000000 -05:00
+
+---

@@ -1,0 +1,78 @@
+---
+id: '790499637_10151900608119638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: Yay! The first trailer of this looked dull - watching robots fight does not
+  make for an engaging movie. But it's looking like a fun Guillermo Del Toro movie
+  now.
+picture: https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBDbFCRCSmQR7W7&w=154&h=154&url=http%3A%2F%2Ftrailers.apple.com%2Ftrailers%2Fwb%2Fpacificrim%2Fimages%2Fposter.jpg
+link: http://trailers.apple.com/trailers/wb/pacificrim/?utm_content=bufferd1157&utm_source=buffer&utm_medium=facebook&utm_campaign=Buffer
+name: Pacific Rim - Movie Trailers - iTunes
+caption: trailers.apple.com
+description: Yay! The first trailer of this looked dull - watching robots fight does
+  not make for an engaging movie. But it's looking like a fun Guillermo Del Toro movie
+  now.
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151900608119638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151900608119638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: link
+status_type: shared_story
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-05-05T15:48:55+0000'
+updated_time: '2013-05-05T15:52:39+0000'
+likes:
+  data:
+  - name: Rob Velasco
+    id: '1631202087'
+  - name: John-Paul Kocot
+    id: '502685734'
+  - name: T'ai Chu-Richardson
+    id: '14101146'
+  count: 3
+comments:
+  data:
+  - id: '10151900608119638_31903104'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: And I have so far not stopped giggling about the title.
+    can_remove: true
+    created_time: '2013-05-05T15:51:19+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151900608119638_31903123'
+    from:
+      name: Christian Bunny Zahn
+      id: '113800358'
+    message: Giant fighting robots. It's like a live action anime.
+    can_remove: true
+    created_time: '2013-05-05T15:52:39+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: Mg==
+      before: MQ==
+layout: status-link
+title: Sunday, May  5, 2013 around 10:48AM
+link-info: When legions of monstrous creatures, known as Kaiju, started rising from
+  the sea, a war began that would take millions of lives and consume humanity's resources
+  for years on end. To combat the giant Kaiju,...
+date: 2013-05-05 10:48:55.000000000 -05:00
+
+---
+Yay! The first trailer of this looked dull - watching robots fight does not make for an engaging movie. But it's looking like a fun Guillermo Del Toro movie now.

@@ -1,0 +1,27 @@
+---
+id: '790499637_10151749484574638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"my god that''s a good photo" on Albert Andrew Garcia''s photo.'
+story_tags:
+  '32':
+  - id: '34600222'
+    name: Albert Andrew Garcia
+    offset: 32
+    length: 20
+    type: user
+privacy:
+  value: ''
+type: status
+application:
+  name: Photos
+  id: '2305272732'
+created_time: '2013-02-22T20:06:58+0000'
+updated_time: '2013-02-22T20:06:58+0000'
+layout: status
+title: Friday, Feb 22, 2013 around 03:06PM
+date: 2013-02-22 15:06:58.000000000 -05:00
+
+---
+"my god that's a good photo" on Albert Andrew Garcia's photo.

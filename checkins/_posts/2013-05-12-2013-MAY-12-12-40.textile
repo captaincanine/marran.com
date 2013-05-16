@@ -1,0 +1,63 @@
+---
+id: 518fd42a498e6d8aa6495db3
+createdAt: 1368380458
+type: checkin
+timeZone: America/Bogota
+timeZoneOffset: -300
+venue:
+  id: 509ef2b9e4b01b9e49f1d25c
+  name: La Paletería
+  contact: {}
+  location:
+    lat: 10.424225599685787
+    lng: -75.55119042298398
+    country: Colombia
+    cc: CO
+  canonicalUrl: https://foursquare.com/v/la-paleter%C3%ADa/509ef2b9e4b01b9e49f1d25c
+  categories:
+  - id: 4bf58dd8d48988d1c9941735
+    name: Ice Cream Shop
+    pluralName: Ice Cream Shops
+    shortName: Ice Cream
+    icon: https://foursquare.com/img/categories/food/icecream.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 328
+    usersCount: 249
+    tipCount: 28
+  likes:
+    count: 12
+    groups:
+    - type: others
+      count: 12
+      items: []
+    summary: 12 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: La Paletería
+icon: https://foursquare.com/img/categories/food/icecream.png
+url: https://foursquare.com/v/la-paleter%C3%ADa/509ef2b9e4b01b9e49f1d25c
+date: 2013-05-12 12:40:58.000000000 -05:00
+
+---

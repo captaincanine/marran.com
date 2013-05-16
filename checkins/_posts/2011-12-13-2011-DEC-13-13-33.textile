@@ -1,0 +1,68 @@
+---
+id: 4ee79a65aa1f9a429e123f5c
+createdAt: 1323801189
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4b832db4f964a520f7fb30e3
+  name: Citibank
+  contact:
+    phone: '8006273999'
+    formattedPhone: (800) 627-3999
+    twitter: citibank
+  location:
+    address: 79 5th Ave
+    crossStreet: at E 16th St.
+    lat: 40.737326473321474
+    lng: -73.99276784301703
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/citibank/4b832db4f964a520f7fb30e3
+  categories:
+  - id: 4bf58dd8d48988d10a951735
+    name: Bank
+    pluralName: Banks
+    shortName: Bank / Financial
+    icon: https://foursquare.com/img/categories/shops/financial.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 737
+    usersCount: 280
+    tipCount: 0
+  url: http://www.citi.com
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Citibank
+icon: https://foursquare.com/img/categories/shops/financial.png
+url: https://foursquare.com/v/citibank/4b832db4f964a520f7fb30e3
+date: 2011-12-13 13:33:09.000000000 -05:00
+
+---

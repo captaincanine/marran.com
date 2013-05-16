@@ -1,0 +1,71 @@
+---
+id: 4ee6649ebe7b4845a61da132
+createdAt: 1323721886
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 49d375a6f964a520f95b1fe3
+  name: Manhattan Fruit Exchange
+  contact:
+    phone: '2129892444'
+    formattedPhone: (212) 989-2444
+  location:
+    address: 75 9th Ave
+    crossStreet: btw 15th & 16th St
+    lat: 40.742672541847654
+    lng: -74.00613784790039
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/manhattan-fruit-exchange/49d375a6f964a520f95b1fe3
+  categories:
+  - id: 4bf58dd8d48988d118951735
+    name: Grocery Store
+    pluralName: Grocery Stores
+    shortName: Grocery Store
+    icon: https://foursquare.com/img/categories/shops/food_grocery.png
+    parents:
+    - Shop & Service
+    - Food & Drink Shop
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2983
+    usersCount: 880
+    tipCount: 20
+  likes:
+    count: 10
+    groups:
+    - type: others
+      count: 10
+      items: []
+    summary: 10 likes
+  like: false
+  beenHere:
+    count: 4
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Manhattan Fruit Exchange
+icon: https://foursquare.com/img/categories/shops/food_grocery.png
+url: https://foursquare.com/v/manhattan-fruit-exchange/49d375a6f964a520f95b1fe3
+date: 2011-12-12 15:31:26.000000000 -05:00
+
+---

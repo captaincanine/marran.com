@@ -1,0 +1,71 @@
+---
+id: 4f086cc6e4b0ef60ed7ed8ee
+createdAt: 1325952198
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4ea0afbf9adf1e334e4cc0e6
+  name: Laughing Man Coffee & Tea
+  contact:
+    phone: '2126801111'
+    formattedPhone: (212) 680-1111
+    twitter: livelaughingman
+  location:
+    address: 184 Duane St
+    crossStreet: btwn Greenwich & Hudson St.
+    lat: 40.717338733312495
+    lng: -74.01012897491455
+    postalCode: '10013'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/laughing-man-coffee--tea/4ea0afbf9adf1e334e4cc0e6
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1663
+    usersCount: 643
+    tipCount: 20
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Laughing Man Coffee & Tea
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/laughing-man-coffee--tea/4ea0afbf9adf1e334e4cc0e6
+date: 2012-01-07 11:03:18.000000000 -05:00
+
+---

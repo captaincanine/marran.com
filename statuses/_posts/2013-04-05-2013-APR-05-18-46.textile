@@ -1,0 +1,121 @@
+---
+id: '790499637_10151844512849638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: ! 'Whenever I talk to someone about my favorite movies, there are four that
+  always come to mind (in no particular order): Star Wars, Heavenly Creatures, Fight
+  Club, and Beyond the Valley of the Dolls. Each of those movies took me on a wholly
+  unexpected and exhilarating ride. The fact that Roger Ebert wrote one makes it even
+  closer to my twisted heart. I''m gonna miss that guy. FYI: This trailer does not
+  oversell the movie. It''s just as crazy and frenetic as the trailer makes it out
+  to be.'
+picture: https://s-platform.ak.fbcdn.net/www/app_full_proxy.php?app=19884028963&v=1&size=p&cksum=56c7140ab07652b519e23a54492830fc&src=http%3A%2F%2Fb.vimeocdn.com%2Fts%2F800%2F741%2F80074140_640.jpg
+link: http://vimeo.com/13830910
+source: http://vimeo.com/moogaloop.swf?clip_id=13830910&autoplay=1
+name: BEYOND THE VALLEY OF THE DOLLS TRAILER with ERICA GAVIN
+description: ! 'Whenever I talk to someone about my favorite movies, there are four
+  that always come to mind (in no particular order): Star Wars, Heavenly Creatures,
+  Fight Club, and Beyond the Valley of the Dolls. Each of those movies took me on
+  a wholly unexpected and exhilarating ride. The fact that Roger Ebert wrote one makes
+  it even closer to my twisted heart. I''m gonna miss that guy. FYI: This trailer
+  does not oversell the movie. It''s just as crazy and frenetic as the trailer makes
+  it out to be.'
+height: 272
+width: 640
+icon: https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-ash3/851557_10151482498328964_500248208_n.png
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151844512849638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151844512849638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: swf
+status_type: app_created_story
+application:
+  name: Vimeo
+  namespace: og_vimeo
+  id: '19884028963'
+created_time: '2013-04-05T23:46:03+0000'
+updated_time: '2013-04-06T16:06:18+0000'
+likes:
+  data:
+  - name: David L Steele
+    id: '1407655463'
+  - name: Melissa Agar
+    id: '530351528'
+  count: 2
+comments:
+  data:
+  - id: 790499637:10151844512849638:63_31461756
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: One of the great trailers of all time.
+    can_remove: true
+    created_time: '2013-04-05T23:49:15+0000'
+    like_count: 0
+    user_likes: false
+  - id: 790499637:10151844512849638:63_31461773
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: ! '"LIFE WAS SWEET, MAAAAAAN!"  I mean, who is this narrator?  Incredible.'
+    can_remove: true
+    created_time: '2013-04-05T23:51:06+0000'
+    like_count: 0
+    user_likes: false
+  - id: 790499637:10151844512849638:63_31461848
+    from:
+      name: Dave Stringer Hughes
+      id: '800419'
+    message: Holy shit.
+    can_remove: true
+    created_time: '2013-04-05T23:57:47+0000'
+    like_count: 0
+    user_likes: false
+  - id: 790499637:10151844512849638:63_31461851
+    from:
+      name: Dave Stringer Hughes
+      id: '800419'
+    message: I have not seen this but clearly must
+    can_remove: true
+    created_time: '2013-04-05T23:57:58+0000'
+    like_count: 0
+    user_likes: false
+  - id: 790499637:10151844512849638:63_31462345
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: You must. Lets have a viewing at my place.
+    can_remove: true
+    created_time: '2013-04-06T00:57:18+0000'
+    like_count: 0
+    user_likes: false
+  - id: 790499637:10151844512849638:63_31469538
+    from:
+      name: Uma Nt
+      id: '100000074495843'
+    message: Yes, holy shit!
+    can_remove: true
+    created_time: '2013-04-06T16:06:18+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: Ng==
+      before: MQ==
+layout: status-link
+title: Friday, Apr  5, 2013 around 06:46PM
+link-info: My 2nd film with Russ Meyer was BEYOND THE VALLEY OF THE DOLLS co-written
+  with Roger Ebert for 20th Century Fox.  Re-released a few years back, it's now available…
+date: 2013-04-05 18:46:03.000000000 -05:00
+
+---
+Whenever I talk to someone about my favorite movies, there are four that always come to mind (in no particular order): Star Wars, Heavenly Creatures, Fight Club, and Beyond the Valley of the Dolls. Each of those movies took me on a wholly unexpected and exhilarating ride. The fact that Roger Ebert wrote one makes it even closer to my twisted heart. I'm gonna miss that guy. FYI: This trailer does not oversell the movie. It's just as crazy and frenetic as the trailer makes it out to be.

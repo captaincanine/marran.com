@@ -1,0 +1,134 @@
+---
+id: 4efc8bd5e300d0dc30d16836
+createdAt: 1325173717
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4ac518edf964a520b7ac20e3
+  name: Camden Passage
+  contact: {}
+  location:
+    address: Upper St.
+    lat: 51.53536485073949
+    lng: -0.10340452194213867
+    postalCode: N1 8EF
+    city: Islington
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/camden-passage/4ac518edf964a520b7ac20e3
+  categories:
+  - id: 4bf58dd8d48988d101951735
+    name: Thrift / Vintage Store
+    pluralName: Thrift / Vintage Stores
+    shortName: Thrift / Vintage
+    icon: https://foursquare.com/img/categories/shops/default.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1236
+    usersCount: 414
+    tipCount: 13
+  likes:
+    count: 5
+    groups:
+    - type: others
+      count: 5
+      items:
+      - id: '1387931'
+        firstName: Stavroula
+        lastName: K.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/PSVHFJKTHVQ2CNUG.jpg
+        tips:
+          count: 80
+        lists:
+          groups:
+          - type: created
+            count: 15
+            items: []
+        homeCity: London, UK
+        bio: ''
+        contact:
+          twitter: stavruler
+          facebook: '611791340'
+      - id: '32178644'
+        firstName: Anna
+        lastName: H.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/SNMVU150DOCNHBK2.jpg
+        tips:
+          count: 19
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: London
+        bio: ''
+        contact:
+          facebook: '1072520974'
+      - id: '27506305'
+        firstName: Stig
+        lastName: B.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/IAMTAOGG55UB1UJ0.jpg
+        tips:
+          count: 19
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: London / Coventry
+        bio: ! 'Geek. Hacker. Dad. Husband. CAMRA member. Coffee lover.   Sweet tooth.
+          #NoParticularOrder'
+        contact:
+          twitter: stigbra
+          facebook: '663272813'
+      - id: '22030994'
+        firstName: Eric
+        lastName: H.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/1JFNHXBK5URQQZY3.jpg
+        tips:
+          count: 10
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: Islington
+        bio: ''
+        contact:
+          facebook: '578780942'
+    summary: Stavroula K, Anna H, Stig B & 2 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Camden Passage
+icon: https://foursquare.com/img/categories/shops/default.png
+url: https://foursquare.com/v/camden-passage/4ac518edf964a520b7ac20e3
+date: 2011-12-29 10:48:37.000000000 -05:00
+
+---

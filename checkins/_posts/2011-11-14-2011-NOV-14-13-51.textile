@@ -1,0 +1,72 @@
+---
+id: 4ec163479adfe2b7b6da84dc
+createdAt: 1321296711
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a257482f964a520557e1fe3
+  name: Momofuku Milk Bar
+  contact:
+    phone: '3475779504'
+    formattedPhone: (347) 577-9504
+    twitter: momomilkbar
+  location:
+    address: 251 E 13th St
+    crossStreet: at 2nd Ave.
+    lat: 40.73179547061488
+    lng: -73.98567259311676
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/momofuku-milk-bar/4a257482f964a520557e1fe3
+  categories:
+  - id: 4bf58dd8d48988d1d0941735
+    name: Dessert Shop
+    pluralName: Dessert Shops
+    shortName: Desserts
+    icon: https://foursquare.com/img/categories/food/dessert.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 21597
+    usersCount: 13182
+    tipCount: 345
+  url: http://www.milkbarstore.com
+  likes:
+    count: 144
+    groups:
+    - type: others
+      count: 144
+      items: []
+    summary: 144 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Momofuku Milk Bar
+icon: https://foursquare.com/img/categories/food/dessert.png
+url: https://foursquare.com/v/momofuku-milk-bar/4a257482f964a520557e1fe3
+date: 2011-11-14 13:51:51.000000000 -05:00
+
+---

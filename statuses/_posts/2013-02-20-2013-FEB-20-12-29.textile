@@ -1,0 +1,24 @@
+---
+id: '790499637_10151745448899638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"I never would have thought CSS..." on Carmine Nicholas Tzavis''s status.'
+story_tags:
+  '39':
+  - id: '100000813165354'
+    name: Carmine Nicholas Tzavis
+    offset: 39
+    length: 23
+    type: user
+privacy:
+  value: ''
+type: status
+created_time: '2013-02-20T17:29:03+0000'
+updated_time: '2013-02-20T17:29:03+0000'
+layout: status
+title: Wednesday, Feb 20, 2013 around 12:29PM
+date: 2013-02-20 12:29:03.000000000 -05:00
+
+---
+"I never would have thought CSS..." on Carmine Nicholas Tzavis's status.

@@ -1,0 +1,125 @@
+---
+id: 4f7249cde4b059045a5f47a7
+createdAt: 1332890061
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 49ee4419f964a52041681fe3
+  name: Dixon Place
+  contact:
+    phone: '2122190736'
+    formattedPhone: (212) 219-0736
+    twitter: dixonplace
+  location:
+    address: 161A Chrystie St
+    crossStreet: Rivington & Delancey
+    lat: 40.720582
+    lng: -73.992714
+    postalCode: '10002'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/dixon-place/49ee4419f964a52041681fe3
+  categories:
+  - id: 4bf58dd8d48988d116941735
+    name: Bar
+    pluralName: Bars
+    shortName: Bar
+    icon: https://foursquare.com/img/categories/nightlife/bar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2041
+    usersCount: 1350
+    tipCount: 11
+  url: http://www.dixonplace.org/html/lounge.html
+  likes:
+    count: 9
+    groups:
+    - type: others
+      count: 9
+      items:
+      - id: '1921188'
+        firstName: ben
+        lastName: v.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/3Z3MRPFTENVVZY0R.jpg
+        tips:
+          count: 80
+        lists:
+          groups:
+          - type: created
+            count: 8
+            items: []
+        homeCity: New York
+        bio: ''
+        contact:
+          twitter: fakerholic
+      - id: '6116977'
+        firstName: Megan
+        lastName: K.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/WI25TFQSZJLFBA1F.jpg
+        tips:
+          count: 23
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: megankosmoski
+          facebook: '21203273'
+      - id: '18963865'
+        firstName: Andrew
+        lastName: B.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/UW52HGDVIKDDVHOR.jpg
+        tips:
+          count: 7
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact: {}
+      - id: '16815146'
+        firstName: Sasha
+        lastName: A.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/24SIYXMEUL54QUVO.jpg
+        tips:
+          count: 1
+        homeCity: NY
+        bio: ''
+        contact: {}
+    summary: ben v, Megan K, Andrew B & 6 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Dixon Place
+icon: https://foursquare.com/img/categories/nightlife/bar.png
+url: https://foursquare.com/v/dixon-place/49ee4419f964a52041681fe3
+date: 2012-03-27 18:14:21.000000000 -05:00
+
+---

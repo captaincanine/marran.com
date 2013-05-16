@@ -1,0 +1,69 @@
+---
+id: 4ecbc1f97ee5319f99d48bd6
+createdAt: 1321976313
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 439950caf964a520b82b1fe3
+  name: Angel Orensanz Foundation
+  contact:
+    twitter: angelorensanz
+  location:
+    address: 172 Norfolk St
+    crossStreet: btwn Stanton & E Houston St.
+    lat: 40.72111
+    lng: -73.985945
+    postalCode: '10002'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/angel-orensanz-foundation/439950caf964a520b82b1fe3
+  categories:
+  - id: 4bf58dd8d48988d171941735
+    name: Event Space
+    pluralName: Event Spaces
+    shortName: Event Space
+    icon: https://foursquare.com/img/categories/building/default.png
+    parents:
+    - Professional & Other Places
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2776
+    usersCount: 2439
+    tipCount: 17
+  likes:
+    count: 17
+    groups:
+    - type: others
+      count: 17
+      items: []
+    summary: 17 likes
+  like: false
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Angel Orensanz Foundation
+icon: https://foursquare.com/img/categories/building/default.png
+url: https://foursquare.com/v/angel-orensanz-foundation/439950caf964a520b82b1fe3
+date: 2011-11-22 10:38:33.000000000 -05:00
+
+---

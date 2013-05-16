@@ -1,0 +1,64 @@
+---
+id: 4efde4519911b33a0f0b3e42
+createdAt: 1325261905
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4c7e84a9171b224bcf0e0eb1
+  name: Gate 34
+  contact: {}
+  location:
+    address: at Terminal 3
+    crossStreet: LHR Airport
+    lat: 51.47410861398223
+    lng: -0.46371627631619056
+    city: Hounslow
+    state: Middlesex
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/gate-34/4c7e84a9171b224bcf0e0eb1
+  categories:
+  - id: 4bf58dd8d48988d1f0931735
+    name: Airport Gate
+    pluralName: Airport Gates
+    shortName: Gate
+    icon: https://foursquare.com/img/categories/travel/airport_gate.png
+    parents:
+    - Travel & Transport
+    - Airport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 246
+    usersCount: 236
+    tipCount: 5
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Gate 34
+icon: https://foursquare.com/img/categories/travel/airport_gate.png
+url: https://foursquare.com/v/gate-34/4c7e84a9171b224bcf0e0eb1
+date: 2011-12-30 11:18:25.000000000 -05:00
+
+---

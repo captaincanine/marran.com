@@ -1,0 +1,73 @@
+---
+id: 4ef71da1722e34060f0993d6
+createdAt: 1324817825
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a4bc974f964a520b9ac1fe3
+  name: American Airlines Admirals Club
+  contact:
+    phone: '8002377971'
+    formattedPhone: (800) 237-7971
+    twitter: americanair
+  location:
+    address: JFK International Airport
+    crossStreet: Terminal 8, Concourse B
+    lat: 40.64823155371378
+    lng: -73.79164695739746
+    postalCode: '11430'
+    city: Jamaica
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/american-airlines-admirals-club/4a4bc974f964a520b9ac1fe3
+  categories:
+  - id: 4eb1bc533b7b2c5b1d4306cb
+    name: Airport Lounge
+    pluralName: Airport Lounges
+    shortName: Lounge
+    icon: https://foursquare.com/img/categories/travel/airport.png
+    parents:
+    - Travel & Transport
+    - Airport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 10727
+    usersCount: 6192
+    tipCount: 79
+  url: http://www.aa.com/admiralsclub
+  likes:
+    count: 19
+    groups:
+    - type: others
+      count: 19
+      items: []
+    summary: 19 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: American Airlines Admirals Club
+icon: https://foursquare.com/img/categories/travel/airport.png
+url: https://foursquare.com/v/american-airlines-admirals-club/4a4bc974f964a520b9ac1fe3
+date: 2011-12-25 07:57:05.000000000 -05:00
+
+---

@@ -1,0 +1,72 @@
+---
+id: 4e6c78f8ae603c15efa472a9
+createdAt: 1315731704
+type: checkin
+timeZone: Europe/Madrid
+timeZoneOffset: 120
+venue:
+  id: 4bf22859324cc9b65ddecc92
+  name: Terminal 4 Satélite
+  contact:
+    phone: '+34902100007'
+    formattedPhone: +34 902 10 00 07
+    twitter: barajas_airport
+  location:
+    address: Aeropuerto de Madrid-Barajas
+    lat: 40.49431838300975
+    lng: -3.567509651184082
+    postalCode: '28042'
+    city: Madrid
+    state: Madrid
+    country: Spain
+    cc: ES
+  canonicalUrl: https://foursquare.com/v/terminal-4-sat%C3%A9lite/4bf22859324cc9b65ddecc92
+  categories:
+  - id: 4bf58dd8d48988d1eb931735
+    name: Airport Terminal
+    pluralName: Airport Terminals
+    shortName: Terminal
+    icon: https://foursquare.com/img/categories/travel/airport_terminal.png
+    parents:
+    - Travel & Transport
+    - Airport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 11680
+    usersCount: 6851
+    tipCount: 76
+  url: http://www.aena-aeropuertos.es/csee/Satellite/Aeropuerto-Madrid-Barajas/es
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Terminal 4 Satélite
+icon: https://foursquare.com/img/categories/travel/airport_terminal.png
+url: https://foursquare.com/v/terminal-4-sat%C3%A9lite/4bf22859324cc9b65ddecc92
+date: 2011-09-11 04:01:44.000000000 -05:00
+
+---

@@ -1,0 +1,72 @@
+---
+id: 4bdcc278a4de2f5e0ba582bd
+createdAt: 1272758904
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 45114052f964a52097391fe3
+  name: Room Service
+  contact:
+    phone: '2126910299'
+    formattedPhone: (212) 691-0299
+  location:
+    address: 166 8th Ave
+    crossStreet: btwn 18th & 19th
+    lat: 40.742451
+    lng: -74.00048
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/room-service/45114052f964a52097391fe3
+  categories:
+  - id: 4bf58dd8d48988d149941735
+    name: Thai Restaurant
+    pluralName: Thai Restaurants
+    shortName: Thai
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 5249
+    usersCount: 3272
+    tipCount: 68
+  url: http://www.roomservicerestaurant.com
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/room-service/45114052f964a52097391fe3/menu
+    mobileUrl: https://foursquare.com/v/45114052f964a52097391fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Room Service
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/room-service/45114052f964a52097391fe3
+date: 2010-05-01 19:08:24.000000000 -05:00
+
+---

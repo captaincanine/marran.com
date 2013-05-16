@@ -1,0 +1,71 @@
+---
+id: 4ef9e250be7bb4784fb88407
+createdAt: 1324999248
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4b2630f7f964a5200a7924e3
+  name: Costa Coffee
+  contact:
+    phone: '+442079309596'
+    formattedPhone: +44 20 7930 9596
+  location:
+    address: 200 Picadilly
+    crossStreet: 200 Piccadilly
+    lat: 51.50902805461914
+    lng: -0.13661490937492357
+    postalCode: W1J 9HU
+    city: London
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/costa-coffee/4b2630f7f964a5200a7924e3
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1123
+    usersCount: 860
+    tipCount: 13
+  url: http://www.costa.co.uk
+  likes:
+    count: 11
+    groups:
+    - type: others
+      count: 11
+      items: []
+    summary: 11 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Costa Coffee
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/costa-coffee/4b2630f7f964a5200a7924e3
+date: 2011-12-27 10:20:48.000000000 -05:00
+
+---

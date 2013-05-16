@@ -1,0 +1,82 @@
+---
+id: 5032e668e4b08b6c7585dd48
+createdAt: 1345513064
+type: checkin
+timeZone: America/Chicago
+timeZoneOffset: -300
+venue:
+  id: 4bdf0ad30ee3a593b9c332b0
+  name: Dairy Queen
+  contact:
+    phone: '6052719271'
+    formattedPhone: (605) 271-9271
+    twitter: dairyqueen
+  location:
+    address: 5001 S Crossing Pl
+    crossStreet: 57th & Western Ave
+    lat: 43.49994306839047
+    lng: -96.75034761428833
+    postalCode: '57108'
+    city: Sioux Falls
+    state: SD
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/dairy-queen/4bdf0ad30ee3a593b9c332b0
+  categories:
+  - id: 4bf58dd8d48988d16e941735
+    name: Fast Food Restaurant
+    pluralName: Fast Food Restaurants
+    shortName: Fast Food
+    icon: https://foursquare.com/img/categories/food/fastfood.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1748
+    usersCount: 578
+    tipCount: 8
+  url: http://www.dairyqueen.com
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '30116788'
+        firstName: Chelsea
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/IT5EESMLKOTZZCEH.jpg
+        tips:
+          count: 17
+        homeCity: ''
+        bio: ''
+        contact:
+          facebook: '100002479017925'
+    summary: Chelsea
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Dairy Queen
+icon: https://foursquare.com/img/categories/food/fastfood.png
+url: https://foursquare.com/v/dairy-queen/4bdf0ad30ee3a593b9c332b0
+date: 2012-08-20 20:37:44.000000000 -05:00
+
+---

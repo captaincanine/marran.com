@@ -1,0 +1,79 @@
+---
+id: '790499637_10151747490419638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"Are you working today?" on Joey Stern''s timeline.'
+story_tags:
+  '28':
+  - id: '19602090'
+    name: Joey Stern
+    offset: 28
+    length: 10
+    type: user
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151747490419638
+privacy:
+  value: ''
+type: status
+status_type: wall_post
+created_time: '2013-02-21T18:21:10+0000'
+updated_time: '2013-02-21T18:21:10+0000'
+comments:
+  data:
+  - id: '10100171968805127_5134727'
+    from:
+      name: Joey Stern
+      id: '19602090'
+    message: Barely!
+    can_remove: false
+    created_time: '2013-02-21T18:21:21+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10100171968805127_5134728'
+    from:
+      name: Joey Stern
+      id: '19602090'
+    message: Come up for lunch?
+    can_remove: false
+    created_time: '2013-02-21T18:21:24+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10100171968805127_5134730'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Yes!
+    can_remove: true
+    created_time: '2013-02-21T18:21:33+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10100171968805127_5134731'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Give me 20.
+    can_remove: true
+    created_time: '2013-02-21T18:21:40+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10100171968805127_5134747'
+    from:
+      name: Joey Stern
+      id: '19602090'
+    message: Call when around!
+    can_remove: false
+    created_time: '2013-02-21T18:28:02+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: NQ==
+      before: MQ==
+layout: status
+title: Thursday, Feb 21, 2013 around 01:21PM
+date: 2013-02-21 13:21:10.000000000 -05:00
+
+---
+"Are you working today?" on Joey Stern's timeline.

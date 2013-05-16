@@ -1,136 +1,184 @@
---- 
-id: 790499637_10151587098879638
-from: 
+---
+id: '790499637_10151587098879638'
+from:
   name: Keith Marran
-  id: "790499637"
+  id: '790499637'
 message: From the lobby of our first hotel in Bhutan
-picture: http://photos-h.ak.fbcdn.net/hphotos-ak-prn1/61003_10151587098794638_324003638_s.jpg
+picture: https://photos-b.xx.fbcdn.net/hphotos-prn1/61003_10151587098794638_324003638_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151587098794638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
-actions: 
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151587098879638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151587098879638
-privacy: 
+privacy:
   description: Friends
   value: ALL_FRIENDS
-  friends: ""
-  networks: ""
-  allow: ""
-  deny: ""
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
 type: photo
 status_type: added_photos
-object_id: "10151587098794638"
-application: 
+object_id: '10151587098794638'
+application:
   name: iPhoto
-  id: "222075114496522"
-created_time: 2012-12-20T00:01:49+0000
-updated_time: 2013-01-11T16:53:25+0000
-likes: 
-  data: 
+  id: '222075114496522'
+created_time: '2012-12-20T00:01:49+0000'
+updated_time: '2013-01-11T16:53:25+0000'
+likes:
+  data:
   - name: Eric Kelhoffer
-    id: "671590942"
+    id: '671590942'
   - name: Brett Bishop
-    id: "1203637433"
+    id: '1203637433'
   - name: Patrick Kee Kietsrichart
-    id: "1334676583"
+    id: '1334676583'
   - name: Angie Simonton Lanter
-    id: "1283570540"
+    id: '1283570540'
   count: 37
-comments: 
-  data: 
-  - id: 790499637_10151587098879638_10801345
-    from: 
+comments:
+  data:
+  - id: '10151587098794638_10801345'
+    from:
       name: Sara Holoubek
-      id: "659585353"
-    message: Ok, I am officially jealous. Should we expect three more weeks of this treatment?
-    created_time: 2012-12-20T00:03:32+0000
-  - id: 790499637_10151587098879638_10801460
-    from: 
+      id: '659585353'
+    message: Ok, I am officially jealous. Should we expect three more weeks of this
+      treatment?
+    can_remove: true
+    created_time: '2012-12-20T00:03:32+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_10801460'
+    from:
       name: Keith Marran
-      id: "790499637"
-    message: At some point, I will go all Buddhist and give up earthly endeavors like cameras and Facebook. Also, this is a bit of luxury before we go to the rural parts of Bhutan. It should get a little less photogenic.
-    created_time: 2012-12-20T00:16:27+0000
-  - id: 790499637_10151587098879638_10802471
-    from: 
+      id: '790499637'
+    message: At some point, I will go all Buddhist and give up earthly endeavors like
+      cameras and Facebook. Also, this is a bit of luxury before we go to the rural
+      parts of Bhutan. It should get a little less photogenic.
+    can_remove: true
+    created_time: '2012-12-20T00:16:27+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_10802471'
+    from:
       name: Mark Oppenlander
-      id: "42903628"
+      id: '42903628'
     message: Awesome!  How far in advance do you have to plan for travel to Bhutan?
-    created_time: 2012-12-20T02:39:55+0000
-  - id: 790499637_10151587098879638_10802519
-    from: 
+    can_remove: true
+    created_time: '2012-12-20T02:39:55+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_10802519'
+    from:
       name: Keith Marran
-      id: "790499637"
+      id: '790499637'
     message: We planned about 4 months in advance. But we are here in the off season.
-    created_time: 2012-12-20T02:50:58+0000
-  - id: 790499637_10151587098879638_10802927
-    from: 
+    can_remove: true
+    created_time: '2012-12-20T02:50:58+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_10802927'
+    from:
       name: Dagny Prieto
-      id: "592820863"
+      id: '592820863'
     message: Are you the mayor of Bhutan yet?
-    created_time: 2012-12-20T03:49:56+0000
-    likes: 1
-  - id: 790499637_10151587098879638_10802957
-    from: 
+    can_remove: true
+    created_time: '2012-12-20T03:49:56+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151587098794638_10802957'
+    from:
       name: Uma Nt
-      id: "100000074495843"
+      id: '100000074495843'
     message: Beautiful!
-    created_time: 2012-12-20T03:54:09+0000
-  - id: 790499637_10151587098879638_10803528
-    from: 
+    can_remove: true
+    created_time: '2012-12-20T03:54:09+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_10803528'
+    from:
       name: Evita Arce
-      id: "511774626"
+      id: '511774626'
     message: Of course!
-    created_time: 2012-12-20T05:28:11+0000
-  - id: 790499637_10151587098879638_10804439
-    from: 
+    can_remove: true
+    created_time: '2012-12-20T05:28:11+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_10804439'
+    from:
       name: Charlotte Hertander
-      id: "577154539"
-    message: Gorgeous! But I cannot believe the rural areas would be less photogenic! Less extravagant and glittering perhaps. :-)
-    created_time: 2012-12-20T09:45:38+0000
-  - id: 790499637_10151587098879638_10994572
-    from: 
+      id: '577154539'
+    message: Gorgeous! But I cannot believe the rural areas would be less photogenic!
+      Less extravagant and glittering perhaps. :-)
+    can_remove: true
+    created_time: '2012-12-20T09:45:38+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_10994572'
+    from:
       name: Mark Oppenlander
-      id: "42903628"
-    message: "Keith: Was it cool at this time of year?  What was the weather like?"
-    message_tags: 
-    - id: "790499637"
+      id: '42903628'
+    message: ! 'Keith: Was it cool at this time of year?  What was the weather like?'
+    message_tags:
+    - id: '790499637'
       name: Keith
       type: user
       offset: 0
       length: 5
-    created_time: 2013-01-10T07:34:55+0000
-  - id: 790499637_10151587098879638_10995654
-    from: 
+    can_remove: true
+    created_time: '2013-01-10T07:34:55+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_10995654'
+    from:
       name: Keith Marran
-      id: "790499637"
-    message: |-
-      It's somewhat warm during the day (a light jacket usually) and cold at night. It's comparable to winter in the Pacific Northwest, though it depends on what elevation you're at. 
-      
-      The best part of December is that the skies are almost always clear (for views of the Himalayas) and there are almost no tourists. We hear that Tiger's Nest is mobbed in the summer and we had it to ourselves. I was the first person to enter the temple that day. Many times we had to ask a monk or nun to unlock a temple for us to visit - which added to the serene and austere quality of the temple.
-      
-      Most of our hotels/lodges didn't have electric heat. They had small wood-burning stoves and would deliver a stack of wood to your room. It was fine at night, the beds are plenty warm, but mornings were cold because you had to start the fire again and wait for the room to warm up.
-    created_time: 2013-01-10T11:53:11+0000
-  - id: 790499637_10151587098879638_10996220
-    from: 
+      id: '790499637'
+    message: ! "It's somewhat warm during the day (a light jacket usually) and cold
+      at night. It's comparable to winter in the Pacific Northwest, though it depends
+      on what elevation you're at. \n\nThe best part of December is that the skies
+      are almost always clear (for views of the Himalayas) and there are almost no
+      tourists. We hear that Tiger's Nest is mobbed in the summer and we had it to
+      ourselves. I was the first person to enter the temple that day. Many times we
+      had to ask a monk or nun to unlock a temple for us to visit - which added to
+      the serene and austere quality of the temple.\n\nMost of our hotels/lodges didn't
+      have electric heat. They had small wood-burning stoves and would deliver a stack
+      of wood to your room. It was fine at night, the beds are plenty warm, but mornings
+      were cold because you had to start the fire again and wait for the room to warm
+      up."
+    can_remove: true
+    created_time: '2013-01-10T11:53:11+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_10996220'
+    from:
       name: Andrea Miklasz
-      id: "629554115"
+      id: '629554115'
     message: That's incredibly pretty!
-    created_time: 2013-01-10T13:36:21+0000
-  - id: 790499637_10151587098879638_11008122
-    from: 
+    can_remove: true
+    created_time: '2013-01-10T13:36:21+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151587098794638_11008122'
+    from:
       name: Mark Oppenlander
-      id: "42903628"
+      id: '42903628'
     message: Thanks for sharing!
-    created_time: 2013-01-11T16:53:25+0000
-  count: 12
+    can_remove: true
+    created_time: '2013-01-11T16:53:25+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: MTI=
+      before: MQ==
 layout: status-photo
 title: Wednesday, Dec 19, 2012 around 07:01PM
-images: 
-- thumbnail: /statuses/photo/61003_10151587098794638_324003638_s.jpg
+images:
+- thumbnail: /statuses/photo/61003_10151587098794638_324003638_n.jpg
   fullsize: /statuses/photo/61003_10151587098794638_324003638_n.jpg
-date: 2012-12-19 19:01:49 -05:00
+date: 2012-12-19 19:01:49.000000000 -05:00
 
 ---
 From the lobby of our first hotel in Bhutan

@@ -1,0 +1,70 @@
+---
+id: 4c17a58ec2dfc9285d53a869
+createdAt: 1276618126
+type: checkin
+shout: It's a beautiful day to stand in line for the Shake Shack.
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 40e74880f964a520150a1fe3
+  name: Shake Shack
+  contact:
+    phone: '2128896600'
+    formattedPhone: (212) 889-6600
+    twitter: shakeshack
+  location:
+    address: 11 Madison Ave
+    crossStreet: at W 23rd St
+    lat: 40.741160589048285
+    lng: -73.98811340332031
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/shake-shack/40e74880f964a520150a1fe3
+  categories:
+  - id: 4bf58dd8d48988d16c941735
+    name: Burger Joint
+    pluralName: Burger Joints
+    shortName: Burgers
+    icon: https://foursquare.com/img/categories/food/burger.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 62847
+    usersCount: 36045
+    tipCount: 677
+  url: http://www.shakeshack.com
+  likes:
+    count: 411
+    groups:
+    - type: others
+      count: 411
+      items: []
+    summary: 411 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Shake Shack
+icon: https://foursquare.com/img/categories/food/burger.png
+url: https://foursquare.com/v/shake-shack/40e74880f964a520150a1fe3
+date: 2010-06-15 11:08:46.000000000 -05:00
+
+---

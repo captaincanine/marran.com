@@ -1,0 +1,75 @@
+---
+id: 4edfa5058231abf7c27d6110
+createdAt: 1323279621
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4068b880f964a52046f21ee3
+  name: Pop Burger
+  contact:
+    phone: '2124148686'
+    formattedPhone: (212) 414-8686
+  location:
+    address: 58 9th Ave
+    crossStreet: btwn 14th & 15th
+    lat: 40.741347
+    lng: -74.00501468999998
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/pop-burger/4068b880f964a52046f21ee3
+  categories:
+  - id: 4bf58dd8d48988d16c941735
+    name: Burger Joint
+    pluralName: Burger Joints
+    shortName: Burgers
+    icon: https://foursquare.com/img/categories/food/burger.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 8185
+    usersCount: 5550
+    tipCount: 86
+  url: http://www.popburger.com
+  likes:
+    count: 10
+    groups:
+    - type: others
+      count: 10
+      items: []
+    summary: 10 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/pop-burger/4068b880f964a52046f21ee3/menu
+    mobileUrl: https://foursquare.com/v/4068b880f964a52046f21ee3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Pop Burger
+icon: https://foursquare.com/img/categories/food/burger.png
+url: https://foursquare.com/v/pop-burger/4068b880f964a52046f21ee3
+date: 2011-12-07 12:40:21.000000000 -05:00
+
+---

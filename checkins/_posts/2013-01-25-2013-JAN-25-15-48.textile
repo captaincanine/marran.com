@@ -1,0 +1,139 @@
+---
+id: 5102efafe4b0b154c43a7905
+createdAt: 1359146927
+type: checkin
+shout: Just sampled a lot of bitters. I had no idea there were so many independent
+  bitters manufacturers.
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4cd34309558a37049730c0a6
+  name: The Meadow
+  contact:
+    phone: '2126454633'
+    formattedPhone: (212) 645-4633
+    twitter: selmelier
+  location:
+    address: 523 Hudson St
+    crossStreet: btw Charles & W 10th Streets
+    lat: 40.73401492776834
+    lng: -74.00634169578552
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/the-meadow/4cd34309558a37049730c0a6
+  categories:
+  - id: 4bf58dd8d48988d1f5941735
+    name: Gourmet Shop
+    pluralName: Gourmet Shops
+    shortName: Gourmet
+    icon: https://foursquare.com/img/categories/shops/default.png
+    parents:
+    - Shop & Service
+    - Food & Drink Shop
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 615
+    usersCount: 492
+    tipCount: 7
+  url: http://www.atthemeadow.com
+  likes:
+    count: 7
+    groups:
+    - type: others
+      count: 7
+      items:
+      - id: '5543154'
+        firstName: Emily
+        lastName: D.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/KJEXONTD5QV20Q33.jpg
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '5611544'
+      - id: '101568'
+        firstName: Roberto
+        lastName: B.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/101568_1259773741909.jpg
+        tips:
+          count: 4
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '565335984'
+      - id: '1805429'
+        firstName: jessica m.
+        lastName: h.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/F5KIYBRNV42HEFUO.jpg
+        tips:
+          count: 218
+        lists:
+          groups:
+          - type: created
+            count: 46
+            items: []
+        homeCity: New York, NY
+        bio: Art Advisor.
+        contact:
+          twitter: tuckerbaileyco
+          facebook: '103826'
+        superuser: 1
+      - id: '2217253'
+        firstName: Erica
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/0AJ2HZHIHKWK1GA0.png
+        tips:
+          count: 4
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+    summary: Emily D, Roberto B, jessica m. h & 4 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: The Meadow
+icon: https://foursquare.com/img/categories/shops/default.png
+url: https://foursquare.com/v/the-meadow/4cd34309558a37049730c0a6
+date: 2013-01-25 15:48:47.000000000 -05:00
+
+---

@@ -1,0 +1,76 @@
+---
+id: 4ee76705e5faffd73461602d
+createdAt: 1323788037
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4ecc046b0e61aaf0384f19c4
+  name: Think Coffee
+  contact:
+    phone: '2679158478'
+    formattedPhone: (267) 915-8478
+    twitter: thinkcoffeenyc
+  location:
+    address: 73 8th Ave
+    crossStreet: 14th St.
+    lat: 40.73946479913673
+    lng: -74.00265603689895
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/think-coffee/4ecc046b0e61aaf0384f19c4
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 7167
+    usersCount: 3337
+    tipCount: 101
+  url: http://www.thinkcoffeenyc.com
+  likes:
+    count: 59
+    groups:
+    - type: others
+      count: 59
+      items: []
+    summary: 59 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/think-coffee/4ecc046b0e61aaf0384f19c4/menu
+    mobileUrl: https://foursquare.com/v/4ecc046b0e61aaf0384f19c4/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Think Coffee
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/think-coffee/4ecc046b0e61aaf0384f19c4
+date: 2011-12-13 09:53:57.000000000 -05:00
+
+---

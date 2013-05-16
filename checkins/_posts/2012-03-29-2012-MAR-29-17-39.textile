@@ -1,0 +1,76 @@
+---
+id: 4f74e492e4b04f5d5cf2cef3
+createdAt: 1333060754
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4c94a38fefecb71341b6df9d
+  name: The Darby
+  contact:
+    phone: '2122424411'
+    formattedPhone: (212) 242-4411
+  location:
+    address: 246 W 14th St
+    crossStreet: btwn 7th & 8th
+    lat: 40.739468
+    lng: -74.001901
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/the-darby/4c94a38fefecb71341b6df9d
+  categories:
+  - id: 4bf58dd8d48988d1c4941735
+    name: Restaurant
+    pluralName: Restaurants
+    shortName: Restaurant
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 4213
+    usersCount: 3267
+    tipCount: 38
+  likes:
+    count: 21
+    groups:
+    - type: others
+      count: 21
+      items: []
+    summary: 21 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=45886&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/the-darby/4c94a38fefecb71341b6df9d/menu
+    mobileUrl: https://foursquare.com/v/4c94a38fefecb71341b6df9d/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: The Darby
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/the-darby/4c94a38fefecb71341b6df9d
+date: 2012-03-29 17:39:14.000000000 -05:00
+
+---

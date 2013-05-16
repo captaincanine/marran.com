@@ -1,0 +1,39 @@
+---
+id: '790499637_10151630418969638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: Keith Marran is now friends with Yeshey Wangchuk and Hunteur Vreeland.
+story_tags:
+  '0':
+  - id: '790499637'
+    name: Keith Marran
+    offset: 0
+    length: 12
+    type: user
+  '33':
+  - id: '671730197'
+    name: Yeshey Wangchuk
+    offset: 33
+    length: 15
+    type: user
+  '53':
+  - id: '100001106313959'
+    name: Hunteur Vreeland
+    offset: 53
+    length: 16
+    type: user
+privacy:
+  value: ''
+type: status
+status_type: approved_friend
+created_time: '2013-01-11T07:33:45+0000'
+updated_time: '2013-01-11T07:33:45+0000'
+comments:
+  count: 0
+layout: status
+title: Friday, Jan 11, 2013 around 02:33AM
+date: 2013-01-11 02:33:45.000000000 -05:00
+
+---
+Keith Marran is now friends with Yeshey Wangchuk and Hunteur Vreeland.

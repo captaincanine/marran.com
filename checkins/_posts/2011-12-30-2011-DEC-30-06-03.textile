@@ -1,0 +1,60 @@
+---
+id: 4efd9a74722e0f076fd75876
+createdAt: 1325242996
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4c5d67e26ebe2d7fd5a4d22e
+  name: The African Waistcoat Company
+  contact: {}
+  location:
+    lat: 51.535652
+    lng: -0.102907
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/the-african-waistcoat-company/4c5d67e26ebe2d7fd5a4d22e
+  categories:
+  - id: 4bf58dd8d48988d102951735
+    name: Accessories Store
+    pluralName: Accessories Stores
+    shortName: Accessories
+    icon: https://foursquare.com/img/categories/shops/apparel_accessories.png
+    parents:
+    - Shop & Service
+    - Clothing Store
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 4
+    usersCount: 4
+    tipCount: 0
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: The African Waistcoat Company
+icon: https://foursquare.com/img/categories/shops/apparel_accessories.png
+url: https://foursquare.com/v/the-african-waistcoat-company/4c5d67e26ebe2d7fd5a4d22e
+date: 2011-12-30 06:03:16.000000000 -05:00
+
+---

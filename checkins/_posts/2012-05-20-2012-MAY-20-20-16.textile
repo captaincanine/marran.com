@@ -1,0 +1,77 @@
+---
+id: 4fb99762e4b05dd0d6e27598
+createdAt: 1337562978
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4dfaacb9d4c01451df566572
+  name: Pulquería
+  contact:
+    phone: '2122273099'
+    formattedPhone: (212) 227-3099
+  location:
+    address: 11 Doyers St
+    crossStreet: btwn Pell St & Bowery
+    lat: 40.7144559543785
+    lng: -73.9981260895729
+    postalCode: '10013'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/pulquer%C3%ADa/4dfaacb9d4c01451df566572
+  categories:
+  - id: 4bf58dd8d48988d1c1941735
+    name: Mexican Restaurant
+    pluralName: Mexican Restaurants
+    shortName: Mexican
+    icon: https://foursquare.com/img/categories/food/mexican.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 4256
+    usersCount: 3186
+    tipCount: 67
+  url: http://pulquerianyc.com
+  likes:
+    count: 29
+    groups:
+    - type: others
+      count: 29
+      items: []
+    summary: 29 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=56653&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/pulquer%C3%ADa/4dfaacb9d4c01451df566572/menu
+    mobileUrl: https://foursquare.com/v/4dfaacb9d4c01451df566572/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Pulquería
+icon: https://foursquare.com/img/categories/food/mexican.png
+url: https://foursquare.com/v/pulquer%C3%ADa/4dfaacb9d4c01451df566572
+date: 2012-05-20 20:16:18.000000000 -05:00
+
+---

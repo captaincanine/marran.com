@@ -6,7 +6,7 @@ tags:
 - superfun
 - birthday
 images:
-- thumbnail: http://www.britannica.com/psychedelic/images/opsyroc088p1.jpg
+- thumbnail: /images/content/opsyroc088p1.jpg
 location:
   address: 218 W 15th St, NY, NY
   latitude: 40.7396183
@@ -15,15 +15,17 @@ location:
 
 So, Keith is turning <span class="redacted">redacted</span> years old! And he's celebrating with a little party. I hope you can attend. There will be the usual food and drink. 
 
-<img src="http://www.britannica.com/psychedelic/images/opsyroc088p1.jpg" width="100%" />
+<img src="/images/content/opsyroc088p1.jpg" width="100%" />
 
 The festivities take place on...
 
-h1. Friday, January 20th – <small>starting at</small> 8pm
-<small>at</small> 218 West 15th St <small>(between 7th and 8th)</small>
+<h1 align="center" style="margin: 1em 0;">
+  Friday, January 20th – <small>starting at</small> 8pm <br/>
+  <small>at</small> 218 West 15th St <small>(between 7th and 8th)</small>
+</h1>
 
-h3. What can you bring?
+h4. What can you bring?
 
 Well, just yourself. And any guests that might want to come along. No gifts, please.
 
-h3. Be sure to R.S.V.P. on the right<br/> or send me an email at keith (at) marran (dot) com.
+h4. Be sure to R.S.V.P.<br/> or send me an email at keith (at) marran (dot) com.

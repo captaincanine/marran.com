@@ -1,0 +1,97 @@
+---
+id: 4efc71a90e6152f777c10ff3
+createdAt: 1325167017
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4b79ad8bf964a5206e0a2fe3
+  name: Pizza Express
+  contact:
+    phone: '+442072835113'
+    formattedPhone: +44 20 7283 5113
+    twitter: pizzaexpress
+  location:
+    address: 20-22 Leadenhall Market
+    lat: 51.51301590715673
+    lng: -0.08342742919921875
+    postalCode: EC3V 1LR
+    city: London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/pizza-express/4b79ad8bf964a5206e0a2fe3
+  categories:
+  - id: 4bf58dd8d48988d1ca941735
+    name: Pizza Place
+    pluralName: Pizza Places
+    shortName: Pizza
+    icon: https://foursquare.com/img/categories/food/pizza.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 293
+    usersCount: 227
+    tipCount: 3
+  url: http://www.pizzaexpress.com
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '29076444'
+        firstName: Fong
+        lastName: h.
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: London
+        bio: ''
+        contact: {}
+      - id: '29432875'
+        firstName: Gurumurthy
+        lastName: P.
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 0
+        homeCity: birmingham, UK
+        bio: ''
+        contact:
+          twitter: gurupandit
+          facebook: '100000737467155'
+    summary: Fong h & Gurumurthy P
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Pizza Express
+icon: https://foursquare.com/img/categories/food/pizza.png
+url: https://foursquare.com/v/pizza-express/4b79ad8bf964a5206e0a2fe3
+date: 2011-12-29 08:56:57.000000000 -05:00
+
+---

@@ -1,0 +1,75 @@
+---
+id: '790499637_10151769548259638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: Is it just me or is this a creepy thing to advertise? Wasn't there a Jodie
+  Foster film on this subject?
+picture: https://photos-a.xx.fbcdn.net/hphotos-ash4/481829_10151769548244638_593388430_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10151769548244638&set=a.229486624637.178410.790499637&type=1&relevant_count=1
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151769548259638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151769548259638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: photo
+status_type: added_photos
+object_id: '10151769548244638'
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-03-03T13:59:33+0000'
+updated_time: '2013-03-03T14:22:17+0000'
+likes:
+  data:
+  - name: Partho Sengupta
+    id: '100000392214097'
+  - name: Rosemary Feneziani
+    id: '573541002'
+  - name: Charlotte Hertander
+    id: '577154539'
+  - name: David L Steele
+    id: '1407655463'
+  count: 11
+comments:
+  data:
+  - id: '10151769548244638_11457468'
+    from:
+      name: Brian Chambers
+      id: '738244877'
+    message: Where's the basket?
+    can_remove: true
+    created_time: '2013-03-03T14:14:07+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151769548244638_11457525'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: That film ended before the IPO.
+    can_remove: true
+    created_time: '2013-03-03T14:22:17+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: Mg==
+      before: MQ==
+layout: status-photo
+title: Sunday, Mar  3, 2013 around 08:59AM
+images:
+- thumbnail: /statuses/photo/481829_10151769548244638_593388430_n.jpg
+  fullsize: /statuses/photo/481829_10151769548244638_593388430_n.jpg
+date: 2013-03-03 08:59:33.000000000 -05:00
+
+---
+Is it just me or is this a creepy thing to advertise? Wasn't there a Jodie Foster film on this subject?

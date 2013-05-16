@@ -1,0 +1,71 @@
+---
+id: 4e7bcfeedab45dd63fba0224
+createdAt: 1316737006
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 44e454a3f964a52053371fe3
+  name: VLADA Lounge
+  contact:
+    phone: '2129748030'
+    formattedPhone: (212) 974-8030
+  location:
+    address: 331 W 51st St
+    crossStreet: btwn 8th & 9th Ave.
+    lat: 40.763512849967526
+    lng: -73.9869198616602
+    postalCode: '10019'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/vlada-lounge/44e454a3f964a52053371fe3
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 12122
+    usersCount: 6420
+    tipCount: 120
+  url: http://www.vladabar.com
+  likes:
+    count: 23
+    groups:
+    - type: others
+      count: 23
+      items: []
+    summary: 23 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: VLADA Lounge
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/vlada-lounge/44e454a3f964a52053371fe3
+date: 2011-09-22 19:16:46.000000000 -05:00
+
+---

@@ -1,77 +1,93 @@
---- 
-id: 790499637_10151594990584638
-from: 
+---
+id: '790499637_10151594990584638'
+from:
   name: Keith Marran
-  id: "790499637"
-message: It's hard to stay truly warm here, so David and I went for a hot stone bath. I steamed up the car windows on the way back to the hotel.
-picture: http://photos-g.ak.fbcdn.net/hphotos-ak-ash3/602839_10151594990519638_22084429_s.jpg
+  id: '790499637'
+message: It's hard to stay truly warm here, so David and I went for a hot stone bath.
+  I steamed up the car windows on the way back to the hotel.
+picture: https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-ash3/602839_10151594990519638_22084429_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151594990519638&set=a.10151542188989638.599042.790499637&type=1&relevant_count=1
 name: iOS Photos
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
-actions: 
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151594990584638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151594990584638
-privacy: 
+privacy:
   description: Public
   value: EVERYONE
-  friends: ""
-  networks: ""
-  allow: ""
-  deny: ""
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
 type: photo
 status_type: added_photos
-object_id: "10151594990519638"
-application: 
+object_id: '10151594990519638'
+application:
   name: iOS
-  id: "213546525407071"
-created_time: 2012-12-24T11:43:49+0000
-updated_time: 2012-12-25T02:36:31+0000
-likes: 
-  data: 
+  id: '213546525407071'
+created_time: '2012-12-24T11:43:49+0000'
+updated_time: '2012-12-25T02:36:31+0000'
+likes:
+  data:
   - name: Charlotte Hertander
-    id: "577154539"
+    id: '577154539'
   - name: Debbie Everett
-    id: "1125730062"
+    id: '1125730062'
   - name: Suzanne Feinberg
-    id: "100000599017740"
+    id: '100000599017740'
   - name: Leslie Gardner
-    id: "667633377"
+    id: '667633377'
   count: 14
-comments: 
-  data: 
-  - id: 790499637_10151594990584638_10839613
-    from: 
+comments:
+  data:
+  - id: '10151594990519638_10839613'
+    from:
       name: Jono Jarrett
-      id: "1343303598"
+      id: '1343303598'
     message: http://www.youtube.com/watch?v=e04pzNwIqU8
-    created_time: 2012-12-24T13:34:01+0000
-  - id: 790499637_10151594990584638_10840103
-    from: 
-      name: "Matt Kn\xC3\xACfe"
-      id: "100003991505837"
+    can_remove: true
+    created_time: '2012-12-24T13:34:01+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151594990519638_10840103'
+    from:
+      name: Matt Knìfe
+      id: '100003991505837'
     message: You steaming up windows does not shock me.  LOL
-    created_time: 2012-12-24T14:40:11+0000
-  - id: 790499637_10151594990584638_10840423
-    from: 
+    can_remove: true
+    created_time: '2012-12-24T14:40:11+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151594990519638_10840423'
+    from:
       name: Stephen S. Wade
-      id: "1206335"
+      id: '1206335'
     message: where is this?
-    created_time: 2012-12-24T15:19:37+0000
-  - id: 790499637_10151594990584638_10846003
-    from: 
+    can_remove: true
+    created_time: '2012-12-24T15:19:37+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151594990519638_10846003'
+    from:
       name: Keith Marran
-      id: "790499637"
+      id: '790499637'
     message: It's in the Bumthang Valley in Bhutan.
-    created_time: 2012-12-25T02:36:31+0000
-  count: 4
+    can_remove: true
+    created_time: '2012-12-25T02:36:31+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: NA==
+      before: MQ==
 layout: status-photo
 title: Monday, Dec 24, 2012 around 06:43AM
-images: 
-- thumbnail: /statuses/photo/602839_10151594990519638_22084429_s.jpg
+images:
+- thumbnail: /statuses/photo/602839_10151594990519638_22084429_n.jpg
   fullsize: /statuses/photo/602839_10151594990519638_22084429_n.jpg
-date: 2012-12-24 06:43:49 -05:00
+date: 2012-12-24 06:43:49.000000000 -05:00
 
 ---
 It's hard to stay truly warm here, so David and I went for a hot stone bath. I steamed up the car windows on the way back to the hotel.

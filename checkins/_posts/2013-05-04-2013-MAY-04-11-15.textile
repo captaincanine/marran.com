@@ -1,0 +1,73 @@
+---
+id: 5185341c498efc16bfc027ee
+createdAt: 1367684124
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4750accef964a520b24c1fe3
+  name: New Museum
+  contact:
+    phone: '2122191222'
+    formattedPhone: (212) 219-1222
+    twitter: newmuseum
+  location:
+    address: 235 Bowery
+    crossStreet: btwn Stanton & Rivington St.
+    lat: 40.72241283071901
+    lng: -73.9931638235344
+    postalCode: '10002'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/new-museum/4750accef964a520b24c1fe3
+  categories:
+  - id: 4bf58dd8d48988d18f941735
+    name: Art Museum
+    pluralName: Art Museums
+    shortName: Art Museum
+    icon: https://foursquare.com/img/categories/arts_entertainment/museum_art.png
+    parents:
+    - Arts & Entertainment
+    - Museum
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 13380
+    usersCount: 10085
+    tipCount: 99
+  url: http://www.newmuseum.org
+  likes:
+    count: 124
+    groups:
+    - type: others
+      count: 124
+      items: []
+    summary: 124 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: New Museum
+icon: https://foursquare.com/img/categories/arts_entertainment/museum_art.png
+url: https://foursquare.com/v/new-museum/4750accef964a520b24c1fe3
+date: 2013-05-04 11:15:24.000000000 -05:00
+
+---

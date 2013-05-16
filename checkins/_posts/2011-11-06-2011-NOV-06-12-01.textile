@@ -1,0 +1,128 @@
+---
+id: 4eb6bd6ab8030fb583693e96
+createdAt: 1320598890
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4aad285af964a520c05e20e3
+  name: New Amsterdam Market
+  contact:
+    phone: '2127668688'
+    formattedPhone: (212) 766-8688
+    twitter: newamsterdammkt
+  location:
+    address: 106 South St
+    crossStreet: Beekman St
+    lat: 40.706934810071274
+    lng: -74.00184649503902
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/new-amsterdam-market/4aad285af964a520c05e20e3
+  categories:
+  - id: 4bf58dd8d48988d1fa941735
+    name: Farmers Market
+    pluralName: Farmers Markets
+    shortName: Farmer's Market
+    icon: https://foursquare.com/img/categories/shops/food_farmersmarket.png
+    parents:
+    - Shop & Service
+    - Food & Drink Shop
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 3151
+    usersCount: 1791
+    tipCount: 36
+  url: http://www.newamsterdammarket.org
+  likes:
+    count: 9
+    groups:
+    - type: others
+      count: 9
+      items:
+      - id: '30334799'
+        firstName: João Pedro
+        lastName: R.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/4GCCCDORIMG2NFY1.jpg
+        tips:
+          count: 6
+        homeCity: Goiânia, Goiás, Brasil
+        bio: Nada a Declarar.
+        contact: {}
+      - id: '12739559'
+        firstName: ! "\U0001F378\U0001F451ALI \U0001F451\U0001F378"
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/MRGAGGH4OFV2NN22.jpg
+        tips:
+          count: 38
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: KUWAIT
+        bio: ! 'legal advisor im the Leo, the lion of the zodiac, fully explained
+          in-depth.  #Leo.'
+        contact:
+          twitter: legaladviser2
+          facebook: '100000634279714'
+      - id: '37762768'
+        firstName: Carlos
+        lastName: L.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/RR4L104KIHCH242T.jpg
+        tips:
+          count: 56
+        lists:
+          groups:
+          - type: created
+            count: 33
+            items: []
+        homeCity: Santa Catarina
+        bio: ! "Designer Corporation do Brasil. Publicidade  online.  \r\nPublicidade
+          de marcas, produtos e empresas. https://site.google.com/site/designercorporationdobrasil/"
+        contact:
+          twitter: carloslinshtml
+          facebook: '100000512489005'
+      - id: '25143816'
+        firstName: Michael
+        lastName: L.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/N3EDNLMORIY0Z2WH.jpg
+        tips:
+          count: 3
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+    summary: ! "João Pedro R, \U0001F378\U0001F451ALI \U0001F451\U0001F378, Carlos
+      L & 6 others"
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 2
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: New Amsterdam Market
+icon: https://foursquare.com/img/categories/shops/food_farmersmarket.png
+url: https://foursquare.com/v/new-amsterdam-market/4aad285af964a520c05e20e3
+date: 2011-11-06 12:01:30.000000000 -05:00
+
+---

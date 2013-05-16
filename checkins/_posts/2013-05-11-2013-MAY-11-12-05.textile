@@ -1,0 +1,86 @@
+---
+id: 518e7a3d498ee28872e341b4
+createdAt: 1368291901
+type: checkin
+timeZone: America/Bogota
+timeZoneOffset: -300
+venue:
+  id: 4b76e596f964a52040682ee3
+  name: Palacio de la Inquisicion
+  contact: {}
+  location:
+    address: Plaza de Bolívar
+    lat: 10.423180259935009
+    lng: -75.55143490487148
+    city: Cartagena
+    state: Bolivar
+    country: Colombia
+    cc: CO
+  canonicalUrl: https://foursquare.com/v/palacio-de-la-inquisicion/4b76e596f964a52040682ee3
+  categories:
+  - id: 4bf58dd8d48988d190941735
+    name: History Museum
+    pluralName: History Museums
+    shortName: History Museum
+    icon: https://foursquare.com/img/categories/arts_entertainment/museum.png
+    parents:
+    - Arts & Entertainment
+    - Museum
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 212
+    usersCount: 193
+    tipCount: 2
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '24054'
+        firstName: Ari
+        lastName: D.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/XSE45XJ50L3GZRJY.jpg
+        tips:
+          count: 337
+        lists:
+          groups:
+          - type: created
+            count: 13
+            items: []
+        homeCity: Cooper City, Florida
+        bio: Photographer | Social Media Manager | Foursquare Superuser 2 | Founder
+          & Organizer of @4sqFTL | Geocacher | Husband & Daddy! | www.aridorfman.com
+        contact:
+          twitter: aridorfman
+          facebook: '540333589'
+        superuser: 2
+    summary: Ari D
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Palacio de la Inquisicion
+icon: https://foursquare.com/img/categories/arts_entertainment/museum.png
+url: https://foursquare.com/v/palacio-de-la-inquisicion/4b76e596f964a52040682ee3
+date: 2013-05-11 12:05:01.000000000 -05:00
+
+---

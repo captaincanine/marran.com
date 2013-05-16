@@ -1,75 +1,92 @@
---- 
-id: 790499637_10151720071469638
-from: 
+---
+id: '790499637_10151720071469638'
+from:
   name: Keith Marran
-  id: "790499637"
-message: I put on a Barry Manilow genius mix for Sunday morning snowy mellowness. The caffeine kicked in half-way through Streisand singing "My Man" and I queened. the-F. out. It was a little scary.
-actions: 
+  id: '790499637'
+message: I put on a Barry Manilow genius mix for Sunday morning snowy mellowness.
+  The caffeine kicked in half-way through Streisand singing "My Man" and I queened.
+  the-F. out. It was a little scary.
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151720071469638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151720071469638
-privacy: 
+privacy:
   description: Public
   value: EVERYONE
-  friends: ""
-  networks: ""
-  allow: ""
-  deny: ""
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
 type: status
 status_type: mobile_status_update
-created_time: 2013-02-09T14:36:09+0000
-updated_time: 2013-02-09T17:19:56+0000
-likes: 
-  data: 
+created_time: '2013-02-09T14:36:09+0000'
+updated_time: '2013-02-09T17:19:56+0000'
+likes:
+  data:
   - name: Richard M Carlson Jr
-    id: "1437848272"
+    id: '1437848272'
   - name: Heidi Washburn
-    id: "1486937956"
+    id: '1486937956'
   - name: Jeff Bond
-    id: "1108401510"
+    id: '1108401510'
   - name: Judd Harly
-    id: "826742"
+    id: '826742'
   count: 8
-comments: 
-  data: 
-  - id: 790499637_10151720071469638_30729862
-    from: 
+comments:
+  data:
+  - id: '10151720071469638_30729862'
+    from:
       name: Charlotte Hertander
-      id: "577154539"
+      id: '577154539'
     message: Sunday? ;-) Loving the mental image!!
-    created_time: 2013-02-09T14:41:13+0000
-  - id: 790499637_10151720071469638_30729874
-    from: 
+    can_remove: true
+    created_time: '2013-02-09T14:41:13+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151720071469638_30729874'
+    from:
       name: Keith Marran
-      id: "790499637"
+      id: '790499637'
     message: Ha! Yes, it feels like Sunday, I guess.
-    created_time: 2013-02-09T14:41:41+0000
-    likes: 1
-  - id: 790499637_10151720071469638_30730087
-    from: 
+    can_remove: true
+    created_time: '2013-02-09T14:41:41+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151720071469638_30730087'
+    from:
       name: Dawn Richmond Breazile
-      id: "1834622505"
+      id: '1834622505'
     message: Sounds FAB!
-    created_time: 2013-02-09T15:01:49+0000
-  - id: 790499637_10151720071469638_30730242
-    from: 
+    can_remove: true
+    created_time: '2013-02-09T15:01:49+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151720071469638_30730242'
+    from:
       name: David Nudo
-      id: "703436193"
+      id: '703436193'
     message: Especially since its Saturday! I'd like to have some of what you're having...
-    created_time: 2013-02-09T15:19:20+0000
-    likes: 1
-  - id: 790499637_10151720071469638_30731606
-    from: 
+    can_remove: true
+    created_time: '2013-02-09T15:19:20+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151720071469638_30731606'
+    from:
       name: Bryan Herb
-      id: "576974223"
+      id: '576974223'
     message: Sometimes queening out is just plain essential!
-    created_time: 2013-02-09T17:19:56+0000
-    likes: 1
-  count: 5
+    can_remove: true
+    created_time: '2013-02-09T17:19:56+0000'
+    like_count: 1
+    user_likes: false
+  paging:
+    cursors:
+      after: NQ==
+      before: MQ==
 layout: status
 title: Saturday, Feb  9, 2013 around 09:36AM
-date: 2013-02-09 09:36:09 -05:00
+date: 2013-02-09 09:36:09.000000000 -05:00
 
 ---
 I put on a Barry Manilow genius mix for Sunday morning snowy mellowness. The caffeine kicked in half-way through Streisand singing "My Man" and I queened. the-F. out. It was a little scary.

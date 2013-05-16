@@ -1,0 +1,77 @@
+---
+id: 5179cb84498eddea9c2ef8e1
+createdAt: 1366936452
+type: checkin
+shout: Pre-C2E2 drinks!
+timeZone: America/Chicago
+timeZoneOffset: -300
+venue:
+  id: 4b40f18ef964a520eabd25e3
+  name: Halsted's Bar + Grill
+  contact:
+    phone: '7733489696'
+    formattedPhone: (773) 348-9696
+    twitter: halsteds
+  location:
+    address: 3441 N Halsted St
+    crossStreet: btwn W Newport Ave & W Cornelia Ave
+    lat: 41.94477753125512
+    lng: -87.64937717637133
+    postalCode: '60657'
+    city: Chicago
+    state: IL
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/halsteds-bar--grill/4b40f18ef964a520eabd25e3
+  categories:
+  - id: 4bf58dd8d48988d16c941735
+    name: Burger Joint
+    pluralName: Burger Joints
+    shortName: Burgers
+    icon: https://foursquare.com/img/categories/food/burger.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 10276
+    usersCount: 3869
+    tipCount: 55
+  url: http://www.halstedschicago.com
+  likes:
+    count: 18
+    groups:
+    - type: others
+      count: 18
+      items: []
+    summary: 18 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/halsteds-bar--grill/4b40f18ef964a520eabd25e3/menu
+    mobileUrl: https://foursquare.com/v/4b40f18ef964a520eabd25e3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Halsted's Bar + Grill
+icon: https://foursquare.com/img/categories/food/burger.png
+url: https://foursquare.com/v/halsteds-bar--grill/4b40f18ef964a520eabd25e3
+date: 2013-04-25 19:34:12.000000000 -05:00
+
+---

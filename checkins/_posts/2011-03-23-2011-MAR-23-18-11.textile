@@ -1,0 +1,132 @@
+---
+id: 4d8a7e1b26a36ea88f39f6ad
+createdAt: 1300921883
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4cd0a38cf6378cfa169cb6d6
+  name: Heartbreak Cafe
+  contact: {}
+  location:
+    address: 29 E 2nd St
+    crossStreet: 2nd Ave
+    lat: 40.72485407
+    lng: -73.990506
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/heartbreak-cafe/4cd0a38cf6378cfa169cb6d6
+  categories:
+  - id: 4bf58dd8d48988d10d941735
+    name: German Restaurant
+    pluralName: German Restaurants
+    shortName: German
+    icon: https://foursquare.com/img/categories/food/german.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 379
+    usersCount: 318
+    tipCount: 13
+  closed: true
+  likes:
+    count: 6
+    groups:
+    - type: others
+      count: 6
+      items:
+      - id: '38681127'
+        firstName: Van
+        lastName: A.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/VAGKUULU33LI5T5C.jpg
+        tips:
+          count: 34
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Sumatera Utara
+        bio: MUDA,SUKSES,MANDIRI
+        contact:
+          twitter: akmalnnasution2
+          facebook: '100001460603073'
+      - id: '32439629'
+        firstName: Christopher
+        lastName: T.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/YEER30DV11XFHAGO.jpg
+        tips:
+          count: 0
+        homeCity: Sarawak
+        bio: ''
+        contact:
+          facebook: '100000416370633'
+      - id: '17579561'
+        firstName: ! "\U0001F485\U0001F48B\U0001F463Square"
+        lastName: F.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/YWHIKZVU0Z0UD1J2.jpg
+        tips:
+          count: 10
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: Earth or Anywhere
+        bio: ! "hello , i love 4square& making friend\U0001F47D\U0001F631\U0001F493"
+        contact: {}
+      - id: '37708082'
+        firstName: David Guang
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/1VKYLGQ0PKRBO05J.jpg
+        tips:
+          count: 4
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: Sarawak
+        bio: ! "Pls help me n teach me bout 4sq...\U0001F62D"
+        contact:
+          twitter: davidguang
+          facebook: '100002402213804'
+    summary: ! "Van A, Christopher T, \U0001F485\U0001F48B\U0001F463Square F & 3 others"
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/heartbreak-cafe/4cd0a38cf6378cfa169cb6d6/menu
+    mobileUrl: https://foursquare.com/v/4cd0a38cf6378cfa169cb6d6/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Heartbreak Cafe
+icon: https://foursquare.com/img/categories/food/german.png
+url: https://foursquare.com/v/heartbreak-cafe/4cd0a38cf6378cfa169cb6d6
+date: 2011-03-23 18:11:23.000000000 -05:00
+
+---

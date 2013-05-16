@@ -1,0 +1,27 @@
+---
+id: '790499637_10151715847414638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"I smell lasagna omelettes for..." on Robb Bloom''s photo.'
+story_tags:
+  '38':
+  - id: '1095747683'
+    name: Robb Bloom
+    offset: 38
+    length: 10
+    type: user
+privacy:
+  value: ''
+type: status
+application:
+  name: Photos
+  id: '2305272732'
+created_time: '2013-02-07T16:22:51+0000'
+updated_time: '2013-02-07T16:22:51+0000'
+layout: status
+title: Thursday, Feb  7, 2013 around 11:22AM
+date: 2013-02-07 11:22:51.000000000 -05:00
+
+---
+"I smell lasagna omelettes for..." on Robb Bloom's photo.

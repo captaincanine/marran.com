@@ -1,0 +1,72 @@
+---
+id: 4f0dd128e4b0d2af7245ce53
+createdAt: 1326305576
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a784ceef964a5205de51fe3
+  name: One Lucky Duck
+  contact:
+    phone: '2124777151'
+    formattedPhone: (212) 477-7151
+    twitter: oneluckyduck
+  location:
+    address: 125 1/2 E 17th St
+    crossStreet: btwn Irving Place & 3rd Ave.
+    lat: 40.735725
+    lng: -73.98712646658963
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/one-lucky-duck/4a784ceef964a5205de51fe3
+  categories:
+  - id: 4bf58dd8d48988d1d3941735
+    name: Vegetarian / Vegan Restaurant
+    pluralName: Vegetarian / Vegan Restaurants
+    shortName: Vegetarian / Vegan
+    icon: https://foursquare.com/img/categories/food/vegetarian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2982
+    usersCount: 1100
+    tipCount: 44
+  url: http://oneluckyduck.com
+  likes:
+    count: 15
+    groups:
+    - type: others
+      count: 15
+      items: []
+    summary: 15 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: One Lucky Duck
+icon: https://foursquare.com/img/categories/food/vegetarian.png
+url: https://foursquare.com/v/one-lucky-duck/4a784ceef964a5205de51fe3
+date: 2012-01-11 13:12:56.000000000 -05:00
+
+---

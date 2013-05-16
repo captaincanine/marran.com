@@ -1,0 +1,71 @@
+---
+id: 4ecd5ae1722e1edcc01b7cac
+createdAt: 1322080993
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 49c2df9cf964a5203b561fe3
+  name: Apple Store
+  contact:
+    phone: '2124443400'
+    formattedPhone: (212) 444-3400
+  location:
+    address: 401 W 14th St
+    crossStreet: at 9th Ave.
+    lat: 40.7412
+    lng: -74.00542
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/apple-store/49c2df9cf964a5203b561fe3
+  categories:
+  - id: 4bf58dd8d48988d122951735
+    name: Electronics Store
+    pluralName: Electronics Stores
+    shortName: Electronics
+    icon: https://foursquare.com/img/categories/shops/technology.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 46109
+    usersCount: 26255
+    tipCount: 206
+  url: http://www.apple.com/retail/west14thstreet
+  likes:
+    count: 134
+    groups:
+    - type: others
+      count: 134
+      items: []
+    summary: 134 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Apple Store
+icon: https://foursquare.com/img/categories/shops/technology.png
+url: https://foursquare.com/v/apple-store/49c2df9cf964a5203b561fe3
+date: 2011-11-23 15:43:13.000000000 -05:00
+
+---

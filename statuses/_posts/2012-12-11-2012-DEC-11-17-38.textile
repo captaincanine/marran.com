@@ -1,0 +1,49 @@
+---
+id: '790499637_521737287845838'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: Do I want to see Superman agonizing over minor moral dilemmas? Do I want
+  to see Jonathan Kent tell his adopted son that maybe he should have let a boy die?
+  No. I do not.
+picture: https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCMH9xVtNkVdxFj&w=130&h=130&url=http%3A%2F%2Fi4.ytimg.com%2Fvi%2FKVu3gS7iJu4%2Fmqdefault.jpg
+link: http://www.youtube.com/watch?feature=player_embedded&v=KVu3gS7iJu4
+source: http://www.youtube.com/v/KVu3gS7iJu4?version=3&autohide=1&autoplay=1
+name: ! 'Man of Steel - Official Trailer #2 [HD]'
+description: Do I want to see Superman agonizing over minor moral dilemmas? Do I want
+  to see Jonathan Kent tell his adopted son that maybe he should have let a boy die?
+  No. I do not.
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yj/r/v2OnaTyTQZE.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/521737287845838
+- name: Like
+  link: http://www.facebook.com/790499637/posts/521737287845838
+privacy:
+  description: ! 'Friends; Except: Family'
+  value: CUSTOM
+  friends: ALL_FRIENDS
+  networks: ''
+  allow: ''
+  deny: '116609519637'
+type: video
+status_type: shared_story
+created_time: '2012-12-11T22:38:40+0000'
+updated_time: '2012-12-11T22:38:40+0000'
+shares:
+  count: 1
+likes:
+  data:
+  - name: Sreedhar Yedavalli
+    id: '1199970155'
+  - name: Craig Choma
+    id: '100001269764839'
+  count: 2
+layout: status-link
+title: Tuesday, Dec 11, 2012 around 05:38PM
+link-info: http://manofsteel.com http://www.facebook.com/manofsteel In theaters June
+  14th. From Warner Bros. and Legendary Pictures comes "Man of Steel", starring Henry...
+date: 2012-12-11 17:38:40.000000000 -05:00
+
+---
+Do I want to see Superman agonizing over minor moral dilemmas? Do I want to see Jonathan Kent tell his adopted son that maybe he should have let a boy die? No. I do not.

@@ -1,0 +1,116 @@
+---
+id: 4bf049e6a4de2f5e1e9401be
+createdAt: 1274038758
+type: checkin
+shout: Foursquare in Slovakia?! Is there an Austro-Hungarian badge?
+timeZone: Europe/Prague
+timeZoneOffset: 120
+venue:
+  id: 4b9db289f964a520caba36e3
+  name: Traja mušketieri
+  contact: {}
+  location:
+    address: Sládkovičova 7
+    lat: 48.149422
+    lng: 17.105891
+    city: Bratislava
+    state: Slovakia
+    country: Slovakia
+    cc: SK
+  canonicalUrl: https://foursquare.com/v/traja-mu%C5%A1ketieri/4b9db289f964a520caba36e3
+  categories:
+  - id: 4bf58dd8d48988d1c4941735
+    name: Restaurant
+    pluralName: Restaurants
+    shortName: Restaurant
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 160
+    usersCount: 102
+    tipCount: 4
+  likes:
+    count: 3
+    groups:
+    - type: others
+      count: 3
+      items:
+      - id: '542546'
+        firstName: Metod
+        lastName: G.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/LVDSAQ4HQYUKQVYB.jpg
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 3
+            items: []
+        homeCity: Bratislava,Slovakia
+        bio: ''
+        contact: {}
+      - id: '2630010'
+        firstName: Radoslav
+        lastName: A.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/LJNA2RIT2PTBTJOY.jpg
+        tips:
+          count: 92
+        lists:
+          groups:
+          - type: created
+            count: 7
+            items: []
+        homeCity: Bratislava, Slovenská republika
+        bio: ! 'media, retail, culture, cities. History: working @ Eset, founder of
+          Medialne.sk, leading web projects @ TREND, now: leading on-line projects
+          @ SME'
+        contact:
+          facebook: '1398104787'
+        superuser: 1
+      - id: '14840627'
+        firstName: Bořek
+        lastName: H.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/BHOFZLUTJH3AG54M.png
+        tips:
+          count: 48
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: Bratislava, Slovenská republika
+        bio: SharePoint developer at 2Ring - producer of software for Unified Communications
+          and Contact Centers.
+        contact:
+          twitter: dedekstara
+          facebook: '1313977870'
+    summary: Metod G, Radoslav A & Bořek H
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Traja mušketieri
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/traja-mu%C5%A1ketieri/4b9db289f964a520caba36e3
+date: 2010-05-16 14:39:18.000000000 -05:00
+
+---

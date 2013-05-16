@@ -1,0 +1,71 @@
+---
+id: 4f05fc368231c7e151807b26
+createdAt: 1325792310
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 460d4b66f964a52005451fe3
+  name: Whole Foods Market
+  contact:
+    phone: '2129245969'
+    formattedPhone: (212) 924-5969
+  location:
+    address: 250 7th Ave
+    crossStreet: at W 24th St
+    lat: 40.74481848035928
+    lng: -73.99515151977539
+    postalCode: '10001'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/whole-foods-market/460d4b66f964a52005451fe3
+  categories:
+  - id: 4bf58dd8d48988d118951735
+    name: Grocery Store
+    pluralName: Grocery Stores
+    shortName: Grocery Store
+    icon: https://foursquare.com/img/categories/shops/food_grocery.png
+    parents:
+    - Shop & Service
+    - Food & Drink Shop
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 29904
+    usersCount: 9175
+    tipCount: 112
+  likes:
+    count: 36
+    groups:
+    - type: others
+      count: 36
+      items: []
+    summary: 36 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Whole Foods Market
+icon: https://foursquare.com/img/categories/shops/food_grocery.png
+url: https://foursquare.com/v/whole-foods-market/460d4b66f964a52005451fe3
+date: 2012-01-05 14:38:30.000000000 -05:00
+
+---

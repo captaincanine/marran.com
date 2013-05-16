@@ -1,0 +1,17 @@
+---
+id: '790499637_10151810172064638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"Suede shoes in that weather? My..." on his own status.'
+privacy:
+  value: ''
+type: status
+created_time: '2013-03-19T13:59:33+0000'
+updated_time: '2013-03-19T13:59:33+0000'
+layout: status
+title: Tuesday, Mar 19, 2013 around 08:59AM
+date: 2013-03-19 08:59:33.000000000 -05:00
+
+---
+"Suede shoes in that weather? My..." on his own status.

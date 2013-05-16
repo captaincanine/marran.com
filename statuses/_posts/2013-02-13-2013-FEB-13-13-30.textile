@@ -1,0 +1,28 @@
+---
+id: '790499637_10151729945644638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"Sorry to hear that. I''m glad no..." on Debbie Everett''s status.'
+story_tags:
+  '40':
+  - id: '1125730062'
+    name: Debbie Everett
+    offset: 40
+    length: 14
+    type: user
+privacy:
+  value: ''
+type: status
+application:
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: '6628568379'
+created_time: '2013-02-13T18:30:47+0000'
+updated_time: '2013-02-13T18:30:47+0000'
+layout: status
+title: Wednesday, Feb 13, 2013 around 01:30PM
+date: 2013-02-13 13:30:47.000000000 -05:00
+
+---
+"Sorry to hear that. I'm glad no..." on Debbie Everett's status.

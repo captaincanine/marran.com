@@ -1,0 +1,86 @@
+---
+id: 4efa4c1f775b54cdb6fc42c6
+createdAt: 1325026335
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4ac518b6f964a520e1a020e3
+  name: Hilton London Islington
+  contact:
+    phone: '+442073547700'
+    formattedPhone: +44 20 7354 7700
+  location:
+    address: 53 Upper St.
+    lat: 51.53573857492835
+    lng: -0.10471343994140625
+    postalCode: N1 0UY
+    city: London
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/hilton-london-islington/4ac518b6f964a520e1a020e3
+  categories:
+  - id: 4bf58dd8d48988d1fa931735
+    name: Hotel
+    pluralName: Hotels
+    shortName: Hotel
+    icon: https://foursquare.com/img/categories/travel/hotel.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1149
+    usersCount: 456
+    tipCount: 9
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '6284355'
+        firstName: iGO
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/CGFDYQRBX1LNOPWD.jpg
+        tips:
+          count: 31
+        lists:
+          groups:
+          - type: created
+            count: 47
+            items: []
+        homeCity: Essex/London, UK
+        bio: A dynamic, multi-faceted, and proactive assiduous individual with a personality
+          that is tenacious, positive, determined and professional.
+        contact:
+          twitter: gordonowen
+          facebook: '526178782'
+    summary: iGO
+  like: false
+  beenHere:
+    count: 4
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Hilton London Islington
+icon: https://foursquare.com/img/categories/travel/hotel.png
+url: https://foursquare.com/v/hilton-london-islington/4ac518b6f964a520e1a020e3
+date: 2011-12-27 17:52:15.000000000 -05:00
+
+---

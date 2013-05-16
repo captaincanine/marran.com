@@ -1,0 +1,65 @@
+---
+id: 517d76ac498ea1b6141517f1
+createdAt: 1367176876
+type: checkin
+timeZone: America/Chicago
+timeZoneOffset: -300
+venue:
+  id: 517228c1e4b08eae79521ebf
+  name: C2E2
+  contact: {}
+  location:
+    lat: 41.85039016563193
+    lng: -87.62183159888713
+    city: Chicago
+    state: IL
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/c2e2/517228c1e4b08eae79521ebf
+  categories:
+  - id: 4bf58dd8d48988d1f1931735
+    name: General Entertainment
+    pluralName: General Entertainment
+    shortName: Entertainment
+    icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+    parents:
+    - Arts & Entertainment
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1531
+    usersCount: 1014
+    tipCount: 18
+  likes:
+    count: 28
+    groups:
+    - type: others
+      count: 28
+      items: []
+    summary: 28 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: C2E2
+icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+url: https://foursquare.com/v/c2e2/517228c1e4b08eae79521ebf
+date: 2013-04-28 14:21:16.000000000 -05:00
+
+---

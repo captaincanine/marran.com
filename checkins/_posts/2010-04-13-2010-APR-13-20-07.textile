@@ -1,0 +1,131 @@
+---
+id: 4bc51541a4de2f5e4871f9bc
+createdAt: 1271207233
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4bd0fe22a8b3a593a123655f
+  name: Donguri
+  contact:
+    phone: '2127375656'
+    formattedPhone: (212) 737-5656
+  location:
+    address: 309 E 83rd St
+    crossStreet: Btwn 1st & 2nd Abe
+    lat: 40.775675463178246
+    lng: -73.95248260650862
+    postalCode: '10028'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/donguri/4bd0fe22a8b3a593a123655f
+  categories:
+  - id: 4bf58dd8d48988d111941735
+    name: Japanese Restaurant
+    pluralName: Japanese Restaurants
+    shortName: Japanese
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 456
+    usersCount: 218
+    tipCount: 17
+  url: http://www.itoen.com/donguri
+  likes:
+    count: 7
+    groups:
+    - type: others
+      count: 7
+      items:
+      - id: '168656'
+        firstName: Stephen
+        lastName: M.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/LAN25P3ISZYY3THN.jpg
+        tips:
+          count: 2
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: stephenmarin
+      - id: '27888796'
+        firstName: Carolyn
+        lastName: D.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/ZEAQOKEFOJPJPCBA.jpg
+        tips:
+          count: 5
+        lists:
+          groups:
+          - type: created
+            count: 17
+            items: []
+        homeCity: Erie, PA
+        bio: ! "Always now forever more...space, time, and patience\r\nKIK Starrblonde"
+        contact:
+          facebook: '1396872310'
+      - id: '39991457'
+        firstName: Jannis
+        lastName: B.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/NKCVPGDKBDZ0UZWW.jpg
+        tips:
+          count: 9
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: Batavia, OH
+        bio: ''
+        contact: {}
+      - id: '36593873'
+        firstName: Paul
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/13I4VMNWAOQPOKBX.jpg
+        tips:
+          count: 38
+        lists:
+          groups:
+          - type: created
+            count: 19
+            items: []
+        homeCity: ! 'New York & Los Angeles '
+        bio: ''
+        contact:
+          twitter: birdman_paul
+          facebook: '100003826220997'
+    summary: Stephen M, Carolyn D, Jannis B & 4 others
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/donguri/4bd0fe22a8b3a593a123655f/menu
+    mobileUrl: https://foursquare.com/v/4bd0fe22a8b3a593a123655f/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Donguri
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/donguri/4bd0fe22a8b3a593a123655f
+date: 2010-04-13 20:07:13.000000000 -05:00
+
+---

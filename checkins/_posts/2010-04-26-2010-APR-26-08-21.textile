@@ -1,0 +1,63 @@
+---
+id: 4bd59365a4de2f5e2c4a55bd
+createdAt: 1272288101
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4bbdfe5f593fef3b731e0456
+  name: Aerospace High Performance Center
+  contact:
+    phone: '2129291688'
+    formattedPhone: (212) 929-1688
+  location:
+    address: 332 W 13th St
+    crossStreet: btw 8th Ave and Hudson St
+    lat: 40.73961001140051
+    lng: -74.00457230213387
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/aerospace-high-performance-center/4bbdfe5f593fef3b731e0456
+  categories:
+  - id: 4bf58dd8d48988d175941735
+    name: Gym / Fitness Center
+    pluralName: Gyms or Fitness Centers
+    shortName: Gym / Fitness
+    icon: https://foursquare.com/img/categories/building/gym.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 297
+    usersCount: 99
+    tipCount: 2
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 7
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Aerospace High Performance Center
+icon: https://foursquare.com/img/categories/building/gym.png
+url: https://foursquare.com/v/aerospace-high-performance-center/4bbdfe5f593fef3b731e0456
+date: 2010-04-26 08:21:41.000000000 -05:00
+
+---

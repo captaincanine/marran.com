@@ -1,0 +1,21 @@
+---
+id: '790499637_10151804747774638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"Good point!" on his own status.'
+privacy:
+  value: ''
+type: status
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-03-16T20:50:54+0000'
+updated_time: '2013-03-16T20:50:54+0000'
+layout: status
+title: Saturday, Mar 16, 2013 around 03:50PM
+date: 2013-03-16 15:50:54.000000000 -05:00
+
+---
+"Good point!" on his own status.

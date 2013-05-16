@@ -1,0 +1,76 @@
+---
+id: 4f0dce91e4b045a5c38c8760
+createdAt: 1326304913
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 3fd66200f964a52008e91ee3
+  name: 71 Irving Place Coffee & Tea Bar
+  contact:
+    phone: '2129955252'
+    formattedPhone: (212) 995-5252
+    twitter: 71irvingplace
+  location:
+    address: 71 Irving Pl
+    crossStreet: btwn 18th & 19th St
+    lat: 40.736827
+    lng: -73.986909
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/71-irving-place-coffee--tea-bar/3fd66200f964a52008e91ee3
+  categories:
+  - id: 4bf58dd8d48988d16d941735
+    name: Café
+    pluralName: Cafés
+    shortName: Café
+    icon: https://foursquare.com/img/categories/food/cafe.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 13204
+    usersCount: 4796
+    tipCount: 122
+  url: http://71irvingplace.tumblr.com
+  likes:
+    count: 43
+    groups:
+    - type: others
+      count: 43
+      items: []
+    summary: 43 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/71-irving-place-coffee--tea-bar/3fd66200f964a52008e91ee3/menu
+    mobileUrl: https://foursquare.com/v/3fd66200f964a52008e91ee3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: 71 Irving Place Coffee & Tea Bar
+icon: https://foursquare.com/img/categories/food/cafe.png
+url: https://foursquare.com/v/71-irving-place-coffee--tea-bar/3fd66200f964a52008e91ee3
+date: 2012-01-11 13:01:53.000000000 -05:00
+
+---

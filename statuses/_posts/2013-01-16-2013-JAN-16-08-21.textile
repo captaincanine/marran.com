@@ -1,60 +1,66 @@
---- 
-id: 790499637_413363498742269
-from: 
+---
+id: '790499637_413363498742269'
+from:
   name: Keith Marran
-  id: "790499637"
+  id: '790499637'
 message: I love the idea of a petulant Darth Vader.
 story: Keith Marran shared Awesome Sauce's photo.
-picture: http://photos-g.ak.fbcdn.net/hphotos-ak-ash4/486073_395138997245061_544020273_s.jpg
+picture: https://fbcdn-photos-g-a.akamaihd.net/hphotos-ak-frc1/486073_395138997245061_544020273_s.jpg
 link: http://www.facebook.com/photo.php?fbid=395138997245061&set=a.348362128589415.81795.348361011922860&type=1
 name: Timeline Photos
-properties: 
+properties:
 - name: By
   text: Awesome Sauce
   href: http://www.facebook.com/AwesomeCrud?ref=stream
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
-actions: 
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/413363498742269
 - name: Like
   link: http://www.facebook.com/790499637/posts/413363498742269
-privacy: 
+privacy:
   description: Friends
   value: ALL_FRIENDS
-  friends: ""
-  networks: ""
-  allow: ""
-  deny: ""
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
 type: photo
 status_type: shared_story
-object_id: "395138997245061"
-application: 
+object_id: '395138997245061'
+application:
   name: Links
-  id: "2309869772"
-created_time: 2013-01-16T13:21:06+0000
-updated_time: 2013-01-16T14:02:26+0000
-likes: 
-  data: 
+  id: '2309869772'
+created_time: '2013-01-16T13:21:06+0000'
+updated_time: '2013-01-16T14:02:26+0000'
+likes:
+  data:
   - name: Jim Tumminello
-    id: "555444007"
+    id: '555444007'
   - name: Melissa Agar
-    id: "530351528"
+    id: '530351528'
   count: 2
-comments: 
-  data: 
-  - id: 790499637_413363498742269_2839658
-    from: 
+comments:
+  data:
+  - id: '413363498742269_2839658'
+    from:
       name: Peter Von Brown
-      id: "1128953787"
+      id: '1128953787'
     message: Good thing he IS.
-    created_time: 2013-01-16T14:02:26+0000
-  count: 1
+    can_remove: true
+    created_time: '2013-01-16T14:02:26+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: MQ==
+      before: MQ==
 layout: status-photo
 title: Wednesday, Jan 16, 2013 around 08:21AM
-images: 
-- thumbnail: /statuses/photo/486073_395138997245061_544020273_s.jpg
+images:
+- thumbnail: /statuses/photo/486073_395138997245061_544020273_n.jpg
   fullsize: /statuses/photo/486073_395138997245061_544020273_n.jpg
-date: 2013-01-16 08:21:06 -05:00
+date: 2013-01-16 08:21:06.000000000 -05:00
 
 ---
 I love the idea of a petulant Darth Vader.

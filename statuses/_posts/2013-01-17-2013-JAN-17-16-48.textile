@@ -1,0 +1,23 @@
+---
+id: '790499637_10151643349359638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"Brenda you are a shining..." on his own link.'
+privacy:
+  value: ''
+type: status
+application:
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: '6628568379'
+created_time: '2013-01-17T21:48:00+0000'
+updated_time: '2013-01-17T21:48:00+0000'
+comments:
+  count: 0
+layout: status
+title: Thursday, Jan 17, 2013 around 04:48PM
+date: 2013-01-17 16:48:00.000000000 -05:00
+
+---
+"Brenda you are a shining..." on his own link.

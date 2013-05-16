@@ -1,0 +1,72 @@
+---
+id: 5156173fe4b0b91a291501c0
+createdAt: 1364596543
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4169cd00f964a5208c1d1fe3
+  name: Freemans
+  contact:
+    phone: '2124200012'
+    formattedPhone: (212) 420-0012
+    twitter: freemansalley
+  location:
+    address: 1 Freeman Aly
+    crossStreet: off Rivington St.
+    lat: 40.7219574249367
+    lng: -73.99249076843262
+    postalCode: '10002'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/freemans/4169cd00f964a5208c1d1fe3
+  categories:
+  - id: 4bf58dd8d48988d14e941735
+    name: American Restaurant
+    pluralName: American Restaurants
+    shortName: American
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 15453
+    usersCount: 11068
+    tipCount: 226
+  url: http://freemansrestaurant.com
+  likes:
+    count: 147
+    groups:
+    - type: others
+      count: 147
+      items: []
+    summary: 147 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Freemans
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/freemans/4169cd00f964a5208c1d1fe3
+date: 2013-03-29 17:35:43.000000000 -05:00
+
+---

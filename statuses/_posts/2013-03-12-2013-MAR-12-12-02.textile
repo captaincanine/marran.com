@@ -1,0 +1,24 @@
+---
+id: '790499637_10151795690824638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: Keith Marran likes a link.
+story_tags:
+  '0':
+  - id: '790499637'
+    name: Keith Marran
+    offset: 0
+    length: 12
+    type: user
+privacy:
+  value: ''
+type: status
+created_time: '2013-03-12T17:02:45+0000'
+updated_time: '2013-03-12T17:02:45+0000'
+layout: status
+title: Tuesday, Mar 12, 2013 around 12:02PM
+date: 2013-03-12 12:02:45.000000000 -05:00
+
+---
+Keith Marran likes a link.

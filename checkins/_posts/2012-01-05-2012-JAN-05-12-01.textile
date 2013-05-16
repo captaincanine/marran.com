@@ -1,0 +1,100 @@
+---
+id: 4f05d7567ee5ff2e8ccab2fd
+createdAt: 1325782870
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4b9bd079f964a520632836e3
+  name: Complete Body & Spa
+  contact:
+    phone: '2127777719'
+    formattedPhone: (212) 777-7719
+  location:
+    address: 22 W 19th St
+    crossStreet: btwn 5th & 6th
+    lat: 40.739815581113184
+    lng: -73.99273914874487
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/complete-body--spa/4b9bd079f964a520632836e3
+  categories:
+  - id: 4bf58dd8d48988d176941735
+    name: Gym
+    pluralName: Gyms
+    shortName: Gym
+    icon: https://foursquare.com/img/categories/building/gym.png
+    parents:
+    - Shop & Service
+    - Gym / Fitness Center
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2461
+    usersCount: 289
+    tipCount: 4
+  url: http://www.completebody.com/19street/
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '2565162'
+        firstName: Max
+        lastName: L.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/NCHYMCUO5HSZHPTW.jpg
+        tips:
+          count: 26
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: maxlosk
+          facebook: '628755176'
+      - id: '14799861'
+        firstName: Wayne
+        lastName: P.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/XP22YCYENR55FAGU.jpg
+        tips:
+          count: 12
+        homeCity: NY
+        bio: ''
+        contact:
+          facebook: '1090246523'
+    summary: Max L & Wayne P
+  like: false
+  beenHere:
+    count: 12
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Complete Body & Spa
+icon: https://foursquare.com/img/categories/building/gym.png
+url: https://foursquare.com/v/complete-body--spa/4b9bd079f964a520632836e3
+date: 2012-01-05 12:01:10.000000000 -05:00
+
+---

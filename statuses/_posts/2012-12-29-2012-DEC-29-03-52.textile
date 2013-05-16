@@ -1,58 +1,69 @@
---- 
-id: 790499637_10151605184239638
-from: 
+---
+id: '790499637_10151605184239638'
+from:
   name: Keith Marran
-  id: "790499637"
-message: Our library just became the Bhutanese library. We have enough artwork and handicrafts to open a museum.
-actions: 
+  id: '790499637'
+message: Our library just became the Bhutanese library. We have enough artwork and
+  handicrafts to open a museum.
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/10151605184239638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151605184239638
-privacy: 
+privacy:
   description: Friends
   value: ALL_FRIENDS
-  friends: ""
-  networks: ""
-  allow: ""
-  deny: ""
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
 type: status
 status_type: mobile_status_update
-application: 
+application:
   name: Facebook for iPad
   namespace: fbipad_
-  id: "173847642670370"
-created_time: 2012-12-29T08:52:12+0000
-updated_time: 2012-12-29T15:33:57+0000
-likes: 
-  data: 
+  id: '173847642670370'
+created_time: '2012-12-29T08:52:12+0000'
+updated_time: '2012-12-29T15:33:57+0000'
+likes:
+  data:
   - name: Uma Nt
-    id: "100000074495843"
+    id: '100000074495843'
   - name: Krista Pogue Cornejo
-    id: "1779859235"
+    id: '1779859235'
   - name: Suzanne Feinberg
-    id: "100000599017740"
+    id: '100000599017740'
   - name: Jono Jarrett
-    id: "1343303598"
+    id: '1343303598'
   count: 8
-comments: 
-  data: 
-  - id: 790499637_10151605184239638_30094785
-    from: 
+comments:
+  data:
+  - id: '10151605184239638_30094785'
+    from:
       name: Keith Marran
-      id: "790499637"
-    message: "For all you Buddhist artwork aficionados, we have a painting of The Wheel of Life, Thousand Buddhas, and a Mandala of Buddha. "
-    created_time: 2012-12-29T08:57:11+0000
-  - id: 790499637_10151605184239638_30097608
-    from: 
+      id: '790499637'
+    message: ! 'For all you Buddhist artwork aficionados, we have a painting of The
+      Wheel of Life, Thousand Buddhas, and a Mandala of Buddha. '
+    can_remove: true
+    created_time: '2012-12-29T08:57:11+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151605184239638_30097608'
+    from:
       name: Sara Holoubek
-      id: "659585353"
+      id: '659585353'
     message: I like this direction!
-    created_time: 2012-12-29T15:33:57+0000
-  count: 2
+    can_remove: true
+    created_time: '2012-12-29T15:33:57+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: Mg==
+      before: MQ==
 layout: status
 title: Saturday, Dec 29, 2012 around 03:52AM
-date: 2012-12-29 03:52:12 -05:00
+date: 2012-12-29 03:52:12.000000000 -05:00
 
 ---
 Our library just became the Bhutanese library. We have enough artwork and handicrafts to open a museum.

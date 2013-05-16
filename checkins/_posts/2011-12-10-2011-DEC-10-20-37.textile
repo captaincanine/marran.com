@@ -1,0 +1,76 @@
+---
+id: 4ee409547ee5334d9478e5ed
+createdAt: 1323567444
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 43fec232f964a520fd2f1fe3
+  name: Bone Lick Park
+  contact:
+    phone: '2126479600'
+    formattedPhone: (212) 647-9600
+    twitter: bonelickpark
+  location:
+    address: 75 Greenwich Ave
+    crossStreet: at 7th Ave.
+    lat: 40.7366570421326
+    lng: -74.0013313293457
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/bone-lick-park/43fec232f964a520fd2f1fe3
+  categories:
+  - id: 4bf58dd8d48988d1df931735
+    name: BBQ Joint
+    pluralName: BBQ Joints
+    shortName: BBQ
+    icon: https://foursquare.com/img/categories/food/bbq.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 4994
+    usersCount: 3273
+    tipCount: 63
+  url: http://www.bonelickpark.com
+  likes:
+    count: 14
+    groups:
+    - type: others
+      count: 14
+      items: []
+    summary: 14 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/bone-lick-park/43fec232f964a520fd2f1fe3/menu
+    mobileUrl: https://foursquare.com/v/43fec232f964a520fd2f1fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Bone Lick Park
+icon: https://foursquare.com/img/categories/food/bbq.png
+url: https://foursquare.com/v/bone-lick-park/43fec232f964a520fd2f1fe3
+date: 2011-12-10 20:37:24.000000000 -05:00
+
+---

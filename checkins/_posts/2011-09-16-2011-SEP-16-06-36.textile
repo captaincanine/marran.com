@@ -1,0 +1,71 @@
+---
+id: 4e7334ad1f6eaf402b9fa3a7
+createdAt: 1316172973
+type: checkin
+timeZone: Europe/Madrid
+timeZoneOffset: 120
+venue:
+  id: 4afde737f964a520e72b22e3
+  name: Aeropuerto de Madrid-Barajas (MAD)
+  contact:
+    phone: '+34913211000'
+    formattedPhone: +34 913 21 10 00
+    twitter: aenaaeropuertos
+  location:
+    address: Av de la Hispanidad, s/n
+    lat: 40.4790104248225
+    lng: -3.572101593017578
+    postalCode: '28042'
+    city: Madrid
+    state: Madrid
+    country: Spain
+    cc: ES
+  canonicalUrl: https://foursquare.com/v/aeropuerto-de-madridbarajas-mad/4afde737f964a520e72b22e3
+  categories:
+  - id: 4bf58dd8d48988d1ed931735
+    name: Airport
+    pluralName: Airports
+    shortName: Airport
+    icon: https://foursquare.com/img/categories/travel/airport.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 44500
+    usersCount: 24382
+    tipCount: 211
+  url: http://www.aena-aeropuertos.es/csee/satellite/aeropuerto-madrid-barajas/es/
+  likes:
+    count: 153
+    groups:
+    - type: others
+      count: 153
+      items: []
+    summary: 153 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Aeropuerto de Madrid-Barajas (MAD)
+icon: https://foursquare.com/img/categories/travel/airport.png
+url: https://foursquare.com/v/aeropuerto-de-madridbarajas-mad/4afde737f964a520e72b22e3
+date: 2011-09-16 06:36:13.000000000 -05:00
+
+---

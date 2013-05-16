@@ -1,0 +1,86 @@
+---
+id: 5158c7cfe4b0e5f97d352dc7
+createdAt: 1364772815
+type: checkin
+shout: Just saw NO and it was great. South American revolution meets feel-good 80's
+  advertising.
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a7cd0bcf964a520bced1fe3
+  name: Lincoln Plaza Cinemas
+  contact:
+    phone: '2127572280'
+    formattedPhone: (212) 757-2280
+  location:
+    address: 1886 Broadway
+    crossStreet: btwn 62nd & 63rd St
+    lat: 40.770825431319494
+    lng: -73.98216214776504
+    postalCode: '10023'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/lincoln-plaza-cinemas/4a7cd0bcf964a520bced1fe3
+  categories:
+  - id: 4bf58dd8d48988d17f941735
+    name: Movie Theater
+    pluralName: Movie Theaters
+    shortName: Movie Theater
+    icon: https://foursquare.com/img/categories/arts_entertainment/movietheater.png
+    parents:
+    - Arts & Entertainment
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 5542
+    usersCount: 3891
+    tipCount: 41
+  likes:
+    count: 17
+    groups:
+    - type: others
+      count: 17
+      items: []
+    summary: 17 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+event:
+  id: 511b0270b71b2ef86beabe96
+  name: 'No'
+  foreignIds:
+    count: 0
+    items: []
+  categories:
+  - id: 4dfb90c6bd413dd705e8f897
+    name: Movie
+    pluralName: Movies
+    shortName: Movie
+    icon: https://foursquare.com/img/categories/arts_entertainment/movietheater.png
+    parents: []
+    primary: true
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Lincoln Plaza Cinemas
+icon: https://foursquare.com/img/categories/arts_entertainment/movietheater.png
+url: https://foursquare.com/v/lincoln-plaza-cinemas/4a7cd0bcf964a520bced1fe3
+date: 2013-03-31 18:33:35.000000000 -05:00
+
+---

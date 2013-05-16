@@ -1,0 +1,78 @@
+---
+id: 4e4e611dd164978659ba5da6
+createdAt: 1313759517
+type: checkin
+timeZone: Asia/Vientiane
+timeZoneOffset: 420
+venue:
+  id: 4bc78b9193bdeee1cb7f37ae
+  name: La Residence Phou Vao Hotel Luang Prabang
+  contact: {}
+  location:
+    address: 3 Po Box 50
+    lat: 19.877166
+    lng: 102.136887
+    city: Luang Prabang
+    country: Laos
+    cc: LA
+  canonicalUrl: https://foursquare.com/v/la-residence-phou-vao-hotel-luang-prabang/4bc78b9193bdeee1cb7f37ae
+  categories:
+  - id: 4bf58dd8d48988d1fa931735
+    name: Hotel
+    pluralName: Hotels
+    shortName: Hotel
+    icon: https://foursquare.com/img/categories/travel/hotel.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 108
+    usersCount: 54
+    tipCount: 4
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '38950219'
+        firstName: Lauren
+        lastName: E.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/KT0XTZMQWF0NNUYH.jpg
+        tips:
+          count: 1
+        homeCity: Harrison
+        bio: ! "Theater Person, English Nerd, Global Scholar, Philosopher, Physics
+          Geek.\r\nI don't need to flirt.  I will seduce you with my awkwardness."
+        contact:
+          twitter: leames1701
+          facebook: '100000726323588'
+    summary: Lauren E
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: La Residence Phou Vao Hotel Luang Prabang
+icon: https://foursquare.com/img/categories/travel/hotel.png
+url: https://foursquare.com/v/la-residence-phou-vao-hotel-luang-prabang/4bc78b9193bdeee1cb7f37ae
+date: 2011-08-19 08:11:57.000000000 -05:00
+
+---

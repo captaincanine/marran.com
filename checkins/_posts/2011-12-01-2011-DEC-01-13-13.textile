@@ -1,0 +1,72 @@
+---
+id: 4ed7c3d62c5b95fea22df50c
+createdAt: 1322763222
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4c225ae47e85c9283ee5bb21
+  name: Trader Joe's
+  contact:
+    phone: '2122552106'
+    formattedPhone: (212) 255-2106
+  location:
+    address: 675 6th Ave
+    crossStreet: at W 21st St
+    lat: 40.74174
+    lng: -73.99365
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/trader-joes/4c225ae47e85c9283ee5bb21
+  categories:
+  - id: 4bf58dd8d48988d118951735
+    name: Grocery Store
+    pluralName: Grocery Stores
+    shortName: Grocery Store
+    icon: https://foursquare.com/img/categories/shops/food_grocery.png
+    parents:
+    - Shop & Service
+    - Food & Drink Shop
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 47315
+    usersCount: 13479
+    tipCount: 184
+  url: http://www.traderjoes.com
+  likes:
+    count: 68
+    groups:
+    - type: others
+      count: 68
+      items: []
+    summary: 68 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Trader Joe's
+icon: https://foursquare.com/img/categories/shops/food_grocery.png
+url: https://foursquare.com/v/trader-joes/4c225ae47e85c9283ee5bb21
+date: 2011-12-01 13:13:42.000000000 -05:00
+
+---

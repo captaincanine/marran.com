@@ -1,0 +1,70 @@
+---
+id: 5176c858e4b0a51b94d598b8
+createdAt: 1366739032
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a78bbeef964a52044e61fe3
+  name: Paper Presentation
+  contact:
+    phone: '9739921300'
+    formattedPhone: (973) 992-1300
+  location:
+    address: 23 W 18th St
+    crossStreet: btwn 5th & 6th
+    lat: 40.73907956555049
+    lng: -73.99300575256348
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/paper-presentation/4a78bbeef964a52044e61fe3
+  categories:
+  - id: 4bf58dd8d48988d121951735
+    name: Paper / Office Supplies Store
+    pluralName: Paper / Office Supplies Stores
+    shortName: Office Supplies
+    icon: https://foursquare.com/img/categories/shops/papergoods.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 3731
+    usersCount: 2163
+    tipCount: 19
+  likes:
+    count: 11
+    groups:
+    - type: others
+      count: 11
+      items: []
+    summary: 11 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Paper Presentation
+icon: https://foursquare.com/img/categories/shops/papergoods.png
+url: https://foursquare.com/v/paper-presentation/4a78bbeef964a52044e61fe3
+date: 2013-04-23 12:43:52.000000000 -05:00
+
+---

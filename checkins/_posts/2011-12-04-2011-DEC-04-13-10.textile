@@ -1,0 +1,76 @@
+---
+id: 4edbb7868231efe390f901e9
+createdAt: 1323022214
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 49c42857f964a5209f561fe3
+  name: Lobster Place
+  contact:
+    phone: '2122555672'
+    formattedPhone: (212) 255-5672
+    twitter: fishguysnyc
+  location:
+    address: 75 9th Ave
+    crossStreet: btwn 15th & 16th
+    lat: 40.742482517233334
+    lng: -74.00632253674738
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/lobster-place/49c42857f964a5209f561fe3
+  categories:
+  - id: 4bf58dd8d48988d1ce941735
+    name: Seafood Restaurant
+    pluralName: Seafood Restaurants
+    shortName: Seafood
+    icon: https://foursquare.com/img/categories/food/seafood.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 7700
+    usersCount: 4367
+    tipCount: 96
+  url: http://www.lobsterplace.com
+  likes:
+    count: 55
+    groups:
+    - type: others
+      count: 55
+      items: []
+    summary: 55 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/lobster-place/49c42857f964a5209f561fe3/menu
+    mobileUrl: https://foursquare.com/v/49c42857f964a5209f561fe3/device_menu
+  beenHere:
+    count: 8
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Lobster Place
+icon: https://foursquare.com/img/categories/food/seafood.png
+url: https://foursquare.com/v/lobster-place/49c42857f964a5209f561fe3
+date: 2011-12-04 13:10:14.000000000 -05:00
+
+---

@@ -1,0 +1,132 @@
+---
+id: 4eff5cfd9a520dfd65ebb277
+createdAt: 1325358333
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4db3135f81543d71da285f90
+  name: Moustache Greenwich Tonsorial
+  contact:
+    phone: '2129293663'
+    formattedPhone: (212) 929-3663
+    twitter: moustacheusa
+    facebook: '213721521988104'
+  location:
+    address: 55 Greenwich Ave.
+    crossStreet: at Perry St.
+    lat: 40.73597777580795
+    lng: -74.00061843452929
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/moustache-greenwich-tonsorial/4db3135f81543d71da285f90
+  categories:
+  - id: 4bf58dd8d48988d110951735
+    name: Salon / Barbershop
+    pluralName: Salons / Barbershops
+    shortName: Salon / Barbershop
+    icon: https://foursquare.com/img/categories/shops/salon_barber.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 504
+    usersCount: 245
+    tipCount: 11
+  url: http://www.moustacheusa.com
+  likes:
+    count: 5
+    groups:
+    - type: others
+      count: 5
+      items:
+      - id: '54650616'
+        firstName: Hamilton
+        lastName: P.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/V5O5VWUGQ5FVN13H.jpg
+        tips:
+          count: 0
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: thinkswhoheis
+          facebook: '68700118'
+      - id: '17903569'
+        firstName: Richard
+        lastName: G.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/A5LIH0ZI2X03RWE5.jpg
+        tips:
+          count: 12
+        lists:
+          groups:
+          - type: created
+            count: 32
+            items: []
+        homeCity: Ewing, NJ
+        bio: Living for God every day of my life.
+        contact:
+          twitter: rgreletski
+          facebook: '502301336'
+      - id: '10012276'
+        firstName: Sajid
+        lastName: M.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/OW4V55U10LG3DG5K.jpg
+        tips:
+          count: 37
+        lists:
+          groups:
+          - type: created
+            count: 3
+            items: []
+        homeCity: New York
+        bio: I do Growth and Platform for @foursquare. Software Engineer, living in
+          NYC.
+        contact:
+          twitter: smehmood
+          facebook: '1110575'
+        superuser: 3
+      - id: '515524'
+        firstName: Matt
+        lastName: J.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/LAZNXSN0XPSIMTBK.png
+        tips:
+          count: 1
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: cntndxplsn
+    summary: Hamilton P, Richard G, Sajid M & 2 others
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Moustache Greenwich Tonsorial
+icon: https://foursquare.com/img/categories/shops/salon_barber.png
+url: https://foursquare.com/v/moustache-greenwich-tonsorial/4db3135f81543d71da285f90
+date: 2011-12-31 14:05:33.000000000 -05:00
+
+---

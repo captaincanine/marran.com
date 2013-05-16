@@ -1,0 +1,127 @@
+---
+id: 4edbb9a793ad464d2a189b06
+createdAt: 1323022759
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4acf9ae7f964a520e3d420e3
+  name: Jacques Torres Chocolate
+  contact:
+    phone: '2122292441'
+    formattedPhone: (212) 229-2441
+    twitter: jacquestorres
+  location:
+    address: 75 9th Ave
+    crossStreet: at W 15th St
+    lat: 40.74235466615953
+    lng: -74.00636844432503
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/jacques-torres-chocolate/4acf9ae7f964a520e3d420e3
+  categories:
+  - id: 4bf58dd8d48988d117951735
+    name: Candy Store
+    pluralName: Candy Stores
+    shortName: Candy Store
+    icon: https://foursquare.com/img/categories/shops/candystore.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1149
+    usersCount: 877
+    tipCount: 12
+  url: http://mrchocolate.com
+  likes:
+    count: 7
+    groups:
+    - type: others
+      count: 7
+      items:
+      - id: '1961094'
+        firstName: Eric
+        lastName: E.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/DBXZZCNW2GE4IUWY.jpg
+        tips:
+          count: 8
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: ericedgington
+          facebook: '533603463'
+      - id: '43412136'
+        firstName: FredeRick
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 9
+        lists:
+          groups:
+          - type: created
+            count: 21
+            items: []
+        homeCity: Hempstead, NY
+        bio: ''
+        contact:
+          facebook: '100000169530371'
+      - id: '28009730'
+        firstName: Kelly
+        lastName: R.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/ZAYHJOO1WBWHHYG5.jpg
+        tips:
+          count: 32
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: Loves Park, IL
+        bio: ! 'Male.., I like to have fun.. And love to make people Laugh : ) alway
+          looking for the best in Life'
+        contact:
+          twitter: kelly_rine
+          facebook: '1479756765'
+      - id: '51909613'
+        firstName: Maddy
+        lastName: S.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/5PZCLWEG1SNHINJW.jpg
+        tips:
+          count: 0
+        homeCity: ! 'Commerce Twp, MI '
+        bio: ''
+        contact: {}
+    summary: Eric E, FredeRick, Kelly R & 4 others
+  like: false
+  beenHere:
+    count: 6
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Jacques Torres Chocolate
+icon: https://foursquare.com/img/categories/shops/candystore.png
+url: https://foursquare.com/v/jacques-torres-chocolate/4acf9ae7f964a520e3d420e3
+date: 2011-12-04 13:19:19.000000000 -05:00
+
+---

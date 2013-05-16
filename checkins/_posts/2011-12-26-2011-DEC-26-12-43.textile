@@ -1,0 +1,132 @@
+---
+id: 4ef8b240be7bb4784ea726d7
+createdAt: 1324921408
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4bcf48520ffdce728758b2c0
+  name: Montague on the Gardens
+  contact:
+    phone: '+442076371001'
+    formattedPhone: +44 20 7637 1001
+    twitter: montague_hotel
+  location:
+    address: 15 Montague St
+    lat: 51.52016820494068
+    lng: -0.12557221703480673
+    postalCode: WC1B
+    city: Bloomsbury
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/montague-on-the-gardens/4bcf48520ffdce728758b2c0
+  categories:
+  - id: 4bf58dd8d48988d1fa931735
+    name: Hotel
+    pluralName: Hotels
+    shortName: Hotel
+    icon: https://foursquare.com/img/categories/travel/hotel.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 861
+    usersCount: 429
+    tipCount: 8
+  url: http://www.montaguehotel.com
+  likes:
+    count: 5
+    groups:
+    - type: others
+      count: 5
+      items:
+      - id: '96650'
+        firstName: Martin
+        lastName: P.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/1RICM3YUWTV4WXTO.png
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 3
+            items: []
+        homeCity: Munich, Germany
+        bio: ! '@codingmonkeys @fanb0ys @ponytimepodcast @retrozirkel @carcassonneapp
+          @subethaedit'
+        contact:
+          twitter: map
+          facebook: '100002010607986'
+      - id: '30952462'
+        firstName: Ben
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/ALBD1ENRXGHT0HQM.jpg
+        tips:
+          count: 3
+        homeCity: London
+        bio: ''
+        contact:
+          twitter: ruarke5
+          facebook: '616491110'
+      - id: '33482181'
+        firstName: Jana
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/THT2XMMO10TYU3JN.jpg
+        tips:
+          count: 7
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: London
+        bio: ''
+        contact:
+          twitter: jj1980
+          facebook: '704955050'
+      - id: '101212'
+        firstName: Archie
+        lastName: P.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/4VJHYDTG5TOGRUHI.jpg
+        tips:
+          count: 13
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Johannesburg, Gauteng
+        bio: ''
+        contact: {}
+    summary: Martin P, Ben S, Jana & 2 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Montague on the Gardens
+icon: https://foursquare.com/img/categories/travel/hotel.png
+url: https://foursquare.com/v/montague-on-the-gardens/4bcf48520ffdce728758b2c0
+date: 2011-12-26 12:43:28.000000000 -05:00
+
+---

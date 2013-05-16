@@ -1,0 +1,127 @@
+---
+id: 4c1d5f3db9f876b08f8e7d46
+createdAt: 1276993341
+type: checkin
+shout: This is some of the best Indian food I've had in NYC.
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a2ef82cf964a5208d981fe3
+  name: Vermilion
+  contact:
+    phone: '2128716600'
+    formattedPhone: (212) 871-6600
+  location:
+    address: 480 Lexington Ave.
+    crossStreet: at 46th St.
+    lat: 40.7542338
+    lng: -73.974293
+    postalCode: '10017'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/vermilion/4a2ef82cf964a5208d981fe3
+  categories:
+  - id: 4bf58dd8d48988d10f941735
+    name: Indian Restaurant
+    pluralName: Indian Restaurants
+    shortName: Indian
+    icon: https://foursquare.com/img/categories/food/indian.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1503
+    usersCount: 1300
+    tipCount: 30
+  url: http://thevermilionrestaurant.com
+  likes:
+    count: 5
+    groups:
+    - type: others
+      count: 5
+      items:
+      - id: '115636'
+        firstName: Leigh
+        lastName: C.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/0MCEQE2WWYBYIDLN.jpg
+        tips:
+          count: 5
+        homeCity: Denver, Colorado
+        bio: ''
+        contact: {}
+        superuser: 1
+      - id: '240800'
+        firstName: Luc
+        lastName: L.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/GTZZPKXIUDUI4ARM.jpg
+        tips:
+          count: 92
+        lists:
+          groups:
+          - type: created
+            count: 18
+            items: []
+        homeCity: Montfoort, The Netherlands
+        bio: ! "I love to make friends, listen\r\n music & traveling . I'm Chai lover
+          & hobby photographer, cinemaniac & 4sq fan."
+        contact: {}
+      - id: '5234977'
+        firstName: Hakan
+        lastName: A.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/LWSNUJM3IZMMJWPG.jpg
+        tips:
+          count: 1
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '668323561'
+      - id: '32797845'
+        firstName: Veekay
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Iselin, NJ
+        bio: ''
+        contact: {}
+    summary: Leigh C, Luc L, Hakan A & 2 others
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=1933&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/vermilion/4a2ef82cf964a5208d981fe3/menu
+    mobileUrl: https://foursquare.com/v/4a2ef82cf964a5208d981fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Vermilion
+icon: https://foursquare.com/img/categories/food/indian.png
+url: https://foursquare.com/v/vermilion/4a2ef82cf964a5208d981fe3
+date: 2010-06-19 19:22:21.000000000 -05:00
+
+---

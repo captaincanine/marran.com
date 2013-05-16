@@ -1,0 +1,71 @@
+---
+id: 4e4590c4227128e1e8bf44ab
+createdAt: 1313181892
+type: checkin
+shout: Just saw the best production of Romeo & Juliet I think I'll ever see.
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4e0f86e852b1b27c1b918dee
+  name: Royal Shakespeare Company @ The Park Avenue Armory
+  contact:
+    phone: '2128755030'
+    formattedPhone: (212) 875-5030
+    twitter: thersc
+  location:
+    address: 643 Park Ave
+    crossStreet: between 66th & 67th Streets
+    lat: 40.76730025995985
+    lng: -73.96620085082172
+    postalCode: '10065'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/royal-shakespeare-company--the-park-avenue-armory/4e0f86e852b1b27c1b918dee
+  categories:
+  - id: 4bf58dd8d48988d137941735
+    name: Theater
+    pluralName: Theaters
+    shortName: Theater
+    icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+    parents:
+    - Arts & Entertainment
+    - Performing Arts Venue
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 246
+    usersCount: 172
+    tipCount: 3
+  closed: true
+  url: http://www.rsc.org.uk/whats-on/new-york/
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Royal Shakespeare Company @ The Park Avenue Armory
+icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+url: https://foursquare.com/v/royal-shakespeare-company--the-park-avenue-armory/4e0f86e852b1b27c1b918dee
+date: 2011-08-12 15:44:52.000000000 -05:00
+
+---

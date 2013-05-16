@@ -1,0 +1,28 @@
+---
+id: '790499637_10151881358314638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: Keith Marran was tagged in Danny Bernardo's photos.
+picture: https://fbcdn-photos-b-a.akamaihd.net/hphotos-ak-prn1/922807_10152759813385307_1410844636_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10152759813385307&set=at.10150168841580307.408669.585250306.790499637&type=1&relevant_count=2
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yx/r/og8V99JVf8G.gif
+privacy:
+  value: ''
+type: photo
+status_type: tagged_in_photo
+object_id: '10152759813385307'
+application:
+  name: Photos
+  id: '2305272732'
+created_time: '2013-04-26T05:27:15+0000'
+updated_time: '2013-04-26T05:27:15+0000'
+layout: status-photo
+title: Friday, Apr 26, 2013 around 12:27AM
+images:
+- thumbnail: /statuses/photo/922807_10152759813385307_1410844636_n.jpg
+  fullsize: /statuses/photo/922807_10152759813385307_1410844636_n.jpg
+date: 2013-04-26 00:27:15.000000000 -05:00
+
+---
+Keith Marran was tagged in Danny Bernardo's photos.

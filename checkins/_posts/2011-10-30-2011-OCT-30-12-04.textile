@@ -1,0 +1,70 @@
+---
+id: 4ead839130f855f5b356bb93
+createdAt: 1319994257
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a7c5f48f964a52065ec1fe3
+  name: ABC Carpet & Home
+  contact:
+    phone: '2124733000'
+    formattedPhone: (212) 473-3000
+  location:
+    address: 888 Broadway
+    crossStreet: at E 19th St.
+    lat: 40.738215284871565
+    lng: -73.99004186799563
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/abc-carpet--home/4a7c5f48f964a52065ec1fe3
+  categories:
+  - id: 4bf58dd8d48988d1f8941735
+    name: Furniture / Home Store
+    pluralName: Furniture / Home Stores
+    shortName: Furniture / Home
+    icon: https://foursquare.com/img/categories/shops/furniture.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 8650
+    usersCount: 5882
+    tipCount: 51
+  likes:
+    count: 34
+    groups:
+    - type: others
+      count: 34
+      items: []
+    summary: 34 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: ABC Carpet & Home
+icon: https://foursquare.com/img/categories/shops/furniture.png
+url: https://foursquare.com/v/abc-carpet--home/4a7c5f48f964a52065ec1fe3
+date: 2011-10-30 12:04:17.000000000 -05:00
+
+---

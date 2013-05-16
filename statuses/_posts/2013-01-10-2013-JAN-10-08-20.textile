@@ -1,0 +1,28 @@
+---
+id: '790499637_10151628863739638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"Instead of calling guys that are into bears "chasers", can we start calling
+  them "salmon"?" on Joey Stern''s timeline.'
+story_tags:
+  '96':
+  - id: '19602090'
+    name: Joey Stern
+    offset: 96
+    length: 10
+    type: user
+privacy:
+  value: ''
+type: status
+status_type: wall_post
+created_time: '2013-01-10T13:20:38+0000'
+updated_time: '2013-01-10T13:20:38+0000'
+comments:
+  count: 0
+layout: status
+title: Thursday, Jan 10, 2013 around 08:20AM
+date: 2013-01-10 08:20:38.000000000 -05:00
+
+---
+"Instead of calling guys that are into bears "chasers", can we start calling them "salmon"?" on Joey Stern's timeline.

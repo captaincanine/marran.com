@@ -1,0 +1,117 @@
+---
+id: '790499637_10151659538849638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: Keith Marran updated his cover photo.
+story_tags:
+  '0':
+  - id: '790499637'
+    name: Keith Marran
+    offset: 0
+    length: 12
+    type: user
+picture: http://photos-f.ak.fbcdn.net/hphotos-ak-snc7/487003_10151659538744638_662723351_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10151659538744638&set=a.10150880402014638.520610.790499637&type=1&relevant_count=1
+icon: http://static.ak.fbcdn.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151659538849638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151659538849638
+privacy:
+  value: ''
+type: photo
+object_id: '10151659538744638'
+created_time: '2013-01-25T16:40:47+0000'
+updated_time: '2013-01-26T20:46:38+0000'
+likes:
+  data:
+  - name: Linda Rosenson Coe
+    id: '1440111516'
+  - name: Dennis Micah Fowler
+    id: '763622599'
+  - name: Dave Stringer Hughes
+    id: '800419'
+  - name: Carmine Nicholas Tzavis
+    id: '100000813165354'
+  count: 26
+comments:
+  data:
+  - id: '790499637_10151659538849638_11130915'
+    from:
+      name: Uma Nt
+      id: '100000074495843'
+    message: So, where are you now?
+    created_time: '2013-01-25T18:12:00+0000'
+  - id: '790499637_10151659538849638_11131080'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: That's Curacao.
+    created_time: '2013-01-25T18:34:57+0000'
+  - id: '790499637_10151659538849638_11131267'
+    from:
+      name: Uma Nt
+      id: '100000074495843'
+    message: Such a cool pic!
+    created_time: '2013-01-25T19:01:28+0000'
+  - id: '790499637_10151659538849638_11131286'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: All the coolness comes from the photographer extraordinaire, Noah Fecks.
+    message_tags:
+    - id: '608492513'
+      name: Noah Fecks
+      type: user
+      offset: 61
+      length: 10
+    created_time: '2013-01-25T19:03:37+0000'
+  - id: '790499637_10151659538849638_11131405'
+    from:
+      name: Noah Fecks
+      id: '608492513'
+    message: OMG!!!!!! SUPER COOL!!!!!!!!!!!!!!!
+    created_time: '2013-01-25T19:20:42+0000'
+  - id: '790499637_10151659538849638_11131636'
+    from:
+      name: Eric Kelhoffer
+      id: '671590942'
+    message: Very studly
+    created_time: '2013-01-25T19:49:28+0000'
+  - id: '790499637_10151659538849638_11131680'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: I'm trying to be the poster boy for Polar Beer. (It's made in Venezuela)
+    created_time: '2013-01-25T19:55:44+0000'
+    likes: 2
+  - id: '790499637_10151659538849638_11131880'
+    from:
+      name: Charlotte Hertander
+      id: '577154539'
+    message: Love it!! :-)
+    created_time: '2013-01-25T20:26:48+0000'
+  - id: '790499637_10151659538849638_11133904'
+    from:
+      name: Suzanne Feinberg
+      id: '100000599017740'
+    message: Very handsome!   Enjoy those sunsets!
+    created_time: '2013-01-26T00:28:03+0000'
+  - id: '790499637_10151659538849638_11141792'
+    from:
+      name: Matt Kessler
+      id: '166601180'
+    message: cute!
+    created_time: '2013-01-26T20:46:38+0000'
+  count: 10
+layout: status-photo
+title: Friday, Jan 25, 2013 around 11:40AM
+images:
+- thumbnail: /statuses/photo/487003_10151659538744638_662723351_s.jpg
+  fullsize: /statuses/photo/487003_10151659538744638_662723351_n.jpg
+date: 2013-01-25 11:40:47.000000000 -05:00
+
+---
+Keith Marran updated his cover photo.

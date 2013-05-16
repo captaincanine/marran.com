@@ -6,7 +6,7 @@ tags:
 - superfun
 - birthday
 images:
-- thumbnail: http://3.bp.blogspot.com/_WPBsWi6m18A/SoWblnTxJsI/AAAAAAAAF7U/0WriIGtR58Y/s1600/platos.jpg
+- thumbnail: /images/content/platos.jpg
 wufoo:
   code: z7x3k1
   height: 691
@@ -18,7 +18,7 @@ location:
 
 David's out of town! _(sssh!)_ Come celebrate with an evening of live performance!
 
-<img src="http://3.bp.blogspot.com/_WPBsWi6m18A/SoWblnTxJsI/AAAAAAAAF7U/0WriIGtR58Y/s1600/platos.jpg" width="100%" />
+<img src="/images/content/platos.jpg" width="100%" />
 
 The festivities take place on...
 

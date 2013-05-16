@@ -1,0 +1,76 @@
+---
+id: 4ebf0c69d3e3700a5b369808
+createdAt: 1321143401
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4cf70d59dc40a35d63a04b54
+  name: Legend Bar & Restaurant
+  contact:
+    phone: '2129291778'
+    formattedPhone: (212) 929-1778
+    twitter: legendnyc7thave
+  location:
+    address: 88 7th Ave
+    crossStreet: btwn 15th & 16th St.
+    lat: 40.739563
+    lng: -73.998965
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/legend-bar--restaurant/4cf70d59dc40a35d63a04b54
+  categories:
+  - id: 4bf58dd8d48988d145941735
+    name: Chinese Restaurant
+    pluralName: Chinese Restaurants
+    shortName: Chinese
+    icon: https://foursquare.com/img/categories/food/chinese.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2306
+    usersCount: 1431
+    tipCount: 44
+  url: http://www.legendrestaurant88.com
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/legend-bar--restaurant/4cf70d59dc40a35d63a04b54/menu
+    mobileUrl: https://foursquare.com/v/4cf70d59dc40a35d63a04b54/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Legend Bar & Restaurant
+icon: https://foursquare.com/img/categories/food/chinese.png
+url: https://foursquare.com/v/legend-bar--restaurant/4cf70d59dc40a35d63a04b54
+date: 2011-11-12 19:16:41.000000000 -05:00
+
+---

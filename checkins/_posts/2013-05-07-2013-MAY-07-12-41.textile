@@ -1,0 +1,69 @@
+---
+id: 51893cb9498e4292c09f44cf
+createdAt: 1367948473
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4bcf265c77b29c7427768882
+  name: Bar Suzette Creperie
+  contact:
+    phone: '9172077552'
+    formattedPhone: (917) 207-7552
+  location:
+    address: Chelsea Market
+    crossStreet: 15th Street and 9th Avenue
+    lat: 40.74234739360883
+    lng: -74.00630950927734
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/bar-suzette-creperie/4bcf265c77b29c7427768882
+  categories:
+  - id: 4bf58dd8d48988d10c941735
+    name: French Restaurant
+    pluralName: French Restaurants
+    shortName: French
+    icon: https://foursquare.com/img/categories/food/french.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1478
+    usersCount: 1075
+    tipCount: 26
+  likes:
+    count: 12
+    groups:
+    - type: others
+      count: 12
+      items: []
+    summary: 12 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Bar Suzette Creperie
+icon: https://foursquare.com/img/categories/food/french.png
+url: https://foursquare.com/v/bar-suzette-creperie/4bcf265c77b29c7427768882
+date: 2013-05-07 12:41:13.000000000 -05:00
+
+---

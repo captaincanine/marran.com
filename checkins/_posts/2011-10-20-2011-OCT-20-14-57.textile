@@ -1,0 +1,72 @@
+---
+id: 4ea07d3729c201f5d09b555c
+createdAt: 1319140663
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a43a242f964a5209da61fe3
+  name: The Container Store
+  contact:
+    phone: '2123664200'
+    formattedPhone: (212) 366-4200
+    twitter: containerstore
+  location:
+    address: 629 6th Ave
+    crossStreet: at W 19th St.
+    lat: 40.740155440852014
+    lng: -73.99480512536556
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/the-container-store/4a43a242f964a5209da61fe3
+  categories:
+  - id: 4bf58dd8d48988d1f8941735
+    name: Furniture / Home Store
+    pluralName: Furniture / Home Stores
+    shortName: Furniture / Home
+    icon: https://foursquare.com/img/categories/shops/furniture.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 12908
+    usersCount: 7811
+    tipCount: 44
+  url: http://www.containerstore.com
+  likes:
+    count: 25
+    groups:
+    - type: others
+      count: 25
+      items: []
+    summary: 25 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: The Container Store
+icon: https://foursquare.com/img/categories/shops/furniture.png
+url: https://foursquare.com/v/the-container-store/4a43a242f964a5209da61fe3
+date: 2011-10-20 14:57:43.000000000 -05:00
+
+---

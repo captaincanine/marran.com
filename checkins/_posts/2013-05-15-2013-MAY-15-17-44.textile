@@ -1,0 +1,72 @@
+---
+id: 51940fbe498e2f9c8389b311
+createdAt: 1368657854
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 49d3d4a7f964a5201a5c1fe3
+  name: The Standard - High Line
+  contact:
+    phone: '2126454646'
+    formattedPhone: (212) 645-4646
+    twitter: standardny
+  location:
+    address: 848 Washington St
+    crossStreet: at W 13th St.
+    lat: 40.74088398082356
+    lng: -74.00765959043375
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/the-standard--high-line/49d3d4a7f964a5201a5c1fe3
+  categories:
+  - id: 4bf58dd8d48988d1fa931735
+    name: Hotel
+    pluralName: Hotels
+    shortName: Hotel
+    icon: https://foursquare.com/img/categories/travel/hotel.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 23829
+    usersCount: 14798
+    tipCount: 145
+  url: http://www.standardhotels.com/new-york-city
+  likes:
+    count: 115
+    groups:
+    - type: others
+      count: 115
+      items: []
+    summary: 115 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: The Standard - High Line
+icon: https://foursquare.com/img/categories/travel/hotel.png
+url: https://foursquare.com/v/the-standard--high-line/49d3d4a7f964a5201a5c1fe3
+date: 2013-05-15 17:44:14.000000000 -05:00
+
+---

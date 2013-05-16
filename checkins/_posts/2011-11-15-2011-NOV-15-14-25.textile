@@ -1,0 +1,76 @@
+---
+id: 4ec2bcb76c25adc5b2cd35c8
+createdAt: 1321385143
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a09e007f964a52065741fe3
+  name: Five Guys
+  contact:
+    phone: '2122286008'
+    formattedPhone: (212) 228-6008
+    twitter: five_guys
+  location:
+    address: 496 Laguardia Pl
+    crossStreet: at Houston St
+    lat: 40.727226245152764
+    lng: -73.99949669837952
+    postalCode: '10012'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/five-guys/4a09e007f964a52065741fe3
+  categories:
+  - id: 4bf58dd8d48988d16c941735
+    name: Burger Joint
+    pluralName: Burger Joints
+    shortName: Burgers
+    icon: https://foursquare.com/img/categories/food/burger.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 7718
+    usersCount: 5108
+    tipCount: 79
+  url: http://www.fiveguys.com
+  likes:
+    count: 21
+    groups:
+    - type: others
+      count: 21
+      items: []
+    summary: 21 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/five-guys/4a09e007f964a52065741fe3/menu
+    mobileUrl: https://foursquare.com/v/4a09e007f964a52065741fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Five Guys
+icon: https://foursquare.com/img/categories/food/burger.png
+url: https://foursquare.com/v/five-guys/4a09e007f964a52065741fe3
+date: 2011-11-15 14:25:43.000000000 -05:00
+
+---

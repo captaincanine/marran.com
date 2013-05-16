@@ -1,0 +1,54 @@
+---
+id: '790499637_10151742332114638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: Keith Marran was tagged in Geeks OUT's photo.
+picture: https://fbcdn-photos-e-a.akamaihd.net/hphotos-ak-ash3/734880_543530045681763_898017539_s.jpg
+link: http://www.facebook.com/photo.php?fbid=543530045681763&set=at.543529975681770.125686.157044360997002.790499637&type=1&relevant_count=1
+description: Keith Marran was tagged in Geeks OUT's photo.
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+actions:
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151742332114638
+privacy:
+  value: ''
+place:
+  id: '104192402978106'
+  name: The LGBT Center
+  location:
+    street: 208 West 13th Street
+    city: New York
+    state: NY
+    country: United States
+    zip: '10011'
+    latitude: 40.738080604098
+    longitude: -74.001167619757
+type: photo
+status_type: tagged_in_photo
+object_id: '543530045681763'
+application:
+  name: Photos
+  id: '2305272732'
+created_time: '2013-02-19T02:15:23+0000'
+updated_time: '2013-02-19T02:15:23+0000'
+likes:
+  data:
+  - name: Thomas Rogers
+    id: '538628386'
+  - name: Mike Dubisch
+    id: '563975682'
+  - name: Andrew Perez
+    id: '529289396'
+  count: 3
+layout: status-photo
+title: Monday, Feb 18, 2013 around 09:15PM
+link-info: Gay Geeks of New York and Geeks OUT teamed up to provide our members with
+  a fun and casual afternoon of board games. All photos courtesy of Mike Cho.
+images:
+- thumbnail: /statuses/photo/734880_543530045681763_898017539_n.jpg
+  fullsize: /statuses/photo/734880_543530045681763_898017539_n.jpg
+date: 2013-02-18 21:15:23.000000000 -05:00
+
+---
+Keith Marran was tagged in Geeks OUT's photo.

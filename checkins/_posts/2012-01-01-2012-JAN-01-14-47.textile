@@ -1,0 +1,78 @@
+---
+id: 4f00b85ebe7bbcd4f462300f
+createdAt: 1325447262
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 43ed7e9ef964a5204e2f1fe3
+  name: Rosa Mexicano
+  contact:
+    phone: '2125333350'
+    formattedPhone: (212) 533-3350
+    twitter: rosamexicano
+  location:
+    address: 9 E 18th St
+    crossStreet: at Broadway
+    lat: 40.738083740260244
+    lng: -73.99064004421234
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/rosa-mexicano/43ed7e9ef964a5204e2f1fe3
+  categories:
+  - id: 4bf58dd8d48988d1c1941735
+    name: Mexican Restaurant
+    pluralName: Mexican Restaurants
+    shortName: Mexican
+    icon: https://foursquare.com/img/categories/food/mexican.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 15769
+    usersCount: 11163
+    tipCount: 130
+  url: http://www.rosamexicano.com/Locations/NewYorkNYUnionSquare/tabid/97/Default.aspx
+  likes:
+    count: 33
+    groups:
+    - type: others
+      count: 33
+      items: []
+    summary: 33 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=4946&ref=9601
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/rosa-mexicano/43ed7e9ef964a5204e2f1fe3/menu
+    mobileUrl: https://foursquare.com/v/43ed7e9ef964a5204e2f1fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Rosa Mexicano
+icon: https://foursquare.com/img/categories/food/mexican.png
+url: https://foursquare.com/v/rosa-mexicano/43ed7e9ef964a5204e2f1fe3
+date: 2012-01-01 14:47:42.000000000 -05:00
+
+---

@@ -1,0 +1,71 @@
+---
+id: 4efb054d02d5abdcbe8008ef
+createdAt: 1325073741
+type: checkin
+timeZone: Europe/London
+timeZoneOffset: 0
+venue:
+  id: 4ac518cef964a520f5a520e3
+  name: St Paul's Cathedral
+  contact:
+    phone: '+442072468350'
+    formattedPhone: +44 20 7246 8350
+  location:
+    address: St. Paul's Church Yard
+    lat: 51.51368359725126
+    lng: -0.09943485260009766
+    postalCode: EC4M 8AD
+    city: London
+    state: Greater London
+    country: United Kingdom
+    cc: GB
+  canonicalUrl: https://foursquare.com/v/st-pauls-cathedral/4ac518cef964a520f5a520e3
+  categories:
+  - id: 4bf58dd8d48988d132941735
+    name: Church
+    pluralName: Churches
+    shortName: Church
+    icon: https://foursquare.com/img/categories/building/religious_church.png
+    parents:
+    - Professional & Other Places
+    - Spiritual Center
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 18376
+    usersCount: 13890
+    tipCount: 112
+  url: http://www.stpauls.co.uk
+  likes:
+    count: 103
+    groups:
+    - type: others
+      count: 103
+      items: []
+    summary: 103 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: St Paul's Cathedral
+icon: https://foursquare.com/img/categories/building/religious_church.png
+url: https://foursquare.com/v/st-pauls-cathedral/4ac518cef964a520f5a520e3
+date: 2011-12-28 07:02:21.000000000 -05:00
+
+---

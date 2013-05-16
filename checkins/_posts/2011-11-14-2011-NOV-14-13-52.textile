@@ -1,0 +1,81 @@
+---
+id: 4ec1636e5c5c3d470d6d4863
+createdAt: 1321296750
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4b4fd148f964a520881627e3
+  name: Duane Reade
+  contact:
+    phone: '2122432446'
+    formattedPhone: (212) 243-2446
+  location:
+    address: 77 7th Ave
+    crossStreet: at 14th St
+    lat: 40.73868123722328
+    lng: -73.9993679523468
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/duane-reade/4b4fd148f964a520881627e3
+  categories:
+  - id: 4bf58dd8d48988d10f951735
+    name: Drugstore / Pharmacy
+    pluralName: Drugstores / Pharmacies
+    shortName: Pharmacy
+    icon: https://foursquare.com/img/categories/shops/drugstore.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 2210
+    usersCount: 949
+    tipCount: 2
+  url: http://www.walgreens.com/locator/Duane-Reade-77-7TH-AVE-NEW-YORK-NY-10011/id=14260
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '5051636'
+        firstName: Alysha
+        lastName: R.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/4TFAWTB1QKF1X3JV.jpg
+        tips:
+          count: 3
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+    summary: Alysha R
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Duane Reade
+icon: https://foursquare.com/img/categories/shops/drugstore.png
+url: https://foursquare.com/v/duane-reade/4b4fd148f964a520881627e3
+date: 2011-11-14 13:52:30.000000000 -05:00
+
+---

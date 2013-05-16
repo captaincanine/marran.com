@@ -1,0 +1,71 @@
+---
+id: 518d268e498e5f9627d7cd23
+createdAt: 1368204942
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4b89fb5df964a5200d5a32e3
+  name: Miami International Airport (MIA)
+  contact:
+    phone: '3058767077'
+    formattedPhone: (305) 876-7077
+  location:
+    address: 2100 NW 42nd Ave
+    crossStreet: at NW 21st St
+    lat: 25.794984114780963
+    lng: -80.27576923370361
+    postalCode: '33142'
+    city: Miami
+    state: FL
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/miami-international-airport-mia/4b89fb5df964a5200d5a32e3
+  categories:
+  - id: 4bf58dd8d48988d1ed931735
+    name: Airport
+    pluralName: Airports
+    shortName: Airport
+    icon: https://foursquare.com/img/categories/travel/airport.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 359358
+    usersCount: 144725
+    tipCount: 1370
+  url: http://www.miami-airport.com
+  likes:
+    count: 588
+    groups:
+    - type: others
+      count: 588
+      items: []
+    summary: 588 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 1
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Miami International Airport (MIA)
+icon: https://foursquare.com/img/categories/travel/airport.png
+url: https://foursquare.com/v/miami-international-airport-mia/4b89fb5df964a5200d5a32e3
+date: 2013-05-10 11:55:42.000000000 -05:00
+
+---

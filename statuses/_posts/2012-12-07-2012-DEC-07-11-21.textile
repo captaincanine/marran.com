@@ -1,99 +1,132 @@
---- 
-id: 790499637_181205475352646
-from: 
+---
+id: '790499637_181205475352646'
+from:
   name: Keith Marran
-  id: "790499637"
-message: "I was near-enraged by this news. Then I heard that Guillermo himself has been trying to make it happen and I thought \"well...maybe\". Then I heard that Paul Williams is involved. Bring it.  "
-picture: http://external.ak.fbcdn.net/safe_image.php?d=AQAyVDALExPjTBkc&w=90&h=90&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F187m9pxyzk7w1jpg%2Ffb.jpg
+  id: '790499637'
+message: ! 'I was near-enraged by this news. Then I heard that Guillermo himself has
+  been trying to make it happen and I thought "well...maybe". Then I heard that Paul
+  Williams is involved. Bring it.  '
+picture: https://fbexternal-a.akamaihd.net/safe_image.php?d=AQAQ2wfWBInGo5jx&w=154&h=154&url=http%3A%2F%2Fimg.gawkerassets.com%2Fimg%2F187m9pxyzk7w1jpg%2Ffb.jpg
 link: http://io9.com/5966524/pans-labyrinth-is-gonna-be-a-musical
 name: Pan's Labyrinth Is Gonna Be a Musical
 caption: io9.com
-description: "I was near-enraged by this news. Then I heard that Guillermo himself has been trying to make it happen and I thought \"well...maybe\". Then I heard that Paul Williams is involved. Bring it.  "
-icon: http://static.ak.fbcdn.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
-actions: 
+description: ! 'I was near-enraged by this news. Then I heard that Guillermo himself
+  has been trying to make it happen and I thought "well...maybe". Then I heard that
+  Paul Williams is involved. Bring it.  '
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions:
 - name: Comment
   link: http://www.facebook.com/790499637/posts/181205475352646
 - name: Like
   link: http://www.facebook.com/790499637/posts/181205475352646
-privacy: 
-  description: "Friends; Except: Family"
+privacy:
+  description: ! 'Friends; Except: Family'
   value: CUSTOM
   friends: ALL_FRIENDS
-  networks: ""
-  allow: ""
-  deny: "116609519637"
+  networks: ''
+  allow: ''
+  deny: '116609519637'
 type: link
 status_type: shared_story
-application: 
+application:
   name: Share_bookmarklet
-  id: "5085647995"
-created_time: 2012-12-07T16:21:41+0000
-updated_time: 2012-12-07T17:11:28+0000
-likes: 
-  data: 
+  id: '5085647995'
+created_time: '2012-12-07T16:21:41+0000'
+updated_time: '2012-12-07T17:11:28+0000'
+likes:
+  data:
   - name: Gregory Seta
-    id: "100002115994439"
+    id: '100002115994439'
   - name: Thomas Rogers
-    id: "538628386"
+    id: '538628386'
   - name: Rob Velasco
-    id: "1631202087"
+    id: '1631202087'
   count: 3
-comments: 
-  data: 
-  - id: 790499637_181205475352646_584861
-    from: 
+comments:
+  data:
+  - id: '181205475352646_584861'
+    from:
       name: Rob Velasco
-      id: "1631202087"
+      id: '1631202087'
     message: Lets go see it!
-    created_time: 2012-12-07T16:25:39+0000
-  - id: 790499637_181205475352646_584868
-    from: 
+    can_remove: true
+    created_time: '2012-12-07T16:25:39+0000'
+    like_count: 0
+    user_likes: false
+  - id: '181205475352646_584868'
+    from:
       name: Peter Von Brown
-      id: "1128953787"
+      id: '1128953787'
     message: oh GOOD LORD.  WHY????
-    created_time: 2012-12-07T16:28:33+0000
-  - id: 790499637_181205475352646_584872
-    from: 
+    can_remove: true
+    created_time: '2012-12-07T16:28:33+0000'
+    like_count: 0
+    user_likes: false
+  - id: '181205475352646_584872'
+    from:
       name: Tim Paul
-      id: "649587941"
+      id: '649587941'
     message: near enraged?
-    created_time: 2012-12-07T16:31:18+0000
-  - id: 790499637_181205475352646_584874
-    from: 
+    can_remove: true
+    created_time: '2012-12-07T16:31:18+0000'
+    like_count: 0
+    user_likes: false
+  - id: '181205475352646_584874'
+    from:
       name: Jamie Fay
-      id: "1176446774"
+      id: '1176446774'
     message: it could be cool!!!
-    created_time: 2012-12-07T16:31:35+0000
-  - id: 790499637_181205475352646_584876
-    from: 
+    can_remove: true
+    created_time: '2012-12-07T16:31:35+0000'
+    like_count: 0
+    user_likes: false
+  - id: '181205475352646_584876'
+    from:
       name: Jamie Fay
-      id: "1176446774"
+      id: '1176446774'
     message: as long as it is in english or have a screen with subtitles lol
-    created_time: 2012-12-07T16:32:02+0000
-  - id: 790499637_181205475352646_584879
-    from: 
+    can_remove: true
+    created_time: '2012-12-07T16:32:02+0000'
+    like_count: 0
+    user_likes: false
+  - id: '181205475352646_584879'
+    from:
       name: Peter Von Brown
-      id: "1128953787"
-    message: Tim - Me?  Yes.  Not everything has to be a musical.  Make an ORIGINAL one, like "The Drowsy Chaperone" - one of the best, too.
-    created_time: 2012-12-07T16:32:24+0000
-  - id: 790499637_181205475352646_584887
-    from: 
+      id: '1128953787'
+    message: Tim - Me?  Yes.  Not everything has to be a musical.  Make an ORIGINAL
+      one, like "The Drowsy Chaperone" - one of the best, too.
+    can_remove: true
+    created_time: '2012-12-07T16:32:24+0000'
+    like_count: 0
+    user_likes: false
+  - id: '181205475352646_584887'
+    from:
       name: Tim Paul
-      id: "649587941"
+      id: '649587941'
     message: I'm stepping away to the other side of the internet
-    created_time: 2012-12-07T16:33:29+0000
-  - id: 790499637_181205475352646_584936
-    from: 
+    can_remove: true
+    created_time: '2012-12-07T16:33:29+0000'
+    like_count: 0
+    user_likes: false
+  - id: '181205475352646_584936'
+    from:
       name: Gregory Seta
-      id: "100002115994439"
+      id: '100002115994439'
     message: They should get a restraining order against Julie Taymor. Just in case.
-    created_time: 2012-12-07T17:11:28+0000
-    likes: 2
-  count: 8
+    can_remove: true
+    created_time: '2012-12-07T17:11:28+0000'
+    like_count: 2
+    user_likes: false
+  paging:
+    cursors:
+      after: OA==
+      before: MQ==
 layout: status-link
 title: Friday, Dec  7, 2012 around 11:21AM
-link-info: If you've seen Guillermo del Toro's Oscar-winning dark fairy tale flick Pan's Labyrinth, you were probably thinking to yourself, "Man, you know what would make this movie great?
-date: 2012-12-07 11:21:41 -05:00
+link-info: If you've seen Guillermo del Toro's Oscar-winning dark fairy tale flick
+  Pan's Labyrinth, you were probably thinking to yourself, "Man, you know what would
+  make this movie great?
+date: 2012-12-07 11:21:41.000000000 -05:00
 
 ---
 I was near-enraged by this news. Then I heard that Guillermo himself has been trying to make it happen and I thought "well...maybe". Then I heard that Paul Williams is involved. Bring it.  

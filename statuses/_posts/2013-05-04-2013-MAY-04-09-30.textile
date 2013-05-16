@@ -1,0 +1,135 @@
+---
+id: '790499637_10151898701584638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: How does one tell the difference between getting a cold and getting severe
+  allergies? I keep thinking I have a cold - but it doesn't quite feel like a cold.
+  But I've never had allergies this severe before.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151898701584638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151898701584638
+privacy:
+  description: Public
+  value: EVERYONE
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+created_time: '2013-05-04T14:30:23+0000'
+updated_time: '2013-05-05T03:39:43+0000'
+likes:
+  data:
+  - name: Matthew Levine
+    id: '672213367'
+  - name: Noah Fecks
+    id: '608492513'
+  count: 2
+comments:
+  data:
+  - id: '10151898701584638_31887580'
+    from:
+      name: Eileen O'Donnell
+      id: '667235678'
+    message: A lot of times, bad allergies can turn into a sinus infection.  I always
+      used to judge by color, but my doc said that's not always the case.  I still
+      haven't found a good answer.
+    can_remove: true
+    created_time: '2013-05-04T14:54:56+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151898701584638_31887586'
+    from:
+      name: Thomas Rogers
+      id: '538628386'
+    message: The tree pollen is ridiculous this year, especially the last few days.
+    can_remove: true
+    created_time: '2013-05-04T14:55:20+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151898701584638_31887664'
+    from:
+      name: John F. Duckett
+      id: '567340649'
+    message: I agree with Tommy. This season has been particularly rough for me.
+    can_remove: true
+    created_time: '2013-05-04T15:02:42+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151898701584638_31887667'
+    from:
+      name: Jono Jarrett
+      id: '1343303598'
+    message: I'm feeling it, too.
+    can_remove: true
+    created_time: '2013-05-04T15:02:53+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151898701584638_31888021'
+    from:
+      name: Renee Kent
+      id: '531319519'
+    message: Allergies should come and go as you are in the presence and leave the
+      presence of the allergen. Are your symptoms alleviated indoors with good air
+      filtration?  Etc
+    can_remove: true
+    created_time: '2013-05-04T15:28:54+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151898701584638_31888132'
+    from:
+      name: Noah Fecks
+      id: '608492513'
+    message: Allergies... Really bad this year :(
+    can_remove: true
+    created_time: '2013-05-04T15:34:00+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151898701584638_31890949'
+    from:
+      name: Ben Mims
+      id: '26502264'
+    message: Yep, it's allergies...if you're nose is congested and you feel like you're
+      going to die, BUT your head isn't throbbing with fever, then it's just allergies
+      :(
+    can_remove: true
+    created_time: '2013-05-04T19:15:48+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151898701584638_31891340'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Yep. Every time I walk outside my throat gets scratchy, my sinuses clog
+      up, and I feel like someone beat me with a stupid stick. Great. Welcome to adult
+      allergies.
+    can_remove: true
+    created_time: '2013-05-04T19:50:33+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151898701584638_31896602'
+    from:
+      name: Grace Marran
+      id: '1637705657'
+    message: Bummer sorry Keith everyone herer in YC CA is suffering from the same
+      thing...it's turning into sinus infections and other stuff.  The wind we've
+      been having is not fun, breaking record heats that go back to the 60's.  Hasn't
+      been fun...feel for you.
+    can_remove: true
+    created_time: '2013-05-05T03:39:43+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: OQ==
+      before: MQ==
+layout: status
+title: Saturday, May  4, 2013 around 09:30AM
+date: 2013-05-04 09:30:23.000000000 -05:00
+
+---
+How does one tell the difference between getting a cold and getting severe allergies? I keep thinking I have a cold - but it doesn't quite feel like a cold. But I've never had allergies this severe before.

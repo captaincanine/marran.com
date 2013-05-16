@@ -202,6 +202,8 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; -webkit-font-smoothin
 
   }
   
+  .header     { background: @cyan; }
+  
 }
 
 #search-results {
@@ -275,6 +277,18 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; -webkit-font-smoothin
   
 }
 
+.statuses {
+
+  .title  {
+  
+    color: @grayLight;
+    font-size: 18px;
+    line-height: 21px; 
+  
+  }
+
+}
+
 .status {
 
   h3    { color: @orange; font-size: 18px; }
@@ -319,6 +333,27 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; -webkit-font-smoothin
       font-size: 12px;
     }
   
+  }
+
+}
+
+.mapping img           { max-width: none; }
+
+#main .mapping .map-canvas   { height: 300px; }
+#main .mapping .map-point    { display: none; }
+
+.map-highlight a  { font-weight: bold; }
+
+#checkins {
+  
+  margin: 1em 0 2em;
+
+  &.mapping {
+
+    .map-canvas   { height: 200px; margin-bottom: 1em; }
+    .map-point    { font-size: 12px; line-height: 16px; margin: 1em 0; }
+    .timestamp    { font-size: 11px; color: @grayLight; }
+
   }
 
 }
@@ -450,3 +485,4 @@ h2,h3   { font-family: @displayFontFamily; color: @maroon; -webkit-font-smoothin
 }
 
 .read-more    { margin-top: 6px; }
+.redacted     { text-transform: uppercase; }

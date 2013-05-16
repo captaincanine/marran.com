@@ -1,0 +1,70 @@
+---
+id: 4f04776bc512408c65ad2237
+createdAt: 1325692779
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a58e605f964a52021b81fe3
+  name: West Village Veterinary Hospital
+  contact:
+    phone: '2126337400'
+    formattedPhone: (212) 633-7400
+    twitter: westvillagevets
+    facebook: '144103092267866'
+  location:
+    address: 75 8th Ave
+    crossStreet: Near Corner of 14th Street and 8th Ave
+    lat: 40.739491
+    lng: -74.002635
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/west-village-veterinary-hospital/4a58e605f964a52021b81fe3
+  categories:
+  - id: 4d954af4a243a5684765b473
+    name: Veterinarian
+    pluralName: Veterinarians
+    shortName: Veterinarians
+    icon: https://foursquare.com/img/categories/building/medical.png
+    parents:
+    - Professional & Other Places
+    - Medical Center
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 422
+    usersCount: 165
+    tipCount: 3
+  url: http://westvillagevets.com
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: West Village Veterinary Hospital
+icon: https://foursquare.com/img/categories/building/medical.png
+url: https://foursquare.com/v/west-village-veterinary-hospital/4a58e605f964a52021b81fe3
+date: 2012-01-04 10:59:39.000000000 -05:00
+
+---

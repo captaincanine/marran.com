@@ -1,0 +1,68 @@
+---
+id: 4e73b1ef8998f94a586b51e6
+createdAt: 1316205039
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a45652cf964a52021a81fe3
+  name: Terminal 7
+  contact: {}
+  location:
+    address: John F. Kennedy International Airport
+    lat: 40.649257213175055
+    lng: -73.78267765045166
+    postalCode: '11430'
+    city: Jamaica
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/terminal-7/4a45652cf964a52021a81fe3
+  categories:
+  - id: 4bf58dd8d48988d1eb931735
+    name: Airport Terminal
+    pluralName: Airport Terminals
+    shortName: Terminal
+    icon: https://foursquare.com/img/categories/travel/airport_terminal.png
+    parents:
+    - Travel & Transport
+    - Airport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 29745
+    usersCount: 18641
+    tipCount: 113
+  likes:
+    count: 19
+    groups:
+    - type: others
+      count: 19
+      items: []
+    summary: 19 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Terminal 7
+icon: https://foursquare.com/img/categories/travel/airport_terminal.png
+url: https://foursquare.com/v/terminal-7/4a45652cf964a52021a81fe3
+date: 2011-09-16 15:30:39.000000000 -05:00
+
+---

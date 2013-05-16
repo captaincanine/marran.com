@@ -1,0 +1,28 @@
+---
+id: '790499637_10151800801809638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: ! '"I would try Beckenstein''s in..." on Daniel Nieciecki''s status.'
+story_tags:
+  '37':
+  - id: '1601484858'
+    name: Daniel Nieciecki
+    offset: 37
+    length: 16
+    type: user
+privacy:
+  value: ''
+type: status
+application:
+  name: Facebook for iPhone
+  namespace: fbiphone
+  id: '6628568379'
+created_time: '2013-03-15T01:25:04+0000'
+updated_time: '2013-03-15T01:25:04+0000'
+layout: status
+title: Thursday, Mar 14, 2013 around 08:25PM
+date: 2013-03-14 20:25:04.000000000 -05:00
+
+---
+"I would try Beckenstein's in..." on Daniel Nieciecki's status.

@@ -1,0 +1,70 @@
+---
+id: 518f8649498e7c52c83ad3c8
+createdAt: 1368360521
+type: checkin
+timeZone: America/Bogota
+timeZoneOffset: -300
+venue:
+  id: 4bcf5cbf0ffdce72a166b2c0
+  name: Hilton Cartagena
+  contact:
+    phone: '+5756650660'
+    formattedPhone: +57 5 6650660
+  location:
+    address: Avenida Almirante Brion, El Laguito
+    crossStreet: El Laguito
+    lat: 10.394066
+    lng: -75.559255
+    postalCode: '130001'
+    city: Cartagena
+    state: Bolívar
+    country: Colombia
+    cc: CO
+  canonicalUrl: https://foursquare.com/v/hilton-cartagena/4bcf5cbf0ffdce72a166b2c0
+  categories:
+  - id: 4bf58dd8d48988d1fa931735
+    name: Hotel
+    pluralName: Hotels
+    shortName: Hotel
+    icon: https://foursquare.com/img/categories/travel/hotel.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1660
+    usersCount: 892
+    tipCount: 19
+  likes:
+    count: 15
+    groups:
+    - type: others
+      count: 15
+      items: []
+    summary: 15 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Hilton Cartagena
+icon: https://foursquare.com/img/categories/travel/hotel.png
+url: https://foursquare.com/v/hilton-cartagena/4bcf5cbf0ffdce72a166b2c0
+date: 2013-05-12 07:08:41.000000000 -05:00
+
+---

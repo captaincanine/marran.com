@@ -1,0 +1,76 @@
+---
+id: 4f073c54e4b0540ca0d3d386
+createdAt: 1325874260
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 44522a64f964a520a8321fe3
+  name: Dirty Bird to Go
+  contact:
+    phone: '2126204836'
+    formattedPhone: (212) 620-4836
+    twitter: dirtybirdtogo
+  location:
+    address: 204 W 14th St
+    crossStreet: at 7th Ave.
+    lat: 40.73891709652379
+    lng: -74.0003429806233
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/dirty-bird-to-go/44522a64f964a520a8321fe3
+  categories:
+  - id: 4d4ae6fc7a7b7dea34424761
+    name: Fried Chicken Joint
+    pluralName: Fried Chicken Joints
+    shortName: Fried Chicken
+    icon: https://foursquare.com/img/categories/food/friedchicken.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 3997
+    usersCount: 1778
+    tipCount: 46
+  url: http://www.dirtybirdtogo.com
+  likes:
+    count: 27
+    groups:
+    - type: others
+      count: 27
+      items: []
+    summary: 27 likes
+  like: false
+  menu:
+    type: foodAndBeverage
+    url: https://foursquare.com/v/dirty-bird-to-go/44522a64f964a520a8321fe3/menu
+    mobileUrl: https://foursquare.com/v/44522a64f964a520a8321fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Dirty Bird to Go
+icon: https://foursquare.com/img/categories/food/friedchicken.png
+url: https://foursquare.com/v/dirty-bird-to-go/44522a64f964a520a8321fe3
+date: 2012-01-06 13:24:20.000000000 -05:00
+
+---

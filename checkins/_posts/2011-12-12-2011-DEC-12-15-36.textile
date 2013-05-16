@@ -1,0 +1,130 @@
+---
+id: 4ee665df61aff5a3439e6871
+createdAt: 1323722207
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4c6f6888d97fa1434428f3ca
+  name: Rocky's Pizza Restaurant
+  contact:
+    phone: '2122423345'
+    formattedPhone: (212) 242-3345
+  location:
+    address: 304 W 14th St
+    crossStreet: btwn 8th & 9th Ave.
+    lat: 40.740168091266746
+    lng: -74.00289091413408
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/rockys-pizza-restaurant/4c6f6888d97fa1434428f3ca
+  categories:
+  - id: 4bf58dd8d48988d1ca941735
+    name: Pizza Place
+    pluralName: Pizza Places
+    shortName: Pizza
+    icon: https://foursquare.com/img/categories/food/pizza.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1497
+    usersCount: 1000
+    tipCount: 23
+  likes:
+    count: 9
+    groups:
+    - type: others
+      count: 9
+      items:
+      - id: '21035089'
+        firstName: Charles
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/FMDQ4FDR3YFBLN4J.jpg
+        tips:
+          count: 7
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: cjstark
+      - id: '44880102'
+        firstName: Rob
+        lastName: C.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/J0W45BJCZPW4BBJC.jpg
+        tips:
+          count: 6
+        homeCity: Corona, NY
+        bio: FDNY EMT
+        contact:
+          twitter: cowboyrobc
+          facebook: '631938565'
+      - id: '5482469'
+        firstName: Jared
+        lastName: H.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/YFNQ4FPNZGXBRWB2.jpg
+        tips:
+          count: 59
+        lists:
+          groups:
+          - type: created
+            count: 20
+            items: []
+        homeCity: New York
+        bio: ''
+        contact: {}
+      - id: '1739232'
+        firstName: Jaro
+        lastName: G.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/S0IZ4TMSCOXMBZDU.jpg
+        tips:
+          count: 81
+        lists:
+          groups:
+          - type: created
+            count: 6
+            items: []
+        homeCity: New York, New York
+        bio: ''
+        contact:
+          twitter: jarog4
+          facebook: '4500972'
+    summary: Charles S, Rob C, Jared H & 6 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Rocky's Pizza Restaurant
+icon: https://foursquare.com/img/categories/food/pizza.png
+url: https://foursquare.com/v/rockys-pizza-restaurant/4c6f6888d97fa1434428f3ca
+date: 2011-12-12 15:36:47.000000000 -05:00
+
+---

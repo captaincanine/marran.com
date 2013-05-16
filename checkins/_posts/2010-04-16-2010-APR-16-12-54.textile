@@ -1,0 +1,70 @@
+---
+id: 4bc8a457a4de2f5e1dd30bbd
+createdAt: 1271440471
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a63bfb4f964a520b3c51fe3
+  name: Chola Eclectic Indian Cuisine
+  contact:
+    phone: '2126884619'
+    formattedPhone: (212) 688-4619
+  location:
+    address: 232 E 58th St
+    crossStreet: btw 2nd & 3rd Ave
+    lat: 40.76033249623784
+    lng: -73.96586221134632
+    postalCode: '10022'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/chola-eclectic-indian-cuisine/4a63bfb4f964a520b3c51fe3
+  categories:
+  - id: 4bf58dd8d48988d10f941735
+    name: Indian Restaurant
+    pluralName: Indian Restaurants
+    shortName: Indian
+    icon: https://foursquare.com/img/categories/food/indian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1562
+    usersCount: 1164
+    tipCount: 23
+  url: http://cholany.com
+  likes:
+    count: 11
+    groups:
+    - type: others
+      count: 11
+      items: []
+    summary: 11 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=11797&ref=9601
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+title: Chola Eclectic Indian Cuisine
+icon: https://foursquare.com/img/categories/food/indian.png
+url: https://foursquare.com/v/chola-eclectic-indian-cuisine/4a63bfb4f964a520b3c51fe3
+date: 2010-04-16 12:54:31.000000000 -05:00
+
+---

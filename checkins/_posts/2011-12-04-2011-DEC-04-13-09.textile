@@ -1,0 +1,72 @@
+---
+id: 4edbb74b46907c1b443968d7
+createdAt: 1323022155
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 41390580f964a520dc1a1fe3
+  name: Chelsea Market
+  contact:
+    phone: '2122436005'
+    formattedPhone: (212) 243-6005
+    twitter: chelseatweeter
+  location:
+    address: 75 9th Ave
+    crossStreet: btwn 15th & 16th St
+    lat: 40.742005149125774
+    lng: -74.00481905749147
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/chelsea-market/41390580f964a520dc1a1fe3
+  categories:
+  - id: 50be8ee891d4fa8dcc7199a7
+    name: Market
+    pluralName: Markets
+    shortName: Market
+    icon: https://foursquare.com/img/categories/shops/default.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 84952
+    usersCount: 42454
+    tipCount: 338
+  url: http://chelseamarket.com
+  likes:
+    count: 361
+    groups:
+    - type: others
+      count: 361
+      items: []
+    summary: 361 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Chelsea Market
+icon: https://foursquare.com/img/categories/shops/default.png
+url: https://foursquare.com/v/chelsea-market/41390580f964a520dc1a1fe3
+date: 2011-12-04 13:09:15.000000000 -05:00
+
+---

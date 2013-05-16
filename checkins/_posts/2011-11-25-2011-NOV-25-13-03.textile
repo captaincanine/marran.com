@@ -1,0 +1,71 @@
+---
+id: 4ecfd871e5faa5ec021d1ebc
+createdAt: 1322244209
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -300
+venue:
+  id: 4a09f665f964a52077741fe3
+  name: Central Park Zoo
+  contact:
+    phone: '2124396500'
+    formattedPhone: (212) 439-6500
+    twitter: centralparknyc
+  location:
+    address: 5 Avenue a
+    crossStreet: btwn 59th & 65th St
+    lat: 40.76744416223376
+    lng: -73.97193431854248
+    postalCode: '10009'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/central-park-zoo/4a09f665f964a52077741fe3
+  categories:
+  - id: 4bf58dd8d48988d17b941735
+    name: Zoo
+    pluralName: Zoos
+    shortName: Zoo
+    icon: https://foursquare.com/img/categories/arts_entertainment/zoo.png
+    parents:
+    - Arts & Entertainment
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 21075
+    usersCount: 17652
+    tipCount: 98
+  likes:
+    count: 132
+    groups:
+    - type: others
+      count: 132
+      items: []
+    summary: 132 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Central Park Zoo
+icon: https://foursquare.com/img/categories/arts_entertainment/zoo.png
+url: https://foursquare.com/v/central-park-zoo/4a09f665f964a52077741fe3
+date: 2011-11-25 13:03:29.000000000 -05:00
+
+---

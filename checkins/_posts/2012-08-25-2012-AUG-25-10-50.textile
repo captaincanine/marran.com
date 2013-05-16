@@ -1,0 +1,93 @@
+---
+id: 5038f450e4b03509a9a55133
+createdAt: 1345909840
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4be5c9092457a593fc00ac15
+  name: ABC Carpet & Home
+  contact:
+    phone: '7188428772'
+    formattedPhone: (718) 842-8772
+  location:
+    address: 1055 Bronx River Ave
+    crossStreet: btwn Bruckner & Watson
+    lat: 40.82495502198855
+    lng: -73.88342893963231
+    postalCode: '10472'
+    city: Bronx
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/abc-carpet--home/4be5c9092457a593fc00ac15
+  categories:
+  - id: 4bf58dd8d48988d1f8941735
+    name: Furniture / Home Store
+    pluralName: Furniture / Home Stores
+    shortName: Furniture / Home
+    icon: https://foursquare.com/img/categories/shops/furniture.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 439
+    usersCount: 350
+    tipCount: 3
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '1944997'
+        firstName: Michael
+        lastName: Y.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/J3GXBGSIGDTIPP33.jpg
+        tips:
+          count: 0
+        homeCity: Astoria, NY
+        bio: ''
+        contact:
+          facebook: '521747075'
+      - id: '397769'
+        firstName: Robert
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/PMQDNJ4URGB45ZFO.jpg
+        tips:
+          count: 11
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: jalapenos
+          facebook: '527221784'
+    summary: Michael Y & Robert S
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: ABC Carpet & Home
+icon: https://foursquare.com/img/categories/shops/furniture.png
+url: https://foursquare.com/v/abc-carpet--home/4be5c9092457a593fc00ac15
+date: 2012-08-25 10:50:40.000000000 -05:00
+
+---

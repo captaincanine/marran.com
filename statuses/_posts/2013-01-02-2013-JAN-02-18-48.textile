@@ -1,0 +1,30 @@
+---
+id: '790499637_10151614302669638'
+from:
+  name: Keith Marran
+  id: '790499637'
+picture: http://external.ak.fbcdn.net/safe_image.php?d=AQCcysdcmTslsPAg&w=200&h=200&url=http%3A%2F%2Fwww.theawl.com%2Fwp-content%2Fuploads%2F2012%2F12%2FScreen-Shot-2012-12-23-at-2.22.44-PM-e1356290673116.jpg&crop
+link: http://www.theawl.com/2012/12/dont-stop-running
+name: Don't Stop Running
+description: 
+privacy:
+  value: ''
+type: link
+application:
+  name: Likes
+  namespace: likes
+  id: '193048140809145'
+created_time: '2013-01-02T23:48:02+0000'
+updated_time: '2013-01-02T23:48:02+0000'
+comments:
+  count: 0
+layout: status-link
+title: Wednesday, Jan  2, 2013 around 06:48PM
+link-info: I have never been a physically daring man. I'm afraid of heights such that
+  my palms begin to sweat when I go up high flights of stairs in shopping malls. I'm
+  awful at skiing, made slow and hesitant by an unyielding and morbid fear that I
+  will propel into a tree or somehow shatter my [...]
+date: 2013-01-02 18:48:02.000000000 -05:00
+
+---
+
