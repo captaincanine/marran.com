@@ -13,7 +13,7 @@ venue:
   location:
     address: 100 W 26th St
     crossStreet: 6th Ave
-    lat: 40.74335225558528
+    lat: 40.74298754248774
     lng: -73.9934105935882
     postalCode: 10001-6840
     city: New York
@@ -25,15 +25,15 @@ venue:
   - id: 4bf58dd8d48988d10a951735
     name: Bank
     pluralName: Banks
-    shortName: Bank / Financial
+    shortName: Bank
     icon: https://foursquare.com/img/categories/shops/financial.png
     parents:
     - Shop & Service
     primary: true
   verified: false
   stats:
-    checkinsCount: 14
-    usersCount: 11
+    checkinsCount: 15
+    usersCount: 12
     tipCount: 0
   likes:
     count: 0

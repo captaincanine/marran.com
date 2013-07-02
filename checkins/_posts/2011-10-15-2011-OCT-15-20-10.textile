@@ -33,21 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 18763
-    usersCount: 6783
-    tipCount: 57
+    checkinsCount: 19543
+    usersCount: 7011
+    tipCount: 58
   url: http://www.facebook.com/ritznewyork
   likes:
-    count: 31
+    count: 39
     groups:
     - type: others
-      count: 31
+      count: 39
       items: []
-    summary: 31 likes
+    summary: 39 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

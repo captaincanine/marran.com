@@ -30,17 +30,17 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 248734
-    usersCount: 98880
-    tipCount: 1027
+    checkinsCount: 267466
+    usersCount: 105549
+    tipCount: 1105
   url: http://www.hongkongairport.com
   likes:
-    count: 582
+    count: 753
     groups:
     - type: others
-      count: 582
+      count: 753
       items: []
-    summary: 582 likes
+    summary: 753 likes
   like: false
   beenHere:
     count: 1

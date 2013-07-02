@@ -13,8 +13,8 @@ venue:
   location:
     address: 260 W 23rd St
     crossStreet: at 8th Ave
-    lat: 40.74483736928336
-    lng: -73.9981565511928
+    lat: 40.74481865195732
+    lng: -73.99804751600102
     postalCode: '10011'
     city: New York
     state: NY
@@ -32,16 +32,16 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 29605
-    usersCount: 14372
-    tipCount: 109
+    checkinsCount: 30857
+    usersCount: 14839
+    tipCount: 113
   likes:
-    count: 85
+    count: 97
     groups:
     - type: others
-      count: 85
+      count: 97
       items: []
-    summary: 85 likes
+    summary: 97 likes
   like: false
   beenHere:
     count: 4
@@ -49,9 +49,6 @@ venue:
 event:
   id: 4ec48f74239cdd47ef7044d0
   name: Hugo Cabret 3D
-  foreignIds:
-    count: 0
-    items: []
   categories:
   - id: 4dfb90c6bd413dd705e8f897
     name: Movie

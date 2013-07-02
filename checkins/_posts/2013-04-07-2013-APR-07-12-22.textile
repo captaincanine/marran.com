@@ -44,14 +44,15 @@ venue:
         gender: male
         photo: https://is1.4sqi.net/userpix_thumbs/RIQB1D5OA1EKM5S5.jpg
         tips:
-          count: 87
+          count: 88
         lists:
           groups:
           - type: created
-            count: 19
+            count: 22
             items: []
         homeCity: New York, NY
-        bio: ''
+        bio: ! "Illustrator + graphic designer at large.\r\nWeb: zheik-one.com\r\ninstagram
+          @zheikone"
         contact:
           twitter: henrywng
           facebook: '777517497'

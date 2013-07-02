@@ -32,76 +32,16 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 1497
-    usersCount: 1000
+    checkinsCount: 1607
+    usersCount: 1064
     tipCount: 23
   likes:
-    count: 9
+    count: 14
     groups:
     - type: others
-      count: 9
-      items:
-      - id: '21035089'
-        firstName: Charles
-        lastName: S.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/FMDQ4FDR3YFBLN4J.jpg
-        tips:
-          count: 7
-        lists:
-          groups:
-          - type: created
-            count: 2
-            items: []
-        homeCity: New York, NY
-        bio: ''
-        contact:
-          twitter: cjstark
-      - id: '44880102'
-        firstName: Rob
-        lastName: C.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/J0W45BJCZPW4BBJC.jpg
-        tips:
-          count: 6
-        homeCity: Corona, NY
-        bio: FDNY EMT
-        contact:
-          twitter: cowboyrobc
-          facebook: '631938565'
-      - id: '5482469'
-        firstName: Jared
-        lastName: H.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/YFNQ4FPNZGXBRWB2.jpg
-        tips:
-          count: 59
-        lists:
-          groups:
-          - type: created
-            count: 20
-            items: []
-        homeCity: New York
-        bio: ''
-        contact: {}
-      - id: '1739232'
-        firstName: Jaro
-        lastName: G.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/S0IZ4TMSCOXMBZDU.jpg
-        tips:
-          count: 81
-        lists:
-          groups:
-          - type: created
-            count: 6
-            items: []
-        homeCity: New York, New York
-        bio: ''
-        contact:
-          twitter: jarog4
-          facebook: '4500972'
-    summary: Charles S, Rob C, Jared H & 6 others
+      count: 14
+      items: []
+    summary: 14 likes
   like: false
   beenHere:
     count: 1

@@ -34,21 +34,24 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 2848
-    usersCount: 2167
-    tipCount: 43
+    checkinsCount: 2977
+    usersCount: 2259
+    tipCount: 44
+  url: http://www.fourseasonsrestaurant.com/images/menu/PDFs/Four-Seasons-Pool-Dinner.pdf
   likes:
-    count: 15
+    count: 21
     groups:
     - type: others
-      count: 15
+      count: 21
       items: []
-    summary: 15 likes
+    summary: 21 likes
   like: false
   reservations:
-    url: http://www.opentable.com/single.aspx?rid=57400&ref=9601
+    url: http://www.opentable.com/single.aspx?rid=14749&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/the-four-seasons-restaurant/4b3aa437f964a520bf6b25e3/menu
     mobileUrl: https://foursquare.com/v/4b3aa437f964a520bf6b25e3/device_menu
   beenHere:

@@ -1,0 +1,80 @@
+---
+id: 519fff4e498ec461c3c59d3e
+createdAt: 1369440078
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4d59e9e1c88da1cd92803f68
+  name: Junoon
+  contact:
+    phone: '2124902100'
+    formattedPhone: (212) 490-2100
+    twitter: junoonny
+  location:
+    address: 27 W 24th St
+    crossStreet: Btw 5th Ave. & 6th Ave.
+    lat: 40.743011007422666
+    lng: -73.9910461790892
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/junoon/4d59e9e1c88da1cd92803f68
+  categories:
+  - id: 4bf58dd8d48988d10f941735
+    name: Indian Restaurant
+    pluralName: Indian Restaurants
+    shortName: Indian
+    icon: https://foursquare.com/img/categories/food/indian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 3059
+    usersCount: 2432
+    tipCount: 67
+  url: http://junoonnyc.com
+  likes:
+    count: 28
+    groups:
+    - type: others
+      count: 28
+      items: []
+    summary: 28 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=54115&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/junoon/4d59e9e1c88da1cd92803f68/menu
+    mobileUrl: https://foursquare.com/v/4d59e9e1c88da1cd92803f68/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Junoon
+icon: https://foursquare.com/img/categories/food/indian.png
+url: https://foursquare.com/v/junoon/4d59e9e1c88da1cd92803f68
+date: 2013-05-24 19:01:18.000000000 -05:00
+
+---

@@ -1,0 +1,80 @@
+---
+id: 51aa114b498e8f4daa301eaf
+createdAt: 1370100043
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 45a51c02f964a520fa401fe3
+  name: Tarallucci e Vino Restaurant
+  contact:
+    phone: '2122285400'
+    formattedPhone: (212) 228-5400
+  location:
+    address: 15 E 18th St
+    crossStreet: btwn Broadway & 5th Ave
+    lat: 40.737977
+    lng: -73.99069
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/tarallucci-e-vino-restaurant/45a51c02f964a520fa401fe3
+  categories:
+  - id: 4bf58dd8d48988d110941735
+    name: Italian Restaurant
+    pluralName: Italian Restaurants
+    shortName: Italian
+    icon: https://foursquare.com/img/categories/food/italian.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 8242
+    usersCount: 3959
+    tipCount: 95
+  url: http://www.taralluccievino.net
+  likes:
+    count: 22
+    groups:
+    - type: others
+      count: 22
+      items: []
+    summary: 22 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=24979&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/tarallucci-e-vino-restaurant/45a51c02f964a520fa401fe3/menu
+    mobileUrl: https://foursquare.com/v/45a51c02f964a520fa401fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Tarallucci e Vino Restaurant
+icon: https://foursquare.com/img/categories/food/italian.png
+url: https://foursquare.com/v/tarallucci-e-vino-restaurant/45a51c02f964a520fa401fe3
+date: 2013-06-01 10:20:43.000000000 -05:00
+
+---

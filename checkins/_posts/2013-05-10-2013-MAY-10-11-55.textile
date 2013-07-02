@@ -32,17 +32,17 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 359358
-    usersCount: 144725
-    tipCount: 1370
+    checkinsCount: 383573
+    usersCount: 153464
+    tipCount: 1455
   url: http://www.miami-airport.com
   likes:
-    count: 588
+    count: 799
     groups:
     - type: others
-      count: 588
+      count: 799
       items: []
-    summary: 588 likes
+    summary: 799 likes
   like: false
   beenHere:
     count: 1

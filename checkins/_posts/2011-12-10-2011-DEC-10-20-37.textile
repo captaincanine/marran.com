@@ -33,25 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 4994
-    usersCount: 3273
-    tipCount: 63
+    checkinsCount: 5216
+    usersCount: 3419
+    tipCount: 65
   url: http://www.bonelickpark.com
   likes:
-    count: 14
+    count: 15
     groups:
     - type: others
-      count: 14
+      count: 15
       items: []
-    summary: 14 likes
+    summary: 15 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/bone-lick-park/43fec232f964a520fd2f1fe3/menu
     mobileUrl: https://foursquare.com/v/43fec232f964a520fd2f1fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

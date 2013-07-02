@@ -32,9 +32,9 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1292
-    usersCount: 435
-    tipCount: 10
+    checkinsCount: 1366
+    usersCount: 453
+    tipCount: 9
   url: http://www.pret.com
   likes:
     count: 1
@@ -48,7 +48,7 @@ venue:
         gender: male
         photo: https://is0.4sqi.net/userpix_thumbs/YLV5JTICTZUYB5RW.jpg
         tips:
-          count: 5
+          count: 6
         homeCity: london
         bio: ! "editor\r\ncoffee, travel,"
         contact:
@@ -58,6 +58,7 @@ venue:
   beenHere:
     count: 1
     marked: false
+  storeId: '203'
 likes:
   count: 0
   groups: []

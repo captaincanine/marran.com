@@ -1,0 +1,83 @@
+---
+id: 51a94a90498e9e3a5df7c9ec
+createdAt: 1370049168
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 42699000f964a5204f211fe3
+  name: Sueños
+  contact:
+    phone: '2122431333'
+    formattedPhone: (212) 243-1333
+    twitter: suenoschelsea
+  location:
+    address: 311 W 17th St
+    crossStreet: btw 8th and 9th Ave
+    lat: 40.7419647915967
+    lng: -74.00151939557935
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/sue%C3%B1os/42699000f964a5204f211fe3
+  categories:
+  - id: 4bf58dd8d48988d1c1941735
+    name: Mexican Restaurant
+    pluralName: Mexican Restaurants
+    shortName: Mexican
+    icon: https://foursquare.com/img/categories/food/mexican.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1914
+    usersCount: 1466
+    tipCount: 30
+  url: http://www.suenosnyc.com
+  likes:
+    count: 14
+    groups:
+    - type: others
+      count: 14
+      items: []
+    summary: 14 likes
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/sue%C3%B1os/42699000f964a5204f211fe3/menu
+    mobileUrl: https://foursquare.com/v/42699000f964a5204f211fe3/device_menu
+  beenHere:
+    count: 3
+    marked: true
+  listed:
+    groups:
+    - type: dones
+      count: 1
+      items: []
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Sueños
+icon: https://foursquare.com/img/categories/food/mexican.png
+url: https://foursquare.com/v/sue%C3%B1os/42699000f964a5204f211fe3
+date: 2013-05-31 20:12:48.000000000 -05:00
+
+---

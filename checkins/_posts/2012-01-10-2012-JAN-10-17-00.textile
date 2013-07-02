@@ -33,20 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1670
-    usersCount: 793
+    checkinsCount: 1743
+    usersCount: 842
     tipCount: 25
   url: http://oneluckyduck.com
   likes:
-    count: 23
+    count: 25
     groups:
     - type: others
-      count: 23
+      count: 25
       items: []
-    summary: 23 likes
+    summary: 25 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/one-lucky-duck--chelsea-market/4b197424f964a5209bdd23e3/menu
     mobileUrl: https://foursquare.com/v/4b197424f964a5209bdd23e3/device_menu
   beenHere:

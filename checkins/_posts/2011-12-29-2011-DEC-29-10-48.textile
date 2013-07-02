@@ -29,8 +29,8 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 1236
-    usersCount: 414
+    checkinsCount: 1268
+    usersCount: 434
     tipCount: 13
   likes:
     count: 5
@@ -44,11 +44,11 @@ venue:
         gender: female
         photo: https://is0.4sqi.net/userpix_thumbs/PSVHFJKTHVQ2CNUG.jpg
         tips:
-          count: 80
+          count: 83
         lists:
           groups:
           - type: created
-            count: 15
+            count: 18
             items: []
         homeCity: London, UK
         bio: ''
@@ -61,11 +61,11 @@ venue:
         gender: female
         photo: https://is0.4sqi.net/userpix_thumbs/SNMVU150DOCNHBK2.jpg
         tips:
-          count: 19
+          count: 18
         lists:
           groups:
           - type: created
-            count: 4
+            count: 6
             items: []
         homeCity: London
         bio: ''
@@ -77,11 +77,11 @@ venue:
         gender: male
         photo: https://is0.4sqi.net/userpix_thumbs/IAMTAOGG55UB1UJ0.jpg
         tips:
-          count: 19
+          count: 22
         lists:
           groups:
           - type: created
-            count: 4
+            count: 5
             items: []
         homeCity: London / Coventry
         bio: ! 'Geek. Hacker. Dad. Husband. CAMRA member. Coffee lover.   Sweet tooth.

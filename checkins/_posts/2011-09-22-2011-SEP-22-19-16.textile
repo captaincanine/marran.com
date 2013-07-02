@@ -32,17 +32,17 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 12122
-    usersCount: 6420
-    tipCount: 120
+    checkinsCount: 12436
+    usersCount: 6542
+    tipCount: 123
   url: http://www.vladabar.com
   likes:
-    count: 23
+    count: 26
     groups:
     - type: others
-      count: 23
+      count: 26
       items: []
-    summary: 23 likes
+    summary: 26 likes
   like: false
   beenHere:
     count: 1

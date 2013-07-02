@@ -1,0 +1,82 @@
+---
+id: 51b26d24498e2384585c7d64
+createdAt: 1370647844
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4b539a4af964a52034a427e3
+  name: Colicchio & Sons
+  contact:
+    phone: '2123521900'
+    formattedPhone: (212) 352-1900
+  location:
+    address: 85 10th Ave
+    crossStreet: at W 16th St
+    lat: 40.742744720435844
+    lng: -74.0076825440635
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/colicchio--sons/4b539a4af964a52034a427e3
+  categories:
+  - id: 4bf58dd8d48988d157941735
+    name: New American Restaurant
+    pluralName: New American Restaurants
+    shortName: New American
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 8363
+    usersCount: 6451
+    tipCount: 126
+  url: http://www.colicchioandsons.com
+  likes:
+    count: 57
+    groups:
+    - type: others
+      count: 57
+      items: []
+    summary: 57 likes
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/colicchio--sons/4b539a4af964a52034a427e3/menu
+    mobileUrl: https://foursquare.com/v/4b539a4af964a52034a427e3/device_menu
+  beenHere:
+    count: 1
+    marked: true
+  listed:
+    groups:
+    - type: dones
+      count: 1
+      items: []
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 1
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Colicchio & Sons
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/colicchio--sons/4b539a4af964a52034a427e3
+date: 2013-06-07 18:30:44.000000000 -05:00
+
+---

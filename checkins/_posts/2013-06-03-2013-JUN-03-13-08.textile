@@ -1,0 +1,77 @@
+---
+id: 51acdbaa498e6d7f370e8400
+createdAt: 1370282922
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 45841feaf964a520973f1fe3
+  name: brgr
+  contact:
+    phone: '2124887500'
+    formattedPhone: (212) 488-7500
+  location:
+    address: 287 7th Ave
+    crossStreet: btwn 26th & 27th St.
+    lat: 40.74611903850168
+    lng: -73.99409351370946
+    postalCode: '10001'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/brgr/45841feaf964a520973f1fe3
+  categories:
+  - id: 4bf58dd8d48988d16c941735
+    name: Burger Joint
+    pluralName: Burger Joints
+    shortName: Burgers
+    icon: https://foursquare.com/img/categories/food/burger.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 6165
+    usersCount: 4264
+    tipCount: 100
+  url: http://www.brgr.com
+  likes:
+    count: 20
+    groups:
+    - type: others
+      count: 20
+      items: []
+    summary: 20 likes
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/brgr/45841feaf964a520973f1fe3/menu
+    mobileUrl: https://foursquare.com/v/45841feaf964a520973f1fe3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: brgr
+icon: https://foursquare.com/img/categories/food/burger.png
+url: https://foursquare.com/v/brgr/45841feaf964a520973f1fe3
+date: 2013-06-03 13:08:42.000000000 -05:00
+
+---

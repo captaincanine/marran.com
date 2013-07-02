@@ -10,12 +10,12 @@ venue:
   contact:
     phone: '2122436005'
     formattedPhone: (212) 243-6005
-    twitter: chelseatweeter
+    twitter: chelseamarketny
   location:
     address: 75 9th Ave
     crossStreet: btwn 15th & 16th St
-    lat: 40.742005149125774
-    lng: -74.00481905749147
+    lat: 40.74224172008897
+    lng: -74.00545120239258
     postalCode: '10011'
     city: New York
     state: NY
@@ -33,18 +33,24 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 84952
-    usersCount: 42454
-    tipCount: 338
+    checkinsCount: 90012
+    usersCount: 45137
+    tipCount: 364
   url: http://chelseamarket.com
   likes:
-    count: 361
+    count: 454
     groups:
     - type: others
-      count: 361
+      count: 454
       items: []
-    summary: 361 likes
+    summary: 454 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/chelsea-market/41390580f964a520dc1a1fe3/menu
+    mobileUrl: https://foursquare.com/v/41390580f964a520dc1a1fe3/device_menu
   beenHere:
     count: 2
     marked: false

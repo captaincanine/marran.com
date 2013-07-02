@@ -1,0 +1,78 @@
+---
+id: 51ce3772498ecb344726e4f6
+createdAt: 1372469106
+type: checkin
+timeZone: America/Los_Angeles
+timeZoneOffset: -420
+venue:
+  id: 43388b80f964a5202d281fe3
+  name: Masu Sushi
+  contact:
+    phone: '5032216278'
+    formattedPhone: (503) 221-6278
+  location:
+    address: 406 SW 13th Ave
+    lat: 45.52256887
+    lng: -122.684101
+    postalCode: '97205'
+    city: Portland
+    state: OR
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/masu-sushi/43388b80f964a5202d281fe3
+  categories:
+  - id: 4bf58dd8d48988d1d2941735
+    name: Sushi Restaurant
+    pluralName: Sushi Restaurants
+    shortName: Sushi
+    icon: https://foursquare.com/img/categories/food/sushi.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1945
+    usersCount: 1252
+    tipCount: 40
+  url: http://www.masusushi.com
+  likes:
+    count: 12
+    groups:
+    - type: others
+      count: 12
+      items: []
+    summary: 12 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=4725&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/masu-sushi/43388b80f964a5202d281fe3/menu
+    mobileUrl: https://foursquare.com/v/43388b80f964a5202d281fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Masu Sushi
+icon: https://foursquare.com/img/categories/food/sushi.png
+url: https://foursquare.com/v/masu-sushi/43388b80f964a5202d281fe3
+date: 2013-06-28 20:25:06.000000000 -05:00
+
+---

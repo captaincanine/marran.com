@@ -33,21 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 10941
-    usersCount: 4518
-    tipCount: 65
+    checkinsCount: 11717
+    usersCount: 4779
+    tipCount: 68
   url: http://flamingsaddles.com
   likes:
-    count: 45
+    count: 49
     groups:
     - type: others
-      count: 45
+      count: 49
       items: []
-    summary: 45 likes
+    summary: 49 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/flaming-saddles-saloon/4e6dfab3b61cf2b03c254994/menu
+    mobileUrl: https://foursquare.com/v/4e6dfab3b61cf2b03c254994/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

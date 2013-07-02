@@ -32,16 +32,16 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 703
-    usersCount: 217
+    checkinsCount: 776
+    usersCount: 241
     tipCount: 18
   likes:
-    count: 12
+    count: 13
     groups:
     - type: others
-      count: 12
+      count: 13
       items: []
-    summary: 12 likes
+    summary: 13 likes
   like: false
   beenHere:
     count: 1

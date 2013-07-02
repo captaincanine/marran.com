@@ -1,0 +1,128 @@
+---
+id: '790499637_10151976091129638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: That was the third time I got called "Sir" today. I'm entirely ambivalent
+  about it.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151976091129638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151976091129638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-06-11T23:01:10+0000'
+updated_time: '2013-06-12T01:30:09+0000'
+likes:
+  data:
+  - name: Charlotte Hertander
+    id: '577154539'
+  - name: David Pengel
+    id: '36503306'
+  - name: Danielle Mari
+    id: '1125746508'
+  - name: John-Paul Kocot
+    id: '502685734'
+  count: 4
+comments:
+  data:
+  - id: '10151976091129638_32507065'
+    from:
+      name: Bunny Zahn
+      id: '113800358'
+    message: As any good master should. :-p
+    can_remove: true
+    created_time: '2013-06-11T23:05:07+0000'
+    like_count: 1
+    user_likes: true
+  - id: '10151976091129638_32507156'
+    from:
+      name: Peter Von Brown
+      id: '1128953787'
+    message: And yet doesn't posting it indicate some level of caring?  Ambivalency
+      denied. :)
+    can_remove: true
+    created_time: '2013-06-11T23:11:54+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151976091129638_32507830'
+    from:
+      name: Kaiser Sosebee
+      id: '1181188146'
+    message: Its the mustache. Something looks very knightly.
+    can_remove: true
+    created_time: '2013-06-12T00:10:48+0000'
+    like_count: 2
+    user_likes: true
+  - id: '10151976091129638_32508056'
+    from:
+      name: Matt Ruben
+      id: '677450823'
+    message: ! 'Ambivalence refers to uncertainty, not indifference.
+
+
+      As for being called "sir," as long as the person''s not mistaking you for Peppermint
+      Patty, I''d say don''t worry about it. :-)'
+    can_remove: true
+    created_time: '2013-06-12T00:29:01+0000'
+    like_count: 3
+    user_likes: true
+  - id: '10151976091129638_32508105'
+    from:
+      name: Peter Von Brown
+      id: '1128953787'
+    message: Matt - thanks for the lesson.  I looked it up (just because I'm a geek
+      that way) and realized the importance of the nuances there.  Makes more sense
+      now.  Thanks for the nudge.  [None of this is sarcasm.]
+    can_remove: true
+    created_time: '2013-06-12T00:32:30+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151976091129638_32508166'
+    from:
+      name: Matt Ruben
+      id: '677450823'
+    message: ! '@Peter - thanks for taking it with good cheer! I learned the meaning
+      in high school, because I went on a first date with a girl Iiked, and at the
+      end as I was dropping her off, she said she was ambivalent. I nodded knowingly,
+      then ran home to look it up in the dictionary. Needless to say, there was no
+      second date.  :-)'
+    can_remove: true
+    created_time: '2013-06-12T00:36:54+0000'
+    like_count: 4
+    user_likes: true
+  - id: '10151976091129638_32508782'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: ! 'Dude!  I just got schooled on "ambivalent."  Seriously, I always took
+      it to mean "indifferent."  It just doesn''t.  Not even a secondary definition.
+
+
+      Damn!'
+    can_remove: true
+    created_time: '2013-06-12T01:30:09+0000'
+    like_count: 1
+    user_likes: true
+  paging:
+    cursors:
+      after: Nw==
+      before: MQ==
+layout: status
+title: Tuesday, Jun 11, 2013 around 06:01PM
+date: 2013-06-11 18:01:10.000000000 -05:00
+
+---
+That was the third time I got called "Sir" today. I'm entirely ambivalent about it.

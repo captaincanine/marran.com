@@ -1,0 +1,73 @@
+---
+id: 51a6481f498ec48c96291730
+createdAt: 1369851935
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 3fd66200f964a520d7f11ee3
+  name: Bryant Park
+  contact:
+    phone: '2127684242'
+    formattedPhone: (212) 768-4242
+    twitter: bryantparknyc
+  location:
+    address: E 42nd St
+    crossStreet: btwn 5th & 6th Ave
+    lat: 40.75398671041169
+    lng: -73.98382186889648
+    postalCode: '10018'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/bryant-park/3fd66200f964a520d7f11ee3
+  categories:
+  - id: 4bf58dd8d48988d163941735
+    name: Park
+    pluralName: Parks
+    shortName: Park
+    icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+    parents:
+    - Outdoors & Recreation
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 146547
+    usersCount: 65074
+    tipCount: 452
+  url: http://www.bryantpark.org
+  likes:
+    count: 511
+    groups:
+    - type: others
+      count: 511
+      items: []
+    summary: 511 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Bryant Park
+icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+url: https://foursquare.com/v/bryant-park/3fd66200f964a520d7f11ee3
+date: 2013-05-29 13:25:35.000000000 -05:00
+
+---

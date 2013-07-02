@@ -10,6 +10,7 @@ venue:
   contact:
     phone: '2123522300'
     formattedPhone: (212) 352-2300
+    facebook: '47100148799'
   location:
     address: 344 W 11th St
     crossStreet: at Washington
@@ -32,27 +33,30 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1460
-    usersCount: 1009
+    checkinsCount: 1512
+    usersCount: 1046
     tipCount: 26
   url: http://wallse.com
   likes:
-    count: 13
+    count: 15
     groups:
     - type: others
-      count: 13
+      count: 15
       items: []
-    summary: 13 likes
+    summary: 15 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=2294&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/walls%C3%A9/3fd66200f964a52073e31ee3/menu
     mobileUrl: https://foursquare.com/v/3fd66200f964a52073e31ee3/device_menu
   beenHere:
-    count: 1
+    count: 2
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

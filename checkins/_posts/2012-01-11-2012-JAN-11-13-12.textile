@@ -33,18 +33,24 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 2982
-    usersCount: 1100
-    tipCount: 44
+    checkinsCount: 3137
+    usersCount: 1161
+    tipCount: 42
   url: http://oneluckyduck.com
   likes:
-    count: 15
+    count: 19
     groups:
     - type: others
-      count: 15
+      count: 19
       items: []
-    summary: 15 likes
+    summary: 19 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/one-lucky-duck/4a784ceef964a5205de51fe3/menu
+    mobileUrl: https://foursquare.com/v/4a784ceef964a5205de51fe3/device_menu
   beenHere:
     count: 2
     marked: false

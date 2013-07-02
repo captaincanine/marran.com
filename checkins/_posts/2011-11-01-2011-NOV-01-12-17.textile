@@ -13,8 +13,8 @@ venue:
   location:
     address: 105 5th Avenue
     crossStreet: at E 18th St
-    lat: 40.73839925448939
-    lng: -73.99183814641529
+    lat: 40.738365015474905
+    lng: -73.99183240753338
     postalCode: '10003'
     city: New York
     state: NY
@@ -32,9 +32,9 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 5431
-    usersCount: 3111
-    tipCount: 22
+    checkinsCount: 5759
+    usersCount: 3196
+    tipCount: 26
   likes:
     count: 11
     groups:
@@ -46,6 +46,7 @@ venue:
   beenHere:
     count: 1
     marked: false
+  storeId: '2412'
 likes:
   count: 0
   groups: []

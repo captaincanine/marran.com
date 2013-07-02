@@ -33,23 +33,40 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 2461
-    usersCount: 289
+    checkinsCount: 2637
+    usersCount: 317
     tipCount: 4
   url: http://www.completebody.com/19street/
   likes:
-    count: 2
+    count: 3
     groups:
     - type: others
-      count: 2
+      count: 3
       items:
+      - id: '10598155'
+        firstName: Steven
+        lastName: B.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/IHJX4EX5MXOGGCPL.jpg
+        tips:
+          count: 149
+        lists:
+          groups:
+          - type: created
+            count: 13
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: stevenbirkeland
+          facebook: '563112436'
       - id: '2565162'
         firstName: Max
         lastName: L.
         gender: male
         photo: https://is1.4sqi.net/userpix_thumbs/NCHYMCUO5HSZHPTW.jpg
         tips:
-          count: 26
+          count: 27
         lists:
           groups:
           - type: created
@@ -66,15 +83,21 @@ venue:
         gender: male
         photo: https://is1.4sqi.net/userpix_thumbs/XP22YCYENR55FAGU.jpg
         tips:
-          count: 12
+          count: 13
         homeCity: NY
         bio: ''
         contact:
           facebook: '1090246523'
-    summary: Max L & Wayne P
+    summary: Steven B, Max L & Wayne P
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/complete-body--spa/4b9bd079f964a520632836e3/menu
+    mobileUrl: https://foursquare.com/v/4b9bd079f964a520632836e3/device_menu
   beenHere:
-    count: 12
+    count: 14
     marked: false
 likes:
   count: 0

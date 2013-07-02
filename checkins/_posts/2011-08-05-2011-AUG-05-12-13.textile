@@ -4,7 +4,6 @@ createdAt: 1312564388
 type: checkin
 shout: They comped my lunch today for no other reason than to be nice! I love this
   place!
-isMayor: true
 timeZone: America/New_York
 timeZoneOffset: -240
 venue:
@@ -35,8 +34,8 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 2809
-    usersCount: 1158
+    checkinsCount: 2913
+    usersCount: 1191
     tipCount: 26
   likes:
     count: 9
@@ -57,7 +56,7 @@ venue:
             count: 3
             items: []
         homeCity: New York, NY
-        bio: RSS Addict. Tech, Quirky stuff, Art, Games
+        bio: ! "Doodler. ♥ Zines, comics, music, RSS, games, tech.\uFEFF"
         contact:
           twitter: danootz
       - id: '17097283'
@@ -107,11 +106,13 @@ venue:
     summary: Daniel H, Jeremy J, Brett S & 6 others
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/uncle-moes/49e60c3ef964a520f8631fe3/menu
     mobileUrl: https://foursquare.com/v/49e60c3ef964a520f8631fe3/device_menu
   beenHere:
-    count: 55
+    count: 58
     marked: true
   listed:
     groups:

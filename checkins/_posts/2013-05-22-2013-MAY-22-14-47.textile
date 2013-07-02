@@ -1,0 +1,80 @@
+---
+id: 519d20c8498e0479928965fd
+createdAt: 1369252040
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 50855cace4b0e99d0d347d30
+  name: Giovanni Rana Pastificio & Cucina
+  contact:
+    phone: '2123700975'
+    formattedPhone: (212) 370-0975
+    twitter: rananyc
+  location:
+    address: 75 9th Ave, Chelsea Market
+    crossStreet: at W 15th St
+    lat: 40.742032521096235
+    lng: -74.00450917861919
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/giovanni-rana-pastificio--cucina/50855cace4b0e99d0d347d30
+  categories:
+  - id: 4bf58dd8d48988d110941735
+    name: Italian Restaurant
+    pluralName: Italian Restaurants
+    shortName: Italian
+    icon: https://foursquare.com/img/categories/food/italian.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2378
+    usersCount: 1831
+    tipCount: 57
+  url: http://www.giovannirana.com
+  likes:
+    count: 51
+    groups:
+    - type: others
+      count: 51
+      items: []
+    summary: 51 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=83869&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/giovanni-rana-pastificio--cucina/50855cace4b0e99d0d347d30/menu
+    mobileUrl: https://foursquare.com/v/50855cace4b0e99d0d347d30/device_menu
+  beenHere:
+    count: 3
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Giovanni Rana Pastificio & Cucina
+icon: https://foursquare.com/img/categories/food/italian.png
+url: https://foursquare.com/v/giovanni-rana-pastificio--cucina/50855cace4b0e99d0d347d30
+date: 2013-05-22 14:47:20.000000000 -05:00
+
+---

@@ -29,8 +29,8 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 160
-    usersCount: 102
+    checkinsCount: 165
+    usersCount: 107
     tipCount: 4
   likes:
     count: 3
@@ -59,7 +59,7 @@ venue:
         gender: male
         photo: https://is0.4sqi.net/userpix_thumbs/LJNA2RIT2PTBTJOY.jpg
         tips:
-          count: 92
+          count: 91
         lists:
           groups:
           - type: created
@@ -78,7 +78,7 @@ venue:
         gender: male
         photo: https://is1.4sqi.net/userpix_thumbs/BHOFZLUTJH3AG54M.png
         tips:
-          count: 48
+          count: 52
         lists:
           groups:
           - type: created

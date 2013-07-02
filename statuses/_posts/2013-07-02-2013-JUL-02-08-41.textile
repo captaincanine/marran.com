@@ -1,0 +1,53 @@
+---
+id: '790499637_10152028367189638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: Keith Marran was tagged in Geeks OUT's photo.
+picture: https://photos-a.xx.fbcdn.net/hphotos-prn1/1044979_599188640115903_1198467502_s.jpg
+link: http://www.facebook.com/photo.php?fbid=599188640115903&set=at.599187696782664.1073741829.157044360997002.790499637&type=1&relevant_count=1
+description: Keith Marran was tagged in Geeks OUT's photo.
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10152028367189638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10152028367189638
+privacy:
+  value: ''
+place:
+  id: '44597128210'
+  name: PRANNA
+  location:
+    street: 79 Madison Avenue
+    city: New York
+    state: NY
+    country: United States
+    zip: '10016'
+    latitude: 40.743867081858
+    longitude: -73.985545809939
+type: photo
+status_type: tagged_in_photo
+object_id: '599188640115903'
+application:
+  name: Photos
+  id: '2305272732'
+created_time: '2013-07-02T13:41:50+0000'
+updated_time: '2013-07-02T13:41:50+0000'
+likes:
+  data:
+  - name: Sreedhar Yedavalli
+    id: '1199970155'
+  count: 1
+layout: status-photo
+title: Tuesday, Jul  2, 2013 around 08:41AM
+link-info: Hosted by Graham Nolan, our annual Pride party revealed the winners of
+  the first Geeks OUT Awards and honored writer/artist Phil Jimenez for his contributions
+  to LGBT and comics culture.
+images:
+- thumbnail: /statuses/photo/1044979_599188640115903_1198467502_n.jpg
+  fullsize: /statuses/photo/1044979_599188640115903_1198467502_n.jpg
+date: 2013-07-02 08:41:50.000000000 -05:00
+
+---
+Keith Marran was tagged in Geeks OUT's photo.

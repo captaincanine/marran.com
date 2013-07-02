@@ -6,7 +6,7 @@ timeZone: America/New_York
 timeZoneOffset: -240
 venue:
   id: 411ab300f964a520110c1fe3
-  name: Pure Food & Wine
+  name: Pure Food and Wine
   contact:
     phone: '2124771010'
     formattedPhone: (212) 477-1010
@@ -21,7 +21,7 @@ venue:
     state: NY
     country: United States
     cc: US
-  canonicalUrl: https://foursquare.com/v/pure-food--wine/411ab300f964a520110c1fe3
+  canonicalUrl: https://foursquare.com/v/pure-food-and-wine/411ab300f964a520110c1fe3
   categories:
   - id: 4bf58dd8d48988d1d3941735
     name: Vegetarian / Vegan Restaurant
@@ -33,23 +33,25 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 4976
-    usersCount: 3517
-    tipCount: 91
-  url: http://purefoodandwine.com
+    checkinsCount: 5274
+    usersCount: 3747
+    tipCount: 96
+  url: http://www.purefoodandwine.com
   likes:
-    count: 32
+    count: 37
     groups:
     - type: others
-      count: 32
+      count: 37
       items: []
-    summary: 32 likes
+    summary: 37 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=3521&ref=9601
   menu:
-    type: foodAndBeverage
-    url: https://foursquare.com/v/pure-food--wine/411ab300f964a520110c1fe3/menu
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/pure-food-and-wine/411ab300f964a520110c1fe3/menu
     mobileUrl: https://foursquare.com/v/411ab300f964a520110c1fe3/device_menu
   beenHere:
     count: 2
@@ -70,9 +72,9 @@ comments:
 source:
   name: foursquare for iPhone
   url: https://foursquare.com/download/#/iphone
-title: Pure Food & Wine
+title: Pure Food and Wine
 icon: https://foursquare.com/img/categories/food/vegetarian.png
-url: https://foursquare.com/v/pure-food--wine/411ab300f964a520110c1fe3
+url: https://foursquare.com/v/pure-food-and-wine/411ab300f964a520110c1fe3
 date: 2011-09-25 18:43:45.000000000 -05:00
 
 ---

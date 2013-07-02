@@ -1,0 +1,135 @@
+---
+id: '790499637_10152014708489638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: Pat Benatar lost something in the transfer to digital music. It sounds too
+  clean when listened to on headphones - as opposed to coming from a car radio, driving
+  through the Bay Area in a beat-up Volvo, while singing at the top of my lungs. (my
+  twenties were well-spent.)
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10152014708489638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10152014708489638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-06-26T13:57:05+0000'
+updated_time: '2013-06-26T16:10:04+0000'
+likes:
+  data:
+  - name: Paul Wagtouicz
+    id: '100005801466820'
+  - name: Terri Davis
+    id: '100000452612692'
+  - name: Charlotte Hertander
+    id: '577154539'
+  - name: Justin Winslow
+    id: '1201684433'
+  count: 11
+comments:
+  data:
+  - id: '10152014708489638_32738809'
+    from:
+      name: Sara Holoubek
+      id: '659585353'
+    message: ! 'Is this an official #SCOTUS DOMA status?'
+    can_remove: true
+    created_time: '2013-06-26T14:48:58+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152014708489638_32738831'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Yes. Love is a Battlefield, baby.
+    can_remove: true
+    created_time: '2013-06-26T14:50:05+0000'
+    like_count: 4
+    user_likes: false
+  - id: '10152014708489638_32739526'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: Now one ever talk about Shadows of the Night.  I just like it, okay?  Sue
+      me.
+    can_remove: true
+    created_time: '2013-06-26T15:30:53+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152014708489638_32739606'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: She has some hidden gems - no doubt about it. "Treat Me Right" is my
+      personal fave.  "Shadows of the Night" is a great running song. You should play
+      it at the 3/4 mark of your next half-marathon.
+    can_remove: true
+    created_time: '2013-06-26T15:36:04+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152014708489638_32739978'
+    from:
+      name: Bunny Zahn
+      id: '113800358'
+    message: and now I'm watching the pop up video of "shadows of the night"
+    can_remove: true
+    created_time: '2013-06-26T15:56:47+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152014708489638_32740117'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: This one? I don't think I had ever seen it before. Judge Reinhold! I
+      always forget that Pat has that rockin' underbite. http://www.youtube.com/watch?v=66aqcOsnP2E
+    can_remove: true
+    created_time: '2013-06-26T16:03:37+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10152014708489638_32740191'
+    from:
+      name: Bunny Zahn
+      id: '113800358'
+    message: Bill Paxton is in the video. lol
+    can_remove: true
+    created_time: '2013-06-26T16:07:53+0000'
+    like_count: 1
+    user_likes: true
+  - id: '10152014708489638_32740224'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: ! 'Holy shit, can''t watch this now.  Judge Reinhold?  I remember this
+      from the early MTV days but haven''t seen it for years.
+
+
+      Wat was the pat Benetar video/song that had an outro of a shirtless man playing
+      a pink guitar in a headdress in a futuristic desert?  If no one can claim it,
+      I''ll look for it later.  I may have some of the details a little wrong, but
+      I swear that is the gist of it.'
+    can_remove: true
+    created_time: '2013-06-26T16:10:04+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: OA==
+      before: MQ==
+layout: status
+title: Wednesday, Jun 26, 2013 around 08:57AM
+date: 2013-06-26 08:57:05.000000000 -05:00
+
+---
+Pat Benatar lost something in the transfer to digital music. It sounds too clean when listened to on headphones - as opposed to coming from a car radio, driving through the Bay Area in a beat-up Volvo, while singing at the top of my lungs. (my twenties were well-spent.)

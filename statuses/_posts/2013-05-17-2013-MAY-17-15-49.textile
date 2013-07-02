@@ -1,0 +1,126 @@
+---
+id: '790499637_10151923724029638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: Nitrous oxide has transformed how I feel about going to the dentist. I now
+  write down dental appointments in my calendar as MAGIC SPACE TIME.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151923724029638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151923724029638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-05-17T20:49:29+0000'
+updated_time: '2013-05-19T08:44:02+0000'
+likes:
+  data:
+  - name: Ben Mims
+    id: '26502264'
+  - name: Bryan Herb
+    id: '576974223'
+  - name: Gretchen Berkebile
+    id: '1454349544'
+  - name: Mike Caldwell
+    id: '1576015670'
+  count: 18
+comments:
+  data:
+  - id: '10151923724029638_32111291'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: This is pretty much exactly what happened at the dentist today. http://www.youtube.com/watch?v=eti_3bXFZrk
+    can_remove: true
+    created_time: '2013-05-17T20:54:44+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151923724029638_32111621'
+    from:
+      name: Eric Kelhoffer
+      id: '671590942'
+    message: I agree! It is great stuff. Magic Air.
+    can_remove: true
+    created_time: '2013-05-17T21:14:52+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151923724029638_32111828'
+    from:
+      name: Noah Fecks
+      id: '608492513'
+    message: ! 'IS THIS REAL LIFE?
+
+      http://youtu.be/txqiwrbYGrs'
+    can_remove: true
+    created_time: '2013-05-17T21:28:49+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151923724029638_32111938'
+    from:
+      name: Dirk McCall
+      id: '502849778'
+    message: Who is your dentist?
+    can_remove: true
+    created_time: '2013-05-17T21:37:46+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151923724029638_32112715'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: Man.  I have never had nitrous.  I should make that a priority next time
+      I switch dentists.
+    can_remove: true
+    created_time: '2013-05-17T22:40:47+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151923724029638_32113329'
+    from:
+      name: Mark Lai
+      id: '688363003'
+    message: And you're married to an anesthesiologist? And nitrous is the best you've
+      had...
+    can_remove: true
+    created_time: '2013-05-17T23:38:41+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151923724029638_32114154'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: I know. I have to go outside the relationship for all the good stuff.
+    can_remove: true
+    created_time: '2013-05-18T00:45:03+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151923724029638_32134811'
+    from:
+      name: Anna Blackmon Moore
+      id: '568971857'
+    message: Nitrous rocks.
+    can_remove: true
+    created_time: '2013-05-19T08:44:02+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: OA==
+      before: MQ==
+layout: status
+title: Friday, May 17, 2013 around 03:49PM
+date: 2013-05-17 15:49:29.000000000 -05:00
+
+---
+Nitrous oxide has transformed how I feel about going to the dentist. I now write down dental appointments in my calendar as MAGIC SPACE TIME.

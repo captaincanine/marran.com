@@ -50,7 +50,7 @@ venue:
         gender: female
         photo: https://is0.4sqi.net/userpix_thumbs/1GUXLZTEBBZ1VRUJ.jpg
         tips:
-          count: 12
+          count: 14
         lists:
           groups:
           - type: created
@@ -67,14 +67,14 @@ venue:
         gender: male
         photo: https://is1.4sqi.net/userpix_thumbs/JA4YLF4M5YULDXYH.jpg
         tips:
-          count: 26
+          count: 27
         lists:
           groups:
           - type: created
-            count: 4
+            count: 6
             items: []
         homeCity: New York, NY
-        bio: ''
+        bio: Coffee and heroin
         contact:
           twitter: jamesbelfer
           facebook: '2412165'
@@ -88,7 +88,7 @@ venue:
         lists:
           groups:
           - type: created
-            count: 7
+            count: 8
             items: []
         homeCity: San Francisco, CA
         bio: ''
@@ -98,7 +98,9 @@ venue:
     summary: Rebecca G, James B & Jake D
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/despresso/4a427463f964a520e0a51fe3/menu
     mobileUrl: https://foursquare.com/v/4a427463f964a520e0a51fe3/device_menu
   beenHere:

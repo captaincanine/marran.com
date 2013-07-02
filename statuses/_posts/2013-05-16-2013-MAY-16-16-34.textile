@@ -1,0 +1,39 @@
+---
+id: '790499637_10151921760299638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: I was thinking of checking out Rotten Tomatoes for the buzz on Star Trek,
+  but then I remembered that they have been pretty poor predictors the past year or
+  two.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151921760299638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151921760299638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-05-16T21:34:19+0000'
+updated_time: '2013-05-16T21:34:19+0000'
+likes:
+  data:
+  - name: C Blaine Horton
+    id: '526558117'
+  count: 1
+layout: status
+title: Thursday, May 16, 2013 around 04:34PM
+date: 2013-05-16 16:34:19.000000000 -05:00
+
+---
+I was thinking of checking out Rotten Tomatoes for the buzz on Star Trek, but then I remembered that they have been pretty poor predictors the past year or two.

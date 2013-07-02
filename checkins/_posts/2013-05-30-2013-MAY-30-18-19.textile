@@ -1,0 +1,68 @@
+---
+id: 51a7de8a498e34a6b97e8680
+createdAt: 1369955978
+type: checkin
+shout: I'm at Tagame's exhibit.
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4b6b6099f964a520b5042ce3
+  name: Martos Gallery
+  contact:
+    phone: '2125600670'
+    formattedPhone: (212) 560-0670
+  location:
+    address: 540 W 29th St
+    crossStreet: 10th ave
+    lat: 40.752224463727885
+    lng: -74.00327539665169
+    postalCode: '10001'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/martos-gallery/4b6b6099f964a520b5042ce3
+  categories:
+  - id: 4bf58dd8d48988d1e2931735
+    name: Art Gallery
+    pluralName: Art Galleries
+    shortName: Art Gallery
+    icon: https://foursquare.com/img/categories/arts_entertainment/artgallery.png
+    parents:
+    - Arts & Entertainment
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 56
+    usersCount: 55
+    tipCount: 1
+  url: http://www.martosgallery.com
+  likes:
+    count: 0
+    groups: []
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Martos Gallery
+icon: https://foursquare.com/img/categories/arts_entertainment/artgallery.png
+url: https://foursquare.com/v/martos-gallery/4b6b6099f964a520b5042ce3
+date: 2013-05-30 18:19:38.000000000 -05:00
+
+---

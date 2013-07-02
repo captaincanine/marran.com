@@ -51,7 +51,7 @@ module Jekyll
 			read_posts_articles dir
 			self.posts.each do |p| 
       
-        if (not p.categories.include?('statuses') and not p.categories.include?('checkins'))
+        if (not p.categories.include?('statuses') and not p.categories.include?('checkins') and not p.categories.include?('events'))
           self.articles << p
         end        
       
@@ -97,7 +97,7 @@ module Jekyll
         if num_page > 1
           newpage = CategorySubPage.new(site, site.source, page.data['category'], page.data['category_layout'])
           newpage.pager = pager
-          newpage.dir = File.join(page.dir, "/#{page.data['category']}/page#{num_page}")
+          newpage.dir = File.join(page.dir, "/page#{num_page}")
           site.pages << newpage
         else
           page.pager = pager

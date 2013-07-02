@@ -32,21 +32,24 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 5436
-    usersCount: 3895
-    tipCount: 70
+    checkinsCount: 5775
+    usersCount: 4118
+    tipCount: 74
+  url: http://www.highwaydhaba.com
   likes:
-    count: 41
+    count: 48
     groups:
     - type: others
-      count: 41
+      count: 48
       items: []
-    summary: 41 likes
+    summary: 48 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=25312&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/dhaba/4a12eb1ff964a52099771fe3/menu
     mobileUrl: https://foursquare.com/v/4a12eb1ff964a52099771fe3/device_menu
   beenHere:

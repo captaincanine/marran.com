@@ -1,0 +1,72 @@
+---
+id: 51b7da37498e177b0680609a
+createdAt: 1371003447
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4b12e11ff964a520019023e3
+  name: La Nortena
+  contact:
+    phone: '7183492626'
+    formattedPhone: (718) 349-2626
+  location:
+    address: 668 Manhattan Ave
+    crossStreet: Nassau Ave
+    lat: 40.72475140222234
+    lng: -73.95122553035176
+    postalCode: '11222'
+    city: Brooklyn
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/la-nortena/4b12e11ff964a520019023e3
+  categories:
+  - id: 4bf58dd8d48988d1c1941735
+    name: Mexican Restaurant
+    pluralName: Mexican Restaurants
+    shortName: Mexican
+    icon: https://foursquare.com/img/categories/food/mexican.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 197
+    usersCount: 114
+    tipCount: 4
+  likes:
+    count: 0
+    groups: []
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/la-nortena/4b12e11ff964a520019023e3/menu
+    mobileUrl: https://foursquare.com/v/4b12e11ff964a520019023e3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: La Nortena
+icon: https://foursquare.com/img/categories/food/mexican.png
+url: https://foursquare.com/v/la-nortena/4b12e11ff964a520019023e3
+date: 2013-06-11 21:17:27.000000000 -05:00
+
+---

@@ -1,0 +1,79 @@
+---
+id: 519bc158498eba888138b9ec
+createdAt: 1369162072
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 435ad280f964a52000291fe3
+  name: Two Boots
+  contact:
+    phone: '2126339096'
+    formattedPhone: (212) 633-9096
+    twitter: twobootshq
+  location:
+    address: 201 W 11th St
+    crossStreet: Greenwich Ave
+    lat: 40.73651061
+    lng: -74.00101
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/two-boots/435ad280f964a52000291fe3
+  categories:
+  - id: 4bf58dd8d48988d1ca941735
+    name: Pizza Place
+    pluralName: Pizza Places
+    shortName: Pizza
+    icon: https://foursquare.com/img/categories/food/pizza.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 3687
+    usersCount: 2458
+    tipCount: 43
+  url: http://www.twoboots.com
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/two-boots/435ad280f964a52000291fe3/menu
+    mobileUrl: https://foursquare.com/v/435ad280f964a52000291fe3/device_menu
+  beenHere:
+    count: 9
+    marked: false
+  storeId: TBWV
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Two Boots
+icon: https://foursquare.com/img/categories/food/pizza.png
+url: https://foursquare.com/v/two-boots/435ad280f964a52000291fe3
+date: 2013-05-21 13:47:52.000000000 -05:00
+
+---

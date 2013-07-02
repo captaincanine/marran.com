@@ -33,16 +33,38 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1149
-    usersCount: 877
-    tipCount: 12
+    checkinsCount: 1173
+    usersCount: 898
+    tipCount: 11
   url: http://mrchocolate.com
   likes:
-    count: 7
+    count: 9
     groups:
     - type: others
-      count: 7
+      count: 9
       items:
+      - id: '1197248'
+        firstName: Ki
+        lastName: C.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/IXZPIOUKNRVJZYSP.jpg
+        tips:
+          count: 20
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+      - id: '4296239'
+        firstName: Nicole
+        lastName: C.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/FF4M3HWJ2M5RCUZQ.jpg
+        tips:
+          count: 0
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: nicolecata
+          facebook: '1366590040'
       - id: '1961094'
         firstName: Eric
         lastName: E.
@@ -60,46 +82,24 @@ venue:
         gender: male
         photo: https://foursquare.com/img/blank_boy.png
         tips:
-          count: 9
+          count: 12
         lists:
           groups:
           - type: created
-            count: 21
+            count: 31
             items: []
         homeCity: Hempstead, NY
         bio: ''
         contact:
           facebook: '100000169530371'
-      - id: '28009730'
-        firstName: Kelly
-        lastName: R.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/ZAYHJOO1WBWHHYG5.jpg
-        tips:
-          count: 32
-        lists:
-          groups:
-          - type: created
-            count: 5
-            items: []
-        homeCity: Loves Park, IL
-        bio: ! 'Male.., I like to have fun.. And love to make people Laugh : ) alway
-          looking for the best in Life'
-        contact:
-          twitter: kelly_rine
-          facebook: '1479756765'
-      - id: '51909613'
-        firstName: Maddy
-        lastName: S.
-        gender: female
-        photo: https://is1.4sqi.net/userpix_thumbs/5PZCLWEG1SNHINJW.jpg
-        tips:
-          count: 0
-        homeCity: ! 'Commerce Twp, MI '
-        bio: ''
-        contact: {}
-    summary: Eric E, FredeRick, Kelly R & 4 others
+    summary: Ki C, Nicole C, Eric E & 6 others
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/jacques-torres-chocolate/4acf9ae7f964a520e3d420e3/menu
+    mobileUrl: https://foursquare.com/v/4acf9ae7f964a520e3d420e3/device_menu
   beenHere:
     count: 6
     marked: false

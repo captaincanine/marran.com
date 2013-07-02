@@ -32,17 +32,17 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 44500
-    usersCount: 24382
-    tipCount: 211
+    checkinsCount: 53867
+    usersCount: 28825
+    tipCount: 251
   url: http://www.aena-aeropuertos.es/csee/satellite/aeropuerto-madrid-barajas/es/
   likes:
-    count: 153
+    count: 232
     groups:
     - type: others
-      count: 153
+      count: 232
       items: []
-    summary: 153 likes
+    summary: 232 likes
   like: false
   beenHere:
     count: 1

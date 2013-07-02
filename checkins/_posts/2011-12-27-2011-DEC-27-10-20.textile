@@ -11,8 +11,7 @@ venue:
     phone: '+442079309596'
     formattedPhone: +44 20 7930 9596
   location:
-    address: 200 Picadilly
-    crossStreet: 200 Piccadilly
+    address: 200 Piccadilly
     lat: 51.50902805461914
     lng: -0.13661490937492357
     postalCode: W1J 9HU
@@ -32,17 +31,17 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 1123
-    usersCount: 860
+    checkinsCount: 1179
+    usersCount: 900
     tipCount: 13
   url: http://www.costa.co.uk
   likes:
-    count: 11
+    count: 12
     groups:
     - type: others
-      count: 11
+      count: 12
       items: []
-    summary: 11 likes
+    summary: 12 likes
   like: false
   beenHere:
     count: 1

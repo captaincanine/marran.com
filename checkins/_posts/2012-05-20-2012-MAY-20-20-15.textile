@@ -33,25 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 11322
-    usersCount: 7589
-    tipCount: 173
+    checkinsCount: 11763
+    usersCount: 7912
+    tipCount: 179
   url: http://www.apothekenyc.com
   likes:
-    count: 93
+    count: 113
     groups:
     - type: others
-      count: 93
+      count: 113
       items: []
-    summary: 93 likes
+    summary: 113 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/apoth%C3%A9ke/48c91543f964a520e4511fe3/menu
     mobileUrl: https://foursquare.com/v/48c91543f964a520e4511fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

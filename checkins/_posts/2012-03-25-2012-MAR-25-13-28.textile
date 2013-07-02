@@ -33,81 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 823
-    usersCount: 558
-    tipCount: 13
+    checkinsCount: 900
+    usersCount: 611
+    tipCount: 14
   url: http://www.oaxacatacos.com
   likes:
-    count: 8
+    count: 11
     groups:
     - type: others
-      count: 8
-      items:
-      - id: '694314'
-        firstName: Tianyu
-        lastName: Q.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/XINDHLK1KIG4GFGK.jpg
-        tips:
-          count: 3
-        lists:
-          groups:
-          - type: created
-            count: 3
-            items: []
-        homeCity: New York, NY
-        bio: ''
-        contact:
-          facebook: '1907263'
-      - id: '4280562'
-        firstName: Edrizio
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/LY5T1MQRRP0SRMME.jpg
-        tips:
-          count: 2
-        homeCity: Philadelphia, PA
-        bio: ''
-        contact:
-          twitter: edriziocruz
-      - id: '1010102'
-        firstName: Luisa
-        gender: female
-        photo: https://is0.4sqi.net/userpix_thumbs/X1XOOS1LHMDQFCEI.jpg
-        tips:
-          count: 12
-        lists:
-          groups:
-          - type: created
-            count: 4
-            items: []
-        homeCity: Augsburg
-        bio: Travel and food junkie
-        contact:
-          twitter: luruppert
-          facebook: '529519932'
-      - id: '18645'
-        firstName: Heewa
-        lastName: B.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/C01CJS3GJ5XZF5LT.png
-        tips:
-          count: 52
-        lists:
-          groups:
-          - type: created
-            count: 12
-            items: []
-        homeCity: Brooklyn, NY
-        bio: I have a beard, I code, and I’m constantly really freakishly excited
-          about something!
-        contact:
-          twitter: heewa
-          facebook: '24400624'
-    summary: Tianyu Q, Edrizio, Luisa & 5 others
+      count: 11
+      items: []
+    summary: 11 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/oaxaca-taqueria-greenwich/4f6274cce4b041039be22947/menu
+    mobileUrl: https://foursquare.com/v/4f6274cce4b041039be22947/device_menu
   beenHere:
     count: 2
     marked: false
+  storeId: Greenwich Ave.
 likes:
   count: 0
   groups: []

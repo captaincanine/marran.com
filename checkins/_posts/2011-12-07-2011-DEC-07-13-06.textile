@@ -32,73 +32,21 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 2357
-    usersCount: 1602
-    tipCount: 58
+    checkinsCount: 2456
+    usersCount: 1675
+    tipCount: 59
   likes:
-    count: 9
+    count: 11
     groups:
     - type: others
-      count: 9
-      items:
-      - id: '2333768'
-        firstName: Rodrigo
-        lastName: F.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/X1RXQVPV52FBSNXZ.jpg
-        tips:
-          count: 3
-        homeCity: Guarulhos, Brasil
-        bio: ! "Memento mori\U0001F480"
-        contact:
-          twitter: rodrigostpf
-      - id: '1628867'
-        firstName: Laura
-        lastName: V.
-        gender: female
-        photo: https://is1.4sqi.net/userpix_thumbs/AKUJLIAYDKF3OKID.jpg
-        tips:
-          count: 3
-        homeCity: Massapequa, NY
-        bio: ''
-        contact: {}
-      - id: '31568644'
-        firstName: Aileen
-        lastName: R.
-        gender: female
-        photo: https://is0.4sqi.net/userpix_thumbs/XZGNKELTJONJBVYU.jpg
-        tips:
-          count: 13
-        lists:
-          groups:
-          - type: created
-            count: 5
-            items: []
-        homeCity: Great Meadows, NJ
-        bio: Web designer/developer that loves bulldogs and a good meal. Avid traveller
-          and always on some sort of adventure. :)
-        contact:
-          twitter: lilikat
-          facebook: '54900639'
-      - id: '1653780'
-        firstName: Randall
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/TQOE00UELWYRBZOV.jpg
-        tips:
-          count: 44
-        lists:
-          groups:
-          - type: created
-            count: 2
-            items: []
-        homeCity: New York, NY
-        bio: ''
-        contact:
-          facebook: '617373522'
-    summary: Rodrigo F, Laura V, Aileen R & 6 others
+      count: 11
+      items: []
+    summary: 11 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/ronnybrook-farm-dairy-milk-bar/46bff01ef964a520ec491fe3/menu
     mobileUrl: https://foursquare.com/v/46bff01ef964a520ec491fe3/device_menu
   beenHere:

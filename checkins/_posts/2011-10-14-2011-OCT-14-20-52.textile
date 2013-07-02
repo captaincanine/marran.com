@@ -33,16 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1719
-    usersCount: 1340
-    tipCount: 15
+    checkinsCount: 1836
+    usersCount: 1430
+    tipCount: 18
   url: http://moranschelsea.com
   likes:
-    count: 1
+    count: 2
     groups:
     - type: others
-      count: 1
+      count: 2
       items:
+      - id: '33414326'
+        firstName: Moran's - Chelsea
+        gender: none
+        photo: https://is1.4sqi.net/userpix_thumbs/W1CR5QCO5OPFZWIF.png
+        type: chain
+        tips:
+          count: 0
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: moranschelsea
+          facebook: '104275327516'
       - id: '7294631'
         firstName: Bat
         lastName: M.
@@ -54,15 +66,18 @@ venue:
         bio: ''
         contact:
           facebook: '100003141543454'
-    summary: Bat M
+    summary: Moran's - Chelsea & Bat M
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/morans--chelsea/4a4fc27ff964a520abaf1fe3/menu
     mobileUrl: https://foursquare.com/v/4a4fc27ff964a520abaf1fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

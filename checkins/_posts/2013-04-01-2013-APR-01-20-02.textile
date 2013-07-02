@@ -32,17 +32,17 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 5685
-    usersCount: 4573
-    tipCount: 41
+    checkinsCount: 6016
+    usersCount: 4820
+    tipCount: 42
   url: http://www.gothamcomedyclub.com
   likes:
-    count: 22
+    count: 29
     groups:
     - type: others
-      count: 22
+      count: 29
       items: []
-    summary: 22 likes
+    summary: 29 likes
   like: false
   beenHere:
     count: 1

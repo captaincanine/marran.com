@@ -6,7 +6,7 @@ timeZone: Asia/Jerusalem
 timeZoneOffset: 180
 venue:
   id: 4bdc1f392a3a0f47578db1b6
-  name: Boya
+  name: Boya (בויה)
   contact:
     phone: '+97235446166'
     formattedPhone: +972 3-544-6166
@@ -19,7 +19,7 @@ venue:
     city: Tel Aviv
     country: Israel
     cc: IL
-  canonicalUrl: https://foursquare.com/v/boya/4bdc1f392a3a0f47578db1b6
+  canonicalUrl: https://foursquare.com/v/boya-%D7%91%D7%95%D7%99%D7%94/4bdc1f392a3a0f47578db1b6
   categories:
   - id: 4bf58dd8d48988d1db931735
     name: Tapas Restaurant
@@ -31,15 +31,33 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 453
-    usersCount: 366
+    checkinsCount: 485
+    usersCount: 390
     tipCount: 9
+  url: http://www.boya.co.il
   likes:
-    count: 1
+    count: 2
     groups:
     - type: others
-      count: 1
+      count: 2
       items:
+      - id: '1773863'
+        firstName: Joseph
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/HJEFLDAMVCRBPS0E.jpg
+        tips:
+          count: 9
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: Woodstock, Georgia
+        bio: ''
+        contact:
+          twitter: jgs1701
+          facebook: '575579743'
       - id: '34815784'
         firstName: Boya
         lastName: B.
@@ -51,7 +69,7 @@ venue:
         bio: ''
         contact:
           facebook: '100004167554254'
-    summary: Boya B
+    summary: Joseph S & Boya B
   like: false
   beenHere:
     count: 1
@@ -72,9 +90,9 @@ comments:
 source:
   name: foursquare for iPhone
   url: https://foursquare.com/download/#/iphone
-title: Boya
+title: Boya (בויה)
 icon: https://foursquare.com/img/categories/food/default.png
-url: https://foursquare.com/v/boya/4bdc1f392a3a0f47578db1b6
+url: https://foursquare.com/v/boya-%D7%91%D7%95%D7%99%D7%94/4bdc1f392a3a0f47578db1b6
 date: 2011-09-13 11:06:37.000000000 -05:00
 
 ---

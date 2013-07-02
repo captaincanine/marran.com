@@ -33,21 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 7204
-    usersCount: 3597
-    tipCount: 166
+    checkinsCount: 7725
+    usersCount: 3889
+    tipCount: 175
   url: http://www.facebook.com/Coppelianyc?filter=3
   likes:
-    count: 68
+    count: 83
     groups:
     - type: others
-      count: 68
+      count: 83
       items: []
-    summary: 68 likes
+    summary: 83 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/coppelia/4d960605daec224beab30c3e/menu
+    mobileUrl: https://foursquare.com/v/4d960605daec224beab30c3e/device_menu
   beenHere:
     count: 2
     marked: false
+  storeId: ''
   listed:
     groups:
     - type: todos

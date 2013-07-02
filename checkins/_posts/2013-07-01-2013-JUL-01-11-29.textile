@@ -1,0 +1,73 @@
+---
+id: 51d1ae72498ef001168a774f
+createdAt: 1372696178
+type: checkin
+timeZone: America/Chicago
+timeZoneOffset: -300
+venue:
+  id: 44d9ff60f964a5208b361fe3
+  name: Dallas/Fort Worth International Airport (DFW)
+  contact:
+    phone: '9729738888'
+    formattedPhone: (972) 973-8888
+    twitter: dfwairport
+  location:
+    address: 3200 E Airfield Dr
+    crossStreet: at International Pky
+    lat: 32.89803818160521
+    lng: -97.04086303710938
+    postalCode: '76051'
+    city: DFW Airport
+    state: TX
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/dallasfort-worth-international-airport-dfw/44d9ff60f964a5208b361fe3
+  categories:
+  - id: 4bf58dd8d48988d1ed931735
+    name: Airport
+    pluralName: Airports
+    shortName: Airport
+    icon: https://foursquare.com/img/categories/travel/airport.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 700440
+    usersCount: 213574
+    tipCount: 1688
+  url: http://www.dfwairport.com
+  likes:
+    count: 748
+    groups:
+    - type: others
+      count: 748
+      items: []
+    summary: 748 likes
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Dallas/Fort Worth International Airport (DFW)
+icon: https://foursquare.com/img/categories/travel/airport.png
+url: https://foursquare.com/v/dallasfort-worth-international-airport-dfw/44d9ff60f964a5208b361fe3
+date: 2013-07-01 11:29:38.000000000 -05:00
+
+---

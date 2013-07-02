@@ -1,0 +1,140 @@
+---
+layout: html
+title: You're Invited to Keith & David's 4th of July
+description: We’ll serve some food so fantastically American, you’ll grow a long white Uncle Sam goatee.
+tags:
+- Wonder Woman
+- festivities
+wufoo:
+  code: N814PJ
+  height: 691
+location:
+  address: 218 W 15th St, NY, NY
+  latitude: 40.7396183
+  longitude: -74.00017439999999
+---
+<body class="fourth-invite">
+
+<div class="container">
+
+  <div class="paper-edge">
+
+<div class="clearfix">
+
+  <div class="left-side">
+    <div class="first"><img src="/events/images/wonder-woman-1.png" /></div>
+    <div><img src="/events/images/wonder-woman-2.png" /></div>
+    <div><img src="/events/images/wonder-woman-3.png" /></div>
+    <div><img src="/events/images/wonder-woman-4.png" /></div>
+    <div><img src="/events/images/wonder-woman-5.png" /></div>
+    <div><img src="/events/images/wonder-woman-6.png" /></div>
+    <div><img src="/events/images/wonder-woman-7.png" /></div>
+    <div class="last"><img src="/events/images/wonder-woman-8.png" /></div>
+  </div>
+
+  <div class="right-side">
+  
+    <div class="panel odd first">
+      <p>You are cordially invited to...</p>
+      <div class="big-info">
+        <h1>Keith & David's</h1>
+        <h1 class="alt">Keith & David's</h1>
+        <h2>4th of July Party</h2>
+        <h2 class="alt">4th of July Party</h2>
+      </div>
+      <p>July 4th, 2013, 6 — 10pm</p>
+    </div>
+    
+    <div class="breaker"><img src="/events/images/stars.png" /></div>
+    
+    <div class="panel even">
+    
+      <p>The 4th of July is on a Thursday this year.</p>
+      <p>A lot of you will be stuck in the city.</p>
+      <p>So dress in your best red, white,<br/>
+          & blue, and stumble on over to our place.</p>
+      <p>We’ll serve some food so fantastically <br/>
+          American, you’ll grow a long white Uncle Sam goatee.</p>
+      <p>And if you want to see the fireworks, <br/>
+          our house is close to the action.</p>
+
+    </div>
+
+    <div class="breaker"><img src="/events/images/stars.png" /></div>
+    
+    <div class="panel odd">
+    
+      <h2>
+        <div class="more-info">We're at</div>
+        218 W 15th St
+        <div class="more-info">Between 7th and 8th Ave.</div>
+      </h2>
+
+      <p>Here’s a map:</p>
+      
+      <iframe width="600" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=218+w+15th+street&amp;ie=UTF8&amp;hq=&amp;hnear=218+W+15th+St,+New+York,+10011&amp;gl=us&amp;t=m&amp;ll=40.748102,-73.998928&amp;spn=0.02601,0.034246&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+
+    </div>
+
+    <div class="breaker"><img src="/events/images/stars.png" /></div>
+
+    <div class="panel even">
+      
+      <h2>
+        Répondez s'il vous plaît
+        <div class="more-info">(pardon our French)</div>
+      </h2>
+      
+      <form action="https://marran.pandaform.com/pub/N814PJ" enctype="multipart/form-data" method="post">
+
+        <div class="control-group">
+          <label for="name">Your Name</label>
+          <input type="text" value="" name="name" id="name" class="input-xlarge">
+        </div>
+
+        <div class="control-group">        
+          <label class="radio">
+            <input type="radio" name="attending" value="I can't attend. I'm so jealous." class="radio" id="attending"> I can't attend. I'm so jealous.
+          </label>
+        
+          <label class="radio">
+            <input type="radio" name="attending" value="I'll be there!" class="radio" checked> I'll be there!
+          </label>
+        
+          <label class="radio">
+            <input type="radio" name="attending" value="Me and a mystery guest." class="radio"> Me and a mystery guest.
+          </label>
+        
+          <label class="radio">
+            <input type="radio" name="attending" value="Me and hordes of others." class="radio"> Me and hordes of others.
+          </label>
+        </div>
+        
+        <div class="control-group">
+          <label for="name">Say Anything</label>
+          <textarea name="comments" id="comments" class="input-xlarge" rows="6"></textarea>
+        </div>
+       
+        <button type="submit" class="btn btn-primary btn-large">R.S.V.P.</button>  
+          
+        <p>or <a href="mailto:keith@marran.com">send me an email.</a></p>
+
+        <input type="hidden" name="$action" value="_firstSubmitInstep">
+
+      </form>
+      
+    </div>
+
+    <div class="panel last">
+    
+      <div class="breaker"><img src="/events/images/stars.png" /></div>    
+      <h2>We hope to <br/> see you there!</h2>
+      <div class="breaker"><img src="/events/images/stars.png" /></div>
+    
+    </div>
+
+  </div>
+  
+</div>
+
+</body>

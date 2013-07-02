@@ -33,25 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 7718
-    usersCount: 5108
+    checkinsCount: 7819
+    usersCount: 5174
     tipCount: 79
   url: http://www.fiveguys.com
   likes:
-    count: 21
+    count: 25
     groups:
     - type: others
-      count: 21
+      count: 25
       items: []
-    summary: 21 likes
+    summary: 25 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/five-guys/4a09e007f964a52065741fe3/menu
     mobileUrl: https://foursquare.com/v/4a09e007f964a52065741fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: 286 - New York (LaGuardia St)
 likes:
   count: 0
   groups: []

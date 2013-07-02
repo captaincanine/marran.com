@@ -33,92 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1043
-    usersCount: 633
-    tipCount: 5
+    checkinsCount: 1284
+    usersCount: 757
+    tipCount: 6
   url: http://www.thisnthatbrooklyn.com
   likes:
-    count: 9
+    count: 13
     groups:
-    - type: friends
-      count: 1
-      items:
-      - id: '8354602'
-        firstName: Carmine
-        lastName: Tzavis
-        gender: male
-        relationship: friend
-        photo: https://is1.4sqi.net/userpix_thumbs/W2MRW1XCCCRMAPOC.jpg
-        tips:
-          count: 2
-        lists:
-          groups:
-          - type: created
-            count: 1
-            items: []
-        homeCity: NY
-        bio: ''
-        contact:
-          email: djbigragoo@yahoo.com
-          twitter: djbigragoo
-          facebook: '100000813165354'
     - type: others
-      count: 8
-      items:
-      - id: '1792027'
-        firstName: Jay Anthony
-        lastName: C.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/QC2PANWD4APSB5EF.jpg
-        tips:
-          count: 5
-        homeCity: New York, NY
-        bio: ''
-        contact:
-          facebook: '100000951530486'
-      - id: '34170883'
-        firstName: KT
-        lastName: G.
-        gender: female
-        photo: https://is1.4sqi.net/userpix_thumbs/EMAPDGI03PH4K5U4.jpg
-        tips:
-          count: 11
-        lists:
-          groups:
-          - type: created
-            count: 1
-            items: []
-        homeCity: New York, NY
-        bio: Museum lady person.
-        contact:
-          twitter: katrinagomez
-          facebook: '1379130089'
-      - id: '41657593'
-        firstName: Anthony
-        lastName: M.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/U3KC41SMK4DEGLRT.jpg
-        tips:
-          count: 7
-        homeCity: Brooklyn, NY
-        bio: ''
-        contact: {}
-      - id: '17844164'
-        firstName: Diana
-        gender: female
-        photo: https://is1.4sqi.net/userpix_thumbs/4JH1XHKD4IPMUL2V.jpg
-        tips:
-          count: 0
-        homeCity: Brooklyn, NY
-        bio: ''
-        contact:
-          twitter: demitasseofdoom
-          facebook: '643270257'
-    summary: Carmine Tzavis, Jay Anthony C, KT G & 6 others
+      count: 13
+      items: []
+    summary: 13 likes
   like: false
   beenHere:
-    count: 3
+    count: 6
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

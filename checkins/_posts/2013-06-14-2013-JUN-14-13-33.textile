@@ -1,0 +1,131 @@
+---
+id: 51bb61f9498e22927a50bc4e
+createdAt: 1371234809
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 50cb6140e4b0cbbcc8b4b50c
+  name: Pret A Manger
+  contact:
+    phone: '2122552087'
+    formattedPhone: (212) 255-2087
+  location:
+    address: 655 Avenue of the Americas
+    crossStreet: btwn W 20th & 21st
+    lat: 40.74129734013606
+    lng: -73.99384674453454
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/pret-a-manger/50cb6140e4b0cbbcc8b4b50c
+  categories:
+  - id: 4bf58dd8d48988d1c5941735
+    name: Sandwich Place
+    pluralName: Sandwich Places
+    shortName: Sandwiches
+    icon: https://foursquare.com/img/categories/food/sandwiches.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 708
+    usersCount: 352
+    tipCount: 4
+  url: http://www.pret.com
+  likes:
+    count: 6
+    groups:
+    - type: others
+      count: 6
+      items:
+      - id: '2434174'
+        firstName: Ian
+        lastName: V.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/P3FQWYAUFG2RPXWL.jpg
+        tips:
+          count: 39
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: Brooklyn, NY
+        bio: Information is my vocation.
+        contact:
+          twitter: ianvalentine
+          facebook: '199800112'
+        superuser: 1
+      - id: '9924'
+        firstName: Frank
+        lastName: B.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/23LNJ0UPIVKLCX2U.jpg
+        tips:
+          count: 28
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact:
+          twitter: fbonomo
+          facebook: '626491602'
+        superuser: 2
+      - id: '731339'
+        firstName: Dave
+        lastName: M.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/NQKQAHXPSAZHRATJ.jpg
+        tips:
+          count: 1
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: mccrory
+          facebook: '1413968484'
+      - id: '2928458'
+        firstName: Leo
+        lastName: M.
+        gender: none
+        photo: https://is1.4sqi.net/userpix_thumbs/WVG5RRY5MYL2S13M.jpg
+        tips:
+          count: 33
+        lists:
+          groups:
+          - type: created
+            count: 23
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: leo_mordis
+          facebook: '34603781'
+    summary: Ian V, Frank B, Dave M & 3 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Pret A Manger
+icon: https://foursquare.com/img/categories/food/sandwiches.png
+url: https://foursquare.com/v/pret-a-manger/50cb6140e4b0cbbcc8b4b50c
+date: 2013-06-14 13:33:29.000000000 -05:00
+
+---

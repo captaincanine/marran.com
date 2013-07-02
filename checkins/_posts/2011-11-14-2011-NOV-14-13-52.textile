@@ -32,8 +32,8 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 2210
-    usersCount: 949
+    checkinsCount: 2297
+    usersCount: 981
     tipCount: 2
   url: http://www.walgreens.com/locator/Duane-Reade-77-7TH-AVE-NEW-YORK-NY-10011/id=14260
   likes:
@@ -57,6 +57,7 @@ venue:
   beenHere:
     count: 1
     marked: false
+  storeId: '14260'
 likes:
   count: 0
   groups: []

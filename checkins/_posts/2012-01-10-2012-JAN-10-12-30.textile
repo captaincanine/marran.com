@@ -39,11 +39,33 @@ venue:
   closed: true
   url: http://www.elevationburger.com
   likes:
-    count: 0
-    groups: []
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '27888796'
+        firstName: Carolyn
+        lastName: D.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/ZEAQOKEFOJPJPCBA.jpg
+        tips:
+          count: 5
+        lists:
+          groups:
+          - type: created
+            count: 17
+            items: []
+        homeCity: Erie,Pa
+        bio: ! "Always now forever more...space, time, and patience\r\nKIK Starrblonde"
+        contact:
+          facebook: '1396872310'
+    summary: Carolyn D
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/elevation-burger/4d0ba4f66d26a0937a59792d/menu
     mobileUrl: https://foursquare.com/v/4d0ba4f66d26a0937a59792d/device_menu
   beenHere:

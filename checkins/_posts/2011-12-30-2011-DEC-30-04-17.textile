@@ -30,8 +30,8 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1348
-    usersCount: 766
+    checkinsCount: 1410
+    usersCount: 802
     tipCount: 6
   url: http://starbucks.co.uk
   likes:
@@ -58,7 +58,7 @@ venue:
         gender: male
         photo: https://is0.4sqi.net/userpix_thumbs/AMQ0KJ5BOZLFZJ42.jpg
         tips:
-          count: 7
+          count: 8
         homeCity: Shoreditch
         bio: ! "Director of www.peopleofprint.com\r\n@people_of_print\r\n\r\nGraphic
           Design / Illustration \r\nwww.marcroy.co.uk"
@@ -69,9 +69,9 @@ venue:
         firstName: Pete
         lastName: G.
         gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/SMSQSVFOHZ5KRAPE.jpg
+        photo: https://is1.4sqi.net/userpix_thumbs/P35AEQMIEQE4V0JI.jpg
         tips:
-          count: 7
+          count: 9
         homeCity: London
         bio: ''
         contact:
@@ -98,6 +98,7 @@ venue:
   beenHere:
     count: 2
     marked: false
+  storeId: '12317'
 likes:
   count: 0
   groups: []

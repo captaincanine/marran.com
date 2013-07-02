@@ -1,0 +1,149 @@
+---
+id: 51bd3339498ed90edca6c158
+createdAt: 1371353913
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4bcf566bcaff952117faccf0
+  name: Cherry's On The Bay
+  contact:
+    phone: '6315977859'
+    formattedPhone: (631) 597-7859
+  location:
+    address: 179 Main Walk
+    lat: 40.66026170990192
+    lng: -73.08959484100342
+    postalCode: '11706'
+    city: cherry grove
+    state: New York
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/cherrys-on-the-bay/4bcf566bcaff952117faccf0
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 1346
+    usersCount: 681
+    tipCount: 8
+  likes:
+    count: 9
+    groups:
+    - type: friends
+      count: 1
+      items:
+      - id: '4558909'
+        firstName: John
+        lastName: Duckett
+        gender: male
+        relationship: friend
+        photo: https://is1.4sqi.net/userpix_thumbs/LK4TS20ETM2CW5P4.jpg
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: Music and Educational Publishing Professional in the New York City Metro
+          Area
+        contact:
+          phone: '9174285040'
+          email: jfduckett@bishopduckett.net
+          twitter: jfduckett
+          facebook: '567340649'
+    - type: others
+      count: 8
+      items:
+      - id: '1446954'
+        firstName: Bryan
+        lastName: C.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/TWUTRV0TPTIFKI03.jpg
+        tips:
+          count: 6
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: Seattle, WA
+        bio: ''
+        contact:
+          twitter: cbcolson
+          facebook: '529174493'
+      - id: '1204402'
+        firstName: Mathew
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/WUBMC2E22ZT4YGVE.jpg
+        tips:
+          count: 1
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: specialsos311
+          facebook: '2705666'
+      - id: '10139003'
+        firstName: Thomas
+        lastName: S.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/1R5A4FAGTPIMQ34K.jpg
+        tips:
+          count: 3
+        homeCity: Shelburne Falls, MA
+        bio: ''
+        contact:
+          twitter: milburncreek
+          facebook: '1000871455'
+      - id: '5496679'
+        firstName: Christine
+        lastName: C.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/UX50OL0MTWC4CVDJ.jpg
+        tips:
+          count: 8
+        homeCity: Sayville, NY
+        bio: ''
+        contact: {}
+    summary: John Duckett, Bryan C, Mathew S & 6 others
+  like: false
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Cherry's On The Bay
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/cherrys-on-the-bay/4bcf566bcaff952117faccf0
+date: 2013-06-15 22:38:33.000000000 -05:00
+
+---

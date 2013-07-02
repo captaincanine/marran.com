@@ -8,8 +8,8 @@ venue:
   id: 4c225ae47e85c9283ee5bb21
   name: Trader Joe's
   contact:
-    phone: '2122552106'
-    formattedPhone: (212) 255-2106
+    phone: '2122552105'
+    formattedPhone: (212) 255-2105
   location:
     address: 675 6th Ave
     crossStreet: at W 21st St
@@ -33,21 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 47315
-    usersCount: 13479
-    tipCount: 184
+    checkinsCount: 49712
+    usersCount: 14019
+    tipCount: 192
   url: http://www.traderjoes.com
   likes:
-    count: 68
+    count: 85
     groups:
     - type: others
-      count: 68
+      count: 85
       items: []
-    summary: 68 likes
+    summary: 85 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: '543'
 likes:
   count: 0
   groups: []

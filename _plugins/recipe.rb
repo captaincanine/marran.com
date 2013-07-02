@@ -50,6 +50,8 @@ module Jekyll
 
   module Filters
   
+    require 'active_support/all'
+  
     # Outputs a list of tags as comma-separated <a> links. This is used
     # to output the tag list for each post on a tag page.
     #
@@ -60,7 +62,8 @@ module Jekyll
       
       html = String.new
       tags.keys.sort.each do |key|
-        html << '<a href="/tags/' + Site.slugify(key) + '/" class="tag-link">'+key+'</a>'
+        tag = key['name'] || key
+        html << '<a href="/tags/' + tag.parameterize + '/" class="tag-link">'+tag+'</a>'
       end
       
       "#{html}"

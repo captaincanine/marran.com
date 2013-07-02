@@ -29,19 +29,31 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 2193
-    usersCount: 862
+    checkinsCount: 2289
+    usersCount: 914
     tipCount: 3
   likes:
-    count: 3
+    count: 4
     groups:
     - type: others
-      count: 3
+      count: 4
       items:
+      - id: '54222131'
+        firstName: Frederick
+        lastName: R.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/JKENWY1B3KU2Z0MZ.jpg
+        tips:
+          count: 13
+        homeCity: New York
+        bio: ''
+        contact:
+          twitter: frothe3
+          facebook: '100000487862708'
       - id: '1043498'
-        firstName: Ray
+        firstName: R
         gender: none
-        photo: https://is0.4sqi.net/userpix_thumbs/WXNVA340LUX2SZN1.jpg
+        photo: https://is1.4sqi.net/userpix_thumbs/UGGH24UDW3SUGY2E.jpg
         tips:
           count: 228
         lists:
@@ -58,7 +70,7 @@ venue:
         gender: none
         photo: https://is1.4sqi.net/userpix_thumbs/WVG5RRY5MYL2S13M.jpg
         tips:
-          count: 31
+          count: 33
         lists:
           groups:
           - type: created
@@ -86,7 +98,7 @@ venue:
         contact:
           twitter: marcycama
           facebook: '1009184679'
-    summary: Ray, Leo M & Masami K
+    summary: Frederick R, R, Leo M & Masami K
   like: false
   beenHere:
     count: 1

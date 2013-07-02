@@ -1,0 +1,79 @@
+---
+id: 51b60a59498e77ba1b634a12
+createdAt: 1370884697
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 3fd66200f964a520c5e51ee3
+  name: Old Homestead Steakhouse
+  contact:
+    phone: '2122429040'
+    formattedPhone: (212) 242-9040
+  location:
+    address: 56 9th Ave
+    crossStreet: btwn 14th St & 15th St
+    lat: 40.74117177546595
+    lng: -74.00488791939495
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/old-homestead-steakhouse/3fd66200f964a520c5e51ee3
+  categories:
+  - id: 4bf58dd8d48988d1cc941735
+    name: Steakhouse
+    pluralName: Steakhouses
+    shortName: Steakhouse
+    icon: https://foursquare.com/img/categories/food/steakhouse.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 3852
+    usersCount: 3364
+    tipCount: 64
+  url: http://www.theoldhomesteadsteakhouse.com
+  likes:
+    count: 16
+    groups:
+    - type: others
+      count: 16
+      items: []
+    summary: 16 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=7865&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/old-homestead-steakhouse/3fd66200f964a520c5e51ee3/menu
+    mobileUrl: https://foursquare.com/v/3fd66200f964a520c5e51ee3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Old Homestead Steakhouse
+icon: https://foursquare.com/img/categories/food/steakhouse.png
+url: https://foursquare.com/v/old-homestead-steakhouse/3fd66200f964a520c5e51ee3
+date: 2013-06-10 12:18:17.000000000 -05:00
+
+---

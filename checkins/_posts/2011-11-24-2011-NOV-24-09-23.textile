@@ -11,8 +11,8 @@ venue:
   location:
     address: W 4th St
     crossStreet: btwn MacDougal St & University Pl
-    lat: 40.73083612189599
-    lng: -73.99764060974121
+    lat: 40.730844252027985
+    lng: -73.99735629558563
     postalCode: '10012'
     city: New York
     state: NY
@@ -30,20 +30,21 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 94189
-    usersCount: 41053
-    tipCount: 303
+    checkinsCount: 101014
+    usersCount: 43552
+    tipCount: 316
   likes:
-    count: 315
+    count: 415
     groups:
     - type: others
-      count: 315
+      count: 415
       items: []
-    summary: 315 likes
+    summary: 415 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

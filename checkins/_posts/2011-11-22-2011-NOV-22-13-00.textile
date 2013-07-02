@@ -33,25 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 3540
-    usersCount: 2358
+    checkinsCount: 3687
+    usersCount: 2458
     tipCount: 43
   url: http://www.twoboots.com
   likes:
-    count: 10
+    count: 13
     groups:
     - type: others
-      count: 10
+      count: 13
       items: []
-    summary: 10 likes
+    summary: 13 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/two-boots/435ad280f964a52000291fe3/menu
     mobileUrl: https://foursquare.com/v/435ad280f964a52000291fe3/device_menu
   beenHere:
-    count: 6
+    count: 9
     marked: false
+  storeId: TBWV
 likes:
   count: 0
   groups: []

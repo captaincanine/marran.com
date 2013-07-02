@@ -1,0 +1,96 @@
+---
+id: 51bddee9498e82cecbd151f8
+createdAt: 1371397865
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4bc25d5b4cdfc9b627109621
+  name: Northern Manor Restaurant
+  contact:
+    phone: '7182811500'
+    formattedPhone: (718) 281-1500
+  location:
+    address: 25115 Northern Blvd
+    lat: 40.7694061807788
+    lng: -73.73675589955296
+    postalCode: '11363'
+    city: Little Neck
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/northern-manor-restaurant/4bc25d5b4cdfc9b627109621
+  categories:
+  - id: 4bf58dd8d48988d145941735
+    name: Chinese Restaurant
+    pluralName: Chinese Restaurants
+    shortName: Chinese
+    icon: https://foursquare.com/img/categories/food/chinese.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 990
+    usersCount: 441
+    tipCount: 8
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '53933492'
+        firstName: Josephine
+        lastName: K.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/CGY0YVTK3GECRXSN.jpg
+        tips:
+          count: 0
+        homeCity: New York
+        bio: ''
+        contact:
+          facebook: '1804258425'
+      - id: '53867347'
+        firstName: Vicky
+        lastName: T.
+        gender: female
+        photo: https://foursquare.com/img/blank_girl.png
+        tips:
+          count: 1
+        homeCity: Plandome Heights, NY
+        bio: ''
+        contact: {}
+    summary: Josephine K & Vicky T
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/northern-manor-restaurant/4bc25d5b4cdfc9b627109621/menu
+    mobileUrl: https://foursquare.com/v/4bc25d5b4cdfc9b627109621/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Northern Manor Restaurant
+icon: https://foursquare.com/img/categories/food/chinese.png
+url: https://foursquare.com/v/northern-manor-restaurant/4bc25d5b4cdfc9b627109621
+date: 2013-06-16 10:51:05.000000000 -05:00
+
+---

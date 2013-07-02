@@ -32,8 +32,8 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 314
-    usersCount: 75
+    checkinsCount: 332
+    usersCount: 81
     tipCount: 1
   url: http://www.lamanopottery.com
   likes:
@@ -43,6 +43,7 @@ venue:
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

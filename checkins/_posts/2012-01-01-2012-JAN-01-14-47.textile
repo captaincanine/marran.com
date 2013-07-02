@@ -33,27 +33,30 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 15769
-    usersCount: 11163
-    tipCount: 130
+    checkinsCount: 16607
+    usersCount: 11702
+    tipCount: 133
   url: http://www.rosamexicano.com/Locations/NewYorkNYUnionSquare/tabid/97/Default.aspx
   likes:
-    count: 33
+    count: 39
     groups:
     - type: others
-      count: 33
+      count: 39
       items: []
-    summary: 33 likes
+    summary: 39 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=4946&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/rosa-mexicano/43ed7e9ef964a5204e2f1fe3/menu
     mobileUrl: https://foursquare.com/v/43ed7e9ef964a5204e2f1fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

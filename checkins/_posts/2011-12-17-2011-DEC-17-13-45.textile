@@ -32,22 +32,38 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 3727
-    usersCount: 1475
+    checkinsCount: 3861
+    usersCount: 1521
     tipCount: 16
   likes:
-    count: 8
+    count: 9
     groups:
     - type: others
-      count: 8
+      count: 9
       items:
+      - id: '3500606'
+        firstName: Kelly
+        gender: none
+        photo: https://is0.4sqi.net/userpix_thumbs/B5FN5LXIGLJN4MDW.jpg
+        tips:
+          count: 28
+        lists:
+          groups:
+          - type: created
+            count: 9
+            items: []
+        homeCity: New York
+        bio: ''
+        contact:
+          twitter: kellaferrdances
+          facebook: '30202408'
       - id: '5275918'
         firstName: Geanea
         lastName: H.
         gender: female
         photo: https://is0.4sqi.net/userpix_thumbs/5KI4QZ3E5HDKXQLQ.jpg
         tips:
-          count: 0
+          count: 1
         homeCity: New York, NY
         bio: ''
         contact:
@@ -68,11 +84,11 @@ venue:
         gender: male
         photo: https://is0.4sqi.net/userpix_thumbs/T2TKVJU0VIA3TLXW.jpg
         tips:
-          count: 13
+          count: 15
         lists:
           groups:
           - type: created
-            count: 9
+            count: 10
             items: []
         homeCity: NYC
         bio: Interdisciplinarian.
@@ -80,22 +96,12 @@ venue:
           twitter: shamam
           facebook: '785447791'
         superuser: 2
-      - id: '38191763'
-        firstName: Olu
-        lastName: A.
-        gender: female
-        photo: https://foursquare.com/img/blank_girl.png
-        tips:
-          count: 0
-        homeCity: New York, NY
-        bio: ''
-        contact:
-          twitter: apoolhallace
-          facebook: '1571100009'
-    summary: Geanea H, Lexie, bill s & 5 others
+    summary: Kelly, Geanea H, Lexie & 6 others
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/hale--hearty/4defaca6227170314ba95d77/menu
     mobileUrl: https://foursquare.com/v/4defaca6227170314ba95d77/device_menu
   beenHere:

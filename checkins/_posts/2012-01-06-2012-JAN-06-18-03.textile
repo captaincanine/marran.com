@@ -65,7 +65,7 @@ venue:
         gender: male
         photo: https://is1.4sqi.net/userpix_thumbs/OLKRV00FEOCJKXT3.jpg
         tips:
-          count: 38
+          count: 39
         homeCity: Barcelona, Espanya
         bio: ''
         contact:
@@ -76,7 +76,7 @@ venue:
         gender: male
         photo: https://is1.4sqi.net/userpix_thumbs/0FTPTDEFXCPSW3EE.jpg
         tips:
-          count: 2
+          count: 3
         homeCity: New York, NY
         bio: ''
         contact:

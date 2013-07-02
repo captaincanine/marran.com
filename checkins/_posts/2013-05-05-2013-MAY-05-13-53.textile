@@ -32,45 +32,60 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 907
-    usersCount: 619
+    checkinsCount: 943
+    usersCount: 646
     tipCount: 19
   likes:
-    count: 4
+    count: 5
     groups:
     - type: others
-      count: 4
+      count: 5
       items:
+      - id: '1339926'
+        firstName: Dan
+        lastName: M.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/XXMIPYZRNMSNWSDE.png
+        tips:
+          count: 38
+        lists:
+          groups:
+          - type: created
+            count: 24
+            items: []
+        homeCity: Howell, NJ
+        bio: I'm an award-winning web designer and a front end developer at Front
+          Rush. I run a blog called Process Things.
+        contact:
+          twitter: exchgr
+          facebook: '816980152'
       - id: '47900463'
         firstName: Caitlin
         lastName: C.
         gender: female
         photo: https://is0.4sqi.net/userpix_thumbs/2M5QVNZUWBV0WI0G.jpg
         tips:
-          count: 184
+          count: 210
         lists:
           groups:
           - type: created
-            count: 16
+            count: 19
             items: []
         homeCity: New York, NY
         bio: filmmaker, grad student, bookworm, mac & cheese connoisseur, cinephile,
           shutterbug, broadway junkie, okie, equestrian, proud member of the william
           & mary tribe
-        contact:
-          twitter: cait7911
-          facebook: '1444980237'
+        contact: {}
       - id: '39762641'
         firstName: Edris
         lastName: N.
         gender: female
         photo: https://is1.4sqi.net/userpix_thumbs/GS5O2UDBGQ0XYAQY.jpg
         tips:
-          count: 26
+          count: 29
         homeCity: New York, NY
         bio: ''
-        contact:
-          facebook: '1015533027'
+        contact: {}
       - id: '1376477'
         firstName: Thomas
         lastName: D.
@@ -81,25 +96,12 @@ venue:
         homeCity: Albertson, NY
         bio: ''
         contact: {}
-      - id: '209890'
-        firstName: Brian
-        lastName: S.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/YP1OH2K3HGQBAXFB.jpg
-        tips:
-          count: 15
-        lists:
-          groups:
-          - type: created
-            count: 3
-            items: []
-        homeCity: Brooklyn, NY
-        bio: Booooooooooooooooooooo
-        contact: {}
-    summary: Caitlin C, Edris N, Thomas D & Brian S
+    summary: Dan M, Caitlin C, Edris N & 2 others
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/tuck-shop/4cd837e8da85224bde684bca/menu
     mobileUrl: https://foursquare.com/v/4cd837e8da85224bde684bca/device_menu
   beenHere:

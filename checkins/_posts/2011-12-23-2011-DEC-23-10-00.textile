@@ -33,20 +33,22 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 17495
-    usersCount: 5324
-    tipCount: 138
+    checkinsCount: 18314
+    usersCount: 5578
+    tipCount: 144
   url: http://www.cafegrumpy.com
   likes:
-    count: 95
+    count: 113
     groups:
     - type: others
-      count: 95
+      count: 113
       items: []
-    summary: 95 likes
+    summary: 113 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/cafe-grumpy/45d1a484f964a520af421fe3/menu
     mobileUrl: https://foursquare.com/v/45d1a484f964a520af421fe3/device_menu
   beenHere:

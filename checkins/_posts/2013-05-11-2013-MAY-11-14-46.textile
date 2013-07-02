@@ -30,21 +30,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1689
-    usersCount: 751
-    tipCount: 21
+    checkinsCount: 1890
+    usersCount: 836
+    tipCount: 22
   url: http://www.hotelsantaclara.com
   likes:
-    count: 16
+    count: 23
     groups:
     - type: others
-      count: 16
+      count: 23
       items: []
-    summary: 16 likes
+    summary: 23 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []
@@ -81,7 +82,7 @@ photos:
       relationship: self
       photo: https://is1.4sqi.net/userpix_thumbs/1YGKPO0XSQYS2HFP.jpg
       tips:
-        count: 3
+        count: 5
       lists:
         groups:
         - type: created

@@ -1,0 +1,69 @@
+---
+id: 51d08fdb498ebdda57c35146
+createdAt: 1372622811
+type: checkin
+timeZone: America/Los_Angeles
+timeZoneOffset: -420
+venue:
+  id: 4a88a9a2f964a520510720e3
+  name: International Rose Test Garden
+  contact:
+    phone: '5032277033'
+    formattedPhone: (503) 227-7033
+  location:
+    address: 400 SW Kingston Ave
+    lat: 45.51908656202866
+    lng: -122.7052366733551
+    postalCode: '97205'
+    city: Portland
+    state: OR
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/international-rose-test-garden/4a88a9a2f964a520510720e3
+  categories:
+  - id: 4bf58dd8d48988d15a941735
+    name: Garden
+    pluralName: Gardens
+    shortName: Garden
+    icon: https://foursquare.com/img/categories/parks_outdoors/garden.png
+    parents:
+    - Outdoors & Recreation
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 4893
+    usersCount: 4265
+    tipCount: 30
+  likes:
+    count: 47
+    groups:
+    - type: others
+      count: 47
+      items: []
+    summary: 47 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: International Rose Test Garden
+icon: https://foursquare.com/img/categories/parks_outdoors/garden.png
+url: https://foursquare.com/v/international-rose-test-garden/4a88a9a2f964a520510720e3
+date: 2013-06-30 15:06:51.000000000 -05:00
+
+---

@@ -1,0 +1,71 @@
+---
+id: 51d167e7498eb13e3e211831
+createdAt: 1372678119
+type: checkin
+timeZone: America/Los_Angeles
+timeZoneOffset: -420
+venue:
+  id: 45f412e6f964a520f6431fe3
+  name: Portland International Airport (PDX)
+  contact:
+    phone: '5034604040'
+    formattedPhone: (503) 460-4040
+    twitter: flypdx
+  location:
+    address: 7000 NE Airport Way
+    lat: 45.58916884526295
+    lng: -122.59379625320435
+    postalCode: '97218'
+    city: Portland
+    state: OR
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/portland-international-airport-pdx/45f412e6f964a520f6431fe3
+  categories:
+  - id: 4bf58dd8d48988d1ed931735
+    name: Airport
+    pluralName: Airports
+    shortName: Airport
+    icon: https://foursquare.com/img/categories/travel/airport.png
+    parents:
+    - Travel & Transport
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 231763
+    usersCount: 65588
+    tipCount: 645
+  url: http://www.pdx.com
+  likes:
+    count: 334
+    groups:
+    - type: others
+      count: 334
+      items: []
+    summary: 334 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Portland International Airport (PDX)
+icon: https://foursquare.com/img/categories/travel/airport.png
+url: https://foursquare.com/v/portland-international-airport-pdx/45f412e6f964a520f6431fe3
+date: 2013-07-01 06:28:39.000000000 -05:00
+
+---

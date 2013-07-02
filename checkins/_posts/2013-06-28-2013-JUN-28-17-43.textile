@@ -1,0 +1,136 @@
+---
+id: 51ce11a3498ef7486506b02a
+createdAt: 1372459427
+type: checkin
+shout: Wood sunglasses!
+timeZone: America/Los_Angeles
+timeZoneOffset: -420
+venue:
+  id: 4bec4c8f49430f47da8c07d2
+  name: UnderU4Men - Official
+  contact:
+    phone: '5032742555'
+    formattedPhone: (503) 274-2555
+    twitter: underu4men
+  location:
+    address: 800 SW Washington St
+    crossStreet: Corner of SW Park and SW Washington
+    lat: 45.520926528150845
+    lng: -122.67991027538896
+    postalCode: '97205'
+    city: Portland
+    state: OR
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/underu4men--official/4bec4c8f49430f47da8c07d2
+  categories:
+  - id: 4bf58dd8d48988d106951735
+    name: Men's Store
+    pluralName: Men's Stores
+    shortName: Men's Store
+    icon: https://foursquare.com/img/categories/shops/apparel_men.png
+    parents:
+    - Shop & Service
+    - Clothing Store
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 511
+    usersCount: 310
+    tipCount: 6
+  url: http://facebook.com/underu4men
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '258540'
+        firstName: Axel
+        lastName: K.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/S0K5Y4GA0A3Y3MUU.jpg
+        tips:
+          count: 11
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Seattle, WA
+        bio: Love exploring new cities and all the food and coffee they have to offer.
+          A day is not complete without a cup of espresso.
+        contact:
+          twitter: axelkuehn
+          facebook: '733576363'
+    summary: Axel K
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+  storeId: Downtown Portland - Official
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 1
+  items:
+  - id: 51ce11ad498ef874fd9d598e
+    createdAt: 1372459437
+    source:
+      name: foursquare for iPhone
+      url: https://foursquare.com/download/#/iphone
+    url: https://irs1.4sqi.net/img/general/original/90473_wPArVmU7eQ_zlufbrCundTYBsA0QJouEqTeJnCHjNPg.jpg
+    sizes:
+      count: 4
+      items:
+      - url: https://irs1.4sqi.net/img/general/original/90473_wPArVmU7eQ_zlufbrCundTYBsA0QJouEqTeJnCHjNPg.jpg
+        width: 960
+        height: 720
+      - url: https://irs1.4sqi.net/img/general/300x300/90473_wPArVmU7eQ_zlufbrCundTYBsA0QJouEqTeJnCHjNPg.jpg
+        width: 300
+        height: 300
+      - url: https://irs1.4sqi.net/img/general/100x100/90473_wPArVmU7eQ_zlufbrCundTYBsA0QJouEqTeJnCHjNPg.jpg
+        width: 100
+        height: 100
+      - url: https://irs1.4sqi.net/img/general/36x36/90473_wPArVmU7eQ_zlufbrCundTYBsA0QJouEqTeJnCHjNPg.jpg
+        width: 36
+        height: 36
+    user:
+      id: '90473'
+      firstName: Keith
+      lastName: Marran
+      gender: male
+      relationship: self
+      photo: https://is1.4sqi.net/userpix_thumbs/1YGKPO0XSQYS2HFP.jpg
+      tips:
+        count: 5
+      lists:
+        groups:
+        - type: created
+          count: 1
+          items: []
+      homeCity: New York, NY
+      bio: ''
+      contact:
+        phone: '6466235277'
+        email: keith@marran.com
+        twitter: captaincanine
+        facebook: '790499637'
+    visibility: public
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: UnderU4Men - Official
+icon: https://foursquare.com/img/categories/shops/apparel_men.png
+url: https://foursquare.com/v/underu4men--official/4bec4c8f49430f47da8c07d2
+date: 2013-06-28 17:43:47.000000000 -05:00
+
+---

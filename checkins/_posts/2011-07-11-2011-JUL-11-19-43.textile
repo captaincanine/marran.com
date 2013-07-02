@@ -33,22 +33,24 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1273
-    usersCount: 755
-    tipCount: 22
+    checkinsCount: 1351
+    usersCount: 805
+    tipCount: 23
   url: https://www.facebook.com/hospodanyc
   likes:
-    count: 11
+    count: 13
     groups:
     - type: others
-      count: 11
+      count: 13
       items: []
-    summary: 11 likes
+    summary: 13 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=60058&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/hospoda/4dc59b7a2271f2705131c896/menu
     mobileUrl: https://foursquare.com/v/4dc59b7a2271f2705131c896/device_menu
   beenHere:

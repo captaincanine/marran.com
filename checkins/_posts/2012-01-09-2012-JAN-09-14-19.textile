@@ -30,8 +30,8 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 751
-    usersCount: 196
+    checkinsCount: 759
+    usersCount: 200
     tipCount: 5
   likes:
     count: 3
@@ -43,9 +43,9 @@ venue:
         firstName: Anthony
         lastName: R.
         gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/POSZQS5HAAK4DNCW.jpg
+        photo: https://is1.4sqi.net/userpix_thumbs/1GARGV4MPCRWOTQH.jpg
         tips:
-          count: 21
+          count: 14
         homeCity: New York, NY
         bio: ''
         contact:
@@ -58,6 +58,11 @@ venue:
         photo: https://is1.4sqi.net/userpix_thumbs/GFRWYZPSCF3WCBQB.jpg
         tips:
           count: 4
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
         homeCity: New York, NY
         bio: www.nataliamantini.wix.com/webfolio
         contact: {}

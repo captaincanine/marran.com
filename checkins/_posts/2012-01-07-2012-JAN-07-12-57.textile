@@ -11,7 +11,7 @@ venue:
     phone: '2124638000'
     formattedPhone: (212) 463-8000
   location:
-    address: 271 W 23rd St.
+    address: 271 W 23rd St
     crossStreet: btwn 7th & 8th Ave.
     lat: 40.74514799387085
     lng: -73.99811064164594
@@ -32,20 +32,22 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 7844
-    usersCount: 5747
-    tipCount: 70
+    checkinsCount: 8507
+    usersCount: 6199
+    tipCount: 79
   url: http://trailerparklounge.com
   likes:
-    count: 18
+    count: 25
     groups:
     - type: others
-      count: 18
+      count: 25
       items: []
-    summary: 18 likes
+    summary: 25 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/trailer-park-lounge--grill/3fd66200f964a520cce51ee3/menu
     mobileUrl: https://foursquare.com/v/3fd66200f964a520cce51ee3/device_menu
   beenHere:

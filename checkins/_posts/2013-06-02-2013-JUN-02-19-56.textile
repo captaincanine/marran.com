@@ -1,0 +1,76 @@
+---
+id: 51abe9a0498e042d204bcfd6
+createdAt: 1370220960
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4bf33eff6ba2b713711a8977
+  name: Bellvale Creamery
+  contact:
+    phone: '8459881818'
+    formattedPhone: (845) 988-1818
+  location:
+    address: 385 Route 17A
+    crossStreet: Kain Road
+    lat: 41.24470780695872
+    lng: -74.28932547569275
+    postalCode: '10990'
+    city: Warwick
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/bellvale-creamery/4bf33eff6ba2b713711a8977
+  categories:
+  - id: 4bf58dd8d48988d1c9941735
+    name: Ice Cream Shop
+    pluralName: Ice Cream Shops
+    shortName: Ice Cream
+    icon: https://foursquare.com/img/categories/food/icecream.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 894
+    usersCount: 597
+    tipCount: 20
+  likes:
+    count: 15
+    groups:
+    - type: others
+      count: 15
+      items: []
+    summary: 15 likes
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/bellvale-creamery/4bf33eff6ba2b713711a8977/menu
+    mobileUrl: https://foursquare.com/v/4bf33eff6ba2b713711a8977/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Bellvale Creamery
+icon: https://foursquare.com/img/categories/food/icecream.png
+url: https://foursquare.com/v/bellvale-creamery/4bf33eff6ba2b713711a8977
+date: 2013-06-02 19:56:00.000000000 -05:00
+
+---

@@ -1,0 +1,124 @@
+---
+id: 51952a40498e2d0700aed9d7
+createdAt: 1368730176
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4b7569caf964a520290b2ee3
+  name: Grand Central Food Court
+  contact: {}
+  location:
+    address: 42nd St. & Lexington Ave.
+    crossStreet: Grand Central Terminal
+    lat: 40.752813081858946
+    lng: -73.97695664912727
+    postalCode: '10017'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/grand-central-food-court/4b7569caf964a520290b2ee3
+  categories:
+  - id: 4bf58dd8d48988d120951735
+    name: Food Court
+    pluralName: Food Courts
+    shortName: Food Court
+    icon: https://foursquare.com/img/categories/shops/food_foodcourt.png
+    parents:
+    - Shop & Service
+    - Food & Drink Shop
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2012
+    usersCount: 1321
+    tipCount: 4
+  likes:
+    count: 6
+    groups:
+    - type: others
+      count: 6
+      items:
+      - id: '34464880'
+        firstName: Stela
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/SE5AYLLVCGGKRYP1.jpg
+        tips:
+          count: 2
+        homeCity: Rio Grande do Sul
+        bio: ''
+        contact:
+          facebook: '1308038527'
+      - id: '268790'
+        firstName: c.j.
+        lastName: r.
+        gender: none
+        photo: https://is1.4sqi.net/userpix_thumbs/OWPWQ4OVLPND3AGG.jpg
+        tips:
+          count: 21
+        lists:
+          groups:
+          - type: created
+            count: 32
+            items: []
+        homeCity: MD • DC • elsewhere
+        bio: ! 'multi(-lingu-/-cultur-/-mod-)al educator-learner, artist-analyst,
+          activist-nerd… | #stayalive & as the Doctor once said, ­«be magnificent.»
+          #makeitcount! #OMCru'
+        contact: {}
+        superuser: 1
+      - id: '10841337'
+        firstName: Gayla
+        lastName: Y.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/SQVU3RX53D0FVYMY.jpg
+        tips:
+          count: 23
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: Rotterdam, Holland
+        bio: L.R.O...I speak my mind, no wall flower or shrinking violet here. I've
+          no concept of personal space. Ever Last to the last breath.
+        contact:
+          facebook: '561133957'
+      - id: '41178148'
+        firstName: Princess
+        lastName: R.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/R1U0B2J55J1RPSVZ.jpg
+        tips:
+          count: 17
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+    summary: Stela, c.j. r, Gayla Y & 3 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Grand Central Food Court
+icon: https://foursquare.com/img/categories/shops/food_foodcourt.png
+url: https://foursquare.com/v/grand-central-food-court/4b7569caf964a520290b2ee3
+date: 2013-05-16 13:49:36.000000000 -05:00
+
+---

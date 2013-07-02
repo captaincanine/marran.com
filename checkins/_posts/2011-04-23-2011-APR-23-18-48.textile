@@ -34,21 +34,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 21568
-    usersCount: 15528
-    tipCount: 139
+    checkinsCount: 22435
+    usersCount: 16258
+    tipCount: 141
   url: http://bookofmormonbroadway.com
   likes:
-    count: 84
+    count: 94
     groups:
     - type: others
-      count: 84
+      count: 94
       items: []
-    summary: 84 likes
+    summary: 94 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

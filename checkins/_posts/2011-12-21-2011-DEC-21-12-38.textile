@@ -33,9 +33,9 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 6764
-    usersCount: 4022
-    tipCount: 70
+    checkinsCount: 6854
+    usersCount: 4057
+    tipCount: 74
   url: http://www.goodburgerny.com
   likes:
     count: 21
@@ -46,7 +46,9 @@ venue:
     summary: 21 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/goodburger/4a3e69a3f964a520e6a21fe3/menu
     mobileUrl: https://foursquare.com/v/4a3e69a3f964a520e6a21fe3/device_menu
   beenHere:

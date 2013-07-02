@@ -32,20 +32,27 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 8965
-    usersCount: 4345
-    tipCount: 50
+    checkinsCount: 9365
+    usersCount: 4498
+    tipCount: 43
   likes:
-    count: 14
+    count: 18
     groups:
     - type: others
-      count: 14
+      count: 18
       items: []
-    summary: 14 likes
+    summary: 18 likes
   like: false
+  menu:
+    type: Services
+    label: Services
+    anchor: See services
+    url: https://foursquare.com/v/petco/4a5519d5f964a520adb31fe3/menu
+    mobileUrl: https://foursquare.com/v/4a5519d5f964a520adb31fe3/device_menu
   beenHere:
-    count: 2
+    count: 5
     marked: false
+  storeId: '778'
 likes:
   count: 0
   groups: []

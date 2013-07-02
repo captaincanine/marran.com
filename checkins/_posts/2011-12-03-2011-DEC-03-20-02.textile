@@ -32,20 +32,26 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 5105
-    usersCount: 3387
-    tipCount: 58
+    checkinsCount: 5532
+    usersCount: 3636
+    tipCount: 60
   url: http://www.bareburger.com
   likes:
-    count: 46
+    count: 61
     groups:
     - type: others
-      count: 46
+      count: 61
       items: []
-    summary: 46 likes
+    summary: 61 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/bareburger/4edae02c9911a3e78dd03897/menu
+    mobileUrl: https://foursquare.com/v/4edae02c9911a3e78dd03897/device_menu
   beenHere:
-    count: 3
+    count: 6
     marked: false
 likes:
   count: 0

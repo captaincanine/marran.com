@@ -32,8 +32,8 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 884
-    usersCount: 458
+    checkinsCount: 920
+    usersCount: 480
     tipCount: 19
   likes:
     count: 2
@@ -41,6 +41,23 @@ venue:
     - type: others
       count: 2
       items:
+      - id: '35692'
+        firstName: Ryan
+        lastName: P.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/WLEPPFRZJCSSGIIU.jpg
+        tips:
+          count: 54
+        lists:
+          groups:
+          - type: created
+            count: 19
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: ryandpaul
+          facebook: '17807917'
       - id: '41428220'
         firstName: Judith
         lastName: J.
@@ -53,24 +70,7 @@ venue:
         contact:
           twitter: bxgirl88
           facebook: '100000757392844'
-      - id: '35692'
-        firstName: Ryan
-        lastName: P.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/WLEPPFRZJCSSGIIU.jpg
-        tips:
-          count: 52
-        lists:
-          groups:
-          - type: created
-            count: 19
-            items: []
-        homeCity: New York, NY
-        bio: ''
-        contact:
-          twitter: ryandpaul
-          facebook: '17807917'
-    summary: Judith J & Ryan P
+    summary: Ryan P & Judith J
   like: false
   beenHere:
     count: 1

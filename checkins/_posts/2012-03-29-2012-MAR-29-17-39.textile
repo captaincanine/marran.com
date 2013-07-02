@@ -32,26 +32,29 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 4213
-    usersCount: 3267
-    tipCount: 38
+    checkinsCount: 4364
+    usersCount: 3377
+    tipCount: 41
   likes:
-    count: 21
+    count: 24
     groups:
     - type: others
-      count: 21
+      count: 24
       items: []
-    summary: 21 likes
+    summary: 24 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=45886&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/the-darby/4c94a38fefecb71341b6df9d/menu
     mobileUrl: https://foursquare.com/v/4c94a38fefecb71341b6df9d/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

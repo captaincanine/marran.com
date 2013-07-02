@@ -1,0 +1,73 @@
+---
+id: 51991e6d498e2a792b08c157
+createdAt: 1368989293
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 49e12847f964a5209f611fe3
+  name: Kinky Boots at the Al Hirschfeld Theatre
+  contact:
+    phone: '2122396200'
+    formattedPhone: (212) 239-6200
+  location:
+    address: 302 W 45th St
+    crossStreet: btwn 8th & 9th Ave
+    lat: 40.75933222917979
+    lng: -73.98917824029922
+    postalCode: '10036'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/kinky-boots-at-the-al-hirschfeld-theatre/49e12847f964a5209f611fe3
+  categories:
+  - id: 4bf58dd8d48988d137941735
+    name: Theater
+    pluralName: Theaters
+    shortName: Theater
+    icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+    parents:
+    - Arts & Entertainment
+    - Performing Arts Venue
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 15621
+    usersCount: 11317
+    tipCount: 46
+  url: http://www.jujamcyn.com
+  likes:
+    count: 57
+    groups:
+    - type: others
+      count: 57
+      items: []
+    summary: 57 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Kinky Boots at the Al Hirschfeld Theatre
+icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+url: https://foursquare.com/v/kinky-boots-at-the-al-hirschfeld-theatre/49e12847f964a5209f611fe3
+date: 2013-05-19 13:48:13.000000000 -05:00
+
+---

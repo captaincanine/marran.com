@@ -46,7 +46,7 @@ venue:
         gender: male
         photo: https://is0.4sqi.net/userpix_thumbs/VAGKUULU33LI5T5C.jpg
         tips:
-          count: 34
+          count: 37
         lists:
           groups:
           - type: created
@@ -102,7 +102,9 @@ venue:
     summary: ! "Van A, Christopher T, \U0001F485\U0001F48B\U0001F463Square F & 3 others"
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/heartbreak-cafe/4cd0a38cf6378cfa169cb6d6/menu
     mobileUrl: https://foursquare.com/v/4cd0a38cf6378cfa169cb6d6/device_menu
   beenHere:

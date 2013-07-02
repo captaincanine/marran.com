@@ -1,0 +1,120 @@
+---
+id: '790499637_10152003293659638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: I've been to 3 places today that were each playing a different song from
+  the Footloose soundtrack. Man, that was a good summer for music.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10152003293659638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10152003293659638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-06-21T22:02:12+0000'
+updated_time: '2013-06-22T01:35:50+0000'
+likes:
+  data:
+  - name: Jono Jarrett
+    id: '1343303598'
+  - name: Summer Scobell
+    id: '736337377'
+  - name: Justin Winslow
+    id: '1201684433'
+  - name: Charlotte Hertander
+    id: '577154539'
+  count: 14
+comments:
+  data:
+  - id: '10152003293659638_32668511'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: ! "\"Footloose,\" I assume.  \n\n\"Let's Hear it for the Boy\"? Was that
+      on that soundtrack?\n\nI am blanking on others.  (And I am refusing the temptation
+      to look online.)"
+    can_remove: true
+    created_time: '2013-06-21T22:17:18+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152003293659638_32668525'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: Maniac?  Wait, that was Flashdance, I think.
+    can_remove: true
+    created_time: '2013-06-21T22:18:54+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152003293659638_32668537'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: That was Flashdance. The third was "We Need a Hero"
+    can_remove: true
+    created_time: '2013-06-21T22:20:13+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152003293659638_32668555'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: ! 'I don''t remember that one off the top of my head.
+
+
+      Question: Just how many teen dancing movies did the 80s need?
+
+
+      Answer: All of them.'
+    can_remove: true
+    created_time: '2013-06-21T22:21:42+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152003293659638_32668672'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: ! 'Oh you mean the Bonnie Tyler song.  I like that one a lot.
+
+
+      The legacy of that song continues:
+
+
+      https://www.youtube.com/watch?v=fDdPuCsOLaQ'
+    can_remove: true
+    created_time: '2013-06-21T22:32:34+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152003293659638_32670756'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Those are prisoners doing a choreographed dance routine to Bonnie Tyler?
+      I've never wanted to be a prisoner more. (I'm sure there's a downside I'm not
+      seeing.)
+    can_remove: true
+    created_time: '2013-06-22T01:35:50+0000'
+    like_count: 1
+    user_likes: false
+  paging:
+    cursors:
+      after: Ng==
+      before: MQ==
+layout: status
+title: Friday, Jun 21, 2013 around 05:02PM
+date: 2013-06-21 17:02:12.000000000 -05:00
+
+---
+I've been to 3 places today that were each playing a different song from the Footloose soundtrack. Man, that was a good summer for music.

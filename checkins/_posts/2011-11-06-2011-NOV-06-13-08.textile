@@ -49,7 +49,7 @@ venue:
         gender: male
         photo: https://is0.4sqi.net/userpix_thumbs/VRU4R4UKIUI0RVBH.jpg
         tips:
-          count: 204
+          count: 212
         homeCity: '92101'
         bio: ''
         contact:

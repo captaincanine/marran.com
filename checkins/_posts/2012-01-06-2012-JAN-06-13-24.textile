@@ -33,20 +33,22 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 3997
-    usersCount: 1778
-    tipCount: 46
+    checkinsCount: 4122
+    usersCount: 1831
+    tipCount: 49
   url: http://www.dirtybirdtogo.com
   likes:
-    count: 27
+    count: 29
     groups:
     - type: others
-      count: 27
+      count: 29
       items: []
-    summary: 27 likes
+    summary: 29 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/dirty-bird-to-go/44522a64f964a520a8321fe3/menu
     mobileUrl: https://foursquare.com/v/44522a64f964a520a8321fe3/device_menu
   beenHere:

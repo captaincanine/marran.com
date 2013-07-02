@@ -1,0 +1,73 @@
+---
+id: 51cc6f14498eaabf4b85728a
+createdAt: 1372352276
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 422f8e00f964a520f81f1fe3
+  name: Tekserve
+  contact:
+    phone: '2129293645'
+    formattedPhone: (212) 929-3645
+    twitter: tekserve
+  location:
+    address: 119 W 23rd St
+    crossStreet: btwn 6th & 7th Ave.
+    lat: 40.74339876222266
+    lng: -73.99335894406833
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/tekserve/422f8e00f964a520f81f1fe3
+  categories:
+  - id: 4bf58dd8d48988d122951735
+    name: Electronics Store
+    pluralName: Electronics Stores
+    shortName: Electronics
+    icon: https://foursquare.com/img/categories/shops/technology.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 10444
+    usersCount: 5046
+    tipCount: 80
+  url: http://www.tekserve.com
+  likes:
+    count: 45
+    groups:
+    - type: others
+      count: 45
+      items: []
+    summary: 45 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Tekserve
+icon: https://foursquare.com/img/categories/shops/technology.png
+url: https://foursquare.com/v/tekserve/422f8e00f964a520f81f1fe3
+date: 2013-06-27 11:57:56.000000000 -05:00
+
+---

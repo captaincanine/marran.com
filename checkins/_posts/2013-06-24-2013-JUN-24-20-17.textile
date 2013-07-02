@@ -1,0 +1,105 @@
+---
+id: 51c8ef97498ee76c01a2a200
+createdAt: 1372123031
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 3fd66200f964a52073e31ee3
+  name: Wallsé
+  contact:
+    phone: '2123522300'
+    formattedPhone: (212) 352-2300
+    facebook: '47100148799'
+  location:
+    address: 344 W 11th St
+    crossStreet: at Washington
+    lat: 40.735564928906946
+    lng: -74.00830229102529
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/walls%C3%A9/3fd66200f964a52073e31ee3
+  categories:
+  - id: 4bf58dd8d48988d10d941735
+    name: German Restaurant
+    pluralName: German Restaurants
+    shortName: German
+    icon: https://foursquare.com/img/categories/food/german.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1512
+    usersCount: 1046
+    tipCount: 26
+  url: http://wallse.com
+  likes:
+    count: 15
+    groups:
+    - type: others
+      count: 15
+      items: []
+    summary: 15 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=2294&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/walls%C3%A9/3fd66200f964a52073e31ee3/menu
+    mobileUrl: https://foursquare.com/v/3fd66200f964a52073e31ee3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+  storeId: ''
+likes:
+  count: 1
+  groups:
+  - type: friends
+    count: 1
+    items:
+    - id: '525570'
+      firstName: Robert
+      lastName: Mayer
+      gender: male
+      relationship: friend
+      photo: https://is1.4sqi.net/userpix_thumbs/V4F0EQY5PDQF20JN.jpg
+      tips:
+        count: 2
+      lists:
+        groups:
+        - type: created
+          count: 1
+          items: []
+      homeCity: New York, NY
+      bio: ''
+      contact:
+        phone: '9172796859'
+        email: robamayer@gmail.com
+        twitter: robamayer
+        facebook: '508770447'
+  summary: Robert Mayer
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Wallsé
+icon: https://foursquare.com/img/categories/food/german.png
+url: https://foursquare.com/v/walls%C3%A9/3fd66200f964a52073e31ee3
+date: 2013-06-24 20:17:11.000000000 -05:00
+
+---

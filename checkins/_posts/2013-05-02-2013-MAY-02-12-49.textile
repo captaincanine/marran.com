@@ -32,8 +32,8 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 314
-    usersCount: 196
+    checkinsCount: 324
+    usersCount: 204
     tipCount: 3
   url: http://pitacitynyc.com
   likes:
@@ -41,7 +41,9 @@ venue:
     groups: []
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/pita-city/4abeb4b3f964a520818f20e3/menu
     mobileUrl: https://foursquare.com/v/4abeb4b3f964a520818f20e3/device_menu
   beenHere:

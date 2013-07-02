@@ -33,9 +33,9 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 929
-    usersCount: 616
-    tipCount: 1
+    checkinsCount: 940
+    usersCount: 620
+    tipCount: 2
   likes:
     count: 0
     groups: []

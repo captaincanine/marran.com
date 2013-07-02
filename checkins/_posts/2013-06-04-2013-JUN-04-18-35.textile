@@ -1,0 +1,73 @@
+---
+id: 51ae79d0498e809d1b8d66b7
+createdAt: 1370388944
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 5042d34ee4b003e2b3c35a5c
+  name: This n' That
+  contact:
+    phone: '7185995959'
+    formattedPhone: (718) 599-5959
+    twitter: tnt_bk
+  location:
+    address: 108 N 6th St
+    crossStreet: Berry Street
+    lat: 40.71837596229077
+    lng: -73.96020856614946
+    postalCode: '11249'
+    city: Brooklyn
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/this-n-that/5042d34ee4b003e2b3c35a5c
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1284
+    usersCount: 757
+    tipCount: 6
+  url: http://www.thisnthatbrooklyn.com
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  beenHere:
+    count: 6
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: This n' That
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/this-n-that/5042d34ee4b003e2b3c35a5c
+date: 2013-06-04 18:35:44.000000000 -05:00
+
+---

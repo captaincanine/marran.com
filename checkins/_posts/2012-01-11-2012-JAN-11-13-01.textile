@@ -14,8 +14,8 @@ venue:
   location:
     address: 71 Irving Pl
     crossStreet: btwn 18th & 19th St
-    lat: 40.736827
-    lng: -73.986909
+    lat: 40.73678125878656
+    lng: -73.98684525426994
     postalCode: '10003'
     city: New York
     state: NY
@@ -33,20 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 13204
-    usersCount: 4796
-    tipCount: 122
+    checkinsCount: 13805
+    usersCount: 5000
+    tipCount: 126
   url: http://71irvingplace.tumblr.com
   likes:
-    count: 43
+    count: 49
     groups:
     - type: others
-      count: 43
+      count: 49
       items: []
-    summary: 43 likes
+    summary: 49 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/71-irving-place-coffee--tea-bar/3fd66200f964a52008e91ee3/menu
     mobileUrl: https://foursquare.com/v/3fd66200f964a52008e91ee3/device_menu
   beenHere:

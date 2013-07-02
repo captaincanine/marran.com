@@ -33,22 +33,24 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 4324
-    usersCount: 3194
-    tipCount: 62
+    checkinsCount: 4575
+    usersCount: 3369
+    tipCount: 66
   url: http://emberroom.com
   likes:
-    count: 21
+    count: 23
     groups:
     - type: others
-      count: 21
+      count: 23
       items: []
-    summary: 21 likes
+    summary: 23 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=57874&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/ember-room/4d43079d9f7aba7a4faf29f9/menu
     mobileUrl: https://foursquare.com/v/4d43079d9f7aba7a4faf29f9/device_menu
   beenHere:

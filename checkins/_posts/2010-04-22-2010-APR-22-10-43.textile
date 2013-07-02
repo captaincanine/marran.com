@@ -33,7 +33,7 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 170
+    checkinsCount: 171
     usersCount: 100
     tipCount: 1
   likes:
@@ -48,7 +48,7 @@ venue:
         gender: female
         photo: https://foursquare.com/img/blank_girl.png
         tips:
-          count: 12
+          count: 14
         homeCity: ''
         bio: ''
         contact:
@@ -59,7 +59,7 @@ venue:
         gender: female
         photo: https://is1.4sqi.net/userpix_thumbs/QETJ1F2OLGMPRAPD.jpg
         tips:
-          count: 18
+          count: 19
         lists:
           groups:
           - type: created

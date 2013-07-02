@@ -35,21 +35,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 8089
-    usersCount: 6916
-    tipCount: 63
+    checkinsCount: 8420
+    usersCount: 7222
+    tipCount: 66
   url: http://www.lionking.com
   likes:
-    count: 131
+    count: 169
     groups:
     - type: others
-      count: 131
+      count: 169
       items: []
-    summary: 131 likes
+    summary: 169 likes
   like: false
   beenHere:
     count: 2
     marked: false
+  storeId: Minskoff Theatre
 likes:
   count: 0
   groups: []

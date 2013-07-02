@@ -33,27 +33,30 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 10337
-    usersCount: 6272
-    tipCount: 83
+    checkinsCount: 10889
+    usersCount: 6601
+    tipCount: 85
   url: http://www.almondnyc.com
   likes:
-    count: 30
+    count: 34
     groups:
     - type: others
-      count: 30
+      count: 34
       items: []
-    summary: 30 likes
+    summary: 34 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=2494&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/almond/4a4183a0f964a5205ba51fe3/menu
     mobileUrl: https://foursquare.com/v/4a4183a0f964a5205ba51fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

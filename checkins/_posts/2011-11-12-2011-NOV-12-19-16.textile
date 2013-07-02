@@ -33,20 +33,22 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 2306
-    usersCount: 1431
-    tipCount: 44
+    checkinsCount: 2463
+    usersCount: 1525
+    tipCount: 45
   url: http://www.legendrestaurant88.com
   likes:
-    count: 13
+    count: 14
     groups:
     - type: others
-      count: 13
+      count: 14
       items: []
-    summary: 13 likes
+    summary: 14 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/legend-bar--restaurant/4cf70d59dc40a35d63a04b54/menu
     mobileUrl: https://foursquare.com/v/4cf70d59dc40a35d63a04b54/device_menu
   beenHere:

@@ -1,0 +1,76 @@
+---
+id: '790499637_10151931625564638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: YAY! My volumes of Tagame's Pride just arrived! Now I need to learn to read
+  Japanese!
+picture: https://fbexternal-a.akamaihd.net/safe_image.php?d=AQCMdQm1D6u1OkD3&w=154&h=154&url=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F51pU3qR5Y%252BL._SL500_AA300_.jpg
+link: http://www.amazon.com/Japanese-Gengoroh-TAGAME-Comic-PRIDE/dp/B0092EX2GO/ref=pd_sxp_f_pt?utm_content=buffer113f8&utm_source=buffer&utm_medium=facebook&utm_campaign=Buffer
+name: ! 'Amazon.com: Japanese Gengoroh TAGAME Comic book " PRIDE " Vol. 1.2.3: Everything
+  Else'
+caption: www.amazon.com
+description: YAY! My volumes of Tagame's Pride just arrived! Now I need to learn to
+  read Japanese!
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151931625564638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151931625564638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: link
+status_type: shared_story
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-05-21T20:06:06+0000'
+updated_time: '2013-05-21T20:27:47+0000'
+likes:
+  data:
+  - name: Danny Bernardo
+    id: '585250306'
+  - name: T'ai Chu-Richardson
+    id: '14101146'
+  count: 2
+comments:
+  data:
+  - id: '10151931625564638_32174039'
+    from:
+      name: Patrick Yacco
+      id: '507963176'
+    message: You bought the book to read it? Srsly? I'm pretty sure most of it translates
+      to "uuuuun" and "gaaaaa."
+    can_remove: true
+    created_time: '2013-05-21T20:21:13+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151931625564638_32174204'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: A lot of it needs no translation, sure, but he's actually quite good
+      with dialogue. Do not judge the book by its very steamy cover!
+    can_remove: true
+    created_time: '2013-05-21T20:27:47+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: Mg==
+      before: MQ==
+layout: status-link
+title: Tuesday, May 21, 2013 around 03:06PM
+link-info: ! 'Amazon.com: Japanese Gengoroh TAGAME Comic book " PRIDE " Vol. 1.2.3:
+  Everything Else'
+date: 2013-05-21 15:06:06.000000000 -05:00
+
+---
+YAY! My volumes of Tagame's Pride just arrived! Now I need to learn to read Japanese!

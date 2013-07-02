@@ -32,20 +32,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 8185
-    usersCount: 5550
+    checkinsCount: 8200
+    usersCount: 5554
     tipCount: 86
   url: http://www.popburger.com
   likes:
-    count: 10
+    count: 11
     groups:
     - type: others
-      count: 10
+      count: 11
       items: []
-    summary: 10 likes
+    summary: 11 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/pop-burger/4068b880f964a52046f21ee3/menu
     mobileUrl: https://foursquare.com/v/4068b880f964a52046f21ee3/device_menu
   beenHere:

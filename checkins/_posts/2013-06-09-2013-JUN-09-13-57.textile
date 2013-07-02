@@ -1,0 +1,128 @@
+---
+id: 51b4d012498e641e5882fde0
+createdAt: 1370804242
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a612d61f964a5200bc21fe3
+  name: Classic Stage Company
+  contact:
+    phone: '2126774210'
+    formattedPhone: (212) 677-4210
+    twitter: classicstage
+  location:
+    address: 136 E 13th St
+    crossStreet: between 3rd & 4th Ave.
+    lat: 40.73290123991655
+    lng: -73.98829148466851
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/classic-stage-company/4a612d61f964a5200bc21fe3
+  categories:
+  - id: 4bf58dd8d48988d135941735
+    name: Indie Theater
+    pluralName: Indie Theaters
+    shortName: Indie
+    icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+    parents:
+    - Arts & Entertainment
+    - Performing Arts Venue
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1852
+    usersCount: 902
+    tipCount: 13
+  url: http://www.classicstage.org
+  likes:
+    count: 4
+    groups:
+    - type: others
+      count: 4
+      items:
+      - id: '6116977'
+        firstName: Megan
+        lastName: K.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/N1HJ2KUJCUIG4IGV.jpg
+        tips:
+          count: 22
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: megankosmoski
+          facebook: '21203273'
+      - id: '240800'
+        firstName: Luc
+        lastName: L.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/GTZZPKXIUDUI4ARM.jpg
+        tips:
+          count: 97
+        lists:
+          groups:
+          - type: created
+            count: 18
+            items: []
+        homeCity: Montfoort, The Netherlands
+        bio: ! "I love to make friends, listen\r\n music & traveling . I'm Chai lover
+          & hobby photographer, cinemaniac & 4sq fan."
+        contact: {}
+      - id: '14184080'
+        firstName: John
+        lastName: H.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/QD1QMRRHWXP1KIIP.jpg
+        tips:
+          count: 0
+        homeCity: Manhattan, NYC
+        bio: ''
+        contact: {}
+      - id: '197042'
+        firstName: Sonny
+        lastName: D.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/WWLRUSBEU3CVZ3OR.jpg
+        tips:
+          count: 49
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: sonnyrd
+    summary: Megan K, Luc L, John H & Sonny D
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Classic Stage Company
+icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+url: https://foursquare.com/v/classic-stage-company/4a612d61f964a5200bc21fe3
+date: 2013-06-09 13:57:22.000000000 -05:00
+
+---

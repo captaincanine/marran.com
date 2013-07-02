@@ -1,0 +1,78 @@
+---
+id: 51cf680e498ee1b896a3e864
+createdAt: 1372547086
+type: checkin
+timeZone: America/Los_Angeles
+timeZoneOffset: -420
+venue:
+  id: 4c253d50b012b7139fa60893
+  name: Ruby Jewel Scoops
+  contact:
+    phone: '5035059314'
+    formattedPhone: (503) 505-9314
+    twitter: rubyjicecream
+  location:
+    address: 3713 N Mississippi Ave
+    crossStreet: at N Beech St
+    lat: 45.549808
+    lng: -122.675553
+    postalCode: '97227'
+    city: Portland
+    state: OR
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/ruby-jewel-scoops/4c253d50b012b7139fa60893
+  categories:
+  - id: 4bf58dd8d48988d1c9941735
+    name: Ice Cream Shop
+    pluralName: Ice Cream Shops
+    shortName: Ice Cream
+    icon: https://foursquare.com/img/categories/food/icecream.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 2544
+    usersCount: 1389
+    tipCount: 23
+  url: http://www.rubyjewel.net
+  likes:
+    count: 13
+    groups:
+    - type: others
+      count: 13
+      items: []
+    summary: 13 likes
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/ruby-jewel-scoops/4c253d50b012b7139fa60893/menu
+    mobileUrl: https://foursquare.com/v/4c253d50b012b7139fa60893/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Ruby Jewel Scoops
+icon: https://foursquare.com/img/categories/food/icecream.png
+url: https://foursquare.com/v/ruby-jewel-scoops/4c253d50b012b7139fa60893
+date: 2013-06-29 18:04:46.000000000 -05:00
+
+---

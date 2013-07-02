@@ -1,0 +1,72 @@
+---
+id: 519ebc08498e69ba7472e9e1
+createdAt: 1369357320
+type: checkin
+shout: Steam Punk Boylesque!
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 3fd66200f964a520f6e61ee3
+  name: Stonewall Inn
+  contact:
+    phone: '2124630950'
+    formattedPhone: (212) 463-0950
+  location:
+    address: 53 Christopher St
+    crossStreet: at 7th Ave.
+    lat: 40.73369431021343
+    lng: -74.00212123990059
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/stonewall-inn/3fd66200f964a520f6e61ee3
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 14972
+    usersCount: 8218
+    tipCount: 58
+  url: http://www.stonewall-place.com
+  likes:
+    count: 82
+    groups:
+    - type: others
+      count: 82
+      items: []
+    summary: 82 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Stonewall Inn
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/stonewall-inn/3fd66200f964a520f6e61ee3
+date: 2013-05-23 20:02:00.000000000 -05:00
+
+---

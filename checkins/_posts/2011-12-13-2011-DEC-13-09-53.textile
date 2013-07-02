@@ -33,25 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 7167
-    usersCount: 3337
-    tipCount: 101
+    checkinsCount: 7889
+    usersCount: 3685
+    tipCount: 111
   url: http://www.thinkcoffeenyc.com
   likes:
-    count: 59
+    count: 69
     groups:
     - type: others
-      count: 59
+      count: 69
       items: []
-    summary: 59 likes
+    summary: 69 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/think-coffee/4ecc046b0e61aaf0384f19c4/menu
     mobileUrl: https://foursquare.com/v/4ecc046b0e61aaf0384f19c4/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

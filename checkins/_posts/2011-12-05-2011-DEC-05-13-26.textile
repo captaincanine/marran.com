@@ -33,8 +33,8 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1335
-    usersCount: 1112
+    checkinsCount: 1420
+    usersCount: 1182
     tipCount: 18
   url: http://dongiovanni-ny.com
   likes:
@@ -49,7 +49,7 @@ venue:
         gender: female
         photo: https://is1.4sqi.net/userpix_thumbs/SP2WXRH3SINZ2PB2.jpg
         tips:
-          count: 5
+          count: 6
         lists:
           groups:
           - type: created
@@ -91,12 +91,15 @@ venue:
     summary: Anjelika K, Don G, Juan C & 1 other
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/don-giovanni-ristorante/4a5a7c30f964a5206aba1fe3/menu
     mobileUrl: https://foursquare.com/v/4a5a7c30f964a5206aba1fe3/device_menu
   beenHere:
     count: 2
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

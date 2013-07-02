@@ -32,19 +32,21 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 7524
-    usersCount: 2765
-    tipCount: 87
+    checkinsCount: 7783
+    usersCount: 2874
+    tipCount: 89
   likes:
-    count: 37
+    count: 40
     groups:
     - type: others
-      count: 37
+      count: 40
       items: []
-    summary: 37 likes
+    summary: 40 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/ninth-street-espresso/49e3a130f964a520a3621fe3/menu
     mobileUrl: https://foursquare.com/v/49e3a130f964a520a3621fe3/device_menu
   beenHere:

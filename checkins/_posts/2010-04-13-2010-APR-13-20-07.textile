@@ -32,16 +32,30 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 456
-    usersCount: 218
-    tipCount: 17
+    checkinsCount: 468
+    usersCount: 230
+    tipCount: 18
   url: http://www.itoen.com/donguri
   likes:
-    count: 7
+    count: 8
     groups:
     - type: others
-      count: 7
+      count: 8
       items:
+      - id: '37506'
+        firstName: Tatiana
+        lastName: R.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/P35L4BKLZUGAKYE4.jpg
+        tips:
+          count: 10
+        homeCity: New York, NY
+        bio: Tatiana's Health & Wellness, Founder. Holistic Nutrition & Health Coach.
+          Event Planner. Blogger. Social Media Maven. Your Ticket To Healthylicious
+          Bliss!™
+        contact:
+          twitter: tatianaridley
+          facebook: '10904630'
       - id: '168656'
         firstName: Stephen
         lastName: M.
@@ -65,7 +79,7 @@ venue:
           - type: created
             count: 17
             items: []
-        homeCity: Erie, PA
+        homeCity: Erie,Pa
         bio: ! "Always now forever more...space, time, and patience\r\nKIK Starrblonde"
         contact:
           facebook: '1396872310'
@@ -75,7 +89,7 @@ venue:
         gender: female
         photo: https://is1.4sqi.net/userpix_thumbs/NKCVPGDKBDZ0UZWW.jpg
         tips:
-          count: 9
+          count: 10
         lists:
           groups:
           - type: created
@@ -84,27 +98,12 @@ venue:
         homeCity: Batavia, OH
         bio: ''
         contact: {}
-      - id: '36593873'
-        firstName: Paul
-        lastName: S.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/13I4VMNWAOQPOKBX.jpg
-        tips:
-          count: 38
-        lists:
-          groups:
-          - type: created
-            count: 19
-            items: []
-        homeCity: ! 'New York & Los Angeles '
-        bio: ''
-        contact:
-          twitter: birdman_paul
-          facebook: '100003826220997'
-    summary: Stephen M, Carolyn D, Jannis B & 4 others
+    summary: Tatiana R, Stephen M, Carolyn D & 5 others
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/donguri/4bd0fe22a8b3a593a123655f/menu
     mobileUrl: https://foursquare.com/v/4bd0fe22a8b3a593a123655f/device_menu
   beenHere:

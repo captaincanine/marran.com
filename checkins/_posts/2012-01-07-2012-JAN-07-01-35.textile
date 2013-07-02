@@ -32,20 +32,22 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 6411
-    usersCount: 3591
+    checkinsCount: 6646
+    usersCount: 3720
     tipCount: 53
   url: http://www.goodstuffdiner.com
   likes:
-    count: 20
+    count: 25
     groups:
     - type: others
-      count: 20
+      count: 25
       items: []
-    summary: 20 likes
+    summary: 25 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/good-stuff-diner/4a1b592ef964a520ee7a1fe3/menu
     mobileUrl: https://foursquare.com/v/4a1b592ef964a520ee7a1fe3/device_menu
   beenHere:

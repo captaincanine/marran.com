@@ -32,21 +32,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 7132
-    usersCount: 4655
-    tipCount: 48
+    checkinsCount: 7623
+    usersCount: 4887
+    tipCount: 53
   url: http://www.aa.com/admiralsclub
   likes:
-    count: 18
+    count: 27
     groups:
     - type: others
-      count: 18
+      count: 27
       items: []
-    summary: 18 likes
+    summary: 27 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

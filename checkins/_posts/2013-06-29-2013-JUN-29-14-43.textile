@@ -1,0 +1,72 @@
+---
+id: 51cf38f1498e15e9d94b4456
+createdAt: 1372535025
+type: checkin
+timeZone: America/Los_Angeles
+timeZoneOffset: -420
+venue:
+  id: 415c9e00f964a520551d1fe3
+  name: Oregon Museum of Science & Industry (OMSI)
+  contact:
+    phone: '5037974000'
+    formattedPhone: (503) 797-4000
+    twitter: omsi
+  location:
+    address: 1945 SE Water Ave
+    lat: 45.50797100171163
+    lng: -122.66570091247559
+    postalCode: '97214'
+    city: Portland
+    state: OR
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/oregon-museum-of-science--industry-omsi/415c9e00f964a520551d1fe3
+  categories:
+  - id: 4bf58dd8d48988d191941735
+    name: Science Museum
+    pluralName: Science Museums
+    shortName: Science Museum
+    icon: https://foursquare.com/img/categories/arts_entertainment/museum_science.png
+    parents:
+    - Arts & Entertainment
+    - Museum
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 9507
+    usersCount: 5465
+    tipCount: 58
+  url: http://www.omsi.edu
+  likes:
+    count: 97
+    groups:
+    - type: others
+      count: 97
+      items: []
+    summary: 97 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Oregon Museum of Science & Industry (OMSI)
+icon: https://foursquare.com/img/categories/arts_entertainment/museum_science.png
+url: https://foursquare.com/v/oregon-museum-of-science--industry-omsi/415c9e00f964a520551d1fe3
+date: 2013-06-29 14:43:45.000000000 -05:00
+
+---

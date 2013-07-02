@@ -44,7 +44,6 @@
 #                          'Tag: ').
 module Jekyll
   
-  
   # The TagIndex class creates a single tag page for the specified tag.
   class TagIndex < Page
     
@@ -75,7 +74,9 @@ module Jekyll
   
   # The Site class is a built-in Jekyll class with access to global site config information.
   class Site
-    
+
+    require 'active_support/all'
+
     # Creates an instance of TagIndex for each tag page, renders it, and 
     # writes the output to a file.
     #
@@ -95,20 +96,14 @@ module Jekyll
         dir = self.config['tag_dir'] || '/tags'
         
         self.tags.keys.each do |tag|
-          if tag.is_a? String 
-            slug = tag.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
-            self.write_tag_index(File.join(dir, slug), tag)
-          end
+          item = tag['name'] || tag
+          self.write_tag_index(File.join(dir, item.parameterize), item)
         end
         
       # Throw an exception if the layout couldn't be found.
       else
         throw "No 'tag_index' layout found."
       end
-    end
-     
-    def self.slugify(tag)
-    	tag.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
     end
  
   end
@@ -130,6 +125,7 @@ module Jekyll
   module Filters
     
     require 'uri'
+    require 'active_support/all'
     
     # Outputs a list of tags as comma-separated <a> links. This is used
     # to output the tag list for each post on a tag page.
@@ -139,13 +135,13 @@ module Jekyll
     # Returns string
     def tag_links(tags)
       tags.sort!.map do |item|
-        ' <a href="/tags/' + Site.slugify(item) + '/" class="tag-link">#'+item+'</a> '
+        tag = item['name'] || item
+        ' <a href="/tags/' + tag.parameterize + '/" class="tag-link">#'+tag+'</a> '
       end
     end
 
     def popular_tags(items)
     
-      # debugger
       tags = items.sort {|a,b| b[1].size <=> a[1].size }
       
       html = String.new
@@ -153,8 +149,8 @@ module Jekyll
       html << "<ul>"
       
       tags[0..39].each do | key, value |
-        slug = Site.slugify(key)
-        html << "<li><a href=\"/tags/#{slug}\" title=\"Pages tagged #{key}\">#{key}</a></li>"
+        tag = key['name'] || key
+        html << "<li><a href=\"/tags/#{tag.parameterize}\" title=\"Pages tagged #{tag}\">#{tag}</a></li>"
       end
       
       html  << "</ul>"
@@ -173,17 +169,14 @@ module Jekyll
       smallest_item = tags.min { |x,y| x[1].size <=> y[1].size }
       
       tags.each do | key, val |    
+        tag = key['name'] || key
         weight = (Math.log(val.length)-Math.log(smallest_item[1].size))/(Math.log(biggest_item[1].size)-Math.log(smallest_item[1].size));
         font_size = minFontSize + ((maxFontSize-minFontSize) * weight).round;
-        html << '<a href="/tags/' + Site.slugify(key) + '/" title="Pages tagged ' + key + '" style="font-size: ' + font_size.to_s + '%" rel=\"tag\">' + key + '</a> '
+        html << '<a href="/tags/' + tag.paramterize + '/" title="Pages tagged ' + tag + '" style="font-size: ' + font_size.to_s + '%" rel=\"tag\">' + tag + '</a> '
       end
       
       html
     
-    end
-    
-    def slugify(tag)
-      tag.strip.downcase.gsub(/(&|&amp;)/, ' and ').gsub(/[\s\.\/\\]/, '-').gsub(/[^\w-]/, '').gsub(/[-_]{2,}/, '-').gsub(/^[-_]/, '').gsub(/[-_]$/, '')
     end
 
   end

@@ -1,0 +1,73 @@
+---
+id: 51a0d558498efd44c94b7e47
+createdAt: 1369494872
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 50fdbf2ce88928976cc8733c
+  name: Birch Coffee
+  contact:
+    phone: '2129291444'
+    formattedPhone: (212) 929-1444
+    twitter: birchcoffee
+  location:
+    address: 56 7th Ave
+    crossStreet: btwn W 13th & 14th
+    lat: 40.73829916495403
+    lng: -73.99974346160887
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/birch-coffee/50fdbf2ce88928976cc8733c
+  categories:
+  - id: 4bf58dd8d48988d1e0931735
+    name: Coffee Shop
+    pluralName: Coffee Shops
+    shortName: Coffee Shop
+    icon: https://foursquare.com/img/categories/food/coffeeshop.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1192
+    usersCount: 517
+    tipCount: 12
+  url: http://www.birchcoffee.com
+  likes:
+    count: 24
+    groups:
+    - type: others
+      count: 24
+      items: []
+    summary: 24 likes
+  like: false
+  beenHere:
+    count: 8
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Birch Coffee
+icon: https://foursquare.com/img/categories/food/coffeeshop.png
+url: https://foursquare.com/v/birch-coffee/50fdbf2ce88928976cc8733c
+date: 2013-05-25 10:14:32.000000000 -05:00
+
+---

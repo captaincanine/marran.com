@@ -56,7 +56,7 @@ comments:
     user_likes: false
   - id: '10151900608119638_31903123'
     from:
-      name: Christian Bunny Zahn
+      name: Bunny Zahn
       id: '113800358'
     message: Giant fighting robots. It's like a live action anime.
     can_remove: true

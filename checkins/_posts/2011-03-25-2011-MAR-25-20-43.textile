@@ -33,22 +33,24 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 8782
-    usersCount: 6196
-    tipCount: 118
+    checkinsCount: 9174
+    usersCount: 6447
+    tipCount: 122
   url: http://www.macaonyc.com
   likes:
-    count: 40
+    count: 47
     groups:
     - type: others
-      count: 40
+      count: 47
       items: []
-    summary: 40 likes
+    summary: 47 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=27787&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/macao-trading-co/49cebdeaf964a520815a1fe3/menu
     mobileUrl: https://foursquare.com/v/49cebdeaf964a520815a1fe3/device_menu
   beenHere:

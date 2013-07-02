@@ -1,0 +1,72 @@
+---
+id: 51cd914f498edadeaa50a963
+createdAt: 1372426575
+type: checkin
+timeZone: America/Los_Angeles
+timeZoneOffset: -420
+venue:
+  id: 42829c80f964a5201b221fe3
+  name: Voodoo Doughnut
+  contact:
+    phone: '5032414704'
+    formattedPhone: (503) 241-4704
+    twitter: voodoodoughnut
+  location:
+    address: 22 SW 3rd Ave
+    crossStreet: at SW Ankeny St
+    lat: 45.52267600173158
+    lng: -122.67316281795502
+    postalCode: '97204'
+    city: Portland
+    state: OR
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/voodoo-doughnut/42829c80f964a5201b221fe3
+  categories:
+  - id: 4bf58dd8d48988d148941735
+    name: Donut Shop
+    pluralName: Donut Shops
+    shortName: Donuts
+    icon: https://foursquare.com/img/categories/food/bagels.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 24566
+    usersCount: 19108
+    tipCount: 226
+  url: http://voodoodoughnut.com
+  likes:
+    count: 268
+    groups:
+    - type: others
+      count: 268
+      items: []
+    summary: 268 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Voodoo Doughnut
+icon: https://foursquare.com/img/categories/food/bagels.png
+url: https://foursquare.com/v/voodoo-doughnut/42829c80f964a5201b221fe3
+date: 2013-06-28 08:36:15.000000000 -05:00
+
+---

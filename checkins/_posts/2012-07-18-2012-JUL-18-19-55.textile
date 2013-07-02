@@ -6,7 +6,7 @@ timeZone: America/New_York
 timeZoneOffset: -240
 venue:
   id: 49c43598f964a520ad561fe3
-  name: ilili Restaurant
+  name: ilili
   contact:
     phone: '2126832929'
     formattedPhone: (212) 683-2929
@@ -22,7 +22,7 @@ venue:
     state: NY
     country: United States
     cc: US
-  canonicalUrl: https://foursquare.com/v/ilili-restaurant/49c43598f964a520ad561fe3
+  canonicalUrl: https://foursquare.com/v/ilili/49c43598f964a520ad561fe3
   categories:
   - id: 4bf58dd8d48988d115941735
     name: Middle Eastern Restaurant
@@ -34,27 +34,30 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 8760
-    usersCount: 6452
-    tipCount: 154
+    checkinsCount: 9314
+    usersCount: 6829
+    tipCount: 164
   url: http://www.ililinyc.com
   likes:
-    count: 63
+    count: 76
     groups:
     - type: others
-      count: 63
+      count: 76
       items: []
-    summary: 63 likes
+    summary: 76 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=15550&ref=9601
   menu:
-    type: foodAndBeverage
-    url: https://foursquare.com/v/ilili-restaurant/49c43598f964a520ad561fe3/menu
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/ilili/49c43598f964a520ad561fe3/menu
     mobileUrl: https://foursquare.com/v/49c43598f964a520ad561fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []
@@ -71,9 +74,9 @@ comments:
 source:
   name: foursquare for iPhone
   url: https://foursquare.com/download/#/iphone
-title: ilili Restaurant
+title: ilili
 icon: https://foursquare.com/img/categories/food/middleeastern.png
-url: https://foursquare.com/v/ilili-restaurant/49c43598f964a520ad561fe3
+url: https://foursquare.com/v/ilili/49c43598f964a520ad561fe3
 date: 2012-07-18 19:55:18.000000000 -05:00
 
 ---

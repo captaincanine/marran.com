@@ -32,22 +32,24 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 9449
-    usersCount: 6594
-    tipCount: 95
+    checkinsCount: 10219
+    usersCount: 7117
+    tipCount: 102
   url: http://catchnewyorkcity.com
   likes:
-    count: 55
+    count: 66
     groups:
     - type: others
-      count: 55
+      count: 66
       items: []
-    summary: 55 likes
+    summary: 66 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=70204&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/catch/4e6e89b5d22daab469b62696/menu
     mobileUrl: https://foursquare.com/v/4e6e89b5d22daab469b62696/device_menu
   beenHere:

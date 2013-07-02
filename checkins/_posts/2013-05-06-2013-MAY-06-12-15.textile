@@ -33,24 +33,26 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 6710
-    usersCount: 3453
-    tipCount: 123
+    checkinsCount: 7069
+    usersCount: 3646
+    tipCount: 125
   url: http://www.taimfalafel.com
   likes:
-    count: 69
+    count: 83
     groups:
     - type: others
-      count: 68
+      count: 82
       items: []
-    summary: You and 68 others
+    summary: You and 82 others
   like: true
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/taim-falafel-and-smoothie-bar/4a044315f964a520ea711fe3/menu
     mobileUrl: https://foursquare.com/v/4a044315f964a520ea711fe3/device_menu
   beenHere:
-    count: 3
+    count: 4
     marked: true
   listed:
     groups:

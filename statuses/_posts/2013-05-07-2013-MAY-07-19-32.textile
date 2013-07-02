@@ -4,11 +4,13 @@ from:
   name: Keith Marran
   id: '790499637'
 story: Keith Marran was tagged in John Jennison's photo.
-picture: https://photos-a.xx.fbcdn.net/hphotos-ash4/393004_10151917618419408_1118498874_s.jpg
+picture: https://photos-a.xx.fbcdn.net/hphotos-frc1/393004_10151917618419408_1118498874_s.jpg
 link: http://www.facebook.com/photo.php?fbid=10151917618419408&set=at.10151577660874408.611614.500439407.790499637&type=1&relevant_count=1
 description: Keith Marran was tagged in John Jennison's photo.
 icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yz/r/StEh3RhPvjk.gif
 actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151905273274638
 - name: Like
   link: http://www.facebook.com/790499637/posts/10151905273274638
 privacy:
@@ -23,12 +25,12 @@ created_time: '2013-05-08T00:32:33+0000'
 updated_time: '2013-05-08T03:13:56+0000'
 likes:
   data:
+  - name: Justin Winslow
+    id: '1201684433'
   - name: Josh Siegel
     id: '621816545'
   - name: John Jennison
     id: '500439407'
-  - name: Justin Winslow
-    id: '1201684433'
   - name: Adam Michael
     id: '1481160109'
   count: 12

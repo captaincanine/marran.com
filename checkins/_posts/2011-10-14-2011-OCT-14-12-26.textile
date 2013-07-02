@@ -32,19 +32,21 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 4800
-    usersCount: 3123
-    tipCount: 60
+    checkinsCount: 4975
+    usersCount: 3233
+    tipCount: 63
   likes:
-    count: 14
+    count: 19
     groups:
     - type: others
-      count: 14
+      count: 19
       items: []
-    summary: 14 likes
+    summary: 19 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/skylight-diner/3fd66200f964a520b4e31ee3/menu
     mobileUrl: https://foursquare.com/v/3fd66200f964a520b4e31ee3/device_menu
   beenHere:

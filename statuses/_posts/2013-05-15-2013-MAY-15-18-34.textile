@@ -25,7 +25,7 @@ data:
     title: ''
 type: instapp:take
 likes:
-  count: 8
+  count: 9
   can_like: true
   user_likes: false
 comments:

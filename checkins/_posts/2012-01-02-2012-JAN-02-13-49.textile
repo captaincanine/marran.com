@@ -34,17 +34,17 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1915
-    usersCount: 924
-    tipCount: 48
+    checkinsCount: 2010
+    usersCount: 981
+    tipCount: 49
   url: http://dicksonsfarmstand.com
   likes:
-    count: 16
+    count: 18
     groups:
     - type: others
-      count: 16
+      count: 18
       items: []
-    summary: 16 likes
+    summary: 18 likes
   like: false
   beenHere:
     count: 1

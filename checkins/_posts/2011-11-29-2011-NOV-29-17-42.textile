@@ -33,16 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 571
-    usersCount: 319
+    checkinsCount: 595
+    usersCount: 330
     tipCount: 13
   url: http://www.citycakesny.com
   likes:
-    count: 2
+    count: 3
     groups:
     - type: others
-      count: 2
+      count: 3
       items:
+      - id: '7023087'
+        firstName: Denise
+        lastName: A.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/00WPFS2RNV41D3YQ.jpg
+        tips:
+          count: 13
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact:
+          twitter: deaguilar88
+          facebook: '22306153'
       - id: '7294631'
         firstName: Bat
         lastName: M.
@@ -63,11 +75,12 @@ venue:
         homeCity: Astoria, NY
         bio: ''
         contact: {}
-    summary: Bat M & Jackie
+    summary: Denise A, Bat M & Jackie
   like: false
   beenHere:
     count: 2
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

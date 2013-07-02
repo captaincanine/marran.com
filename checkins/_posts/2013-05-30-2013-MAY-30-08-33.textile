@@ -1,0 +1,77 @@
+---
+id: 51a75547498eb0edc1f0eb41
+createdAt: 1369920839
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a5519d5f964a520adb31fe3
+  name: Petco
+  contact:
+    phone: '2123580692'
+    formattedPhone: (212) 358-0692
+  location:
+    address: 860 Broadway
+    crossStreet: at 17th St.
+    lat: 40.7368875094195
+    lng: -73.99020829705454
+    postalCode: '10003'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/petco/4a5519d5f964a520adb31fe3
+  categories:
+  - id: 4bf58dd8d48988d100951735
+    name: Pet Store
+    pluralName: Pet Stores
+    shortName: Pet Store
+    icon: https://foursquare.com/img/categories/shops/pet_store.png
+    parents:
+    - Shop & Service
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 9365
+    usersCount: 4498
+    tipCount: 43
+  likes:
+    count: 18
+    groups:
+    - type: others
+      count: 18
+      items: []
+    summary: 18 likes
+  like: false
+  menu:
+    type: Services
+    label: Services
+    anchor: See services
+    url: https://foursquare.com/v/petco/4a5519d5f964a520adb31fe3/menu
+    mobileUrl: https://foursquare.com/v/4a5519d5f964a520adb31fe3/device_menu
+  beenHere:
+    count: 5
+    marked: false
+  storeId: '778'
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Petco
+icon: https://foursquare.com/img/categories/shops/pet_store.png
+url: https://foursquare.com/v/petco/4a5519d5f964a520adb31fe3
+date: 2013-05-30 08:33:59.000000000 -05:00
+
+---

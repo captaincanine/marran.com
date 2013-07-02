@@ -33,9 +33,9 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1748
-    usersCount: 578
-    tipCount: 8
+    checkinsCount: 1820
+    usersCount: 600
+    tipCount: 10
   url: http://www.dairyqueen.com
   likes:
     count: 1
@@ -55,9 +55,16 @@ venue:
           facebook: '100002479017925'
     summary: Chelsea
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/dairy-queen/4bdf0ad30ee3a593b9c332b0/menu
+    mobileUrl: https://foursquare.com/v/4bdf0ad30ee3a593b9c332b0/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: '15220'
 likes:
   count: 0
   groups: []

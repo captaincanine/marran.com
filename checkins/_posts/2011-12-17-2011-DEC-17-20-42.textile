@@ -14,8 +14,8 @@ venue:
   location:
     address: 25 W 40th St
     crossStreet: at NY Public Library
-    lat: 40.7535969389767
-    lng: -73.98314928265228
+    lat: 40.75331986127265
+    lng: -73.98340180471577
     postalCode: '10018'
     city: New York
     state: NY
@@ -33,22 +33,24 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 8537
-    usersCount: 6644
-    tipCount: 45
+    checkinsCount: 9312
+    usersCount: 7250
+    tipCount: 49
   url: http://bryantparkgrillnyc.com
   likes:
-    count: 19
+    count: 28
     groups:
     - type: others
-      count: 19
+      count: 28
       items: []
-    summary: 19 likes
+    summary: 28 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=12019&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/bryant-park-grill/3fd66200f964a5207de91ee3/menu
     mobileUrl: https://foursquare.com/v/3fd66200f964a5207de91ee3/device_menu
   beenHere:

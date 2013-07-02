@@ -27,7 +27,7 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 108
+    checkinsCount: 110
     usersCount: 54
     tipCount: 4
   likes:
@@ -42,7 +42,7 @@ venue:
         gender: female
         photo: https://is0.4sqi.net/userpix_thumbs/KT0XTZMQWF0NNUYH.jpg
         tips:
-          count: 1
+          count: 3
         homeCity: Harrison
         bio: ! "Theater Person, English Nerd, Global Scholar, Philosopher, Physics
           Geek.\r\nI don't need to flirt.  I will seduce you with my awkwardness."

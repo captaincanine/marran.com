@@ -32,21 +32,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 20504
-    usersCount: 5596
-    tipCount: 65
+    checkinsCount: 21132
+    usersCount: 5772
+    tipCount: 67
   url: http://generalassemb.ly
   likes:
-    count: 57
+    count: 68
     groups:
     - type: others
-      count: 57
+      count: 68
       items: []
-    summary: 57 likes
+    summary: 68 likes
   like: false
   beenHere:
     count: 3
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

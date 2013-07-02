@@ -34,20 +34,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 10276
-    usersCount: 3869
-    tipCount: 55
+    checkinsCount: 10785
+    usersCount: 4014
+    tipCount: 59
   url: http://www.halstedschicago.com
   likes:
-    count: 18
+    count: 22
     groups:
     - type: others
-      count: 18
+      count: 22
       items: []
-    summary: 18 likes
+    summary: 22 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/halsteds-bar--grill/4b40f18ef964a520eabd25e3/menu
     mobileUrl: https://foursquare.com/v/4b40f18ef964a520eabd25e3/device_menu
   beenHere:

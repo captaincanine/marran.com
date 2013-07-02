@@ -1,0 +1,260 @@
+---
+id: '790499637_10151929185864638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: My kingdom for a pie crust recipe that doesn't split, tear, and stick while
+  rolling out. I have tried to make pies many times and have yet to succeed.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151929185864638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151929185864638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-05-20T16:29:37+0000'
+updated_time: '2013-05-20T21:35:50+0000'
+likes:
+  data:
+  - name: Robert Russin
+    id: '809360003'
+  count: 1
+comments:
+  data:
+  - id: '10151929185864638_32154597'
+    from:
+      name: Robert Russin
+      id: '809360003'
+    message: I made my first pie crust watching Ina Garten do it and have never really
+      had a problem -- she's my good luck charm
+    can_remove: true
+    created_time: '2013-05-20T16:33:26+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32154605'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Did she also tell you to pour salt in my wounds?
+    can_remove: true
+    created_time: '2013-05-20T16:34:10+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32154608'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: I will check out Ina's recipe.
+    can_remove: true
+    created_time: '2013-05-20T16:34:18+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32154617'
+    from:
+      name: Robert Russin
+      id: '809360003'
+    message: She over salts everything, so it wouldn't surprise me.   What recipe(s)
+      are you trying?  Sometimes no matter what you do it's just something about the
+      flour itself or the temperature of the room that can mess with it
+    can_remove: true
+    created_time: '2013-05-20T16:34:49+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32154654'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: ! 'This is one of my go-to dessert cookboks: http://sweetkitchen.regandaley.com/.
+      I have never tried her pie crust, so I thought I''d give it a go. I''ve tried
+      many recipes and none have ever really worked well. I can do a pate sucre crust
+      quite well, so I don''t know why I''m so flummoxed by a simple pie crust.'
+    can_remove: true
+    created_time: '2013-05-20T16:38:07+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151929185864638_32154663'
+    from:
+      name: Robert Russin
+      id: '809360003'
+    message: Isn't that weird?   I can do all complicated pastry stuff but I mess
+      up when I make scrambled eggs
+    can_remove: true
+    created_time: '2013-05-20T16:38:45+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32155042'
+    from:
+      name: Ben Mims
+      id: '26502264'
+    message: Oh Keith, I want to fly to NYC right now desperately to help you out!
+      Recipes have about 30% to do with it, the rest is temperature and time and how
+      you roll. Getting those things across in a book is really hard and probably
+      why people still have trouble with them. You need a physical demo to really
+      grasp it, and of course, I'm the ONLY one qualified for it, BLAST! I'll be in
+      NYC in late June; hold off on your pies til then :)
+    can_remove: true
+    created_time: '2013-05-20T17:08:03+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32155101'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Ben to the rescue! June will be perfect. It should be blackberry season
+      by then.
+    can_remove: true
+    created_time: '2013-05-20T17:11:10+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151929185864638_32155120'
+    from:
+      name: Ben Mims
+      id: '26502264'
+    message: Awesome, I'll loop in Jono to coordinate a little reunion :D
+    message_tags:
+    - id: '1343303598'
+      name: Jono
+      type: user
+      offset: 22
+      length: 4
+    can_remove: true
+    created_time: '2013-05-20T17:12:33+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32155122'
+    from:
+      name: Jon Herzog
+      id: '2600578'
+    message: ! 'I took this class at the Brooklyn Kitchen that taught me so so so
+      much. Made pies a cinch (except for the time investment, I have no patience!!)
+      New instructor, but totally worth taking. All their classes are amazing.
+
+
+      http://www.thebrooklynkitchen.com/web-store/06-09-hands-on-pie-making-class-sunday-2pm-june/dp/19687'
+    can_remove: true
+    created_time: '2013-05-20T17:12:40+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32155213'
+    from:
+      name: Jon Herzog
+      id: '2600578'
+    message: ! 'Sorry, that one is sold out, but this one isn''t!
+
+
+      http://www.thebrooklynkitchen.com/web-store/06-24-hands-on-pie-making-class-monday-6:30pm-june/dp/19705'
+    can_remove: true
+    created_time: '2013-05-20T17:18:15+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151929185864638_32155533'
+    from:
+      name: Renee Kent
+      id: '531319519'
+    message: You haven't tried the cooks illustrated vodka crust?  I believe it's
+      name is fool proof pie crust. And it is.  So easy to roll out
+    can_remove: true
+    created_time: '2013-05-20T17:39:40+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32155725'
+    from:
+      name: Jeremy Karlin
+      id: '1202268187'
+    message: Renee is right. I use that recipe all the time. Because the vodka evaporates,
+      you can use more liquid.
+    can_remove: true
+    created_time: '2013-05-20T17:51:20+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32155752'
+    from:
+      name: Robb Bloom
+      id: '1095747683'
+    message: Vodka pie crust?! I gotta try that... http://www.seriouseats.com/recipes/2007/11/cooks-illustrated-foolproof-pie-dough-recipe.html
+    can_remove: true
+    created_time: '2013-05-20T17:53:38+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32158809'
+    from:
+      name: Brett Bishop
+      id: '1203637433'
+    message: I'm gonna get slapped for this, I know. Honey, buy the Pillsbury pre
+      made rounds at the grocery store...
+    can_remove: true
+    created_time: '2013-05-20T21:27:11+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151929185864638_32158847'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Brett - replace wire hangers with Pillsbury. http://www.youtube.com/watch?v=XOILKHmZBwc
+    message_tags:
+    - id: '1203637433'
+      name: Brett
+      type: user
+      offset: 0
+      length: 5
+    can_remove: true
+    created_time: '2013-05-20T21:30:33+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32158855'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Acutally, that's exactly what I did. The pie crust was dying so went
+      to the grocery store and got Pillsbury's. I DID IT, OKAY? JUST THIS ONCE!
+    can_remove: true
+    created_time: '2013-05-20T21:31:28+0000'
+    like_count: 1
+    user_likes: false
+  - id: '10151929185864638_32158873'
+    from:
+      name: Brett Bishop
+      id: '1203637433'
+    message: Ata boy! Life's just too short to make scratch pie crusts.
+    can_remove: true
+    created_time: '2013-05-20T21:32:36+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151929185864638_32158914'
+    from:
+      name: Brett Bishop
+      id: '1203637433'
+    message: Actually, Al Travi makes terrific pie crust. I'm sure we could coax him
+      into making pies with us sometime this summer, but that would go against every
+      notion I have of dropping the winter coat.
+    message_tags:
+    - id: '583319133'
+      name: Al Travi
+      type: user
+      offset: 10
+      length: 8
+    can_remove: true
+    created_time: '2013-05-20T21:35:50+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: MTk=
+      before: MQ==
+layout: status
+title: Monday, May 20, 2013 around 11:29AM
+date: 2013-05-20 11:29:37.000000000 -05:00
+
+---
+My kingdom for a pie crust recipe that doesn't split, tear, and stick while rolling out. I have tried to make pies many times and have yet to succeed.

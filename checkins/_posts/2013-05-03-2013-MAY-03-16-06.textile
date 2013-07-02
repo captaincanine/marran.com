@@ -34,16 +34,27 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1236
-    usersCount: 367
+    checkinsCount: 1307
+    usersCount: 391
     tipCount: 14
   url: http://elmhealth.net
   likes:
-    count: 5
+    count: 6
     groups:
     - type: others
-      count: 5
+      count: 6
       items:
+      - id: '55394796'
+        firstName: Sarah
+        lastName: D.
+        gender: female
+        photo: https://foursquare.com/img/blank_girl.png
+        tips:
+          count: 0
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '500021137'
       - id: '54800183'
         firstName: Julie
         lastName: B.
@@ -73,7 +84,7 @@ venue:
         gender: male
         photo: https://is1.4sqi.net/userpix_thumbs/4a40156b99a30.jpg
         tips:
-          count: 41
+          count: 44
         lists:
           groups:
           - type: created
@@ -85,25 +96,18 @@ venue:
           twitter: innonate
           facebook: '9801402'
         superuser: 1
-      - id: '38097711'
-        firstName: Scheckter's Organic Energy
-        gender: none
-        photo: https://is1.4sqi.net/userpix_thumbs/KNZS3PDVC5CVJPHE.jpg
-        tips:
-          count: 11
-        lists:
-          groups:
-          - type: created
-            count: 1
-            items: []
-        homeCity: New York, NY
-        bio: www.schecktersorganic.com
-        contact: {}
-    summary: Julie B, Amanda D, Nate W & 2 others
+    summary: Sarah D, Julie B, Amanda D & 3 others
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/elm-health/4cdd66934006a143be17e5b2/menu
+    mobileUrl: https://foursquare.com/v/4cdd66934006a143be17e5b2/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

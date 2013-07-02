@@ -32,20 +32,26 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 14908
-    usersCount: 9643
-    tipCount: 273
+    checkinsCount: 15550
+    usersCount: 10052
+    tipCount: 274
   url: http://www.locandaverdenyc.com
   likes:
-    count: 116
+    count: 137
     groups:
     - type: others
-      count: 116
+      count: 137
       items: []
-    summary: 116 likes
+    summary: 137 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=22762&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/locanda-verde/4a149749f964a52055781fe3/menu
+    mobileUrl: https://foursquare.com/v/4a149749f964a52055781fe3/device_menu
   beenHere:
     count: 2
     marked: false

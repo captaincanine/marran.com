@@ -34,9 +34,9 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 5542
-    usersCount: 3891
-    tipCount: 41
+    checkinsCount: 5783
+    usersCount: 4014
+    tipCount: 42
   likes:
     count: 17
     groups:
@@ -51,9 +51,6 @@ venue:
 event:
   id: 511b0270b71b2ef86beabe96
   name: 'No'
-  foreignIds:
-    count: 0
-    items: []
   categories:
   - id: 4dfb90c6bd413dd705e8f897
     name: Movie

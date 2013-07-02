@@ -47,13 +47,13 @@ venue:
         firstName: Nancy A.
         lastName: K.
         gender: female
-        photo: https://is1.4sqi.net/userpix_thumbs/J2XBOIB5ONFUYLEF.jpg
+        photo: https://is1.4sqi.net/userpix_thumbs/HHX5LW00GHQFJ3XV.jpg
         tips:
-          count: 41
+          count: 42
         lists:
           groups:
           - type: created
-            count: 366
+            count: 371
             items: []
         homeCity: Hackensack, NJ  07601
         bio: Love.Coffee/Pets,/Being a Crossing Gaurd -Hackensack,Nj I'm Leo/Aug I
@@ -69,11 +69,15 @@ venue:
           count: 4
         homeCity: New York, NY
         bio: ''
-        contact: {}
+        contact:
+          twitter: chadkimball1
+          facebook: '732175082'
     summary: Nancy A. K & Chad K
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/matsuri/40fb0f00f964a520fb0a1fe3/menu
     mobileUrl: https://foursquare.com/v/40fb0f00f964a520fb0a1fe3/device_menu
   beenHere:

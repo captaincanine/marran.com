@@ -33,20 +33,20 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 6225
-    usersCount: 2832
-    tipCount: 56
+    checkinsCount: 6909
+    usersCount: 3163
+    tipCount: 62
   url: http://www.bluebottlecoffee.net
   likes:
-    count: 94
+    count: 110
     groups:
     - type: others
-      count: 94
+      count: 110
       items: []
-    summary: 94 likes
+    summary: 110 likes
   like: false
   beenHere:
-    count: 5
+    count: 16
     marked: true
   listed:
     groups:

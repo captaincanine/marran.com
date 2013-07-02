@@ -33,24 +33,26 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 14095
-    usersCount: 9086
-    tipCount: 231
+    checkinsCount: 15181
+    usersCount: 9716
+    tipCount: 243
   url: http://doughnutplant.com
   likes:
-    count: 111
+    count: 143
     groups:
     - type: others
-      count: 111
+      count: 143
       items: []
-    summary: 111 likes
+    summary: 143 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/doughnut-plant/4d59274a3281b1f7deb0b72f/menu
     mobileUrl: https://foursquare.com/v/4d59274a3281b1f7deb0b72f/device_menu
   beenHere:
-    count: 3
+    count: 4
     marked: false
 likes:
   count: 0

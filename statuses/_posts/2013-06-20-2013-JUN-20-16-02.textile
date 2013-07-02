@@ -1,0 +1,63 @@
+---
+id: '790499637_10152000607899638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: I just had Disastrous Site Launch Day! I forgot out exhilarating and nauseating
+  they can be!
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10152000607899638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10152000607899638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-06-20T21:02:20+0000'
+updated_time: '2013-06-20T21:38:16+0000'
+likes:
+  data:
+  - name: Christine Marran
+    id: '1327144819'
+  count: 1
+comments:
+  data:
+  - id: '10152000607899638_32650096'
+    from:
+      name: Sara Holoubek
+      id: '659585353'
+    message: fun!
+    can_remove: true
+    created_time: '2013-06-20T21:25:32+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152000607899638_32650281'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: I will be listening to John Denver and Jim Croce for the rest of the
+      week.
+    can_remove: true
+    created_time: '2013-06-20T21:38:16+0000'
+    like_count: 1
+    user_likes: false
+  paging:
+    cursors:
+      after: Mg==
+      before: MQ==
+layout: status
+title: Thursday, Jun 20, 2013 around 04:02PM
+date: 2013-06-20 16:02:20.000000000 -05:00
+
+---
+I just had Disastrous Site Launch Day! I forgot out exhilarating and nauseating they can be!

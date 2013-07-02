@@ -1,0 +1,83 @@
+---
+id: 51ce0566498e9830f272f448
+createdAt: 1372456294
+type: checkin
+timeZone: America/Los_Angeles
+timeZoneOffset: -420
+venue:
+  id: 4b6b1d25f964a520adf32be3
+  name: Samurai Japanese Cart
+  contact: {}
+  location:
+    address: SW 10th & Alder
+    lat: 45.52064032265976
+    lng: -122.68099680386517
+    city: Portland
+    state: OR
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/samurai-japanese-cart/4b6b1d25f964a520adf32be3
+  categories:
+  - id: 4bf58dd8d48988d1cb941735
+    name: Food Truck
+    pluralName: Food Trucks
+    shortName: Food Truck
+    icon: https://foursquare.com/img/categories/food/streetfood.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 381
+    usersCount: 167
+    tipCount: 5
+  likes:
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '125782'
+        firstName: Cavale
+        lastName: F.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/MF3QGDOLWG21VCLX.jpg
+        tips:
+          count: 49
+        lists:
+          groups:
+          - type: created
+            count: 2
+            items: []
+        homeCity: Portland, OR
+        bio: ! "\U0001F355\U0001F355\U0001F355\U0001F355\U0001F355\U0001F355\U0001F355"
+        contact:
+          twitter: cavale
+          facebook: '100001201713682'
+    summary: Cavale F
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Samurai Japanese Cart
+icon: https://foursquare.com/img/categories/food/streetfood.png
+url: https://foursquare.com/v/samurai-japanese-cart/4b6b1d25f964a520adf32be3
+date: 2013-06-28 16:51:34.000000000 -05:00
+
+---

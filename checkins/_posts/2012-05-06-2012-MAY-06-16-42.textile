@@ -33,9 +33,9 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 2782
-    usersCount: 1918
-    tipCount: 40
+    checkinsCount: 2873
+    usersCount: 1984
+    tipCount: 41
   url: http://cavatoddenglish.com
   likes:
     count: 7
@@ -71,11 +71,11 @@ venue:
         gender: male
         photo: https://is0.4sqi.net/userpix_thumbs/ZAOP3EHMF3H5XRQD.jpg
         tips:
-          count: 103
+          count: 128
         lists:
           groups:
           - type: created
-            count: 4
+            count: 5
             items: []
         homeCity: Moscow
         bio: ''
@@ -95,12 +95,15 @@ venue:
   reservations:
     url: http://www.opentable.com/single.aspx?rid=47098&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/ca-va-brasserie/4c55fefb973fc928cc5340c8/menu
     mobileUrl: https://foursquare.com/v/4c55fefb973fc928cc5340c8/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

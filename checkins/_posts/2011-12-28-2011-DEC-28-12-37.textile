@@ -32,73 +32,16 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 843
-    usersCount: 708
+    checkinsCount: 912
+    usersCount: 767
     tipCount: 7
   likes:
-    count: 8
+    count: 11
     groups:
     - type: others
-      count: 8
-      items:
-      - id: '1099064'
-        firstName: Cassiano
-        lastName: R.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/AFMXGIW52ODD3SDJ.jpg
-        tips:
-          count: 24
-        lists:
-          groups:
-          - type: created
-            count: 21
-            items: []
-        homeCity: Curitiba
-        bio: aka cassijones
-        contact: {}
-        superuser: 1
-      - id: '8085650'
-        firstName: Reuben
-        lastName: M.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/PPHZ3FSQNKEWGBNV.jpg
-        tips:
-          count: 1
-        homeCity: België
-        bio: ''
-        contact: {}
-      - id: '20983264'
-        firstName: Bárbara
-        lastName: G.
-        gender: female
-        photo: https://is1.4sqi.net/userpix_thumbs/G4ZHCZ2RBCFMSEKJ.jpg
-        tips:
-          count: 3
-        homeCity: Sorocaba, Brazil
-        bio: ''
-        contact:
-          twitter: sugarsomebody
-          facebook: '100000762750785'
-      - id: '3146310'
-        firstName: Andrea
-        lastName: G.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/SD5BRKCLWZEI4KST.jpg
-        tips:
-          count: 9
-        lists:
-          groups:
-          - type: created
-            count: 1
-            items: []
-        homeCity: Pisa, Italia
-        bio: Web Developer & Sales Partner @2creAtiveLab, laureato in Informatica
-          Umanistica, appassionato di web, tecnologia e videogames. Deve dimagrire,
-          ma sorvoliamo...
-        contact:
-          twitter: agiovinazzi
-          facebook: '1343044283'
-    summary: Cassiano R, Reuben M, Bárbara G & 5 others
+      count: 11
+      items: []
+    summary: 11 likes
   like: false
   beenHere:
     count: 1

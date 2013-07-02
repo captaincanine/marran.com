@@ -33,78 +33,21 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 3965
-    usersCount: 963
-    tipCount: 27
+    checkinsCount: 4049
+    usersCount: 989
+    tipCount: 29
   likes:
-    count: 9
+    count: 10
     groups:
     - type: others
-      count: 9
-      items:
-      - id: '9424212'
-        firstName: Howard
-        lastName: K.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/Y1Y2YBSLUHCCJ4YH.jpg
-        tips:
-          count: 2
-        homeCity: Robbinsdale, MN
-        bio: ! "My friends call me Lelo.\r\nThat is all."
-        contact:
-          twitter: lelohk
-          facebook: '1222960796'
-      - id: '17296'
-        firstName: David
-        lastName: E.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/HYXHRRDKCATX2NYT.jpg
-        tips:
-          count: 70
-        lists:
-          groups:
-          - type: created
-            count: 1
-            items: []
-        homeCity: Saint Paul, MN
-        bio: Marketing / communications / PR / SEO / social media strategist, pop
-          culture junkie, football & baseball fan, blogger @TheDailyNumbers & @MNVikingsChat
-        contact:
-          twitter: derickson
-          facebook: '793363355'
-        superuser: 2
-      - id: '52423571'
-        firstName: Casey
-        lastName: L.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/U0PGJ2BQMWOLQZEB.jpg
-        tips:
-          count: 7
-        lists:
-          groups:
-          - type: created
-            count: 1
-            items: []
-        homeCity: Minneapolis, MN
-        bio: ''
-        contact:
-          facebook: '543936745'
-      - id: '151914'
-        firstName: Jachin
-        lastName: R.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/NUKAB5G5IM5FCMIK.jpg
-        tips:
-          count: 0
-        homeCity: Minneapolis, MN
-        bio: ''
-        contact:
-          twitter: jachin
-          facebook: '670673081'
-    summary: Howard K, David E, Casey L & 6 others
+      count: 10
+      items: []
+    summary: 10 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/urban-bean/43bff2a8f964a520262d1fe3/menu
     mobileUrl: https://foursquare.com/v/43bff2a8f964a520262d1fe3/device_menu
   beenHere:

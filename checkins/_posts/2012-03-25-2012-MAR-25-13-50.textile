@@ -32,16 +32,32 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 410
-    usersCount: 208
+    checkinsCount: 430
+    usersCount: 220
     tipCount: 9
   url: http://ciaofornow.net
   likes:
-    count: 0
-    groups: []
+    count: 1
+    groups:
+    - type: others
+      count: 1
+      items:
+      - id: '49119648'
+        firstName: Gabriel
+        lastName: H.
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 7
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact: {}
+    summary: Gabriel H
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/ciao-for-now/4b562ad3f964a5205a0328e3/menu
     mobileUrl: https://foursquare.com/v/4b562ad3f964a5205a0328e3/device_menu
   beenHere:

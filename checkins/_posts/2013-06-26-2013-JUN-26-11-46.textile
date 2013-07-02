@@ -1,0 +1,83 @@
+---
+id: 51cb1aea498ec3fec39fb836
+createdAt: 1372265194
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a044315f964a520ea711fe3
+  name: Taim Falafel and Smoothie Bar
+  contact:
+    phone: '2126911287'
+    formattedPhone: (212) 691-1287
+    twitter: taimrestaurant
+  location:
+    address: 222 Waverly Pl
+    crossStreet: btwn Perry & W 11th St
+    lat: 40.73595141051346
+    lng: -74.00176041628802
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/taim-falafel-and-smoothie-bar/4a044315f964a520ea711fe3
+  categories:
+  - id: 4bf58dd8d48988d1c4941735
+    name: Restaurant
+    pluralName: Restaurants
+    shortName: Restaurant
+    icon: https://foursquare.com/img/categories/food/default.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 7069
+    usersCount: 3646
+    tipCount: 125
+  url: http://www.taimfalafel.com
+  likes:
+    count: 83
+    groups:
+    - type: others
+      count: 82
+      items: []
+    summary: You and 82 others
+  like: true
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/taim-falafel-and-smoothie-bar/4a044315f964a520ea711fe3/menu
+    mobileUrl: https://foursquare.com/v/4a044315f964a520ea711fe3/device_menu
+  beenHere:
+    count: 4
+    marked: true
+  listed:
+    groups:
+    - type: dones
+      count: 1
+      items: []
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Taim Falafel and Smoothie Bar
+icon: https://foursquare.com/img/categories/food/default.png
+url: https://foursquare.com/v/taim-falafel-and-smoothie-bar/4a044315f964a520ea711fe3
+date: 2013-06-26 11:46:34.000000000 -05:00
+
+---

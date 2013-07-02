@@ -27,8 +27,8 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 482
-    usersCount: 315
+    checkinsCount: 501
+    usersCount: 332
     tipCount: 13
   likes:
     count: 3

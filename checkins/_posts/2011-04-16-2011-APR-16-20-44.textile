@@ -34,21 +34,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 9272
-    usersCount: 5959
+    checkinsCount: 9675
+    usersCount: 6214
     tipCount: 68
   url: http://www.joespub.com
   likes:
-    count: 30
+    count: 39
     groups:
     - type: others
-      count: 30
+      count: 39
       items: []
-    summary: 30 likes
+    summary: 39 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/joes-pub/3fd66200f964a520f7e51ee3/menu
+    mobileUrl: https://foursquare.com/v/3fd66200f964a520f7e51ee3/device_menu
   beenHere:
     count: 3
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

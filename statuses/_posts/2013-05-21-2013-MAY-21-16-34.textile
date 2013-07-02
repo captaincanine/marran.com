@@ -1,0 +1,70 @@
+---
+id: '790499637_10151931776329638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: I had completely forgotten that I gave this author permission to use one
+  of my photos for this book. A copy came in the mail today. I'm on page 27.
+picture: https://fbexternal-a.akamaihd.net/safe_image.php?d=AQBsn0U5tbzUfn4Y&w=154&h=154&url=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F61eKuvnV4bL._SY300_.jpg
+link: http://www.amazon.com/Down-To-Earth-World-Footprints/dp/1459804236?utm_content=bufferfc18c&utm_source=buffer&utm_medium=facebook&utm_campaign=Buffer
+name: ! 'Down To Earth: How Kids Help Feed the World (Footprints): Nikki Tate: 9781459804234:
+  Amazon.com: Boo'
+caption: www.amazon.com
+description: I had completely forgotten that I gave this author permission to use
+  one of my photos for this book. A copy came in the mail today. I'm on page 27.
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151931776329638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151931776329638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: link
+status_type: shared_story
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-05-21T21:34:47+0000'
+updated_time: '2013-05-21T22:15:00+0000'
+likes:
+  data:
+  - name: Charlotte Hertander
+    id: '577154539'
+  - name: Suzanne Feinberg
+    id: '100000599017740'
+  - name: Renee Kent
+    id: '531319519'
+  - name: Patrick Yacco
+    id: '507963176'
+  count: 5
+comments:
+  data:
+  - id: '10151931776329638_32176073'
+    from:
+      name: Renee Kent
+      id: '531319519'
+    message: Sad you can't 'search inside" this book.
+    can_remove: true
+    created_time: '2013-05-21T22:15:00+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: MQ==
+      before: MQ==
+layout: status-link
+title: Tuesday, May 21, 2013 around 04:34PM
+link-info: ! 'Down To Earth: How Kids Help Feed the World (Footprints) [Nikki Tate]
+  on Amazon.com. *FREE* super saver shipping on qualifying offers. Kids all over the
+  world help collect seeds, weed gardens, milk goats...'
+date: 2013-05-21 16:34:47.000000000 -05:00
+
+---
+I had completely forgotten that I gave this author permission to use one of my photos for this book. A copy came in the mail today. I'm on page 27.

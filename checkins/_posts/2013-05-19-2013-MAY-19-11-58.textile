@@ -1,0 +1,135 @@
+---
+id: 519904a5498e2821e3231140
+createdAt: 1368982693
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4bb77c40314e9521902a479d
+  name: Original Sandwich Shoppe
+  contact:
+    phone: '2122552237'
+    formattedPhone: (212) 255-2237
+    twitter: tossnyc
+  location:
+    address: 58 Greenwich Ave
+    crossStreet: Perry Street
+    lat: 40.735870883333334
+    lng: -74.000764
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/original-sandwich-shoppe/4bb77c40314e9521902a479d
+  categories:
+  - id: 4bf58dd8d48988d1c5941735
+    name: Sandwich Place
+    pluralName: Sandwich Places
+    shortName: Sandwiches
+    icon: https://foursquare.com/img/categories/food/sandwiches.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 987
+    usersCount: 515
+    tipCount: 18
+  likes:
+    count: 4
+    groups:
+    - type: others
+      count: 4
+      items:
+      - id: '32247805'
+        firstName: Nana
+        lastName: W.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/Z1M0CTNCN44MXKF3.jpg
+        tips:
+          count: 86
+        lists:
+          groups:
+          - type: created
+            count: 50
+            items: []
+        homeCity: Here, There and Everywhere.....
+        bio: ! '"A mother holds her children''s hands for a while, but their hearts
+          forever." and that''s me :)'
+        contact:
+          twitter: sweetaquarius
+          facebook: '1278067036'
+      - id: '12987164'
+        firstName: Todd
+        lastName: L.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/5KZ4WMELKHJRWEJM.jpg
+        tips:
+          count: 9
+        lists:
+          groups:
+          - type: created
+            count: 5
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '1271453790'
+      - id: '55759'
+        firstName: Jeffrey
+        lastName: V.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/SVMOD0SD1FXEYXRO.jpg
+        tips:
+          count: 17
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: jvargas92
+          facebook: '540954715'
+        superuser: 2
+      - id: '27233285'
+        firstName: Derek
+        lastName: H.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/KXY5ET5JCF44A4LC.jpg
+        tips:
+          count: 3
+        homeCity: Newark NJ
+        bio: ''
+        contact:
+          facebook: '682073135'
+    summary: Nana W, Todd L, Jeffrey V & Derek H
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/original-sandwich-shoppe/4bb77c40314e9521902a479d/menu
+    mobileUrl: https://foursquare.com/v/4bb77c40314e9521902a479d/device_menu
+  beenHere:
+    count: 9
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Original Sandwich Shoppe
+icon: https://foursquare.com/img/categories/food/sandwiches.png
+url: https://foursquare.com/v/original-sandwich-shoppe/4bb77c40314e9521902a479d
+date: 2013-05-19 11:58:13.000000000 -05:00
+
+---

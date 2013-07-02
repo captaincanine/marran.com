@@ -1,0 +1,116 @@
+---
+id: '790499637_10151931012279638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: I'm working on a simple summer Wonder Woman outfit for Fire Island. I would
+  like a manly tiara and bracelets. Any ideas how I might go about making them?
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151931012279638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151931012279638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-05-21T14:36:49+0000'
+updated_time: '2013-05-21T23:25:57+0000'
+likes:
+  data:
+  - name: Albert Andrew Garcia
+    id: '34600222'
+  - name: T'ai Chu-Richardson
+    id: '14101146'
+  count: 2
+comments:
+  data:
+  - id: '10151931012279638_32168889'
+    from:
+      name: Gregory Seta
+      id: '100002115994439'
+    message: Styrene foam and snaps?
+    can_remove: true
+    created_time: '2013-05-21T14:42:24+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151931012279638_32169146'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: ! 'Ah-ha! Tinplate Girl to the rescue: http://tinplategirl.com/2011/07/26/016-cuff-bracelet/'
+    can_remove: true
+    created_time: '2013-05-21T15:05:15+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151931012279638_32169180'
+    from:
+      name: Michael Greco
+      id: '768486029'
+    message: Remember, Marek sews!!!
+    can_remove: true
+    created_time: '2013-05-21T15:07:33+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151931012279638_32169190'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Hmmm....thanks for the reminder. How is Marek with spandex?
+    message_tags:
+    - id: '100002423140408'
+      name: Marek
+      type: user
+      offset: 40
+      length: 5
+    can_remove: true
+    created_time: '2013-05-21T15:08:25+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151931012279638_32169218'
+    from:
+      name: Michael Greco
+      id: '768486029'
+    message: Haven't seen his work with spandex-just rubber <g>. I'm sure he can help!  Give
+      him a call. He likes doing costumes!
+    can_remove: true
+    created_time: '2013-05-21T15:10:38+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151931012279638_32176751'
+    from:
+      name: Dawn Richmond Breazile
+      id: '1834622505'
+    message: Its hard to find a manly tiara these days....
+    can_remove: true
+    created_time: '2013-05-21T23:22:13+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151931012279638_32176797'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: I'm going to start a trend of macho tiaras.
+    can_remove: true
+    created_time: '2013-05-21T23:25:57+0000'
+    like_count: 1
+    user_likes: false
+  paging:
+    cursors:
+      after: Nw==
+      before: MQ==
+layout: status
+title: Tuesday, May 21, 2013 around 09:36AM
+date: 2013-05-21 09:36:49.000000000 -05:00
+
+---
+I'm working on a simple summer Wonder Woman outfit for Fire Island. I would like a manly tiara and bracelets. Any ideas how I might go about making them?

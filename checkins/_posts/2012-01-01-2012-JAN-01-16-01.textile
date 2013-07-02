@@ -33,21 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 100391
-    usersCount: 58248
-    tipCount: 572
+    checkinsCount: 106405
+    usersCount: 61433
+    tipCount: 589
   url: http://www.thehighline.org
   likes:
-    count: 704
+    count: 862
     groups:
     - type: others
-      count: 704
+      count: 862
       items: []
-    summary: 704 likes
+    summary: 862 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

@@ -33,20 +33,21 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 29904
-    usersCount: 9175
-    tipCount: 112
+    checkinsCount: 31139
+    usersCount: 9517
+    tipCount: 118
   likes:
-    count: 36
+    count: 44
     groups:
     - type: others
-      count: 36
+      count: 44
       items: []
-    summary: 36 likes
+    summary: 44 likes
   like: false
   beenHere:
     count: 2
     marked: false
+  storeId: CHE
 likes:
   count: 0
   groups: []

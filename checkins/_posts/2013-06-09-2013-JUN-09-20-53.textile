@@ -1,0 +1,72 @@
+---
+id: 51b5317d498e8da9471538f7
+createdAt: 1370829181
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 50b9a34ce4b0c22ba965f7ff
+  name: Boxers HK Sportsbar
+  contact:
+    phone: '2122555082'
+    formattedPhone: (212) 255-5082
+    twitter: boxersnyc
+  location:
+    address: 50th St.
+    crossStreet: at 9th Ave.
+    lat: 40.76345487458631
+    lng: -73.98886538260042
+    postalCode: '10019'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/boxers-hk-sportsbar/50b9a34ce4b0c22ba965f7ff
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 4720
+    usersCount: 2300
+    tipCount: 43
+  url: https://www.boxersnyc.com
+  likes:
+    count: 33
+    groups:
+    - type: others
+      count: 33
+      items: []
+    summary: 33 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Boxers HK Sportsbar
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/boxers-hk-sportsbar/50b9a34ce4b0c22ba965f7ff
+date: 2013-06-09 20:53:01.000000000 -05:00
+
+---

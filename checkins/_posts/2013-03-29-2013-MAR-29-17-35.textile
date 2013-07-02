@@ -33,18 +33,26 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 15453
-    usersCount: 11068
-    tipCount: 226
-  url: http://freemansrestaurant.com
+    checkinsCount: 16167
+    usersCount: 11589
+    tipCount: 230
+  url: http://www.freemansrestaurant.com
   likes:
-    count: 147
+    count: 172
     groups:
     - type: others
-      count: 147
+      count: 172
       items: []
-    summary: 147 likes
+    summary: 172 likes
   like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=88894&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/freemans/4169cd00f964a5208c1d1fe3/menu
+    mobileUrl: https://foursquare.com/v/4169cd00f964a5208c1d1fe3/device_menu
   beenHere:
     count: 1
     marked: false

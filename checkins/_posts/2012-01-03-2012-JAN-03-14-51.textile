@@ -32,23 +32,25 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 2350
-    usersCount: 906
-    tipCount: 33
+    checkinsCount: 2602
+    usersCount: 998
+    tipCount: 35
   likes:
-    count: 14
+    count: 17
     groups:
     - type: others
-      count: 14
+      count: 17
       items: []
-    summary: 14 likes
+    summary: 17 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/the-commons/4ed152e40e61efa3322ea7dd/menu
     mobileUrl: https://foursquare.com/v/4ed152e40e61efa3322ea7dd/device_menu
   beenHere:
-    count: 2
+    count: 3
     marked: false
 likes:
   count: 0

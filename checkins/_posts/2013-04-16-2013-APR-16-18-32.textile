@@ -32,27 +32,30 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 2137
-    usersCount: 1672
-    tipCount: 50
+    checkinsCount: 2471
+    usersCount: 1926
+    tipCount: 56
   url: http://ngamnyc.com
   likes:
-    count: 26
+    count: 29
     groups:
     - type: others
-      count: 26
+      count: 29
       items: []
-    summary: 26 likes
+    summary: 29 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=73258&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/ngam/4de987f018386283a3cd6d3c/menu
     mobileUrl: https://foursquare.com/v/4de987f018386283a3cd6d3c/device_menu
   beenHere:
-    count: 1
+    count: 2
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

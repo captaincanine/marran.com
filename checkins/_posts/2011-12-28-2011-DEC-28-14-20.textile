@@ -29,15 +29,27 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 155
-    usersCount: 89
+    checkinsCount: 168
+    usersCount: 95
     tipCount: 3
   likes:
-    count: 1
+    count: 2
     groups:
     - type: others
-      count: 1
+      count: 2
       items:
+      - id: '56460'
+        firstName: Allan
+        lastName: W.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/SXHIRJ2JSZFAUJJC.jpg
+        tips:
+          count: 5
+        homeCity: London
+        bio: ''
+        contact:
+          twitter: allanw
+          facebook: '197814025'
       - id: '17245982'
         firstName: Zoé
         lastName: G.
@@ -55,8 +67,14 @@ venue:
         contact:
           twitter: zoemariegotts
           facebook: '603390225'
-    summary: Zoé G
+    summary: Allan W & Zoé G
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/zaffranis/4b993dd4f964a520d16c35e3/menu
+    mobileUrl: https://foursquare.com/v/4b993dd4f964a520d16c35e3/device_menu
   beenHere:
     count: 1
     marked: false

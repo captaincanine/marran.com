@@ -26,15 +26,15 @@ venue:
   - id: 4bf58dd8d48988d10a951735
     name: Bank
     pluralName: Banks
-    shortName: Bank / Financial
+    shortName: Bank
     icon: https://foursquare.com/img/categories/shops/financial.png
     parents:
     - Shop & Service
     primary: true
   verified: true
   stats:
-    checkinsCount: 737
-    usersCount: 280
+    checkinsCount: 758
+    usersCount: 287
     tipCount: 0
   url: http://www.citi.com
   likes:
@@ -44,6 +44,7 @@ venue:
   beenHere:
     count: 1
     marked: false
+  storeId: NY24
 likes:
   count: 0
   groups: []

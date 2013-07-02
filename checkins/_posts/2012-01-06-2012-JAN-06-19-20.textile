@@ -33,20 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 3849
-    usersCount: 2867
-    tipCount: 87
+    checkinsCount: 4079
+    usersCount: 3042
+    tipCount: 88
   url: http://www.ediandthewolf.com
   likes:
-    count: 30
+    count: 41
     groups:
     - type: others
-      count: 30
+      count: 41
       items: []
-    summary: 30 likes
+    summary: 41 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/edi--the-wolf/4ca0d958e9a7ef3be3085416/menu
     mobileUrl: https://foursquare.com/v/4ca0d958e9a7ef3be3085416/device_menu
   beenHere:

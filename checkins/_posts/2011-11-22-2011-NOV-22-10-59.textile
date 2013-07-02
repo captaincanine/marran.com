@@ -14,8 +14,8 @@ venue:
   location:
     address: 240 Grand St
     crossStreet: at Bowery
-    lat: 40.71835626585977
-    lng: -73.99422550639358
+    lat: 40.71850245425602
+    lng: -73.9957348075817
     postalCode: '10002'
     city: New York
     state: NY
@@ -26,21 +26,27 @@ venue:
   - id: 4bf58dd8d48988d1d4941735
     name: Speakeasy
     pluralName: Speakeasies
-    shortName: Speakeasy / Secret Spot
+    shortName: Speakeasy
     icon: https://foursquare.com/img/categories/nightlife/secretbar.png
     parents:
     - Nightlife Spot
     primary: true
   verified: false
   stats:
-    checkinsCount: 175
-    usersCount: 87
-    tipCount: 1
+    checkinsCount: 213
+    usersCount: 114
+    tipCount: 6
   url: http://www.kongkeefood.com
   likes:
     count: 0
     groups: []
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/kong-kee-food-corp/4bee0a144daaa593cfb08f61/menu
+    mobileUrl: https://foursquare.com/v/4bee0a144daaa593cfb08f61/device_menu
   beenHere:
     count: 1
     marked: false

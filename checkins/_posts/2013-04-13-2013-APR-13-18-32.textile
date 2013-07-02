@@ -33,27 +33,32 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 1831
-    usersCount: 1403
-    tipCount: 29
+    checkinsCount: 1914
+    usersCount: 1466
+    tipCount: 30
   url: http://www.suenosnyc.com
   likes:
-    count: 11
+    count: 14
     groups:
     - type: others
-      count: 11
+      count: 14
       items: []
-    summary: 11 likes
+    summary: 14 likes
   like: false
-  reservations:
-    url: http://www.opentable.com/single.aspx?rid=2590&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/sue%C3%B1os/42699000f964a5204f211fe3/menu
     mobileUrl: https://foursquare.com/v/42699000f964a5204f211fe3/device_menu
   beenHere:
-    count: 2
-    marked: false
+    count: 3
+    marked: true
+  listed:
+    groups:
+    - type: dones
+      count: 1
+      items: []
 likes:
   count: 0
   groups: []

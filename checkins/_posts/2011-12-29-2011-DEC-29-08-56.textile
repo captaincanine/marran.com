@@ -31,8 +31,8 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 293
-    usersCount: 227
+    checkinsCount: 301
+    usersCount: 235
     tipCount: 3
   url: http://www.pizzaexpress.com
   likes:
@@ -70,9 +70,16 @@ venue:
           facebook: '100000737467155'
     summary: Fong h & Gurumurthy P
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/pizza-express/4b79ad8bf964a5206e0a2fe3/menu
+    mobileUrl: https://foursquare.com/v/4b79ad8bf964a5206e0a2fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

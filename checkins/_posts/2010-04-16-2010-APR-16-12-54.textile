@@ -32,20 +32,26 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1562
-    usersCount: 1164
-    tipCount: 23
+    checkinsCount: 1651
+    usersCount: 1229
+    tipCount: 25
   url: http://cholany.com
   likes:
-    count: 11
+    count: 16
     groups:
     - type: others
-      count: 11
+      count: 16
       items: []
-    summary: 11 likes
+    summary: 16 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=11797&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/chola-eclectic-indian-cuisine/4a63bfb4f964a520b3c51fe3/menu
+    mobileUrl: https://foursquare.com/v/4a63bfb4f964a520b3c51fe3/device_menu
   beenHere:
     count: 1
     marked: false

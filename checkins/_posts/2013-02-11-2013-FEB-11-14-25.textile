@@ -33,21 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 871
-    usersCount: 371
+    checkinsCount: 1192
+    usersCount: 517
     tipCount: 12
   url: http://www.birchcoffee.com
   likes:
-    count: 19
+    count: 24
     groups:
     - type: others
-      count: 19
+      count: 24
       items: []
-    summary: 19 likes
+    summary: 24 likes
   like: false
   beenHere:
-    count: 4
+    count: 8
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

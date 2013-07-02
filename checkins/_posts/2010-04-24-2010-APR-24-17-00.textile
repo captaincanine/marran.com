@@ -33,17 +33,17 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 12577
-    usersCount: 6498
-    tipCount: 56
+    checkinsCount: 12904
+    usersCount: 6624
+    tipCount: 57
   url: http://www.facebook.com/barracudalounge
   likes:
-    count: 21
+    count: 25
     groups:
     - type: others
-      count: 21
+      count: 25
       items: []
-    summary: 21 likes
+    summary: 25 likes
   like: false
   beenHere:
     count: 1

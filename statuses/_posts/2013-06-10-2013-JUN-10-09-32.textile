@@ -1,0 +1,70 @@
+---
+id: '790499637_10151972938629638'
+from:
+  name: Keith Marran
+  id: '790499637'
+story: Keith Marran shared Jordan Campbell Brace's photo.
+picture: https://fbcdn-photos-c-a.akamaihd.net/hphotos-ak-prn1/602381_10200825093343263_1699026935_s.jpg
+link: http://www.facebook.com/photo.php?fbid=10200825093343263&set=o.362822973758416&type=1
+name: Photos of Crime
+caption: Crime
+properties:
+- name: By
+  text: Jordan Campbell Brace
+  href: http://www.facebook.com/strobelights
+icon: https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/aS8ecmYRys0.gif
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151972938629638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151972938629638
+privacy:
+  description: Public
+  value: EVERYONE
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: photo
+status_type: shared_story
+object_id: '10200825093343263'
+application:
+  name: Links
+  id: '2309869772'
+created_time: '2013-06-10T14:32:26+0000'
+updated_time: '2013-06-10T17:08:56+0000'
+likes:
+  data:
+  - name: Leslie Gardner
+    id: '667633377'
+  - name: Ron Schneider
+    id: '1214250839'
+  - name: Joel Muchmore
+    id: '1542470417'
+  - name: Robert Russin
+    id: '809360003'
+  count: 7
+comments:
+  data:
+  - id: '10151972938629638_32484027'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: F*ck the power!
+    can_remove: true
+    created_time: '2013-06-10T17:08:56+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: MQ==
+      before: MQ==
+layout: status-photo
+title: Monday, Jun 10, 2013 around 09:32AM
+images:
+- thumbnail: /statuses/photo/602381_10200825093343263_1699026935_n.jpg
+  fullsize: /statuses/photo/602381_10200825093343263_1699026935_n.jpg
+date: 2013-06-10 09:32:26.000000000 -05:00
+
+---
+Keith Marran shared Jordan Campbell Brace's photo.

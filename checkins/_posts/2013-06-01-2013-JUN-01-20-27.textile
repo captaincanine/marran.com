@@ -1,0 +1,76 @@
+---
+id: 51aa9f74498e120ea625a9f7
+createdAt: 1370136436
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 45682b85f964a520d63d1fe3
+  name: Music Box Theatre
+  contact:
+    phone: '9172064600'
+    formattedPhone: (917) 206-4600
+  location:
+    address: 239 W 45th St
+    crossStreet: btwn 7th & 8th Ave.
+    lat: 40.75875683115667
+    lng: -73.98730437621178
+    postalCode: '10036'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/music-box-theatre/45682b85f964a520d63d1fe3
+  categories:
+  - id: 4bf58dd8d48988d137941735
+    name: Theater
+    pluralName: Theaters
+    shortName: Theater
+    icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+    parents:
+    - Arts & Entertainment
+    - Performing Arts Venue
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 5570
+    usersCount: 4240
+    tipCount: 34
+  likes:
+    count: 25
+    groups:
+    - type: others
+      count: 25
+      items: []
+    summary: 25 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+event:
+  id: 51a167b22d4ee14a927fcc7b
+  name: Pippin
+  categories: []
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Music Box Theatre
+icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+url: https://foursquare.com/v/music-box-theatre/45682b85f964a520d63d1fe3
+date: 2013-06-01 20:27:16.000000000 -05:00
+
+---

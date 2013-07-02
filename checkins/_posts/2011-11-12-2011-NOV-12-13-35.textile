@@ -32,15 +32,32 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 805
-    usersCount: 584
+    checkinsCount: 849
+    usersCount: 613
     tipCount: 11
   likes:
-    count: 5
+    count: 6
     groups:
     - type: others
-      count: 5
+      count: 6
       items:
+      - id: '26479'
+        firstName: Sarkis
+        lastName: K.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/RYTQVE2QN4MYZ42Q.jpg
+        tips:
+          count: 21
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: New York, NY
+        bio: nyc/los angeles based. into tech+biz+startups+health/wellness+food.
+        contact:
+          twitter: sarkis01
+          facebook: '1224679'
       - id: '33403266'
         firstName: Justine
         gender: female
@@ -64,7 +81,7 @@ venue:
           - type: created
             count: 17
             items: []
-        homeCity: Erie, PA
+        homeCity: Erie,Pa
         bio: ! "Always now forever more...space, time, and patience\r\nKIK Starrblonde"
         contact:
           facebook: '1396872310'
@@ -80,28 +97,12 @@ venue:
         contact:
           twitter: cowboyrobc
           facebook: '631938565'
-      - id: '82198'
-        firstName: Michael
-        lastName: H.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/82198_1259687459308.jpg
-        tips:
-          count: 67
-        lists:
-          groups:
-          - type: created
-            count: 6
-            items: []
-        homeCity: New York, NY
-        bio: michaelhussey.com
-        contact:
-          twitter: husseymichael
-          facebook: '507704094'
-        superuser: 1
-    summary: Justine, Carolyn D, Rob C & 2 others
+    summary: Sarkis K, Justine, Carolyn D & 3 others
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/istanbul-grill/4a539cf0f964a52083b21fe3/menu
     mobileUrl: https://foursquare.com/v/4a539cf0f964a52083b21fe3/device_menu
   beenHere:

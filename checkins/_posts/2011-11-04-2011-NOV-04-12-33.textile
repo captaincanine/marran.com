@@ -33,21 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 23218
-    usersCount: 11586
-    tipCount: 66
+    checkinsCount: 24310
+    usersCount: 12066
+    tipCount: 67
   url: http://www.bedbathandbeyond.com
   likes:
-    count: 26
+    count: 36
     groups:
     - type: others
-      count: 26
+      count: 36
       items: []
-    summary: 26 likes
+    summary: 36 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/bed-bath--beyond/4a7dcf5cf964a520b5ef1fe3/menu
+    mobileUrl: https://foursquare.com/v/4a7dcf5cf964a520b5ef1fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: '42'
 likes:
   count: 0
   groups: []

@@ -30,18 +30,18 @@ venue:
     parents:
     - Shop & Service
     primary: true
-  verified: false
+  verified: true
   stats:
-    checkinsCount: 8650
-    usersCount: 5882
-    tipCount: 51
+    checkinsCount: 8900
+    usersCount: 6037
+    tipCount: 54
   likes:
-    count: 34
+    count: 41
     groups:
     - type: others
-      count: 34
+      count: 41
       items: []
-    summary: 34 likes
+    summary: 41 likes
   like: false
   beenHere:
     count: 1

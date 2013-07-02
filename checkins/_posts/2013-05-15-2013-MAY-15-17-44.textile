@@ -6,7 +6,7 @@ timeZone: America/New_York
 timeZoneOffset: -240
 venue:
   id: 49d3d4a7f964a5201a5c1fe3
-  name: The Standard - High Line
+  name: The Standard, High Line
   contact:
     phone: '2126454646'
     formattedPhone: (212) 645-4646
@@ -21,7 +21,7 @@ venue:
     state: NY
     country: United States
     cc: US
-  canonicalUrl: https://foursquare.com/v/the-standard--high-line/49d3d4a7f964a5201a5c1fe3
+  canonicalUrl: https://foursquare.com/v/the-standard-high-line/49d3d4a7f964a5201a5c1fe3
   categories:
   - id: 4bf58dd8d48988d1fa931735
     name: Hotel
@@ -33,21 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 23829
-    usersCount: 14798
-    tipCount: 145
+    checkinsCount: 25161
+    usersCount: 15640
+    tipCount: 150
   url: http://www.standardhotels.com/new-york-city
   likes:
-    count: 115
+    count: 137
     groups:
     - type: others
-      count: 115
+      count: 137
       items: []
-    summary: 115 likes
+    summary: 137 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []
@@ -64,9 +65,9 @@ comments:
 source:
   name: foursquare for iPhone
   url: https://foursquare.com/download/#/iphone
-title: The Standard - High Line
+title: The Standard, High Line
 icon: https://foursquare.com/img/categories/travel/hotel.png
-url: https://foursquare.com/v/the-standard--high-line/49d3d4a7f964a5201a5c1fe3
+url: https://foursquare.com/v/the-standard-high-line/49d3d4a7f964a5201a5c1fe3
 date: 2013-05-15 17:44:14.000000000 -05:00
 
 ---

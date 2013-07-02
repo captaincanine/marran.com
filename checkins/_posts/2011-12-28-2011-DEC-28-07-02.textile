@@ -32,18 +32,24 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 18376
-    usersCount: 13890
-    tipCount: 112
+    checkinsCount: 19872
+    usersCount: 15093
+    tipCount: 116
   url: http://www.stpauls.co.uk
   likes:
-    count: 103
+    count: 139
     groups:
     - type: others
-      count: 103
+      count: 139
       items: []
-    summary: 103 likes
+    summary: 139 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/st-pauls-cathedral/4ac518cef964a520f5a520e3/menu
+    mobileUrl: https://foursquare.com/v/4ac518cef964a520f5a520e3/device_menu
   beenHere:
     count: 1
     marked: false

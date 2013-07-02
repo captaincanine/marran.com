@@ -1,0 +1,79 @@
+---
+id: 51af5049498e5c72076437d1
+createdAt: 1370443849
+type: checkin
+shout: The strawberry cream doughnut was worth the cheat.
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4d59274a3281b1f7deb0b72f
+  name: Doughnut Plant
+  contact:
+    phone: '2126759100'
+    formattedPhone: (212) 675-9100
+    twitter: doughnutplantny
+  location:
+    address: 220 W 23rd St
+    crossStreet: btwn 7th & 8th Ave.
+    lat: 40.74456391628884
+    lng: -73.99663005286135
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/doughnut-plant/4d59274a3281b1f7deb0b72f
+  categories:
+  - id: 4bf58dd8d48988d148941735
+    name: Donut Shop
+    pluralName: Donut Shops
+    shortName: Donuts
+    icon: https://foursquare.com/img/categories/food/bagels.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 15181
+    usersCount: 9716
+    tipCount: 243
+  url: http://doughnutplant.com
+  likes:
+    count: 143
+    groups:
+    - type: others
+      count: 143
+      items: []
+    summary: 143 likes
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/doughnut-plant/4d59274a3281b1f7deb0b72f/menu
+    mobileUrl: https://foursquare.com/v/4d59274a3281b1f7deb0b72f/device_menu
+  beenHere:
+    count: 4
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Doughnut Plant
+icon: https://foursquare.com/img/categories/food/bagels.png
+url: https://foursquare.com/v/doughnut-plant/4d59274a3281b1f7deb0b72f
+date: 2013-06-05 09:50:49.000000000 -05:00
+
+---

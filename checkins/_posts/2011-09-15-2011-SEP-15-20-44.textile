@@ -29,15 +29,38 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 1899
-    usersCount: 592
+    checkinsCount: 1975
+    usersCount: 614
     tipCount: 17
   likes:
-    count: 2
+    count: 4
     groups:
     - type: others
-      count: 2
+      count: 4
       items:
+      - id: '36755830'
+        firstName: Сойшик
+        lastName: Ч.
+        gender: none
+        photo: https://is1.4sqi.net/userpix_thumbs/PAEIL2RXKKTEKYEF.jpg
+        tips:
+          count: 3
+        homeCity: Moskva
+        bio: ''
+        contact:
+          facebook: '100001888111350'
+      - id: '17795079'
+        firstName: Антон
+        lastName: О.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/4O3VXR2EWLN2IPGY.jpg
+        tips:
+          count: 7
+        homeCity: Санкт-Петербург, Россия
+        bio: ''
+        contact:
+          twitter: ideaholder
+          facebook: '100000361804457'
       - id: '159287'
         firstName: Orli
         lastName: Y.
@@ -67,7 +90,7 @@ venue:
         contact:
           twitter: liormanor
           facebook: '570108839'
-    summary: Orli Y & Lior M
+    summary: Сойшик Ч, Антон О, Orli Y & Lior M
   like: false
   beenHere:
     count: 1

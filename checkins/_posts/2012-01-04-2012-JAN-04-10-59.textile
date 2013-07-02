@@ -35,8 +35,8 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 422
-    usersCount: 165
+    checkinsCount: 443
+    usersCount: 174
     tipCount: 3
   url: http://westvillagevets.com
   likes:
@@ -44,8 +44,9 @@ venue:
     groups: []
   like: false
   beenHere:
-    count: 1
+    count: 2
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

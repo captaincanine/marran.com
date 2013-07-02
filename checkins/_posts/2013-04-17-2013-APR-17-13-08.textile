@@ -33,25 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 7833
-    usersCount: 4190
-    tipCount: 78
+    checkinsCount: 8268
+    usersCount: 4389
+    tipCount: 82
   url: http://rockinghorsecafe.com
   likes:
-    count: 22
+    count: 27
     groups:
     - type: others
-      count: 22
+      count: 27
       items: []
-    summary: 22 likes
+    summary: 27 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/rocking-horse-cafe/4a06120df964a520b4721fe3/menu
     mobileUrl: https://foursquare.com/v/4a06120df964a520b4721fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

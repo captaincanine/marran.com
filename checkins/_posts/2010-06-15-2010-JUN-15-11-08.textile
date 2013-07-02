@@ -34,21 +34,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 62847
-    usersCount: 36045
-    tipCount: 677
+    checkinsCount: 66091
+    usersCount: 37680
+    tipCount: 695
   url: http://www.shakeshack.com
   likes:
-    count: 411
+    count: 512
     groups:
     - type: others
-      count: 411
+      count: 512
       items: []
-    summary: 411 likes
+    summary: 512 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/shake-shack/40e74880f964a520150a1fe3/menu
+    mobileUrl: https://foursquare.com/v/40e74880f964a520150a1fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

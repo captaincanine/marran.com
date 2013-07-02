@@ -1,0 +1,72 @@
+---
+id: 519ee32c498e9e0bdae8302c
+createdAt: 1369367340
+type: checkin
+shout: That was disappointing.
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 50ba7adbe4b036209ec2a3bd
+  name: Big Gay Ice Cream Shop
+  contact:
+    phone: '2125339333'
+    formattedPhone: (212) 533-9333
+  location:
+    address: 61 Grove St
+    crossStreet: at 7th Ave. S
+    lat: 40.73319335248443
+    lng: -74.00298846947285
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/big-gay-ice-cream-shop/50ba7adbe4b036209ec2a3bd
+  categories:
+  - id: 4bf58dd8d48988d1c9941735
+    name: Ice Cream Shop
+    pluralName: Ice Cream Shops
+    shortName: Ice Cream
+    icon: https://foursquare.com/img/categories/food/icecream.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 3919
+    usersCount: 3010
+    tipCount: 54
+  url: http://biggayicecream.com
+  likes:
+    count: 105
+    groups:
+    - type: others
+      count: 105
+      items: []
+    summary: 105 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Big Gay Ice Cream Shop
+icon: https://foursquare.com/img/categories/food/icecream.png
+url: https://foursquare.com/v/big-gay-ice-cream-shop/50ba7adbe4b036209ec2a3bd
+date: 2013-05-23 22:49:00.000000000 -05:00
+
+---

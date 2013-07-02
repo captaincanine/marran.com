@@ -10,6 +10,7 @@ venue:
   contact:
     phone: '2122273099'
     formattedPhone: (212) 227-3099
+    twitter: pulquerianyc
   location:
     address: 11 Doyers St
     crossStreet: btwn Pell St & Bowery
@@ -32,22 +33,24 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 4256
-    usersCount: 3186
-    tipCount: 67
-  url: http://pulquerianyc.com
+    checkinsCount: 4481
+    usersCount: 3367
+    tipCount: 72
+  url: http://www.pulquerianyc.com
   likes:
-    count: 29
+    count: 33
     groups:
     - type: others
-      count: 29
+      count: 33
       items: []
-    summary: 29 likes
+    summary: 33 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=56653&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/pulquer%C3%ADa/4dfaacb9d4c01451df566572/menu
     mobileUrl: https://foursquare.com/v/4dfaacb9d4c01451df566572/device_menu
   beenHere:

@@ -1,0 +1,167 @@
+---
+id: '790499637_10151980490409638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: How exciting to get a hand-addressed envelope and letter from Paris that
+  you weren't expecting. Especially when it's someone offering you rare gay manga.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151980490409638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151980490409638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-06-13T17:29:42+0000'
+updated_time: '2013-06-13T19:00:32+0000'
+likes:
+  data:
+  - name: Joel Muchmore
+    id: '1542470417'
+  - name: Sara Holoubek
+    id: '659585353'
+  - name: Charlotte Hertander
+    id: '577154539'
+  - name: Sreedhar Yedavalli
+    id: '1199970155'
+  count: 5
+comments:
+  data:
+  - id: '10151980490409638_32536635'
+    from:
+      name: Sreedhar Yedavalli
+      id: '1199970155'
+    message: Aaannnnd "Rare Gay Manga" gets onto my list possible band names.
+    can_remove: true
+    created_time: '2013-06-13T17:38:50+0000'
+    like_count: 1
+    user_likes: true
+  - id: '10151980490409638_32536660'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: ! 'For a band name, I would use the phrase that I almost wrote, but didn''t:
+      Gay Manga Porn.'
+    can_remove: true
+    created_time: '2013-06-13T17:40:11+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151980490409638_32536695'
+    from:
+      name: Sreedhar Yedavalli
+      id: '1199970155'
+    message: Nah. Too on the nose for me. This is more .... seductive.
+    can_remove: true
+    created_time: '2013-06-13T17:42:28+0000'
+    like_count: 2
+    user_likes: true
+  - id: '10151980490409638_32536842'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: Did the internet break?
+    can_remove: true
+    created_time: '2013-06-13T17:54:09+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151980490409638_32536865'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: I was trying to purchase something from someone in Paris on Amazon. The
+      shipping became prohibitively expensive, so we had to cancel the transaction.
+      Amazon blocked our email addresses so that we couldn't contact each other. But
+      since he had my mailing address, he sent me a letter. We're all 19th Century
+      here!
+    can_remove: true
+    created_time: '2013-06-13T17:55:48+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151980490409638_32537554'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: ! 'Ok.  So long as the problem isn''t that the pr0n is so scandalous
+      that you can''t risk transmission over the web.
+
+
+      Sree?  How is that for a band name?  "Scandalous Pr0n"?'
+    can_remove: true
+    created_time: '2013-06-13T18:57:43+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151980490409638_32537577'
+    from:
+      name: Sreedhar Yedavalli
+      id: '1199970155'
+    message: Well, it kind of begs the question of "Is there Socially Acceptable Pr0n?"
+    can_remove: true
+    created_time: '2013-06-13T18:59:00+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151980490409638_32537590'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: Band names don't need to be culturally consistent.
+    can_remove: true
+    created_time: '2013-06-13T18:59:50+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151980490409638_32537595'
+    from:
+      name: Sreedhar Yedavalli
+      id: '1199970155'
+    message: True.
+    can_remove: true
+    created_time: '2013-06-13T19:00:03+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151980490409638_32537598'
+    from:
+      name: Sreedhar Yedavalli
+      id: '1199970155'
+    message: I just liked the rhythm of Rare Gay Manga.
+    can_remove: true
+    created_time: '2013-06-13T19:00:18+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151980490409638_32537601'
+    from:
+      name: Joel Muchmore
+      id: '1542470417'
+    message: ! '"Cultural Consistency"?  The hot new afro-pop group?'
+    can_remove: true
+    created_time: '2013-06-13T19:00:27+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10151980490409638_32537606'
+    from:
+      name: Sreedhar Yedavalli
+      id: '1199970155'
+    message: Rolls of the tongue so to speak.
+    can_remove: true
+    created_time: '2013-06-13T19:00:32+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: MTI=
+      before: MQ==
+layout: status
+title: Thursday, Jun 13, 2013 around 12:29PM
+date: 2013-06-13 12:29:42.000000000 -05:00
+
+---
+How exciting to get a hand-addressed envelope and letter from Paris that you weren't expecting. Especially when it's someone offering you rare gay manga.

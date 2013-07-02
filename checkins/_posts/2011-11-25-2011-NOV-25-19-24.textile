@@ -33,21 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 10639
-    usersCount: 6597
-    tipCount: 111
+    checkinsCount: 11536
+    usersCount: 7116
+    tipCount: 119
   url: http://www.themeatballshop.com
   likes:
-    count: 100
+    count: 122
     groups:
     - type: others
-      count: 100
+      count: 122
       items: []
-    summary: 100 likes
+    summary: 122 likes
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/the-meatball-shop/4eb5e354b8f786e2756cb884/menu
+    mobileUrl: https://foursquare.com/v/4eb5e354b8f786e2756cb884/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

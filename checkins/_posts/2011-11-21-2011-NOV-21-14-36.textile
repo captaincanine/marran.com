@@ -33,24 +33,26 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 7700
-    usersCount: 4367
-    tipCount: 96
+    checkinsCount: 8362
+    usersCount: 4772
+    tipCount: 102
   url: http://www.lobsterplace.com
   likes:
-    count: 55
+    count: 74
     groups:
     - type: others
-      count: 55
+      count: 74
       items: []
-    summary: 55 likes
+    summary: 74 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/lobster-place/49c42857f964a5209f561fe3/menu
     mobileUrl: https://foursquare.com/v/49c42857f964a5209f561fe3/device_menu
   beenHere:
-    count: 8
+    count: 10
     marked: false
 likes:
   count: 0

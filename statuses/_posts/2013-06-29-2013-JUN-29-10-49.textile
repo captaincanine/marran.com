@@ -1,0 +1,141 @@
+---
+id: '790499637_10152021465144638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: My love affair with Portland ended this morning when someone ran up behind
+  me and grabbed my iPhone out of my hands.
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10152021465144638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10152021465144638
+privacy:
+  description: Public
+  value: EVERYONE
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Facebook for iPad
+  namespace: fbipad_
+  id: '173847642670370'
+created_time: '2013-06-29T15:49:47+0000'
+updated_time: '2013-06-30T19:26:44+0000'
+comments:
+  data:
+  - id: '10152021465144638_32789105'
+    from:
+      name: Dirk McCall
+      id: '502849778'
+    message: sorry.  hope you are ok.
+    can_remove: true
+    created_time: '2013-06-29T15:51:23+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32789132'
+    from:
+      name: Charlotte Hertander
+      id: '577154539'
+    message: Oh no..... Well, an iPhone is after all replaceable - would've much worse
+      if you were also hurt!! xx
+    can_remove: true
+    created_time: '2013-06-29T15:53:28+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32789137'
+    from:
+      name: Peter Puffin Nguyen
+      id: '19717427'
+    message: Oh no! :(
+    can_remove: true
+    created_time: '2013-06-29T15:54:01+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32789153'
+    from:
+      name: Angela Murray Mahoney
+      id: '562162454'
+    message: OMG. I am so sorry!
+    can_remove: true
+    created_time: '2013-06-29T15:55:21+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32789378'
+    from:
+      name: Rob Velasco
+      id: '1631202087'
+    message: ! 'Sorry to hear that. '
+    can_remove: true
+    created_time: '2013-06-29T16:14:27+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32789562'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Honestly, I'm surprised I've gone this long in my life without theft.
+      I'm just surprised that it never happened in NYC but happened in Portland.
+    can_remove: true
+    created_time: '2013-06-29T16:28:51+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32790212'
+    from:
+      name: Leslie Gardner
+      id: '667633377'
+    message: You're in Portland. All of your recent posts make so much more sense
+      now. Except this one!!!
+    can_remove: true
+    created_time: '2013-06-29T17:26:12+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32791961'
+    from:
+      name: Christine Marran
+      id: '1327144819'
+    message: Did you get your phone replaced yet bro?
+    can_remove: true
+    created_time: '2013-06-29T19:46:43+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32791967'
+    from:
+      name: Keith Marran
+      id: '790499637'
+    message: Yes. All set up on the new one.
+    can_remove: true
+    created_time: '2013-06-29T19:47:08+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32791974'
+    from:
+      name: Christine Marran
+      id: '1327144819'
+    message: Cool. Is Lorenz being a good nephew?
+    can_remove: true
+    created_time: '2013-06-29T19:47:36+0000'
+    like_count: 0
+    user_likes: false
+  - id: '10152021465144638_32805270'
+    from:
+      name: Idit Matot
+      id: '1409958859'
+    message: OMG
+    can_remove: true
+    created_time: '2013-06-30T19:26:44+0000'
+    like_count: 0
+    user_likes: false
+  paging:
+    cursors:
+      after: MTE=
+      before: MQ==
+layout: status
+title: Saturday, Jun 29, 2013 around 10:49AM
+date: 2013-06-29 10:49:47.000000000 -05:00
+
+---
+My love affair with Portland ended this morning when someone ran up behind me and grabbed my iPhone out of my hands.

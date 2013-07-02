@@ -1,0 +1,79 @@
+---
+id: 51a39535498eb54637710c0f
+createdAt: 1369675061
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4c8ac04852a98cfa84992fe9
+  name: Hill Country Fried Chicken Joint
+  contact:
+    phone: '2122576446'
+    formattedPhone: (212) 257-6446
+    twitter: hcchicken
+  location:
+    address: 1123 Broadway
+    crossStreet: at 25th St.
+    lat: 40.74307542348565
+    lng: -73.9891465919606
+    postalCode: '10010'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/hill-country-fried-chicken-joint/4c8ac04852a98cfa84992fe9
+  categories:
+  - id: 4d4ae6fc7a7b7dea34424761
+    name: Fried Chicken Joint
+    pluralName: Fried Chicken Joints
+    shortName: Fried Chicken
+    icon: https://foursquare.com/img/categories/food/friedchicken.png
+    parents:
+    - Food
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 17892
+    usersCount: 9062
+    tipCount: 191
+  url: http://www.hillcountrychicken.com
+  likes:
+    count: 96
+    groups:
+    - type: others
+      count: 96
+      items: []
+    summary: 96 likes
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/hill-country-fried-chicken-joint/4c8ac04852a98cfa84992fe9/menu
+    mobileUrl: https://foursquare.com/v/4c8ac04852a98cfa84992fe9/device_menu
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Hill Country Fried Chicken Joint
+icon: https://foursquare.com/img/categories/food/friedchicken.png
+url: https://foursquare.com/v/hill-country-fried-chicken-joint/4c8ac04852a98cfa84992fe9
+date: 2013-05-27 12:17:41.000000000 -05:00
+
+---

@@ -1,0 +1,70 @@
+---
+id: 51a3fb89498ee3b308e0281c
+createdAt: 1369701257
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4af8f40cf964a520ab1022e3
+  name: Rock Bar
+  contact:
+    phone: '2126751864'
+    formattedPhone: (212) 675-1864
+  location:
+    address: 185 Christopher St
+    crossStreet: at Weehawken St.
+    lat: 40.73251710536965
+    lng: -74.00978852786966
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/rock-bar/4af8f40cf964a520ab1022e3
+  categories:
+  - id: 4bf58dd8d48988d1d8941735
+    name: Gay Bar
+    pluralName: Gay Bars
+    shortName: Gay Bar
+    icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 5148
+    usersCount: 1867
+    tipCount: 29
+  likes:
+    count: 24
+    groups:
+    - type: others
+      count: 24
+      items: []
+    summary: 24 likes
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Rock Bar
+icon: https://foursquare.com/img/categories/nightlife/gaybar.png
+url: https://foursquare.com/v/rock-bar/4af8f40cf964a520ab1022e3
+date: 2013-05-27 19:34:17.000000000 -05:00
+
+---

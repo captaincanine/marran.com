@@ -32,16 +32,32 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 700
-    usersCount: 560
-    tipCount: 13
+    checkinsCount: 724
+    usersCount: 574
+    tipCount: 14
   url: http://www.ordercolas.com
   likes:
-    count: 3
+    count: 4
     groups:
     - type: others
-      count: 3
+      count: 4
       items:
+      - id: '31713684'
+        firstName: Eliran
+        lastName: T.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/QAIGZ5M5MXLCXORU.jpg
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '744098758'
       - id: '49646928'
         firstName: Joanne
         lastName: D.
@@ -63,7 +79,7 @@ venue:
         lists:
           groups:
           - type: created
-            count: 10
+            count: 15
             items: []
         homeCity: New York, NY
         bio: ''
@@ -75,7 +91,7 @@ venue:
         gender: male
         photo: https://is1.4sqi.net/userpix_thumbs/WLEPPFRZJCSSGIIU.jpg
         tips:
-          count: 52
+          count: 54
         lists:
           groups:
           - type: created
@@ -86,14 +102,16 @@ venue:
         contact:
           twitter: ryandpaul
           facebook: '17807917'
-    summary: Joanne D, Barry H & Ryan P
+    summary: Eliran T, Joanne D, Barry H & Ryan P
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/colas/4a0073b5f964a52084701fe3/menu
     mobileUrl: https://foursquare.com/v/4a0073b5f964a52084701fe3/device_menu
   beenHere:
-    count: 1
+    count: 2
     marked: false
 likes:
   count: 0

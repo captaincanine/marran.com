@@ -1,0 +1,82 @@
+---
+id: 51cb593a498e91595353748d
+createdAt: 1372281146
+type: checkin
+shout: Justice for ALL! @geeksout
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 49d0cb5ff964a520315b1fe3
+  name: Pranna
+  contact:
+    phone: '2126965700'
+    formattedPhone: (212) 696-5700
+    twitter: prannanyc
+  location:
+    address: 79 Madison Ave
+    crossStreet: at E 28th St
+    lat: 40.74401008045335
+    lng: -73.98565153208304
+    postalCode: '10016'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/pranna/49d0cb5ff964a520315b1fe3
+  categories:
+  - id: 4bf58dd8d48988d11e941735
+    name: Cocktail Bar
+    pluralName: Cocktail Bars
+    shortName: Cocktail
+    icon: https://foursquare.com/img/categories/nightlife/cocktails.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 12879
+    usersCount: 8686
+    tipCount: 103
+  url: http://www.prannarestaurant.com
+  likes:
+    count: 35
+    groups:
+    - type: others
+      count: 35
+      items: []
+    summary: 35 likes
+  like: false
+  reservations:
+    url: http://www.opentable.com/single.aspx?rid=15985&ref=9601
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/pranna/49d0cb5ff964a520315b1fe3/menu
+    mobileUrl: https://foursquare.com/v/49d0cb5ff964a520315b1fe3/device_menu
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Pranna
+icon: https://foursquare.com/img/categories/nightlife/cocktails.png
+url: https://foursquare.com/v/pranna/49d0cb5ff964a520315b1fe3
+date: 2013-06-26 16:12:26.000000000 -05:00
+
+---

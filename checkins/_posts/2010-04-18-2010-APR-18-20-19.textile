@@ -33,22 +33,24 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 13879
-    usersCount: 8971
-    tipCount: 199
-  url: http://cookshopny.com
+    checkinsCount: 14846
+    usersCount: 9518
+    tipCount: 209
+  url: http://www.cookshopny.com
   likes:
-    count: 79
+    count: 91
     groups:
     - type: others
-      count: 79
+      count: 91
       items: []
-    summary: 79 likes
+    summary: 91 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=4380&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/cookshop/43850280f964a520fd2a1fe3/menu
     mobileUrl: https://foursquare.com/v/43850280f964a520fd2a1fe3/device_menu
   beenHere:

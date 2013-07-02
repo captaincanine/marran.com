@@ -1,0 +1,127 @@
+---
+id: 51bf4422498e104af29d2906
+createdAt: 1371489314
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 5192eee1498ee51a95477f63
+  name: Hybird
+  contact:
+    twitter: hybirdnyc
+  location:
+    address: 75 9th Ave
+    crossStreet: Chelsea Market
+    lat: 40.74228016738006
+    lng: -74.00595527572962
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/hybird/5192eee1498ee51a95477f63
+  categories:
+  - id: 4d4ae6fc7a7b7dea34424761
+    name: Fried Chicken Joint
+    pluralName: Fried Chicken Joints
+    shortName: Fried Chicken
+    icon: https://foursquare.com/img/categories/food/friedchicken.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 163
+    usersCount: 158
+    tipCount: 11
+  url: http://www.hybirdnyc.com
+  likes:
+    count: 4
+    groups:
+    - type: others
+      count: 4
+      items:
+      - id: '780868'
+        firstName: Gigi
+        lastName: C.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/V1U2RB0P5UOTZCAP.jpg
+        tips:
+          count: 28
+        homeCity: Queens, NY
+        bio: ''
+        contact:
+          twitter: missgigip
+          facebook: '586660506'
+      - id: '322687'
+        firstName: Cam
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/LJEIKERAKUMJJZ4G.jpg
+        tips:
+          count: 37
+        lists:
+          groups:
+          - type: created
+            count: 10
+            items: []
+        homeCity: Brooklyn, NY
+        bio: Just a nice guy with creative a.d.d
+        contact:
+          twitter: cameron_moore
+          facebook: '100000813892544'
+      - id: '23507715'
+        firstName: Philip
+        lastName: R.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/AL4HSFBJOZ3Q2MMD.jpg
+        tips:
+          count: 2
+        homeCity: The Boogie Down Bronx, NY
+        bio: Try not to be a day late or a dollar short, do unto others as you would
+          like them to do unto you.
+        contact: {}
+      - id: '275756'
+        firstName: benny
+        lastName: b.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/VRZAUFNSA0G13C2R.jpg
+        tips:
+          count: 11
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: blancodisco
+          facebook: '571971205'
+    summary: Gigi C, Cam, Philip R & benny b
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/hybird/5192eee1498ee51a95477f63/menu
+    mobileUrl: https://foursquare.com/v/5192eee1498ee51a95477f63/device_menu
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Hybird
+icon: https://foursquare.com/img/categories/food/friedchicken.png
+url: https://foursquare.com/v/hybird/5192eee1498ee51a95477f63
+date: 2013-06-17 12:15:14.000000000 -05:00
+
+---

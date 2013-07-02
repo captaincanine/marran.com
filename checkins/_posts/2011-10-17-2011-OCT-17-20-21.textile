@@ -32,20 +32,22 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 4861
-    usersCount: 2586
+    checkinsCount: 5252
+    usersCount: 2776
     tipCount: 24
   url: http://newyork.gaycities.com/bardetail/416
   likes:
-    count: 13
+    count: 15
     groups:
     - type: others
-      count: 13
+      count: 15
       items: []
-    summary: 13 likes
+    summary: 15 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/phoenix/4ddc9302887775ea9c44a155/menu
     mobileUrl: https://foursquare.com/v/4ddc9302887775ea9c44a155/device_menu
   beenHere:

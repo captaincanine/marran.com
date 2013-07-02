@@ -32,21 +32,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 13205
-    usersCount: 8623
-    tipCount: 48
+    checkinsCount: 13841
+    usersCount: 8935
+    tipCount: 50
   url: http://www.harveynichols.com
   likes:
-    count: 126
+    count: 138
     groups:
     - type: others
-      count: 126
+      count: 138
       items: []
-    summary: 126 likes
+    summary: 138 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

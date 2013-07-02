@@ -1,0 +1,143 @@
+---
+id: 51a147f6498e2706dab018c3
+createdAt: 1369524214
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 5176d05b8aca54072238a90d
+  name: Natasha, Pierre & The Great Comet of 1812 at Kazino
+  contact:
+    phone: '8668114111'
+    formattedPhone: (866) 811-4111
+    twitter: greatcomet1812
+  location:
+    address: 439 West 13th St
+    crossStreet: B/w Washington St & 10th Ave
+    lat: 40.74111181580513
+    lng: -74.00755405426025
+    postalCode: '10014'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/natasha-pierre--the-great-comet-of-1812-at-kazino/5176d05b8aca54072238a90d
+  categories:
+  - id: 4bf58dd8d48988d11a941735
+    name: Other Nightlife
+    pluralName: Other Nightlife
+    shortName: Nightlife
+    icon: https://foursquare.com/img/categories/nightlife/default.png
+    parents:
+    - Nightlife Spot
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 272
+    usersCount: 252
+    tipCount: 4
+  url: http://thegreatcometof1812.com
+  likes:
+    count: 2
+    groups:
+    - type: others
+      count: 2
+      items:
+      - id: '64359'
+        firstName: Siobhan
+        lastName: A.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/OIVT4EORPNN30XST.jpg
+        tips:
+          count: 1
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+        superuser: 1
+      - id: '406398'
+        firstName: Monica
+        lastName: W.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/4QTSIADPUALWNF2P.jpg
+        tips:
+          count: 22
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '721651011'
+    summary: Siobhan A & Monica W
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 1
+  items:
+  - id: 51a147f8498e1de1480f4054
+    createdAt: 1369524216
+    source:
+      name: foursquare for iPhone
+      url: https://foursquare.com/download/#/iphone
+    url: https://irs3.4sqi.net/img/general/original/90473_LmvCJhCS-GTzq69vWk6_eZ96K4OIOqtjeDQj1wnsAKE.jpg
+    sizes:
+      count: 4
+      items:
+      - url: https://irs3.4sqi.net/img/general/original/90473_LmvCJhCS-GTzq69vWk6_eZ96K4OIOqtjeDQj1wnsAKE.jpg
+        width: 960
+        height: 720
+      - url: https://irs3.4sqi.net/img/general/300x300/90473_LmvCJhCS-GTzq69vWk6_eZ96K4OIOqtjeDQj1wnsAKE.jpg
+        width: 300
+        height: 300
+      - url: https://irs3.4sqi.net/img/general/100x100/90473_LmvCJhCS-GTzq69vWk6_eZ96K4OIOqtjeDQj1wnsAKE.jpg
+        width: 100
+        height: 100
+      - url: https://irs3.4sqi.net/img/general/36x36/90473_LmvCJhCS-GTzq69vWk6_eZ96K4OIOqtjeDQj1wnsAKE.jpg
+        width: 36
+        height: 36
+    user:
+      id: '90473'
+      firstName: Keith
+      lastName: Marran
+      gender: male
+      relationship: self
+      photo: https://is1.4sqi.net/userpix_thumbs/1YGKPO0XSQYS2HFP.jpg
+      tips:
+        count: 5
+      lists:
+        groups:
+        - type: created
+          count: 1
+          items: []
+      homeCity: New York, NY
+      bio: ''
+      contact:
+        phone: '6466235277'
+        email: keith@marran.com
+        twitter: captaincanine
+        facebook: '790499637'
+    visibility: public
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Natasha, Pierre & The Great Comet of 1812 at Kazino
+icon: https://foursquare.com/img/categories/nightlife/default.png
+url: https://foursquare.com/v/natasha-pierre--the-great-comet-of-1812-at-kazino/5176d05b8aca54072238a90d
+date: 2013-05-25 18:23:34.000000000 -05:00
+
+---

@@ -34,69 +34,17 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1499
-    usersCount: 841
+    checkinsCount: 1559
+    usersCount: 874
     tipCount: 10
   url: http://www.thepleasurechest.com
   likes:
-    count: 9
+    count: 10
     groups:
     - type: others
-      count: 9
-      items:
-      - id: '2575914'
-        firstName: Jessica
-        lastName: J.
-        gender: female
-        photo: https://is0.4sqi.net/userpix_thumbs/J1WTJM0VAEXTH51U.jpg
-        tips:
-          count: 2
-        lists:
-          groups:
-          - type: created
-            count: 10
-            items: []
-        homeCity: Singapore
-        bio: ''
-        contact:
-          facebook: '616962'
-      - id: '45196995'
-        firstName: Malik
-        lastName: S.
-        gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/OSP0Z2FHGSOPSETH.jpg
-        tips:
-          count: 8
-        homeCity: Brooklyn, New York
-        bio: ! 'Allahu Akbar: Actor, humanitarian, consultant, creative director &
-          manager (NYC) Rymatica Models Network.www.RMNOnline.net & Malik@RMNOnline.net.'
-        contact:
-          twitter: malikshabazz85
-          facebook: '100005004308454'
-      - id: '8957832'
-        firstName: Aaron
-        lastName: E.
-        gender: male
-        photo: https://is0.4sqi.net/userpix_thumbs/LI4HNJFKVYJGQIXN.jpg
-        tips:
-          count: 23
-        homeCity: New York, NY
-        bio: ''
-        contact:
-          twitter: evansace7287
-          facebook: '46001801'
-      - id: '33403266'
-        firstName: Justine
-        gender: female
-        photo: https://is1.4sqi.net/userpix_thumbs/HUQJMDBOLG24V0HF.jpg
-        tips:
-          count: 12
-        homeCity: Clementon, NJ
-        bio: ''
-        contact:
-          twitter: tinaroy59
-          facebook: '100002549133188'
-    summary: Jessica J, Malik S, Aaron E & 6 others
+      count: 10
+      items: []
+    summary: 10 likes
   like: false
   beenHere:
     count: 1

@@ -10,6 +10,7 @@ venue:
   contact:
     phone: '2123971700'
     formattedPhone: (212) 397-1700
+    twitter: therapy_nyc
   location:
     address: 348 W 52nd St
     crossStreet: btwn 8th & 9th Ave.
@@ -32,25 +33,28 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 24493
-    usersCount: 9591
-    tipCount: 90
-  url: http://www.therapy-nyc.com
+    checkinsCount: 25551
+    usersCount: 9958
+    tipCount: 91
+  url: https://www.facebook.com/TherapyLoungeNYC
   likes:
-    count: 45
+    count: 54
     groups:
     - type: others
-      count: 45
+      count: 54
       items: []
-    summary: 45 likes
+    summary: 54 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Services
+    label: Services
+    anchor: See services
     url: https://foursquare.com/v/therapy-nyc/42055e00f964a520681f1fe3/menu
     mobileUrl: https://foursquare.com/v/42055e00f964a520681f1fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

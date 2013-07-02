@@ -1,0 +1,128 @@
+---
+id: 51a38186498e9de8275f5a71
+createdAt: 1369670022
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4ba0e4e3f964a520498537e3
+  name: Pier 25 — Hudson River Park
+  contact: {}
+  location:
+    crossStreet: N Moore St
+    lat: 40.72014388209271
+    lng: -74.0130364029171
+    postalCode: '10013'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/pier-25--hudson-river-park/4ba0e4e3f964a520498537e3
+  categories:
+  - id: 4bf58dd8d48988d163941735
+    name: Park
+    pluralName: Parks
+    shortName: Park
+    icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+    parents:
+    - Outdoors & Recreation
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1708
+    usersCount: 1201
+    tipCount: 3
+  likes:
+    count: 8
+    groups:
+    - type: others
+      count: 8
+      items:
+      - id: '708'
+        firstName: Tristan
+        lastName: L.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/708_1236717321.jpg
+        tips:
+          count: 6
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: Founder at Keepskor, Writer at TNL.net
+        contact:
+          twitter: tnlnyc
+          facebook: '575070435'
+      - id: '4083549'
+        firstName: Mike
+        lastName: W.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/UOXE3IGTTZVDKADS.jpg
+        tips:
+          count: 45
+        lists:
+          groups:
+          - type: created
+            count: 9
+            items: []
+        homeCity: New York, NY
+        bio: Junior Designer at The Barbarian Group and Food Enthusiast.
+        contact:
+          twitter: winstongfx
+          facebook: '624139'
+      - id: '33595095'
+        firstName: Vera
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/WJHM0A3A3YYWHME1.jpg
+        tips:
+          count: 15
+        lists:
+          groups:
+          - type: created
+            count: 3
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '100000633211884'
+      - id: '20625395'
+        firstName: Janeane
+        lastName: H.
+        gender: none
+        photo: https://is0.4sqi.net/userpix_thumbs/23PGDNID11XF52YC.jpg
+        tips:
+          count: 0
+        homeCity: Bronx, NY
+        bio: ''
+        contact:
+          twitter: calcoolatedrisk
+          facebook: '41000758'
+    summary: Tristan L, Mike W, Vera & 5 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Pier 25 — Hudson River Park
+icon: https://foursquare.com/img/categories/parks_outdoors/default.png
+url: https://foursquare.com/v/pier-25--hudson-river-park/4ba0e4e3f964a520498537e3
+date: 2013-05-27 10:53:42.000000000 -05:00
+
+---

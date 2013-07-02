@@ -33,9 +33,9 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 1503
-    usersCount: 1300
-    tipCount: 30
+    checkinsCount: 1560
+    usersCount: 1351
+    tipCount: 31
   url: http://thevermilionrestaurant.com
   likes:
     count: 5
@@ -49,7 +49,7 @@ venue:
         gender: female
         photo: https://is0.4sqi.net/userpix_thumbs/0MCEQE2WWYBYIDLN.jpg
         tips:
-          count: 5
+          count: 4
         homeCity: Denver, Colorado
         bio: ''
         contact: {}
@@ -60,7 +60,7 @@ venue:
         gender: male
         photo: https://is0.4sqi.net/userpix_thumbs/GTZZPKXIUDUI4ARM.jpg
         tips:
-          count: 92
+          count: 97
         lists:
           groups:
           - type: created
@@ -100,7 +100,9 @@ venue:
   reservations:
     url: http://www.opentable.com/single.aspx?rid=1933&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/vermilion/4a2ef82cf964a5208d981fe3/menu
     mobileUrl: https://foursquare.com/v/4a2ef82cf964a5208d981fe3/device_menu
   beenHere:

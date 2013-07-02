@@ -1,0 +1,134 @@
+---
+id: 51c638ec498e52a023ab01db
+createdAt: 1371945196
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4c379ecf1e06d13a4e49763e
+  name: Playwrights Horizons
+  contact:
+    phone: '2125641235'
+    formattedPhone: (212) 564-1235
+    twitter: phnyc
+  location:
+    address: 416 W 42nd St
+    crossStreet: 9th Ave
+    lat: 40.758803
+    lng: -73.993457
+    postalCode: '10036'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/playwrights-horizons/4c379ecf1e06d13a4e49763e
+  categories:
+  - id: 4bf58dd8d48988d137941735
+    name: Theater
+    pluralName: Theaters
+    shortName: Theater
+    icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+    parents:
+    - Arts & Entertainment
+    - Performing Arts Venue
+    primary: true
+  verified: true
+  stats:
+    checkinsCount: 1998
+    usersCount: 959
+    tipCount: 4
+  url: http://www.playwrightshorizons.org
+  likes:
+    count: 9
+    groups:
+    - type: others
+      count: 9
+      items:
+      - id: '180930'
+        firstName: elizabeth
+        lastName: C.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/V2YI0FRJD4NQGQO3.jpg
+        tips:
+          count: 128
+        lists:
+          groups:
+          - type: created
+            count: 21
+            items: []
+        homeCity: Brooklyn, NY
+        bio: ''
+        contact: {}
+        superuser: 2
+      - id: '23507715'
+        firstName: Philip
+        lastName: R.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/AL4HSFBJOZ3Q2MMD.jpg
+        tips:
+          count: 2
+        homeCity: The Boogie Down Bronx, NY
+        bio: Try not to be a day late or a dollar short, do unto others as you would
+          like them to do unto you.
+        contact: {}
+      - id: '408953'
+        firstName: Sarah
+        lastName: E.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/BZSZLZ5GQGISGTEI.jpg
+        tips:
+          count: 59
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: peasantwoman
+          facebook: '505035156'
+      - id: '47900463'
+        firstName: Caitlin
+        lastName: C.
+        gender: female
+        photo: https://is0.4sqi.net/userpix_thumbs/2M5QVNZUWBV0WI0G.jpg
+        tips:
+          count: 210
+        lists:
+          groups:
+          - type: created
+            count: 19
+            items: []
+        homeCity: New York, NY
+        bio: filmmaker, grad student, bookworm, mac & cheese connoisseur, cinephile,
+          shutterbug, broadway junkie, okie, equestrian, proud member of the william
+          & mary tribe
+        contact: {}
+    summary: elizabeth C, Philip R, Sarah E & 6 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+  storeId: ''
+event:
+  id: 51ba6f6fb589d499b3fdcca0
+  name: Far From Heaven
+  categories: []
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Playwrights Horizons
+icon: https://foursquare.com/img/categories/arts_entertainment/default.png
+url: https://foursquare.com/v/playwrights-horizons/4c379ecf1e06d13a4e49763e
+date: 2013-06-22 18:53:16.000000000 -05:00
+
+---

@@ -33,17 +33,17 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 5698
-    usersCount: 3474
+    checkinsCount: 6013
+    usersCount: 3653
     tipCount: 20
   url: http://www.tajhotels.com/pierre/
   likes:
-    count: 27
+    count: 32
     groups:
     - type: others
-      count: 27
+      count: 32
       items: []
-    summary: 27 likes
+    summary: 32 likes
   like: false
   beenHere:
     count: 2

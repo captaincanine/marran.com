@@ -32,20 +32,21 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 1660
-    usersCount: 892
-    tipCount: 19
+    checkinsCount: 1813
+    usersCount: 976
+    tipCount: 21
   likes:
-    count: 15
+    count: 18
     groups:
     - type: others
-      count: 15
+      count: 18
       items: []
-    summary: 15 likes
+    summary: 18 likes
   like: false
   beenHere:
     count: 2
     marked: false
+  storeId: CTGHIHH
 likes:
   count: 0
   groups: []

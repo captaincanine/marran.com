@@ -1,0 +1,43 @@
+---
+id: '790499637_10151959105314638'
+from:
+  name: Keith Marran
+  id: '790499637'
+message: Yay! My citibike key arrived today!
+actions:
+- name: Comment
+  link: http://www.facebook.com/790499637/posts/10151959105314638
+- name: Like
+  link: http://www.facebook.com/790499637/posts/10151959105314638
+privacy:
+  description: Friends
+  value: ALL_FRIENDS
+  friends: ''
+  networks: ''
+  allow: ''
+  deny: ''
+type: status
+status_type: mobile_status_update
+application:
+  name: Buffer
+  namespace: buffer-app
+  id: '103667826405103'
+created_time: '2013-06-04T01:03:32+0000'
+updated_time: '2013-06-04T01:03:32+0000'
+likes:
+  data:
+  - name: Parizad Motiwala-O'Donnell
+    id: '1386266174'
+  - name: Charlotte Hertander
+    id: '577154539'
+  - name: Gabriel Berlin
+    id: '562174618'
+  - name: Terri Davis
+    id: '100000452612692'
+  count: 8
+layout: status
+title: Monday, Jun  3, 2013 around 08:03PM
+date: 2013-06-03 20:03:32.000000000 -05:00
+
+---
+Yay! My citibike key arrived today!

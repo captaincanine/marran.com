@@ -32,20 +32,22 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 5249
-    usersCount: 3272
+    checkinsCount: 5429
+    usersCount: 3382
     tipCount: 68
   url: http://www.roomservicerestaurant.com
   likes:
-    count: 13
+    count: 17
     groups:
     - type: others
-      count: 13
+      count: 17
       items: []
-    summary: 13 likes
+    summary: 17 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/room-service/45114052f964a52097391fe3/menu
     mobileUrl: https://foursquare.com/v/45114052f964a52097391fe3/device_menu
   beenHere:

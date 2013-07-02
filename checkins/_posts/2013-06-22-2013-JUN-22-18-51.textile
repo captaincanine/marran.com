@@ -1,0 +1,137 @@
+---
+id: 51c63887498e024d94b0252b
+createdAt: 1371945095
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 4a0073b5f964a52084701fe3
+  name: Cola's
+  contact:
+    phone: '2126338020'
+    formattedPhone: (212) 633-8020
+  location:
+    address: 148 8th Ave
+    crossStreet: b/w 17th and 18th
+    lat: 40.7418860390152
+    lng: -74.00122672716809
+    postalCode: '10011'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/colas/4a0073b5f964a52084701fe3
+  categories:
+  - id: 4bf58dd8d48988d110941735
+    name: Italian Restaurant
+    pluralName: Italian Restaurants
+    shortName: Italian
+    icon: https://foursquare.com/img/categories/food/italian.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 724
+    usersCount: 574
+    tipCount: 14
+  url: http://www.ordercolas.com
+  likes:
+    count: 4
+    groups:
+    - type: others
+      count: 4
+      items:
+      - id: '31713684'
+        firstName: Eliran
+        lastName: T.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/QAIGZ5M5MXLCXORU.jpg
+        tips:
+          count: 2
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '744098758'
+      - id: '49646928'
+        firstName: Joanne
+        lastName: D.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/B1PJYPTONWROAI33.jpg
+        tips:
+          count: 3
+        homeCity: Garden City, NY
+        bio: ''
+        contact:
+          facebook: '100000702296427'
+      - id: '11400'
+        firstName: Barry
+        lastName: H.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/11400_1240351864.jpg
+        tips:
+          count: 10
+        lists:
+          groups:
+          - type: created
+            count: 15
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact: {}
+        superuser: 2
+      - id: '35692'
+        firstName: Ryan
+        lastName: P.
+        gender: male
+        photo: https://is1.4sqi.net/userpix_thumbs/WLEPPFRZJCSSGIIU.jpg
+        tips:
+          count: 54
+        lists:
+          groups:
+          - type: created
+            count: 19
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          twitter: ryandpaul
+          facebook: '17807917'
+    summary: Eliran T, Joanne D, Barry H & Ryan P
+  like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/colas/4a0073b5f964a52084701fe3/menu
+    mobileUrl: https://foursquare.com/v/4a0073b5f964a52084701fe3/device_menu
+  beenHere:
+    count: 2
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: Cola's
+icon: https://foursquare.com/img/categories/food/italian.png
+url: https://foursquare.com/v/colas/4a0073b5f964a52084701fe3
+date: 2013-06-22 18:51:35.000000000 -05:00
+
+---

@@ -33,21 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 23260
-    usersCount: 19102
-    tipCount: 355
+    checkinsCount: 25172
+    usersCount: 20735
+    tipCount: 363
   url: http://www.hrp.org.uk
   likes:
-    count: 254
+    count: 302
     groups:
     - type: others
-      count: 254
+      count: 302
       items: []
-    summary: 254 likes
+    summary: 302 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

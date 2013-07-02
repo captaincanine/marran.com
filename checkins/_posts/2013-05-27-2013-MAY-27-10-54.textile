@@ -1,0 +1,131 @@
+---
+id: 51a381b7498e1d8e38dbf99b
+createdAt: 1369670071
+type: checkin
+timeZone: America/New_York
+timeZoneOffset: -240
+venue:
+  id: 510d54d8e4b0150a5869dd49
+  name: FIKA
+  contact:
+    phone: '2127060565'
+    formattedPhone: (212) 706-0565
+  location:
+    address: 450 Washington St
+    crossStreet: at Desbrosses St.
+    lat: 40.72362140127561
+    lng: -74.01037957637672
+    postalCode: '10013'
+    city: New York
+    state: NY
+    country: United States
+    cc: US
+  canonicalUrl: https://foursquare.com/v/fika/510d54d8e4b0150a5869dd49
+  categories:
+  - id: 4bf58dd8d48988d16d941735
+    name: Café
+    pluralName: Cafés
+    shortName: Café
+    icon: https://foursquare.com/img/categories/food/cafe.png
+    parents:
+    - Food
+    primary: true
+  verified: false
+  stats:
+    checkinsCount: 381
+    usersCount: 153
+    tipCount: 8
+  likes:
+    count: 8
+    groups:
+    - type: others
+      count: 8
+      items:
+      - id: '437630'
+        firstName: Annie
+        lastName: S.
+        gender: female
+        photo: https://is1.4sqi.net/userpix_thumbs/DFY41Q0PQCDZ3AYG.jpg
+        tips:
+          count: 0
+        lists:
+          groups:
+          - type: created
+            count: 4
+            items: []
+        homeCity: New York, NY
+        bio: ''
+        contact:
+          facebook: '829217319'
+      - id: '56619148'
+        firstName: Roman
+        lastName: A.
+        gender: male
+        photo: https://foursquare.com/img/blank_boy.png
+        tips:
+          count: 2
+        homeCity: Moscow, 48
+        bio: ''
+        contact: {}
+      - id: '42746613'
+        firstName: Stephen
+        lastName: B.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/LLUBT1IU5UUXUKHM.jpg
+        tips:
+          count: 10
+        lists:
+          groups:
+          - type: created
+            count: 3
+            items: []
+        homeCity: London
+        bio: ''
+        contact: {}
+      - id: '55495885'
+        firstName: ELSA AND ME
+        gender: none
+        photo: https://is0.4sqi.net/userpix_thumbs/3UDMS1O4GKXDW3CE.jpg
+        type: page
+        followers:
+          count: 5
+          groups: []
+        tips:
+          count: 11
+        lists:
+          groups:
+          - type: created
+            count: 1
+            items: []
+        homeCity: New York
+        bio: ''
+        contact:
+          twitter: elsaandme
+          facebook: '151481154873588'
+    summary: Annie S, Roman A, Stephen B & 5 others
+  like: false
+  beenHere:
+    count: 1
+    marked: false
+likes:
+  count: 0
+  groups: []
+like: false
+photos:
+  count: 0
+  items: []
+posts:
+  count: 0
+  textCount: 0
+comments:
+  count: 0
+  items: []
+source:
+  name: foursquare for iPhone
+  url: https://foursquare.com/download/#/iphone
+title: FIKA
+icon: https://foursquare.com/img/categories/food/cafe.png
+url: https://foursquare.com/v/fika/510d54d8e4b0150a5869dd49
+date: 2013-05-27 10:54:31.000000000 -05:00
+
+---

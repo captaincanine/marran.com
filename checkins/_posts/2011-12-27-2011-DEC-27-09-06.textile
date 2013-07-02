@@ -28,15 +28,26 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 1086
-    usersCount: 431
+    checkinsCount: 1174
+    usersCount: 456
     tipCount: 6
   likes:
-    count: 4
+    count: 5
     groups:
     - type: others
-      count: 4
+      count: 5
       items:
+      - id: '59109592'
+        firstName: Ni
+        lastName: K.
+        gender: male
+        photo: https://is0.4sqi.net/userpix_thumbs/FAGG0ULTVRMGYUSG.jpg
+        tips:
+          count: 4
+        homeCity: London, ENG
+        bio: ''
+        contact:
+          facebook: '574475873'
       - id: '29252704'
         firstName: Julia
         gender: female
@@ -65,32 +76,27 @@ venue:
         firstName: Brent
         lastName: D.
         gender: male
-        photo: https://is1.4sqi.net/userpix_thumbs/YZQTFXHFFD2SEF3F.jpg
+        photo: https://is1.4sqi.net/userpix_thumbs/KK2DDINKZ032EIY1.jpg
         tips:
           count: 32
         lists:
           groups:
           - type: created
-            count: 16
+            count: 18
             items: []
         homeCity: Laguna Beach, CA
         bio: Laguna Beach-Boston-London
         contact:
           twitter: brentdonenfeld
           facebook: '1042500407'
-      - id: '8612951'
-        firstName: Sofia
-        lastName: K.
-        gender: female
-        photo: https://is0.4sqi.net/userpix_thumbs/1WGLWOZAQWOYRFSQ.jpg
-        tips:
-          count: 1
-        homeCity: Moscow/London
-        bio: ''
-        contact:
-          facebook: '100001954644961'
-    summary: Julia, Max, Brent D & Sofia K
+    summary: Ni K, Julia, Max & 2 others
   like: false
+  menu:
+    type: Menu
+    label: Menu
+    anchor: See menu
+    url: https://foursquare.com/v/the-beauchamp/4b1bb709f964a520d4fc23e3/menu
+    mobileUrl: https://foursquare.com/v/4b1bb709f964a520d4fc23e3/device_menu
   beenHere:
     count: 1
     marked: false

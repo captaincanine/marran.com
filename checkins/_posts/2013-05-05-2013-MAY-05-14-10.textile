@@ -32,20 +32,22 @@ venue:
     primary: true
   verified: false
   stats:
-    checkinsCount: 24129
-    usersCount: 16000
-    tipCount: 96
+    checkinsCount: 25904
+    usersCount: 17077
+    tipCount: 100
   url: http://brassmonkeynyc.com
   likes:
-    count: 97
+    count: 111
     groups:
     - type: others
-      count: 97
+      count: 111
       items: []
-    summary: 97 likes
+    summary: 111 likes
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/brass-monkey/4101a680f964a5205a0b1fe3/menu
     mobileUrl: https://foursquare.com/v/4101a680f964a5205a0b1fe3/device_menu
   beenHere:

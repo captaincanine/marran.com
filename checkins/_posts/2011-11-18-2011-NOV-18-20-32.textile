@@ -33,27 +33,30 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 19019
-    usersCount: 14151
-    tipCount: 237
+    checkinsCount: 19654
+    usersCount: 14559
+    tipCount: 250
   url: http://www.dbgb.com
   likes:
-    count: 79
+    count: 93
     groups:
     - type: others
-      count: 79
+      count: 93
       items: []
-    summary: 79 likes
+    summary: 93 likes
   like: false
   reservations:
     url: http://www.opentable.com/single.aspx?rid=30892&ref=9601
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/dbgb-kitchen--bar/4a1aefc6f964a520a77a1fe3/menu
     mobileUrl: https://foursquare.com/v/4a1aefc6f964a520a77a1fe3/device_menu
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

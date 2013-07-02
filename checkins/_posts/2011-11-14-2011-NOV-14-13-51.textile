@@ -13,7 +13,7 @@ venue:
     twitter: momomilkbar
   location:
     address: 251 E 13th St
-    crossStreet: at 2nd Ave.
+    crossStreet: at 2nd Ave
     lat: 40.73179547061488
     lng: -73.98567259311676
     postalCode: '10003'
@@ -33,21 +33,22 @@ venue:
     primary: true
   verified: true
   stats:
-    checkinsCount: 21597
-    usersCount: 13182
-    tipCount: 345
+    checkinsCount: 23025
+    usersCount: 14162
+    tipCount: 362
   url: http://www.milkbarstore.com
   likes:
-    count: 144
+    count: 214
     groups:
     - type: others
-      count: 144
+      count: 214
       items: []
-    summary: 144 likes
+    summary: 214 likes
   like: false
   beenHere:
     count: 1
     marked: false
+  storeId: ''
 likes:
   count: 0
   groups: []

@@ -42,7 +42,9 @@ venue:
     groups: []
   like: false
   menu:
-    type: foodAndBeverage
+    type: Menu
+    label: Menu
+    anchor: See menu
     url: https://foursquare.com/v/klee-brasserie/45ac7eaff964a52062411fe3/menu
     mobileUrl: https://foursquare.com/v/45ac7eaff964a52062411fe3/device_menu
   beenHere:
